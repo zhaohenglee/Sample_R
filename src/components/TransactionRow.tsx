@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import { useRouter } from "next/navigation";
+import Link from "next/link";
 import { accountLabel, money, signedAmount } from "@/lib/format";
 
 type Cat = { id: number; name: string };
@@ -20,6 +21,8 @@ export type TxRow = {
   accountNickname: string | null;
   mask: string | null;
   notes: string | null;
+  ruleId: number | null;
+  ruleName: string | null;
 };
 
 // Normalizes a raw edit-panel field the same way the server does, so "did
@@ -56,6 +59,15 @@ export function TransactionRow({
   const shown = t.displayName ?? primaryLabel;
   const smallLabel = t.displayName ? primaryLabel : t.merchant && t.merchant !== t.name ? t.name : null;
   const categoryName = t.categoryId ? categories.find((c) => c.id === t.categoryId)?.name ?? "—" : "Uncategorized";
+
+  // "Create rule from this transaction": prefill with the merchant name
+  // when there is one (a rule on `name` alone would miss every other
+  // transaction from the same merchant with a differently formatted raw
+  // name), falling back to the raw name otherwise.
+  const ruleField = t.merchant ? "merchant_name" : "name";
+  const rulePrefillHref = `/rules?prefill=${encodeURIComponent(t.merchant ?? t.name)}&field=${ruleField}${
+    t.categoryId != null ? `&categoryId=${t.categoryId}` : ""
+  }`;
 
   function openEditor() {
     setDisplayName(t.displayName ?? "");
@@ -122,6 +134,11 @@ export function TransactionRow({
             <div>
               {shown}
               {t.pending && <span className="ml-1 text-xs text-amber-600">pending</span>}
+              {t.ruleId != null && t.ruleName && (
+                <span className="ml-1 rounded bg-blue-50 px-1.5 py-0.5 text-[10px] text-blue-700" title="Set by rule">
+                  {t.ruleName}
+                </span>
+              )}
             </div>
           </button>
           {smallLabel && <div className="text-xs text-gray-400">{smallLabel}</div>}
@@ -181,6 +198,9 @@ export function TransactionRow({
               <button type="button" onClick={() => setEditing(false)} className="px-2 py-1 text-gray-500">
                 Cancel
               </button>
+              <Link href={rulePrefillHref} className="text-xs text-blue-600 hover:underline">
+                Create rule from this transaction
+              </Link>
               {error && <span className="text-xs text-red-600">{error}</span>}
             </div>
           </td>

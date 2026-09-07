@@ -3,6 +3,7 @@ import type { Transaction, RemovedTransaction, AccountBase } from "plaid";
 import { db, schema } from "@/db";
 import { decrypt } from "./crypto";
 import { plaid } from "./plaid";
+import { applyRulesToTransactions } from "./rules";
 
 const { items, accounts, transactions, categories, syncLog } = schema;
 
@@ -87,6 +88,17 @@ export async function upsertTransactions(list: Transaction[]) {
   const categoryRows = await db.select({ id: categories.id, plaidPrimary: categories.plaidPrimary }).from(categories);
   const categoryMap = new Map(categoryRows.filter((c) => c.plaidPrimary).map((c) => [c.plaidPrimary!, c.id]));
 
+  // Snapshot which of these plaid_transaction_ids already have a row before
+  // the upsert loop runs, so afterwards we can tell which ones the loop
+  // actually inserted (as opposed to merely updated). Rules only ever run
+  // against genuinely new rows -- never against modified ones.
+  const plaidIds = list.map((t) => t.transaction_id);
+  const existingRows = await db
+    .select({ plaidTransactionId: transactions.plaidTransactionId })
+    .from(transactions)
+    .where(inArray(transactions.plaidTransactionId, plaidIds));
+  const existedBefore = new Set(existingRows.map((r) => r.plaidTransactionId));
+
   for (const t of list) {
     const accountId = accountMap.get(t.account_id);
     if (!accountId) continue;
@@ -138,11 +150,29 @@ export async function upsertTransactions(list: Transaction[]) {
       target: transactions.plaidTransactionId,
       // Never overwrite category, notes, or display_name: those are user
       // owned once set (display_name is deliberately absent from `base`).
+      // A rule-assigned category is owned the same way: once rule_id is set
+      // on a row, a later modified-sync (which never re-runs rules -- see
+      // applyRulesToTransactions below) must not silently fall back to the
+      // Plaid default and erase it. rule_id itself is intentionally absent
+      // from `set`/`base`, so it is left untouched by this update either way.
       set: {
         ...base,
-        categoryId: sql`CASE WHEN ${transactions.userEdited} THEN ${transactions.categoryId} ELSE ${primary ? categoryMap.get(primary) ?? null : null} END`,
+        categoryId: sql`CASE WHEN ${transactions.userEdited} OR ${transactions.ruleId} IS NOT NULL THEN ${transactions.categoryId} ELSE ${primary ? categoryMap.get(primary) ?? null : null} END`,
       },
     });
+  }
+
+  // Run category rules once, only against rows this call actually inserted
+  // (never against rows it merely updated). A row inheriting a user edit
+  // from a pending predecessor is user_edited=true and so is skipped by
+  // applyRulesToTransactions automatically (includeEdited defaults to off).
+  const newPlaidIds = list.map((t) => t.transaction_id).filter((id) => !existedBefore.has(id));
+  if (newPlaidIds.length > 0) {
+    const newRows = await db
+      .select({ id: transactions.id })
+      .from(transactions)
+      .where(inArray(transactions.plaidTransactionId, newPlaidIds));
+    if (newRows.length > 0) await applyRulesToTransactions(newRows.map((r) => r.id), {});
   }
 }
 

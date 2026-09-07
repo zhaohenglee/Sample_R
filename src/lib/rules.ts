@@ -1,8 +1,8 @@
-import { eq } from "drizzle-orm";
+import { eq, inArray } from "drizzle-orm";
 import { db, schema } from "@/db";
 import { ValidationError, assertCleanString } from "./categories";
 
-const { categoryRules, categories, accounts } = schema;
+const { categoryRules, categories, accounts, transactions } = schema;
 
 export type Rule = typeof categoryRules.$inferSelect;
 
@@ -811,4 +811,161 @@ export async function deleteRule(id: number): Promise<Rule | null> {
     await tx.delete(categoryRules).where(eq(categoryRules.id, id));
     return row;
   });
+}
+
+// --- Applying rules to transactions --------------------------------------
+
+const APPLY_BATCH_SIZE = 500;
+
+export type ApplyRulesOptions = {
+  // Also run rules against rows the user has manually edited (user_edited).
+  // Off by default: rules must never silently overwrite a manual edit.
+  includeEdited?: boolean;
+  // Restrict to a single rule (used by the per-rule "apply this rule"
+  // action). A disabled rule never applies, even when named explicitly.
+  ruleId?: number;
+  // Compute matched/changed counts without writing anything.
+  dryRun?: boolean;
+};
+
+export type ApplyRulesResult = { matched: number; changed: number };
+
+// Loads the rule set a call to applyRulesToTransactions should test against,
+// in the same priority order matchRule callers expect (lowest priority
+// number first, then id, matching listRules). When `ruleId` is given, only
+// that single rule is considered -- and only if it is enabled, since a
+// disabled rule must never apply even when targeted directly.
+async function loadRulesForApply(ruleId?: number): Promise<Rule[]> {
+  if (ruleId !== undefined) {
+    const [rule] = await db.select().from(categoryRules).where(eq(categoryRules.id, ruleId));
+    if (!rule || !rule.enabled) return [];
+    return [rule];
+  }
+  return db
+    .select()
+    .from(categoryRules)
+    .where(eq(categoryRules.enabled, true))
+    .orderBy(categoryRules.priority, categoryRules.id);
+}
+
+const APPLY_ROW_COLUMNS = {
+  id: transactions.id,
+  name: transactions.name,
+  merchantName: transactions.merchantName,
+  amount: transactions.amount,
+  accountId: transactions.accountId,
+  categoryId: transactions.categoryId,
+  displayName: transactions.displayName,
+  ruleId: transactions.ruleId,
+  userEdited: transactions.userEdited,
+  isRemoved: transactions.isRemoved,
+} as const;
+
+type ApplyRow = {
+  id: number;
+  name: string;
+  merchantName: string | null;
+  amount: string;
+  accountId: number;
+  categoryId: number | null;
+  displayName: string | null;
+  ruleId: number | null;
+  userEdited: boolean;
+  isRemoved: boolean;
+};
+
+type RowOutcome = { matched: true; changed: boolean; categoryId: number; displayName: string | null; ruleId: number } | { matched: false };
+
+// Pure decision for one already-loaded row: does a rule match it, and if so
+// does applying it actually change anything. Shared by the dry-run and
+// real-write paths so they can never disagree about what counts as matched
+// or changed.
+function evaluateRow(row: ApplyRow, rules: Rule[], includeEdited: boolean): RowOutcome {
+  if (row.isRemoved) return { matched: false };
+  if (row.userEdited && !includeEdited) return { matched: false };
+
+  const candidate: MatchableTx = {
+    name: row.name,
+    merchantName: row.merchantName,
+    amount: Number(row.amount),
+    accountId: row.accountId,
+  };
+  const rule = rules.find((r) => matchRule(r, candidate));
+  if (!rule) return { matched: false };
+
+  const categoryId = rule.categoryId;
+  const displayName = rule.setDisplayName != null ? rule.setDisplayName : row.displayName;
+  const ruleId = rule.id;
+  const changed = categoryId !== row.categoryId || displayName !== row.displayName || ruleId !== row.ruleId;
+  return { matched: true, changed, categoryId, displayName, ruleId };
+}
+
+// Applies the first matching rule (by priority) to each of `txIds`. Removed
+// rows are always skipped; user_edited rows are skipped unless
+// `includeEdited` is set, since a rule is not a user edit and must never
+// clobber one silently. Sets category_id, rule_id, and (only when the rule
+// specifies one) display_name -- never user_edited. Processes ids in
+// batches of `APPLY_BATCH_SIZE` so a large backfill never loads or locks
+// more than one batch worth of rows at a time.
+//
+// Each non-dry-run batch reads and writes inside a single db.transaction,
+// locking the batch's rows with `.for("update")` before evaluating them:
+// this closes the gap where a concurrent user edit lands between the read
+// and the write (which previously could see a stale, not-yet-edited row and
+// then blindly overwrite the edit once its UPDATE finally got the row lock).
+// Because the read is inside the same transaction as the write, a row that
+// becomes user_edited between an earlier read and this one is picked up
+// fresh -- and skipped -- rather than clobbered. Dry-run mode never writes,
+// so it uses a plain (unlocked) select; its counts still reflect exactly
+// what a real run would do to the rows as they stood when read.
+export async function applyRulesToTransactions(
+  txIds: number[],
+  opts: ApplyRulesOptions = {},
+): Promise<ApplyRulesResult> {
+  if (txIds.length === 0) return { matched: 0, changed: 0 };
+
+  const rules = await loadRulesForApply(opts.ruleId);
+  if (rules.length === 0) return { matched: 0, changed: 0 };
+
+  const includeEdited = !!opts.includeEdited;
+  let matched = 0;
+  let changed = 0;
+
+  for (let i = 0; i < txIds.length; i += APPLY_BATCH_SIZE) {
+    const batchIds = txIds.slice(i, i + APPLY_BATCH_SIZE);
+
+    if (opts.dryRun) {
+      const rows: ApplyRow[] = await db.select(APPLY_ROW_COLUMNS).from(transactions).where(inArray(transactions.id, batchIds));
+      for (const row of rows) {
+        const outcome = evaluateRow(row, rules, includeEdited);
+        if (!outcome.matched) continue;
+        matched += 1;
+        if (outcome.changed) changed += 1;
+      }
+      continue;
+    }
+
+    await db.transaction(async (tx) => {
+      const now = new Date();
+      const rows: ApplyRow[] = await tx
+        .select(APPLY_ROW_COLUMNS)
+        .from(transactions)
+        .where(inArray(transactions.id, batchIds))
+        .for("update");
+
+      for (const row of rows) {
+        const outcome = evaluateRow(row, rules, includeEdited);
+        if (!outcome.matched) continue;
+        matched += 1;
+        if (!outcome.changed) continue;
+        changed += 1;
+        await tx
+          .update(transactions)
+          .set({ categoryId: outcome.categoryId, displayName: outcome.displayName, ruleId: outcome.ruleId, updatedAt: now })
+          .where(eq(transactions.id, row.id));
+      }
+    });
+  }
+
+  return { matched, changed };
 }

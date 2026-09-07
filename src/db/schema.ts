@@ -66,6 +66,7 @@ export const transactions = pgTable(
     plaidCategoryDetailed: text("plaid_category_detailed"),
     categoryId: integer("category_id").references(() => categories.id),
     notes: text("notes"),
+    ruleId: integer("rule_id").references(() => categoryRules.id, { onDelete: "set null" }),
     isPending: boolean("is_pending").notNull().default(false),
     isRemoved: boolean("is_removed").notNull().default(false),
     userEdited: boolean("user_edited").notNull().default(false),

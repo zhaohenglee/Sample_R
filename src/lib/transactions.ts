@@ -164,7 +164,13 @@ export async function updateTransaction(id: number, input: Partial<TransactionPa
 
     const set: Partial<typeof transactions.$inferInsert> = { userEdited: true, updatedAt: new Date() };
     if ("displayName" in input) set.displayName = input.displayName ?? null;
-    if ("categoryId" in input) set.categoryId = input.categoryId ?? null;
+    if ("categoryId" in input) {
+      set.categoryId = input.categoryId ?? null;
+      // A manual re-categorization overrides whatever a rule set: clear
+      // rule_id so the "set by rule" badge stops claiming credit for a
+      // category the user just chose themselves.
+      set.ruleId = null;
+    }
     if ("notes" in input) set.notes = input.notes ?? null;
 
     try {
@@ -180,6 +186,8 @@ export async function updateTransaction(id: number, input: Partial<TransactionPa
 // Sets category_id (and user_edited) on up to 500 transactions in one
 // statement, inside one transaction with the target category locked FOR
 // UPDATE for the duration. Returns the number of rows actually updated.
+// Also clears rule_id, same as updateTransaction: a manual bulk
+// re-categorization overrides whatever rule (if any) previously set it.
 export async function bulkCategorize(input: BulkCategorizeInput): Promise<number> {
   return db.transaction(async (tx) => {
     await assertCategoryExists(tx, input.categoryId);
@@ -187,7 +195,7 @@ export async function bulkCategorize(input: BulkCategorizeInput): Promise<number
     try {
       const rows = await tx
         .update(transactions)
-        .set({ categoryId: input.categoryId, userEdited: true, updatedAt: new Date() })
+        .set({ categoryId: input.categoryId, ruleId: null, userEdited: true, updatedAt: new Date() })
         .where(inArray(transactions.id, input.ids))
         .returning({ id: transactions.id });
       return rows.length;

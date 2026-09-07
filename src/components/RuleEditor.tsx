@@ -23,33 +23,47 @@ type Rule = {
   enabled: boolean;
 };
 
+// Prefill for a brand-new rule, e.g. from the transactions page's "Create
+// rule from this transaction" link. Only meaningful when `rule` is omitted.
+export type RulePrefill = {
+  field: RuleField;
+  match: RuleMatch;
+  pattern: string;
+  categoryId?: string;
+};
+
 // Single row: creates a rule when `rule` is omitted, otherwise edits or
 // deletes the given one. Mirrors CategoryEditor's shape.
 export function RuleEditor({
   rule,
   categoryOptions,
   accountOptions,
+  prefill,
 }: {
   rule?: Rule;
   categoryOptions: Option[];
   accountOptions: Option[];
+  prefill?: RulePrefill;
 }) {
   const router = useRouter();
   const isNew = !rule;
 
   const [name, setName] = useState(rule?.name ?? "");
-  const [field, setField] = useState<RuleField>((rule?.field as RuleField) ?? "name");
-  const [match, setMatch] = useState<RuleMatch>((rule?.match as RuleMatch) ?? "contains");
-  const [pattern, setPattern] = useState(rule?.pattern ?? "");
+  const [field, setField] = useState<RuleField>((rule?.field as RuleField) ?? prefill?.field ?? "name");
+  const [match, setMatch] = useState<RuleMatch>((rule?.match as RuleMatch) ?? prefill?.match ?? "contains");
+  const [pattern, setPattern] = useState(rule?.pattern ?? prefill?.pattern ?? "");
   const [amountMin, setAmountMin] = useState(rule?.amountMin ?? "");
   const [amountMax, setAmountMax] = useState(rule?.amountMax ?? "");
   const [accountId, setAccountId] = useState(rule?.accountId != null ? String(rule.accountId) : "");
-  const [categoryId, setCategoryId] = useState(rule?.categoryId != null ? String(rule.categoryId) : "");
+  const [categoryId, setCategoryId] = useState(
+    rule?.categoryId != null ? String(rule.categoryId) : prefill?.categoryId ?? "",
+  );
   const [setDisplayName, setSetDisplayName] = useState(rule?.setDisplayName ?? "");
   const [priority, setPriority] = useState(String(rule?.priority ?? 100));
   const [enabled, setEnabled] = useState(rule?.enabled ?? true);
   const [saving, setSaving] = useState(false);
   const [error, setError] = useState<string | null>(null);
+  const [applyResult, setApplyResult] = useState<{ matched: number; changed: number } | null>(null);
 
   function reset() {
     setName("");
@@ -98,6 +112,29 @@ export function RuleEditor({
         return;
       }
       if (isNew) reset();
+      router.refresh();
+    } finally {
+      setSaving(false);
+    }
+  }
+
+  async function applyThisRule() {
+    if (!rule) return;
+    setSaving(true);
+    setError(null);
+    setApplyResult(null);
+    try {
+      const res = await fetch("/api/rules/apply", {
+        method: "POST",
+        headers: { "content-type": "application/json" },
+        body: JSON.stringify({ ruleId: rule.id }),
+      });
+      const data = await res.json().catch(() => ({}));
+      if (!res.ok) {
+        setError(data.error ?? `Request failed (${res.status})`);
+        return;
+      }
+      setApplyResult(data);
       router.refresh();
     } finally {
       setSaving(false);
@@ -206,12 +243,27 @@ export function RuleEditor({
       {!isNew && (
         <button
           type="button"
+          onClick={applyThisRule}
+          disabled={saving}
+          className="rounded border px-2 py-1 text-gray-700 hover:bg-gray-50 disabled:opacity-50"
+        >
+          Apply this rule
+        </button>
+      )}
+      {!isNew && (
+        <button
+          type="button"
           onClick={remove}
           disabled={saving}
           className="rounded px-2 py-1 text-red-600 hover:bg-red-50 disabled:opacity-50"
         >
           Delete
         </button>
+      )}
+      {applyResult && (
+        <span className="text-xs text-green-700">
+          Changed {applyResult.changed} of {applyResult.matched} matched.
+        </span>
       )}
       {error && <span className="text-xs text-red-600">{error}</span>}
     </form>

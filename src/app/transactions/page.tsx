@@ -12,7 +12,7 @@ type Params = { q?: string; account?: string; category?: string; from?: string; 
 export default async function TransactionsPage({ searchParams }: { searchParams: Promise<Params> }) {
   await requireAuthPage();
   const p = await searchParams;
-  const { transactions, accounts, categories } = schema;
+  const { transactions, accounts, categories, categoryRules } = schema;
   const page = Math.max(1, Number(p.page ?? 1));
 
   const filters: SQL[] = [eq(transactions.isRemoved, false), eq(accounts.hidden, false)];
@@ -37,9 +37,11 @@ export default async function TransactionsPage({ searchParams }: { searchParams:
       displayName: transactions.displayName, notes: transactions.notes,
       amount: transactions.amount, pending: transactions.isPending, categoryId: transactions.categoryId,
       plaidCategory: transactions.plaidCategoryDetailed, account: accounts.name, accountNickname: accounts.nickname, mask: accounts.mask,
+      ruleId: transactions.ruleId, ruleName: categoryRules.name,
     })
     .from(transactions)
     .innerJoin(accounts, eq(transactions.accountId, accounts.id))
+    .leftJoin(categoryRules, eq(transactions.ruleId, categoryRules.id))
     .where(and(...filters))
     .orderBy(desc(transactions.date), desc(transactions.id))
     .limit(PAGE)
