@@ -1,15 +1,29 @@
 import { cookies } from "next/headers";
-import { createHmac, timingSafeEqual } from "node:crypto";
+import { timingSafeEqual } from "node:crypto";
 import { redirect } from "next/navigation";
+import { computeSessionToken, sha256Hex } from "./session-token";
 
 const COOKIE = "fin_session";
+const SESSION_SECRET_RE = /^[0-9a-f]{64}$/i;
 
-function secret(): string {
-  return process.env.TOKEN_ENCRYPTION_KEY ?? "dev";
+// Fails fast (with a clear message) the first time a session token is
+// needed, rather than silently falling back to a guessable secret.
+function sessionSecret(): string {
+  const value = process.env.SESSION_SECRET;
+  if (!value || !SESSION_SECRET_RE.test(value)) {
+    throw new Error(
+      "SESSION_SECRET must be set to 32 bytes hex (64 hex chars). Generate one with: openssl rand -hex 32",
+    );
+  }
+  return value;
 }
 
+// Stateless session token: HMAC(SESSION_SECRET, "session:v1:" + sha256(APP_PASSWORD)).
+// Rotates automatically whenever APP_PASSWORD changes, and can be
+// invalidated at any time by rotating SESSION_SECRET.
 export function sessionToken(): string {
-  return createHmac("sha256", secret()).update("session:" + process.env.APP_PASSWORD).digest("hex");
+  const passwordHash = sha256Hex(process.env.APP_PASSWORD ?? "");
+  return computeSessionToken(sessionSecret(), passwordHash);
 }
 
 export function checkPassword(candidate: string): boolean {
