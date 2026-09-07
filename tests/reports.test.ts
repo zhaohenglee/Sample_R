@@ -18,6 +18,12 @@ describe("dashboard report queries respect hidden accounts", () => {
 
     const [category] = await db.insert(schema.categories).values({ name: "Shopping" }).returning();
     categoryId = category.id;
+    const [nextMonthCategory] = await db.insert(schema.categories).values({ name: "Next Month Only" }).returning();
+    const [incomeCategory] = await db
+      .insert(schema.categories)
+      .values({ name: "Paycheck", plaidPrimary: "INCOME" })
+      .returning();
+    const [netNegativeCategory] = await db.insert(schema.categories).values({ name: "All Refunded" }).returning();
 
     const [item] = await db
       .insert(schema.items)
@@ -53,6 +59,37 @@ describe("dashboard report queries respect hidden accounts", () => {
         name: "Hidden Store",
         categoryId,
       },
+      // Pins the month upper bound: dated in October, must not leak into
+      // a September report.
+      {
+        accountId: visibleAccountId,
+        plaidTransactionId: "tx-report-next-month",
+        date: "2026-10-01",
+        amount: "40.00",
+        name: "October Purchase",
+        categoryId: nextMonthCategory.id,
+      },
+      // Pins the income-like carve-out: a positive (outflow-shaped) amount
+      // so only the plaidPrimary check, not the net > 0 having clause,
+      // could be excluding it.
+      {
+        accountId: visibleAccountId,
+        plaidTransactionId: "tx-report-income",
+        date: "2026-09-10",
+        amount: "50.00",
+        name: "Side Income",
+        categoryId: incomeCategory.id,
+      },
+      // Pins the having clause: a category whose only transaction is a
+      // refund, so its net for the month is negative.
+      {
+        accountId: visibleAccountId,
+        plaidTransactionId: "tx-report-net-negative",
+        date: "2026-09-11",
+        amount: "-10.00",
+        name: "Refund",
+        categoryId: netNegativeCategory.id,
+      },
     ]);
   });
 
@@ -63,9 +100,22 @@ describe("dashboard report queries respect hidden accounts", () => {
     expect(parseFloat(shopping!.total)).toBe(20);
   });
 
+  it("spendByCategory excludes next-month transactions, income-like categories, and net <= 0 categories", async () => {
+    const rows = await spendByCategory(MONTH_ISO);
+    expect(rows.some((r) => r.name === "Next Month Only")).toBe(false);
+    expect(rows.some((r) => r.name === "Paycheck")).toBe(false);
+    expect(rows.some((r) => r.name === "All Refunded")).toBe(false);
+    // Shopping (this month, visible account, net positive) is unaffected.
+    expect(rows.some((r) => r.name === "Shopping")).toBe(true);
+  });
+
   it("monthFlow excludes hidden-account amounts", async () => {
+    // Gross, not per-category: includes Shopping (20) and the Side Income
+    // fixture transaction (50, positive/outflow-shaped) but not the hidden
+    // 500, the October transaction, or the -10 refund (that's inflow).
     const flow = await monthFlow(MONTH_ISO);
-    expect(parseFloat(flow.out)).toBe(20);
+    expect(parseFloat(flow.out)).toBe(70);
+    expect(parseFloat(flow.inflow)).toBe(10);
   });
 
   it("recentTransactions excludes hidden-account rows", async () => {

@@ -2,7 +2,7 @@ import { eq } from "drizzle-orm";
 import { requireAuthPage } from "@/lib/auth";
 import { db, schema } from "@/db";
 import { accountLabel, money, signedAmount } from "@/lib/format";
-import { monthFlow, recentTransactions, spendByCategory as spendByCategoryReport } from "@/lib/reports";
+import { currentMonthIso, monthFlow, recentTransactions, spendByCategory as spendByCategoryReport } from "@/lib/reports";
 import { LinkButton } from "@/components/LinkButton";
 import { SyncButton } from "@/components/SyncButton";
 
@@ -15,8 +15,7 @@ export default async function Dashboard() {
   const itemRows = await db.select().from(items).orderBy(items.id);
   const accountRows = await db.select().from(accounts).where(eq(accounts.hidden, false)).orderBy(accounts.itemId, accounts.name);
 
-  const monthStart = new Date(); monthStart.setDate(1);
-  const monthIso = monthStart.toISOString().slice(0, 10);
+  const monthIso = currentMonthIso();
 
   const spendByCategory = await spendByCategoryReport(monthIso);
   const flow = await monthFlow(monthIso);
