@@ -70,6 +70,20 @@ export class ValidationError extends Error {
   }
 }
 
+// Rejects a string containing a NUL byte (Postgres text columns can't store
+// one -- passing it through gives an opaque 22P02/22021 error) and enforces
+// a length range. Callers do their own trimming beforehand; this just
+// gate-checks the result. Shared by any validator that accepts free text.
+export function assertCleanString(value: string, field: string, min: number, max: number): string {
+  if (value.includes("\u0000")) {
+    throw new ValidationError(`${field} must not contain a NUL byte.`);
+  }
+  if (value.length < min || value.length > max) {
+    throw new ValidationError(`${field} must be between ${min} and ${max} characters.`);
+  }
+  return value;
+}
+
 const ALLOWED_FIELDS = new Set(["name", "parentId", "plaidPrimary"]);
 const MAX_NAME_LEN = 60;
 const MAX_PLAID_PRIMARY_LEN = 64;

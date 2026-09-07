@@ -90,6 +90,28 @@ export const budgets = pgTable(
   (t) => [uniqueIndex("budgets_category_month_idx").on(t.categoryId, t.month)],
 );
 
+export const categoryRules = pgTable(
+  "category_rules",
+  {
+    id: serial("id").primaryKey(),
+    name: text("name").notNull(),
+    field: text("field").notNull(), // name | merchant_name | any
+    match: text("match").notNull(), // contains | starts_with | regex
+    pattern: text("pattern").notNull(),
+    amountMin: numeric("amount_min", { precision: 14, scale: 2 }),
+    amountMax: numeric("amount_max", { precision: 14, scale: 2 }),
+    accountId: integer("account_id").references(() => accounts.id, { onDelete: "set null" }),
+    categoryId: integer("category_id").notNull().references(() => categories.id, { onDelete: "cascade" }),
+    setDisplayName: text("set_display_name"),
+    priority: integer("priority").notNull().default(100),
+    enabled: boolean("enabled").notNull().default(true),
+    createdAt: timestamp("created_at", { withTimezone: true }).notNull().defaultNow(),
+  },
+  (t) => [
+    index("category_rules_priority_idx").on(t.priority),
+  ],
+);
+
 export const syncLog = pgTable("sync_log", {
   id: serial("id").primaryKey(),
   itemId: integer("item_id").references(() => items.id, { onDelete: "cascade" }),

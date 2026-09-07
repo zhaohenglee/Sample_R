@@ -68,7 +68,7 @@ export function CategoryEditor({
   async function remove() {
     if (!category) return;
     const ok = window.confirm(
-      `Delete "${category.name}"? Transactions in this category will become uncategorized, and any subcategories will move to top level.`,
+      `Delete "${category.name}"? Transactions in this category will become uncategorized, any subcategories will move to top level, and any rules pointing at this category will be deleted too.`,
     );
     if (!ok) return;
     setSaving(true);
