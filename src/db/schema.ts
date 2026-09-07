@@ -29,6 +29,8 @@ export const accounts = pgTable("accounts", {
   availableBalance: numeric("available_balance", { precision: 14, scale: 2 }),
   currency: text("currency").default("USD"),
   hidden: boolean("hidden").notNull().default(false),
+  nickname: text("nickname"),
+  excludeFromTotals: boolean("exclude_from_totals").notNull().default(false),
   updatedAt: timestamp("updated_at", { withTimezone: true }).notNull().defaultNow(),
 });
 

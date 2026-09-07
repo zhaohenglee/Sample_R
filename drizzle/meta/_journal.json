@@ -22,6 +22,13 @@
       "when": 1788748299204,
       "tag": "0002_tearful_sunspot",
       "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1788750773358,
+      "tag": "0003_mature_network",
+      "breakpoints": true
     }
   ]
 }

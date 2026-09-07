@@ -1,6 +1,7 @@
 import { and, desc, eq, gte, ilike, lte, or, sql, type SQL } from "drizzle-orm";
 import { requireAuthPage } from "@/lib/auth";
 import { db, schema } from "@/db";
+import { accountLabel } from "@/lib/format";
 import { TransactionsTable } from "@/components/TransactionsTable";
 
 export const dynamic = "force-dynamic";
@@ -14,7 +15,7 @@ export default async function TransactionsPage({ searchParams }: { searchParams:
   const { transactions, accounts, categories } = schema;
   const page = Math.max(1, Number(p.page ?? 1));
 
-  const filters: SQL[] = [eq(transactions.isRemoved, false)];
+  const filters: SQL[] = [eq(transactions.isRemoved, false), eq(accounts.hidden, false)];
   if (p.q) {
     filters.push(
       or(
@@ -35,7 +36,7 @@ export default async function TransactionsPage({ searchParams }: { searchParams:
       id: transactions.id, date: transactions.date, name: transactions.name, merchant: transactions.merchantName,
       displayName: transactions.displayName, notes: transactions.notes,
       amount: transactions.amount, pending: transactions.isPending, categoryId: transactions.categoryId,
-      plaidCategory: transactions.plaidCategoryDetailed, account: accounts.name, mask: accounts.mask,
+      plaidCategory: transactions.plaidCategoryDetailed, account: accounts.name, accountNickname: accounts.nickname, mask: accounts.mask,
     })
     .from(transactions)
     .innerJoin(accounts, eq(transactions.accountId, accounts.id))
@@ -44,7 +45,11 @@ export default async function TransactionsPage({ searchParams }: { searchParams:
     .limit(PAGE)
     .offset((page - 1) * PAGE);
 
-  const accountRows = await db.select({ id: accounts.id, name: accounts.name, mask: accounts.mask }).from(accounts).orderBy(accounts.name);
+  const accountRows = await db
+    .select({ id: accounts.id, name: accounts.name, nickname: accounts.nickname, mask: accounts.mask })
+    .from(accounts)
+    .where(eq(accounts.hidden, false))
+    .orderBy(accounts.name);
   const categoryRows = await db.select({ id: categories.id, name: categories.name }).from(categories).orderBy(categories.name);
 
   const qs = (over: Partial<Params>) => {
@@ -61,7 +66,7 @@ export default async function TransactionsPage({ searchParams }: { searchParams:
         <input name="q" defaultValue={p.q} placeholder="Search" className="rounded border px-2 py-1" />
         <select name="account" defaultValue={p.account ?? ""} className="rounded border px-2 py-1">
           <option value="">All accounts</option>
-          {accountRows.map((a) => <option key={a.id} value={a.id}>{a.name} {a.mask ? `••${a.mask}` : ""}</option>)}
+          {accountRows.map((a) => <option key={a.id} value={a.id}>{accountLabel(a)} {a.mask ? `••${a.mask}` : ""}</option>)}
         </select>
         <select name="category" defaultValue={p.category ?? ""} className="rounded border px-2 py-1">
           <option value="">All categories</option>

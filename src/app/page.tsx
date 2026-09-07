@@ -1,7 +1,8 @@
-import { and, desc, eq, gte, sql } from "drizzle-orm";
+import { eq } from "drizzle-orm";
 import { requireAuthPage } from "@/lib/auth";
 import { db, schema } from "@/db";
-import { money, signedAmount } from "@/lib/format";
+import { accountLabel, money, signedAmount } from "@/lib/format";
+import { monthFlow, recentTransactions, spendByCategory as spendByCategoryReport } from "@/lib/reports";
 import { LinkButton } from "@/components/LinkButton";
 import { SyncButton } from "@/components/SyncButton";
 
@@ -9,7 +10,7 @@ export const dynamic = "force-dynamic";
 
 export default async function Dashboard() {
   await requireAuthPage();
-  const { items, accounts, transactions, categories } = schema;
+  const { items, accounts } = schema;
 
   const itemRows = await db.select().from(items).orderBy(items.id);
   const accountRows = await db.select().from(accounts).where(eq(accounts.hidden, false)).orderBy(accounts.itemId, accounts.name);
@@ -17,34 +18,16 @@ export default async function Dashboard() {
   const monthStart = new Date(); monthStart.setDate(1);
   const monthIso = monthStart.toISOString().slice(0, 10);
 
-  const spendByCategory = await db
-    .select({ name: categories.name, total: sql<string>`sum(${transactions.amount})` })
-    .from(transactions)
-    .leftJoin(categories, eq(transactions.categoryId, categories.id))
-    .where(and(gte(transactions.date, monthIso), eq(transactions.isRemoved, false), sql`${transactions.amount} > 0`))
-    .groupBy(categories.name)
-    .orderBy(desc(sql`sum(${transactions.amount})`));
+  const spendByCategory = await spendByCategoryReport(monthIso);
+  const flow = await monthFlow(monthIso);
+  const recent = await recentTransactions(10);
 
-  const [flow] = await db
-    .select({
-      out: sql<string>`coalesce(sum(case when ${transactions.amount} > 0 then ${transactions.amount} end), 0)`,
-      inflow: sql<string>`coalesce(sum(case when ${transactions.amount} < 0 then -${transactions.amount} end), 0)`,
-    })
-    .from(transactions)
-    .where(and(gte(transactions.date, monthIso), eq(transactions.isRemoved, false)));
-
-  const recent = await db
-    .select({ id: transactions.id, date: transactions.date, name: transactions.name, merchant: transactions.merchantName, amount: transactions.amount, pending: transactions.isPending, account: accounts.name })
-    .from(transactions)
-    .innerJoin(accounts, eq(transactions.accountId, accounts.id))
-    .where(eq(transactions.isRemoved, false))
-    .orderBy(desc(transactions.date), desc(transactions.id))
-    .limit(10);
-
-  const netWorth = accountRows.reduce((s, a) => {
-    const bal = parseFloat(a.currentBalance ?? "0");
-    return s + (a.type === "credit" || a.type === "loan" ? -bal : bal);
-  }, 0);
+  const netWorth = accountRows
+    .filter((a) => !a.excludeFromTotals)
+    .reduce((s, a) => {
+      const bal = parseFloat(a.currentBalance ?? "0");
+      return s + (a.type === "credit" || a.type === "loan" ? -bal : bal);
+    }, 0);
 
   return (
     <div className="space-y-8">
@@ -58,8 +41,8 @@ export default async function Dashboard() {
 
       <section className="grid grid-cols-1 gap-4 sm:grid-cols-3">
         <Stat label="Net balance" value={money(netWorth)} />
-        <Stat label="Spent this month" value={money(flow?.out ?? 0)} />
-        <Stat label="Income this month" value={money(flow?.inflow ?? 0)} />
+        <Stat label="Spent this month" value={money(flow.out)} />
+        <Stat label="Income this month" value={money(flow.inflow)} />
       </section>
 
       <section>
@@ -86,7 +69,7 @@ export default async function Dashboard() {
                 <tbody>
                   {accountRows.filter((a) => a.itemId === item.id).map((a) => (
                     <tr key={a.id} className="border-b last:border-0">
-                      <td className="px-4 py-2">{a.name} {a.mask && <span className="text-gray-400">••{a.mask}</span>}</td>
+                      <td className="px-4 py-2">{accountLabel(a)} {a.mask && <span className="text-gray-400">••{a.mask}</span>}</td>
                       <td className="px-4 py-2 text-gray-500">{a.subtype ?? a.type}</td>
                       <td className="px-4 py-2 text-right tabular-nums">{money(a.currentBalance, a.currency ?? "USD")}</td>
                     </tr>

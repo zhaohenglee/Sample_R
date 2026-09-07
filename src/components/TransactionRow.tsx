@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import { useRouter } from "next/navigation";
-import { money, signedAmount } from "@/lib/format";
+import { accountLabel, money, signedAmount } from "@/lib/format";
 
 type Cat = { id: number; name: string };
 
@@ -17,6 +17,7 @@ export type TxRow = {
   categoryId: number | null;
   plaidCategory: string | null;
   account: string;
+  accountNickname: string | null;
   mask: string | null;
   notes: string | null;
 };
@@ -126,7 +127,7 @@ export function TransactionRow({
           {smallLabel && <div className="text-xs text-gray-400">{smallLabel}</div>}
         </td>
         <td className="whitespace-nowrap px-3 py-2 text-gray-500">
-          {t.account}
+          {accountLabel({ name: t.account, nickname: t.accountNickname })}
           {t.mask ? ` ••${t.mask}` : ""}
         </td>
         <td className="px-3 py-2">

@@ -13,6 +13,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             <Link href="/" className="font-semibold">Finance</Link>
             <Link href="/transactions" className="text-gray-600 hover:text-gray-900">Transactions</Link>
             <Link href="/categories" className="text-gray-600 hover:text-gray-900">Categories</Link>
+            <Link href="/accounts" className="text-gray-600 hover:text-gray-900">Accounts</Link>
           </nav>
         </header>
         <main className="mx-auto max-w-6xl px-4 py-6">{children}</main>
