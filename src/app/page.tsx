@@ -1,25 +1,92 @@
+import Link from "next/link";
 import { eq } from "drizzle-orm";
 import { requireAuthPage } from "@/lib/auth";
 import { db, schema } from "@/db";
+import { ValidationError } from "@/lib/categories";
+import { validateMonth } from "@/lib/budgets";
 import { accountLabel, money, signedAmount } from "@/lib/format";
-import { currentMonthIso, monthFlow, recentTransactions, spendByCategory as spendByCategoryReport } from "@/lib/reports";
+import {
+  cashFlowByMonth,
+  currentMonthIso,
+  monthFlow,
+  netBalanceTrend,
+  recentTransactions,
+  spendByCategory as spendByCategoryReport,
+} from "@/lib/reports";
 import { LinkButton } from "@/components/LinkButton";
 import { SyncButton } from "@/components/SyncButton";
+import { CashFlowBars } from "@/components/charts/CashFlowBars";
+import { CategoryBars } from "@/components/charts/CategoryBars";
+import { BalanceLine } from "@/components/charts/BalanceLine";
 
 export const dynamic = "force-dynamic";
 
-export default async function Dashboard() {
+// Matches validateMonth's bounded year range (src/lib/budgets.ts): the
+// month nav must not offer a Prev/Next that validateMonth would reject.
+const MIN_MONTH_STR = "2000-01";
+const MAX_MONTH_STR = "2099-12";
+
+type Params = { month?: string | string[] };
+
+// Next hands repeated query keys through as an array rather than a string.
+function first(v: string | string[] | undefined): string | undefined {
+  return Array.isArray(v) ? v[0] : v;
+}
+
+function currentMonthStr(): string {
+  return currentMonthIso().slice(0, 7);
+}
+
+// Plain integer arithmetic on year/month -- no Date object, so there is no
+// local-timezone or UTC-conversion drift near month/year boundaries. Same
+// shape as the budgets page's shiftMonth.
+function shiftMonth(monthStr: string, delta: number): string {
+  const [yearStr, monthStr2] = monthStr.split("-");
+  let year = Number(yearStr);
+  let month = Number(monthStr2) + delta;
+  while (month < 1) {
+    month += 12;
+    year -= 1;
+  }
+  while (month > 12) {
+    month -= 12;
+    year += 1;
+  }
+  return `${year}-${String(month).padStart(2, "0")}`;
+}
+
+export default async function Dashboard({ searchParams }: { searchParams: Promise<Params> }) {
   await requireAuthPage();
   const { items, accounts } = schema;
+
+  const rawSp = await searchParams;
+  const rawMonth = first(rawSp.month);
+
+  // Default to the current month; an invalid ?month= falls back to the
+  // current month too, rather than 400ing the page (same rule as /budgets).
+  let monthStr = rawMonth ?? currentMonthStr();
+  let monthIso: string;
+  try {
+    monthIso = validateMonth(monthStr);
+  } catch (e) {
+    if (!(e instanceof ValidationError)) throw e;
+    monthStr = currentMonthStr();
+    monthIso = validateMonth(monthStr);
+  }
+  const prevMonth = shiftMonth(monthStr, -1);
+  const nextMonth = shiftMonth(monthStr, 1);
+  const canGoPrev = prevMonth >= MIN_MONTH_STR;
+  const canGoNext = nextMonth <= MAX_MONTH_STR;
+  const isCurrentMonth = monthStr === currentMonthStr();
 
   const itemRows = await db.select().from(items).orderBy(items.id);
   const accountRows = await db.select().from(accounts).where(eq(accounts.hidden, false)).orderBy(accounts.itemId, accounts.name);
 
-  const monthIso = currentMonthIso();
-
   const spendByCategory = await spendByCategoryReport(monthIso);
   const flow = await monthFlow(monthIso);
   const recent = await recentTransactions(10);
+  const cashFlow = await cashFlowByMonth(monthIso, 12);
+  const balanceTrend = await netBalanceTrend(90);
 
   const netWorth = accountRows
     .filter((a) => !a.excludeFromTotals)
@@ -27,6 +94,13 @@ export default async function Dashboard() {
       const bal = parseFloat(a.currentBalance ?? "0");
       return s + (a.type === "credit" || a.type === "loan" ? -bal : bal);
     }, 0);
+
+  const categoryChartData = spendByCategory.map((r) => ({
+    categoryId: r.categoryId,
+    name: r.name ?? "Uncategorized",
+    amount: parseFloat(r.total),
+  }));
+  const periodLabel = isCurrentMonth ? "this month" : `in ${monthStr}`;
 
   return (
     <div className="space-y-8">
@@ -38,10 +112,30 @@ export default async function Dashboard() {
         </div>
       </div>
 
+      <div className="flex items-center justify-between">
+        <div className="flex items-center gap-3 text-sm">
+          {canGoPrev && (
+            <Link href={`/?month=${prevMonth}`} className="text-gray-600 hover:text-gray-900">
+              ← Prev
+            </Link>
+          )}
+          <span className="font-medium">{monthStr}</span>
+          {canGoNext && (
+            <Link href={`/?month=${nextMonth}`} className="text-gray-600 hover:text-gray-900">
+              Next →
+            </Link>
+          )}
+        </div>
+      </div>
+
       <section className="grid grid-cols-1 gap-4 sm:grid-cols-3">
         <Stat label="Net balance" value={money(netWorth)} />
-        <Stat label="Spent this month" value={money(flow.out)} />
-        <Stat label="Income this month" value={money(flow.inflow)} />
+        <Stat
+          label={isCurrentMonth ? "Spent this month" : `Spent in ${monthStr}`}
+          value={money(flow.out)}
+          note="Gross outflow, excluding transfers between your own accounts. The category list nets refunds."
+        />
+        <Stat label={isCurrentMonth ? "Income this month" : `Income in ${monthStr}`} value={money(flow.inflow)} />
       </section>
 
       <section>
@@ -80,20 +174,26 @@ export default async function Dashboard() {
         </div>
       </section>
 
+      <section className="grid grid-cols-1 gap-6 lg:grid-cols-2">
+        <div className="rounded-lg border bg-white p-4">
+          <h2 className="mb-2 font-medium">Cash flow (12 months to {monthStr})</h2>
+          <CashFlowBars data={cashFlow} />
+        </div>
+        <div className="rounded-lg border bg-white p-4">
+          <h2 className="mb-2 font-medium">Net balance trend (last 90 days)</h2>
+          <BalanceLine data={balanceTrend} />
+          {balanceTrend.length < 2 && (
+            <p className="mt-2 text-xs text-gray-500">Balance history builds up as syncs run.</p>
+          )}
+        </div>
+      </section>
+
       <section className="grid grid-cols-1 gap-6 md:grid-cols-2">
         <div>
-          <h2 className="mb-2 font-medium">Spend by category (this month)</h2>
-          <table className="w-full rounded-lg border bg-white text-sm">
-            <tbody>
-              {spendByCategory.length === 0 && <tr><td className="px-4 py-2 text-gray-500">No spending yet.</td></tr>}
-              {spendByCategory.map((r) => (
-                <tr key={r.name ?? "none"} className="border-b last:border-0">
-                  <td className="px-4 py-2">{r.name ?? "Uncategorized"}</td>
-                  <td className="px-4 py-2 text-right tabular-nums">{money(r.total)}</td>
-                </tr>
-              ))}
-            </tbody>
-          </table>
+          <h2 className="mb-2 font-medium">Spend by category ({monthStr})</h2>
+          <div className="rounded-lg border bg-white p-4">
+            <CategoryBars data={categoryChartData} periodLabel={periodLabel} />
+          </div>
         </div>
         <div>
           <h2 className="mb-2 font-medium">Recent transactions</h2>
@@ -116,11 +216,12 @@ export default async function Dashboard() {
   );
 }
 
-function Stat({ label, value }: { label: string; value: string }) {
+function Stat({ label, value, note }: { label: string; value: string; note?: string }) {
   return (
     <div className="rounded-lg border bg-white p-4">
       <div className="text-xs uppercase tracking-wide text-gray-500">{label}</div>
       <div className="mt-1 text-2xl font-semibold tabular-nums">{value}</div>
+      {note && <div className="mt-1 text-xs text-gray-400">{note}</div>}
     </div>
   );
 }

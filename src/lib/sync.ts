@@ -4,8 +4,9 @@ import { db, schema } from "@/db";
 import { decrypt } from "./crypto";
 import { plaid } from "./plaid";
 import { applyRulesToTransactions } from "./rules";
+import { currentDateIso } from "./reports";
 
-const { items, accounts, transactions, categories, syncLog } = schema;
+const { items, accounts, transactions, categories, syncLog, balanceSnapshots } = schema;
 
 export type SyncResult = { itemId: number; added: number; modified: number; removed: number; error?: string };
 
@@ -38,6 +39,8 @@ export async function syncItem(itemId: number): Promise<SyncResult> {
       cursor = d.next_cursor;
       if (!d.has_more) break;
     }
+
+    await writeBalanceSnapshots(item.id);
 
     await db.update(items)
       .set({ cursor, status: "ok", lastError: null, lastSyncedAt: new Date() })
@@ -77,6 +80,32 @@ export async function upsertAccounts(itemId: number, list: AccountBase[]) {
         availableBalance: a.balances.available?.toString() ?? null,
         updatedAt: new Date(),
       },
+    });
+  }
+}
+
+// Writes one balance_snapshots row per account belonging to `itemId`, dated
+// today (local date), using each account's balances as currently stored
+// (already refreshed by upsertAccounts earlier in this sync pass). Upserts
+// on (account_id, date) so re-running a sync later the same day updates the
+// existing row instead of creating a duplicate.
+export async function writeBalanceSnapshots(itemId: number): Promise<void> {
+  const dateIso = currentDateIso();
+  const accountRows = await db
+    .select({ id: accounts.id, currentBalance: accounts.currentBalance, availableBalance: accounts.availableBalance })
+    .from(accounts)
+    .where(eq(accounts.itemId, itemId));
+  if (accountRows.length === 0) return;
+
+  for (const a of accountRows) {
+    await db.insert(balanceSnapshots).values({
+      accountId: a.id,
+      date: dateIso,
+      current: a.currentBalance,
+      available: a.availableBalance,
+    }).onConflictDoUpdate({
+      target: [balanceSnapshots.accountId, balanceSnapshots.date],
+      set: { current: a.currentBalance, available: a.availableBalance },
     });
   }
 }

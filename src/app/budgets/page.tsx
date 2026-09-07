@@ -7,6 +7,11 @@ import { BudgetTable } from "@/components/BudgetTable";
 
 export const dynamic = "force-dynamic";
 
+// Matches validateMonth's bounded year range (src/lib/budgets.ts): the
+// month nav must not offer a Prev/Next that validateMonth would reject.
+const MIN_MONTH_STR = "2000-01";
+const MAX_MONTH_STR = "2099-12";
+
 type Params = { month?: string | string[] };
 
 // Next hands repeated query keys through as an array rather than a string.
@@ -58,6 +63,8 @@ export default async function BudgetsPage({ searchParams }: { searchParams: Prom
   const report = await budgetReport(monthIso);
   const prevMonth = shiftMonth(monthStr, -1);
   const nextMonth = shiftMonth(monthStr, 1);
+  const canGoPrev = prevMonth >= MIN_MONTH_STR;
+  const canGoNext = nextMonth <= MAX_MONTH_STR;
 
   const expenseRows = report.rows.filter((r) => !r.isIncomeLike);
   const incomeRows = report.rows.filter((r) => r.isIncomeLike);
@@ -68,13 +75,17 @@ export default async function BudgetsPage({ searchParams }: { searchParams: Prom
       <div className="flex items-center justify-between">
         <h1 className="text-xl font-semibold">Budgets</h1>
         <div className="flex items-center gap-3 text-sm">
-          <Link href={`/budgets?month=${prevMonth}`} className="text-gray-600 hover:text-gray-900">
-            ← Prev
-          </Link>
+          {canGoPrev && (
+            <Link href={`/budgets?month=${prevMonth}`} className="text-gray-600 hover:text-gray-900">
+              ← Prev
+            </Link>
+          )}
           <span className="font-medium">{monthStr}</span>
-          <Link href={`/budgets?month=${nextMonth}`} className="text-gray-600 hover:text-gray-900">
-            Next →
-          </Link>
+          {canGoNext && (
+            <Link href={`/budgets?month=${nextMonth}`} className="text-gray-600 hover:text-gray-900">
+              Next →
+            </Link>
+          )}
         </div>
       </div>
 

@@ -24,6 +24,14 @@ describe("dashboard report queries respect hidden accounts", () => {
       .values({ name: "Paycheck", plaidPrimary: "INCOME" })
       .returning();
     const [netNegativeCategory] = await db.insert(schema.categories).values({ name: "All Refunded" }).returning();
+    const [transferOutCategory] = await db
+      .insert(schema.categories)
+      .values({ name: "Transfer Out", plaidPrimary: "TRANSFER_OUT" })
+      .returning();
+    const [transferInCategory] = await db
+      .insert(schema.categories)
+      .values({ name: "Transfer In", plaidPrimary: "TRANSFER_IN" })
+      .returning();
 
     const [item] = await db
       .insert(schema.items)
@@ -90,6 +98,24 @@ describe("dashboard report queries respect hidden accounts", () => {
         name: "Refund",
         categoryId: netNegativeCategory.id,
       },
+      // Pins monthFlow's own-transfer exclusion: a transfer pair whose
+      // amounts would otherwise shift flow.out/flow.inflow if counted.
+      {
+        accountId: visibleAccountId,
+        plaidTransactionId: "tx-report-transfer-out",
+        date: "2026-09-12",
+        amount: "300.00",
+        name: "To savings",
+        categoryId: transferOutCategory.id,
+      },
+      {
+        accountId: visibleAccountId,
+        plaidTransactionId: "tx-report-transfer-in",
+        date: "2026-09-12",
+        amount: "-300.00",
+        name: "From checking",
+        categoryId: transferInCategory.id,
+      },
     ]);
   });
 
@@ -109,10 +135,11 @@ describe("dashboard report queries respect hidden accounts", () => {
     expect(rows.some((r) => r.name === "Shopping")).toBe(true);
   });
 
-  it("monthFlow excludes hidden-account amounts", async () => {
+  it("monthFlow excludes hidden-account amounts and the user's own transfers", async () => {
     // Gross, not per-category: includes Shopping (20) and the Side Income
     // fixture transaction (50, positive/outflow-shaped) but not the hidden
-    // 500, the October transaction, or the -10 refund (that's inflow).
+    // 500, the October transaction, the -10 refund (that's inflow), or
+    // the 300/-300 transfer pair (excluded from both sides entirely).
     const flow = await monthFlow(MONTH_ISO);
     expect(parseFloat(flow.out)).toBe(70);
     expect(parseFloat(flow.inflow)).toBe(10);

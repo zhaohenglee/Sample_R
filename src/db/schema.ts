@@ -113,6 +113,18 @@ export const categoryRules = pgTable(
   ],
 );
 
+export const balanceSnapshots = pgTable(
+  "balance_snapshots",
+  {
+    id: serial("id").primaryKey(),
+    accountId: integer("account_id").notNull().references(() => accounts.id, { onDelete: "cascade" }),
+    date: date("date").notNull(),
+    current: numeric("current", { precision: 14, scale: 2 }),
+    available: numeric("available", { precision: 14, scale: 2 }),
+  },
+  (t) => [uniqueIndex("balance_snapshots_account_date_idx").on(t.accountId, t.date)],
+);
+
 export const syncLog = pgTable("sync_log", {
   id: serial("id").primaryKey(),
   itemId: integer("item_id").references(() => items.id, { onDelete: "cascade" }),
