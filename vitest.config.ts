@@ -13,6 +13,7 @@ export default defineConfig({
   },
   test: {
     environment: "node",
+    exclude: ["**/node_modules/**", ".claude/**", ".next/**"],
     globals: false,
     setupFiles: ["./tests/setup.ts"],
     // Tests share one Postgres database, so runs must be serialized.

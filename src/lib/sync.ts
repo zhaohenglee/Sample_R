@@ -54,8 +54,17 @@ export async function syncItem(itemId: number): Promise<SyncResult> {
 
     await writeBalanceSnapshots(item.id);
 
+    // A successful sync clears an error/login_required status, but must not
+    // clobber a status set by a webhook that still needs the user to act
+    // (pending_expiration, new_accounts_available, revoked) -- those persist
+    // until the user re-links, even though syncing itself keeps working.
+    const resetStatus = item.status === "login_required" || item.status === "error";
     await db.update(items)
-      .set({ cursor, status: "ok", lastError: null, lastSyncedAt: new Date() })
+      .set({
+        cursor,
+        lastSyncedAt: new Date(),
+        ...(resetStatus ? { status: "ok", lastError: null } : {}),
+      })
       .where(eq(items.id, item.id));
     await db.update(syncLog).set({ finishedAt: new Date(), added, modified, removed }).where(eq(syncLog.id, log.id));
     return { itemId: item.id, added, modified, removed };

@@ -4,7 +4,7 @@ import { requireAuthPage } from "@/lib/auth";
 import { db, schema } from "@/db";
 import { ValidationError } from "@/lib/categories";
 import { validateMonth } from "@/lib/budgets";
-import { accountLabel, money, signedAmount } from "@/lib/format";
+import { accountLabel, itemStatusInfo, money, signedAmount } from "@/lib/format";
 import {
   cashFlowByMonth,
   currentMonthIso,
@@ -145,7 +145,9 @@ export default async function Dashboard({ searchParams }: { searchParams: Promis
         <h2 className="mb-2 font-medium">Accounts</h2>
         {itemRows.length === 0 && <p className="text-sm text-gray-500">No banks linked yet. Click “Link a bank”.</p>}
         <div className="space-y-4">
-          {itemRows.map((item) => (
+          {itemRows.map((item) => {
+            const statusInfo = itemStatusInfo(item);
+            return (
             <div key={item.id} className="rounded-lg border bg-white">
               <div className="flex items-center justify-between border-b px-4 py-2 text-sm">
                 <div>
@@ -156,8 +158,8 @@ export default async function Dashboard({ searchParams }: { searchParams: Promis
                 </div>
                 {item.status !== "ok" && (
                   <div className="flex items-center gap-2 text-red-600">
-                    <span>{item.status === "login_required" ? "Needs re-login" : item.lastError ?? "Error"}</span>
-                    <LinkButton itemId={item.id} label="Fix" />
+                    <span>{statusInfo.label}</span>
+                    {statusInfo.needsFix && <LinkButton itemId={item.id} label="Fix" />}
                   </div>
                 )}
               </div>
@@ -173,7 +175,8 @@ export default async function Dashboard({ searchParams }: { searchParams: Promis
                 </tbody>
               </table>
             </div>
-          ))}
+            );
+          })}
         </div>
       </section>
 

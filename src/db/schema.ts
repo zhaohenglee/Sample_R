@@ -10,7 +10,7 @@ export const items = pgTable("items", {
   institutionName: text("institution_name"),
   accessTokenEnc: text("access_token_enc").notNull(),
   cursor: text("cursor"),
-  status: text("status").notNull().default("ok"), // ok | login_required | error
+  status: text("status").notNull().default("ok"), // ok | login_required | pending_expiration | new_accounts_available | revoked | error
   lastError: text("last_error"),
   lastSyncedAt: timestamp("last_synced_at", { withTimezone: true }),
   createdAt: timestamp("created_at", { withTimezone: true }).notNull().defaultNow(),

@@ -1,5 +1,6 @@
 import { requireAuthPage } from "@/lib/auth";
 import { db, schema } from "@/db";
+import { itemStatusInfo } from "@/lib/format";
 import { AccountRow } from "@/components/AccountRow";
 import { UnlinkButton } from "@/components/UnlinkButton";
 import { LinkButton } from "@/components/LinkButton";
@@ -28,6 +29,7 @@ export default async function AccountsPage() {
         {itemRows.map((item) => {
           const itemAccounts = accountRows.filter((a) => a.itemId === item.id);
           const institutionName = item.institutionName ?? "Institution";
+          const statusInfo = itemStatusInfo(item);
           return (
             <div key={item.id} className="rounded-lg border bg-white">
               <div className="flex items-center justify-between border-b px-4 py-3">
@@ -35,16 +37,14 @@ export default async function AccountsPage() {
                   <div className="font-medium">{institutionName}</div>
                   <div className="mt-0.5 text-gray-500">
                     {item.status !== "ok" ? (
-                      <span className="text-red-600">
-                        {item.status === "login_required" ? "Needs re-login" : item.lastError ?? "Error"}
-                      </span>
+                      <span className="text-red-600">{statusInfo.label}</span>
                     ) : (
                       <span>{item.lastSyncedAt ? `Last synced ${item.lastSyncedAt.toLocaleString()}` : "Not synced yet"}</span>
                     )}
                   </div>
                 </div>
                 <div className="flex items-center gap-2">
-                  {item.status !== "ok" && <LinkButton itemId={item.id} label="Fix" />}
+                  {statusInfo.needsFix && <LinkButton itemId={item.id} label="Fix" />}
                   <UnlinkButton itemId={item.id} institutionName={institutionName} />
                 </div>
               </div>
