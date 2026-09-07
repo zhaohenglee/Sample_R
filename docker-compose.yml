@@ -1,0 +1,38 @@
+services:
+  db:
+    image: postgres:16-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: finance
+      POSTGRES_PASSWORD: finance
+      POSTGRES_DB: finance
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    ports:
+      - "127.0.0.1:5432:5432"
+
+  app:
+    build: .
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      DATABASE_URL: postgres://finance:finance@db:5432/finance
+    depends_on:
+      - db
+    ports:
+      - "127.0.0.1:3000:3000"
+
+  # Calls /api/sync every 6 hours. Replace with a real cron if you prefer.
+  sync:
+    image: curlimages/curl:latest
+    restart: unless-stopped
+    env_file: .env
+    depends_on:
+      - app
+    command: >
+      sh -c 'while true; do sleep 21600;
+      curl -fsS -X POST -H "Authorization: Bearer $$SYNC_SECRET" http://app:3000/api/sync || true;
+      done'
+
+volumes:
+  pgdata:
