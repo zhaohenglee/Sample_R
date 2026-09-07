@@ -3,6 +3,7 @@
 Each task is one commit. Each task has a scope, files, and acceptance criteria. The builder implements against the criteria. The validator checks them. See `docs/BUILD-PROCESS.md` for the roles.
 
 Conventions for every task:
+- Tests need `.env.test` pointing at a database whose name ends in `_test` (copy `.env.test.example`). The suite refuses anything else.
 - `npm run typecheck`, `npm run build`, and `npm test` must pass.
 - Schema changes go in `src/db/schema.ts` followed by `npm run db:generate`. Commit the migration.
 - Server components read from the DB directly. Mutations go through `src/app/api/*` route handlers guarded by `requireAuthApi()`.

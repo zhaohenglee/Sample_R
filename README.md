@@ -13,6 +13,7 @@ Single user app that pulls transactions from your banks through Plaid and stores
    - `APP_PASSWORD`: whatever you want to log in with.
 2. Start Postgres: `docker compose up -d db`
 3. Install and migrate: `npm install && npm run db:migrate`
+   For tests: create a `finance_test` database, copy `.env.test.example` to `.env.test`, and run `DATABASE_URL=postgres://finance:finance@localhost:5432/finance_test npm run db:migrate` then `npm test`.
 4. Run: `npm run dev` and open http://localhost:3000
 
 In Sandbox, click **Link a bank**, pick any institution, and log in with `user_good` / `pass_good`.
