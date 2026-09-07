@@ -1,6 +1,7 @@
 import {
   pgTable, serial, text, integer, numeric, boolean, timestamp, date, uniqueIndex, index,
 } from "drizzle-orm/pg-core";
+import { sql } from "drizzle-orm";
 
 export const items = pgTable("items", {
   id: serial("id").primaryKey(),
@@ -31,12 +32,18 @@ export const accounts = pgTable("accounts", {
   updatedAt: timestamp("updated_at", { withTimezone: true }).notNull().defaultNow(),
 });
 
-export const categories = pgTable("categories", {
-  id: serial("id").primaryKey(),
-  name: text("name").notNull().unique(),
-  parentId: integer("parent_id"),
-  plaidPrimary: text("plaid_primary"), // default mapping from Plaid PFC primary
-});
+export const categories = pgTable(
+  "categories",
+  {
+    id: serial("id").primaryKey(),
+    name: text("name").notNull().unique(),
+    parentId: integer("parent_id"),
+    plaidPrimary: text("plaid_primary"), // default mapping from Plaid PFC primary
+  },
+  (t) => [
+    uniqueIndex("categories_plaid_primary_idx").on(t.plaidPrimary).where(sql`${t.plaidPrimary} is not null`),
+  ],
+);
 
 export const transactions = pgTable(
   "transactions",

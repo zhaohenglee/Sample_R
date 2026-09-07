@@ -12,6 +12,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           <nav className="mx-auto flex max-w-6xl items-center gap-6 px-4 py-3 text-sm">
             <Link href="/" className="font-semibold">Finance</Link>
             <Link href="/transactions" className="text-gray-600 hover:text-gray-900">Transactions</Link>
+            <Link href="/categories" className="text-gray-600 hover:text-gray-900">Categories</Link>
           </nav>
         </header>
         <main className="mx-auto max-w-6xl px-4 py-6">{children}</main>

@@ -8,6 +8,13 @@
       "when": 1788743550280,
       "tag": "0000_short_magneto",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1788745491726,
+      "tag": "0001_brief_supreme_intelligence",
+      "breakpoints": true
     }
   ]
 }
