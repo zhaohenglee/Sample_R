@@ -95,10 +95,14 @@ export async function upsertTransactions(list: Transaction[]) {
 
     // If this posted transaction replaces a pending one we already stored,
     // carry over any manual edits from the pending row.
-    let inherited: { categoryId: number | null; notes: string | null; userEdited: boolean } | null = null;
+    let inherited: { categoryId: number | null; notes: string | null; displayName: string | null; userEdited: boolean } | null = null;
     if (t.pending_transaction_id) {
-      const [prev] = await db.select({ categoryId: transactions.categoryId, notes: transactions.notes, userEdited: transactions.userEdited })
-        .from(transactions).where(eq(transactions.plaidTransactionId, t.pending_transaction_id));
+      const [prev] = await db.select({
+        categoryId: transactions.categoryId,
+        notes: transactions.notes,
+        displayName: transactions.displayName,
+        userEdited: transactions.userEdited,
+      }).from(transactions).where(eq(transactions.plaidTransactionId, t.pending_transaction_id));
       if (prev?.userEdited) inherited = prev;
     }
 
@@ -119,14 +123,21 @@ export async function upsertTransactions(list: Transaction[]) {
       updatedAt: new Date(),
     };
 
+    // Presence semantics: when a user-edited pending row exists, copy its
+    // categoryId/notes/displayName exactly as stored -- including an
+    // explicit null -- rather than falling back to the Plaid default via
+    // `??` (which would turn a deliberate "no category" back into one).
+    const plaidCategoryId = primary ? categoryMap.get(primary) ?? null : null;
     await db.insert(transactions).values({
       ...base,
-      categoryId: inherited?.categoryId ?? (primary ? categoryMap.get(primary) ?? null : null),
-      notes: inherited?.notes ?? null,
-      userEdited: inherited?.userEdited ?? false,
+      categoryId: inherited ? inherited.categoryId : plaidCategoryId,
+      notes: inherited ? inherited.notes : null,
+      displayName: inherited ? inherited.displayName : null,
+      userEdited: inherited ? true : false,
     }).onConflictDoUpdate({
       target: transactions.plaidTransactionId,
-      // Never overwrite category or notes: those are user owned once set.
+      // Never overwrite category, notes, or display_name: those are user
+      // owned once set (display_name is deliberately absent from `base`).
       set: {
         ...base,
         categoryId: sql`CASE WHEN ${transactions.userEdited} THEN ${transactions.categoryId} ELSE ${primary ? categoryMap.get(primary) ?? null : null} END`,

@@ -1,8 +1,7 @@
 import { and, desc, eq, gte, ilike, lte, or, sql, type SQL } from "drizzle-orm";
 import { requireAuthPage } from "@/lib/auth";
 import { db, schema } from "@/db";
-import { money, signedAmount } from "@/lib/format";
-import { CategorySelect } from "@/components/CategorySelect";
+import { TransactionsTable } from "@/components/TransactionsTable";
 
 export const dynamic = "force-dynamic";
 const PAGE = 100;
@@ -16,7 +15,15 @@ export default async function TransactionsPage({ searchParams }: { searchParams:
   const page = Math.max(1, Number(p.page ?? 1));
 
   const filters: SQL[] = [eq(transactions.isRemoved, false)];
-  if (p.q) filters.push(or(ilike(transactions.name, `%${p.q}%`), ilike(transactions.merchantName, `%${p.q}%`))!);
+  if (p.q) {
+    filters.push(
+      or(
+        ilike(transactions.name, `%${p.q}%`),
+        ilike(transactions.merchantName, `%${p.q}%`),
+        ilike(transactions.displayName, `%${p.q}%`),
+      )!,
+    );
+  }
   if (p.account) filters.push(eq(transactions.accountId, Number(p.account)));
   if (p.category === "none") filters.push(sql`${transactions.categoryId} is null`);
   else if (p.category) filters.push(eq(transactions.categoryId, Number(p.category)));
@@ -26,6 +33,7 @@ export default async function TransactionsPage({ searchParams }: { searchParams:
   const rows = await db
     .select({
       id: transactions.id, date: transactions.date, name: transactions.name, merchant: transactions.merchantName,
+      displayName: transactions.displayName, notes: transactions.notes,
       amount: transactions.amount, pending: transactions.isPending, categoryId: transactions.categoryId,
       plaidCategory: transactions.plaidCategoryDetailed, account: accounts.name, mask: accounts.mask,
     })
@@ -66,39 +74,7 @@ export default async function TransactionsPage({ searchParams }: { searchParams:
         <a href="/transactions" className="px-2 py-1 text-gray-500">Reset</a>
       </form>
 
-      <div className="overflow-x-auto rounded-lg border bg-white">
-        <table className="w-full text-sm">
-          <thead className="bg-gray-50 text-left text-xs uppercase text-gray-500">
-            <tr>
-              <th className="px-3 py-2">Date</th>
-              <th className="px-3 py-2">Description</th>
-              <th className="px-3 py-2">Account</th>
-              <th className="px-3 py-2">Category</th>
-              <th className="px-3 py-2 text-right">Amount</th>
-            </tr>
-          </thead>
-          <tbody>
-            {rows.length === 0 && <tr><td colSpan={5} className="px-3 py-4 text-gray-500">No transactions.</td></tr>}
-            {rows.map((t) => (
-              <tr key={t.id} className="border-t">
-                <td className="whitespace-nowrap px-3 py-2 text-gray-500">{t.date}</td>
-                <td className="px-3 py-2">
-                  <div>{t.merchant ?? t.name}{t.pending && <span className="ml-1 text-xs text-amber-600">pending</span>}</div>
-                  {t.merchant && t.merchant !== t.name && <div className="text-xs text-gray-400">{t.name}</div>}
-                </td>
-                <td className="whitespace-nowrap px-3 py-2 text-gray-500">{t.account}{t.mask ? ` ••${t.mask}` : ""}</td>
-                <td className="px-3 py-2">
-                  <CategorySelect txId={t.id} value={t.categoryId} categories={categoryRows} />
-                  {t.plaidCategory && <div className="mt-0.5 text-[10px] text-gray-400">{t.plaidCategory}</div>}
-                </td>
-                <td className={`whitespace-nowrap px-3 py-2 text-right tabular-nums ${signedAmount(t.amount) > 0 ? "text-green-700" : ""}`}>
-                  {money(signedAmount(t.amount))}
-                </td>
-              </tr>
-            ))}
-          </tbody>
-        </table>
-      </div>
+      <TransactionsTable rows={rows} categories={categoryRows} />
 
       <div className="flex justify-between text-sm">
         {page > 1 ? <a href={qs({ page: String(page - 1) })} className="underline">Previous</a> : <span />}

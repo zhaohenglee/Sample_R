@@ -59,6 +59,7 @@ export const transactions = pgTable(
     currency: text("currency").default("USD"),
     name: text("name").notNull(),
     merchantName: text("merchant_name"),
+    displayName: text("display_name"),
     plaidCategoryPrimary: text("plaid_category_primary"),
     plaidCategoryDetailed: text("plaid_category_detailed"),
     categoryId: integer("category_id").references(() => categories.id),

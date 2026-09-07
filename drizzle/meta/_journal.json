@@ -15,6 +15,13 @@
       "when": 1788745491726,
       "tag": "0001_brief_supreme_intelligence",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1788748299204,
+      "tag": "0002_tearful_sunspot",
+      "breakpoints": true
     }
   ]
 }

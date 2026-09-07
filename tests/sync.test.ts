@@ -55,7 +55,7 @@ describe("sync", () => {
     let [row] = await db.select().from(schema.transactions).where(eq(schema.transactions.plaidTransactionId, "p1"));
     const [ent] = await db.select().from(schema.categories).where(eq(schema.categories.plaidPrimary, "ENTERTAINMENT"));
     await db.update(schema.transactions)
-      .set({ categoryId: ent.id, notes: "team coffee", userEdited: true })
+      .set({ categoryId: ent.id, notes: "team coffee", displayName: "Team latte", userEdited: true })
       .where(eq(schema.transactions.id, row.id));
 
     // re-sync same pending tx (modified) must not clobber the edit
@@ -63,6 +63,7 @@ describe("sync", () => {
     [row] = await db.select().from(schema.transactions).where(eq(schema.transactions.plaidTransactionId, "p1"));
     expect(row.categoryId).toBe(ent.id);
     expect(row.notes).toBe("team coffee");
+    expect(row.displayName).toBe("Team latte");
     expect(row.amount).toBe("13.00");
   });
 
@@ -79,7 +80,43 @@ describe("sync", () => {
     expect(old.isRemoved).toBe(true);
     expect(row.categoryId).toBe(ent.id);
     expect(row.notes).toBe("team coffee");
+    expect(row.displayName).toBe("Team latte");
     expect(row.userEdited).toBe(true);
+  });
+
+  it("presence semantics: an explicit null category on an edited pending row survives to the posted row", async () => {
+    await upsertTransactions([{ ...pending, transaction_id: "p2" }]);
+    await db.update(schema.transactions)
+      .set({ categoryId: null, notes: "no category please", displayName: "Coffee run", userEdited: true })
+      .where(eq(schema.transactions.plaidTransactionId, "p2"));
+
+    // posted replaces pending: the naive `inherited?.categoryId ?? plaidDefault`
+    // shape would turn this explicit null back into the Plaid mapping.
+    await markRemoved([{ transaction_id: "p2" } as any]);
+    await upsertTransactions([{ ...pending, transaction_id: "t2", pending: false, pending_transaction_id: "p2" }]);
+
+    const [row] = await db.select().from(schema.transactions).where(eq(schema.transactions.plaidTransactionId, "t2"));
+    expect(row.categoryId).toBeNull();
+    expect(row.notes).toBe("no category please");
+    expect(row.displayName).toBe("Coffee run");
+    expect(row.userEdited).toBe(true);
+  });
+
+  it("does not treat a non-user-edited pending row as inherited", async () => {
+    await upsertTransactions([{ ...pending, transaction_id: "p3" }]);
+    const [food] = await db.select().from(schema.categories).where(eq(schema.categories.plaidPrimary, "FOOD_AND_DRINK"));
+    const [prev] = await db.select().from(schema.transactions).where(eq(schema.transactions.plaidTransactionId, "p3"));
+    // p3 has a category from the Plaid mapping but was never user edited.
+    expect(prev.userEdited).toBe(false);
+    expect(prev.categoryId).toBe(food.id);
+
+    await markRemoved([{ transaction_id: "p3" } as any]);
+    await upsertTransactions([{ ...pending, transaction_id: "t3", pending: false, pending_transaction_id: "p3" }]);
+
+    const [row] = await db.select().from(schema.transactions).where(eq(schema.transactions.plaidTransactionId, "t3"));
+    // The posted row gets its own Plaid mapping, not a copy flagged as inherited.
+    expect(row.categoryId).toBe(food.id);
+    expect(row.userEdited).toBe(false);
   });
 
   it("cascades transaction deletes when the owning item is deleted", async () => {
