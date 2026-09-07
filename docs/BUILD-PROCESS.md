@@ -37,3 +37,15 @@ Three roles, three model tiers. The goal is cheap building, independent checking
 - Never commit `.env` or any secret.
 - Never weaken a test to pass. Fix the code or escalate.
 - One task per commit. The commit message starts with the task id.
+
+## Builder checklist (learned from validation rounds)
+
+The validator tests these live on every task. Build them in from the start.
+
+- Route handlers: `requireAuthApi()` first, then `req.json()` inside try/catch → 400, then an allowlist of body fields → 400 on unknown, then type and length checks → 400. Never 500 on bad input.
+- Id params: match `/^\d{1,9}$/` before `Number()`. Missing row → 404.
+- Unique violations map to 409 via a named error class caught from the Postgres `23505` error, not from a pre-check.
+- Multi statement writes run inside `db.transaction()` and lock rows they check with `SELECT ... FOR UPDATE`.
+- Any user edit sets `user_edited = true`, and sync must never overwrite user owned fields (`category_id`, `notes`, `display_name`).
+- Every new table must also be truncated by tests. `tests/setup.ts` does this dynamically.
+- Migrations are applied to both `finance` and `finance_test` before running tests.
