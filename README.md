@@ -51,9 +51,27 @@ src/app/page.tsx        dashboard
 src/app/transactions    filterable list with inline category edit
 ```
 
+## Operations
+
+- `GET /api/health` runs `select 1` against the database with a 3 second budget and returns `200 { ok: true, db: true }`, or `503 { ok: false, db: false }` if the database is unreachable. Unauthenticated, no secrets in the body. `docker compose` uses it for the `app` service healthcheck.
+- `/sync` shows the last 50 sync runs (per bank item, with duration and any error) plus a summary of every linked item's status, and has a "Sync now" button.
+- The `backup` compose service runs `scripts/backup.sh` once on start and then every 24 hours: a gzipped `pg_dump` written to `./backups/finance-<timestamp>.sql.gz`, pruning dumps older than `RETENTION_DAYS` (default 14). Run it manually with `docker compose exec backup /scripts/backup.sh` or `./scripts/backup.sh` locally (needs `pg_dump` on `PATH` and `PG*` env vars, or edit `BACKUP_DIR`).
+
+### Restore a backup
+
+Dumps are written with `pg_dump --clean --if-exists`, so the SQL includes
+`DROP` statements for existing objects before recreating them -- the restore
+can run straight over a live database, not just an empty one. `-v
+ON_ERROR_STOP=1` makes `psql` stop (and exit non-zero) on the first error
+instead of plowing ahead:
+
+```
+gunzip -c backups/finance-20260101-030000.sql.gz | docker compose exec -T db psql -v ON_ERROR_STOP=1 -U finance finance
+```
+
 ## Before linking real banks
 
 - Set `PLAID_ENV=production` and the production secret.
 - Serve over HTTPS or a private network. Never expose port 3000 publicly without auth in front.
 - Add webhook JWT verification in `src/app/api/plaid/webhook/route.ts` if you enable webhooks.
-- Back up Postgres nightly: `docker compose exec db pg_dump -U finance finance | gzip > backup.sql.gz`
+- Back up Postgres nightly: the `backup` compose service does this automatically (see Operations above).
