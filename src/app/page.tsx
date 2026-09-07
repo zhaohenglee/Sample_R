@@ -13,8 +13,10 @@ import {
   recentTransactions,
   spendByCategory as spendByCategoryReport,
 } from "@/lib/reports";
+import { upcomingRecurring } from "@/lib/recurring";
 import { LinkButton } from "@/components/LinkButton";
 import { SyncButton } from "@/components/SyncButton";
+import { RecurringRefreshButton } from "@/components/RecurringRefreshButton";
 import { CashFlowBars } from "@/components/charts/CashFlowBars";
 import { CategoryBars } from "@/components/charts/CategoryBars";
 import { BalanceLine } from "@/components/charts/BalanceLine";
@@ -85,6 +87,7 @@ export default async function Dashboard({ searchParams }: { searchParams: Promis
   const spendByCategory = await spendByCategoryReport(monthIso);
   const flow = await monthFlow(monthIso);
   const recent = await recentTransactions(10);
+  const upcoming = await upcomingRecurring(30);
   const cashFlow = await cashFlowByMonth(monthIso, 12);
   const balanceTrend = await netBalanceTrend(90);
 
@@ -188,11 +191,47 @@ export default async function Dashboard({ searchParams }: { searchParams: Promis
         </div>
       </section>
 
+      <section>
+        <h2 className="mb-2 font-medium">Spend by category ({monthStr})</h2>
+        <div className="rounded-lg border bg-white p-4">
+          <CategoryBars data={categoryChartData} periodLabel={periodLabel} />
+        </div>
+      </section>
+
       <section className="grid grid-cols-1 gap-6 md:grid-cols-2">
         <div>
-          <h2 className="mb-2 font-medium">Spend by category ({monthStr})</h2>
-          <div className="rounded-lg border bg-white p-4">
-            <CategoryBars data={categoryChartData} periodLabel={periodLabel} />
+          <h2 className="mb-2 font-medium">Upcoming (overdue and next 30 days)</h2>
+          <div className="rounded-lg border bg-white">
+            <div className="flex items-center justify-between border-b px-3 py-2">
+              <span className="text-xs text-gray-500">Recurring charges detected from transaction history.</span>
+              <RecurringRefreshButton />
+            </div>
+            {upcoming.length === 0 ? (
+              <p className="px-3 py-4 text-sm text-gray-500">No recurring charges detected yet.</p>
+            ) : (
+              <table className="w-full text-sm">
+                <tbody>
+                  {upcoming.map((r) => (
+                    <tr key={r.id} className="border-b last:border-0">
+                      <td className="px-3 py-2">
+                        <div>
+                          {r.displayName}
+                          {r.overdue && (
+                            <span className="ml-2 rounded bg-amber-100 px-1.5 py-0.5 text-xs text-amber-700">overdue</span>
+                          )}
+                        </div>
+                        <div className="text-xs text-gray-500">{r.accountLabel}</div>
+                      </td>
+                      <td className="px-3 py-2 text-gray-500">
+                        <span className="rounded bg-gray-100 px-1.5 py-0.5 text-xs">{r.cadence}</span>
+                      </td>
+                      <td className="px-3 py-2 text-right text-gray-500">{r.nextDue}</td>
+                      <td className="px-3 py-2 text-right tabular-nums">{money(r.expectedAmount)}</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            )}
           </div>
         </div>
         <div>

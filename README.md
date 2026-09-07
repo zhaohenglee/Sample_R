@@ -2,7 +2,7 @@
 
 Single user app that pulls transactions from your banks through Plaid and stores them in your own Postgres. See `PLAN.md` for the roadmap.
 
-**Status:** Phase 0 and Phase 1 done (setup, Plaid Link, transaction sync, transaction list with category editing, dashboard totals).
+**Status:** Phases 0 to 4 done: setup, Plaid Link and sync, categories, transaction editing, accounts, rules engine with safe regex, budgets, dashboard charts, recurring detection. Next: Phase 5 hardening (webhook verification, auth, ops, CI).
 
 ## Run locally
 

@@ -125,6 +125,24 @@ export const balanceSnapshots = pgTable(
   (t) => [uniqueIndex("balance_snapshots_account_date_idx").on(t.accountId, t.date)],
 );
 
+export const recurring = pgTable(
+  "recurring",
+  {
+    id: serial("id").primaryKey(),
+    merchantKey: text("merchant_key").notNull(),
+    displayName: text("display_name").notNull(),
+    cadence: text("cadence").notNull(), // weekly | monthly | yearly
+    expectedAmount: numeric("expected_amount", { precision: 14, scale: 2 }).notNull(),
+    lastDate: date("last_date").notNull(),
+    nextDue: date("next_due").notNull(),
+    occurrences: integer("occurrences").notNull(),
+    accountId: integer("account_id").notNull().references(() => accounts.id, { onDelete: "cascade" }),
+    categoryId: integer("category_id").references(() => categories.id, { onDelete: "set null" }),
+    updatedAt: timestamp("updated_at", { withTimezone: true }).notNull().defaultNow(),
+  },
+  (t) => [uniqueIndex("recurring_merchant_account_idx").on(t.merchantKey, t.accountId)],
+);
+
 export const syncLog = pgTable("sync_log", {
   id: serial("id").primaryKey(),
   itemId: integer("item_id").references(() => items.id, { onDelete: "cascade" }),

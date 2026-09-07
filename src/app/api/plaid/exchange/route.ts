@@ -4,6 +4,7 @@ import { encrypt } from "@/lib/crypto";
 import { db, schema } from "@/db";
 import { ensureDefaultCategories } from "@/lib/categories";
 import { syncItem, upsertAccounts } from "@/lib/sync";
+import { refreshRecurring } from "@/lib/recurring";
 
 // POST { public_token, institution?: { institution_id, name } }
 export async function POST(req: Request) {
@@ -39,5 +40,13 @@ export async function POST(req: Request) {
 
   // First sync may return nothing yet if Plaid is still pulling history.
   const result = await syncItem(item.id);
+
+  // Detection failure must never fail the exchange flow itself.
+  try {
+    await refreshRecurring();
+  } catch (e) {
+    console.error("refreshRecurring failed after plaid exchange", e);
+  }
+
   return Response.json({ item_id: item.id, ...result });
 }

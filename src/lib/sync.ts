@@ -5,6 +5,7 @@ import { decrypt } from "./crypto";
 import { plaid } from "./plaid";
 import { applyRulesToTransactions } from "./rules";
 import { currentDateIso } from "./reports";
+import { refreshRecurring } from "./recurring";
 
 const { items, accounts, transactions, categories, syncLog, balanceSnapshots } = schema;
 
@@ -14,6 +15,17 @@ export async function syncAllItems(): Promise<SyncResult[]> {
   const all = await db.select().from(items);
   const results: SyncResult[] = [];
   for (const item of all) results.push(await syncItem(item.id));
+
+  // Runs once per batch, not per item -- recurring detection scans all
+  // accounts anyway, so re-running it after each item would be wasted
+  // work. A detection failure must never fail the sync it rides along
+  // with, so it's isolated behind its own try/catch.
+  try {
+    await refreshRecurring();
+  } catch (e) {
+    console.error("refreshRecurring failed after syncAllItems", e);
+  }
+
   return results;
 }
 
