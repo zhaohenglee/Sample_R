@@ -15,6 +15,7 @@ export type AccountRowData = {
   currency: string | null;
   hidden: boolean;
   excludeFromTotals: boolean;
+  source: string;
 };
 
 // One editable account row: nickname, hidden, and exclude-from-totals are
@@ -25,6 +26,8 @@ export function AccountRow({ account }: { account: AccountRowData }) {
   const [nickname, setNickname] = useState(account.nickname ?? "");
   const [saving, setSaving] = useState(false);
   const [error, setError] = useState<string | null>(null);
+  const [confirming, setConfirming] = useState(false);
+  const [confirmText, setConfirmText] = useState("");
 
   async function patch(body: Record<string, unknown>) {
     setSaving(true);
@@ -51,6 +54,22 @@ export function AccountRow({ account }: { account: AccountRowData }) {
     const next = trimmed === "" ? null : trimmed;
     if (next === (account.nickname ?? null)) return;
     patch({ nickname: next });
+  }
+
+  async function deleteAccount() {
+    setSaving(true);
+    setError(null);
+    try {
+      const res = await fetch(`/api/accounts/${account.id}`, { method: "DELETE" });
+      if (!res.ok) {
+        const data = await res.json().catch(() => ({}));
+        setError(data.error ?? `Request failed (${res.status})`);
+        return;
+      }
+      router.refresh();
+    } finally {
+      setSaving(false);
+    }
   }
 
   return (
@@ -89,7 +108,44 @@ export function AccountRow({ account }: { account: AccountRowData }) {
           aria-label={`Exclude ${account.name} from totals`}
         />
       </td>
-      <td className="px-4 py-2 text-xs text-red-600">{error}</td>
+      <td className="px-4 py-2 text-xs">
+        {account.source === "manual" &&
+          (confirming ? (
+            <div className="flex flex-col gap-1">
+              <input
+                value={confirmText}
+                onChange={(e) => setConfirmText(e.target.value)}
+                placeholder={`Type "${account.name}" to confirm`}
+                className="w-40 rounded border px-1.5 py-0.5 text-xs"
+              />
+              <div className="flex gap-1">
+                <button
+                  type="button"
+                  disabled={saving || confirmText !== account.name}
+                  onClick={deleteAccount}
+                  className="rounded bg-red-600 px-2 py-0.5 text-white disabled:opacity-50"
+                >
+                  Delete
+                </button>
+                <button
+                  type="button"
+                  onClick={() => {
+                    setConfirming(false);
+                    setConfirmText("");
+                  }}
+                  className="px-2 py-0.5 text-gray-500"
+                >
+                  Cancel
+                </button>
+              </div>
+            </div>
+          ) : (
+            <button type="button" onClick={() => setConfirming(true)} className="text-red-600 hover:underline">
+              Delete
+            </button>
+          ))}
+        {error && <div className="mt-1 text-red-600">{error}</div>}
+      </td>
     </tr>
   );
 }

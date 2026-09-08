@@ -23,6 +23,7 @@ export type TxRow = {
   notes: string | null;
   ruleId: number | null;
   ruleName: string | null;
+  source: string;
 };
 
 // Normalizes a raw edit-panel field the same way the server does, so "did
@@ -107,6 +108,27 @@ export function TransactionRow({
         return;
       }
       setEditing(false);
+      router.refresh();
+    } finally {
+      setSaving(false);
+    }
+  }
+
+  // Manual (and other non-Plaid) transactions can be deleted outright,
+  // unlike Plaid rows -- those are only ever edited (category/notes/display
+  // name), never removed, since the next sync would just recreate them.
+  async function remove() {
+    const ok = window.confirm("Delete this transaction? This cannot be undone.");
+    if (!ok) return;
+    setSaving(true);
+    setError(null);
+    try {
+      const res = await fetch(`/api/transactions/${t.id}`, { method: "DELETE" });
+      if (!res.ok) {
+        const body = await res.json().catch(() => ({}));
+        setError(body.error ?? "Delete failed.");
+        return;
+      }
       router.refresh();
     } finally {
       setSaving(false);
@@ -198,6 +220,16 @@ export function TransactionRow({
               <button type="button" onClick={() => setEditing(false)} className="px-2 py-1 text-gray-500">
                 Cancel
               </button>
+              {t.source !== "plaid" && (
+                <button
+                  type="button"
+                  disabled={saving}
+                  onClick={remove}
+                  className="rounded px-2 py-1 text-red-600 hover:bg-red-50 disabled:opacity-50"
+                >
+                  Delete
+                </button>
+              )}
               <Link href={rulePrefillHref} className="text-xs text-blue-600 hover:underline">
                 Create rule from this transaction
               </Link>

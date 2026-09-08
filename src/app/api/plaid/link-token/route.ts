@@ -14,7 +14,7 @@ export async function POST(req: Request) {
   let accessToken: string | undefined;
   if (body?.itemId) {
     const [item] = await db.select().from(schema.items).where(eq(schema.items.id, Number(body.itemId)));
-    if (item) accessToken = decrypt(item.accessTokenEnc);
+    if (item?.accessTokenEnc) accessToken = decrypt(item.accessTokenEnc);
   }
 
   const res = await plaid.linkTokenCreate({

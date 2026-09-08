@@ -113,6 +113,12 @@ export async function unlinkItem(id: number, client: PlaidRemoveClient = default
   return db.transaction(async (tx) => {
     const [item] = await tx.select().from(items).where(eq(items.id, id)).for("update");
     if (!item) return false;
+    // A manual item (see the manual-data schema decision) has no access
+    // token and nothing linked at Plaid to unlink -- route the caller to
+    // the manual-account delete endpoint instead.
+    if (!item.accessTokenEnc) {
+      throw new ValidationError("This item has no bank connection to unlink; delete the manual account instead.");
+    }
 
     const accessToken = decrypt(item.accessTokenEnc);
     try {

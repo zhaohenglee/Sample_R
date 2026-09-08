@@ -5,10 +5,15 @@ import { sql } from "drizzle-orm";
 
 export const items = pgTable("items", {
   id: serial("id").primaryKey(),
-  plaidItemId: text("plaid_item_id").notNull().unique(),
+  // Null for a manual item (see accounts.source below) -- Postgres allows
+  // many nulls under a unique index, so the constraint still holds for
+  // Plaid items, which always have one.
+  plaidItemId: text("plaid_item_id").unique(),
   institutionId: text("institution_id"),
   institutionName: text("institution_name"),
-  accessTokenEnc: text("access_token_enc").notNull(),
+  // Null for a manual item. Always non-null together with plaidItemId --
+  // there is no state with one set and not the other.
+  accessTokenEnc: text("access_token_enc"),
   cursor: text("cursor"),
   status: text("status").notNull().default("ok"), // ok | login_required | pending_expiration | new_accounts_available | revoked | error
   lastError: text("last_error"),
@@ -19,7 +24,8 @@ export const items = pgTable("items", {
 export const accounts = pgTable("accounts", {
   id: serial("id").primaryKey(),
   itemId: integer("item_id").notNull().references(() => items.id, { onDelete: "cascade" }),
-  plaidAccountId: text("plaid_account_id").notNull().unique(),
+  // Null for a manual account, same reasoning as items.plaidItemId above.
+  plaidAccountId: text("plaid_account_id").unique(),
   name: text("name").notNull(),
   officialName: text("official_name"),
   mask: text("mask"),
@@ -31,6 +37,7 @@ export const accounts = pgTable("accounts", {
   hidden: boolean("hidden").notNull().default(false),
   nickname: text("nickname"),
   excludeFromTotals: boolean("exclude_from_totals").notNull().default(false),
+  source: text("source").notNull().default("plaid"), // plaid | manual | csv
   updatedAt: timestamp("updated_at", { withTimezone: true }).notNull().defaultNow(),
 });
 
@@ -52,6 +59,9 @@ export const transactions = pgTable(
   {
     id: serial("id").primaryKey(),
     accountId: integer("account_id").notNull().references(() => accounts.id, { onDelete: "cascade" }),
+    // Stays not-null and unique regardless of source: manual and imported
+    // rows get a synthetic id ("manual:<uuid>" / "csv:<uuid>") so the sync
+    // upsert logic (which targets this column) is untouched.
     plaidTransactionId: text("plaid_transaction_id").notNull().unique(),
     pendingTransactionId: text("pending_transaction_id"),
     date: date("date").notNull(),
@@ -70,6 +80,7 @@ export const transactions = pgTable(
     isPending: boolean("is_pending").notNull().default(false),
     isRemoved: boolean("is_removed").notNull().default(false),
     userEdited: boolean("user_edited").notNull().default(false),
+    source: text("source").notNull().default("plaid"), // plaid | manual | csv
     createdAt: timestamp("created_at", { withTimezone: true }).notNull().defaultNow(),
     updatedAt: timestamp("updated_at", { withTimezone: true }).notNull().defaultNow(),
   },

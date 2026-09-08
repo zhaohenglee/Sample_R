@@ -57,6 +57,13 @@
       "when": 1788768397300,
       "tag": "0007_talented_norrin_radd",
       "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "7",
+      "when": 1788835079420,
+      "tag": "0008_opposite_gateway",
+      "breakpoints": true
     }
   ]
 }

@@ -1,5 +1,6 @@
 import { requireAuthApi } from "@/lib/auth";
 import { PlaidRemoveError, unlinkItem } from "@/lib/accounts";
+import { ValidationError } from "@/lib/categories";
 
 const ID_RE = /^\d{1,9}$/;
 
@@ -20,6 +21,7 @@ export async function DELETE(req: Request, ctx: { params: Promise<{ id: string }
     if (e instanceof PlaidRemoveError) {
       return Response.json({ error: "Plaid rejected the unlink request", errorCode: e.errorCode }, { status: 502 });
     }
+    if (e instanceof ValidationError) return Response.json({ error: e.message }, { status: 400 });
     throw e;
   }
 }

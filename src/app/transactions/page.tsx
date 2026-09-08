@@ -3,6 +3,7 @@ import { requireAuthPage } from "@/lib/auth";
 import { db, schema } from "@/db";
 import { accountLabel } from "@/lib/format";
 import { TransactionsTable } from "@/components/TransactionsTable";
+import { ManualTransactionForm } from "@/components/ManualTransactionForm";
 
 export const dynamic = "force-dynamic";
 const PAGE = 100;
@@ -37,7 +38,7 @@ export default async function TransactionsPage({ searchParams }: { searchParams:
       displayName: transactions.displayName, notes: transactions.notes,
       amount: transactions.amount, pending: transactions.isPending, categoryId: transactions.categoryId,
       plaidCategory: transactions.plaidCategoryDetailed, account: accounts.name, accountNickname: accounts.nickname, mask: accounts.mask,
-      ruleId: transactions.ruleId, ruleName: categoryRules.name,
+      ruleId: transactions.ruleId, ruleName: categoryRules.name, source: transactions.source,
     })
     .from(transactions)
     .innerJoin(accounts, eq(transactions.accountId, accounts.id))
@@ -53,6 +54,11 @@ export default async function TransactionsPage({ searchParams }: { searchParams:
     .where(eq(accounts.hidden, false))
     .orderBy(accounts.name);
   const categoryRows = await db.select({ id: categories.id, name: categories.name }).from(categories).orderBy(categories.name);
+  const manualAccountRows = await db
+    .select({ id: accounts.id, name: accounts.name, nickname: accounts.nickname })
+    .from(accounts)
+    .where(and(eq(accounts.source, "manual"), eq(accounts.hidden, false)))
+    .orderBy(accounts.name);
 
   const qs = (over: Partial<Params>) => {
     const u = new URLSearchParams();
@@ -62,7 +68,10 @@ export default async function TransactionsPage({ searchParams }: { searchParams:
 
   return (
     <div className="space-y-4">
-      <h1 className="text-xl font-semibold">Transactions</h1>
+      <div className="flex items-center justify-between">
+        <h1 className="text-xl font-semibold">Transactions</h1>
+        <ManualTransactionForm accounts={manualAccountRows} categories={categoryRows} />
+      </div>
 
       <form className="flex flex-wrap gap-2 text-sm">
         <input name="q" defaultValue={p.q} placeholder="Search" className="rounded border px-2 py-1" />

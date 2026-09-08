@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { eq } from "drizzle-orm";
+import { eq, isNotNull } from "drizzle-orm";
 import { requireAuthPage } from "@/lib/auth";
 import { db, schema } from "@/db";
 import { ValidationError } from "@/lib/categories";
@@ -81,7 +81,11 @@ export default async function Dashboard({ searchParams }: { searchParams: Promis
   const canGoNext = nextMonth <= MAX_MONTH_STR;
   const isCurrentMonth = monthStr === currentMonthStr();
 
-  const itemRows = await db.select().from(items).orderBy(items.id);
+  // Manual accounts have their own dedicated item shell (see
+  // src/lib/manual.ts) rather than a real bank connection, so they are
+  // excluded from this "linked banks" section -- they still count toward
+  // net worth and every other figure below, which read accountRows directly.
+  const itemRows = await db.select().from(items).where(isNotNull(items.plaidItemId)).orderBy(items.id);
   const accountRows = await db.select().from(accounts).where(eq(accounts.hidden, false)).orderBy(accounts.itemId, accounts.name);
 
   const spendByCategory = await spendByCategoryReport(monthIso);

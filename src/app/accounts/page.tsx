@@ -1,9 +1,11 @@
+import { isNotNull } from "drizzle-orm";
 import { requireAuthPage } from "@/lib/auth";
 import { db, schema } from "@/db";
 import { itemStatusInfo } from "@/lib/format";
 import { AccountRow } from "@/components/AccountRow";
 import { UnlinkButton } from "@/components/UnlinkButton";
 import { LinkButton } from "@/components/LinkButton";
+import { ManualAccountForm } from "@/components/ManualAccountForm";
 
 export const dynamic = "force-dynamic";
 
@@ -11,8 +13,12 @@ export default async function AccountsPage() {
   await requireAuthPage();
   const { items, accounts } = schema;
 
-  const itemRows = await db.select().from(items).orderBy(items.id);
+  // Manual accounts each get their own dedicated item shell (see
+  // src/lib/manual.ts) rather than a real bank connection, so they are
+  // excluded from this bank-item loop and shown in their own section below.
+  const itemRows = await db.select().from(items).where(isNotNull(items.plaidItemId)).orderBy(items.id);
   const accountRows = await db.select().from(accounts).orderBy(accounts.itemId, accounts.name);
+  const manualAccounts = accountRows.filter((a) => a.source === "manual");
 
   return (
     <div className="space-y-6">
@@ -77,6 +83,41 @@ export default async function AccountsPage() {
             </div>
           );
         })}
+      </div>
+
+      <div className="space-y-3">
+        <div className="flex items-center justify-between">
+          <h2 className="font-medium">Manual accounts</h2>
+          <ManualAccountForm />
+        </div>
+        <div className="rounded-lg border bg-white">
+          <div className="overflow-x-auto">
+            <table className="w-full text-sm">
+              <thead className="bg-gray-50 text-left text-xs uppercase text-gray-500">
+                <tr>
+                  <th className="px-4 py-2">Account</th>
+                  <th className="px-4 py-2">Type</th>
+                  <th className="px-4 py-2 text-right">Balance</th>
+                  <th className="px-4 py-2 text-center">Hidden</th>
+                  <th className="px-4 py-2 text-center">Exclude from totals</th>
+                  <th className="px-4 py-2"></th>
+                </tr>
+              </thead>
+              <tbody>
+                {manualAccounts.length === 0 && (
+                  <tr>
+                    <td colSpan={6} className="px-4 py-3 text-gray-500">
+                      No manual accounts. Cash, or a bank without a Plaid connection, can be tracked by hand.
+                    </td>
+                  </tr>
+                )}
+                {manualAccounts.map((a) => (
+                  <AccountRow key={a.id} account={a} />
+                ))}
+              </tbody>
+            </table>
+          </div>
+        </div>
       </div>
     </div>
   );

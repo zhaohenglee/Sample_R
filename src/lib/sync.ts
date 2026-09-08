@@ -1,4 +1,4 @@
-import { eq, inArray, sql } from "drizzle-orm";
+import { and, eq, inArray, isNotNull, sql } from "drizzle-orm";
 import type { Transaction, RemovedTransaction, AccountBase } from "plaid";
 import { db, schema } from "@/db";
 import { decrypt } from "./crypto";
@@ -12,7 +12,11 @@ const { items, accounts, transactions, categories, syncLog, balanceSnapshots } =
 export type SyncResult = { itemId: number; added: number; modified: number; removed: number; error?: string };
 
 export async function syncAllItems(): Promise<SyncResult[]> {
-  const all = await db.select().from(items);
+  // A manual item (see the manual-data schema decision) has a null access
+  // token -- decrypt() would throw on it, and there is nothing at Plaid to
+  // sync anyway. Filtered at the query level so manual items are never even
+  // loaded, let alone iterated.
+  const all = await db.select().from(items).where(isNotNull(items.accessTokenEnc));
   const results: SyncResult[] = [];
   for (const item of all) results.push(await syncItem(item.id));
 
@@ -32,6 +36,13 @@ export async function syncAllItems(): Promise<SyncResult[]> {
 export async function syncItem(itemId: number): Promise<SyncResult> {
   const [item] = await db.select().from(items).where(eq(items.id, itemId));
   if (!item) throw new Error(`item ${itemId} not found`);
+  // Defensive guard alongside the query-level filter in syncAllItems: a
+  // manual item (null access token) has nothing to sync at Plaid, and
+  // decrypt() would throw on the null. No sync_log row is written for a
+  // skipped item -- there was no sync attempt to log.
+  if (!item.accessTokenEnc) {
+    return { itemId: item.id, added: 0, modified: 0, removed: 0 };
+  }
   const [log] = await db.insert(syncLog).values({ itemId }).returning();
   const accessToken = decrypt(item.accessTokenEnc);
 
@@ -115,7 +126,7 @@ export async function writeBalanceSnapshots(itemId: number): Promise<void> {
   const accountRows = await db
     .select({ id: accounts.id, currentBalance: accounts.currentBalance, availableBalance: accounts.availableBalance })
     .from(accounts)
-    .where(eq(accounts.itemId, itemId));
+    .where(and(eq(accounts.itemId, itemId), eq(accounts.source, "plaid")));
   if (accountRows.length === 0) return;
 
   for (const a of accountRows) {
@@ -133,7 +144,13 @@ export async function writeBalanceSnapshots(itemId: number): Promise<void> {
 
 export async function upsertTransactions(list: Transaction[]) {
   if (list.length === 0) return;
-  const accountRows = await db.select({ id: accounts.id, plaidAccountId: accounts.plaidAccountId }).from(accounts);
+  // Restricted to source='plaid': a manual/csv account's plaid_account_id is
+  // always null and would never match a real Plaid account_id anyway, but
+  // this keeps the sync path from ever reading a non-Plaid row at all.
+  const accountRows = await db
+    .select({ id: accounts.id, plaidAccountId: accounts.plaidAccountId })
+    .from(accounts)
+    .where(eq(accounts.source, "plaid"));
   const accountMap = new Map(accountRows.map((r) => [r.plaidAccountId, r.id]));
   const categoryRows = await db.select({ id: categories.id, plaidPrimary: categories.plaidPrimary }).from(categories);
   const categoryMap = new Map(categoryRows.filter((c) => c.plaidPrimary).map((c) => [c.plaidPrimary!, c.id]));
@@ -146,7 +163,7 @@ export async function upsertTransactions(list: Transaction[]) {
   const existingRows = await db
     .select({ plaidTransactionId: transactions.plaidTransactionId })
     .from(transactions)
-    .where(inArray(transactions.plaidTransactionId, plaidIds));
+    .where(and(inArray(transactions.plaidTransactionId, plaidIds), eq(transactions.source, "plaid")));
   const existedBefore = new Set(existingRows.map((r) => r.plaidTransactionId));
 
   for (const t of list) {
@@ -164,7 +181,7 @@ export async function upsertTransactions(list: Transaction[]) {
         notes: transactions.notes,
         displayName: transactions.displayName,
         userEdited: transactions.userEdited,
-      }).from(transactions).where(eq(transactions.plaidTransactionId, t.pending_transaction_id));
+      }).from(transactions).where(and(eq(transactions.plaidTransactionId, t.pending_transaction_id), eq(transactions.source, "plaid")));
       if (prev?.userEdited) inherited = prev;
     }
 
@@ -221,7 +238,7 @@ export async function upsertTransactions(list: Transaction[]) {
     const newRows = await db
       .select({ id: transactions.id })
       .from(transactions)
-      .where(inArray(transactions.plaidTransactionId, newPlaidIds));
+      .where(and(inArray(transactions.plaidTransactionId, newPlaidIds), eq(transactions.source, "plaid")));
     if (newRows.length > 0) await applyRulesToTransactions(newRows.map((r) => r.id), {});
   }
 }
@@ -229,5 +246,7 @@ export async function upsertTransactions(list: Transaction[]) {
 export async function markRemoved(list: RemovedTransaction[]) {
   const ids = list.map((r) => r.transaction_id).filter((x): x is string => !!x);
   if (ids.length === 0) return;
-  await db.update(transactions).set({ isRemoved: true, updatedAt: new Date() }).where(inArray(transactions.plaidTransactionId, ids));
+  await db.update(transactions)
+    .set({ isRemoved: true, updatedAt: new Date() })
+    .where(and(inArray(transactions.plaidTransactionId, ids), eq(transactions.source, "plaid")));
 }
