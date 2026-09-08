@@ -63,14 +63,20 @@ type Queryable = Pick<typeof db, "select" | "insert" | "update">;
 // credit-limit-driven "available" concept) as starting_balance minus the
 // sum of amount over its non-removed transactions (Plaid sign convention:
 // positive = money out). Always queries the sum fresh rather than
-// incrementing a running total, so it can never drift from the ledger.
+// incrementing a running total, so the arithmetic can never drift.
+// Takes SELECT ... FOR UPDATE on the account row before reading the sum:
+// re-querying alone is not enough, because under READ COMMITTED two
+// concurrent writers would each read the sum before the other committed
+// and the loser would then store a stale total permanently. The lock
+// serialises recomputes per account. Callers already inside a transaction
+// that holds this lock (createManualTransaction) re-acquire it harmlessly.
 // A no-op for a Plaid account. Also upserts today's balance_snapshots row,
 // so the net-balance trend chart reflects manual activity even for a user
 // who has only manual accounts and never runs a sync. Call this after every
 // manual transaction create, edit, or delete (and once right after creating
 // the account itself, so a fresh account's first snapshot exists).
 export async function recomputeManualBalance(tx: Queryable, accountId: number): Promise<void> {
-  const [account] = await tx.select().from(accounts).where(eq(accounts.id, accountId));
+  const [account] = await tx.select().from(accounts).where(eq(accounts.id, accountId)).for("update");
   if (!account || account.source !== "manual") return;
 
   const [sumRow] = await tx

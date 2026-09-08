@@ -10,7 +10,7 @@ import {
   toPlaidSignedAmount,
 } from "./manual";
 
-const { transactions, categories } = schema;
+const { transactions, categories, accounts } = schema;
 
 export type TransactionPatchInput = {
   displayName?: string | null;
@@ -211,10 +211,19 @@ export type Transaction = typeof transactions.$inferSelect;
 // the 23503 catch below is a defensive fallback for that same race.
 export async function updateTransaction(id: number, input: Partial<TransactionPatchInput>): Promise<Transaction | null> {
   return db.transaction(async (tx) => {
-    if ("categoryId" in input) await assertCategoryExists(tx, input.categoryId ?? null);
-
     const [existing] = await tx.select().from(transactions).where(eq(transactions.id, id)).for("update");
     if (!existing) return null;
+
+    // Lock order across every path that touches a manual ledger is
+    // transaction -> account -> category. createManualTransaction takes
+    // account then category, so acquiring the account here BEFORE the
+    // category is what stops a concurrent create and edit from deadlocking.
+    // It also gives recomputeManualBalance below its lock up front.
+    if (existing.source !== "plaid") {
+      await tx.select({ id: accounts.id }).from(accounts).where(eq(accounts.id, existing.accountId)).for("update");
+    }
+
+    if ("categoryId" in input) await assertCategoryExists(tx, input.categoryId ?? null);
 
     // Plaid rows keep exactly the three original fields (displayName,
     // categoryId, notes): sync would just recreate date/amount/name on the
