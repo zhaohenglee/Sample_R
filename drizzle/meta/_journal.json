@@ -64,6 +64,13 @@
       "when": 1788835079420,
       "tag": "0008_opposite_gateway",
       "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "7",
+      "when": 1788836226212,
+      "tag": "0009_strange_tiger_shark",
+      "breakpoints": true
     }
   ]
 }

@@ -148,6 +148,39 @@ That blast radius is not worth the tidiness. Instead:
 
 Every task below inherits this decision.
 
+### Decision: manual balances are recomputed, never incremented (lead, T6.2 rework)
+
+A manual account's `current_balance` was originally written once at creation
+and never touched again. `accounts.starting_balance` (numeric, null for a
+Plaid account) is added to hold that initial figure permanently. For a
+manual account, `current_balance` (and `available_balance`, kept equal to
+it) is recomputed and stored on every manual transaction create, edit, and
+delete, as `starting_balance` minus the sum of `amount` over its non-removed
+transactions (Plaid sign convention: positive = money out). Recomputation
+always re-queries the sum; it never increments a running total, so it can
+never drift from the ledger. Read paths (dashboard, reports, budgets,
+charts) are unchanged -- they already read `current_balance` directly.
+
+### Decision: balance snapshots cover every account, not just Plaid's (lead, T6.2 rework)
+
+`writeBalanceSnapshots` (src/lib/sync.ts) is no longer filtered by source. A
+balance snapshot is a fact about an account, not about Plaid, and the
+dashboard's net-balance trend chart must not show a different total than
+the current net balance stat just because some accounts are manual. Every
+manual balance recomputation (see above) also upserts that account's
+snapshot for today, so the trend chart works for a user who has only manual
+accounts and has never run a sync.
+
+### Decision: manual transactions are editable in full (lead, T6.2 rework)
+
+`PATCH /api/transactions/[id]` accepts `date`, `amount` (with a `direction`
+of `in` or `out`, converted with the same sign logic the create path uses),
+and `name` whenever the target row's `source` is not `plaid`. A Plaid row
+keeps exactly the original three fields (`displayName`, `categoryId`,
+`notes`); any of the four extra fields on a Plaid row is rejected with 400.
+An edit that changes a manual row's `amount` triggers the same balance
+recomputation as create and delete.
+
 ### T6.2 Manual accounts and transactions
 **Scope:** Schema per the decision above. Page `/accounts` gains "Add manual
 account" (name, type, subtype, starting balance, currency). Manual accounts can

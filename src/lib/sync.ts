@@ -120,13 +120,19 @@ export async function upsertAccounts(itemId: number, list: AccountBase[]) {
 // today (local date), using each account's balances as currently stored
 // (already refreshed by upsertAccounts earlier in this sync pass). Upserts
 // on (account_id, date) so re-running a sync later the same day updates the
-// existing row instead of creating a duplicate.
+// existing row instead of creating a duplicate. Not filtered by source: a
+// balance snapshot is a fact about an account, not about Plaid -- itemId
+// alone already scopes this to the item's own accounts (a manual account
+// always belongs to its own dedicated item, never a Plaid one, so this
+// never reaches a manual account from a Plaid sync pass anyway). A manual
+// account gets its snapshots the same way, but from
+// recomputeManualBalance (src/lib/manual.ts) instead of a sync pass.
 export async function writeBalanceSnapshots(itemId: number): Promise<void> {
   const dateIso = currentDateIso();
   const accountRows = await db
     .select({ id: accounts.id, currentBalance: accounts.currentBalance, availableBalance: accounts.availableBalance })
     .from(accounts)
-    .where(and(eq(accounts.itemId, itemId), eq(accounts.source, "plaid")));
+    .where(eq(accounts.itemId, itemId));
   if (accountRows.length === 0) return;
 
   for (const a of accountRows) {

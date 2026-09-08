@@ -1,4 +1,4 @@
-import { desc, eq } from "drizzle-orm";
+import { desc, eq, isNotNull } from "drizzle-orm";
 import { requireAuthPage } from "@/lib/auth";
 import { db, schema } from "@/db";
 import { itemStatusInfo } from "@/lib/format";
@@ -24,7 +24,9 @@ export default async function SyncPage() {
   await requireAuthPage();
   const { syncLog, items } = schema;
 
-  const itemRows = await db.select().from(items).orderBy(items.id);
+  // Manual items (see the manual-data schema decision) never sync -- excluded
+  // here so they don't render as phantom banks reading "OK"/"never synced".
+  const itemRows = await db.select().from(items).where(isNotNull(items.plaidItemId)).orderBy(items.id);
   const logRows = await db
     .select({
       id: syncLog.id,

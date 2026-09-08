@@ -33,6 +33,12 @@ export const accounts = pgTable("accounts", {
   subtype: text("subtype"),
   currentBalance: numeric("current_balance", { precision: 14, scale: 2 }),
   availableBalance: numeric("available_balance", { precision: 14, scale: 2 }),
+  // Null for a Plaid account. For a manual account, current_balance is
+  // recomputed on every transaction create/edit/delete as
+  // starting_balance minus the sum of amount over its non-removed
+  // transactions (Plaid sign convention: positive = money out), so this is
+  // the one number that never changes once the account is created.
+  startingBalance: numeric("starting_balance", { precision: 14, scale: 2 }),
   currency: text("currency").default("USD"),
   hidden: boolean("hidden").notNull().default(false),
   nickname: text("nickname"),

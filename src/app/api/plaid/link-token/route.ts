@@ -14,6 +14,13 @@ export async function POST(req: Request) {
   let accessToken: string | undefined;
   if (body?.itemId) {
     const [item] = await db.select().from(schema.items).where(eq(schema.items.id, Number(body.itemId)));
+    // A manual item (see the manual-data schema decision) has no Plaid
+    // connection to fix -- rejected outright rather than silently falling
+    // through to a create-mode token, which would let the user "fix" a
+    // manual account by linking an unrelated real bank in its place.
+    if (item && !item.accessTokenEnc) {
+      return Response.json({ error: "This item has no bank connection to fix." }, { status: 400 });
+    }
     if (item?.accessTokenEnc) accessToken = decrypt(item.accessTokenEnc);
   }
 

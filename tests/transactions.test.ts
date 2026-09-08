@@ -78,6 +78,39 @@ describe("transactions validation", () => {
   });
 });
 
+describe("transaction patch validation: non-Plaid full-edit fields", () => {
+  it("accepts date, amount, direction, and name together with the original three fields", () => {
+    const out = validateTransactionPatch({ date: "2026-09-05", amount: 12.5, direction: "out", name: "Groceries" });
+    expect(out).toEqual({ date: "2026-09-05", amount: 12.5, direction: "out", name: "Groceries" });
+  });
+
+  it("rejects an invalid calendar date", () => {
+    expect(() => validateTransactionPatch({ date: "2026-02-30" })).toThrow(ValidationError);
+    expect(() => validateTransactionPatch({ date: "not-a-date" })).toThrow(ValidationError);
+  });
+
+  it("requires amount and direction together", () => {
+    expect(() => validateTransactionPatch({ amount: 5 })).toThrow(ValidationError);
+    expect(() => validateTransactionPatch({ direction: "out" })).toThrow(ValidationError);
+  });
+
+  it("rejects a non-positive or overly precise amount", () => {
+    expect(() => validateTransactionPatch({ amount: 0, direction: "out" })).toThrow(ValidationError);
+    expect(() => validateTransactionPatch({ amount: -5, direction: "out" })).toThrow(ValidationError);
+    expect(() => validateTransactionPatch({ amount: 5.005, direction: "out" })).toThrow(ValidationError);
+  });
+
+  it("rejects an invalid direction", () => {
+    expect(() => validateTransactionPatch({ amount: 5, direction: "sideways" })).toThrow(ValidationError);
+  });
+
+  it("requires name between 1 and 200 characters when given", () => {
+    expect(() => validateTransactionPatch({ name: "" })).toThrow(ValidationError);
+    expect(() => validateTransactionPatch({ name: "x".repeat(201) })).toThrow(ValidationError);
+    expect(validateTransactionPatch({ name: "  Coffee  " }).name).toBe("Coffee");
+  });
+});
+
 describe("transactions DB operations", () => {
   let categoryId: number;
   let txId: number;
@@ -141,5 +174,64 @@ describe("transactions DB operations", () => {
     const [row] = await db.select().from(schema.transactions).where(eq(schema.transactions.id, txId));
     expect(row.categoryId).toBeNull();
     expect(row.userEdited).toBe(false);
+  });
+
+  it("rejects date/amount/direction/name on a Plaid row and leaves it untouched", async () => {
+    await expect(updateTransaction(txId, { date: "2026-09-05" })).rejects.toBeInstanceOf(ValidationError);
+    await expect(updateTransaction(txId, { amount: 5, direction: "out" })).rejects.toBeInstanceOf(ValidationError);
+    await expect(updateTransaction(txId, { name: "Renamed" })).rejects.toBeInstanceOf(ValidationError);
+
+    const [row] = await db.select().from(schema.transactions).where(eq(schema.transactions.id, txId));
+    expect(row.date).toBe("2026-09-01");
+    expect(row.amount).toBe("10.00");
+    expect(row.name).toBe("Store");
+    expect(row.userEdited).toBe(false);
+  });
+});
+
+describe("updateTransaction on a manual row: full edit and balance recompute", () => {
+  let manualAccountId: number;
+  let manualTxId: number;
+
+  beforeEach(async () => {
+    await db.delete(schema.balanceSnapshots);
+    await db.delete(schema.transactions);
+    await db.delete(schema.accounts);
+    await db.delete(schema.items);
+
+    const { createManualAccount, createManualTransaction } = await import("@/lib/manual");
+    const account = await createManualAccount({ name: "Cash", type: "other", subtype: null, startingBalance: 100, currency: "USD" });
+    manualAccountId = account.id;
+    const tx = await createManualTransaction({
+      accountId: account.id,
+      date: "2026-09-01",
+      description: "Coffee",
+      amount: 5,
+      direction: "out",
+      categoryId: null,
+      notes: null,
+    });
+    manualTxId = tx.id;
+  });
+
+  it("accepts date, name, and amount+direction on a non-Plaid row", async () => {
+    const row = await updateTransaction(manualTxId, { date: "2026-09-10", name: "Tea", amount: 5, direction: "out" });
+    expect(row?.date).toBe("2026-09-10");
+    expect(row?.name).toBe("Tea");
+    expect(row?.userEdited).toBe(true);
+  });
+
+  it("applies the same sign conversion as the create path: 'in' stores a negative amount", async () => {
+    const row = await updateTransaction(manualTxId, { amount: 30, direction: "in" });
+    expect(row?.amount).toBe("-30.00");
+  });
+
+  it("recomputes the manual account's current_balance after an amount edit", async () => {
+    let [account] = await db.select().from(schema.accounts).where(eq(schema.accounts.id, manualAccountId));
+    expect(account.currentBalance).toBe("95.00"); // 100 - 5
+
+    await updateTransaction(manualTxId, { amount: 20, direction: "out" });
+    [account] = await db.select().from(schema.accounts).where(eq(schema.accounts.id, manualAccountId));
+    expect(account.currentBalance).toBe("80.00"); // 100 - 20
   });
 });

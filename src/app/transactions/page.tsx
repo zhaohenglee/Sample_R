@@ -54,10 +54,15 @@ export default async function TransactionsPage({ searchParams }: { searchParams:
     .where(eq(accounts.hidden, false))
     .orderBy(accounts.name);
   const categoryRows = await db.select({ id: categories.id, name: categories.name }).from(categories).orderBy(categories.name);
+  // Not filtered on hidden: hiding an account is a display preference (it
+  // hides the account from lists/totals), not a lock on recording against
+  // it -- same reasoning as the account filter dropdown intentionally not
+  // needing this table at all, and unlike that dropdown, this list decides
+  // whether a manual account can be used, not just whether it's shown.
   const manualAccountRows = await db
     .select({ id: accounts.id, name: accounts.name, nickname: accounts.nickname })
     .from(accounts)
-    .where(and(eq(accounts.source, "manual"), eq(accounts.hidden, false)))
+    .where(eq(accounts.source, "manual"))
     .orderBy(accounts.name);
 
   const qs = (over: Partial<Params>) => {

@@ -9,8 +9,9 @@ import {
   deleteManualAccount,
   createManualTransaction,
   deleteManualTransaction,
+  recomputeManualBalance,
 } from "@/lib/manual";
-import { syncAllItems, syncItem } from "@/lib/sync";
+import { syncItem } from "@/lib/sync";
 
 describe("manual account validation", () => {
   it("rejects an unknown field", () => {
@@ -327,6 +328,120 @@ describe("manual account and transaction DB operations", () => {
   });
 });
 
+describe("manual balance recomputation", () => {
+  beforeEach(async () => {
+    await db.delete(schema.balanceSnapshots);
+    await db.delete(schema.transactions);
+    await db.delete(schema.accounts);
+    await db.delete(schema.items);
+  });
+
+  it("createManualAccount sets current/available balance from starting_balance and writes today's snapshot", async () => {
+    const account = await createManualAccount({
+      name: "Cash",
+      type: "other",
+      subtype: null,
+      startingBalance: 250,
+      currency: "USD",
+    });
+    expect(account.startingBalance).toBe("250.00");
+    expect(account.currentBalance).toBe("250.00");
+    expect(account.availableBalance).toBe("250.00");
+
+    const [snapshot] = await db.select().from(schema.balanceSnapshots).where(eq(schema.balanceSnapshots.accountId, account.id));
+    expect(snapshot.current).toBe("250.00");
+  });
+
+  it("recomputes current_balance as starting_balance minus the net of amount over non-removed transactions", async () => {
+    const account = await createManualAccount({
+      name: "Cash",
+      type: "other",
+      subtype: null,
+      startingBalance: 250,
+      currency: "USD",
+    });
+
+    await createManualTransaction({
+      accountId: account.id,
+      date: "2026-09-01",
+      description: "Groceries",
+      amount: 40,
+      direction: "out",
+      categoryId: null,
+      notes: null,
+    });
+    let [after] = await db.select().from(schema.accounts).where(eq(schema.accounts.id, account.id));
+    expect(after.currentBalance).toBe("210.00");
+
+    const income = await createManualTransaction({
+      accountId: account.id,
+      date: "2026-09-02",
+      description: "Refund",
+      amount: 15,
+      direction: "in",
+      categoryId: null,
+      notes: null,
+    });
+    [after] = await db.select().from(schema.accounts).where(eq(schema.accounts.id, account.id));
+    expect(after.currentBalance).toBe("225.00"); // 250 - 40 + 15
+
+    await deleteManualTransaction(income.id);
+    [after] = await db.select().from(schema.accounts).where(eq(schema.accounts.id, account.id));
+    expect(after.currentBalance).toBe("210.00"); // back to starting - 40
+
+    const [snapshot] = await db.select().from(schema.balanceSnapshots).where(eq(schema.balanceSnapshots.accountId, account.id));
+    expect(snapshot.current).toBe("210.00");
+  });
+
+  it("recompute always re-queries the sum rather than incrementing: a direct edit of a transaction's amount is picked up", async () => {
+    const account = await createManualAccount({
+      name: "Cash",
+      type: "other",
+      subtype: null,
+      startingBalance: 100,
+      currency: "USD",
+    });
+    const tx = await createManualTransaction({
+      accountId: account.id,
+      date: "2026-09-01",
+      description: "Coffee",
+      amount: 5,
+      direction: "out",
+      categoryId: null,
+      notes: null,
+    });
+    let [after] = await db.select().from(schema.accounts).where(eq(schema.accounts.id, account.id));
+    expect(after.currentBalance).toBe("95.00");
+
+    // Bypass the app's own edit path entirely -- proves the recompute reads
+    // the ledger fresh rather than trusting a cached delta -- then trigger a
+    // recompute the same way updateTransaction does.
+    await db.update(schema.transactions).set({ amount: "20.00" }).where(eq(schema.transactions.id, tx.id));
+    await recomputeManualBalance(db, account.id);
+
+    [after] = await db.select().from(schema.accounts).where(eq(schema.accounts.id, account.id));
+    expect(after.currentBalance).toBe("80.00");
+  });
+
+  it("is a no-op for a Plaid account", async () => {
+    const [plaidItem] = await db
+      .insert(schema.items)
+      .values({ plaidItemId: "plaid-item-bal", accessTokenEnc: "unused" })
+      .returning();
+    const [plaidAccount] = await db
+      .insert(schema.accounts)
+      .values({ itemId: plaidItem.id, plaidAccountId: "plaid-acc-bal", name: "Checking", type: "depository", currentBalance: "42.00" })
+      .returning();
+
+    await recomputeManualBalance(db, plaidAccount.id);
+
+    const [after] = await db.select().from(schema.accounts).where(eq(schema.accounts.id, plaidAccount.id));
+    expect(after.currentBalance).toBe("42.00"); // untouched
+    const snapshots = await db.select().from(schema.balanceSnapshots).where(eq(schema.balanceSnapshots.accountId, plaidAccount.id));
+    expect(snapshots).toHaveLength(0); // no snapshot written either
+  });
+});
+
 describe("sync skips manual items and never touches non-Plaid rows", () => {
   beforeEach(async () => {
     await db.delete(schema.transactions);
@@ -350,30 +465,11 @@ describe("sync skips manual items and never touches non-Plaid rows", () => {
     expect(logs).toHaveLength(0);
   });
 
-  it("syncAllItems skips manual items entirely and leaves manual accounts and transactions unchanged", async () => {
-    const account = await createManualAccount({
-      name: "Cash",
-      type: "other",
-      subtype: null,
-      startingBalance: 10,
-      currency: "USD",
-    });
-    const tx = await createManualTransaction({
-      accountId: account.id,
-      date: "2026-09-01",
-      description: "Yard sale",
-      amount: 15,
-      direction: "in",
-      categoryId: null,
-      notes: null,
-    });
-
-    const results = await syncAllItems();
-    expect(results).toEqual([]);
-
-    const [accountAfter] = await db.select().from(schema.accounts).where(eq(schema.accounts.id, account.id));
-    expect(accountAfter).toEqual(account);
-    const [txAfter] = await db.select().from(schema.transactions).where(eq(schema.transactions.id, tx.id));
-    expect(txAfter).toEqual(tx);
-  });
+  // A prior version of this test called syncAllItems() here with no Plaid
+  // item in the database at all -- the loop body (and every source filter
+  // inside it) never ran, so the assertions proved nothing. The real
+  // multi-filter isolation coverage (a genuine sync pass, with a Plaid item
+  // and account coexisting alongside manual data) now lives in
+  // tests/sync-isolation.test.ts; this file keeps only the syncItem no-op
+  // unit test above, which is independently meaningful on its own.
 });

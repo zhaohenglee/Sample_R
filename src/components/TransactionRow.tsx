@@ -54,6 +54,20 @@ export function TransactionRow({
   const [saving, setSaving] = useState(false);
   const [error, setError] = useState<string | null>(null);
 
+  // Non-Plaid (manual/csv) rows only: date, name, and amount+direction are
+  // otherwise not user-editable -- a Plaid row keeps exactly the three
+  // fields above, since the next sync would just recreate these anyway.
+  // Derived fresh from `t` on every render (not just at mount), so a
+  // background refresh always reflects the latest server value even before
+  // the panel is next opened.
+  const editableInFull = t.source !== "plaid";
+  const initialDirection: "in" | "out" = parseFloat(t.amount) < 0 ? "in" : "out";
+  const initialMagnitude = Math.abs(parseFloat(t.amount)).toFixed(2);
+  const [date, setDate] = useState(t.date);
+  const [name, setName] = useState(t.name);
+  const [amount, setAmount] = useState(initialMagnitude);
+  const [direction, setDirection] = useState<"in" | "out">(initialDirection);
+
   // Display name takes over the primary label once set; the name it
   // replaces (merchant, or raw name) shows small underneath instead.
   const primaryLabel = t.merchant ?? t.name;
@@ -74,6 +88,10 @@ export function TransactionRow({
     setDisplayName(t.displayName ?? "");
     setCategoryId(t.categoryId);
     setNotes(t.notes ?? "");
+    setDate(t.date);
+    setName(t.name);
+    setAmount(initialMagnitude);
+    setDirection(initialDirection);
     setError(null);
     setEditing(true);
   }
@@ -88,6 +106,18 @@ export function TransactionRow({
     if (categoryId !== t.categoryId) patch.categoryId = categoryId;
     const nextNotes = normalizeText(notes);
     if (nextNotes !== (t.notes ?? null)) patch.notes = nextNotes;
+
+    if (editableInFull) {
+      if (date !== t.date) patch.date = date;
+      const nextName = name.trim();
+      if (nextName && nextName !== t.name) patch.name = nextName;
+      // amount and direction are a pair (the API requires both together),
+      // so either one changing sends both.
+      if (amount !== initialMagnitude || direction !== initialDirection) {
+        patch.amount = Number(amount);
+        patch.direction = direction;
+      }
+    }
 
     if (Object.keys(patch).length === 0) {
       setEditing(false);
@@ -181,6 +211,45 @@ export function TransactionRow({
         <tr className="border-t bg-gray-50">
           <td colSpan={6} className="px-3 py-3">
             <div className="flex flex-wrap items-end gap-3 text-sm">
+              {editableInFull && (
+                <>
+                  <label className="flex flex-col gap-1">
+                    <span className="text-xs text-gray-500">Date</span>
+                    <input
+                      type="date"
+                      value={date}
+                      onChange={(e) => setDate(e.target.value)}
+                      className="rounded border px-2 py-1"
+                    />
+                  </label>
+                  <label className="flex min-w-[10rem] flex-1 flex-col gap-1">
+                    <span className="text-xs text-gray-500">Description</span>
+                    <input value={name} onChange={(e) => setName(e.target.value)} className="rounded border px-2 py-1" />
+                  </label>
+                  <label className="flex flex-col gap-1">
+                    <span className="text-xs text-gray-500">Amount</span>
+                    <input
+                      type="number"
+                      step="0.01"
+                      min="0.01"
+                      value={amount}
+                      onChange={(e) => setAmount(e.target.value)}
+                      className="w-28 rounded border px-2 py-1"
+                    />
+                  </label>
+                  <label className="flex flex-col gap-1">
+                    <span className="text-xs text-gray-500">Direction</span>
+                    <select
+                      value={direction}
+                      onChange={(e) => setDirection(e.target.value as "in" | "out")}
+                      className="rounded border px-2 py-1"
+                    >
+                      <option value="out">Spending (money out)</option>
+                      <option value="in">Income (money in)</option>
+                    </select>
+                  </label>
+                </>
+              )}
               <label className="flex flex-col gap-1">
                 <span className="text-xs text-gray-500">Display name</span>
                 <input

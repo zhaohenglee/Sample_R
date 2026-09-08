@@ -1,9 +1,10 @@
 import { randomUUID } from "node:crypto";
-import { eq } from "drizzle-orm";
+import { and, eq, sql } from "drizzle-orm";
 import { db, schema } from "@/db";
 import { ValidationError } from "./categories";
+import { currentDateIso } from "./reports";
 
-const { items, accounts, transactions, categories } = schema;
+const { items, accounts, transactions, categories, balanceSnapshots } = schema;
 
 // Kept in sync with the manual-account form's <select> options. Not a
 // database enum -- `type` stays a free `text` column, same as the Plaid
@@ -14,27 +15,85 @@ export type ManualAccountType = (typeof MANUAL_ACCOUNT_TYPES)[number];
 const MAX_PG_INT = 2147483647; // postgres integer column max
 const MAX_NAME_LEN = 60;
 const MAX_SUBTYPE_LEN = 40;
-const MAX_DESCRIPTION_LEN = 200;
+// Exported: src/lib/transactions.ts reuses this cap for the "name" field a
+// non-Plaid PATCH is allowed to edit, so the two paths agree on the limit.
+export const MAX_DESCRIPTION_LEN = 200;
 const MAX_NOTES_LEN = 1000;
 // numeric(14,2); keep well clear of that range so a value that passes our
 // own check never trips a Postgres 22003 out of range error either.
-const MAX_ABS_AMOUNT = 1e12;
+// Exported so src/lib/transactions.ts's PATCH validation applies the same
+// bound to a manual row's edited amount.
+export const MAX_ABS_AMOUNT = 1e12;
 const CURRENCY_RE = /^[A-Z]{3}$/;
 const DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
 
 // Rejects a value with more than 2 decimal places rather than silently
 // rounding it. Compares in cents with a small epsilon to tolerate ordinary
 // binary-float representation error. Mirrors the equivalent check in
-// src/lib/budgets.ts.
-function hasAtMostTwoDecimals(amount: number): boolean {
+// src/lib/budgets.ts. Exported for reuse by src/lib/transactions.ts.
+export function hasAtMostTwoDecimals(amount: number): boolean {
   return Math.abs(Math.round(amount * 100) - amount * 100) < 1e-6;
 }
 
-function isValidCalendarDate(raw: string): boolean {
+// Exported for reuse by src/lib/transactions.ts's PATCH validation.
+export function isValidCalendarDate(raw: string): boolean {
   if (!DATE_RE.test(raw)) return false;
   const [y, m, d] = raw.split("-").map(Number);
   const dt = new Date(Date.UTC(y, m - 1, d));
   return dt.getUTCFullYear() === y && dt.getUTCMonth() === m - 1 && dt.getUTCDate() === d;
+}
+
+// The one place a user-entered (amount, direction) pair becomes a signed,
+// Plaid-convention amount (positive = money out). Shared by
+// createManualTransaction below and the non-Plaid branch of
+// src/lib/transactions.ts's updateTransaction, so the two paths can never
+// disagree on the conversion.
+export function toPlaidSignedAmount(amount: number, direction: "in" | "out"): number {
+  return direction === "out" ? amount : -amount;
+}
+
+// A minimal query-capable handle: either the module-level `db`, or a
+// transaction passed down so the read, the balance write, and the snapshot
+// write all happen atomically. Mirrors the equivalent `Queryable` type in
+// src/lib/categories.ts and src/lib/transactions.ts.
+type Queryable = Pick<typeof db, "select" | "insert" | "update">;
+
+// Recomputes and stores a manual account's current_balance (and
+// available_balance, kept equal to it -- a manual account has no separate
+// credit-limit-driven "available" concept) as starting_balance minus the
+// sum of amount over its non-removed transactions (Plaid sign convention:
+// positive = money out). Always queries the sum fresh rather than
+// incrementing a running total, so it can never drift from the ledger.
+// A no-op for a Plaid account. Also upserts today's balance_snapshots row,
+// so the net-balance trend chart reflects manual activity even for a user
+// who has only manual accounts and never runs a sync. Call this after every
+// manual transaction create, edit, or delete (and once right after creating
+// the account itself, so a fresh account's first snapshot exists).
+export async function recomputeManualBalance(tx: Queryable, accountId: number): Promise<void> {
+  const [account] = await tx.select().from(accounts).where(eq(accounts.id, accountId));
+  if (!account || account.source !== "manual") return;
+
+  const [sumRow] = await tx
+    .select({ total: sql<string>`coalesce(sum(${transactions.amount}), 0)` })
+    .from(transactions)
+    .where(and(eq(transactions.accountId, accountId), eq(transactions.isRemoved, false)));
+  const starting = parseFloat(account.startingBalance ?? "0");
+  const net = parseFloat(sumRow?.total ?? "0");
+  const balance = (starting - net).toFixed(2);
+
+  await tx.update(accounts)
+    .set({ currentBalance: balance, availableBalance: balance, updatedAt: new Date() })
+    .where(eq(accounts.id, accountId));
+
+  await tx.insert(balanceSnapshots).values({
+    accountId,
+    date: currentDateIso(),
+    current: balance,
+    available: balance,
+  }).onConflictDoUpdate({
+    target: [balanceSnapshots.accountId, balanceSnapshots.date],
+    set: { current: balance, available: balance },
+  });
 }
 
 // ---------------------------------------------------------------------------
@@ -117,19 +176,24 @@ export async function createManualAccount(input: ManualAccountInput): Promise<Ac
       status: "ok",
     }).returning();
 
-    const balance = input.startingBalance.toFixed(2);
     const [account] = await tx.insert(accounts).values({
       itemId: item.id,
       plaidAccountId: null,
       name: input.name,
       type: input.type,
       subtype: input.subtype,
-      currentBalance: balance,
-      availableBalance: balance,
+      startingBalance: input.startingBalance.toFixed(2),
       currency: input.currency,
       source: "manual",
     }).returning();
-    return account;
+
+    // Sets current_balance/available_balance from starting_balance (there
+    // are no transactions yet) and writes the account's first snapshot, via
+    // the same path every later create/edit/delete uses -- no separate
+    // "set the initial balance" logic to keep in sync with it.
+    await recomputeManualBalance(tx, account.id);
+    const [withBalance] = await tx.select().from(accounts).where(eq(accounts.id, account.id));
+    return withBalance;
   });
 }
 
@@ -251,7 +315,7 @@ export async function createManualTransaction(input: ManualTransactionInput): Pr
       if (!category) throw new ValidationError(`Category ${input.categoryId} does not exist.`);
     }
 
-    const signedAmount = input.direction === "out" ? input.amount : -input.amount;
+    const signedAmount = toPlaidSignedAmount(input.amount, input.direction);
     const [row] = await tx.insert(transactions).values({
       accountId: account.id,
       plaidTransactionId: `manual:${randomUUID()}`,
@@ -263,6 +327,7 @@ export async function createManualTransaction(input: ManualTransactionInput): Pr
       notes: input.notes,
       source: "manual",
     }).returning();
+    await recomputeManualBalance(tx, account.id);
     return row;
   });
 }
@@ -280,6 +345,7 @@ export async function deleteManualTransaction(id: number): Promise<Transaction |
       throw new ValidationError("Plaid transactions cannot be deleted.");
     }
     await tx.delete(transactions).where(eq(transactions.id, id));
+    await recomputeManualBalance(tx, row.accountId);
     return row;
   });
 }
