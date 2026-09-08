@@ -123,19 +123,108 @@ Conventions for every task:
 
 ---
 
-## Phase 6: Extras (each is independent)
+## Phase 6
+
+Ordering is deliberate. T6.2 lays the foundation for non-Plaid data, so it
+goes first and T6.1 builds on it. T6.3 is deferred: it needs live Plaid
+calls to verify and the build environment cannot reach Plaid.
+
+### Decision: manual data reuses the existing tables (lead, T6.2)
+
+Manual accounts do **not** get their own tables. A separate `manual_accounts`
+table would force a union into every query that touches accounts, which today
+means the dashboard, transactions, budgets, reports, charts, and recurring.
+That blast radius is not worth the tidiness. Instead:
+
+- `items.plaid_item_id` and `items.access_token_enc` become nullable. A manual
+  item has both null. Postgres allows many nulls under a unique index, so the
+  existing constraint still holds for Plaid items.
+- `accounts.plaid_account_id` becomes nullable, same reasoning.
+- `transactions.plaid_transaction_id` stays **not null and unique**. Manual and
+  imported rows get a synthetic id of the form `manual:<uuid>` or `csv:<uuid>`.
+  This keeps the sync upsert logic untouched.
+- A `source` column (`plaid` | `manual` | `csv`, default `plaid`) is added to
+  both `accounts` and `transactions`. Sync must filter on it.
+
+Every task below inherits this decision.
+
+### T6.2 Manual accounts and transactions
+**Scope:** Schema per the decision above. Page `/accounts` gains "Add manual
+account" (name, type, subtype, starting balance, currency). Manual accounts can
+be renamed, hidden, excluded from totals, and deleted (cascades transactions,
+with a typed confirmation). On `/transactions`, an "Add transaction" button
+opens a form (account limited to manual accounts, date, description, amount,
+inflow/outflow toggle, category, notes). Manual transactions are editable and
+deletable in full, unlike Plaid rows.
+**Files:** schema + migration, `src/lib/manual.ts`, `src/app/api/accounts/route.ts`
+(POST), `src/app/api/accounts/[id]/route.ts` (DELETE), `src/app/api/transactions/route.ts`
+(POST), `src/app/api/transactions/[id]/route.ts` (DELETE), `src/components/ManualAccountForm.tsx`,
+`src/components/ManualTransactionForm.tsx`, accounts and transactions pages.
+**Accept:**
+- `syncAllItems` skips items with a null access token and never reads or writes
+  rows where `source` is not `plaid`. Test this directly: create a manual item
+  and account, run a sync, assert nothing changed and no error was logged.
+- Amount sign follows the existing Plaid convention, positive is money out. The
+  form's inflow/outflow toggle handles the flip. Test both directions.
+- A manual account's balance appears in net balance unless excluded.
+- Deleting a manual account removes its transactions and leaves Plaid data intact.
+- DELETE on a Plaid transaction returns 400, not a deletion.
+- Manual transactions are picked up by budgets, reports, and charts.
 
 ### T6.1 CSV import
-Manual accounts (`items.plaid_item_id` nullable, `accounts.is_manual`). Upload CSV, map columns (date, description, amount, sign convention), preview, import with dedupe on (account, date, amount, description hash). Rules run on imported rows.
-
-### T6.2 Manual transactions and accounts
-Create manual account (cash, property). Add, edit, delete manual transactions. Manual balance updates create snapshots.
-
-### T6.3 Investments and liabilities
-Enable Plaid `investments` and `liabilities` products. Holdings table and page. Liabilities (credit APR, next payment due) shown on `/accounts`.
+**Scope:** Page `/import`. Upload a CSV (cap 5 MB, 10000 rows), pick the target
+account (manual accounts only), then a mapping screen: date column and format,
+description column, amount column, plus a sign convention toggle (positive is
+spending, or positive is income) and an optional separate debit/credit column
+pair. Show a 10 row preview with parsed results and per-row errors. Import
+inserts with `source = 'csv'` and id `csv:<uuid>`. Dedupe within the account on
+a hash of date, amount, and normalized description; report how many rows were
+skipped as duplicates. Category rules run on imported rows.
+**Files:** `src/lib/csv.ts` (parser and mapper, no dependency beyond a small
+hand written RFC 4180 splitter), `src/app/import/page.tsx`,
+`src/app/api/import/preview/route.ts`, `src/app/api/import/commit/route.ts`,
+`src/components/ImportWizard.tsx`, nav link.
+**Accept:**
+- Parser unit tests: quoted fields, embedded commas, embedded newlines, escaped
+  quotes, CRLF, a UTF-8 byte order mark, and a trailing blank line.
+- Date parsing covers ISO, US, and European orders, chosen explicitly by the
+  user rather than guessed.
+- Amounts parse with currency symbols, thousands separators, and parentheses
+  for negatives.
+- Re-importing the same file a second time inserts zero rows.
+- A malformed row is reported with its line number and does not abort the import.
+- Over-size or over-row-count uploads are rejected with 413.
 
 ### T6.4 Export
-`GET /api/export/transactions.csv` with the same filters as the transactions page. Full JSON export of all tables for backup.
+**Scope:** `GET /api/export/transactions.csv` accepting the same query
+parameters as the transactions page, streaming a CSV with a header row.
+`GET /api/export/backup.json` dumping every table for offline backup. Buttons on
+the transactions page and `/accounts`. Both require auth.
+**Files:** `src/lib/export.ts`, `src/app/api/export/transactions.csv/route.ts`,
+`src/app/api/export/backup.json/route.ts`, UI buttons.
+**Accept:**
+- Exported rows match the filtered page exactly, same order, same count.
+- Fields containing commas, quotes, or newlines are correctly escaped and
+  round trip through the T6.1 parser.
+- Access tokens never appear in the JSON backup. Assert this in a test.
+- Unauthenticated requests get 401.
 
 ### T6.5 Goals
-Savings goals linked to an account with target amount and date, progress on dashboard.
+**Scope:** Table `goals` (`id, name, account_id nullable, target_amount,
+target_date nullable, created_at`). Page `/goals` for CRUD. Progress is the
+linked account's current balance against the target, or a manual current amount
+when no account is linked. Dashboard card shows active goals with a progress bar
+and, where a target date exists, the monthly saving required to hit it.
+**Files:** schema + migration, `src/lib/goals.ts`, `src/app/goals/page.tsx`,
+`src/app/api/goals/route.ts`, `src/app/api/goals/[id]/route.ts`, dashboard card, nav link.
+**Accept:**
+- Pure function for required monthly contribution, unit tested, including a past
+  target date and an already met goal.
+- Deleting a linked account nulls the goal's `account_id` rather than deleting
+  the goal.
+- Progress is capped at 100 percent in the display.
+
+### T6.3 Investments and liabilities (deferred)
+Blocked. Verifying it needs live Plaid `investments` and `liabilities` calls,
+and the build environment's network policy denies Plaid. Build this once the app
+is deployed somewhere with outbound access, or once the policy is changed.

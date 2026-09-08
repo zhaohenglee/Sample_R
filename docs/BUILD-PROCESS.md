@@ -7,8 +7,12 @@ Three roles, three model tiers. The goal is cheap building, independent checking
 | Role | Model | Does | Does not |
 |---|---|---|---|
 | Builder | Sonnet | Implements one task from `docs/TASKS.md`. Writes code, migrations, tests. Runs typecheck, build, tests locally. Reports what was done and any deviation. | Change scope, skip acceptance criteria, touch unrelated files, commit. |
-| Validator | Opus | Reads the task and the diff. Runs typecheck, build, tests. Checks each acceptance criterion and reports PASS or FAIL with specific findings and file references. Looks for security issues and sync data integrity bugs. | Fix the code itself, approve on "looks fine" without running checks. |
-| Lead | Fable | Sequences tasks, writes task specs, decides escalations, commits and pushes after PASS. | Write feature code when a builder can. |
+| Validator | Opus (subagent) | Reads the task and the diff in a fresh context. Runs typecheck, build, tests. Checks each acceptance criterion and reports PASS or FAIL with specific findings and file references. Looks for security issues and sync data integrity bugs. | Fix the code itself, approve on "looks fine" without running checks. |
+| Lead | Opus (main session) | Sequences tasks, writes task specs, decides escalations, commits and pushes after PASS. | Write feature code when a builder can. |
+
+The validator always runs as a separate subagent with its own context, even
+though the lead is the same model. Independence comes from not having seen
+the builder's reasoning, not from the model being different.
 
 ## Loop per task
 
