@@ -1,0 +1,398 @@
+<title>Company Financial Analysis Pipeline</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:wght@500;600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+  :root {
+    --bg: #F6F7F5;
+    --surface: #FFFFFF;
+    --ink: #1B2430;
+    --ink-2: #4A5563;
+    --muted: #7A8390;
+    --line: #DCE0DB;
+    --accent: #1F6F5C;
+    --accent-ink: #14523F;
+    --tier1-bg: #E3EFE9; --tier1-fg: #1F6F5C;
+    --tier2-bg: #BFDCCF; --tier2-fg: #123E30;
+    --tier3-bg: #1B2430; --tier3-fg: #F6F7F5;
+    --code-bg: #EEF1EC;
+    --warn-bg: #FBF3E3; --warn-fg: #7A4E00; --warn-line: #E8CB86;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #151A1F;
+      --surface: #1D2329;
+      --ink: #E8EBE6;
+      --ink-2: #B7BEC6;
+      --muted: #8791A0;
+      --line: #313A42;
+      --accent: #5FB79A;
+      --accent-ink: #8ED1BA;
+      --tier1-bg: #22352E; --tier1-fg: #8ED1BA;
+      --tier2-bg: #2B5245; --tier2-fg: #D5F0E4;
+      --tier3-bg: #E8EBE6; --tier3-fg: #151A1F;
+      --code-bg: #232A31;
+      --warn-bg: #33291A; --warn-fg: #F0C878; --warn-line: #5C4A22;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #151A1F;
+    --surface: #1D2329;
+    --ink: #E8EBE6;
+    --ink-2: #B7BEC6;
+    --muted: #8791A0;
+    --line: #313A42;
+    --accent: #5FB79A;
+    --accent-ink: #8ED1BA;
+    --tier1-bg: #22352E; --tier1-fg: #8ED1BA;
+    --tier2-bg: #2B5245; --tier2-fg: #D5F0E4;
+    --tier3-bg: #E8EBE6; --tier3-fg: #151A1F;
+    --code-bg: #232A31;
+    --warn-bg: #33291A; --warn-fg: #F0C878; --warn-line: #5C4A22;
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: "IBM Plex Sans", "Helvetica Neue", Arial, sans-serif;
+    font-size: 15px;
+    line-height: 1.55;
+    padding-block: 48px 80px;
+    padding-inline: 20px;
+  }
+  .page { max-width: 880px; margin: 0 auto; display: grid; gap: 44px; }
+
+  h1, h2, h3 {
+    font-family: "IBM Plex Serif", Georgia, serif;
+    text-wrap: balance;
+    margin: 0;
+    letter-spacing: -0.005em;
+  }
+  h1 { font-size: 34px; font-weight: 600; line-height: 1.15; }
+  h2 { font-size: 21px; font-weight: 600; }
+  h3 { font-size: 16px; font-weight: 600; }
+  p { margin: 0; max-width: 68ch; }
+  .eyebrow {
+    font-size: 11.5px; letter-spacing: 0.09em; text-transform: uppercase;
+    color: var(--muted); font-weight: 600;
+  }
+  .lede { color: var(--ink-2); font-size: 16px; }
+  code, .mono { font-family: "IBM Plex Mono", Menlo, Consolas, monospace; }
+  code { background: var(--code-bg); padding: 1px 5px; border-radius: 3px; font-size: 13px; }
+  .num { font-family: "IBM Plex Mono", Menlo, monospace; font-variant-numeric: tabular-nums; }
+
+  header { display: grid; gap: 14px; padding-bottom: 28px; border-bottom: 1px solid var(--line); }
+  .meta { display: flex; flex-wrap: wrap; gap: 8px 28px; color: var(--ink-2); font-size: 13.5px; }
+  .meta b { color: var(--ink); font-weight: 600; }
+
+  section { display: grid; gap: 16px; }
+  .section-head { display: grid; gap: 6px; }
+
+  .tag {
+    display: inline-block; font-family: "IBM Plex Mono", monospace; font-size: 12px;
+    padding: 2px 8px; border-radius: 3px; white-space: nowrap; font-weight: 500;
+  }
+  .t1 { background: var(--tier1-bg); color: var(--tier1-fg); }
+  .t2 { background: var(--tier2-bg); color: var(--tier2-fg); }
+  .t3 { background: var(--tier3-bg); color: var(--tier3-fg); }
+  .t0 { background: var(--code-bg); color: var(--ink-2); }
+
+  .lanes { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; }
+  .lane { background: var(--surface); border: 1px solid var(--line); padding: 14px 16px; display: grid; gap: 8px; align-content: start; }
+  .lane .role { font-weight: 600; }
+  .lane .when { color: var(--ink-2); font-size: 13.5px; }
+  .lane .price { color: var(--muted); font-size: 12.5px; }
+
+  .scroll { overflow-x: auto; border: 1px solid var(--line); background: var(--surface); }
+  table { border-collapse: collapse; width: 100%; font-size: 13.5px; }
+  th, td { text-align: left; vertical-align: top; padding: 11px 12px; border-bottom: 1px solid var(--line); }
+  th { font-size: 11.5px; letter-spacing: 0.07em; text-transform: uppercase; color: var(--muted); font-weight: 600; white-space: nowrap; }
+  tbody tr:last-child td { border-bottom: 0; }
+  td.stage { white-space: nowrap; font-weight: 600; }
+  td.r, th.r { text-align: right; }
+  tr.total td { font-weight: 600; border-top: 2px solid var(--ink); }
+  .stages-table { min-width: 860px; }
+  .cost-table { min-width: 620px; }
+  .sub { color: var(--muted); font-size: 12.5px; display: block; margin-top: 2px; }
+
+  ol.rules, ul.plain { margin: 0; padding-left: 20px; display: grid; gap: 8px; max-width: 70ch; }
+  ul.plain { list-style: disc; }
+
+  .skills { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; }
+  .skill { background: var(--surface); border: 1px solid var(--line); padding: 14px 16px; display: grid; gap: 6px; align-content: start; }
+  .skill code { font-size: 12.5px; }
+  .skill .use { color: var(--ink-2); font-size: 13.5px; }
+  .skill .stage-ref { color: var(--muted); font-size: 12px; }
+
+  .callout { background: var(--warn-bg); border-left: 3px solid var(--warn-line); color: var(--warn-fg); padding: 12px 16px; display: grid; gap: 6px; }
+  .callout b { font-weight: 600; }
+  .callout ul { margin: 0; padding-left: 18px; display: grid; gap: 4px; }
+
+  .compare { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; }
+  .cmp { background: var(--surface); border: 1px solid var(--line); padding: 14px 16px; display: grid; gap: 4px; }
+  .cmp .label { font-size: 12.5px; color: var(--muted); }
+  .cmp .val { font-family: "IBM Plex Serif", serif; font-size: 26px; font-weight: 600; font-variant-numeric: tabular-nums; }
+  .cmp .note { font-size: 12.5px; color: var(--ink-2); }
+  .cmp.pick { border-color: var(--accent); }
+  .cmp.pick .val { color: var(--accent-ink); }
+
+  footer { color: var(--muted); font-size: 12.5px; border-top: 1px solid var(--line); padding-top: 16px; }
+
+  @media (max-width: 720px) {
+    .lanes, .skills, .compare { grid-template-columns: 1fr 1fr; }
+    h1 { font-size: 28px; }
+  }
+  @media (max-width: 460px) {
+    .lanes, .skills, .compare { grid-template-columns: 1fr; }
+  }
+</style>
+
+<div class="page">
+  <header>
+    <span class="eyebrow">Workflow plan · v2 · designed and reviewed on Fable 5.1</span>
+    <h1>Company Financial Analysis Pipeline</h1>
+    <p class="lede">Seven stages from filings to a reviewed report. Bulk reading goes to Haiku 4.5, structuring to Sonnet 5 at low effort, judgment to Sonnet 5 at high effort, and one final audit to Fable 5.1. Arithmetic never runs through a model.</p>
+    <div class="meta">
+      <span><b>Estimated cost</b> <span class="num">$1.40</span> per company, <span class="num">$2.60</span> with the Fable review gate</span>
+      <span><b>Baseline</b> <span class="num">$2.90</span> on Sonnet 5 throughout</span>
+      <span><b>Pricing basis</b> Anthropic API rates, June 2026</span>
+    </div>
+  </header>
+
+  <section>
+    <div class="section-head">
+      <h2>What changed from v1</h2>
+    </div>
+    <div class="callout">
+      <b>Three corrections, stated plainly</b>
+      <ul>
+        <li>v1 assigned work to Sonnet 3.5, which is not in the current lineup. The current tiers are Haiku 4.5 ($1 / $5 per MTok in / out), Sonnet 5 ($2 / $10) and Fable 5.1 ($10 / $50). v1's prices were wrong on every row.</li>
+        <li>v1 sent ratio calculation to a model. Ratios are arithmetic on a normalized ledger; a script does it for free and never hallucinates a margin. The model writes the script once.</li>
+        <li>v1 invented generic skills. This plan maps each stage to the skills actually installed in this Claude Code workspace, plus the two tools it needs.</li>
+      </ul>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-head">
+      <h2>Routing lanes</h2>
+      <p>Four lanes, chosen by the kind of work, not the size of the document. Each stage below names its lane.</p>
+    </div>
+    <div class="lanes">
+      <div class="lane">
+        <span class="tag t1">Haiku 4.5</span>
+        <span class="role">Listing lane</span>
+        <span class="when">Read every page, extract every line item, format every export. High volume, no judgment.</span>
+        <span class="price">$1 in · $5 out · 200K context, so chunk filings by statement</span>
+      </div>
+      <div class="lane">
+        <span class="tag t1">Sonnet 5 · low effort</span>
+        <span class="role">Structuring lane</span>
+        <span class="when">Map extracted items to a standard chart of accounts, reconcile, write the workbook.</span>
+        <span class="price">$2 in · $10 out · 1M context holds a full filing set</span>
+      </div>
+      <div class="lane">
+        <span class="tag t2">Sonnet 5 · xhigh effort</span>
+        <span class="role">Execution lane</span>
+        <span class="when">Interpret trends, flag anomalies, benchmark peers, build scenarios, write the narrative.</span>
+        <span class="price">Same rate; effort raises thinking tokens, not price per token</span>
+      </div>
+      <div class="lane">
+        <span class="tag t3">Fable 5.1</span>
+        <span class="role">Review gate</span>
+        <span class="when">Audit the final deliverable against source pages and challenge each conclusion. Runs once.</span>
+        <span class="price">$10 in · $50 out · the largest single line, so never in the loop</span>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-head">
+      <h2>Stages</h2>
+      <p>Each stage has one job, one owner, one artifact, and a gate that must pass before the next stage starts.</p>
+    </div>
+    <div class="scroll">
+      <table class="stages-table">
+        <thead>
+          <tr><th>Stage</th><th>Job</th><th>Owner</th><th>Skill / tool</th><th>Artifact</th><th>Gate</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="stage">0 · Scope</td>
+            <td>Fix the question, company, period, peer set and thesis to test.</td>
+            <td><span class="tag t1">Sonnet 5 · low</span></td>
+            <td>WebSearch for tickers and peer list</td>
+            <td><code>brief.json</code></td>
+            <td>Human signs the brief.</td>
+          </tr>
+          <tr>
+            <td class="stage">1 · Intake</td>
+            <td>Pull filings (two 10-Ks, latest 10-Q) and extract statement line items with page references.</td>
+            <td><span class="tag t1">Haiku 4.5</span><span class="sub">via Batch API</span></td>
+            <td><code>anthropic-skills:pdf</code>, WebFetch</td>
+            <td><code>lineitems.json</code></td>
+            <td>Extracted totals tie to the filing subtotals within rounding.</td>
+          </tr>
+          <tr>
+            <td class="stage">2 · Normalize</td>
+            <td>Map line items to a standard chart of accounts and build the working ledger.</td>
+            <td><span class="tag t1">Sonnet 5 · low</span><span class="sub">via Batch API</span></td>
+            <td><code>anthropic-skills:xlsx</code></td>
+            <td><code>ledger.xlsx</code></td>
+            <td>Balance sheet balances. Cash flow ties to change in cash. Unmapped items listed, not dropped.</td>
+          </tr>
+          <tr>
+            <td class="stage">3 · Compute</td>
+            <td>Ratios, growth rates, common-size statements, peer table.</td>
+            <td><span class="tag t0">Script</span><span class="sub">no model tokens</span></td>
+            <td><code>anthropic-skills:xlsx</code> formulas or Python</td>
+            <td><code>metrics.xlsx</code></td>
+            <td>Every metric traces to a ledger cell. Spot check three against a public source.</td>
+          </tr>
+          <tr>
+            <td class="stage">4 · Analyze</td>
+            <td>Read the metrics. Explain trends, flag anomalies, rank risks, run base / bull / bear scenarios.</td>
+            <td><span class="tag t2">Sonnet 5 · xhigh</span></td>
+            <td>Adaptive thinking on; metrics file cached as a prefix</td>
+            <td><code>findings.md</code></td>
+            <td>Every claim cites a metric cell or a filing page. No number appears that is not in <code>metrics.xlsx</code>.</td>
+          </tr>
+          <tr>
+            <td class="stage">5 · Report</td>
+            <td>Narrative, charts and the deliverable in the format the reader asked for.</td>
+            <td><span class="tag t2">Sonnet 5 · medium</span><span class="sub">narrative</span><span class="tag t1" style="margin-top:6px">Haiku 4.5</span><span class="sub">layout and export</span></td>
+            <td><code>dataviz</code>, <code>anthropic-skills:docx</code>, <code>anthropic-skills:pptx</code>, <code>artifact-design</code></td>
+            <td><code>report.docx</code> or deck, dashboard artifact</td>
+            <td>Charts reproduce from <code>metrics.xlsx</code> alone. Executive summary fits one page.</td>
+          </tr>
+          <tr>
+            <td class="stage">6 · Review</td>
+            <td>Audit numbers against source pages, test each conclusion for the strongest counterargument, list what a reader would challenge.</td>
+            <td><span class="tag t3">Fable 5.1</span></td>
+            <td>Review checklist below</td>
+            <td><code>review.md</code></td>
+            <td>Zero unresolved numeric discrepancies. Open judgment calls returned to the human, not to Stage 4.</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div>
+      <h3>Standing rules</h3>
+      <ol class="rules">
+        <li>A model reads and interprets; a script calculates. If a number is not in <code>metrics.xlsx</code>, it does not appear in the report.</li>
+        <li>Stages 1 and 2 have no deadline, so they run through the Batch API at half price.</li>
+        <li>The ledger, the chart of accounts and the peer set sit first in every prompt and carry a cache breakpoint. Per company questions come after it.</li>
+        <li>Rework loops go back one stage only. A review finding about a number returns to Stage 2; a finding about an argument returns to Stage 4.</li>
+        <li>Fable 5.1 runs once per deliverable. If a second audit is needed, Opus 5 at $5 / $25 does it.</li>
+      </ol>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-head">
+      <h2>Required skills</h2>
+      <p>Skills already installed in this workspace, with the stage that calls each. Two tools, WebSearch and WebFetch, cover sourcing.</p>
+    </div>
+    <div class="skills">
+      <div class="skill">
+        <code>anthropic-skills:pdf</code>
+        <span class="use">Reads filings page by page and returns text with page numbers, so every extracted item keeps its citation.</span>
+        <span class="stage-ref">Stage 1</span>
+      </div>
+      <div class="skill">
+        <code>anthropic-skills:xlsx</code>
+        <span class="use">Builds the ledger and metrics workbooks with live formulas, so ratios recalculate when a line item is corrected.</span>
+        <span class="stage-ref">Stages 2, 3</span>
+      </div>
+      <div class="skill">
+        <code>dataviz</code>
+        <span class="use">Chart form, scale and palette rules, so trend and peer charts read the same across every report.</span>
+        <span class="stage-ref">Stage 5</span>
+      </div>
+      <div class="skill">
+        <code>anthropic-skills:docx</code> / <code>pptx</code>
+        <span class="use">Report or deck output with the reader's template, headings and number formats.</span>
+        <span class="stage-ref">Stage 5</span>
+      </div>
+      <div class="skill">
+        <code>artifact-design</code>
+        <span class="use">Shareable dashboard version of the report when the reader wants a link rather than a file.</span>
+        <span class="stage-ref">Stage 5</span>
+      </div>
+      <div class="skill">
+        <code>claude-api</code>
+        <span class="use">Current model IDs, prices, effort settings, Batch API and caching rules. Consulted whenever routing changes.</span>
+        <span class="stage-ref">All stages</span>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-head">
+      <h2>Cost per company</h2>
+      <p>Worked estimate for one company: two 10-Ks and one 10-Q, about 450K tokens of filings. Token counts are assumptions until measured; log <code>response.usage</code> on every call and replace them after the first ten runs.</p>
+    </div>
+    <div class="scroll">
+      <table class="cost-table">
+        <thead>
+          <tr><th>Stage</th><th>Owner</th><th class="r">Tokens in</th><th class="r">Tokens out</th><th class="r">List cost</th><th class="r">After Batch</th></tr>
+        </thead>
+        <tbody>
+          <tr><td class="stage">0 · Scope</td><td>Sonnet 5 · low</td><td class="r num">5K</td><td class="r num">2K</td><td class="r num">$0.03</td><td class="r num">$0.03</td></tr>
+          <tr><td class="stage">1 · Intake</td><td>Haiku 4.5</td><td class="r num">450K</td><td class="r num">40K</td><td class="r num">$0.65</td><td class="r num">$0.33</td></tr>
+          <tr><td class="stage">2 · Normalize</td><td>Sonnet 5 · low</td><td class="r num">60K</td><td class="r num">25K</td><td class="r num">$0.37</td><td class="r num">$0.19</td></tr>
+          <tr><td class="stage">3 · Compute</td><td>Script</td><td class="r num">0</td><td class="r num">0</td><td class="r num">$0.02</td><td class="r num">$0.02</td></tr>
+          <tr><td class="stage">4 · Analyze</td><td>Sonnet 5 · xhigh</td><td class="r num">50K</td><td class="r num">40K</td><td class="r num">$0.50</td><td class="r num">$0.50</td></tr>
+          <tr><td class="stage">5 · Report</td><td>Sonnet 5 · medium + Haiku 4.5</td><td class="r num">60K</td><td class="r num">35K</td><td class="r num">$0.34</td><td class="r num">$0.34</td></tr>
+          <tr class="total"><td class="stage">Pipeline</td><td></td><td class="r num">625K</td><td class="r num">142K</td><td class="r num">$1.91</td><td class="r num">$1.41</td></tr>
+          <tr><td class="stage">6 · Review</td><td>Fable 5.1, once</td><td class="r num">60K</td><td class="r num">12K</td><td class="r num">$1.20</td><td class="r num">$1.20</td></tr>
+          <tr class="total"><td class="stage">With review</td><td></td><td class="r num">685K</td><td class="r num">154K</td><td class="r num">$3.11</td><td class="r num">$2.61</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="compare">
+      <div class="cmp pick">
+        <span class="label">This plan, before review</span>
+        <span class="val">$1.41</span>
+        <span class="note">Routed lanes, Batch on Stages 1 and 2</span>
+      </div>
+      <div class="cmp">
+        <span class="label">Sonnet 5 at xhigh for everything</span>
+        <span class="val">$2.93</span>
+        <span class="note">Includes model arithmetic at Stage 3. Plan saves about 52%.</span>
+      </div>
+      <div class="cmp">
+        <span class="label">Fable 5.1 for everything</span>
+        <span class="val">$14.65</span>
+        <span class="note">Ten times the plan. The review gate alone buys most of Fable's value.</span>
+      </div>
+    </div>
+    <div>
+      <h3>Savings levers, in the order they pay</h3>
+      <ol class="rules">
+        <li><b>Batch API</b> on Stages 1 and 2: half price, no quality change. Worth $0.50 per company.</li>
+        <li><b>Prompt caching</b> of the ledger and peer set across Stage 4 and 5 calls: cache reads cost a tenth of list price. Not counted above, so the true figure is lower.</li>
+        <li><b>Effort level</b> before model tier: Sonnet 5 at low effort beats switching Stage 2 to Haiku, because Haiku's 200K window forces chunking and re-assembly.</li>
+        <li><b>Model tier</b> last. Haiku only where the task is reading and formatting; Fable only where a wrong number costs more than $1.20.</li>
+      </ol>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-head">
+      <h2>Review checklist for Stage 6</h2>
+      <p>What Fable 5.1 is asked to do, and only this.</p>
+    </div>
+    <ul class="plain">
+      <li>Pick ten numbers from the report at random and trace each to a filing page. Report every mismatch.</li>
+      <li>For each of the top three conclusions, write the strongest case against it using only the same metrics.</li>
+      <li>List any metric the report leans on that a peer analyst would define differently, and say which definition was used.</li>
+      <li>Name the single assumption in the scenarios that, if wrong, flips the recommendation.</li>
+      <li>Return open judgment calls to the human with the evidence on both sides. Do not rewrite the report.</li>
+    </ul>
+  </section>
+
+  <footer>
+    Rates: Haiku 4.5 $1 / $5, Sonnet 5 $2 / $10, Opus 5 $5 / $25, Fable 5.1 $10 / $50 per million tokens in / out, Anthropic API, June 2026. Batch API halves list price. Token counts are planning assumptions until replaced by measured usage.
+  </footer>
+</div>
