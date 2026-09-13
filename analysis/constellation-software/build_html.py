@@ -12,7 +12,8 @@ TAG = re.compile(r"\s*\[(metrics|ledger|peer):([^\]]+)\]")
 
 def inline(t):
     t = html.escape(t, quote=False)
-    t = TAG.sub(lambda m: f' <span class="cite" title="{html.escape(m.group(1)+":"+m.group(2))}">{html.escape(m.group(1))}:{html.escape(m.group(2))}</span>', t)
+    t = TAG.sub(lambda m: f'<span class="cite" title="{html.escape(m.group(1)+":"+m.group(2))}">{html.escape(m.group(1))}:{html.escape(m.group(2))}</span>', t)
+    t = re.sub(r"(</span>)\s+([.,;:)])", r"\1\2", t)
     t = re.sub(r"(https?://[^\s<]+)", r'<a href="\1">\1</a>', t)
     return t
 
@@ -73,7 +74,10 @@ while i < len(lines):
         if in_list != "ul": close_list(); out.append("<ul>"); in_list = "ul"
         out.append(f"<li>{inline(ln[2:])}</li>"); i += 1; continue
     if ln.strip() == "":
-        close_list(); i += 1; continue
+        nxt = next((l for l in lines[i+1:] if l.strip() != ""), "")
+        cont = (in_list == "ol" and re.match(r"^\d+\. ", nxt)) or (in_list == "ul" and nxt.startswith("- "))
+        if not cont: close_list()
+        i += 1; continue
     close_list()
     txt = ln.strip()
     if txt.startswith("Verdict:"):
@@ -140,7 +144,7 @@ nav.toc {{ display:flex; flex-wrap:wrap; gap:6px 14px; font-size:13.5px; padding
 nav.toc a {{ text-decoration:none; color:var(--accent-ink); }}
 nav.toc a:hover, nav.toc a:focus-visible {{ text-decoration:underline; }}
 section {{ display:grid; gap:14px; }}
-.verdict-line {{ font-family:"Source Serif 4",Georgia,serif; font-size:24px; font-weight:600; color:var(--verdict-fg); }}
+.verdict-line {{ font-family:"Source Serif 4",Georgia,serif; font-size:19px; font-weight:600; color:var(--verdict-fg); }}
 .label {{ font-size:12px; letter-spacing:.07em; text-transform:uppercase; color:var(--muted); font-weight:600; margin-top:6px; }}
 ol,ul {{ margin:0; padding-left:22px; display:grid; gap:10px; max-width:70ch; }}
 .scroll {{ overflow-x:auto; border:1px solid var(--line); background:var(--surface); }}
@@ -154,7 +158,7 @@ table.grid td.neg {{ background:var(--neg-bg); color:var(--neg-fg); }}
 table.grid td.low {{ background:var(--low-bg); color:var(--low-fg); }}
 table.grid td.mid {{ background:var(--mid-bg); color:var(--mid-fg); }}
 table.grid td.high {{ background:var(--high-bg); color:var(--high-fg); font-weight:500; }}
-.cite {{ display:none; font-family:"Source Code Pro",monospace; font-size:10.5px; background:var(--cite-bg); color:var(--cite-fg); padding:0 4px; border-radius:2px; white-space:nowrap; vertical-align:baseline; }}
+.cite {{ display:none; margin-left:4px; font-family:"Source Code Pro",monospace; font-size:10.5px; background:var(--cite-bg); color:var(--cite-fg); padding:0 4px; border-radius:2px; white-space:nowrap; vertical-align:baseline; }}
 body.show-cites .cite {{ display:inline; }}
 .toggle {{ display:flex; align-items:center; gap:8px; font-size:13.5px; color:var(--ink2); }}
 .toggle input {{ width:16px; height:16px; }}
