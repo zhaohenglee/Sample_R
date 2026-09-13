@@ -13,6 +13,11 @@ import { dedupeHash, mapRows, type ColumnMapping, type CsvRecord, type RowError 
 
 const { accounts, transactions } = schema;
 
+// Rows per INSERT statement. Each row binds 8 parameters and the protocol
+// caps a statement at 65535, so 1000 rows (8000 parameters) leaves ample
+// headroom if the row shape grows.
+const INSERT_CHUNK_ROWS = 1000;
+
 export type ImportResult = {
   imported: number;
   skippedDuplicates: number;
@@ -60,8 +65,17 @@ export async function commitImport(accountId: number, mapping: ColumnMapping, re
         source: "csv",
         importHash: hash,
       }));
-      const inserted = await tx.insert(transactions).values(rows).returning({ id: transactions.id });
-      insertedIds = inserted.map((r) => r.id);
+      // One statement per chunk. postgres.js binds every column of every
+      // row as a parameter and the wire protocol caps those at 65535, so a
+      // single statement covering the whole 10000 row allowance would
+      // overflow it and fail mid-import. Chunking keeps each statement well
+      // under the cap; all chunks share this transaction, so the import is
+      // still all or nothing.
+      for (let i = 0; i < rows.length; i += INSERT_CHUNK_ROWS) {
+        const chunk = rows.slice(i, i + INSERT_CHUNK_ROWS);
+        const inserted = await tx.insert(transactions).values(chunk).returning({ id: transactions.id });
+        insertedIds.push(...inserted.map((r) => r.id));
+      }
     }
 
     // Once for the batch, not per row: the balance is derived from the
@@ -110,10 +124,18 @@ function splitDuplicates(
   existing: Set<string>,
 ): { fresh: { row: { line: number; date: string; description: string; amount: number }; hash: string }[]; duplicates: number } {
   const seen = new Set(existing);
+  // How many times this exact (date, amount, description) triple has been
+  // seen so far in this file. Two identical rows are two real transactions,
+  // so the second gets occurrence 1 and hashes distinctly instead of being
+  // written off as a duplicate of the first.
+  const occurrences = new Map<string, number>();
   const fresh: { row: (typeof valid)[number]; hash: string }[] = [];
   let duplicates = 0;
   for (const row of valid) {
-    const hash = dedupeHash(row.date, row.amount, row.description);
+    const triple = `${row.date}|${row.amount.toFixed(2)}|${row.description.trim().toLowerCase()}`;
+    const occurrence = occurrences.get(triple) ?? 0;
+    occurrences.set(triple, occurrence + 1);
+    const hash = dedupeHash(row.date, row.amount, row.description, occurrence);
     if (seen.has(hash)) {
       duplicates += 1;
       continue;

@@ -835,13 +835,21 @@ export type ApplyRulesResult = { matched: number; changed: number };
 // number first, then id, matching listRules). When `ruleId` is given, only
 // that single rule is considered -- and only if it is enabled, since a
 // disabled rule must never apply even when targeted directly.
-async function loadRulesForApply(ruleId?: number): Promise<Rule[]> {
+//
+// `runner` must be the caller's open transaction when there is one. Querying
+// the module-level `db` from inside someone else's transaction takes a
+// SECOND connection from the pool while the first is still held, which
+// deadlocks the pool rather than the database: the importer holds an account
+// lock and waits for a connection, other writers hold the remaining
+// connections and wait for that lock, and Postgres sees no cycle so nothing
+// ever times out.
+async function loadRulesForApply(runner: RuleApplyRunner, ruleId?: number): Promise<Rule[]> {
   if (ruleId !== undefined) {
-    const [rule] = await db.select().from(categoryRules).where(eq(categoryRules.id, ruleId));
+    const [rule] = await runner.select().from(categoryRules).where(eq(categoryRules.id, ruleId));
     if (!rule || !rule.enabled) return [];
     return [rule];
   }
-  return db
+  return runner
     .select()
     .from(categoryRules)
     .where(eq(categoryRules.enabled, true))
@@ -966,7 +974,7 @@ export async function applyRulesToTransactions(
 ): Promise<ApplyRulesResult> {
   if (txIds.length === 0) return { matched: 0, changed: 0 };
 
-  const rules = await loadRulesForApply(opts.ruleId);
+  const rules = await loadRulesForApply(runner ?? db, opts.ruleId);
   if (rules.length === 0) return { matched: 0, changed: 0 };
 
   const includeEdited = !!opts.includeEdited;
@@ -977,7 +985,13 @@ export async function applyRulesToTransactions(
     const batchIds = txIds.slice(i, i + APPLY_BATCH_SIZE);
 
     if (opts.dryRun) {
-      const rows: ApplyRow[] = await db.select(APPLY_ROW_COLUMNS).from(transactions).where(inArray(transactions.id, batchIds));
+      // `runner ?? db` for the same reason as loadRulesForApply: a caller
+      // inside an open transaction must not make us reach for a second
+      // pooled connection. Still unlocked -- a dry run writes nothing.
+      const rows: ApplyRow[] = await (runner ?? db)
+        .select(APPLY_ROW_COLUMNS)
+        .from(transactions)
+        .where(inArray(transactions.id, batchIds));
       for (const row of rows) {
         const outcome = evaluateRow(row, rules, includeEdited);
         if (!outcome.matched) continue;

@@ -212,6 +212,15 @@ export function parseAmount(raw: string): number | null {
     s = paren[1].trim();
   }
 
+  // A leading or trailing ISO 4217 style code ("USD 4.50", "4.50 EUR") is a
+  // currency label, not part of the number, so drop it.
+  s = s.replace(/^[A-Za-z]{3}\s*/, "").replace(/\s*[A-Za-z]{3}$/, "");
+  // Any other letter means this is not an amount. Stripping letters instead
+  // would silently turn "1e3" into 13, which is the kind of quiet
+  // mis-reading that puts a wrong number in someone's ledger. Refuse and
+  // let the caller report the row.
+  if (/[A-Za-z]/.test(s)) return null;
+
   // Strip currency symbols and anything else that isn't a digit, a
   // separator, or a sign.
   s = s.replace(/[^0-9.,-]/g, "");
@@ -235,15 +244,22 @@ export function parseAmount(raw: string): number | null {
   if (sepIndex !== -1) {
     intPart = s.slice(0, sepIndex);
     fracPart = s.slice(sepIndex + 1);
-    // A tail that isn't 1-2 digits is a thousands group, not cents (e.g.
-    // "1,000" or "1.234") -- fold it back into the integer part. This is
-    // the same "rightmost separator is decimal, unless the tail looks like
-    // a thousands group" heuristic used by common accounting parsers, and
-    // resolves the "." vs "," ambiguity between US and EU formats without
-    // needing a separate user choice for amount format.
-    if (fracPart.length !== 1 && fracPart.length !== 2) {
+    // A three digit tail is genuinely ambiguous: "1.234" is a thousands
+    // group in EU notation and 1.234 in US notation. Resolve it the way
+    // common accounting parsers do, as a thousands group, which is far more
+    // likely in a bank export -- but only when the integer part could
+    // really precede a group. "0.005" cannot ("0,005" is not a number
+    // anyone writes), so it stays a sub-cent value and is refused below.
+    const groupsPlausibly = fracPart.length === 3 && intPart !== "" && !/^0/.test(intPart.replace(/[.,]/g, ""));
+    if (groupsPlausibly) {
       intPart = intPart + fracPart;
       fracPart = "";
+    } else if (fracPart.length !== 1 && fracPart.length !== 2) {
+      // A thousands group is always exactly three digits, so a longer tail
+      // is not one. Folding it would multiply the amount by a power of ten
+      // ("1.2345" became 12345), so refuse instead and let the caller
+      // report the row. A trailing separator with no digits is junk too.
+      return null;
     }
   }
   intPart = intPart.replace(/[.,]/g, "");
@@ -445,15 +461,22 @@ function fnv1a(str: string, seed: number): number {
   return h >>> 0;
 }
 
-// A hash of (date, amount, normalized description). Re-importing the same
-// file produces the exact same key for every row, so a second pass
-// recognizes and skips all of them. Two independent 32-bit FNV-1a passes
+// A hash of (date, amount, normalized description, occurrence). Re-importing
+// the same file produces the exact same key for every row, so a second pass
+// recognizes and skips all of them.
+//
+// `occurrence` is what stops two genuinely distinct but identical-looking
+// rows -- two $4.50 coffees on the same day, two identical transit fares --
+// from collapsing into one and silently shortening the ledger. It is the
+// zero based index of this row among identical rows within a single file,
+// so it is deterministic: the same file re-imported yields the same
+// occurrences and still matches every stored row. Two independent 32-bit FNV-1a passes
 // (one over the key, one over its reverse) are concatenated into a 64-bit
 // hex string -- collision-resistant enough for a personal ledger's row
 // count without pulling in a crypto dependency for what is really just a
 // lookup key, never stored or verified as a security property.
-export function dedupeHash(date: string, amount: number, description: string): string {
-  const key = `${date}|${amount.toFixed(2)}|${normalizeDescription(description)}`;
+export function dedupeHash(date: string, amount: number, description: string, occurrence = 0): string {
+  const key = `${date}|${amount.toFixed(2)}|${normalizeDescription(description)}|${occurrence}`;
   const a = fnv1a(key, 0x811c9dc5).toString(16).padStart(8, "0");
   const b = fnv1a([...key].reverse().join(""), 0x9e3779b9).toString(16).padStart(8, "0");
   return a + b;

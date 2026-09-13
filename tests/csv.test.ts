@@ -82,6 +82,21 @@ describe("parseAmount", () => {
     expect(parseAmount("")).toBeNull();
     expect(parseAmount("abc")).toBeNull();
   });
+
+  it("treats a three digit tail as a thousands group", () => {
+    expect(parseAmount("1.234")).toBe(1234);
+    expect(parseAmount("1,234")).toBe(1234);
+  });
+
+  // Folding a longer tail into the integer part multiplied the amount by a
+  // power of ten: 1.2345 became 12345. A thousands group is always exactly
+  // three digits, so anything longer is refused and reported per row.
+  it("refuses a tail longer than three digits instead of misreading it", () => {
+    expect(parseAmount("1.2345")).toBeNull();
+    expect(parseAmount("0.005")).toBeNull();
+    expect(parseAmount("1e3")).toBeNull();
+    expect(parseAmount("12.")).toBeNull();
+  });
 });
 
 const single = (signConvention: string) =>
@@ -137,6 +152,14 @@ describe("validateColumnMapping", () => {
 describe("dedupeHash", () => {
   it("ignores case and whitespace in the description", () => {
     expect(dedupeHash("2026-01-02", 4.5, "  COFFEE   SHOP ")).toBe(dedupeHash("2026-01-02", 4.5, "coffee shop"));
+  });
+
+  it("separates identical rows by their occurrence in the file", () => {
+    const first = dedupeHash("2026-01-02", 4.5, "Coffee", 0);
+    const second = dedupeHash("2026-01-02", 4.5, "Coffee", 1);
+    expect(first).not.toBe(second);
+    // Deterministic, so re-importing the same file still matches.
+    expect(dedupeHash("2026-01-02", 4.5, "Coffee", 1)).toBe(second);
   });
 
   it("separates rows that differ in date or amount", () => {

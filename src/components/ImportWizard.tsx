@@ -22,6 +22,25 @@ const DATE_FORMATS = [
   { value: "eu", label: "DD/MM/YYYY" },
 ];
 
+// A server error renders an HTML page, not JSON. Parsing that throws, and
+// an unhandled throw here would clear the busy flag and leave the user
+// staring at a form that silently did nothing -- so read defensively and
+// always surface something.
+async function readJson(res: Response): Promise<any | null> {
+  try {
+    return await res.json();
+  } catch {
+    return null;
+  }
+}
+
+function errorFrom(res: Response, data: { error?: string } | null, fallback: string): string {
+  if (data?.error) return data.error;
+  if (res.status === 413) return "That file is too large to import.";
+  if (res.status >= 500) return `${fallback} The server returned an error (${res.status}).`;
+  return fallback;
+}
+
 function money(n: number): string {
   // Stored convention is positive = money out, so flip for display.
   return new Intl.NumberFormat("en-US", { style: "currency", currency: "USD" }).format(-n);
@@ -87,9 +106,9 @@ export function ImportWizard({ accounts }: { accounts: Account[] }) {
     setError(null);
     try {
       const res = await run("preview");
-      const data = await res.json();
-      if (!res.ok) {
-        setError(data.error ?? "Preview failed.");
+      const data = await readJson(res);
+      if (!res.ok || !data) {
+        setError(errorFrom(res, data, "Preview failed."));
         setPreview(null);
       } else {
         setPreview(data);
@@ -106,8 +125,8 @@ export function ImportWizard({ accounts }: { accounts: Account[] }) {
     setError(null);
     try {
       const res = await run("commit");
-      const data = await res.json();
-      if (!res.ok) setError(data.error ?? "Import failed.");
+      const data = await readJson(res);
+      if (!res.ok || !data) setError(errorFrom(res, data, "Import failed."));
       else {
         setDone(data);
         setPreview(null);

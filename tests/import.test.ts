@@ -81,14 +81,6 @@ describe("CSV import", () => {
     expect(await rowsFor(account.id)).toHaveLength(3);
   });
 
-  it("dedupes a row repeated inside one file", async () => {
-    const account = await seedAccount();
-    const doubled = FILE + "\n2026-01-02,Coffee Shop,4.50";
-    const result = await commitImport(account.id, MAPPING, records(doubled));
-    expect(result.imported).toBe(3);
-    expect(result.skippedDuplicates).toBe(1);
-  });
-
   it("treats the same charge in two accounts as distinct", async () => {
     const a = await seedAccount();
     const b = await createManualAccount({ name: "Second", type: "other", subtype: null, startingBalance: 0, currency: "USD" });
@@ -144,6 +136,59 @@ describe("CSV import", () => {
     expect(result.imported).toBe(3);
     expect(await rowsFor(account.id)).toHaveLength(0);
   });
+
+  // Two identical coffees on one day are two real transactions. Before the
+  // occurrence index went into the hash they collapsed into one and the
+  // ledger was silently short.
+  it("keeps two genuinely identical rows in the same file", async () => {
+    const account = await seedAccount();
+    const twice = ["date,description,amount", "2026-01-02,Coffee Shop,4.50", "2026-01-02,Coffee Shop,4.50"].join("\n");
+    const result = await commitImport(account.id, MAPPING, records(twice));
+    expect(result.imported).toBe(2);
+    expect(result.skippedDuplicates).toBe(0);
+
+    // Still idempotent: re-importing that same file adds nothing.
+    const again = await commitImport(account.id, MAPPING, records(twice));
+    expect(again.imported).toBe(0);
+    expect(again.skippedDuplicates).toBe(2);
+    expect(await rowsFor(account.id)).toHaveLength(2);
+  });
+
+  // A single INSERT binds 8 parameters per row against a 65535 cap, so an
+  // unchunked import failed at 8192 rows -- inside the 10000 row allowance
+  // the API advertises -- with an uncaught error and a 500.
+  it("imports a file larger than one INSERT statement can carry", async () => {
+    const account = await seedAccount();
+    const lines = ["date,description,amount"];
+    for (let i = 0; i < 9000; i++) {
+      // Distinct descriptions so nothing dedupes; the point is row count.
+      lines.push(`2026-01-02,Row ${i},1.00`);
+    }
+    const result = await commitImport(account.id, MAPPING, records(lines.join("\n")));
+    expect(result.imported).toBe(9000);
+    expect(await rowsFor(account.id)).toHaveLength(9000);
+  }, 60000);
+
+  // The account lock is what serializes two imports of the same file into
+  // the same account. Without it both read an empty hash set and every row
+  // lands twice.
+  it("two concurrent imports of one file into one account insert it once", async () => {
+    const account = await seedAccount();
+    // A file big enough that the insert takes real time: with a small file
+    // both imports can finish inside the window where neither has committed
+    // and the race hides.
+    const lines = ["date,description,amount"];
+    for (let i = 0; i < 400; i++) lines.push(`2026-01-02,Row ${i},1.00`);
+    const file = lines.join("\n");
+
+    const [a, b] = await Promise.all([
+      commitImport(account.id, MAPPING, records(file)),
+      commitImport(account.id, MAPPING, records(file)),
+    ]);
+    expect(a.imported + b.imported).toBe(400);
+    expect(a.skippedDuplicates + b.skippedDuplicates).toBe(400);
+    expect(await rowsFor(account.id)).toHaveLength(400);
+  }, 30000);
 
   it("a sync pass leaves imported rows untouched", async () => {
     const account = await seedAccount();
