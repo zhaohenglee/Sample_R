@@ -423,7 +423,6 @@ function validateRestrictedRegex(pattern: string): void {
 function validateRegexPattern(pattern: string): void {
   validateRestrictedRegex(pattern);
   try {
-    // eslint-disable-next-line no-new
     new RegExp(pattern, "i");
   } catch {
     throw new ValidationError("pattern is not a valid regular expression.");

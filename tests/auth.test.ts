@@ -62,7 +62,7 @@ describe("rate limiter", () => {
 
   it("clears the entry on success", () => {
     const ip = "4.4.4.4";
-    let now = 0;
+    const now = 0;
     const clock = () => now;
     for (let i = 0; i < 5; i++) recordFailure(ip, clock);
     expect(checkRateLimit(ip, clock).allowed).toBe(false);

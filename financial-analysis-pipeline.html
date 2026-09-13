@@ -151,10 +151,10 @@
   <header>
     <span class="eyebrow">Workflow plan · v2 · designed and reviewed on Fable 5.1</span>
     <h1>Company Financial Analysis Pipeline</h1>
-    <p class="lede">Seven stages from filings to a reviewed report. Bulk reading goes to Haiku 4.5, structuring to Sonnet 5 at low effort, judgment to Sonnet 5 at high effort, and one final audit to Fable 5.1. Arithmetic never runs through a model.</p>
+    <p class="lede">Seven stages from filings to a reviewed report. Bulk reading goes to Haiku 4.5, structuring to Sonnet 5 at low effort, judgment to Sonnet 5 at xhigh effort, and one final audit to Fable 5.1. Arithmetic never runs through a model.</p>
     <div class="meta">
-      <span><b>Estimated cost</b> <span class="num">$1.40</span> per company, <span class="num">$2.60</span> with the Fable review gate</span>
-      <span><b>Baseline</b> <span class="num">$2.90</span> on Sonnet 5 throughout</span>
+      <span><b>Estimated cost</b> <span class="num">$1.41</span> per company, <span class="num">$2.61</span> with the Fable review gate</span>
+      <span><b>Baseline</b> <span class="num">$2.93</span> on Sonnet 5 throughout</span>
       <span><b>Pricing basis</b> Anthropic API rates, June 2026</span>
     </div>
   </header>
@@ -214,13 +214,14 @@
     <div class="scroll">
       <table class="stages-table">
         <thead>
-          <tr><th>Stage</th><th>Job</th><th>Owner</th><th>Skill / tool</th><th>Artifact</th><th>Gate</th></tr>
+          <tr><th>Stage</th><th>Job</th><th>Owner</th><th>Runtime</th><th>Skill / tool</th><th>Artifact</th><th>Gate</th></tr>
         </thead>
         <tbody>
           <tr>
             <td class="stage">0 · Scope</td>
             <td>Fix the question, company, period, peer set and thesis to test.</td>
             <td><span class="tag t1">Sonnet 5 · low</span></td>
+            <td>Claude Code session</td>
             <td>WebSearch for tickers and peer list</td>
             <td><code>brief.json</code></td>
             <td>Human signs the brief.</td>
@@ -229,7 +230,8 @@
             <td class="stage">1 · Intake</td>
             <td>Pull filings (two 10-Ks, latest 10-Q) and extract statement line items with page references.</td>
             <td><span class="tag t1">Haiku 4.5</span><span class="sub">via Batch API</span></td>
-            <td><code>anthropic-skills:pdf</code>, WebFetch</td>
+            <td>Pipeline script, Batch API</td>
+            <td>A script pulls the PDFs from EDGAR and uploads them once via the Files API. Sent as document blocks with citations on, so every item keeps its page.</td>
             <td><code>lineitems.json</code></td>
             <td>Extracted totals tie to the filing subtotals within rounding.</td>
           </tr>
@@ -237,7 +239,8 @@
             <td class="stage">2 · Normalize</td>
             <td>Map line items to a standard chart of accounts and build the working ledger.</td>
             <td><span class="tag t1">Sonnet 5 · low</span><span class="sub">via Batch API</span></td>
-            <td><code>anthropic-skills:xlsx</code></td>
+            <td>Pipeline script, Batch API</td>
+            <td>Structured output returns the mapping as JSON; the script writes <code>ledger.xlsx</code> from it.</td>
             <td><code>ledger.xlsx</code></td>
             <td>Balance sheet balances. Cash flow ties to change in cash. Unmapped items listed, not dropped.</td>
           </tr>
@@ -245,7 +248,8 @@
             <td class="stage">3 · Compute</td>
             <td>Ratios, growth rates, common-size statements, peer table.</td>
             <td><span class="tag t0">Script</span><span class="sub">no model tokens</span></td>
-            <td><code>anthropic-skills:xlsx</code> formulas or Python</td>
+            <td>Pipeline script</td>
+            <td>Python or workbook formulas, authored once with <code>anthropic-skills:xlsx</code>, then run without a model.</td>
             <td><code>metrics.xlsx</code></td>
             <td>Every metric traces to a ledger cell. Spot check three against a public source.</td>
           </tr>
@@ -253,7 +257,8 @@
             <td class="stage">4 · Analyze</td>
             <td>Read the metrics. Explain trends, flag anomalies, rank risks, run base / bull / bear scenarios.</td>
             <td><span class="tag t2">Sonnet 5 · xhigh</span></td>
-            <td>Adaptive thinking on; metrics file cached as a prefix</td>
+            <td>Pipeline script, Messages API</td>
+            <td>Adaptive thinking on; ledger, peer set and metrics cached as the prompt prefix</td>
             <td><code>findings.md</code></td>
             <td>Every claim cites a metric cell or a filing page. No number appears that is not in <code>metrics.xlsx</code>.</td>
           </tr>
@@ -261,6 +266,7 @@
             <td class="stage">5 · Report</td>
             <td>Narrative, charts and the deliverable in the format the reader asked for.</td>
             <td><span class="tag t2">Sonnet 5 · medium</span><span class="sub">narrative</span><span class="tag t1" style="margin-top:6px">Haiku 4.5</span><span class="sub">layout and export</span></td>
+            <td>Claude Code session</td>
             <td><code>dataviz</code>, <code>anthropic-skills:docx</code>, <code>anthropic-skills:pptx</code>, <code>artifact-design</code></td>
             <td><code>report.docx</code> or deck, dashboard artifact</td>
             <td>Charts reproduce from <code>metrics.xlsx</code> alone. Executive summary fits one page.</td>
@@ -269,7 +275,8 @@
             <td class="stage">6 · Review</td>
             <td>Audit numbers against source pages, test each conclusion for the strongest counterargument, list what a reader would challenge.</td>
             <td><span class="tag t3">Fable 5.1</span></td>
-            <td>Review checklist below</td>
+            <td>Claude Code session</td>
+            <td>Review checklist below; <code>anthropic-skills:pdf</code> to open the cited source pages</td>
             <td><code>review.md</code></td>
             <td>Zero unresolved numeric discrepancies. Open judgment calls returned to the human, not to Stage 4.</td>
           </tr>
@@ -279,6 +286,7 @@
     <div>
       <h3>Standing rules</h3>
       <ol class="rules">
+        <li>Two runtimes. Stages 0, 5 and 6 run in a Claude Code session, where the skills, WebSearch and WebFetch live. Stages 1, 2 and 4 are API calls made by the pipeline script, so Batch, prompt caching, citations and structured output apply there and Claude Code skills do not.</li>
         <li>A model reads and interprets; a script calculates. If a number is not in <code>metrics.xlsx</code>, it does not appear in the report.</li>
         <li>Stages 1 and 2 have no deadline, so they run through the Batch API at half price.</li>
         <li>The ledger, the chart of accounts and the peer set sit first in every prompt and carry a cache breakpoint. Per company questions come after it.</li>
@@ -291,18 +299,18 @@
   <section>
     <div class="section-head">
       <h2>Required skills</h2>
-      <p>Skills already installed in this workspace, with the stage that calls each. Two tools, WebSearch and WebFetch, cover sourcing.</p>
+      <p>Skills already installed in this workspace, with the stage that calls each. Skills run only in the Claude Code stages. Two tools, WebSearch and WebFetch, cover sourcing.</p>
     </div>
     <div class="skills">
       <div class="skill">
         <code>anthropic-skills:pdf</code>
-        <span class="use">Reads filings page by page and returns text with page numbers, so every extracted item keeps its citation.</span>
-        <span class="stage-ref">Stage 1</span>
+        <span class="use">Opens filing pages during the audit so each traced number is checked against its source. Stage 1 reads PDFs through API document blocks instead.</span>
+        <span class="stage-ref">Stage 6</span>
       </div>
       <div class="skill">
         <code>anthropic-skills:xlsx</code>
-        <span class="use">Builds the ledger and metrics workbooks with live formulas, so ratios recalculate when a line item is corrected.</span>
-        <span class="stage-ref">Stages 2, 3</span>
+        <span class="use">Authors the metrics workbook with live formulas, so ratios recalculate when a line item is corrected. The Stage 2 ledger is written by the pipeline script.</span>
+        <span class="stage-ref">Stage 3</span>
       </div>
       <div class="skill">
         <code>dataviz</code>
@@ -371,7 +379,7 @@
       <h3>Savings levers, in the order they pay</h3>
       <ol class="rules">
         <li><b>Batch API</b> on Stages 1 and 2: half price, no quality change. Worth $0.50 per company.</li>
-        <li><b>Prompt caching</b> of the ledger and peer set across Stage 4 and 5 calls: cache reads cost a tenth of list price. Not counted above, so the true figure is lower.</li>
+        <li><b>Prompt caching</b> of the ledger and peer set across Stage 4 calls: cache reads cost a tenth of list price. Not counted above, so the true figure is lower.</li>
         <li><b>Effort level</b> before model tier: Sonnet 5 at low effort beats switching Stage 2 to Haiku, because Haiku's 200K window forces chunking and re-assembly.</li>
         <li><b>Model tier</b> last. Haiku only where the task is reading and formatting; Fable only where a wrong number costs more than $1.20.</li>
       </ol>

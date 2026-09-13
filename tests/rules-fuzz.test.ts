@@ -200,7 +200,6 @@ describe("rules regex engine differential fuzz", () => {
       throw new Error(`${disagreements.length}/${comparisons} disagreements. First ${Math.min(10, disagreements.length)}:\n${sample}`);
     }
 
-    // eslint-disable-next-line no-console
     console.log(`rules-fuzz: ${comparisons} comparisons, ${disagreements.length} disagreements (seed ${SEED}).`);
   });
 });

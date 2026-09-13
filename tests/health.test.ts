@@ -1,6 +1,6 @@
 import { describe, it, expect, vi, afterEach } from "vitest";
 import { GET } from "@/app/api/health/route";
-import { withTimeout, healthCheck } from "@/lib/health";
+import { withTimeout } from "@/lib/health";
 
 describe("health", () => {
   it("returns 200 with { ok: true, db: true } against the real test DB", async () => {

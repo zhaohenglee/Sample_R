@@ -1,0 +1,18 @@
+# Keep the build context small and secrets out of the image.
+.git
+.github
+.claude
+node_modules
+.next
+out
+backups
+docs
+tests
+.env
+.env.*
+!.env.example
+!.env.test.example
+*.log
+.DS_Store
+PLAN.md
+financial-analysis-pipeline.html

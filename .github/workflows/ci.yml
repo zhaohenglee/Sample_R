@@ -5,9 +5,21 @@ on:
     branches: ["**"]
   pull_request:
 
+permissions:
+  contents: read
+
+# A newer push to the same ref supersedes any run still in flight.
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   test:
+    # A push to a branch in this repository already runs CI, so skip the
+    # duplicate pull_request run. Forks have no push run and still get one.
+    if: github.event_name != 'pull_request' || github.event.pull_request.head.repo.full_name != github.repository
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     services:
       postgres:
         image: postgres:16-alpine
@@ -31,13 +43,33 @@ jobs:
       PLAID_SECRET: ci
       PLAID_ENV: sandbox
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - name: Check out
+        uses: actions/checkout@v7
+      - name: Set up Node
+        uses: actions/setup-node@v7
         with:
           node-version: 22
           cache: npm
-      - run: npm ci
-      - run: node scripts/migrate.mjs
-      - run: npm run typecheck
-      - run: npm test
-      - run: npm run build
+      - name: Install
+        run: npm ci
+      - name: Migrate test database
+        run: node scripts/migrate.mjs
+      - name: Typecheck
+        run: npm run typecheck
+      - name: Lint
+        run: npm run lint
+      - name: Test
+        run: npm test
+      - name: Build
+        run: npm run build
+
+  docker:
+    # docker-compose builds this image; make sure the Dockerfile still builds.
+    if: github.event_name != 'pull_request' || github.event.pull_request.head.repo.full_name != github.repository
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Check out
+        uses: actions/checkout@v7
+      - name: Build image
+        run: docker build --tag finance:ci .
