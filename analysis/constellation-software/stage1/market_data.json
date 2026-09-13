@@ -1,0 +1,358 @@
+{
+  "topic": "Constellation Software Inc (CSU) Market Data - September 2026",
+  "file": "/home/user/Sample_R/analysis/constellation-software/stage1/market_data.json",
+  "date_collected": "2026-09-13",
+  "figures": [
+    {
+      "item": "Share price current",
+      "period": "2026-09-11",
+      "value": 2827.94,
+      "unit": "CAD",
+      "source_url": "https://www.stockopedia.com/share-prices/constellation-software-TSE:CSU/",
+      "source_title": "Stockopedia - CSU Share Price"
+    },
+    {
+      "item": "52-week high",
+      "period": "2026-09-11",
+      "value": 5060.7,
+      "unit": "CAD",
+      "source_url": "https://www.chartmill.com/stock/quote/CSU.CA/technical-analysis",
+      "source_title": "ChartMill Technical Analysis"
+    },
+    {
+      "item": "52-week low",
+      "period": "2026-09-11",
+      "value": 2196.0,
+      "unit": "CAD",
+      "source_url": "https://www.chartmill.com/stock/quote/CSU.CA/technical-analysis",
+      "source_title": "ChartMill Technical Analysis"
+    },
+    {
+      "item": "Market capitalization",
+      "period": "2026-09",
+      "value": 47950,
+      "unit": "USD millions",
+      "source_url": "https://tradingeconomics.com/csu:cn:market-capitalization",
+      "source_title": "Trading Economics - CSU Market Cap"
+    },
+    {
+      "item": "Market capitalization",
+      "period": "2026-09-08",
+      "value": 65183,
+      "unit": "CAD millions",
+      "source_url": "https://stockanalysis.com/quote/tsx/CSU/market-cap/",
+      "source_title": "Stock Analysis - CSU Market Cap"
+    },
+    {
+      "item": "P/E ratio TTM",
+      "period": "2026-09-11",
+      "value": 63.26,
+      "unit": "ratio",
+      "source_url": "https://finance.yahoo.com/quote/CSU.TO/key-statistics/",
+      "source_title": "Yahoo Finance - CSU Statistics"
+    },
+    {
+      "item": "P/E ratio",
+      "period": "2026-08",
+      "value": 73.3,
+      "unit": "ratio",
+      "source_url": "https://companiesmarketcap.com/constellation-software/pe-ratio/",
+      "source_title": "Companies Market Cap - PE Ratio"
+    },
+    {
+      "item": "Dividend yield",
+      "period": "2026-09",
+      "value": 0.2,
+      "unit": "percent",
+      "source_url": "https://simplywall.st/stocks/ca/software/tsx-csu/constellation-software-shares/dividend",
+      "source_title": "Simply Wall St - Dividend Yield"
+    },
+    {
+      "item": "Quarterly dividend",
+      "period": "2026",
+      "value": 1.0,
+      "unit": "CAD per share",
+      "source_url": "https://www.csisoftware.com/constellation-software-inc-announces-results-for-the-first-quarter-ended-march-31-2026-and-declares-quarterly-dividend/",
+      "source_title": "CSI Software - Q1 2026 Dividend"
+    },
+    {
+      "item": "Quarterly dividend",
+      "period": "2026-Q3",
+      "value": 1.39,
+      "unit": "CAD per share",
+      "source_url": "https://www.stockopedia.com/share-prices/constellation-software-TSE:CSU/",
+      "source_title": "Stockopedia - CSU Dividend"
+    },
+    {
+      "item": "Enterprise value",
+      "period": "2026-05",
+      "value": 46000,
+      "unit": "CAD millions",
+      "source_url": "https://multiples.vc/public-comps/constellation-software-valuation-multiples",
+      "source_title": "Multiples VC - Valuation"
+    },
+    {
+      "item": "EV/EBITDA",
+      "period": "2026-05-31",
+      "value": 13.43,
+      "unit": "ratio",
+      "source_url": "https://finbox.com/TSX:CSU/explorer/ev_to_ebitda_ltm/",
+      "source_title": "FinBox - EV/EBITDA"
+    },
+    {
+      "item": "EV/EBITDA",
+      "period": "2026-06-03",
+      "value": 16.89,
+      "unit": "ratio",
+      "source_url": "https://www.gurufocus.com/term/enterprise-value-to-ebitda/CNSWF",
+      "source_title": "GuruFocus - EV/EBITDA"
+    },
+    {
+      "item": "Price to free cash flow",
+      "period": "2026-09-06",
+      "value": 16.73,
+      "unit": "ratio",
+      "source_url": "https://ycharts.com/companies/CSU.TO/price_to_cash_flow_ttm",
+      "source_title": "YCharts - Price to FCF"
+    },
+    {
+      "item": "Price to book",
+      "period": "2026-09",
+      "value": 9.83,
+      "unit": "ratio",
+      "source_url": "https://www.investing.com/equities/constellation-software-inc-ratios",
+      "source_title": "Investing.com - Ratios"
+    },
+    {
+      "item": "Price to book",
+      "period": "2026-03",
+      "value": 11.44,
+      "unit": "ratio",
+      "source_url": "https://www.gurufocus.com/term/book-value-per-share/CNSWF",
+      "source_title": "GuruFocus - Book Value"
+    },
+    {
+      "item": "Book value per share",
+      "period": "2026-03",
+      "value": 183.28,
+      "unit": "CAD",
+      "source_url": "https://www.gurufocus.com/term/book-value-per-share/CNSWF",
+      "source_title": "GuruFocus - Book Value per Share"
+    },
+    {
+      "item": "Free cash flow per share TTM",
+      "period": "2026-06",
+      "value": 180.71,
+      "unit": "CAD",
+      "source_url": "https://www.gurufocus.com/term/price-to-free-cash-flow/TSX:CSU",
+      "source_title": "GuruFocus - FCF per Share"
+    },
+    {
+      "item": "Shares outstanding diluted",
+      "period": "2026-03",
+      "value": 21.19,
+      "unit": "millions",
+      "source_url": "https://www.gurufocus.com/term/shares-outstanding/TSX:CSU",
+      "source_title": "GuruFocus - Shares Outstanding"
+    },
+    {
+      "item": "Analyst price target 12-month average",
+      "period": "2026-09",
+      "value": 3884.4,
+      "unit": "CAD",
+      "source_url": "https://www.marketbeat.com/stocks/TSE/CSU/forecast/",
+      "source_title": "MarketBeat - Analyst Price Targets"
+    },
+    {
+      "item": "Analyst price target high",
+      "period": "2026-09",
+      "value": 5699.07,
+      "unit": "CAD",
+      "source_url": "https://www.marketbeat.com/stocks/TSE/CSU/forecast/",
+      "source_title": "MarketBeat - Analyst Targets"
+    },
+    {
+      "item": "Analyst price target low",
+      "period": "2026-09",
+      "value": 3185.0,
+      "unit": "CAD",
+      "source_url": "https://www.marketbeat.com/stocks/TSE/CSU/forecast/",
+      "source_title": "MarketBeat - Analyst Targets"
+    },
+    {
+      "item": "All-time high stock price",
+      "period": "2025-05-08",
+      "value": 3703.43,
+      "unit": "CAD",
+      "source_url": "https://www.macrotrends.net/stocks/charts/CNSWF/constellation-software/stock-price-history",
+      "source_title": "MacroTrends - Stock Price History"
+    },
+    {
+      "item": "Year-end stock price",
+      "period": "2025-12-24",
+      "value": 3316.17,
+      "unit": "CAD",
+      "source_url": "https://stockanalysis.com/quote/tsx/CSU/",
+      "source_title": "Stock Analysis - Year End 2025"
+    },
+    {
+      "item": "Total debt",
+      "period": "2026-Q1",
+      "value": 3990.0,
+      "unit": "CAD millions",
+      "source_url": "https://www.levelheadedinvesting.com/p/constellation-software-csu-q1-2026-results-the-market-feared-ai-constellation-deployed-1-6-billion",
+      "source_title": "Level Headed Investing - Q1 2026"
+    },
+    {
+      "item": "Cash and equivalents",
+      "period": "2026-Q1",
+      "value": 3010.0,
+      "unit": "CAD millions",
+      "source_url": "https://www.levelheadedinvesting.com/p/constellation-software-csu-q1-2026-results-the-market-feared-ai-constellation-deployed-1-6-billion",
+      "source_title": "Level Headed Investing - Q1 2026"
+    },
+    {
+      "item": "Net debt",
+      "period": "2026-Q1",
+      "value": 979.0,
+      "unit": "CAD millions",
+      "source_url": "https://www.levelheadedinvesting.com/p/constellation-software-csu-q1-2026-results-the-market-feared-ai-constellation-deployed-1-6-billion",
+      "source_title": "Level Headed Investing - Q1 2026"
+    },
+    {
+      "item": "Q1 2026 revenue",
+      "period": "2026-Q1",
+      "value": 3181.0,
+      "unit": "CAD millions",
+      "source_url": "https://www.csisoftware.com/constellation-software-inc-announces-results-for-the-first-quarter-ended-march-31-2026-and-declares-quarterly-dividend/",
+      "source_title": "CSI Software - Q1 2026 Results"
+    },
+    {
+      "item": "Q1 2026 revenue YoY growth",
+      "period": "2026-Q1",
+      "value": 20.0,
+      "unit": "percent",
+      "source_url": "https://www.levelheadedinvesting.com/p/constellation-software-csu-q1-2026-results-the-market-feared-ai-constellation-deployed-1-6-billion",
+      "source_title": "Level Headed Investing - Q1 2026"
+    },
+    {
+      "item": "Q2 2026 revenue",
+      "period": "2026-Q2",
+      "value": 3335.0,
+      "unit": "CAD millions",
+      "source_url": "https://www.marketbeat.com/earnings/reports/2026-8-11-constellation-software-inc-csuto-stock/",
+      "source_title": "MarketBeat - Q2 2026 Earnings"
+    },
+    {
+      "item": "Q2 2026 revenue YoY growth",
+      "period": "2026-Q2",
+      "value": 17.0,
+      "unit": "percent",
+      "source_url": "https://www.marketbeat.com/earnings/reports/2026-8-11-constellation-software-inc-csuto-stock/",
+      "source_title": "MarketBeat - Q2 2026 Earnings"
+    },
+    {
+      "item": "Q2 2026 organic growth",
+      "period": "2026-Q2",
+      "value": 3.0,
+      "unit": "percent",
+      "source_url": "https://www.marketbeat.com/earnings/reports/2026-8-11-constellation-software-inc-csuto-stock/",
+      "source_title": "MarketBeat - Q2 2026 Earnings"
+    },
+    {
+      "item": "Q2 2026 net income per diluted share",
+      "period": "2026-Q2",
+      "value": 12.93,
+      "unit": "CAD",
+      "source_url": "https://www.marketbeat.com/earnings/reports/2026-8-11-constellation-software-inc-csuto-stock/",
+      "source_title": "MarketBeat - Q2 2026 Earnings"
+    },
+    {
+      "item": "Maximum drawdown from all-time high",
+      "period": "2026-02-03",
+      "value": -55.78,
+      "unit": "percent",
+      "source_url": "https://www.theinvestorspodcast.com/intrinsic-value-podcast/constellation-software-csu-historic-drawdown-historic-buying-opportunity-w-daniel-mahncke-shawn-omalley/",
+      "source_title": "The Investors Podcast - Historic Drawdown"
+    },
+    {
+      "item": "Current drawdown from all-time high",
+      "period": "2026-09-11",
+      "value": -52.98,
+      "unit": "percent",
+      "source_url": "https://seekingalpha.com/article/4856592-constellation-softwares-biggest-drawdown-in-20-years-is-forcing-a-rethink",
+      "source_title": "Seeking Alpha - Drawdown Analysis"
+    },
+    {
+      "item": "Consensus analyst rating",
+      "period": "2026-09",
+      "value": 10,
+      "unit": "analysts recommending buy",
+      "source_url": "https://www.dailypolitical.com/2026/09/12/constellation-software-inc-tsecsu-given-consensus-rating-of-moderate-buy-by-analysts.html",
+      "source_title": "Daily Political - Analyst Ratings"
+    },
+    {
+      "item": "Analyst hold recommendations",
+      "period": "2026-09",
+      "value": 2,
+      "unit": "analysts",
+      "source_url": "https://www.dailypolitical.com/2026/09/12/constellation-software-inc-tsecsu-given-consensus-rating-of-moderate-buy-by-analysts.html",
+      "source_title": "Daily Political - Analyst Ratings"
+    },
+    {
+      "item": "Analyst sell recommendations",
+      "period": "2026-09",
+      "value": 0,
+      "unit": "analysts",
+      "source_url": "https://www.dailypolitical.com/2026/09/12/constellation-software-inc-tsecsu-given-consensus-rating-of-moderate-buy-by-analysts.html",
+      "source_title": "Daily Political - Analyst Ratings"
+    },
+    {
+      "item": "Payout ratio",
+      "period": "2026",
+      "value": 11.0,
+      "unit": "percent",
+      "source_url": "https://simplywall.st/stocks/ca/software/tsx-csu/constellation-software-shares/dividend",
+      "source_title": "Simply Wall St - Payout Ratio"
+    },
+    {
+      "item": "EV/EBITDA 10-year median",
+      "period": "2026-06-03",
+      "value": 22.48,
+      "unit": "ratio",
+      "source_url": "https://www.gurufocus.com/term/enterprise-value-to-ebitda/CNSWF",
+      "source_title": "GuruFocus - EV/EBITDA"
+    },
+    {
+      "item": "Price to free cash flow 10-year median",
+      "period": "2026-09-06",
+      "value": 26.17,
+      "unit": "ratio",
+      "source_url": "https://ycharts.com/companies/CSU.TO/price_to_cash_flow_ttm",
+      "source_title": "YCharts - Price to FCF"
+    },
+    {
+      "item": "Five-year total return",
+      "period": "2021-2026",
+      "value": 207.24,
+      "unit": "percent",
+      "source_url": "https://finance.yahoo.com/quote/CSU.TO/",
+      "source_title": "Yahoo Finance - 5-Year Performance"
+    }
+  ],
+  "figure_count": 40,
+  "gaps": [
+    "Year-end share price December 31, 2024",
+    "Year-end share price December 31, 2023",
+    "Year-end share price December 31, 2022",
+    "Year-end share price December 31, 2021",
+    "Exact December 31, 2025 closing price (have December 24, 2025 proxy)",
+    "EBITDA margin percentage for H1 2026",
+    "Tangible book value per share",
+    "Debt to equity ratio current",
+    "Return on equity",
+    "Operating margin percentage",
+    "Free cash flow conversion rate"
+  ],
+  "notes": "Data collected from WebSearch only per network policy. CSU trades on TSX with ticker symbol CSU and OTC as CNSWF. Reporting currency is USD. Company is down 52.98% from all-time high of CA$3,703.43 reached May 8, 2025. Stock experienced significant drawdown due to AI-related concerns about vertical market software and leadership transition. Current consensus among analysts is Buy with 10 buy recommendations, 2 holds, and 0 sells. All figures in CAD unless otherwise noted. Market cap of ~$48B USD approximately equals 65B CAD at current exchange rates."
+}

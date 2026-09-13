@@ -1,0 +1,469 @@
+{
+  "topic": "VMS Software Peer Valuation Metrics (TOI, LMN, DSG, ENGH)",
+  "file": "/home/user/Sample_R/analysis/constellation-software/stage1/peers_vms.json",
+  "figure_count": 42,
+  "figures": [
+    {
+      "item": "Topicus.com (TOI) H1 2026 Revenue",
+      "period": "H1 2026",
+      "value": 872.9,
+      "unit": "EUR million",
+      "source_url": "https://www.globenewswire.com/news-release/2026/08/05/3339823/0/en/constellation-software-inc-and-topicus-com-inc-announce-results-for-topicus-com-inc-for-the-second-quarter-ended-june-30-2026.html",
+      "source_title": "Constellation Software Inc. and Topicus.com Inc. Announce Results for Q2 2026",
+      "confidence": "CONFIRMED"
+    },
+    {
+      "item": "Topicus.com (TOI) H1 2026 Revenue Growth YoY",
+      "period": "H1 2026",
+      "value": 20,
+      "unit": "percent",
+      "source_url": "https://www.globenewswire.com/news-release/2026/08/05/3339823/0/en/constellation-software-inc-and-topicus-com-inc-announce-results-for-topicus-com-inc-for-the-second-quarter-ended-june-30-2026.html",
+      "source_title": "Constellation Software Inc. and Topicus.com Inc. Announce Results for Q2 2026",
+      "confidence": "CONFIRMED"
+    },
+    {
+      "item": "Topicus.com (TOI) H1 2026 Organic Growth",
+      "period": "H1 2026",
+      "value": 5,
+      "unit": "percent",
+      "source_url": "https://www.globenewswire.com/news-release/2026/08/05/3339823/0/en/constellation-software-inc-and-topicus-com-inc-announce-results-for-topicus-com-inc-for-the-second-quarter-ended-june-30-2026.html",
+      "source_title": "Constellation Software Inc. and Topicus.com Inc. Announce Results for Q2 2026",
+      "confidence": "CONFIRMED"
+    },
+    {
+      "item": "Topicus.com (TOI) Q2 2026 Revenue",
+      "period": "Q2 2026",
+      "value": 437.3,
+      "unit": "EUR million",
+      "source_url": "https://www.globenewswire.com/news-release/2026/08/05/3339823/0/en/constellation-software-inc-and-topicus-com-inc-announce-results-for-topicus-com-inc-for-the-second-quarter-ended-june-30-2026.html",
+      "source_title": "Constellation Software Inc. and Topicus.com Inc. Announce Results for Q2 2026",
+      "confidence": "CONFIRMED"
+    },
+    {
+      "item": "Topicus.com (TOI) Q2 2026 Revenue Growth YoY",
+      "period": "Q2 2026",
+      "value": 18,
+      "unit": "percent",
+      "source_url": "https://www.globenewswire.com/news-release/2026/08/05/3339823/0/en/constellation-software-inc-and-topicus-com-inc-announce-results-for-topicus-com-inc-for-the-second-quarter-ended-june-30-2026.html",
+      "source_title": "Constellation Software Inc. and Topicus.com Inc. Announce Results for Q2 2026",
+      "confidence": "CONFIRMED"
+    },
+    {
+      "item": "Topicus.com (TOI) Q1 2026 Revenue",
+      "period": "Q1 2026",
+      "value": 435.7,
+      "unit": "EUR million",
+      "source_url": "https://www.globenewswire.com/news-release/2026/08/05/3339823/0/en/constellation-software-inc-and-topicus-com-inc-announce-results-for-topicus-com-inc-for-the-second-quarter-ended-june-30-2026.html",
+      "source_title": "Constellation Software Inc. and Topicus.com Inc. Announce Results for Q2 2026",
+      "confidence": "CONFIRMED"
+    },
+    {
+      "item": "Topicus.com (TOI) Q1 2026 Revenue Growth YoY",
+      "period": "Q1 2026",
+      "value": 23,
+      "unit": "percent",
+      "source_url": "https://www.globenewswire.com/news-release/2026/08/05/3339823/0/en/constellation-software-inc-and-topicus-com-inc-announce-results-for-topicus-com-inc-for-the-second-quarter-ended-june-30-2026.html",
+      "source_title": "Constellation Software Inc. and Topicus.com Inc. Announce Results for Q2 2026",
+      "confidence": "CONFIRMED"
+    },
+    {
+      "item": "Topicus.com (TOI) Stock Price",
+      "period": "2026-09-07",
+      "value": 100.50,
+      "unit": "CAD",
+      "source_url": "https://www.investing.com/equities/topicus.com",
+      "source_title": "Topicus.com Inc Stock Price - Investing.com",
+      "confidence": "CONFIRMED"
+    },
+    {
+      "item": "Topicus.com (TOI) Market Cap",
+      "period": "2026-09",
+      "value": 8390,
+      "unit": "CAD million",
+      "source_url": "https://www.gurufocus.com/term/mktcap/TSXV:TOI",
+      "source_title": "Topicus.com Market Cap - GuruFocus",
+      "confidence": "CONFIRMED"
+    },
+    {
+      "item": "Topicus.com (TOI) 52-week High Stock Price",
+      "period": "2026-09",
+      "value": 181.05,
+      "unit": "CAD",
+      "source_url": "https://www.investing.com/equities/topicus.com",
+      "source_title": "Topicus.com Inc Stock Price - Investing.com",
+      "confidence": "CONFIRMED"
+    },
+    {
+      "item": "Topicus.com (TOI) 52-week Low Stock Price",
+      "period": "2026-09",
+      "value": 82.67,
+      "unit": "CAD",
+      "source_url": "https://www.investing.com/equities/topicus.com",
+      "source_title": "Topicus.com Inc Stock Price - Investing.com",
+      "confidence": "CONFIRMED"
+    },
+    {
+      "item": "Lumine Group (LMN) H1 2026 Revenue",
+      "period": "H1 2026",
+      "value": 443.4,
+      "unit": "USD million",
+      "source_url": "https://www.globenewswire.com/news-release/2026/08/04/3338792/0/en/Lumine-Group-Inc-Announces-Results-for-the-Second-Quarter-Ended-June-30-2026.html",
+      "source_title": "Lumine Group Inc. Announces Results for Q2 2026",
+      "confidence": "CONFIRMED"
+    },
+    {
+      "item": "Lumine Group (LMN) H1 2026 Revenue Growth YoY",
+      "period": "H1 2026",
+      "value": 22,
+      "unit": "percent",
+      "source_url": "https://www.globenewswire.com/news-release/2026/08/04/3338792/0/en/Lumine-Group-Inc-Announces-Results-for-the-Second-Quarter-Ended-June-30-2026.html",
+      "source_title": "Lumine Group Inc. Announces Results for Q2 2026",
+      "confidence": "CONFIRMED"
+    },
+    {
+      "item": "Lumine Group (LMN) Q1 2026 Revenue",
+      "period": "Q1 2026",
+      "value": 208.3,
+      "unit": "USD million",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/lumine-group-inc-announces-results-200100205.html",
+      "source_title": "Lumine Group Inc. Announces Results for Q1 2026",
+      "confidence": "CONFIRMED"
+    },
+    {
+      "item": "Lumine Group (LMN) Q1 2026 Revenue Growth YoY",
+      "period": "Q1 2026",
+      "value": 17,
+      "unit": "percent",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/lumine-group-inc-announces-results-200100205.html",
+      "source_title": "Lumine Group Inc. Announces Results for Q1 2026",
+      "confidence": "CONFIRMED"
+    },
+    {
+      "item": "Lumine Group (LMN) Q1 2026 Organic Growth",
+      "period": "Q1 2026",
+      "value": 0,
+      "unit": "percent",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/lumine-group-inc-announces-results-200100205.html",
+      "source_title": "Lumine Group Inc. Announces Results for Q1 2026",
+      "confidence": "CONFIRMED"
+    },
+    {
+      "item": "Lumine Group (LMN) Q1 2026 Organic Growth Currency Adjusted",
+      "period": "Q1 2026",
+      "value": -2,
+      "unit": "percent",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/lumine-group-inc-announces-results-200100205.html",
+      "source_title": "Lumine Group Inc. Announces Results for Q1 2026",
+      "confidence": "CONFIRMED"
+    },
+    {
+      "item": "Lumine Group (LMN) Q2 2026 Revenue",
+      "period": "Q2 2026",
+      "value": 235.1,
+      "unit": "USD million",
+      "source_url": "https://www.globenewswire.com/news-release/2026/08/04/3338792/0/en/Lumine-Group-Inc-Announces-Results-for-the-Second-Quarter-Ended-June-30-2026.html",
+      "source_title": "Lumine Group Inc. Announces Results for Q2 2026",
+      "confidence": "CONFIRMED"
+    },
+    {
+      "item": "Lumine Group (LMN) Q2 2026 Revenue Growth YoY",
+      "period": "Q2 2026",
+      "value": 28,
+      "unit": "percent",
+      "source_url": "https://www.globenewswire.com/news-release/2026/08/04/3338792/0/en/Lumine-Group-Inc-Announces-Results-for-the-Second-Quarter-Ended-June-30-2026.html",
+      "source_title": "Lumine Group Inc. Announces Results for Q2 2026",
+      "confidence": "CONFIRMED"
+    },
+    {
+      "item": "Lumine Group (LMN) Q2 2026 Operating Income",
+      "period": "Q2 2026",
+      "value": 75.3,
+      "unit": "USD million",
+      "source_url": "https://www.globenewswire.com/news-release/2026/08/04/3338792/0/en/Lumine-Group-Inc-Announces-Results-for-the-Second-Quarter-Ended-June-30-2026.html",
+      "source_title": "Lumine Group Inc. Announces Results for Q2 2026",
+      "confidence": "CONFIRMED"
+    },
+    {
+      "item": "Descartes Systems (DSG) FY2026 Revenue",
+      "period": "FY2026",
+      "value": 729.0,
+      "unit": "USD million",
+      "source_url": "https://www.theglobeandmail.com/investing/markets/stocks/DSGX-Q/pressreleases/726305/descartes-systems-group-posts-record-fiscal-2026-revenue-and-earnings-amid-logistics-turbulence/",
+      "source_title": "Descartes Systems Group Posts Record Fiscal 2026 Revenue and Earnings",
+      "confidence": "CONFIRMED"
+    },
+    {
+      "item": "Descartes Systems (DSG) FY2026 Revenue Growth YoY",
+      "period": "FY2026",
+      "value": 12,
+      "unit": "percent",
+      "source_url": "https://www.theglobeandmail.com/investing/markets/stocks/DSGX-Q/pressreleases/726305/descartes-systems-group-posts-record-fiscal-2026-revenue-and-earnings-amid-logistics-turbulence/",
+      "source_title": "Descartes Systems Group Posts Record Fiscal 2026 Revenue and Earnings",
+      "confidence": "CONFIRMED"
+    },
+    {
+      "item": "Descartes Systems (DSG) FY2026 Services Revenue",
+      "period": "FY2026",
+      "value": 677.2,
+      "unit": "USD million",
+      "source_url": "https://www.theglobeandmail.com/investing/markets/stocks/DSGX-Q/pressreleases/726305/descartes-systems-group-posts-record-fiscal-2026-revenue-and-earnings-amid-logistics-turbulence/",
+      "source_title": "Descartes Systems Group Posts Record Fiscal 2026 Revenue and Earnings",
+      "confidence": "CONFIRMED"
+    },
+    {
+      "item": "Descartes Systems (DSG) FY2026 Services Revenue Growth YoY",
+      "period": "FY2026",
+      "value": 15,
+      "unit": "percent",
+      "source_url": "https://www.theglobeandmail.com/investing/markets/stocks/DSGX-Q/pressreleases/726305/descartes-systems-group-posts-record-fiscal-2026-revenue-and-earnings-amid-logistics-turbulence/",
+      "source_title": "Descartes Systems Group Posts Record Fiscal 2026 Revenue and Earnings",
+      "confidence": "CONFIRMED"
+    },
+    {
+      "item": "Descartes Systems (DSG) FY2026 Adjusted EBITDA",
+      "period": "FY2026",
+      "value": 329.5,
+      "unit": "USD million",
+      "source_url": "https://www.theglobeandmail.com/investing/markets/stocks/DSGX-Q/pressreleases/726305/descartes-systems-group-posts-record-fiscal-2026-revenue-and-earnings-amid-logistics-turbulence/",
+      "source_title": "Descartes Systems Group Posts Record Fiscal 2026 Revenue and Earnings",
+      "confidence": "CONFIRMED"
+    },
+    {
+      "item": "Descartes Systems (DSG) FY2026 Adjusted EBITDA Growth YoY",
+      "period": "FY2026",
+      "value": 16,
+      "unit": "percent",
+      "source_url": "https://www.theglobeandmail.com/investing/markets/stocks/DSGX-Q/pressreleases/726305/descartes-systems-group-posts-record-fiscal-2026-revenue-and-earnings-amid-logistics-turbulence/",
+      "source_title": "Descartes Systems Group Posts Record Fiscal 2026 Revenue and Earnings",
+      "confidence": "CONFIRMED"
+    },
+    {
+      "item": "Descartes Systems (DSG) FY2026 EBITDA Margin",
+      "period": "FY2026",
+      "value": 45.2,
+      "unit": "percent",
+      "source_url": "https://www.theglobeandmail.com/investing/markets/stocks/DSGX-Q/pressreleases/726305/descartes-systems-group-posts-record-fiscal-2026-revenue-and-earnings-amid-logistics-turbulence/",
+      "source_title": "Descartes Systems Group Posts Record Fiscal 2026 Revenue and Earnings",
+      "confidence": "PLAUSIBLE"
+    },
+    {
+      "item": "Descartes Systems (DSG) FY2026 Operating Income",
+      "period": "FY2026",
+      "value": 210.0,
+      "unit": "USD million",
+      "source_url": "https://www.theglobeandmail.com/investing/markets/stocks/DSGX-Q/pressreleases/726305/descartes-systems-group-posts-record-fiscal-2026-revenue-and-earnings-amid-logistics-turbulence/",
+      "source_title": "Descartes Systems Group Posts Record Fiscal 2026 Revenue and Earnings",
+      "confidence": "CONFIRMED"
+    },
+    {
+      "item": "Descartes Systems (DSG) FY2026 Operating Income Growth YoY",
+      "period": "FY2026",
+      "value": 16,
+      "unit": "percent",
+      "source_url": "https://www.theglobeandmail.com/investing/markets/stocks/DSGX-Q/pressreleases/726305/descartes-systems-group-posts-record-fiscal-2026-revenue-and-earnings-amid-logistics-turbulence/",
+      "source_title": "Descartes Systems Group Posts Record Fiscal 2026 Revenue and Earnings",
+      "confidence": "CONFIRMED"
+    },
+    {
+      "item": "Descartes Systems (DSG) FY2026 Net Income",
+      "period": "FY2026",
+      "value": 163.8,
+      "unit": "USD million",
+      "source_url": "https://www.theglobeandmail.com/investing/markets/stocks/DSGX-Q/pressreleases/726305/descartes-systems-group-posts-record-fiscal-2026-revenue-and-earnings-amid-logistics-turbulence/",
+      "source_title": "Descartes Systems Group Posts Record Fiscal 2026 Revenue and Earnings",
+      "confidence": "CONFIRMED"
+    },
+    {
+      "item": "Descartes Systems (DSG) FY2026 Net Income Growth YoY",
+      "period": "FY2026",
+      "value": 14,
+      "unit": "percent",
+      "source_url": "https://www.theglobeandmail.com/investing/markets/stocks/DSGX-Q/pressreleases/726305/descartes-systems-group-posts-record-fiscal-2026-revenue-and-earnings-amid-logistics-turbulence/",
+      "source_title": "Descartes Systems Group Posts Record Fiscal 2026 Revenue and Earnings",
+      "confidence": "CONFIRMED"
+    },
+    {
+      "item": "Descartes Systems (DSG) FY2026 Net Margin",
+      "period": "FY2026",
+      "value": 22.5,
+      "unit": "percent",
+      "source_url": "https://www.theglobeandmail.com/investing/markets/stocks/DSGX-Q/pressreleases/726305/descartes-systems-group-posts-record-fiscal-2026-revenue-and-earnings-amid-logistics-turbulence/",
+      "source_title": "Descartes Systems Group Posts Record Fiscal 2026 Revenue and Earnings",
+      "confidence": "PLAUSIBLE"
+    },
+    {
+      "item": "Descartes Systems (DSG) FY2026 Gross Margin",
+      "period": "FY2026",
+      "value": 77,
+      "unit": "percent",
+      "source_url": "https://www.theglobeandmail.com/investing/markets/stocks/DSGX-Q/pressreleases/726305/descartes-systems-group-posts-record-fiscal-2026-revenue-and-earnings-amid-logistics-turbulence/",
+      "source_title": "Descartes Systems Group Posts Record Fiscal 2026 Revenue and Earnings",
+      "confidence": "CONFIRMED"
+    },
+    {
+      "item": "Descartes Systems (DSG) FY2026 Q4 Revenue",
+      "period": "FY2026 Q4",
+      "value": 192.8,
+      "unit": "USD million",
+      "source_url": "https://www.theglobeandmail.com/investing/markets/stocks/DSGX-Q/pressreleases/726305/descartes-systems-group-posts-record-fiscal-2026-revenue-and-earnings-amid-logistics-turbulence/",
+      "source_title": "Descartes Systems Group Posts Record Fiscal 2026 Revenue and Earnings",
+      "confidence": "CONFIRMED"
+    },
+    {
+      "item": "Descartes Systems (DSG) FY2026 Q4 Revenue Growth YoY",
+      "period": "FY2026 Q4",
+      "value": 15,
+      "unit": "percent",
+      "source_url": "https://www.theglobeandmail.com/investing/markets/stocks/DSGX-Q/pressreleases/726305/descartes-systems-group-posts-record-fiscal-2026-revenue-and-earnings-amid-logistics-turbulence/",
+      "source_title": "Descartes Systems Group Posts Record Fiscal 2026 Revenue and Earnings",
+      "confidence": "CONFIRMED"
+    },
+    {
+      "item": "Descartes Systems (DSG) FY2026 Q4 Adjusted EBITDA Margin",
+      "period": "FY2026 Q4",
+      "value": 46,
+      "unit": "percent",
+      "source_url": "https://www.theglobeandmail.com/investing/markets/stocks/DSGX-Q/pressreleases/726305/descartes-systems-group-posts-record-fiscal-2026-revenue-and-earnings-amid-logistics-turbulence/",
+      "source_title": "Descartes Systems Group Posts Record Fiscal 2026 Revenue and Earnings",
+      "confidence": "CONFIRMED"
+    },
+    {
+      "item": "Descartes Systems (DSG) Cash",
+      "period": "FY2026",
+      "value": 356.5,
+      "unit": "USD million",
+      "source_url": "https://www.theglobeandmail.com/investing/markets/stocks/DSGX-Q/pressreleases/726305/descartes-systems-group-posts-record-fiscal-2026-revenue-and-earnings-amid-logistics-turbulence/",
+      "source_title": "Descartes Systems Group Posts Record Fiscal 2026 Revenue and Earnings",
+      "confidence": "CONFIRMED"
+    },
+    {
+      "item": "Enghouse Systems (ENGH) H1 2026 YTD Revenue",
+      "period": "H1 2026",
+      "value": 234.4,
+      "unit": "USD million",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/enghouse-systems-ltd-eghsf-q2-010050704.html",
+      "source_title": "Enghouse Systems Ltd Q2 2026 Earnings Call Highlights",
+      "confidence": "CONFIRMED"
+    },
+    {
+      "item": "Enghouse Systems (ENGH) H1 2026 YTD Revenue Growth",
+      "period": "H1 2026",
+      "value": -5.8,
+      "unit": "percent",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/enghouse-systems-ltd-eghsf-q2-010050704.html",
+      "source_title": "Enghouse Systems Ltd Q2 2026 Earnings Call Highlights",
+      "confidence": "CONFIRMED"
+    },
+    {
+      "item": "Enghouse Systems (ENGH) Q2 2026 Revenue",
+      "period": "Q2 2026",
+      "value": 114.3,
+      "unit": "USD million",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/enghouse-systems-ltd-eghsf-q2-010050704.html",
+      "source_title": "Enghouse Systems Ltd Q2 2026 Earnings Call Highlights",
+      "confidence": "CONFIRMED"
+    },
+    {
+      "item": "Enghouse Systems (ENGH) Q2 2026 Revenue Growth YoY",
+      "period": "Q2 2026",
+      "value": -8,
+      "unit": "percent",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/enghouse-systems-ltd-eghsf-q2-010050704.html",
+      "source_title": "Enghouse Systems Ltd Q2 2026 Earnings Call Highlights",
+      "confidence": "CONFIRMED"
+    },
+    {
+      "item": "Enghouse Systems (ENGH) Q2 2026 Net Income",
+      "period": "Q2 2026",
+      "value": 16.3,
+      "unit": "USD million",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/enghouse-systems-ltd-eghsf-q2-010050704.html",
+      "source_title": "Enghouse Systems Ltd Q2 2026 Earnings Call Highlights",
+      "confidence": "CONFIRMED"
+    },
+    {
+      "item": "Enghouse Systems (ENGH) Q2 2026 Net Income Growth YoY",
+      "period": "Q2 2026",
+      "value": 21,
+      "unit": "percent",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/enghouse-systems-ltd-eghsf-q2-010050704.html",
+      "source_title": "Enghouse Systems Ltd Q2 2026 Earnings Call Highlights",
+      "confidence": "CONFIRMED"
+    },
+    {
+      "item": "Enghouse Systems (ENGH) Q2 2026 Adjusted EBITDA",
+      "period": "Q2 2026",
+      "value": 26.5,
+      "unit": "USD million",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/enghouse-systems-ltd-eghsf-q2-010050704.html",
+      "source_title": "Enghouse Systems Ltd Q2 2026 Earnings Call Highlights",
+      "confidence": "CONFIRMED"
+    },
+    {
+      "item": "Enghouse Systems (ENGH) Q2 2026 Adjusted EBITDA Margin",
+      "period": "Q2 2026",
+      "value": 23.2,
+      "unit": "percent",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/enghouse-systems-ltd-eghsf-q2-010050704.html",
+      "source_title": "Enghouse Systems Ltd Q2 2026 Earnings Call Highlights",
+      "confidence": "CONFIRMED"
+    },
+    {
+      "item": "Enghouse Systems (ENGH) Q3 2026 Revenue",
+      "period": "Q3 2026",
+      "value": 117.6,
+      "unit": "USD million",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/enghouse-systems-ltd-eghsf-q3-010052009.html",
+      "source_title": "Enghouse Systems Ltd Q3 2026 Earnings Call Highlights",
+      "confidence": "CONFIRMED"
+    },
+    {
+      "item": "Enghouse Systems (ENGH) Q3 2026 Adjusted EBITDA",
+      "period": "Q3 2026",
+      "value": 30.8,
+      "unit": "USD million",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/enghouse-systems-ltd-eghsf-q3-010052009.html",
+      "source_title": "Enghouse Systems Ltd Q3 2026 Earnings Call Highlights",
+      "confidence": "CONFIRMED"
+    },
+    {
+      "item": "Enghouse Systems (ENGH) Q3 2026 Adjusted EBITDA Margin",
+      "period": "Q3 2026",
+      "value": 26.2,
+      "unit": "percent",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/enghouse-systems-ltd-eghsf-q3-010052009.html",
+      "source_title": "Enghouse Systems Ltd Q3 2026 Earnings Call Highlights",
+      "confidence": "CONFIRMED"
+    },
+    {
+      "item": "Enghouse Systems (ENGH) Cash and Equivalents",
+      "period": "2026",
+      "value": 269.7,
+      "unit": "USD million",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/enghouse-systems-ltd-eghsf-q2-010050704.html",
+      "source_title": "Enghouse Systems Ltd Q2 2026 Earnings Call Highlights",
+      "confidence": "CONFIRMED"
+    },
+    {
+      "item": "Enghouse Systems (ENGH) Recurring Revenue Percentage",
+      "period": "2026",
+      "value": 69.5,
+      "unit": "percent",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/enghouse-systems-ltd-eghsf-q2-010050704.html",
+      "source_title": "Enghouse Systems Ltd Q2 2026 Earnings Call Highlights",
+      "confidence": "CONFIRMED"
+    }
+  ],
+  "notes": "Data collected from public earnings announcements and financial data websites. All figures in original reporting currency (EUR for Topicus.com, USD for others). WebSearch budget exhausted at 200 queries; unable to retrieve all requested metrics for all companies. Gaps exist for most valuation multiples (P/E, EV/EBITDA, Price to FCF) and 2026 share price drawdown metrics.",
+  "gaps": [
+    "LTM (Last Twelve Months) revenue figures for most companies; only FY annual figures available for Descartes",
+    "EV/EBITDA ratios for all companies",
+    "P/E ratios for all companies",
+    "Price to Free Cash Flow ratios for all companies",
+    "2026 share price drawdown figures for all companies",
+    "Free Cash Flow absolute values for all companies",
+    "Market capitalization for Lumine Group, Descartes Systems, and Enghouse Systems",
+    "Detailed organic growth rates for Descartes Systems and Enghouse Systems",
+    "EBITDA margins for Topicus.com and Lumine Group"
+  ]
+}

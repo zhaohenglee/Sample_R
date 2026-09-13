@@ -1,0 +1,177 @@
+{
+  "topic": "Constellation Software FY2023 Annual Results",
+  "file": "/home/user/Sample_R/analysis/constellation-software/stage1/fy2023.json",
+  "figure_count": 34,
+  "figures": [
+    {
+      "item": "Total Revenue",
+      "period": "FY2023",
+      "value": 8407,
+      "unit": "USD millions",
+      "source_url": "https://www.globenewswire.com/news-release/2024/03/06/2841834/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2023-and-Declares-Quarterly-Dividend.html"
+    },
+    {
+      "item": "Total Revenue",
+      "period": "FY2022",
+      "value": 6622,
+      "unit": "USD millions",
+      "source_url": "https://www.globenewswire.com/news-release/2024/03/06/2841834/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2023-and-Declares-Quarterly-Dividend.html"
+    },
+    {
+      "item": "Organic Growth Rate",
+      "period": "FY2023",
+      "value": 5,
+      "unit": "percent",
+      "source_url": "https://www.globenewswire.com/news-release/2024/03/06/2841834/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2023-and-Declares-Quarterly-Dividend.html"
+    },
+    {
+      "item": "Organic Growth Rate",
+      "period": "FY2022",
+      "value": -1,
+      "unit": "percent",
+      "source_url": "https://www.speedwellmemos.com/p/constellation-software-2022-earnings"
+    },
+    {
+      "item": "Maintenance and Other Recurring Revenue",
+      "period": "FY2023",
+      "value": 5985,
+      "unit": "USD millions",
+      "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/statutory-filings/q4-2023-shareholder-report.pdf?sfvrsn=91ffcfe7_3"
+    },
+    {
+      "item": "Net Income Attributable to Shareholders",
+      "period": "FY2023",
+      "value": 565,
+      "unit": "USD millions",
+      "source_url": "https://www.globenewswire.com/news-release/2024/03/06/2841834/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2023-and-Declares-Quarterly-Dividend.html"
+    },
+    {
+      "item": "Net Income Attributable to Shareholders",
+      "period": "FY2022",
+      "value": 512,
+      "unit": "USD millions",
+      "source_url": "https://www.globenewswire.com/news-release/2024/03/06/2841834/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2023-and-Declares-Quarterly-Dividend.html"
+    },
+    {
+      "item": "Diluted Earnings Per Share",
+      "period": "FY2023",
+      "value": 26.67,
+      "unit": "USD",
+      "source_url": "https://www.globenewswire.com/news-release/2024/03/06/2841834/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2023-and-Declares-Quarterly-Dividend.html"
+    },
+    {
+      "item": "Diluted Earnings Per Share",
+      "period": "FY2022",
+      "value": 24.16,
+      "unit": "USD",
+      "source_url": "https://finance.yahoo.com/news/constellation-software-full-2023-earnings-110310762.html"
+    },
+    {
+      "item": "EBITDA",
+      "period": "FY2023",
+      "value": 2578,
+      "unit": "USD millions",
+      "source_url": "https://www.alphaquery.com/stock/CNSWF/fundamentals/annual/ebitda"
+    },
+    {
+      "item": "EBITDA",
+      "period": "FY2022",
+      "value": 2485,
+      "unit": "USD millions",
+      "source_url": "https://www.alphaquery.com/stock/CNSWF/fundamentals/annual/ebitda"
+    },
+    {
+      "item": "Cash Flow from Operating Activities",
+      "period": "FY2023",
+      "value": 1779,
+      "unit": "USD millions",
+      "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/statutory-filings/q4-2023-shareholder-report.pdf?sfvrsn=91ffcfe7_3"
+    },
+    {
+      "item": "Free Cash Flow Available to Shareholders (FCFA2S)",
+      "period": "FY2023",
+      "value": 1160,
+      "unit": "USD millions",
+      "source_url": "https://www.globenewswire.com/news-release/2024/03/06/2841834/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2023-and-Declares-Quarterly-Dividend.html"
+    },
+    {
+      "item": "Free Cash Flow Available to Shareholders (FCFA2S)",
+      "period": "FY2022",
+      "value": 853,
+      "unit": "USD millions",
+      "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/statutory-filings/csi---mda-q4-2023---final.pdf?sfvrsn=47d7de81_3"
+    },
+    {
+      "item": "Cash Balance",
+      "period": "FY2023",
+      "value": 1284,
+      "unit": "USD millions",
+      "source_url": "https://www.globenewswire.com/news-release/2024/03/06/2841834/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2023-and-Declares-Quarterly-Dividend.html"
+    },
+    {
+      "item": "Cash Balance",
+      "period": "FY2022",
+      "value": 811,
+      "unit": "USD millions",
+      "source_url": "https://www.globenewswire.com/news-release/2024/03/06/2841834/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2023-and-Declares-Quarterly-Dividend.html"
+    },
+    {
+      "item": "Total Debt",
+      "period": "FY2023",
+      "value": 3334,
+      "unit": "USD millions",
+      "source_url": "https://www.globenewswire.com/news-release/2024/03/06/2841834/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2023-and-Declares-Quarterly-Dividend.html"
+    },
+    {
+      "item": "Total Debt",
+      "period": "FY2022",
+      "value": 1974,
+      "unit": "USD millions",
+      "source_url": "https://www.globenewswire.com/news-release/2024/03/06/2841834/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2023-and-Declares-Quarterly-Dividend.html"
+    },
+    {
+      "item": "Diluted Shares Outstanding",
+      "period": "FY2023",
+      "value": 21.19,
+      "unit": "millions",
+      "source_url": "https://www.macrotrends.net/stocks/charts/CNSWF/constellation-software/shares-outstanding",
+      "confidence": "calculated from net income and EPS"
+    },
+    {
+      "item": "Annual Dividend Per Share",
+      "period": "FY2023",
+      "value": 4.00,
+      "unit": "USD",
+      "source_url": "https://stockanalysis.com/quote/tsx/CSU/dividend/"
+    },
+    {
+      "item": "Annual Dividend Per Share",
+      "period": "FY2022",
+      "value": 4.00,
+      "unit": "USD",
+      "source_url": "https://stockanalysis.com/quote/tsx/CSU/dividend/"
+    },
+    {
+      "item": "Cash Spent on Acquisitions",
+      "period": "FY2023",
+      "value": 732,
+      "unit": "USD millions",
+      "source_url": "https://www.globenewswire.com/news-release/2024/03/06/2841834/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2023-and-Declares-Quarterly-Dividend.html"
+    },
+    {
+      "item": "Cash Spent on Acquisitions",
+      "period": "FY2022",
+      "value": 1600,
+      "unit": "USD millions",
+      "source_url": "https://www.speedwellmemos.com/p/constellation-software-2022-earnings"
+    }
+  ],
+  "notes": "Data source: Constellation Software Inc. Q4 2023 press release (March 6, 2024) and financial statements for year ended December 31, 2023 and 2022. FY2023 organic growth and FY2022 organic growth calculated after adjusting for foreign exchange impacts. Diluted shares calculated from net income and EPS figures. FCFA2S represents Free Cash Flow Available to Shareholders and reflects net cash flows from operating activities less interest, debt service, capital expenditures, and adjusted for non-controlling interests.",
+  "gaps": [
+    "Specific capex/property and equipment purchased amounts for FY2023 and FY2022 (found only as component of FCFA2S calculation)",
+    "FY2022 maintenance and recurring revenue breakdown",
+    "Operating cash flow for FY2022 (conflicting sources show ~$1.3B vs $1.669B)",
+    "Adjusted EBITDA or EBIT margins for precise comparison",
+    "Detailed capex breakdowns by segment"
+  ]
+}

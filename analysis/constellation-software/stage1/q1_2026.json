@@ -1,0 +1,269 @@
+{
+  "topic": "Constellation Software Q1 2026 Results",
+  "period": "Q1 2026 (quarter ended March 31, 2026) vs Q1 2025",
+  "company": "Constellation Software Inc.",
+  "ticker": "TSX: CSU, OTC: CNSWF",
+  "currency": "USD",
+  "file": "/home/user/Sample_R/analysis/constellation-software/stage1/q1_2026.json",
+  "figure_count": 35,
+  "figures": [
+    {
+      "item": "Revenue - Q1 2026",
+      "period": "Q1 2026",
+      "value": 3181,
+      "unit": "millions USD",
+      "source_url": "https://www.csisoftware.com/constellation-software-inc-announces-results-for-the-first-quarter-ended-march-31-2026-and-declares-quarterly-dividend/"
+    },
+    {
+      "item": "Revenue - Q1 2025",
+      "period": "Q1 2025",
+      "value": 2654,
+      "unit": "millions USD",
+      "source_url": "https://seekingalpha.com/pr/20100772-constellation-software-inc-announces-results-for-the-first-quarter-ended-march-31-2025-and"
+    },
+    {
+      "item": "Revenue Growth YoY",
+      "period": "Q1 2026 vs Q1 2025",
+      "value": 20,
+      "unit": "percent",
+      "source_url": "https://www.globenewswire.com/news-release/2026/05/12/3293525/0/en/constellation-software-inc-announces-results-for-the-first-quarter-ended-march-31-2026-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "Organic Growth - Reported",
+      "period": "Q1 2026",
+      "value": 6,
+      "unit": "percent",
+      "source_url": "https://www.marketscreener.com/news/constellation-software-inc-reports-earnings-results-for-the-first-quarter-ended-march-31-2026-ce7f5bdfda8bf121"
+    },
+    {
+      "item": "Organic Growth - FX Adjusted",
+      "period": "Q1 2026",
+      "value": 2,
+      "unit": "percent",
+      "source_url": "https://www.marketscreener.com/news/constellation-software-inc-reports-earnings-results-for-the-first-quarter-ended-march-31-2026-ce7f5bdfda8bf121"
+    },
+    {
+      "item": "Organic Growth - Reported - Q1 2025",
+      "period": "Q1 2025",
+      "value": 0.3,
+      "unit": "percent",
+      "source_url": "https://www.csisoftware.com/docs/default-source/press-releases/csi---press-release-q1-2025---final.pdf?sfvrsn=f9d1211d_3/"
+    },
+    {
+      "item": "Organic Growth - FX Adjusted - Q1 2025",
+      "period": "Q1 2025",
+      "value": 2,
+      "unit": "percent",
+      "source_url": "https://www.csisoftware.com/docs/default-source/press-releases/csi---press-release-q1-2025---final.pdf?sfvrsn=f9d1211d_3/"
+    },
+    {
+      "item": "Maintenance and Recurring Revenue - Q1 2026",
+      "period": "Q1 2026",
+      "value": 2440,
+      "unit": "millions USD",
+      "source_url": "https://x.com/rebound_capital/status/2054557849347404278"
+    },
+    {
+      "item": "Maintenance and Recurring Revenue - Q1 2025",
+      "period": "Q1 2025",
+      "value": 1996,
+      "unit": "millions USD",
+      "source_url": "https://quartr.com/events/constellation-software-inc-csu-q1-2025_33rGRbqH"
+    },
+    {
+      "item": "Maintenance and Recurring Revenue Growth",
+      "period": "Q1 2026 vs Q1 2025",
+      "value": 22,
+      "unit": "percent",
+      "source_url": "https://x.com/rebound_capital/status/2054557849347404278"
+    },
+    {
+      "item": "Maintenance Revenue as % of Total Revenue",
+      "period": "Q1 2026",
+      "value": 77,
+      "unit": "percent",
+      "source_url": "https://x.com/rebound_capital/status/2054557849347404278"
+    },
+    {
+      "item": "Maintenance Organic Growth - FX Neutral",
+      "period": "Q1 2026",
+      "value": 4,
+      "unit": "percent",
+      "source_url": "https://seekingalpha.com/article/4905097-constellation-software-q1-2026-leaning-in-amidst-saaspocalypse"
+    },
+    {
+      "item": "Maintenance Organic Growth - Q4 2025",
+      "period": "Q4 2025",
+      "value": 6,
+      "unit": "percent",
+      "source_url": "https://seekingalpha.com/article/4905097-constellation-software-q1-2026-leaning-in-amidst-saaspocalypse"
+    },
+    {
+      "item": "Net Income - Q1 2026",
+      "period": "Q1 2026",
+      "value": 367,
+      "unit": "millions USD",
+      "source_url": "https://www.globenewswire.com/news-release/2026/05/12/3293525/0/en/constellation-software-inc-announces-results-for-the-first-quarter-ended-march-31-2026-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "Net Income - Q1 2025",
+      "period": "Q1 2025",
+      "value": 136,
+      "unit": "millions USD",
+      "source_url": "https://www.rttnews.com/3651605/constellation-software-q1-profit-revenue-increase.aspx"
+    },
+    {
+      "item": "Diluted EPS - Q1 2026",
+      "period": "Q1 2026",
+      "value": 17.32,
+      "unit": "USD per share",
+      "source_url": "https://www.globenewswire.com/news-release/2026/05/12/3293525/0/en/constellation-software-inc-announces-results-for-the-first-quarter-ended-march-31-2026-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "Diluted EPS - Q1 2025",
+      "period": "Q1 2025",
+      "value": 6.41,
+      "unit": "USD per share",
+      "source_url": "https://www.rttnews.com/3651605/constellation-software-q1-profit-revenue-increase.aspx"
+    },
+    {
+      "item": "Cash Flow from Operations - Q1 2026",
+      "period": "Q1 2026",
+      "value": 897,
+      "unit": "millions USD",
+      "source_url": "https://www.globenewswire.com/news-release/2026/05/12/3293525/0/en/constellation-software-inc-announces-results-for-the-first-quarter-ended-march-31-2026-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "Cash Flow from Operations - Q1 2025",
+      "period": "Q1 2025",
+      "value": 827,
+      "unit": "millions USD",
+      "source_url": "https://www.globenewswire.com/news-release/2026/05/12/3293525/0/en/constellation-software-inc-announces-results-for-the-first-quarter-ended-march-31-2026-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "CFO Growth YoY",
+      "period": "Q1 2026 vs Q1 2025",
+      "value": 9,
+      "unit": "percent",
+      "source_url": "https://www.globenewswire.com/news-release/2026/05/12/3293525/0/en/constellation-software-inc-announces-results-for-the-first-quarter-ended-march-31-2026-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "Free Cash Flow Available to Shareholders - Q1 2026",
+      "period": "Q1 2026",
+      "value": 733,
+      "unit": "millions USD",
+      "source_url": "https://www.globenewswire.com/news-release/2026/05/12/3293525/0/en/constellation-software-inc-announces-results-for-the-first-quarter-ended-march-31-2026-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "Free Cash Flow Available to Shareholders - Q1 2025",
+      "period": "Q1 2025",
+      "value": 510,
+      "unit": "millions USD",
+      "source_url": "https://www.globenewswire.com/news-release/2026/05/12/3293525/0/en/constellation-software-inc-announces-results-for-the-first-quarter-ended-march-31-2026-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "FCFA2S Growth YoY",
+      "period": "Q1 2026 vs Q1 2025",
+      "value": 44,
+      "unit": "percent",
+      "source_url": "https://www.globenewswire.com/news-release/2026/05/12/3293525/0/en/constellation-software-inc-announces-results-for-the-first-quarter-ended-march-31-2026-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "Acquisitions - Cash Consideration",
+      "period": "Q1 2026",
+      "value": 697,
+      "unit": "millions USD",
+      "source_url": "https://www.globenewswire.com/news-release/2026/05/12/3293525/0/en/constellation-software-inc-announces-results-for-the-first-quarter-ended-march-31-2026-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "Acquisitions - Deferred Payments Value",
+      "period": "Q1 2026",
+      "value": 112,
+      "unit": "millions USD",
+      "source_url": "https://www.globenewswire.com/news-release/2026/05/12/3293525/0/en/constellation-software-inc-announces-results-for-the-first-quarter-ended-march-31-2026-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "Acquisitions - Total Consideration",
+      "period": "Q1 2026",
+      "value": 809,
+      "unit": "millions USD",
+      "source_url": "https://www.levelheadedinvesting.com/p/constellation-software-csu-q1-2026-results-the-market-feared-ai-constellation-deployed-1-6-billion"
+    },
+    {
+      "item": "Synchronoss Technologies Acquisition",
+      "period": "Q1 2026",
+      "value": 309,
+      "unit": "millions USD",
+      "source_url": "https://www.globenewswire.com/news-release/2026/02/13/3238129/0/en/lumine-group-completes-acquisition-of-synchronoss-technologies.html"
+    },
+    {
+      "item": "Cash Position",
+      "period": "March 31, 2026",
+      "value": 3010,
+      "unit": "millions USD",
+      "source_url": "https://www.levelheadedinvesting.com/p/constellation-software-csu-q1-2026-results-the-market-feared-ai-constellation-deployed-1-6-billion"
+    },
+    {
+      "item": "Total Debt",
+      "period": "March 31, 2026",
+      "value": 3990,
+      "unit": "millions USD",
+      "source_url": "https://www.levelheadedinvesting.com/p/constellation-software-csu-q1-2026-results-the-market-feared-ai-constellation-deployed-1-6-billion"
+    },
+    {
+      "item": "Net Debt",
+      "period": "March 31, 2026",
+      "value": 980,
+      "unit": "millions USD",
+      "source_url": "https://www.levelheadedinvesting.com/p/constellation-software-csu-q1-2026-results-the-market-feared-ai-constellation-deployed-1-6-billion"
+    },
+    {
+      "item": "Net Debt - Year End 2025",
+      "period": "December 31, 2025",
+      "value": 1043,
+      "unit": "millions USD",
+      "source_url": "https://www.levelheadedinvesting.com/p/constellation-software-csu-q1-2026-results-the-market-feared-ai-constellation-deployed-1-6-billion"
+    },
+    {
+      "item": "Dividend Declared",
+      "period": "Q1 2026",
+      "value": 1.00,
+      "unit": "USD per share",
+      "source_url": "https://www.globenewswire.com/news-release/2026/05/12/3293525/0/en/constellation-software-inc-announces-results-for-the-first-quarter-ended-march-31-2026-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "Diluted Shares Outstanding",
+      "period": "Q1 2026",
+      "value": 21,
+      "unit": "millions",
+      "source_url": "https://www.gurufocus.com/term/shares-outstanding/CNSWF"
+    },
+    {
+      "item": "Interest Payments",
+      "period": "Q1 2026",
+      "value": 65,
+      "unit": "millions USD",
+      "source_url": "https://www.csisoftware.com/wp-content/uploads/2026/05/Q1-2026-Shareholder-Report.pdf"
+    },
+    {
+      "item": "Amortization of Intangible Assets Increase",
+      "period": "Q1 2026 vs Q1 2025",
+      "value": 54,
+      "unit": "millions USD",
+      "source_url": "https://www.csisoftware.com/wp-content/uploads/2026/05/CSI-MDA-Q1-2026-Final.pdf"
+    }
+  ],
+  "notes": "Q1 2026 showed strong revenue growth of 20% YoY, driven primarily by acquisitions (809M in total consideration) with 6% organic growth reported. Maintenance revenue, representing 77% of total revenue, grew 22% YoY but organic growth decelerated to 4% FX-neutral from 6% in Q4 2025. Net income surged 170% to $367M with EPS of $17.32. Free cash flow available to shareholders increased 44% to a record $733M. Net debt improved to $980M from $1,043M at year-end 2025. The Synchronoss acquisition via Lumine (completed Feb 13) for $309M was the largest transaction in the quarter. Average historical maintenance organic growth has been 4.8% since Q1 2019, indicating Q1 2026 was below historical average. Recurring revenue organic growth has decelerated from 6% (Q4 2025) to 4% (Q1 2026).",
+  "gaps": [
+    "Specific revenue breakdown by category (SaaS, licenses, professional services) not found",
+    "Adjusted EBITDA margin percentage for Q1 2026 not found",
+    "Capital expenditures specific amount not separately broken out from investing activities",
+    "Detailed balance sheet liabilities breakdown beyond recorded liability of $1,133M not fully specified",
+    "Tax rate or effective tax rate for Q1 2026 not found",
+    "Recourse debt versus non-recourse debt detailed breakdown partial",
+    "Topicus and Lumine separate revenue and net income contribution to CSU parent not found",
+    "Specific number of acquisitions completed in Q1 2026 beyond the $809M total mentioned",
+    "Share repurchase activity in Q1 2026 not found",
+    "Deferred revenue or backlog metrics not found"
+  ]
+}

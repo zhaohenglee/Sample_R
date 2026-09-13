@@ -1,0 +1,316 @@
+{
+  "topic": "Constellation Software Q2 2026 results (quarter ended June 30 2026, released Aug 11 2026)",
+  "file": "/home/user/Sample_R/analysis/constellation-software/stage1/q2_2026.json",
+  "figure_count": 41,
+  "figures": [
+    {
+      "item": "Revenue",
+      "period": "Q2 2026",
+      "value": 3335,
+      "unit": "millions USD",
+      "source_url": "https://www.globenewswire.com/news-release/2026/08/11/3343207/0/en/constellation-software-inc-announces-results-for-the-second-quarter-ended-june-30-2026-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "Revenue",
+      "period": "Q2 2025",
+      "value": 2844,
+      "unit": "millions USD",
+      "source_url": "https://www.globenewswire.com/news-release/2026/08/11/3343207/0/en/constellation-software-inc-announces-results-for-the-second-quarter-ended-june-30-2026-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "Revenue organic growth",
+      "period": "Q2 2026",
+      "value": 3,
+      "unit": "percent",
+      "source_url": "https://www.globenewswire.com/news-release/2026/08/11/3343207/0/en/constellation-software-inc-announces-results-for-the-second-quarter-ended-june-30-2026-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "Revenue organic growth FX-adjusted",
+      "period": "Q2 2026",
+      "value": 1,
+      "unit": "percent",
+      "source_url": "https://www.globenewswire.com/news-release/2026/08/11/3343207/0/en/constellation-software-inc-announces-results-for-the-second-quarter-ended-june-30-2026-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "Revenue organic growth",
+      "period": "Q2 2025",
+      "value": 5,
+      "unit": "percent",
+      "source_url": "https://finance.yahoo.com/news/constellation-software-second-quarter-2025-123135751.html"
+    },
+    {
+      "item": "Revenue organic growth FX-adjusted",
+      "period": "Q2 2025",
+      "value": 4,
+      "unit": "percent",
+      "source_url": "https://finance.yahoo.com/news/constellation-software-second-quarter-2025-123135751.html"
+    },
+    {
+      "item": "Maintenance and recurring revenue",
+      "period": "Q2 2026",
+      "value": 2554,
+      "unit": "millions USD",
+      "source_url": "https://www.globenewswire.com/news-release/2026/08/11/3343207/0/en/constellation-software-inc-announces-results-for-the-second-quarter-ended-june-30-2026-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "Maintenance and recurring revenue organic growth FX-adjusted",
+      "period": "Q2 2026",
+      "value": 2,
+      "unit": "percent",
+      "source_url": "https://seekingalpha.com/article/4935883-constellation-software-q2-2026-soft-organic-growth-but-encouraging-deployment-pace"
+    },
+    {
+      "item": "Maintenance and recurring revenue growth reported",
+      "period": "Q2 2026",
+      "value": 19,
+      "unit": "percent",
+      "source_url": "https://www.globenewswire.com/news-release/2026/08/11/3343207/0/en/constellation-software-inc-announces-results-for-the-second-quarter-ended-june-30-2026-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "Maintenance and recurring revenue organic growth",
+      "period": "Q2 2025",
+      "value": 7,
+      "unit": "percent",
+      "source_url": "https://expansestocks.substack.com/p/constellation-software-q2-2025"
+    },
+    {
+      "item": "Net income attributable to common shareholders",
+      "period": "Q2 2026",
+      "value": 274,
+      "unit": "millions USD",
+      "source_url": "https://www.globenewswire.com/news-release/2026/08/11/3343207/0/en/constellation-software-inc-announces-results-for-the-second-quarter-ended-june-30-2026-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "Net income attributable to common shareholders",
+      "period": "Q2 2025",
+      "value": 56,
+      "unit": "millions USD",
+      "source_url": "https://www.globenewswire.com/news-release/2026/08/11/3343207/0/en/constellation-software-inc-announces-results-for-the-second-quarter-ended-june-30-2026-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "Diluted earnings per share",
+      "period": "Q2 2026",
+      "value": 12.93,
+      "unit": "USD per share",
+      "source_url": "https://www.globenewswire.com/news-release/2026/08/11/3343207/0/en/constellation-software-inc-announces-results-for-the-second-quarter-ended-june-30-2026-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "Diluted earnings per share",
+      "period": "Q2 2025",
+      "value": 2.66,
+      "unit": "USD per share",
+      "source_url": "https://www.globenewswire.com/news-release/2026/08/11/3343207/0/en/constellation-software-inc-announces-results-for-the-second-quarter-ended-june-30-2026-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "Net income organic growth ex-FX and IRGA adjustment",
+      "period": "Q2 2026",
+      "value": 8,
+      "unit": "percent",
+      "source_url": "https://www.globenewswire.com/news-release/2026/08/11/3343207/0/en/constellation-software-inc-announces-results-for-the-second-quarter-ended-june-30-2026-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "Cash flow from operations",
+      "period": "Q2 2026",
+      "value": 477,
+      "unit": "millions USD",
+      "source_url": "https://www.globenewswire.com/news-release/2026/08/11/3343207/0/en/constellation-software-inc-announces-results-for-the-second-quarter-ended-june-30-2026-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "Cash flow from operations",
+      "period": "Q2 2025",
+      "value": 433,
+      "unit": "millions USD",
+      "source_url": "https://www.globenewswire.com/news-release/2026/08/11/3343207/0/en/constellation-software-inc-announces-results-for-the-second-quarter-ended-june-30-2026-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "FCFA2S (Free Cash Flow Available to Shareholders)",
+      "period": "Q2 2026",
+      "value": 345,
+      "unit": "millions USD",
+      "source_url": "https://www.globenewswire.com/news-release/2026/08/11/3343207/0/en/constellation-software-inc-announces-results-for-the-second-quarter-ended-june-30-2026-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "FCFA2S (Free Cash Flow Available to Shareholders)",
+      "period": "Q2 2025",
+      "value": 220,
+      "unit": "millions USD",
+      "source_url": "https://quartr.com/events/constellation-software-inc-csu-q2-2025_33rGR7YJ"
+    },
+    {
+      "item": "Acquisitions cash consideration",
+      "period": "Q2 2026",
+      "value": 732,
+      "unit": "millions USD",
+      "source_url": "https://www.globenewswire.com/news-release/2026/08/11/3343207/0/en/constellation-software-inc-announces-results-for-the-second-quarter-ended-june-30-2026-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "Acquisitions total consideration (cash + deferred)",
+      "period": "Q2 2026",
+      "value": 893,
+      "unit": "millions USD",
+      "source_url": "https://www.globenewswire.com/news-release/2026/08/11/3343207/0/en/constellation-software-inc-announces-results-for-the-second-quarter-ended-june-30-2026-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "Acquisitions deferred payments",
+      "period": "Q2 2026",
+      "value": 160,
+      "unit": "millions USD",
+      "source_url": "https://www.globenewswire.com/news-release/2026/08/11/3343207/0/en/constellation-software-inc-announces-results-for-the-second-quarter-ended-june-30-2026-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "Acquisitions cash consideration",
+      "period": "Q2 2025",
+      "value": 380,
+      "unit": "millions USD",
+      "source_url": "https://seekingalpha.com/pr/20195334-constellation-software-inc-announces-results-for-the-second-quarter-ended-june-30-2025-and-declares-quarterly-dividend"
+    },
+    {
+      "item": "Acquisitions total consideration (cash + deferred)",
+      "period": "Q2 2025",
+      "value": 469,
+      "unit": "millions USD",
+      "source_url": "https://seekingalpha.com/pr/20195334-constellation-software-inc-announces-results-for-the-second-quarter-ended-june-30-2025-and-declares-quarterly-dividend"
+    },
+    {
+      "item": "Dividend declared per share",
+      "period": "Q2 2026",
+      "value": 1.00,
+      "unit": "USD per share",
+      "source_url": "https://www.globenewswire.com/news-release/2026/08/11/3343207/0/en/constellation-software-inc-announces-results-for-the-second-quarter-ended-june-30-2026-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "Revenue H1",
+      "period": "H1 2026",
+      "value": 6516,
+      "unit": "millions USD",
+      "source_url": "https://www.csisoftware.com/constellation-software-inc-announces-results-for-the-second-quarter-ended-june-30-2026-and-declares-quarterly-dividend/"
+    },
+    {
+      "item": "Revenue H1",
+      "period": "H1 2025",
+      "value": 5498,
+      "unit": "millions USD",
+      "source_url": "https://www.csisoftware.com/constellation-software-inc-announces-results-for-the-second-quarter-ended-june-30-2026-and-declares-quarterly-dividend/"
+    },
+    {
+      "item": "Revenue organic growth H1",
+      "period": "H1 2026",
+      "value": 4,
+      "unit": "percent",
+      "source_url": "https://www.csisoftware.com/constellation-software-inc-announces-results-for-the-second-quarter-ended-june-30-2026-and-declares-quarterly-dividend/"
+    },
+    {
+      "item": "Revenue organic growth FX-adjusted H1",
+      "period": "H1 2026",
+      "value": 1,
+      "unit": "percent",
+      "source_url": "https://www.csisoftware.com/constellation-software-inc-announces-results-for-the-second-quarter-ended-june-30-2026-and-declares-quarterly-dividend/"
+    },
+    {
+      "item": "Net income attributable H1",
+      "period": "H1 2026",
+      "value": 641,
+      "unit": "millions USD",
+      "source_url": "https://www.globenewswire.com/news-release/2026/08/11/3343207/0/en/constellation-software-inc-announces-results-for-the-second-quarter-ended-june-30-2026-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "Net income attributable H1",
+      "period": "H1 2025",
+      "value": 192,
+      "unit": "millions USD",
+      "source_url": "https://www.globenewswire.com/news-release/2026/08/11/3343207/0/en/constellation-software-inc-announces-results-for-the-second-quarter-ended-june-30-2026-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "Diluted earnings per share H1",
+      "period": "H1 2026",
+      "value": 30.25,
+      "unit": "USD per share",
+      "source_url": "https://www.globenewswire.com/news-release/2026/08/11/3343207/0/en/constellation-software-inc-announces-results-for-the-second-quarter-ended-june-30-2026-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "Diluted earnings per share H1",
+      "period": "H1 2025",
+      "value": 9.07,
+      "unit": "USD per share",
+      "source_url": "https://www.globenewswire.com/news-release/2026/08/11/3343207/0/en/constellation-software-inc-announces-results-for-the-second-quarter-ended-june-30-2026-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "Cash flow from operations H1",
+      "period": "H1 2026",
+      "value": 1374,
+      "unit": "millions USD",
+      "source_url": "https://www.csisoftware.com/constellation-software-inc-announces-results-for-the-second-quarter-ended-june-30-2026-and-declares-quarterly-dividend/"
+    },
+    {
+      "item": "Cash flow from operations H1",
+      "period": "H1 2025",
+      "value": 1260,
+      "unit": "millions USD",
+      "source_url": "https://www.csisoftware.com/constellation-software-inc-announces-results-for-the-second-quarter-ended-june-30-2026-and-declares-quarterly-dividend/"
+    },
+    {
+      "item": "IRGA liability revaluation charge H1",
+      "period": "H1 2026",
+      "value": 13,
+      "unit": "millions USD",
+      "source_url": "https://www.csisoftware.com/wp-content/uploads/2026/08/CSI-MDA-Q2-2026-Final.pdf"
+    },
+    {
+      "item": "IRGA liability FX gain H1",
+      "period": "H1 2026",
+      "value": 35,
+      "unit": "millions USD",
+      "source_url": "https://www.csisoftware.com/wp-content/uploads/2026/08/CSI-MDA-Q2-2026-Final.pdf"
+    },
+    {
+      "item": "IRGA liability balance",
+      "period": "June 30 2026",
+      "value": 1186,
+      "unit": "millions USD",
+      "source_url": "https://www.csisoftware.com/wp-content/uploads/2026/08/CSI-MDA-Q2-2026-Final.pdf"
+    },
+    {
+      "item": "IRGA liability balance",
+      "period": "December 31 2025",
+      "value": 1234,
+      "unit": "millions USD",
+      "source_url": "https://www.csisoftware.com/wp-content/uploads/2026/08/CSI-MDA-Q2-2026-Final.pdf"
+    },
+    {
+      "item": "Cash and equivalents",
+      "period": "June 30 2026",
+      "value": 2800,
+      "unit": "millions USD",
+      "source_url": "https://investing.com/equities/constellation-software-inc-balance-sheet"
+    },
+    {
+      "item": "Total debt",
+      "period": "June 30 2026",
+      "value": 5000,
+      "unit": "millions USD",
+      "source_url": "https://investing.com/equities/constellation-software-inc-balance-sheet"
+    },
+    {
+      "item": "Debentures outstanding",
+      "period": "June 30 2026",
+      "value": 348,
+      "unit": "millions USD",
+      "source_url": "https://www.csisoftware.com/wp-content/uploads/2026/08/CSI-MDA-Q2-2026-Final.pdf"
+    },
+    {
+      "item": "Shares outstanding diluted",
+      "period": "June 30 2026",
+      "value": 21,
+      "unit": "millions",
+      "source_url": "https://www.macrotrends.net/stocks/charts/CNSWF/constellation-software/shares-outstanding"
+    }
+  ],
+  "notes": "All figures reported in USD millions except per-share figures and share count. Q2 2026 released August 11 2026. Net income growth heavily influenced by FX gains and IRGA liability revaluation; organic growth excluding these items was only 8% for net income. Organic revenue growth slowed to 1-3% range after FX adjustment, down from prior quarter. Acquisitions continued strong pace at $893 million total consideration in Q2 2026.",
+  "gaps": [
+    "Q1 2025 FCFA2S not found explicitly for comparison",
+    "Q1 2025 net income not found as combined figure",
+    "Q2 2025 maintenance recurring revenue figure (specific dollar amount not located)",
+    "Specific cash position at Q2 2025 end not found",
+    "Debt levels at Q2 2025 end not found for balance sheet comparison"
+  ]
+}

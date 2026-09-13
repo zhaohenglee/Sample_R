@@ -1,0 +1,462 @@
+{
+  "topic": "Constellation Software 2026: AI and Leadership Transition",
+  "file": "/home/user/Sample_R/analysis/constellation-software/stage1/ai_and_leadership.json",
+  "figure_count": 48,
+  "figures": [
+    {
+      "item": "Mark Leonard resignation as President",
+      "period": "2025-09-25",
+      "value": 1,
+      "unit": "event",
+      "source_url": "https://www.csisoftware.com/constellation-software-inc-announces-the-resignation-of-mark-leonard-and-appointment-of-mark-miller-as-president-of-constellation-software/",
+      "source_title": "CSI Software Press Release - Mark Leonard Resignation",
+      "confidence": "Confirmed"
+    },
+    {
+      "item": "Mark Miller appointed as President and COO",
+      "period": "2025-09-25",
+      "value": 30,
+      "unit": "years of service at Constellation/Volaris",
+      "source_url": "https://www.csisoftware.com/constellation-software-inc-announces-the-resignation-of-mark-leonard-and-appointment-of-mark-miller-as-president-of-constellation-software/",
+      "source_title": "CSI Software - Mark Miller Appointment",
+      "confidence": "Confirmed"
+    },
+    {
+      "item": "Mark Leonard to not stand for re-election to Board",
+      "period": "2026-05-15",
+      "value": 1,
+      "unit": "event at AGM",
+      "source_url": "https://ground.news/article/constellation-software-inc-announces-mark-leonards-decision-to-not-stand-for-re-election-to-board-of-directors",
+      "source_title": "Ground News - Mark Leonard Board Decision",
+      "confidence": "Confirmed"
+    },
+    {
+      "item": "Trapeze Group co-founded by Mark Miller",
+      "period": "1988",
+      "value": 1988,
+      "unit": "year",
+      "source_url": "https://finance.yahoo.com/news/constellation-software-inc-announces-resignation-125900776.html",
+      "source_title": "Yahoo Finance - Mark Miller Background",
+      "confidence": "Confirmed"
+    },
+    {
+      "item": "Trapeze Group acquired by Constellation (first acquisition)",
+      "period": "1995",
+      "value": 1995,
+      "unit": "year",
+      "source_url": "https://finance.yahoo.com/news/constellation-software-inc-announces-resignation-125900776.html",
+      "source_title": "Yahoo Finance - Trapeze Group Acquisition",
+      "confidence": "Confirmed"
+    },
+    {
+      "item": "Q2 2026 revenue",
+      "period": "Q2 2026",
+      "value": 3335,
+      "unit": "USD million",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/constellation-software-inc-announces-results-205900670.html",
+      "source_title": "Yahoo Finance - Constellation Q2 2026 Results",
+      "confidence": "Confirmed"
+    },
+    {
+      "item": "Q2 2026 total revenue growth year-over-year",
+      "period": "Q2 2026",
+      "value": 17,
+      "unit": "percent",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/constellation-software-inc-announces-results-205900670.html",
+      "source_title": "Yahoo Finance - Q2 2026 Results",
+      "confidence": "Confirmed"
+    },
+    {
+      "item": "Q2 2026 organic growth",
+      "period": "Q2 2026",
+      "value": 3,
+      "unit": "percent",
+      "source_url": "https://pluang.com/en/news-feed/constellation-software-q2-2026-pertumbuhan-organik-lembut-tingkat-penerapan",
+      "source_title": "Pluang - Q2 2026 Organic Growth",
+      "confidence": "Confirmed"
+    },
+    {
+      "item": "Q2 2026 organic growth after FX adjustment",
+      "period": "Q2 2026",
+      "value": 1,
+      "unit": "percent",
+      "unit_note": "FX-adjusted",
+      "source_url": "https://pluang.com/en/news-feed/constellation-software-q2-2026-pertumbuhan-organik-lembut-tingkat-penerapan",
+      "source_title": "Pluang - Q2 2026 Results",
+      "confidence": "Confirmed"
+    },
+    {
+      "item": "Q2 2026 maintenance and recurring revenue organic growth",
+      "period": "Q2 2026",
+      "value": 2,
+      "unit": "percent",
+      "source_url": "https://www.gurufocus.com/news/9029244/constellation-software-inc-cnswf-q2-2026-earnings-call-highlights-ai-boosts-productivity-but-organic-growth-decelerates",
+      "source_title": "GuruFocus - Q2 2026 Earnings Highlights",
+      "confidence": "Confirmed"
+    },
+    {
+      "item": "Q2 2026 net income attributable to common shareholders",
+      "period": "Q2 2026",
+      "value": 274,
+      "unit": "USD million",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/constellation-software-inc-announces-results-205900670.html",
+      "source_title": "Yahoo Finance - Q2 2026 Earnings",
+      "confidence": "Confirmed"
+    },
+    {
+      "item": "Q2 2026 net income growth year-over-year",
+      "period": "Q2 2026",
+      "value": 386,
+      "unit": "percent",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/constellation-software-inc-announces-results-205900670.html",
+      "source_title": "Yahoo Finance - Q2 2026 Results",
+      "confidence": "Confirmed"
+    },
+    {
+      "item": "Q2 2026 diluted earnings per share",
+      "period": "Q2 2026",
+      "value": 12.93,
+      "unit": "USD",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/constellation-software-inc-announces-results-205900670.html",
+      "source_title": "Yahoo Finance - Q2 2026 EPS",
+      "confidence": "Confirmed"
+    },
+    {
+      "item": "Q1 2026 revenue",
+      "period": "Q1 2026",
+      "value": 3181,
+      "unit": "USD million",
+      "source_url": "https://www.csisoftware.com/constellation-software-inc-announces-results-for-the-first-quarter-ended-march-31-2026-and-declares-quarterly-dividend/",
+      "source_title": "CSI Software - Q1 2026 Results",
+      "confidence": "Confirmed"
+    },
+    {
+      "item": "Q1 2026 total revenue growth year-over-year",
+      "period": "Q1 2026",
+      "value": 20,
+      "unit": "percent",
+      "source_url": "https://expansestocks.substack.com/p/constellation-software-q1-2026",
+      "source_title": "Expanse Stocks - Q1 2026 Update",
+      "confidence": "Confirmed"
+    },
+    {
+      "item": "Q1 2026 organic growth",
+      "period": "Q1 2026",
+      "value": 6,
+      "unit": "percent",
+      "source_url": "https://www.levelheadedinvesting.com/p/constellation-software-csu-q1-2026-results-the-market-feared-ai-constellation-deployed-1-6-billion",
+      "source_title": "Level Headed Investing - Q1 2026 Results",
+      "confidence": "Confirmed"
+    },
+    {
+      "item": "Q1 2026 maintenance organic growth",
+      "period": "Q1 2026",
+      "value": 4,
+      "unit": "percent",
+      "source_url": "https://expansestocks.substack.com/p/constellation-software-q1-2026",
+      "source_title": "Expanse Stocks - Q1 2026 Maintenance Growth",
+      "confidence": "Confirmed"
+    },
+    {
+      "item": "Q1 2026 net income attributable to common shareholders",
+      "period": "Q1 2026",
+      "value": 367,
+      "unit": "USD million",
+      "source_url": "https://www.csisoftware.com/constellation-software-inc-announces-results-for-the-first-quarter-ended-march-31-2026-and-declares-quarterly-dividend/",
+      "source_title": "CSI Software - Q1 2026 Earnings",
+      "confidence": "Confirmed"
+    },
+    {
+      "item": "Q1 2026 diluted earnings per share",
+      "period": "Q1 2026",
+      "value": 17.32,
+      "unit": "USD",
+      "source_url": "https://www.csisoftware.com/constellation-software-inc-announces-results-for-the-first-quarter-ended-march-31-2026-and-declares-quarterly-dividend/",
+      "source_title": "CSI Software - Q1 2026 EPS",
+      "confidence": "Confirmed"
+    },
+    {
+      "item": "Q1 2026 free cash flow available to shareholders",
+      "period": "Q1 2026",
+      "value": 733,
+      "unit": "USD million",
+      "source_url": "https://www.levelheadedinvesting.com/p/constellation-software-csu-q1-2026-results-the-market-feared-ai-constellation-deployed-1-6-billion",
+      "source_title": "Level Headed Investing - Q1 2026 Cash Flow",
+      "confidence": "Confirmed"
+    },
+    {
+      "item": "Q1 2026 FCF increase year-over-year",
+      "period": "Q1 2026",
+      "value": 44,
+      "unit": "percent",
+      "source_url": "https://www.levelheadedinvesting.com/p/constellation-software-csu-q1-2026-results-the-market-feared-ai-constellation-deployed-1-6-billion",
+      "source_title": "Level Headed Investing - Q1 2026 FCF Growth",
+      "confidence": "Confirmed"
+    },
+    {
+      "item": "Q2 2026 free cash flow available to shareholders",
+      "period": "Q2 2026",
+      "value": 345,
+      "unit": "USD million",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/constellation-software-inc-announces-results-205900670.html",
+      "source_title": "Yahoo Finance - Q2 2026 Cash Flow",
+      "confidence": "Confirmed"
+    },
+    {
+      "item": "Q2 2026 FCF increase year-over-year",
+      "period": "Q2 2026",
+      "value": 57,
+      "unit": "percent",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/constellation-software-inc-announces-results-205900670.html",
+      "source_title": "Yahoo Finance - Q2 2026 FCF",
+      "confidence": "Confirmed"
+    },
+    {
+      "item": "Trailing twelve-month free cash flow available to shareholders",
+      "period": "LTM to Q2 2026",
+      "value": 2030,
+      "unit": "USD million",
+      "source_url": "https://longyield.substack.com/p/constellation-software-q2-2026-the",
+      "source_title": "LongYield - Q2 2026 Analysis",
+      "confidence": "PLAUSIBLE"
+    },
+    {
+      "item": "Q1 2026 acquisition capital deployed",
+      "period": "H1 2026 YTD",
+      "value": 1600,
+      "unit": "USD million",
+      "source_url": "https://www.levelheadedinvesting.com/p/constellation-software-csu-q1-2026-results-the-market-feared-ai-constellation-deployed-1-6-billion",
+      "source_title": "Level Headed Investing - Q1 2026 M&A",
+      "confidence": "Confirmed"
+    },
+    {
+      "item": "Q2 2026 acquisition capital deployed (cash)",
+      "period": "Q2 2026",
+      "value": 732,
+      "unit": "USD million",
+      "source_url": "https://pluang.com/en/news-feed/constellation-software-q2-2026-pertumbuhan-organik-lembut-tingkat-penerapan",
+      "source_title": "Pluang - Q2 2026 M&A Activity",
+      "confidence": "Confirmed"
+    },
+    {
+      "item": "Q2 2026 acquisition total consideration including deferred",
+      "period": "Q2 2026",
+      "value": 893,
+      "unit": "USD million",
+      "source_url": "https://pluang.com/en/news-feed/constellation-software-q2-2026-pertumbuhan-organik-lembut-tingkat-penerapan",
+      "source_title": "Pluang - Q2 2026 Total M&A Consideration",
+      "confidence": "Confirmed"
+    },
+    {
+      "item": "2026 acquisition cohort Q1 margin",
+      "period": "Q1 2026",
+      "value": -16,
+      "unit": "percent",
+      "source_url": "https://longyield.substack.com/p/constellation-software-q2-2026-the",
+      "source_title": "LongYield - Acquisition Cohort Margins",
+      "confidence": "Confirmed"
+    },
+    {
+      "item": "2026 acquisition cohort Q2 margin",
+      "period": "Q2 2026",
+      "value": 16,
+      "unit": "percent",
+      "source_url": "https://longyield.substack.com/p/constellation-software-q2-2026-the",
+      "source_title": "LongYield - 2026 Cohort Q2 Performance",
+      "confidence": "Confirmed"
+    },
+    {
+      "item": "2025 acquisition cohort Q2 2026 margin",
+      "period": "Q2 2026",
+      "value": 20,
+      "unit": "percent",
+      "source_url": "https://longyield.substack.com/p/constellation-software-q2-2026-the",
+      "source_title": "LongYield - 2025 Cohort Margin Improvement",
+      "confidence": "Confirmed"
+    },
+    {
+      "item": "CFO reviewed business units for AI attrition anomalies",
+      "period": "2026-05",
+      "value": 900,
+      "unit": "business units reviewed",
+      "source_url": "https://expansestocks.substack.com/p/constellation-software-agm-2026",
+      "source_title": "Expanse Stocks - AGM 2026 Transcript",
+      "confidence": "Confirmed"
+    },
+    {
+      "item": "ClickDimensions AI support agent ticket resolution rate",
+      "period": "2026-01",
+      "value": 82,
+      "unit": "percent of Tier 1 tickets resolved without human",
+      "source_url": "https://expansestocks.substack.com/p/constellation-software-agm-2026",
+      "source_title": "Expanse Stocks - AGM 2026 AI Examples",
+      "confidence": "Confirmed"
+    },
+    {
+      "item": "FY2025 revenue",
+      "period": "FY2025",
+      "value": 11623,
+      "unit": "USD million",
+      "source_url": "https://www.globenewswire.com/news-release/2026/03/09/3251696/0/en/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2025-and-declares-quarterly-dividend.html",
+      "source_title": "Globe Newswire - FY2025 Results",
+      "confidence": "Confirmed"
+    },
+    {
+      "item": "FY2025 total revenue growth year-over-year",
+      "period": "FY2025",
+      "value": 15,
+      "unit": "percent",
+      "source_url": "https://thepursuitofcompounding.substack.com/p/constellation-software-inc-fiscal",
+      "source_title": "Pursuit of Compounding - FY2025 Update",
+      "confidence": "Confirmed"
+    },
+    {
+      "item": "FY2025 organic growth",
+      "period": "FY2025",
+      "value": 4,
+      "unit": "percent",
+      "source_url": "https://thepursuitofcompounding.substack.com/p/constellation-software-inc-fiscal",
+      "source_title": "Pursuit of Compounding - FY2025 Organic Growth",
+      "confidence": "Confirmed"
+    },
+    {
+      "item": "FY2025 maintenance and recurring revenue organic growth",
+      "period": "FY2025",
+      "value": 6,
+      "unit": "percent",
+      "source_url": "https://thepursuitofcompounding.substack.com/p/constellation-software-inc-fiscal",
+      "source_title": "Pursuit of Compounding - FY2025 Maintenance",
+      "confidence": "Confirmed"
+    },
+    {
+      "item": "Q4 2025 maintenance and recurring revenue organic growth",
+      "period": "Q4 2025",
+      "value": 9,
+      "unit": "percent",
+      "source_url": "https://expansestocks.substack.com/p/constellation-software-q4-2025",
+      "source_title": "Expanse Stocks - Q4 2025",
+      "confidence": "Confirmed"
+    },
+    {
+      "item": "Q4 2025 organic growth maintenance (constant currency)",
+      "period": "Q4 2025",
+      "value": 6,
+      "unit": "percent",
+      "source_url": "https://expansestocks.substack.com/p/constellation-software-q4-2025",
+      "source_title": "Expanse Stocks - Q4 2025 FX Adjusted",
+      "confidence": "Confirmed"
+    },
+    {
+      "item": "Stock price peak June 2025",
+      "period": "2025-06",
+      "value": 5060,
+      "unit": "CAD",
+      "source_url": "https://www.levelheadedinvesting.com/p/constellation-software-csu-q1-2026-results-the-market-feared-ai-constellation-deployed-1-6-billion",
+      "source_title": "Level Headed Investing - Stock Price Decline",
+      "confidence": "Confirmed"
+    },
+    {
+      "item": "Stock price low January 2026",
+      "period": "2026-01",
+      "value": 2196,
+      "unit": "CAD",
+      "source_url": "https://www.levelheadedinvesting.com/p/constellation-software-csu-q1-2026-results-the-market-feared-ai-constellation-deployed-1-6-billion",
+      "source_title": "Level Headed Investing - January 2026 Low",
+      "confidence": "Confirmed"
+    },
+    {
+      "item": "Stock price decline from June 2025 to January 2026",
+      "period": "2025-06 to 2026-01",
+      "value": 56.6,
+      "unit": "percent",
+      "source_url": "https://www.levelheadedinvesting.com/p/constellation-software-csu-q1-2026-results-the-market-feared-ai-constellation-deployed-1-6-billion",
+      "source_title": "Level Headed Investing - Peak-to-Trough Decline",
+      "confidence": "Confirmed"
+    },
+    {
+      "item": "National Bank price target downgrade previous",
+      "period": "2025-09",
+      "value": 5500,
+      "unit": "CAD",
+      "source_url": "https://www.marketscreener.com/news/constellation-software-price-target-lowered-by-300-at-rbc-ce7f5bdddc89f625",
+      "source_title": "MarketScreener - National Bank Downgrade",
+      "confidence": "Confirmed"
+    },
+    {
+      "item": "National Bank price target current",
+      "period": "2025-09",
+      "value": 4500,
+      "unit": "CAD",
+      "source_url": "https://www.marketscreener.com/news/constellation-software-price-target-lowered-by-300-at-rbc-ce7f5bdddc89f625",
+      "source_title": "MarketScreener - National Bank New Target",
+      "confidence": "Confirmed"
+    },
+    {
+      "item": "RBC price target downgrade",
+      "period": "2026-01",
+      "value": 4800,
+      "unit": "CAD",
+      "source_url": "https://www.marketscreener.com/news/constellation-software-price-target-lowered-by-300-at-rbc-ce7f5bdddc89f625",
+      "source_title": "MarketScreener - RBC Price Target Cut",
+      "confidence": "Confirmed"
+    },
+    {
+      "item": "Maintenance revenue as percentage of total revenue",
+      "period": "2026",
+      "value": 77,
+      "unit": "percent",
+      "source_url": "https://expandstocks.substack.com/p/constellation-software-q1-2026",
+      "source_title": "Expanse Stocks - Revenue Mix",
+      "confidence": "Confirmed"
+    },
+    {
+      "item": "Maintenance organic growth Q2 2025",
+      "period": "Q2 2025",
+      "value": 6,
+      "unit": "percent",
+      "source_url": "https://seekingalpha.com/article/4905097-constellation-software-q1-2026-leaning-in-amidst-saaspocalypse",
+      "source_title": "Seeking Alpha - Q1 2026 Context",
+      "confidence": "Confirmed"
+    },
+    {
+      "item": "2026 analyst consensus price target (blended)",
+      "period": "2026-08",
+      "value": 4008,
+      "unit": "CAD",
+      "source_url": "https://simplywall.st/stocks/ca/software/tsx-csu/constellation-software-shares",
+      "source_title": "Simply Wall St - Analyst Consensus",
+      "confidence": "Confirmed"
+    },
+    {
+      "item": "Analyst earnings growth forecast 2026+",
+      "period": "2026-forward",
+      "value": 17.9,
+      "unit": "percent per annum",
+      "source_url": "https://finance.yahoo.com/news/does-constellation-software-tsx-csu-191608190.html",
+      "source_title": "Yahoo Finance - Growth Outlook",
+      "confidence": "PLAUSIBLE"
+    },
+    {
+      "item": "Market had priced CSU stock down for AI threat",
+      "period": "2025-2026",
+      "value": -51,
+      "unit": "percent from June 2025 peak",
+      "source_url": "https://nai500.com/blog/2026/02/constellation-software-plunges-51-sparking-debate-on-ai-fear-and-value/",
+      "source_title": "NAI 500 - AI Fear Selloff",
+      "confidence": "Confirmed"
+    }
+  ],
+  "notes": "Data collected from Q1 and Q2 2026 earnings releases, AGM May 2026, and analyst commentary. All financial figures in USD except stock prices in CAD. Key findings: (1) Leadership transition to Mark Miller completed Sept 2025; (2) Q2 2026 organic growth of 3% (1% FX-adj) continues deceleration from Q1 6%; (3) Maintenance revenue growth of 2% in Q2 vs 4% in Q1 shows softening; (4) CFO reviewed 900 business units finding no material AI-driven attrition anomalies; (5) ClickDimensions AI support agent resolves 82% Tier 1 tickets; (6) Stock declined 51% from June 2025 to January 2026 due to AI disruption fears; (7) Multiple analyst downgrades citing AI risk and organic growth concerns; (8) Company deployed $1.6B in Q1 acquisitions, $893M total consideration in Q2; (9) 2026 acquisition cohort margins improved from -16% (Q1) to +16% (Q2); (10) Management commentary frames AI as opportunity for vertical market software, not threat, with decentralized decision-making on AI deployment.",
+  "gaps": [
+    "Specific customer churn/attrition percentages for 2026 (CFO reviewed but did not disclose numeric attrition rates)",
+    "Quarterly organic growth forecast beyond management's '~5% normalized' commentary",
+    "Specific AI revenue targets or timelines (company stated will not provide these)",
+    "Detailed margin progression for older acquisition cohorts in 2026",
+    "Specific competitors' organic growth rates for direct comparison",
+    "Analyst consensus target price for Q3/Q4 2026 (only Q2 2026 targets available)",
+    "Long-term impact modeling on seat-based pricing software from agentic AI (mentioned as risk but not quantified)",
+    "Full H1 2026 organic growth rate by geography or business segment",
+    "Specific productivity gains from internal AI tool deployment at operating units",
+    "Acquisition pipeline size or expected deployment range for H2 2026"
+  ]
+}

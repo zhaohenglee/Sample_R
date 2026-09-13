@@ -1,0 +1,1775 @@
+{
+  "company": "Constellation Software Inc.",
+  "generated_from": "ledger.json",
+  "metrics": {
+    "revenue_growth_yoy::FY2023": {
+      "value": 0.2695560253699789,
+      "formula": "revenue[FY2023]/revenue[FY2022] - 1",
+      "inputs": {
+        "revenue.FY2023": 8407,
+        "revenue.FY2022": 6622
+      }
+    },
+    "revenue_growth_yoy::FY2024": {
+      "value": 0.1973355537052457,
+      "formula": "revenue[FY2024]/revenue[FY2023] - 1",
+      "inputs": {
+        "revenue.FY2024": 10066,
+        "revenue.FY2023": 8407
+      }
+    },
+    "revenue_growth_yoy::FY2025": {
+      "value": 0.15467911782237231,
+      "formula": "revenue[FY2025]/revenue[FY2024] - 1",
+      "inputs": {
+        "revenue.FY2025": 11623,
+        "revenue.FY2024": 10066
+      }
+    },
+    "revenue_growth_yoy::Q1 2026": {
+      "value": 0.20037735849056615,
+      "formula": "revenue[Q1 2026]/revenue[Q1 2025] - 1",
+      "inputs": {
+        "revenue.Q1 2026": 3181,
+        "revenue.Q1 2025": 2650
+      }
+    },
+    "revenue_growth_yoy::Q2 2026": {
+      "value": 0.17264416315049225,
+      "formula": "revenue[Q2 2026]/revenue[Q2 2025] - 1",
+      "inputs": {
+        "revenue.Q2 2026": 3335,
+        "revenue.Q2 2025": 2844
+      }
+    },
+    "revenue_growth_yoy::H1 2026": {
+      "value": 0.18515823935976727,
+      "formula": "revenue[H1 2026]/revenue[H1 2025] - 1",
+      "inputs": {
+        "revenue.H1 2026": 6516,
+        "revenue.H1 2025": 5498
+      }
+    },
+    "revenue_growth_yoy::FY2022": {
+      "value": null,
+      "formula": "revenue[FY2022]/revenue[FY2021] - 1",
+      "inputs": {},
+      "note": "no FY2021 revenue in ledger"
+    },
+    "maintenance_share_of_revenue::FY2022": {
+      "value": null,
+      "formula": "maintenance_recurring_revenue[FY2022]/revenue[FY2022]",
+      "inputs": {},
+      "note": "maintenance_recurring_revenue or revenue missing for this period"
+    },
+    "maintenance_share_of_revenue::FY2023": {
+      "value": 0.7119067443796836,
+      "formula": "maintenance_recurring_revenue[FY2023]/revenue[FY2023]",
+      "inputs": {
+        "maintenance_recurring_revenue.FY2023": 5985,
+        "revenue.FY2023": 8407
+      }
+    },
+    "maintenance_share_of_revenue::FY2024": {
+      "value": 0.7347506457381283,
+      "formula": "maintenance_recurring_revenue[FY2024]/revenue[FY2024]",
+      "inputs": {
+        "maintenance_recurring_revenue.FY2024": 7396,
+        "revenue.FY2024": 10066
+      }
+    },
+    "maintenance_share_of_revenue::FY2025": {
+      "value": null,
+      "formula": "maintenance_recurring_revenue[FY2025]/revenue[FY2025]",
+      "inputs": {},
+      "note": "maintenance_recurring_revenue or revenue missing for this period"
+    },
+    "maintenance_share_of_revenue::Q1 2025": {
+      "value": 0.7532075471698113,
+      "formula": "maintenance_recurring_revenue[Q1 2025]/revenue[Q1 2025]",
+      "inputs": {
+        "maintenance_recurring_revenue.Q1 2025": 1996,
+        "revenue.Q1 2025": 2650
+      }
+    },
+    "maintenance_share_of_revenue::Q1 2026": {
+      "value": 0.767054385413392,
+      "formula": "maintenance_recurring_revenue[Q1 2026]/revenue[Q1 2026]",
+      "inputs": {
+        "maintenance_recurring_revenue.Q1 2026": 2440,
+        "revenue.Q1 2026": 3181
+      }
+    },
+    "maintenance_share_of_revenue::Q2 2025": {
+      "value": null,
+      "formula": "maintenance_recurring_revenue[Q2 2025]/revenue[Q2 2025]",
+      "inputs": {},
+      "note": "maintenance_recurring_revenue or revenue missing for this period"
+    },
+    "maintenance_share_of_revenue::Q2 2026": {
+      "value": 0.7658170914542729,
+      "formula": "maintenance_recurring_revenue[Q2 2026]/revenue[Q2 2026]",
+      "inputs": {
+        "maintenance_recurring_revenue.Q2 2026": 2554,
+        "revenue.Q2 2026": 3335
+      }
+    },
+    "maintenance_share_of_revenue::H1 2025": {
+      "value": null,
+      "formula": "maintenance_recurring_revenue[H1 2025]/revenue[H1 2025]",
+      "inputs": {},
+      "note": "maintenance_recurring_revenue or revenue missing for this period"
+    },
+    "maintenance_share_of_revenue::H1 2026": {
+      "value": 0.7664211172498465,
+      "formula": "maintenance_recurring_revenue[H1 2026]/revenue[H1 2026]",
+      "inputs": {
+        "maintenance_recurring_revenue.H1 2026": 4994,
+        "revenue.H1 2026": 6516
+      }
+    },
+    "maintenance_share_of_revenue::LTM to Q2 2026": {
+      "value": null,
+      "formula": "maintenance_recurring_revenue[LTM to Q2 2026]/revenue[LTM to Q2 2026]",
+      "inputs": {},
+      "note": "maintenance_recurring_revenue or revenue missing for this period"
+    },
+    "maintenance_growth_yoy::FY2023": {
+      "value": null,
+      "formula": "maintenance_recurring_revenue[FY2023]/maintenance_recurring_revenue[FY2022] - 1",
+      "inputs": {},
+      "note": "maintenance_recurring_revenue missing for current or prior period"
+    },
+    "maintenance_growth_yoy::FY2024": {
+      "value": 0.2357560568086885,
+      "formula": "maintenance_recurring_revenue[FY2024]/maintenance_recurring_revenue[FY2023] - 1",
+      "inputs": {
+        "maintenance_recurring_revenue.FY2024": 7396,
+        "maintenance_recurring_revenue.FY2023": 5985
+      }
+    },
+    "maintenance_growth_yoy::FY2025": {
+      "value": null,
+      "formula": "maintenance_recurring_revenue[FY2025]/maintenance_recurring_revenue[FY2024] - 1",
+      "inputs": {},
+      "note": "maintenance_recurring_revenue missing for current or prior period"
+    },
+    "maintenance_growth_yoy::Q1 2026": {
+      "value": 0.222444889779559,
+      "formula": "maintenance_recurring_revenue[Q1 2026]/maintenance_recurring_revenue[Q1 2025] - 1",
+      "inputs": {
+        "maintenance_recurring_revenue.Q1 2026": 2440,
+        "maintenance_recurring_revenue.Q1 2025": 1996
+      }
+    },
+    "maintenance_growth_yoy::Q2 2026": {
+      "value": null,
+      "formula": "maintenance_recurring_revenue[Q2 2026]/maintenance_recurring_revenue[Q2 2025] - 1",
+      "inputs": {},
+      "note": "maintenance_recurring_revenue missing for current or prior period"
+    },
+    "maintenance_growth_yoy::H1 2026": {
+      "value": null,
+      "formula": "maintenance_recurring_revenue[H1 2026]/maintenance_recurring_revenue[H1 2025] - 1",
+      "inputs": {},
+      "note": "maintenance_recurring_revenue missing for current or prior period"
+    },
+    "net_margin::FY2022": {
+      "value": 0.0773180308064029,
+      "formula": "net_income_attributable[FY2022]/revenue[FY2022]",
+      "inputs": {
+        "net_income_attributable.FY2022": 512,
+        "revenue.FY2022": 6622
+      }
+    },
+    "net_margin::FY2023": {
+      "value": 0.06720589984536696,
+      "formula": "net_income_attributable[FY2023]/revenue[FY2023]",
+      "inputs": {
+        "net_income_attributable.FY2023": 565,
+        "revenue.FY2023": 8407
+      }
+    },
+    "net_margin::FY2024": {
+      "value": 0.07262070335783827,
+      "formula": "net_income_attributable[FY2024]/revenue[FY2024]",
+      "inputs": {
+        "net_income_attributable.FY2024": 731,
+        "revenue.FY2024": 10066
+      }
+    },
+    "net_margin::FY2025": {
+      "value": 0.044050589348705156,
+      "formula": "net_income_attributable[FY2025]/revenue[FY2025]",
+      "inputs": {
+        "net_income_attributable.FY2025": 512,
+        "revenue.FY2025": 11623
+      }
+    },
+    "net_margin::Q1 2025": {
+      "value": 0.05132075471698113,
+      "formula": "net_income_attributable[Q1 2025]/revenue[Q1 2025]",
+      "inputs": {
+        "net_income_attributable.Q1 2025": 136,
+        "revenue.Q1 2025": 2650
+      }
+    },
+    "net_margin::Q1 2026": {
+      "value": 0.11537252436340774,
+      "formula": "net_income_attributable[Q1 2026]/revenue[Q1 2026]",
+      "inputs": {
+        "net_income_attributable.Q1 2026": 367,
+        "revenue.Q1 2026": 3181
+      }
+    },
+    "net_margin::Q2 2025": {
+      "value": 0.01969057665260197,
+      "formula": "net_income_attributable[Q2 2025]/revenue[Q2 2025]",
+      "inputs": {
+        "net_income_attributable.Q2 2025": 56,
+        "revenue.Q2 2025": 2844
+      }
+    },
+    "net_margin::Q2 2026": {
+      "value": 0.08215892053973013,
+      "formula": "net_income_attributable[Q2 2026]/revenue[Q2 2026]",
+      "inputs": {
+        "net_income_attributable.Q2 2026": 274,
+        "revenue.Q2 2026": 3335
+      }
+    },
+    "net_margin::H1 2025": {
+      "value": 0.03492178974172426,
+      "formula": "net_income_attributable[H1 2025]/revenue[H1 2025]",
+      "inputs": {
+        "net_income_attributable.H1 2025": 192,
+        "revenue.H1 2025": 5498
+      }
+    },
+    "net_margin::H1 2026": {
+      "value": 0.0983732351135666,
+      "formula": "net_income_attributable[H1 2026]/revenue[H1 2026]",
+      "inputs": {
+        "net_income_attributable.H1 2026": 641,
+        "revenue.H1 2026": 6516
+      }
+    },
+    "net_margin::LTM to Q2 2026": {
+      "value": null,
+      "formula": "net_income_attributable[LTM to Q2 2026]/revenue[LTM to Q2 2026]",
+      "inputs": {},
+      "note": "net_income_attributable or revenue missing"
+    },
+    "adjusted_ebita_margin::FY2022": {
+      "value": null,
+      "formula": "adjusted_ebita[FY2022]/revenue[FY2022]",
+      "inputs": {},
+      "note": "adjusted_ebita not found in ledger for any period (see ledger unmapped[] gap note)"
+    },
+    "adjusted_ebita_margin::FY2023": {
+      "value": null,
+      "formula": "adjusted_ebita[FY2023]/revenue[FY2023]",
+      "inputs": {},
+      "note": "adjusted_ebita not found in ledger for any period (see ledger unmapped[] gap note)"
+    },
+    "adjusted_ebita_margin::FY2024": {
+      "value": null,
+      "formula": "adjusted_ebita[FY2024]/revenue[FY2024]",
+      "inputs": {},
+      "note": "adjusted_ebita not found in ledger for any period (see ledger unmapped[] gap note)"
+    },
+    "adjusted_ebita_margin::FY2025": {
+      "value": null,
+      "formula": "adjusted_ebita[FY2025]/revenue[FY2025]",
+      "inputs": {},
+      "note": "adjusted_ebita not found in ledger for any period (see ledger unmapped[] gap note)"
+    },
+    "adjusted_ebita_margin::Q1 2025": {
+      "value": null,
+      "formula": "adjusted_ebita[Q1 2025]/revenue[Q1 2025]",
+      "inputs": {},
+      "note": "adjusted_ebita not found in ledger for any period (see ledger unmapped[] gap note)"
+    },
+    "adjusted_ebita_margin::Q1 2026": {
+      "value": null,
+      "formula": "adjusted_ebita[Q1 2026]/revenue[Q1 2026]",
+      "inputs": {},
+      "note": "adjusted_ebita not found in ledger for any period (see ledger unmapped[] gap note)"
+    },
+    "adjusted_ebita_margin::Q2 2025": {
+      "value": null,
+      "formula": "adjusted_ebita[Q2 2025]/revenue[Q2 2025]",
+      "inputs": {},
+      "note": "adjusted_ebita not found in ledger for any period (see ledger unmapped[] gap note)"
+    },
+    "adjusted_ebita_margin::Q2 2026": {
+      "value": null,
+      "formula": "adjusted_ebita[Q2 2026]/revenue[Q2 2026]",
+      "inputs": {},
+      "note": "adjusted_ebita not found in ledger for any period (see ledger unmapped[] gap note)"
+    },
+    "adjusted_ebita_margin::H1 2025": {
+      "value": null,
+      "formula": "adjusted_ebita[H1 2025]/revenue[H1 2025]",
+      "inputs": {},
+      "note": "adjusted_ebita not found in ledger for any period (see ledger unmapped[] gap note)"
+    },
+    "adjusted_ebita_margin::H1 2026": {
+      "value": null,
+      "formula": "adjusted_ebita[H1 2026]/revenue[H1 2026]",
+      "inputs": {},
+      "note": "adjusted_ebita not found in ledger for any period (see ledger unmapped[] gap note)"
+    },
+    "adjusted_ebita_margin::LTM to Q2 2026": {
+      "value": null,
+      "formula": "adjusted_ebita[LTM to Q2 2026]/revenue[LTM to Q2 2026]",
+      "inputs": {},
+      "note": "adjusted_ebita not found in ledger for any period (see ledger unmapped[] gap note)"
+    },
+    "cfo_margin::FY2022": {
+      "value": null,
+      "formula": "cash_from_operations[FY2022]/revenue[FY2022]",
+      "inputs": {},
+      "note": "cash_from_operations or revenue missing"
+    },
+    "cfo_margin::FY2023": {
+      "value": 0.21160937314142977,
+      "formula": "cash_from_operations[FY2023]/revenue[FY2023]",
+      "inputs": {
+        "cash_from_operations.FY2023": 1779,
+        "revenue.FY2023": 8407
+      }
+    },
+    "cfo_margin::FY2024": {
+      "value": 0.2181601430558315,
+      "formula": "cash_from_operations[FY2024]/revenue[FY2024]",
+      "inputs": {
+        "cash_from_operations.FY2024": 2196,
+        "revenue.FY2024": 10066
+      }
+    },
+    "cfo_margin::FY2025": {
+      "value": 0.2350511916028564,
+      "formula": "cash_from_operations[FY2025]/revenue[FY2025]",
+      "inputs": {
+        "cash_from_operations.FY2025": 2732,
+        "revenue.FY2025": 11623
+      }
+    },
+    "cfo_margin::Q1 2025": {
+      "value": 0.3120754716981132,
+      "formula": "cash_from_operations[Q1 2025]/revenue[Q1 2025]",
+      "inputs": {
+        "cash_from_operations.Q1 2025": 827,
+        "revenue.Q1 2025": 2650
+      }
+    },
+    "cfo_margin::Q1 2026": {
+      "value": 0.28198679660484127,
+      "formula": "cash_from_operations[Q1 2026]/revenue[Q1 2026]",
+      "inputs": {
+        "cash_from_operations.Q1 2026": 897,
+        "revenue.Q1 2026": 3181
+      }
+    },
+    "cfo_margin::Q2 2025": {
+      "value": 0.15225035161744022,
+      "formula": "cash_from_operations[Q2 2025]/revenue[Q2 2025]",
+      "inputs": {
+        "cash_from_operations.Q2 2025": 433,
+        "revenue.Q2 2025": 2844
+      }
+    },
+    "cfo_margin::Q2 2026": {
+      "value": 0.14302848575712143,
+      "formula": "cash_from_operations[Q2 2026]/revenue[Q2 2026]",
+      "inputs": {
+        "cash_from_operations.Q2 2026": 477,
+        "revenue.Q2 2026": 3335
+      }
+    },
+    "cfo_margin::H1 2025": {
+      "value": 0.2291742451800655,
+      "formula": "cash_from_operations[H1 2025]/revenue[H1 2025]",
+      "inputs": {
+        "cash_from_operations.H1 2025": 1260,
+        "revenue.H1 2025": 5498
+      }
+    },
+    "cfo_margin::H1 2026": {
+      "value": 0.21086556169429096,
+      "formula": "cash_from_operations[H1 2026]/revenue[H1 2026]",
+      "inputs": {
+        "cash_from_operations.H1 2026": 1374,
+        "revenue.H1 2026": 6516
+      }
+    },
+    "cfo_margin::LTM to Q2 2026": {
+      "value": null,
+      "formula": "cash_from_operations[LTM to Q2 2026]/revenue[LTM to Q2 2026]",
+      "inputs": {},
+      "note": "cash_from_operations or revenue missing"
+    },
+    "fcfa2s_margin::FY2022": {
+      "value": 0.12881304741769858,
+      "formula": "fcfa2s[FY2022]/revenue[FY2022]",
+      "inputs": {
+        "fcfa2s.FY2022": 853,
+        "revenue.FY2022": 6622
+      }
+    },
+    "fcfa2s_margin::FY2023": {
+      "value": 0.13798025454977994,
+      "formula": "fcfa2s[FY2023]/revenue[FY2023]",
+      "inputs": {
+        "fcfa2s.FY2023": 1160,
+        "revenue.FY2023": 8407
+      }
+    },
+    "fcfa2s_margin::FY2024": {
+      "value": 0.14623484999006556,
+      "formula": "fcfa2s[FY2024]/revenue[FY2024]",
+      "inputs": {
+        "fcfa2s.FY2024": 1472,
+        "revenue.FY2024": 10066
+      }
+    },
+    "fcfa2s_margin::FY2025": {
+      "value": 0.14479910522240386,
+      "formula": "fcfa2s[FY2025]/revenue[FY2025]",
+      "inputs": {
+        "fcfa2s.FY2025": 1683,
+        "revenue.FY2025": 11623
+      }
+    },
+    "fcfa2s_margin::Q1 2025": {
+      "value": 0.19245283018867926,
+      "formula": "fcfa2s[Q1 2025]/revenue[Q1 2025]",
+      "inputs": {
+        "fcfa2s.Q1 2025": 510,
+        "revenue.Q1 2025": 2650
+      }
+    },
+    "fcfa2s_margin::Q1 2026": {
+      "value": 0.23043068217541654,
+      "formula": "fcfa2s[Q1 2026]/revenue[Q1 2026]",
+      "inputs": {
+        "fcfa2s.Q1 2026": 733,
+        "revenue.Q1 2026": 3181
+      }
+    },
+    "fcfa2s_margin::Q2 2025": {
+      "value": 0.07735583684950774,
+      "formula": "fcfa2s[Q2 2025]/revenue[Q2 2025]",
+      "inputs": {
+        "fcfa2s.Q2 2025": 220,
+        "revenue.Q2 2025": 2844
+      }
+    },
+    "fcfa2s_margin::Q2 2026": {
+      "value": 0.10344827586206896,
+      "formula": "fcfa2s[Q2 2026]/revenue[Q2 2026]",
+      "inputs": {
+        "fcfa2s.Q2 2026": 345,
+        "revenue.Q2 2026": 3335
+      }
+    },
+    "fcfa2s_margin::H1 2025": {
+      "value": null,
+      "formula": "fcfa2s[H1 2025]/revenue[H1 2025]",
+      "inputs": {},
+      "note": "fcfa2s or revenue missing"
+    },
+    "fcfa2s_margin::H1 2026": {
+      "value": null,
+      "formula": "fcfa2s[H1 2026]/revenue[H1 2026]",
+      "inputs": {},
+      "note": "fcfa2s or revenue missing"
+    },
+    "fcfa2s_margin::LTM to Q2 2026": {
+      "value": null,
+      "formula": "fcfa2s[LTM to Q2 2026]/revenue[LTM to Q2 2026]",
+      "inputs": {},
+      "note": "fcfa2s or revenue missing"
+    },
+    "cash_conversion::FY2022": {
+      "value": 1.666015625,
+      "formula": "fcfa2s[FY2022]/net_income_attributable[FY2022]",
+      "inputs": {
+        "fcfa2s.FY2022": 853,
+        "net_income_attributable.FY2022": 512
+      }
+    },
+    "cash_conversion::FY2023": {
+      "value": 2.0530973451327434,
+      "formula": "fcfa2s[FY2023]/net_income_attributable[FY2023]",
+      "inputs": {
+        "fcfa2s.FY2023": 1160,
+        "net_income_attributable.FY2023": 565
+      }
+    },
+    "cash_conversion::FY2024": {
+      "value": 2.0136798905608755,
+      "formula": "fcfa2s[FY2024]/net_income_attributable[FY2024]",
+      "inputs": {
+        "fcfa2s.FY2024": 1472,
+        "net_income_attributable.FY2024": 731
+      }
+    },
+    "cash_conversion::FY2025": {
+      "value": 3.287109375,
+      "formula": "fcfa2s[FY2025]/net_income_attributable[FY2025]",
+      "inputs": {
+        "fcfa2s.FY2025": 1683,
+        "net_income_attributable.FY2025": 512
+      }
+    },
+    "cash_conversion::Q1 2025": {
+      "value": 3.75,
+      "formula": "fcfa2s[Q1 2025]/net_income_attributable[Q1 2025]",
+      "inputs": {
+        "fcfa2s.Q1 2025": 510,
+        "net_income_attributable.Q1 2025": 136
+      }
+    },
+    "cash_conversion::Q1 2026": {
+      "value": 1.997275204359673,
+      "formula": "fcfa2s[Q1 2026]/net_income_attributable[Q1 2026]",
+      "inputs": {
+        "fcfa2s.Q1 2026": 733,
+        "net_income_attributable.Q1 2026": 367
+      }
+    },
+    "cash_conversion::Q2 2025": {
+      "value": 3.9285714285714284,
+      "formula": "fcfa2s[Q2 2025]/net_income_attributable[Q2 2025]",
+      "inputs": {
+        "fcfa2s.Q2 2025": 220,
+        "net_income_attributable.Q2 2025": 56
+      }
+    },
+    "cash_conversion::Q2 2026": {
+      "value": 1.2591240875912408,
+      "formula": "fcfa2s[Q2 2026]/net_income_attributable[Q2 2026]",
+      "inputs": {
+        "fcfa2s.Q2 2026": 345,
+        "net_income_attributable.Q2 2026": 274
+      }
+    },
+    "cash_conversion::H1 2025": {
+      "value": null,
+      "formula": "fcfa2s[H1 2025]/net_income_attributable[H1 2025]",
+      "inputs": {},
+      "note": "fcfa2s or net_income_attributable missing"
+    },
+    "cash_conversion::H1 2026": {
+      "value": null,
+      "formula": "fcfa2s[H1 2026]/net_income_attributable[H1 2026]",
+      "inputs": {},
+      "note": "fcfa2s or net_income_attributable missing"
+    },
+    "cash_conversion::LTM to Q2 2026": {
+      "value": null,
+      "formula": "fcfa2s[LTM to Q2 2026]/net_income_attributable[LTM to Q2 2026]",
+      "inputs": {},
+      "note": "fcfa2s or net_income_attributable missing"
+    },
+    "capex_to_revenue::FY2022": {
+      "value": null,
+      "formula": "capex[FY2022]/revenue[FY2022]",
+      "inputs": {},
+      "note": "capex not found in any stage1 file / ledger (see ledger unmapped[] gap note)"
+    },
+    "capex_to_revenue::FY2023": {
+      "value": null,
+      "formula": "capex[FY2023]/revenue[FY2023]",
+      "inputs": {},
+      "note": "capex not found in any stage1 file / ledger (see ledger unmapped[] gap note)"
+    },
+    "capex_to_revenue::FY2024": {
+      "value": null,
+      "formula": "capex[FY2024]/revenue[FY2024]",
+      "inputs": {},
+      "note": "capex not found in any stage1 file / ledger (see ledger unmapped[] gap note)"
+    },
+    "capex_to_revenue::FY2025": {
+      "value": null,
+      "formula": "capex[FY2025]/revenue[FY2025]",
+      "inputs": {},
+      "note": "capex not found in any stage1 file / ledger (see ledger unmapped[] gap note)"
+    },
+    "capex_to_revenue::Q1 2025": {
+      "value": null,
+      "formula": "capex[Q1 2025]/revenue[Q1 2025]",
+      "inputs": {},
+      "note": "capex not found in any stage1 file / ledger (see ledger unmapped[] gap note)"
+    },
+    "capex_to_revenue::Q1 2026": {
+      "value": null,
+      "formula": "capex[Q1 2026]/revenue[Q1 2026]",
+      "inputs": {},
+      "note": "capex not found in any stage1 file / ledger (see ledger unmapped[] gap note)"
+    },
+    "capex_to_revenue::Q2 2025": {
+      "value": null,
+      "formula": "capex[Q2 2025]/revenue[Q2 2025]",
+      "inputs": {},
+      "note": "capex not found in any stage1 file / ledger (see ledger unmapped[] gap note)"
+    },
+    "capex_to_revenue::Q2 2026": {
+      "value": null,
+      "formula": "capex[Q2 2026]/revenue[Q2 2026]",
+      "inputs": {},
+      "note": "capex not found in any stage1 file / ledger (see ledger unmapped[] gap note)"
+    },
+    "capex_to_revenue::H1 2025": {
+      "value": null,
+      "formula": "capex[H1 2025]/revenue[H1 2025]",
+      "inputs": {},
+      "note": "capex not found in any stage1 file / ledger (see ledger unmapped[] gap note)"
+    },
+    "capex_to_revenue::H1 2026": {
+      "value": null,
+      "formula": "capex[H1 2026]/revenue[H1 2026]",
+      "inputs": {},
+      "note": "capex not found in any stage1 file / ledger (see ledger unmapped[] gap note)"
+    },
+    "capex_to_revenue::LTM to Q2 2026": {
+      "value": null,
+      "formula": "capex[LTM to Q2 2026]/revenue[LTM to Q2 2026]",
+      "inputs": {},
+      "note": "capex not found in any stage1 file / ledger (see ledger unmapped[] gap note)"
+    },
+    "acquisitions_to_fcfa2s::FY2022": {
+      "value": 1.8757327080890973,
+      "formula": "acquisitions_cash_spent[FY2022]/fcfa2s[FY2022]",
+      "inputs": {
+        "acquisitions_cash_spent.FY2022": 1600,
+        "fcfa2s.FY2022": 853
+      }
+    },
+    "acquisitions_to_fcfa2s::FY2023": {
+      "value": 0.6310344827586207,
+      "formula": "acquisitions_cash_spent[FY2023]/fcfa2s[FY2023]",
+      "inputs": {
+        "acquisitions_cash_spent.FY2023": 732,
+        "fcfa2s.FY2023": 1160
+      }
+    },
+    "acquisitions_to_fcfa2s::FY2024": {
+      "value": 1.2173913043478262,
+      "formula": "acquisitions_cash_spent[FY2024]/fcfa2s[FY2024]",
+      "inputs": {
+        "acquisitions_cash_spent.FY2024": 1792,
+        "fcfa2s.FY2024": 1472
+      }
+    },
+    "acquisitions_to_fcfa2s::FY2025": {
+      "value": 0.9382055852644088,
+      "formula": "acquisitions_cash_spent[FY2025]/fcfa2s[FY2025]",
+      "inputs": {
+        "acquisitions_cash_spent.FY2025": 1579,
+        "fcfa2s.FY2025": 1683
+      }
+    },
+    "acquisitions_to_fcfa2s::Q1 2025": {
+      "value": null,
+      "formula": "acquisitions_cash_spent[Q1 2025]/fcfa2s[Q1 2025]",
+      "inputs": {},
+      "note": "acquisitions_cash_spent or fcfa2s missing"
+    },
+    "acquisitions_to_fcfa2s::Q1 2026": {
+      "value": 0.9508867667121419,
+      "formula": "acquisitions_cash_spent[Q1 2026]/fcfa2s[Q1 2026]",
+      "inputs": {
+        "acquisitions_cash_spent.Q1 2026": 697,
+        "fcfa2s.Q1 2026": 733
+      }
+    },
+    "acquisitions_to_fcfa2s::Q2 2025": {
+      "value": null,
+      "formula": "acquisitions_cash_spent[Q2 2025]/fcfa2s[Q2 2025]",
+      "inputs": {},
+      "note": "acquisitions_cash_spent or fcfa2s missing"
+    },
+    "acquisitions_to_fcfa2s::Q2 2026": {
+      "value": 2.121739130434783,
+      "formula": "acquisitions_cash_spent[Q2 2026]/fcfa2s[Q2 2026]",
+      "inputs": {
+        "acquisitions_cash_spent.Q2 2026": 732,
+        "fcfa2s.Q2 2026": 345
+      }
+    },
+    "acquisitions_to_fcfa2s::H1 2025": {
+      "value": null,
+      "formula": "acquisitions_cash_spent[H1 2025]/fcfa2s[H1 2025]",
+      "inputs": {},
+      "note": "acquisitions_cash_spent or fcfa2s missing"
+    },
+    "acquisitions_to_fcfa2s::H1 2026": {
+      "value": null,
+      "formula": "acquisitions_cash_spent[H1 2026]/fcfa2s[H1 2026]",
+      "inputs": {},
+      "note": "acquisitions_cash_spent or fcfa2s missing"
+    },
+    "acquisitions_to_fcfa2s::LTM to Q2 2026": {
+      "value": null,
+      "formula": "acquisitions_cash_spent[LTM to Q2 2026]/fcfa2s[LTM to Q2 2026]",
+      "inputs": {},
+      "note": "acquisitions_cash_spent or fcfa2s missing"
+    },
+    "revenue_per_share::FY2023": {
+      "value": 396.7437470504955,
+      "formula": "revenue[FY2023]/shares_outstanding[FY2023]",
+      "inputs": {
+        "revenue.FY2023": 8407,
+        "shares_outstanding.FY2023": 21.19
+      }
+    },
+    "fcfa2s_per_share::FY2023": {
+      "value": 54.742803209060874,
+      "formula": "fcfa2s[FY2023]/shares_outstanding[FY2023]",
+      "inputs": {
+        "fcfa2s.FY2023": 1160,
+        "shares_outstanding.FY2023": 21.19
+      }
+    },
+    "net_income_per_share::FY2023": {
+      "value": 26.663520528551203,
+      "formula": "net_income_attributable[FY2023]/shares_outstanding[FY2023]",
+      "inputs": {
+        "net_income_attributable.FY2023": 565,
+        "shares_outstanding.FY2023": 21.19
+      }
+    },
+    "revenue_per_share::FY2024": {
+      "value": 475.03539405379894,
+      "formula": "revenue[FY2024]/shares_outstanding[FY2024]",
+      "inputs": {
+        "revenue.FY2024": 10066,
+        "shares_outstanding.FY2024": 21.19
+      }
+    },
+    "fcfa2s_per_share::FY2024": {
+      "value": 69.46672958942897,
+      "formula": "fcfa2s[FY2024]/shares_outstanding[FY2024]",
+      "inputs": {
+        "fcfa2s.FY2024": 1472,
+        "shares_outstanding.FY2024": 21.19
+      }
+    },
+    "net_income_per_share::FY2024": {
+      "value": 34.497404436054744,
+      "formula": "net_income_attributable[FY2024]/shares_outstanding[FY2024]",
+      "inputs": {
+        "net_income_attributable.FY2024": 731,
+        "shares_outstanding.FY2024": 21.19
+      }
+    },
+    "revenue_per_share::FY2025": {
+      "value": 548.5134497404435,
+      "formula": "revenue[FY2025]/shares_outstanding[FY2025]",
+      "inputs": {
+        "revenue.FY2025": 11623,
+        "shares_outstanding.FY2025": 21.19
+      }
+    },
+    "fcfa2s_per_share::FY2025": {
+      "value": 79.42425672487022,
+      "formula": "fcfa2s[FY2025]/shares_outstanding[FY2025]",
+      "inputs": {
+        "fcfa2s.FY2025": 1683,
+        "shares_outstanding.FY2025": 21.19
+      }
+    },
+    "net_income_per_share::FY2025": {
+      "value": 24.162340726757904,
+      "formula": "net_income_attributable[FY2025]/shares_outstanding[FY2025]",
+      "inputs": {
+        "net_income_attributable.FY2025": 512,
+        "shares_outstanding.FY2025": 21.19
+      }
+    },
+    "revenue_per_share::Q1 2026": {
+      "value": 150.11798017932986,
+      "formula": "revenue[Q1 2026]/shares_outstanding[Q1 2026]",
+      "inputs": {
+        "revenue.Q1 2026": 3181,
+        "shares_outstanding.Q1 2026": 21.19
+      }
+    },
+    "fcfa2s_per_share::Q1 2026": {
+      "value": 34.59178857951864,
+      "formula": "fcfa2s[Q1 2026]/shares_outstanding[Q1 2026]",
+      "inputs": {
+        "fcfa2s.Q1 2026": 733,
+        "shares_outstanding.Q1 2026": 21.19
+      }
+    },
+    "net_income_per_share::Q1 2026": {
+      "value": 17.319490325625296,
+      "formula": "net_income_attributable[Q1 2026]/shares_outstanding[Q1 2026]",
+      "inputs": {
+        "net_income_attributable.Q1 2026": 367,
+        "shares_outstanding.Q1 2026": 21.19
+      }
+    },
+    "revenue_per_share::Q2 2026": {
+      "value": 157.38555922605002,
+      "formula": "revenue[Q2 2026]/shares_outstanding[Q2 2026]",
+      "inputs": {
+        "revenue.Q2 2026": 3335,
+        "shares_outstanding.Q2 2026": 21.19
+      }
+    },
+    "fcfa2s_per_share::Q2 2026": {
+      "value": 16.281264747522414,
+      "formula": "fcfa2s[Q2 2026]/shares_outstanding[Q2 2026]",
+      "inputs": {
+        "fcfa2s.Q2 2026": 345,
+        "shares_outstanding.Q2 2026": 21.19
+      }
+    },
+    "net_income_per_share::Q2 2026": {
+      "value": 12.930627654554034,
+      "formula": "net_income_attributable[Q2 2026]/shares_outstanding[Q2 2026]",
+      "inputs": {
+        "net_income_attributable.Q2 2026": 274,
+        "shares_outstanding.Q2 2026": 21.19
+      }
+    },
+    "dividends_per_share_reported::FY2022": {
+      "value": 4.0,
+      "formula": "dividends_per_share[FY2022] (already per-share in ledger)",
+      "inputs": {
+        "dividends_per_share.FY2022": 4.0
+      }
+    },
+    "dividends_per_share_reported::FY2023": {
+      "value": 4.0,
+      "formula": "dividends_per_share[FY2023] (already per-share in ledger)",
+      "inputs": {
+        "dividends_per_share.FY2023": 4.0
+      }
+    },
+    "dividends_per_share_reported::FY2024": {
+      "value": 4.0,
+      "formula": "dividends_per_share[FY2024] (already per-share in ledger)",
+      "inputs": {
+        "dividends_per_share.FY2024": 4.0
+      }
+    },
+    "dividends_per_share_reported::FY2025": {
+      "value": 4.0,
+      "formula": "dividends_per_share[FY2025] (already per-share in ledger)",
+      "inputs": {
+        "dividends_per_share.FY2025": 4.0
+      }
+    },
+    "dividends_per_share_reported::Q1 2025": {
+      "value": null,
+      "formula": "dividends_per_share[Q1 2025]",
+      "inputs": {},
+      "note": "dividends_per_share missing for this period"
+    },
+    "dividends_per_share_reported::Q1 2026": {
+      "value": 1.0,
+      "formula": "dividends_per_share[Q1 2026] (already per-share in ledger)",
+      "inputs": {
+        "dividends_per_share.Q1 2026": 1.0
+      }
+    },
+    "dividends_per_share_reported::Q2 2025": {
+      "value": null,
+      "formula": "dividends_per_share[Q2 2025]",
+      "inputs": {},
+      "note": "dividends_per_share missing for this period"
+    },
+    "dividends_per_share_reported::Q2 2026": {
+      "value": 1.0,
+      "formula": "dividends_per_share[Q2 2026] (already per-share in ledger)",
+      "inputs": {
+        "dividends_per_share.Q2 2026": 1.0
+      }
+    },
+    "dividends_per_share_reported::H1 2025": {
+      "value": null,
+      "formula": "dividends_per_share[H1 2025]",
+      "inputs": {},
+      "note": "dividends_per_share missing for this period"
+    },
+    "dividends_per_share_reported::H1 2026": {
+      "value": null,
+      "formula": "dividends_per_share[H1 2026]",
+      "inputs": {},
+      "note": "dividends_per_share missing for this period"
+    },
+    "dividends_per_share_reported::LTM to Q2 2026": {
+      "value": null,
+      "formula": "dividends_per_share[LTM to Q2 2026]",
+      "inputs": {},
+      "note": "dividends_per_share missing for this period"
+    },
+    "revenue_per_share::FY2022": {
+      "value": null,
+      "formula": "n/shares_outstanding[FY2022]",
+      "inputs": {},
+      "note": "shares_outstanding missing for this period"
+    },
+    "fcfa2s_per_share::FY2022": {
+      "value": null,
+      "formula": "n/shares_outstanding[FY2022]",
+      "inputs": {},
+      "note": "shares_outstanding missing for this period"
+    },
+    "net_income_per_share::FY2022": {
+      "value": null,
+      "formula": "n/shares_outstanding[FY2022]",
+      "inputs": {},
+      "note": "shares_outstanding missing for this period"
+    },
+    "revenue_per_share::Q1 2025": {
+      "value": null,
+      "formula": "n/shares_outstanding[Q1 2025]",
+      "inputs": {},
+      "note": "shares_outstanding missing for this period"
+    },
+    "fcfa2s_per_share::Q1 2025": {
+      "value": null,
+      "formula": "n/shares_outstanding[Q1 2025]",
+      "inputs": {},
+      "note": "shares_outstanding missing for this period"
+    },
+    "net_income_per_share::Q1 2025": {
+      "value": null,
+      "formula": "n/shares_outstanding[Q1 2025]",
+      "inputs": {},
+      "note": "shares_outstanding missing for this period"
+    },
+    "revenue_per_share::Q2 2025": {
+      "value": null,
+      "formula": "n/shares_outstanding[Q2 2025]",
+      "inputs": {},
+      "note": "shares_outstanding missing for this period"
+    },
+    "fcfa2s_per_share::Q2 2025": {
+      "value": null,
+      "formula": "n/shares_outstanding[Q2 2025]",
+      "inputs": {},
+      "note": "shares_outstanding missing for this period"
+    },
+    "net_income_per_share::Q2 2025": {
+      "value": null,
+      "formula": "n/shares_outstanding[Q2 2025]",
+      "inputs": {},
+      "note": "shares_outstanding missing for this period"
+    },
+    "revenue_per_share::H1 2025": {
+      "value": null,
+      "formula": "n/shares_outstanding[H1 2025]",
+      "inputs": {},
+      "note": "shares_outstanding missing for this period"
+    },
+    "fcfa2s_per_share::H1 2025": {
+      "value": null,
+      "formula": "n/shares_outstanding[H1 2025]",
+      "inputs": {},
+      "note": "shares_outstanding missing for this period"
+    },
+    "net_income_per_share::H1 2025": {
+      "value": null,
+      "formula": "n/shares_outstanding[H1 2025]",
+      "inputs": {},
+      "note": "shares_outstanding missing for this period"
+    },
+    "revenue_per_share::H1 2026": {
+      "value": null,
+      "formula": "n/shares_outstanding[H1 2026]",
+      "inputs": {},
+      "note": "shares_outstanding missing for this period"
+    },
+    "fcfa2s_per_share::H1 2026": {
+      "value": null,
+      "formula": "n/shares_outstanding[H1 2026]",
+      "inputs": {},
+      "note": "shares_outstanding missing for this period"
+    },
+    "net_income_per_share::H1 2026": {
+      "value": null,
+      "formula": "n/shares_outstanding[H1 2026]",
+      "inputs": {},
+      "note": "shares_outstanding missing for this period"
+    },
+    "revenue_per_share::LTM to Q2 2026": {
+      "value": null,
+      "formula": "n/shares_outstanding[LTM to Q2 2026]",
+      "inputs": {},
+      "note": "shares_outstanding missing for this period"
+    },
+    "fcfa2s_per_share::LTM to Q2 2026": {
+      "value": null,
+      "formula": "n/shares_outstanding[LTM to Q2 2026]",
+      "inputs": {},
+      "note": "shares_outstanding missing for this period"
+    },
+    "net_income_per_share::LTM to Q2 2026": {
+      "value": null,
+      "formula": "n/shares_outstanding[LTM to Q2 2026]",
+      "inputs": {},
+      "note": "shares_outstanding missing for this period"
+    },
+    "net_debt::FY2022": {
+      "value": 1163,
+      "formula": "total_debt[FY2022] - cash[FY2022]",
+      "inputs": {
+        "total_debt.FY2022": 1974,
+        "cash.FY2022": 811
+      }
+    },
+    "net_debt::FY2023": {
+      "value": 2050,
+      "formula": "total_debt[FY2023] - cash[FY2023]",
+      "inputs": {
+        "total_debt.FY2023": 3334,
+        "cash.FY2023": 1284
+      }
+    },
+    "net_debt::FY2024": {
+      "value": 1763,
+      "formula": "total_debt[FY2024] - cash[FY2024]",
+      "inputs": {
+        "total_debt.FY2024": 4533,
+        "cash.FY2024": 2770
+      }
+    },
+    "net_debt::FY2025": {
+      "value": null,
+      "formula": "total_debt[FY2025] - cash[FY2025]",
+      "inputs": {},
+      "note": "total_debt or cash missing"
+    },
+    "net_debt::Q1 2025": {
+      "value": null,
+      "formula": "total_debt[Q1 2025] - cash[Q1 2025]",
+      "inputs": {},
+      "note": "total_debt or cash missing"
+    },
+    "net_debt::Q1 2026": {
+      "value": 980,
+      "formula": "total_debt[Q1 2026] - cash[Q1 2026]",
+      "inputs": {
+        "total_debt.Q1 2026": 3990,
+        "cash.Q1 2026": 3010
+      }
+    },
+    "net_debt::Q2 2025": {
+      "value": null,
+      "formula": "total_debt[Q2 2025] - cash[Q2 2025]",
+      "inputs": {},
+      "note": "total_debt or cash missing"
+    },
+    "net_debt::Q2 2026": {
+      "value": 2200,
+      "formula": "total_debt[Q2 2026] - cash[Q2 2026]",
+      "inputs": {
+        "total_debt.Q2 2026": 5000,
+        "cash.Q2 2026": 2800
+      }
+    },
+    "net_debt::H1 2025": {
+      "value": null,
+      "formula": "total_debt[H1 2025] - cash[H1 2025]",
+      "inputs": {},
+      "note": "total_debt or cash missing"
+    },
+    "net_debt::H1 2026": {
+      "value": null,
+      "formula": "total_debt[H1 2026] - cash[H1 2026]",
+      "inputs": {},
+      "note": "total_debt or cash missing"
+    },
+    "net_debt::LTM to Q2 2026": {
+      "value": null,
+      "formula": "total_debt[LTM to Q2 2026] - cash[LTM to Q2 2026]",
+      "inputs": {},
+      "note": "total_debt or cash missing"
+    },
+    "net_debt_to_fcfa2s::FY2022": {
+      "value": 1.3634232121922627,
+      "formula": "net_debt[FY2022]/fcfa2s[FY2022]",
+      "inputs": {
+        "net_debt.FY2022": 1163,
+        "fcfa2s.FY2022": 853
+      }
+    },
+    "net_debt_to_fcfa2s::FY2023": {
+      "value": 1.7672413793103448,
+      "formula": "net_debt[FY2023]/fcfa2s[FY2023]",
+      "inputs": {
+        "net_debt.FY2023": 2050,
+        "fcfa2s.FY2023": 1160
+      }
+    },
+    "net_debt_to_fcfa2s::FY2024": {
+      "value": 1.1976902173913044,
+      "formula": "net_debt[FY2024]/fcfa2s[FY2024]",
+      "inputs": {
+        "net_debt.FY2024": 1763,
+        "fcfa2s.FY2024": 1472
+      }
+    },
+    "net_debt_to_fcfa2s::FY2025": {
+      "value": null,
+      "formula": "net_debt[FY2025]/fcfa2s[FY2025]",
+      "inputs": {},
+      "note": "net_debt or fcfa2s missing"
+    },
+    "net_debt_to_fcfa2s::Q1 2025": {
+      "value": null,
+      "formula": "net_debt[Q1 2025]/fcfa2s[Q1 2025]",
+      "inputs": {},
+      "note": "net_debt or fcfa2s missing"
+    },
+    "net_debt_to_fcfa2s::Q1 2026": {
+      "value": 1.3369713506139154,
+      "formula": "net_debt[Q1 2026]/fcfa2s[Q1 2026]",
+      "inputs": {
+        "net_debt.Q1 2026": 980,
+        "fcfa2s.Q1 2026": 733
+      }
+    },
+    "net_debt_to_fcfa2s::Q2 2025": {
+      "value": null,
+      "formula": "net_debt[Q2 2025]/fcfa2s[Q2 2025]",
+      "inputs": {},
+      "note": "net_debt or fcfa2s missing"
+    },
+    "net_debt_to_fcfa2s::Q2 2026": {
+      "value": 6.3768115942028984,
+      "formula": "net_debt[Q2 2026]/fcfa2s[Q2 2026]",
+      "inputs": {
+        "net_debt.Q2 2026": 2200,
+        "fcfa2s.Q2 2026": 345
+      }
+    },
+    "net_debt_to_fcfa2s::H1 2025": {
+      "value": null,
+      "formula": "net_debt[H1 2025]/fcfa2s[H1 2025]",
+      "inputs": {},
+      "note": "net_debt or fcfa2s missing"
+    },
+    "net_debt_to_fcfa2s::H1 2026": {
+      "value": null,
+      "formula": "net_debt[H1 2026]/fcfa2s[H1 2026]",
+      "inputs": {},
+      "note": "net_debt or fcfa2s missing"
+    },
+    "net_debt_to_fcfa2s::LTM to Q2 2026": {
+      "value": null,
+      "formula": "net_debt[LTM to Q2 2026]/fcfa2s[LTM to Q2 2026]",
+      "inputs": {},
+      "note": "net_debt or fcfa2s missing"
+    },
+    "dividend_payout_of_fcfa2s::FY2022": {
+      "value": null,
+      "formula": "(dividends_per_share[FY2022] * shares_outstanding[FY2022]) / fcfa2s[FY2022]",
+      "inputs": {},
+      "note": "dividends_per_share, shares_outstanding, or fcfa2s missing"
+    },
+    "dividend_payout_of_fcfa2s::FY2023": {
+      "value": 0.07306896551724139,
+      "formula": "(dividends_per_share[FY2023] * shares_outstanding[FY2023]) / fcfa2s[FY2023]",
+      "inputs": {
+        "dividends_per_share.FY2023": 4.0,
+        "shares_outstanding.FY2023": 21.19,
+        "fcfa2s.FY2023": 1160
+      }
+    },
+    "dividend_payout_of_fcfa2s::FY2024": {
+      "value": 0.05758152173913044,
+      "formula": "(dividends_per_share[FY2024] * shares_outstanding[FY2024]) / fcfa2s[FY2024]",
+      "inputs": {
+        "dividends_per_share.FY2024": 4.0,
+        "shares_outstanding.FY2024": 21.19,
+        "fcfa2s.FY2024": 1472
+      }
+    },
+    "dividend_payout_of_fcfa2s::FY2025": {
+      "value": 0.05036244800950684,
+      "formula": "(dividends_per_share[FY2025] * shares_outstanding[FY2025]) / fcfa2s[FY2025]",
+      "inputs": {
+        "dividends_per_share.FY2025": 4.0,
+        "shares_outstanding.FY2025": 21.19,
+        "fcfa2s.FY2025": 1683
+      }
+    },
+    "dividend_payout_of_fcfa2s::Q1 2025": {
+      "value": null,
+      "formula": "(dividends_per_share[Q1 2025] * shares_outstanding[Q1 2025]) / fcfa2s[Q1 2025]",
+      "inputs": {},
+      "note": "dividends_per_share, shares_outstanding, or fcfa2s missing"
+    },
+    "dividend_payout_of_fcfa2s::Q1 2026": {
+      "value": 0.028908594815825375,
+      "formula": "(dividends_per_share[Q1 2026] * shares_outstanding[Q1 2026]) / fcfa2s[Q1 2026]",
+      "inputs": {
+        "dividends_per_share.Q1 2026": 1.0,
+        "shares_outstanding.Q1 2026": 21.19,
+        "fcfa2s.Q1 2026": 733
+      }
+    },
+    "dividend_payout_of_fcfa2s::Q2 2025": {
+      "value": null,
+      "formula": "(dividends_per_share[Q2 2025] * shares_outstanding[Q2 2025]) / fcfa2s[Q2 2025]",
+      "inputs": {},
+      "note": "dividends_per_share, shares_outstanding, or fcfa2s missing"
+    },
+    "dividend_payout_of_fcfa2s::Q2 2026": {
+      "value": 0.06142028985507247,
+      "formula": "(dividends_per_share[Q2 2026] * shares_outstanding[Q2 2026]) / fcfa2s[Q2 2026]",
+      "inputs": {
+        "dividends_per_share.Q2 2026": 1.0,
+        "shares_outstanding.Q2 2026": 21.19,
+        "fcfa2s.Q2 2026": 345
+      }
+    },
+    "dividend_payout_of_fcfa2s::H1 2025": {
+      "value": null,
+      "formula": "(dividends_per_share[H1 2025] * shares_outstanding[H1 2025]) / fcfa2s[H1 2025]",
+      "inputs": {},
+      "note": "dividends_per_share, shares_outstanding, or fcfa2s missing"
+    },
+    "dividend_payout_of_fcfa2s::H1 2026": {
+      "value": null,
+      "formula": "(dividends_per_share[H1 2026] * shares_outstanding[H1 2026]) / fcfa2s[H1 2026]",
+      "inputs": {},
+      "note": "dividends_per_share, shares_outstanding, or fcfa2s missing"
+    },
+    "dividend_payout_of_fcfa2s::LTM to Q2 2026": {
+      "value": null,
+      "formula": "(dividends_per_share[LTM to Q2 2026] * shares_outstanding[LTM to Q2 2026]) / fcfa2s[LTM to Q2 2026]",
+      "inputs": {},
+      "note": "dividends_per_share, shares_outstanding, or fcfa2s missing"
+    },
+    "revenue_cagr_3yr::FY2022-FY2025": {
+      "value": 0.20626581545785583,
+      "formula": "(revenue[FY2025]/revenue[FY2022])^(1/3) - 1",
+      "inputs": {
+        "revenue.FY2025": 11623,
+        "revenue.FY2022": 6622
+      }
+    },
+    "revenue_cagr_5yr::FY2020-FY2025": {
+      "value": null,
+      "formula": "(revenue[FY2025]/revenue[FY2020])^(1/5) - 1",
+      "inputs": {},
+      "note": "no FY2020 (or earlier) data in ledger; only FY2022 onward available, so 5yr CAGR cannot be computed"
+    },
+    "fcfa2s_cagr_3yr::FY2022-FY2025": {
+      "value": 0.25423339950591184,
+      "formula": "(fcfa2s[FY2025]/fcfa2s[FY2022])^(1/3) - 1",
+      "inputs": {
+        "fcfa2s.FY2025": 1683,
+        "fcfa2s.FY2022": 853
+      }
+    },
+    "fcfa2s_cagr_5yr::FY2020-FY2025": {
+      "value": null,
+      "formula": "(fcfa2s[FY2025]/fcfa2s[FY2020])^(1/5) - 1",
+      "inputs": {},
+      "note": "no FY2020 (or earlier) data in ledger; only FY2022 onward available, so 5yr CAGR cannot be computed"
+    }
+  },
+  "valuation": {
+    "market_cap_usd": {
+      "value": 47950,
+      "formula": "market_cap_usd[2026-09] taken directly from ledger",
+      "inputs": {
+        "market_cap_usd.2026-09": 47950
+      },
+      "note": "usdcad is not present anywhere in ledger, so no independent CAD->USD conversion of share_price_cad*shares_outstanding was possible; the ledger's own USD market cap figure is used as-is. Ledger flags a conflicting CAD 65,183mm figure from another source, not cross-checked here."
+    },
+    "implied_share_price_usd": {
+      "value": 2262.8598395469558,
+      "formula": "market_cap_usd[2026-09] / shares_outstanding[Q2 2026]",
+      "inputs": {
+        "market_cap_usd.2026-09": 47950,
+        "shares_outstanding.Q2 2026": 21.19
+      },
+      "note": "Derived because no share_price_usd or usdcad exists in ledger to convert share_price_cad directly."
+    },
+    "pe_trailing": {
+      "value": 93.65234375,
+      "formula": "market_cap_usd[2026-09] / net_income_attributable[FY2025]",
+      "inputs": {
+        "market_cap_usd.2026-09": 47950,
+        "net_income_attributable.FY2025": 512
+      },
+      "note": "Uses FY2025 net income (most recent full fiscal year) as trailing NI; no LTM net income figure exists in ledger."
+    },
+    "price_to_fcfa2s_per_share": {
+      "value": 23.620689655172413,
+      "formula": "implied_share_price_usd / (fcfa2s[LTM to Q2 2026]/shares_outstanding[Q2 2026])",
+      "inputs": {
+        "fcfa2s.LTM to Q2 2026": 2030,
+        "shares_outstanding.Q2 2026": 21.19,
+        "market_cap_usd.2026-09": 47950
+      }
+    },
+    "ev_to_adjusted_ebita": {
+      "value": null,
+      "formula": "enterprise_value_usd / adjusted_ebita",
+      "inputs": {},
+      "note": "adjusted_ebita not present anywhere in ledger"
+    },
+    "ev_to_revenue": {
+      "value": null,
+      "formula": "enterprise_value_usd / revenue[FY2025]",
+      "inputs": {},
+      "note": "enterprise_value_usd ledger entry (46000, period 2026-05) is explicitly noted as CAD-denominated despite the key name, and usdcad is not present in ledger, so it cannot be reliably converted to match USD-denominated revenue; left null rather than mixing currencies."
+    },
+    "fcfa2s_yield": {
+      "value": 0.042335766423357665,
+      "formula": "(fcfa2s[LTM to Q2 2026]/shares_outstanding[Q2 2026]) / implied_share_price_usd",
+      "inputs": {
+        "fcfa2s.LTM to Q2 2026": 2030,
+        "shares_outstanding.Q2 2026": 21.19,
+        "market_cap_usd.2026-09": 47950
+      }
+    },
+    "dividend_yield": {
+      "value": 0.0017676746611053184,
+      "formula": "dividends_per_share[FY2025] / implied_share_price_usd",
+      "inputs": {
+        "dividends_per_share.FY2025": 4.0,
+        "market_cap_usd.2026-09": 47950,
+        "shares_outstanding.Q2 2026": 21.19
+      },
+      "note": "Uses FY2025 annual dividend per share as trailing-12m proxy (quarterly Q1/Q2 2026 figures of 1.0 each annualize to the same 4.0 run-rate)."
+    },
+    "price_date": {
+      "value": "2026-09-11",
+      "formula": "price_date[current] from ledger",
+      "inputs": {
+        "price_date.current": "2026-09-11"
+      }
+    }
+  },
+  "peers": {
+    "Topicus.com (TOI)": {
+      "H1 2026 revenue": {
+        "value": 872.9,
+        "unit": "EUR millions",
+        "source_url": "https://www.globenewswire.com/news-release/2026/08/05/3339823/0/en/constellation-software-inc-and-topicus-com-inc-announce-results-for-topicus-com-inc-for-the-second-quarter-ended-june-30-2026.html"
+      },
+      "H1 2026 revenue growth yoy": {
+        "value": 20,
+        "unit": "percent",
+        "source_url": "https://www.globenewswire.com/news-release/2026/08/05/3339823/0/en/constellation-software-inc-and-topicus-com-inc-announce-results-for-topicus-com-inc-for-the-second-quarter-ended-june-30-2026.html"
+      },
+      "H1 2026 organic growth": {
+        "value": 5,
+        "unit": "percent",
+        "source_url": "https://www.globenewswire.com/news-release/2026/08/05/3339823/0/en/constellation-software-inc-and-topicus-com-inc-announce-results-for-topicus-com-inc-for-the-second-quarter-ended-june-30-2026.html"
+      },
+      "Q2 2026 revenue": {
+        "value": 437.3,
+        "unit": "EUR millions",
+        "source_url": "https://www.globenewswire.com/news-release/2026/08/05/3339823/0/en/constellation-software-inc-and-topicus-com-inc-announce-results-for-topicus-com-inc-for-the-second-quarter-ended-june-30-2026.html"
+      },
+      "Q1 2026 revenue": {
+        "value": 435.7,
+        "unit": "EUR millions",
+        "source_url": "https://www.globenewswire.com/news-release/2026/08/05/3339823/0/en/constellation-software-inc-and-topicus-com-inc-announce-results-for-topicus-com-inc-for-the-second-quarter-ended-june-30-2026.html"
+      },
+      "share_price": {
+        "value": 100.5,
+        "unit": "CAD",
+        "source_url": "https://www.investing.com/equities/topicus.com"
+      },
+      "market_cap": {
+        "value": 8390,
+        "unit": "CAD millions",
+        "source_url": "https://www.gurufocus.com/term/mktcap/TSXV:TOI"
+      }
+    },
+    "Lumine Group (LMN)": {
+      "H1 2026 revenue": {
+        "value": 443.4,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2026/08/04/3338792/0/en/Lumine-Group-Inc-Announces-Results-for-the-Second-Quarter-Ended-June-30-2026.html"
+      },
+      "H1 2026 revenue growth yoy": {
+        "value": 22,
+        "unit": "percent",
+        "source_url": "https://www.globenewswire.com/news-release/2026/08/04/3338792/0/en/Lumine-Group-Inc-Announces-Results-for-the-Second-Quarter-Ended-June-30-2026.html"
+      },
+      "Q1 2026 revenue": {
+        "value": 208.3,
+        "unit": "USD millions",
+        "source_url": "https://finance.yahoo.com/markets/stocks/articles/lumine-group-inc-announces-results-200100205.html"
+      },
+      "Q1 2026 organic growth": {
+        "value": 0,
+        "unit": "percent",
+        "source_url": "https://finance.yahoo.com/markets/stocks/articles/lumine-group-inc-announces-results-200100205.html"
+      },
+      "Q1 2026 organic growth fx-adj": {
+        "value": -2,
+        "unit": "percent",
+        "source_url": "https://finance.yahoo.com/markets/stocks/articles/lumine-group-inc-announces-results-200100205.html"
+      },
+      "Q2 2026 revenue": {
+        "value": 235.1,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2026/08/04/3338792/0/en/Lumine-Group-Inc-Announces-Results-for-the-Second-Quarter-Ended-June-30-2026.html"
+      },
+      "Q2 2026 operating income": {
+        "value": 75.3,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2026/08/04/3338792/0/en/Lumine-Group-Inc-Announces-Results-for-the-Second-Quarter-Ended-June-30-2026.html"
+      }
+    },
+    "Descartes Systems (DSG)": {
+      "FY2026 revenue": {
+        "value": 729.0,
+        "unit": "USD millions",
+        "source_url": "https://www.theglobeandmail.com/investing/markets/stocks/DSGX-Q/pressreleases/726305/descartes-systems-group-posts-record-fiscal-2026-revenue-and-earnings-amid-logistics-turbulence/"
+      },
+      "FY2026 revenue growth yoy": {
+        "value": 12,
+        "unit": "percent",
+        "source_url": "https://www.theglobeandmail.com/investing/markets/stocks/DSGX-Q/pressreleases/726305/descartes-systems-group-posts-record-fiscal-2026-revenue-and-earnings-amid-logistics-turbulence/"
+      },
+      "FY2026 adjusted ebitda": {
+        "value": 329.5,
+        "unit": "USD millions",
+        "source_url": "https://www.theglobeandmail.com/investing/markets/stocks/DSGX-Q/pressreleases/726305/descartes-systems-group-posts-record-fiscal-2026-revenue-and-earnings-amid-logistics-turbulence/"
+      },
+      "FY2026 net income": {
+        "value": 163.8,
+        "unit": "USD millions",
+        "source_url": "https://www.theglobeandmail.com/investing/markets/stocks/DSGX-Q/pressreleases/726305/descartes-systems-group-posts-record-fiscal-2026-revenue-and-earnings-amid-logistics-turbulence/"
+      },
+      "FY2026 cash": {
+        "value": 356.5,
+        "unit": "USD millions",
+        "source_url": "https://www.theglobeandmail.com/investing/markets/stocks/DSGX-Q/pressreleases/726305/descartes-systems-group-posts-record-fiscal-2026-revenue-and-earnings-amid-logistics-turbulence/"
+      },
+      "FY2026 net_margin": {
+        "value": 0.22469135802469137,
+        "formula": "FY2026 net income/FY2026 revenue"
+      },
+      "FY2026 adjusted_ebitda_margin": {
+        "value": 0.45198902606310015,
+        "formula": "FY2026 adjusted ebitda/FY2026 revenue"
+      }
+    },
+    "Enghouse Systems (ENGH)": {
+      "H1 2026 revenue": {
+        "value": 234.4,
+        "unit": "USD millions",
+        "source_url": "https://finance.yahoo.com/markets/stocks/articles/enghouse-systems-ltd-eghsf-q2-010050704.html"
+      },
+      "H1 2026 revenue growth yoy": {
+        "value": -5.8,
+        "unit": "percent",
+        "source_url": "https://finance.yahoo.com/markets/stocks/articles/enghouse-systems-ltd-eghsf-q2-010050704.html"
+      },
+      "Q2 2026 revenue": {
+        "value": 114.3,
+        "unit": "USD millions",
+        "source_url": "https://finance.yahoo.com/markets/stocks/articles/enghouse-systems-ltd-eghsf-q2-010050704.html"
+      },
+      "Q2 2026 net income": {
+        "value": 16.3,
+        "unit": "USD millions",
+        "source_url": "https://finance.yahoo.com/markets/stocks/articles/enghouse-systems-ltd-eghsf-q2-010050704.html"
+      },
+      "Q2 2026 adjusted ebitda": {
+        "value": 26.5,
+        "unit": "USD millions",
+        "source_url": "https://finance.yahoo.com/markets/stocks/articles/enghouse-systems-ltd-eghsf-q2-010050704.html"
+      },
+      "cash": {
+        "value": 269.7,
+        "unit": "USD millions",
+        "source_url": "https://finance.yahoo.com/markets/stocks/articles/enghouse-systems-ltd-eghsf-q2-010050704.html"
+      },
+      "Q2 2026 net_margin": {
+        "value": 0.14260717410323712,
+        "formula": "Q2 2026 net income/Q2 2026 revenue"
+      },
+      "Q2 2026 adjusted_ebitda_margin": {
+        "value": 0.23184601924759404,
+        "formula": "Q2 2026 adjusted ebitda/Q2 2026 revenue"
+      }
+    },
+    "Roper Technologies (ROP)": {
+      "status": "no data retrieved, WebSearch budget exhausted per stage1 peers_large.json"
+    },
+    "Tyler Technologies (TYL)": {
+      "status": "no data retrieved, WebSearch budget exhausted per stage1 peers_large.json"
+    },
+    "Open Text (OTEX)": {
+      "status": "no data retrieved, WebSearch budget exhausted per stage1 peers_large.json"
+    },
+    "Constellation Software (CSU) [same definitions]": {
+      "H1 2026 revenue_growth_yoy": 0.18515823935976727,
+      "H1 2026 organic_growth_pct": 4,
+      "H1 2026 net_margin": 0.0983732351135666,
+      "Q1 2026 revenue_growth_yoy": 0.20037735849056615,
+      "Q1 2026 organic_growth_pct": 6,
+      "Q1 2026 net_margin": 0.11537252436340774,
+      "Q2 2026 revenue_growth_yoy": 0.17264416315049225,
+      "Q2 2026 organic_growth_pct": 3,
+      "Q2 2026 net_margin": 0.08215892053973013,
+      "adjusted_ebitda_margin": null,
+      "note": "CSU has no adjusted_ebita/EBITDA figure in ledger, so ebitda margin is null for all periods."
+    }
+  },
+  "scenario_inputs": {
+    "current_fcfa2s_per_share": {
+      "value": 95.79990561585653,
+      "formula": "fcfa2s[LTM to Q2 2026] / shares_outstanding[Q2 2026]",
+      "inputs": {
+        "fcfa2s.LTM to Q2 2026": 2030,
+        "shares_outstanding.Q2 2026": 21.19
+      }
+    },
+    "current_multiple_price_to_fcfa2s": {
+      "value": 23.620689655172413,
+      "formula": "implied_share_price_usd / current_fcfa2s_per_share",
+      "inputs": {
+        "market_cap_usd.2026-09": 47950,
+        "shares_outstanding.Q2 2026": 21.19,
+        "fcfa2s.LTM to Q2 2026": 2030
+      }
+    },
+    "entry_price_usd": {
+      "value": 2262.8598395469558,
+      "formula": "implied_share_price_usd",
+      "inputs": {}
+    },
+    "grid_growth_pct_axis": [
+      0.0,
+      0.05,
+      0.1,
+      0.15,
+      0.2
+    ],
+    "grid_exit_multiple_axis": [
+      15,
+      20,
+      25,
+      30,
+      35
+    ],
+    "irr_formula": "((base_fcfa2s_ps*(1+g)^5)*exit_multiple / entry_price)^(1/5) - 1, no interim dividends assumed"
+  },
+  "scenario_grid": [
+    {
+      "growth_pct": 0.0,
+      "exit_multiple_15x": -0.08681296470718791,
+      "exit_multiple_20x": -0.032730520881170344,
+      "exit_multiple_25x": 0.011415225381006922,
+      "exit_multiple_30x": 0.04897644524547262,
+      "exit_multiple_35x": 0.08182021923383398
+    },
+    {
+      "growth_pct": 0.05,
+      "exit_multiple_15x": -0.04115361294254727,
+      "exit_multiple_20x": 0.015632953074771194,
+      "exit_multiple_25x": 0.06198598665005739,
+      "exit_multiple_30x": 0.10142526750774628,
+      "exit_multiple_35x": 0.13591123019552587
+    },
+    {
+      "growth_pct": 0.1,
+      "exit_multiple_15x": 0.004505738822093264,
+      "exit_multiple_20x": 0.06399642703071273,
+      "exit_multiple_25x": 0.11255674791910764,
+      "exit_multiple_30x": 0.15387408977001993,
+      "exit_multiple_35x": 0.19000224115721753
+    },
+    {
+      "growth_pct": 0.15,
+      "exit_multiple_15x": 0.050165090586733685,
+      "exit_multiple_20x": 0.11235990098665405,
+      "exit_multiple_25x": 0.16312750918815788,
+      "exit_multiple_30x": 0.20632291203229336,
+      "exit_multiple_35x": 0.24409325211890898
+    },
+    {
+      "growth_pct": 0.2,
+      "exit_multiple_15x": 0.09582444235137433,
+      "exit_multiple_20x": 0.1607233749425956,
+      "exit_multiple_25x": 0.21369827045720835,
+      "exit_multiple_30x": 0.258771734294567,
+      "exit_multiple_35x": 0.29818426308060086
+    }
+  ],
+  "post_review": {
+    "usdcad_derived": {
+      "value": 1.3594,
+      "formula": "market_cap_cad[2026-09-08] / market_cap_usd[2026-09]",
+      "inputs": {
+        "market_cap_cad.2026-09-08": 65183,
+        "market_cap_usd.2026-09": 47950
+      },
+      "note": "Two third party market caps on different days; low confidence, see sensitivity below."
+    },
+    "implied_usdcad_in_report_entry": {
+      "value": 1.2497194702815435,
+      "formula": "share_price_cad[2026-09-11] / implied_share_price_usd",
+      "inputs": {
+        "share_price_cad.2026-09-11": 2827.94,
+        "implied_share_price_usd": 2262.8598395469558
+      }
+    },
+    "fx_sensitivity": {
+      "value": [
+        {
+          "usdcad": 1.25,
+          "entry_price_usd": 2262.352,
+          "multiple_price_to_fcfa2s": 23.61538861083744,
+          "fcfa2s_yield": 0.04234526970862913,
+          "irr_bear": -0.04111056956127823,
+          "irr_base": 0.11260669148142433,
+          "irr_bull": 0.2063770648327179,
+          "irr_expected": 0.08524558783887227,
+          "buy_price_usd_for_12pct": 1932.4586452590765,
+          "buy_price_cad_for_12pct": 2415.573306573846,
+          "price_usd_where_irr_falls_below_8pct": 2317.829813078457,
+          "price_cad_where_irr_falls_below_8pct": 2897.287266348071,
+          "derived_rate": false
+        },
+        {
+          "usdcad": 1.3,
+          "entry_price_usd": 2175.3384615384616,
+          "multiple_price_to_fcfa2s": 22.707104433497538,
+          "fcfa2s_yield": 0.044039080496974296,
+          "irr_bear": -0.033559326306645265,
+          "irr_base": 0.12136845640177052,
+          "irr_bull": 0.21587727036652393,
+          "irr_expected": 0.09379188438219646,
+          "buy_price_usd_for_12pct": 1932.4586452590765,
+          "buy_price_cad_for_12pct": 2512.1962388367997,
+          "price_usd_where_irr_falls_below_8pct": 2317.829813078457,
+          "price_cad_where_irr_falls_below_8pct": 3013.178757001994,
+          "derived_rate": false
+        },
+        {
+          "usdcad": 1.35,
+          "entry_price_usd": 2094.77037037037,
+          "multiple_price_to_fcfa2s": 21.86610056559022,
+          "fcfa2s_yield": 0.04573289128531947,
+          "irr_bear": -0.026236968653340798,
+          "irr_base": 0.12986464361989358,
+          "irr_bull": 0.22508951533767485,
+          "irr_expected": 0.10207913428147952,
+          "buy_price_usd_for_12pct": 1932.4586452590765,
+          "buy_price_cad_for_12pct": 2608.8191710997535,
+          "price_usd_where_irr_falls_below_8pct": 2317.829813078457,
+          "price_cad_where_irr_falls_below_8pct": 3129.0702476559172,
+          "derived_rate": false
+        },
+        {
+          "usdcad": 1.3594,
+          "entry_price_usd": 2080.285420038252,
+          "multiple_price_to_fcfa2s": 21.71490051754215,
+          "fcfa2s_yield": 0.04605132771352835,
+          "irr_bear": -0.024884674631357684,
+          "irr_base": 0.13143372064790948,
+          "irr_bull": 0.2267908340103444,
+          "irr_expected": 0.10360962473661631,
+          "buy_price_usd_for_12pct": 1932.4586452590765,
+          "buy_price_cad_for_12pct": 2626.9842823651884,
+          "price_usd_where_irr_falls_below_8pct": 2317.829813078457,
+          "price_cad_where_irr_falls_below_8pct": 3150.8578478988543,
+          "derived_rate": true
+        },
+        {
+          "usdcad": 1.4,
+          "entry_price_usd": 2019.957142857143,
+          "multiple_price_to_fcfa2s": 21.08516840253343,
+          "fcfa2s_yield": 0.047426702073664624,
+          "irr_bear": -0.019128454515083937,
+          "irr_base": 0.1381127065827905,
+          "irr_bull": 0.23403272416781973,
+          "irr_expected": 0.11012436177043403,
+          "buy_price_usd_for_12pct": 1932.4586452590765,
+          "buy_price_cad_for_12pct": 2705.442103362707,
+          "price_usd_where_irr_falls_below_8pct": 2317.829813078457,
+          "price_cad_where_irr_falls_below_8pct": 3244.9617383098393,
+          "derived_rate": false
+        }
+      ],
+      "formula": "entry = share_price_cad / usdcad; IRR per irr_formula; expected = 0.30*bear(5%,15x) + 0.50*base(10%,25x) + 0.20*bull(15%,30x); thresholds by bisection on expected IRR",
+      "inputs": {
+        "share_price_cad.2026-09-11": 2827.94,
+        "fcfa2s.LTM to Q2 2026": 2030,
+        "shares_outstanding.Q2 2026": 21.19
+      }
+    },
+    "net_income_ltm": {
+      "value": 961,
+      "formula": "net_income_attributable[FY2025] - [H1 2025] + [H1 2026]",
+      "inputs": {
+        "FY2025": 512,
+        "H1 2025": 192,
+        "H1 2026": 641
+      }
+    },
+    "pe_trailing_ltm": {
+      "value": 49.89594172736732,
+      "formula": "market_cap_usd[2026-09] / net_income_ltm",
+      "inputs": {
+        "market_cap_usd.2026-09": 47950,
+        "net_income_ltm": 961
+      },
+      "note": "Replaces the FY2025 only P/E as the trailing figure. Still distorted by the Q2 2026 FX and IRGA gains."
+    },
+    "pe_trailing_ltm_at_derived_fx": {
+      "value": 45.87018527638976,
+      "formula": "(share_price_cad / usdcad * shares_outstanding[Q2 2026]) / net_income_ltm",
+      "inputs": {
+        "usdcad": 1.3594
+      }
+    },
+    "net_debt_rollforward": {
+      "value": 1388.19,
+      "formula": "net_debt[Q1 2026] + acquisitions_cash_spent[Q2 2026] - fcfa2s[Q2 2026] + dividends_per_share[Q2 2026]*shares_outstanding[Q2 2026]",
+      "inputs": {
+        "net_debt.Q1 2026": 980,
+        "acquisitions_cash_spent.Q2 2026": 732,
+        "fcfa2s.Q2 2026": 345,
+        "dividends_q2_total": 21.19
+      },
+      "note": "Estimate of Q2 2026 net debt if the reported 5,000 / 2,800 balance sheet is a stale September 2025 snapshot. Ignores FX, deferred consideration and working capital."
+    },
+    "net_debt_rollforward_to_ltm_fcfa2s": {
+      "value": 0.6838374384236453,
+      "formula": "net_debt_rollforward / fcfa2s[LTM to Q2 2026]",
+      "inputs": {
+        "fcfa2s.LTM to Q2 2026": 2030
+      }
+    },
+    "acquisitions_h1_2026_cash_vs_fy2025": {
+      "value": 0.9050031665611147,
+      "formula": "acquisitions_cash_spent[H1 2026] / acquisitions_cash_spent[FY2025]",
+      "inputs": {
+        "acquisitions_cash_spent.H1 2026": 1429,
+        "acquisitions_cash_spent.FY2025": 1579
+      }
+    },
+    "acquisitions_h1_2026_total_consideration": {
+      "value": 1702,
+      "formula": "Q1 2026 total consideration 809 + Q2 2026 total consideration 893 (from stage1 q1_2026.json and q2_2026.json)",
+      "inputs": {
+        "q1_total": 809,
+        "q2_total": 893
+      }
+    }
+  }
+}

@@ -1,0 +1,1193 @@
+{
+  "company": "Constellation Software Inc.",
+  "chart_of_accounts": [
+    "revenue",
+    "maintenance_recurring_revenue",
+    "organic_growth_pct",
+    "organic_growth_fx_adj_pct",
+    "net_income_attributable",
+    "diluted_eps",
+    "adjusted_ebita",
+    "cash_from_operations",
+    "capex",
+    "fcfa2s",
+    "acquisitions_cash_spent",
+    "cash",
+    "total_debt",
+    "shares_outstanding",
+    "dividends_per_share",
+    "share_price_cad",
+    "share_price_usd",
+    "usdcad",
+    "market_cap_usd",
+    "enterprise_value_usd",
+    "price_date",
+    "market_cap_cad"
+  ],
+  "periods": [
+    "FY2022",
+    "FY2023",
+    "FY2024",
+    "FY2025",
+    "Q1 2025",
+    "Q1 2026",
+    "Q2 2025",
+    "Q2 2026",
+    "H1 2025",
+    "H1 2026",
+    "LTM to Q2 2026"
+  ],
+  "ledger": {
+    "revenue": {
+      "FY2022": {
+        "value": 6622,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2024/03/06/2841834/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2023-and-Declares-Quarterly-Dividend.html"
+      },
+      "FY2023": {
+        "value": 8407,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2024/03/06/2841834/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2023-and-Declares-Quarterly-Dividend.html"
+      },
+      "FY2024": {
+        "value": 10066,
+        "unit": "USD millions",
+        "source_url": "https://www.csisoftware.com/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2024-and-declares-quarterly-dividend/"
+      },
+      "FY2025": {
+        "value": 11623,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2026/03/09/3251696/0/en/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2025-and-declares-quarterly-dividend.html"
+      },
+      "Q1 2025": {
+        "value": 2650,
+        "unit": "USD millions",
+        "source_url": "https://finance.yahoo.com/news/constellation-software-first-quarter-2025-135734558.html",
+        "note": "Conflicts with 2654 from seekingalpha (stage1 q1_2026.json); neither is company press release, kept the earlier-listed figure"
+      },
+      "Q1 2026": {
+        "value": 3181,
+        "unit": "USD millions",
+        "source_url": "https://www.csisoftware.com/constellation-software-inc-announces-results-for-the-first-quarter-ended-march-31-2026-and-declares-quarterly-dividend/"
+      },
+      "Q2 2025": {
+        "value": 2844,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2026/08/11/3343207/0/en/constellation-software-inc-announces-results-for-the-second-quarter-ended-june-30-2026-and-declares-quarterly-dividend.html",
+        "note": "Comparative figure restated in the Q2 2026 press release"
+      },
+      "Q2 2026": {
+        "value": 3335,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2026/08/11/3343207/0/en/constellation-software-inc-announces-results-for-the-second-quarter-ended-june-30-2026-and-declares-quarterly-dividend.html"
+      },
+      "H1 2025": {
+        "value": 5498,
+        "unit": "USD millions",
+        "source_url": "https://www.csisoftware.com/constellation-software-inc-announces-results-for-the-second-quarter-ended-june-30-2026-and-declares-quarterly-dividend/",
+        "note": "Comparative figure restated in the Q2 2026 press release"
+      },
+      "H1 2026": {
+        "value": 6516,
+        "unit": "USD millions",
+        "source_url": "https://www.csisoftware.com/constellation-software-inc-announces-results-for-the-second-quarter-ended-june-30-2026-and-declares-quarterly-dividend/"
+      }
+    },
+    "maintenance_recurring_revenue": {
+      "FY2023": {
+        "value": 5985,
+        "unit": "USD millions",
+        "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/statutory-filings/q4-2023-shareholder-report.pdf?sfvrsn=91ffcfe7_3"
+      },
+      "FY2024": {
+        "value": 7396,
+        "unit": "USD millions",
+        "source_url": "https://www.csisoftware.com/docs/default-source/press-releases/csi---press-release-q4-2024---final.pdf?sfvrsn=a6da3ec_3/+CSI---Press-Release-Q4-2024---Final+.pdf"
+      },
+      "Q1 2025": {
+        "value": 1996,
+        "unit": "USD millions",
+        "source_url": "https://quartr.com/events/constellation-software-inc-csu-q1-2025_33rGRbqH"
+      },
+      "Q1 2026": {
+        "value": 2440,
+        "unit": "USD millions",
+        "source_url": "https://x.com/rebound_capital/status/2054557849347404278"
+      },
+      "Q2 2026": {
+        "value": 2554,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2026/08/11/3343207/0/en/constellation-software-inc-announces-results-for-the-second-quarter-ended-june-30-2026-and-declares-quarterly-dividend.html"
+      },
+      "H1 2026": {
+        "value": 4994,
+        "unit": "USD millions",
+        "source_url": "https://www.csisoftware.com/constellation-software-inc-announces-results-for-the-first-quarter-ended-march-31-2026-and-declares-quarterly-dividend/",
+        "note": "Derived as Q1 2026 + Q2 2026 maintenance and recurring revenue; no single H1 2026 figure found directly",
+        "derived": true
+      }
+    },
+    "organic_growth_pct": {
+      "FY2022": {
+        "value": -1,
+        "unit": "percent",
+        "source_url": "https://www.speedwellmemos.com/p/constellation-software-2022-earnings"
+      },
+      "FY2023": {
+        "value": 5,
+        "unit": "percent",
+        "source_url": "https://www.globenewswire.com/news-release/2024/03/06/2841834/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2023-and-Declares-Quarterly-Dividend.html"
+      },
+      "FY2024": {
+        "value": 2,
+        "unit": "percent",
+        "source_url": "https://www.globenewswire.com/news-release/2025/03/07/3039269/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2024-and-Declares-Quarterly-Dividend.html"
+      },
+      "FY2025": {
+        "value": 4,
+        "unit": "percent",
+        "source_url": "https://thepursuitofcompounding.substack.com/p/constellation-software-inc-fiscal"
+      },
+      "Q1 2025": {
+        "value": 0.3,
+        "unit": "percent",
+        "source_url": "https://www.csisoftware.com/docs/default-source/press-releases/csi---press-release-q1-2025---final.pdf?sfvrsn=f9d1211d_3/",
+        "note": "Company press release figure; conflicts with 5 percent reported by Yahoo Finance for the same period, see conflicts"
+      },
+      "Q1 2026": {
+        "value": 6,
+        "unit": "percent",
+        "source_url": "https://www.marketscreener.com/news/constellation-software-inc-reports-earnings-results-for-the-first-quarter-ended-march-31-2026-ce7f5bdfda8bf121"
+      },
+      "Q2 2025": {
+        "value": 5,
+        "unit": "percent",
+        "source_url": "https://finance.yahoo.com/news/constellation-software-second-quarter-2025-123135751.html"
+      },
+      "Q2 2026": {
+        "value": 3,
+        "unit": "percent",
+        "source_url": "https://www.globenewswire.com/news-release/2026/08/11/3343207/0/en/constellation-software-inc-announces-results-for-the-second-quarter-ended-june-30-2026-and-declares-quarterly-dividend.html"
+      },
+      "H1 2026": {
+        "value": 4,
+        "unit": "percent",
+        "source_url": "https://www.csisoftware.com/constellation-software-inc-announces-results-for-the-second-quarter-ended-june-30-2026-and-declares-quarterly-dividend/"
+      }
+    },
+    "organic_growth_fx_adj_pct": {
+      "FY2025": {
+        "value": 3,
+        "unit": "percent",
+        "source_url": "https://www.globenewswire.com/news-release/2026/03/09/3251696/0/en/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2025-and-declares-quarterly-dividend.html"
+      },
+      "Q1 2025": {
+        "value": 2,
+        "unit": "percent",
+        "source_url": "https://www.csisoftware.com/docs/default-source/press-releases/csi---press-release-q1-2025---final.pdf?sfvrsn=f9d1211d_3/"
+      },
+      "Q1 2026": {
+        "value": 2,
+        "unit": "percent",
+        "source_url": "https://www.marketscreener.com/news/constellation-software-inc-reports-earnings-results-for-the-first-quarter-ended-march-31-2026-ce7f5bdfda8bf121"
+      },
+      "Q2 2025": {
+        "value": 4,
+        "unit": "percent",
+        "source_url": "https://finance.yahoo.com/news/constellation-software-second-quarter-2025-123135751.html"
+      },
+      "Q2 2026": {
+        "value": 1,
+        "unit": "percent",
+        "source_url": "https://www.globenewswire.com/news-release/2026/08/11/3343207/0/en/constellation-software-inc-announces-results-for-the-second-quarter-ended-june-30-2026-and-declares-quarterly-dividend.html"
+      },
+      "H1 2026": {
+        "value": 1,
+        "unit": "percent",
+        "source_url": "https://www.csisoftware.com/constellation-software-inc-announces-results-for-the-second-quarter-ended-june-30-2026-and-declares-quarterly-dividend/"
+      }
+    },
+    "net_income_attributable": {
+      "FY2022": {
+        "value": 512,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2024/03/06/2841834/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2023-and-Declares-Quarterly-Dividend.html"
+      },
+      "FY2023": {
+        "value": 565,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2024/03/06/2841834/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2023-and-Declares-Quarterly-Dividend.html"
+      },
+      "FY2024": {
+        "value": 731,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2025/03/07/3039269/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2024-and-Declares-Quarterly-Dividend.html"
+      },
+      "FY2025": {
+        "value": 512,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2026/03/09/3251696/0/en/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2025-and-declares-quarterly-dividend.html"
+      },
+      "Q1 2025": {
+        "value": 136,
+        "unit": "USD millions",
+        "source_url": "https://www.rttnews.com/3651605/constellation-software-q1-profit-revenue-increase.aspx",
+        "note": "Conflicts with 115 from quartr.com for the same period (stage1 fy2025.json); neither source is the company press release, see conflicts"
+      },
+      "Q1 2026": {
+        "value": 367,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2026/05/12/3293525/0/en/constellation-software-inc-announces-results-for-the-first-quarter-ended-march-31-2026-and-declares-quarterly-dividend.html"
+      },
+      "Q2 2025": {
+        "value": 56,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2026/08/11/3343207/0/en/constellation-software-inc-announces-results-for-the-second-quarter-ended-june-30-2026-and-declares-quarterly-dividend.html",
+        "note": "Comparative figure restated in the Q2 2026 press release"
+      },
+      "Q2 2026": {
+        "value": 274,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2026/08/11/3343207/0/en/constellation-software-inc-announces-results-for-the-second-quarter-ended-june-30-2026-and-declares-quarterly-dividend.html"
+      },
+      "H1 2025": {
+        "value": 192,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2026/08/11/3343207/0/en/constellation-software-inc-announces-results-for-the-second-quarter-ended-june-30-2026-and-declares-quarterly-dividend.html",
+        "note": "Comparative figure restated in the Q2 2026 press release"
+      },
+      "H1 2026": {
+        "value": 641,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2026/08/11/3343207/0/en/constellation-software-inc-announces-results-for-the-second-quarter-ended-june-30-2026-and-declares-quarterly-dividend.html"
+      }
+    },
+    "diluted_eps": {
+      "FY2022": {
+        "value": 24.16,
+        "unit": "USD",
+        "source_url": "https://finance.yahoo.com/news/constellation-software-full-2023-earnings-110310762.html"
+      },
+      "FY2023": {
+        "value": 26.67,
+        "unit": "USD",
+        "source_url": "https://www.globenewswire.com/news-release/2024/03/06/2841834/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2023-and-Declares-Quarterly-Dividend.html"
+      },
+      "FY2024": {
+        "value": 34.48,
+        "unit": "USD",
+        "source_url": "https://www.globenewswire.com/news-release/2025/03/07/3039269/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2024-and-Declares-Quarterly-Dividend.html"
+      },
+      "FY2025": {
+        "value": 24.15,
+        "unit": "USD",
+        "source_url": "https://www.globenewswire.com/news-release/2026/03/09/3251696/0/en/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2025-and-declares-quarterly-dividend.html"
+      },
+      "Q1 2025": {
+        "value": 6.41,
+        "unit": "USD",
+        "source_url": "https://www.rttnews.com/3651605/constellation-software-q1-profit-revenue-increase.aspx",
+        "note": "Conflicts with 5.44 from quartr.com for the same period, see conflicts"
+      },
+      "Q1 2026": {
+        "value": 17.32,
+        "unit": "USD",
+        "source_url": "https://www.globenewswire.com/news-release/2026/05/12/3293525/0/en/constellation-software-inc-announces-results-for-the-first-quarter-ended-march-31-2026-and-declares-quarterly-dividend.html"
+      },
+      "Q2 2025": {
+        "value": 2.66,
+        "unit": "USD",
+        "source_url": "https://www.globenewswire.com/news-release/2026/08/11/3343207/0/en/constellation-software-inc-announces-results-for-the-second-quarter-ended-june-30-2026-and-declares-quarterly-dividend.html",
+        "note": "Comparative figure restated in the Q2 2026 press release"
+      },
+      "Q2 2026": {
+        "value": 12.93,
+        "unit": "USD",
+        "source_url": "https://www.globenewswire.com/news-release/2026/08/11/3343207/0/en/constellation-software-inc-announces-results-for-the-second-quarter-ended-june-30-2026-and-declares-quarterly-dividend.html"
+      },
+      "H1 2025": {
+        "value": 9.07,
+        "unit": "USD",
+        "source_url": "https://www.globenewswire.com/news-release/2026/08/11/3343207/0/en/constellation-software-inc-announces-results-for-the-second-quarter-ended-june-30-2026-and-declares-quarterly-dividend.html",
+        "note": "Comparative figure restated in the Q2 2026 press release"
+      },
+      "H1 2026": {
+        "value": 30.25,
+        "unit": "USD",
+        "source_url": "https://www.globenewswire.com/news-release/2026/08/11/3343207/0/en/constellation-software-inc-announces-results-for-the-second-quarter-ended-june-30-2026-and-declares-quarterly-dividend.html"
+      }
+    },
+    "cash_from_operations": {
+      "FY2023": {
+        "value": 1779,
+        "unit": "USD millions",
+        "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/statutory-filings/q4-2023-shareholder-report.pdf?sfvrsn=91ffcfe7_3"
+      },
+      "FY2024": {
+        "value": 2196,
+        "unit": "USD millions",
+        "source_url": "https://www.csisoftware.com/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2024-and-declares-quarterly-dividend/"
+      },
+      "FY2025": {
+        "value": 2732,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2026/03/09/3251696/0/en/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2025-and-declares-quarterly-dividend.html"
+      },
+      "Q1 2025": {
+        "value": 827,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2026/05/12/3293525/0/en/constellation-software-inc-announces-results-for-the-first-quarter-ended-march-31-2026-and-declares-quarterly-dividend.html",
+        "note": "Comparative figure restated in the Q1 2026 press release"
+      },
+      "Q1 2026": {
+        "value": 897,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2026/05/12/3293525/0/en/constellation-software-inc-announces-results-for-the-first-quarter-ended-march-31-2026-and-declares-quarterly-dividend.html"
+      },
+      "Q2 2025": {
+        "value": 433,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2026/08/11/3343207/0/en/constellation-software-inc-announces-results-for-the-second-quarter-ended-june-30-2026-and-declares-quarterly-dividend.html",
+        "note": "Comparative figure restated in the Q2 2026 press release"
+      },
+      "Q2 2026": {
+        "value": 477,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2026/08/11/3343207/0/en/constellation-software-inc-announces-results-for-the-second-quarter-ended-june-30-2026-and-declares-quarterly-dividend.html"
+      },
+      "H1 2025": {
+        "value": 1260,
+        "unit": "USD millions",
+        "source_url": "https://www.csisoftware.com/constellation-software-inc-announces-results-for-the-second-quarter-ended-june-30-2026-and-declares-quarterly-dividend/",
+        "note": "Comparative figure restated in the Q2 2026 press release"
+      },
+      "H1 2026": {
+        "value": 1374,
+        "unit": "USD millions",
+        "source_url": "https://www.csisoftware.com/constellation-software-inc-announces-results-for-the-second-quarter-ended-june-30-2026-and-declares-quarterly-dividend/"
+      }
+    },
+    "fcfa2s": {
+      "FY2022": {
+        "value": 853,
+        "unit": "USD millions",
+        "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/statutory-filings/csi---mda-q4-2023---final.pdf?sfvrsn=47d7de81_3"
+      },
+      "FY2023": {
+        "value": 1160,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2024/03/06/2841834/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2023-and-Declares-Quarterly-Dividend.html"
+      },
+      "FY2024": {
+        "value": 1472,
+        "unit": "USD millions",
+        "source_url": "https://www.csisoftware.com/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2024-and-declares-quarterly-dividend/"
+      },
+      "FY2025": {
+        "value": 1683,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2026/03/09/3251696/0/en/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2025-and-declares-quarterly-dividend.html"
+      },
+      "Q1 2025": {
+        "value": 510,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2026/05/12/3293525/0/en/constellation-software-inc-announces-results-for-the-first-quarter-ended-march-31-2026-and-declares-quarterly-dividend.html",
+        "note": "Comparative figure restated in the Q1 2026 press release"
+      },
+      "Q1 2026": {
+        "value": 733,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2026/05/12/3293525/0/en/constellation-software-inc-announces-results-for-the-first-quarter-ended-march-31-2026-and-declares-quarterly-dividend.html"
+      },
+      "Q2 2025": {
+        "value": 220,
+        "unit": "USD millions",
+        "source_url": "https://quartr.com/events/constellation-software-inc-csu-q2-2025_33rGR7YJ"
+      },
+      "Q2 2026": {
+        "value": 345,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2026/08/11/3343207/0/en/constellation-software-inc-announces-results-for-the-second-quarter-ended-june-30-2026-and-declares-quarterly-dividend.html"
+      },
+      "LTM to Q2 2026": {
+        "value": 2030,
+        "unit": "USD millions",
+        "source_url": "https://longyield.substack.com/p/constellation-software-q2-2026-the",
+        "note": "Reported directly by source, not independently derived here; stage1 confidence flagged PLAUSIBLE",
+        "confidence": "PLAUSIBLE"
+      }
+    },
+    "acquisitions_cash_spent": {
+      "FY2022": {
+        "value": 1600,
+        "unit": "USD millions",
+        "source_url": "https://www.speedwellmemos.com/p/constellation-software-2022-earnings"
+      },
+      "FY2023": {
+        "value": 732,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2024/03/06/2841834/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2023-and-Declares-Quarterly-Dividend.html",
+        "note": "Conflicts with 1792 in stage1 capital_allocation.json, which sources a FY2024-results URL under a '2023' label and looks like a mislabeled FY2024 figure, see conflicts"
+      },
+      "FY2024": {
+        "value": 1792,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2025/03/07/3039269/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2024-and-Declares-Quarterly-Dividend.html"
+      },
+      "FY2025": {
+        "value": 1579,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2026/03/09/3251696/0/en/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2025-and-declares-quarterly-dividend.html",
+        "note": "Conflicts with 1513 also attributed to the FY2025 release in stage1 fy2025.json, see conflicts"
+      },
+      "Q1 2026": {
+        "value": 697,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2026/05/12/3293525/0/en/constellation-software-inc-announces-results-for-the-first-quarter-ended-march-31-2026-and-declares-quarterly-dividend.html",
+        "note": "Cash consideration only; total consideration including deferred was $809 million"
+      },
+      "Q2 2026": {
+        "value": 732,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2026/08/11/3343207/0/en/constellation-software-inc-announces-results-for-the-second-quarter-ended-june-30-2026-and-declares-quarterly-dividend.html",
+        "note": "Cash consideration only; total consideration including deferred was $893 million"
+      },
+      "H1 2026": {
+        "value": 1429,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2026/08/11/3343207/0/en/constellation-software-inc-announces-results-for-the-second-quarter-ended-june-30-2026-and-declares-quarterly-dividend.html",
+        "note": "Cash consideration, Q1 2026 697 plus Q2 2026 732, same definition as the FY series. Total consideration including deferred payments was 1,702 (809 plus 893), the 1,700 figure reported by mbi-deepdives. Corrected after the Stage 6 review (mismatch A).",
+        "confidence": "derived from two company press releases"
+      }
+    },
+    "cash": {
+      "FY2022": {
+        "value": 811,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2024/03/06/2841834/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2023-and-Declares-Quarterly-Dividend.html"
+      },
+      "FY2023": {
+        "value": 1284,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2024/03/06/2841834/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2023-and-Declares-Quarterly-Dividend.html",
+        "note": "Conflicts with 2074 reported for the same Dec 31 2023 date in the FY2024 press release (stage1 fy2024.json), see conflicts"
+      },
+      "FY2024": {
+        "value": 2770,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2025/03/07/3039269/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2024-and-Declares-Quarterly-Dividend.html"
+      },
+      "Q1 2026": {
+        "value": 3010,
+        "unit": "USD millions",
+        "source_url": "https://www.levelheadedinvesting.com/p/constellation-software-csu-q1-2026-results-the-market-feared-ai-constellation-deployed-1-6-billion"
+      },
+      "Q2 2026": {
+        "value": 2800,
+        "unit": "USD millions",
+        "source_url": "https://investing.com/equities/constellation-software-inc-balance-sheet",
+        "note": "Stage 6 review: this investing.com balance sheet matches the September 2025 snapshot in stage1 fy2025.json (debt 5,020, cash 2,800), so it may be stale. See metrics net_debt_rollforward for a Q2 2026 estimate."
+      }
+    },
+    "total_debt": {
+      "FY2022": {
+        "value": 1974,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2024/03/06/2841834/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2023-and-Declares-Quarterly-Dividend.html"
+      },
+      "FY2023": {
+        "value": 3334,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2024/03/06/2841834/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2023-and-Declares-Quarterly-Dividend.html",
+        "note": "Conflicts with 3876 reported for the same Dec 31 2023 date via Yahoo Finance (stage1 fy2024.json), see conflicts"
+      },
+      "FY2024": {
+        "value": 4533,
+        "unit": "USD millions",
+        "source_url": "https://finance.yahoo.com/quote/CNSWF/balance-sheet/"
+      },
+      "Q1 2026": {
+        "value": 3990,
+        "unit": "USD millions",
+        "source_url": "https://www.levelheadedinvesting.com/p/constellation-software-csu-q1-2026-results-the-market-feared-ai-constellation-deployed-1-6-billion"
+      },
+      "Q2 2026": {
+        "value": 5000,
+        "unit": "USD millions",
+        "source_url": "https://investing.com/equities/constellation-software-inc-balance-sheet",
+        "note": "Approximate, rounded Stage 6 review: this investing.com balance sheet matches the September 2025 snapshot in stage1 fy2025.json (debt 5,020, cash 2,800), so it may be stale. See metrics net_debt_rollforward for a Q2 2026 estimate."
+      }
+    },
+    "shares_outstanding": {
+      "FY2023": {
+        "value": 21.19,
+        "unit": "millions",
+        "source_url": "https://www.macrotrends.net/stocks/charts/CNSWF/constellation-software/shares-outstanding"
+      },
+      "FY2024": {
+        "value": 21.19,
+        "unit": "millions",
+        "source_url": "https://www.macrotrends.net/stocks/charts/CNSWF/constellation-software/shares-outstanding"
+      },
+      "FY2025": {
+        "value": 21.19,
+        "unit": "millions",
+        "source_url": "https://www.globenewswire.com/news-release/2026/03/09/3251696/0/en/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2025-and-declares-quarterly-dividend.html",
+        "note": "21,191,530 shares per company release"
+      },
+      "Q1 2026": {
+        "value": 21.19,
+        "unit": "millions",
+        "source_url": "https://www.gurufocus.com/term/shares-outstanding/CNSWF"
+      },
+      "Q2 2026": {
+        "value": 21.19,
+        "unit": "millions",
+        "source_url": "https://www.macrotrends.net/stocks/charts/CNSWF/constellation-software/shares-outstanding"
+      }
+    },
+    "dividends_per_share": {
+      "FY2022": {
+        "value": 4.0,
+        "unit": "USD",
+        "source_url": "https://stockanalysis.com/quote/tsx/CSU/dividend/"
+      },
+      "FY2023": {
+        "value": 4.0,
+        "unit": "USD",
+        "source_url": "https://stockanalysis.com/quote/tsx/CSU/dividend/"
+      },
+      "FY2024": {
+        "value": 4.0,
+        "unit": "USD",
+        "source_url": "https://www.investing.com/equities/constellation-software-inc-dividends"
+      },
+      "FY2025": {
+        "value": 4.0,
+        "unit": "USD",
+        "source_url": "https://stockanalysis.com/quote/tsx/CSU/dividend/"
+      },
+      "Q1 2026": {
+        "value": 1.0,
+        "unit": "USD",
+        "source_url": "https://www.globenewswire.com/news-release/2026/05/12/3293525/0/en/constellation-software-inc-announces-results-for-the-first-quarter-ended-march-31-2026-and-declares-quarterly-dividend.html"
+      },
+      "Q2 2026": {
+        "value": 1.0,
+        "unit": "USD",
+        "source_url": "https://www.globenewswire.com/news-release/2026/08/11/3343207/0/en/constellation-software-inc-announces-results-for-the-second-quarter-ended-june-30-2026-and-declares-quarterly-dividend.html"
+      }
+    },
+    "share_price_cad": {
+      "2026-09-11": {
+        "value": 2827.94,
+        "unit": "CAD",
+        "source_url": "https://www.stockopedia.com/share-prices/constellation-software-TSE:CSU/"
+      }
+    },
+    "market_cap_usd": {
+      "2026-09": {
+        "value": 47950,
+        "unit": "USD millions",
+        "source_url": "https://tradingeconomics.com/csu:cn:market-capitalization",
+        "note": "Conflicts with CAD 65,183 million reported by stockanalysis.com for 2026-09-08, currencies not cross-checked here, see conflicts"
+      }
+    },
+    "enterprise_value_usd": {
+      "2026-05": {
+        "value": 46000,
+        "unit": "CAD millions",
+        "source_url": "https://multiples.vc/public-comps/constellation-software-valuation-multiples",
+        "note": "Source reports this figure in CAD, not USD; kept as-is because no USD enterprise value was found"
+      }
+    },
+    "price_date": {
+      "current": {
+        "value": "2026-09-11",
+        "unit": "date",
+        "source_url": "https://www.stockopedia.com/share-prices/constellation-software-TSE:CSU/"
+      }
+    },
+    "market_cap_cad": {
+      "2026-09-08": {
+        "value": 65183,
+        "unit": "CAD millions",
+        "source_url": "https://stockanalysis.com/quote/tsx/CSU/market-cap/",
+        "note": "Implies a share price near CAD 3,076 at 21.19m shares, above the 2,827.94 quote of 2026-09-11, so the two market cap figures are from different days or bases."
+      }
+    },
+    "usdcad": {
+      "2026-09": {
+        "value": 1.3594,
+        "unit": "CAD per USD",
+        "source_url": "https://stockanalysis.com/quote/tsx/CSU/market-cap/ and https://tradingeconomics.com/csu:cn:market-capitalization",
+        "note": "Derived: market_cap_cad[2026-09-08] / market_cap_usd[2026-09]. No direct FX quote could be fetched (session search budget exhausted). Low confidence. Metrics carry a sensitivity from 1.25 to 1.40. Added after the Stage 6 review (mismatch B)."
+      }
+    }
+  },
+  "unmapped": [
+    {
+      "item": "FY2025 maintenance and recurring revenue organic growth",
+      "period": "FY2025",
+      "value": 6,
+      "unit": "percent",
+      "source_url": "https://thepursuitofcompounding.substack.com/p/constellation-software-inc-fiscal",
+      "reason": "growth rate only, no dollar figure in standard chart"
+    },
+    {
+      "item": "Maintenance revenue as percentage of total revenue",
+      "period": "2026",
+      "value": 77,
+      "unit": "percent",
+      "source_url": "https://expandstocks.substack.com/p/constellation-software-q1-2026",
+      "reason": "ratio, not a chart-of-accounts dollar or growth key"
+    },
+    {
+      "item": "Maintenance and Recurring Revenue Proportion",
+      "period": "FY2025",
+      "value": 75,
+      "unit": "percent of total revenue",
+      "source_url": "https://finimize.com/content/cnswf-asset-snapshot",
+      "reason": "ratio, not a chart-of-accounts key"
+    },
+    {
+      "item": "EBITDA (unadjusted, not adjusted EBITA)",
+      "period": "FY2022-FY2025, Q4 2025",
+      "value": "see stage1 fy2023/fy2024/fy2025.json",
+      "unit": "USD millions",
+      "source_url": "https://www.alphaquery.com/stock/CNSWF/fundamentals/annual/ebitda",
+      "reason": "stage1 files report EBITDA, not the adjusted_ebita metric required by the chart of accounts; no adjusted EBITA figure was found in any stage1 file"
+    },
+    {
+      "item": "Capex / property and equipment purchased",
+      "period": "all periods",
+      "value": null,
+      "unit": "USD millions",
+      "source_url": null,
+      "reason": "not found in any stage1 file; repeatedly listed as a gap in fy2023.json, fy2025.json, q1_2026.json"
+    },
+    {
+      "item": "Total revenue growth YoY (reported, all-in)",
+      "period": "multiple",
+      "value": "see stage1 files",
+      "unit": "percent",
+      "source_url": null,
+      "reason": "derivable from revenue values already in ledger; not itself a chart-of-accounts key"
+    },
+    {
+      "item": "Operating Income / EBIT",
+      "period": "FY2024",
+      "value": 2178,
+      "unit": "USD millions",
+      "source_url": "https://www.alphaquery.com/stock/CNSWF/fundamentals/annual/ebitda",
+      "reason": "not a chart-of-accounts key"
+    },
+    {
+      "item": "Amortization of intangible assets",
+      "period": "FY2023, FY2024",
+      "value": "860 / 1044",
+      "unit": "USD millions",
+      "source_url": "https://www.csisoftware.com/docs/default-source/press-releases/q4-2024-shareholder-report.pdf?sfvrsn=2b888200_3/+Q4-2024-Shareholder-Report+.pdf",
+      "reason": "not a chart-of-accounts key"
+    },
+    {
+      "item": "Depreciation of property and equipment",
+      "period": "FY2023, FY2024",
+      "value": "161 / 182",
+      "unit": "USD millions",
+      "source_url": "https://www.csisoftware.com/docs/default-source/press-releases/q4-2024-shareholder-report.pdf?sfvrsn=2b888200_3/+Q4-2024-Shareholder-Report+.pdf",
+      "reason": "not a chart-of-accounts key"
+    },
+    {
+      "item": "Total assets / liabilities / equity",
+      "period": "FY2024",
+      "value": "12863 / 9576 / 3287",
+      "unit": "USD millions",
+      "source_url": "https://finance.yahoo.com/quote/CNSWF/balance-sheet/",
+      "reason": "not a chart-of-accounts key"
+    },
+    {
+      "item": "Reinvestment rate",
+      "period": "2023, 2024, 2025",
+      "value": "154.5 / 114.3 / 89.9",
+      "unit": "percent",
+      "source_url": "https://www.globenewswire.com/news-release/2026/03/09/3251696/0/en/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2025-and-declares-quarterly-dividend.html",
+      "reason": "capital allocation metric, not a chart-of-accounts key"
+    },
+    {
+      "item": "ROIC",
+      "period": "2025, June 2026, TTM 2026",
+      "value": "14.8 / 10.97 / 11.97",
+      "unit": "percent",
+      "source_url": "https://www.gurufocus.com/term/roic/CNSWF",
+      "reason": "not a chart-of-accounts key"
+    },
+    {
+      "item": "Hurdle rate IRR target",
+      "period": "2024-2026",
+      "value": 25,
+      "unit": "percent IRR",
+      "source_url": "https://www.morningstar.com/company-reports/1489931-constellation-software-hurdle-rate-discipline-remains-the-cash-compounders-north-star",
+      "reason": "not a chart-of-accounts key"
+    },
+    {
+      "item": "Net debt",
+      "period": "Sept 2025, Q1 2026, Dec 2025",
+      "value": "2210 / 980 / 1043",
+      "unit": "USD millions",
+      "source_url": "https://www.levelheadedinvesting.com/p/constellation-software-csu-q1-2026-results-the-market-feared-ai-constellation-deployed-1-6-billion",
+      "reason": "derivable from cash and total_debt already in ledger; not itself a chart-of-accounts key"
+    },
+    {
+      "item": "IRGA liability balance and revaluation",
+      "period": "H1 2026, Dec 2025",
+      "value": "1186 / 1234 / 13 / 35",
+      "unit": "USD millions",
+      "source_url": "https://www.csisoftware.com/wp-content/uploads/2026/08/CSI-MDA-Q2-2026-Final.pdf",
+      "reason": "not a chart-of-accounts key"
+    },
+    {
+      "item": "P/E, EV/EBITDA, Price/FCF, Price/Book ratios",
+      "period": "2026",
+      "value": "see stage1 market_data.json",
+      "unit": "ratio",
+      "source_url": "https://finance.yahoo.com/quote/CSU.TO/key-statistics/",
+      "reason": "valuation ratios, not chart-of-accounts keys; multiple conflicting sources, deferred to stage3 compute"
+    },
+    {
+      "item": "Analyst price targets and ratings",
+      "period": "2026-09",
+      "value": "see stage1 market_data.json / ai_and_leadership.json",
+      "unit": "CAD / count",
+      "source_url": "https://www.marketbeat.com/stocks/TSE/CSU/forecast/",
+      "reason": "not a chart-of-accounts key"
+    },
+    {
+      "item": "Acquisition cohort margins (2025, 2026 cohorts)",
+      "period": "Q1 2026, Q2 2026",
+      "value": "-16 / 16 / 20",
+      "unit": "percent",
+      "source_url": "https://longyield.substack.com/p/constellation-software-q2-2026-the",
+      "reason": "AI-thesis relevant but not a chart-of-accounts key; carried forward for stage4 analysis"
+    },
+    {
+      "item": "CFO review of 900 business units for AI attrition anomalies; ClickDimensions AI ticket resolution rate",
+      "period": "2026-05, 2026-01",
+      "value": "900 / 82",
+      "unit": "units / percent",
+      "source_url": "https://expansestocks.substack.com/p/constellation-software-agm-2026",
+      "reason": "qualitative AI-thesis evidence, not a chart-of-accounts key; carried forward for stage4 analysis"
+    },
+    {
+      "item": "Leadership transition events (Mark Leonard resignation, Mark Miller appointment)",
+      "period": "2025-09-25, 2026-05-15",
+      "value": "n/a",
+      "unit": "event",
+      "source_url": "https://www.csisoftware.com/constellation-software-inc-announces-the-resignation-of-mark-leonard-and-appointment-of-mark-miller-as-president-of-constellation-software/",
+      "reason": "qualitative, not a chart-of-accounts key; carried forward for stage4 analysis"
+    },
+    {
+      "item": "Stock price peak/trough/drawdown (Jun 2025 high, Jan 2026 low, -51% to -56.6% decline)",
+      "period": "2025-06 to 2026-09",
+      "value": "5060.7 / 2196 / -51 to -56.6",
+      "unit": "CAD / percent",
+      "source_url": "https://www.levelheadedinvesting.com/p/constellation-software-csu-q1-2026-results-the-market-feared-ai-constellation-deployed-1-6-billion",
+      "reason": "market narrative data; price_date/share_price_cad already capture the current snapshot, historical series carried forward for stage4"
+    }
+  ],
+  "conflicts": [
+    {
+      "key": "organic_growth_pct",
+      "period": "Q1 2025",
+      "values": [
+        {
+          "value": 0.3,
+          "source_url": "https://www.csisoftware.com/docs/default-source/press-releases/csi---press-release-q1-2025---final.pdf?sfvrsn=f9d1211d_3/",
+          "note": "company press release, kept"
+        },
+        {
+          "value": 5,
+          "source_url": "https://finance.yahoo.com/news/constellation-software-first-quarter-2025-135734558.html",
+          "note": "third-party, not kept"
+        }
+      ]
+    },
+    {
+      "key": "net_income_attributable",
+      "period": "Q1 2025",
+      "values": [
+        {
+          "value": 136,
+          "source_url": "https://www.rttnews.com/3651605/constellation-software-q1-profit-revenue-increase.aspx",
+          "note": "kept, neither source is the company press release"
+        },
+        {
+          "value": 115,
+          "source_url": "https://quartr.com/events/constellation-software-inc-csu-q1-2025_33rGRbqH",
+          "note": "not kept"
+        }
+      ]
+    },
+    {
+      "key": "diluted_eps",
+      "period": "Q1 2025",
+      "values": [
+        {
+          "value": 6.41,
+          "source_url": "https://www.rttnews.com/3651605/constellation-software-q1-profit-revenue-increase.aspx",
+          "note": "kept, neither source is the company press release"
+        },
+        {
+          "value": 5.44,
+          "source_url": "https://quartr.com/events/constellation-software-inc-csu-q1-2025_33rGRbqH",
+          "note": "not kept"
+        }
+      ]
+    },
+    {
+      "key": "revenue",
+      "period": "Q1 2025",
+      "values": [
+        {
+          "value": 2650,
+          "source_url": "https://finance.yahoo.com/news/constellation-software-first-quarter-2025-135734558.html",
+          "note": "kept"
+        },
+        {
+          "value": 2654,
+          "source_url": "https://seekingalpha.com/pr/20100772-constellation-software-inc-announces-results-for-the-first-quarter-ended-march-31-2025-and",
+          "note": "not kept, minor variance likely rounding"
+        }
+      ]
+    },
+    {
+      "key": "acquisitions_cash_spent",
+      "period": "FY2023",
+      "values": [
+        {
+          "value": 732,
+          "source_url": "https://www.globenewswire.com/news-release/2024/03/06/2841834/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2023-and-Declares-Quarterly-Dividend.html",
+          "note": "kept, sourced to the FY2023 results release itself"
+        },
+        {
+          "value": 1792,
+          "source_url": "https://www.globenewswire.com/news-release/2025/03/07/3039269/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2024-and-Declares-Quarterly-Dividend.html",
+          "note": "not kept; appears in stage1 capital_allocation.json labeled '2023' but sourced to the FY2024 release and matches the FY2024 figure exactly, likely a mislabeled period"
+        }
+      ]
+    },
+    {
+      "key": "acquisitions_cash_spent",
+      "period": "FY2025",
+      "values": [
+        {
+          "value": 1579,
+          "source_url": "https://www.globenewswire.com/news-release/2026/03/09/3251696/0/en/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2025-and-declares-quarterly-dividend.html",
+          "note": "kept, from stage1 capital_allocation.json"
+        },
+        {
+          "value": 1513,
+          "source_url": "https://www.globenewswire.com/news-release/2026/03/09/3251696/0/en/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2025-and-declares-quarterly-dividend.html",
+          "note": "not kept; stage1 fy2025.json attributes this to the same globenewswire URL, both cannot be exact, source text not independently re-verifiable under network policy"
+        }
+      ]
+    },
+    {
+      "key": "cash",
+      "period": "FY2023 (Dec 31, 2023)",
+      "values": [
+        {
+          "value": 1284,
+          "source_url": "https://www.globenewswire.com/news-release/2024/03/06/2841834/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2023-and-Declares-Quarterly-Dividend.html",
+          "note": "kept, from the FY2023 results release itself"
+        },
+        {
+          "value": 2074,
+          "source_url": "https://www.globenewswire.com/news-release/2025/03/07/3039269/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2024-and-Declares-Quarterly-Dividend.html",
+          "note": "not kept; reported as the Dec 31 2023 comparative in the FY2024 release, inconsistent with the FY2023 release's own figure"
+        }
+      ]
+    },
+    {
+      "key": "total_debt",
+      "period": "FY2023 (Dec 31, 2023)",
+      "values": [
+        {
+          "value": 3334,
+          "source_url": "https://www.globenewswire.com/news-release/2024/03/06/2841834/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2023-and-Declares-Quarterly-Dividend.html",
+          "note": "kept, company press release"
+        },
+        {
+          "value": 3876,
+          "source_url": "https://finance.yahoo.com/quote/CNSWF/balance-sheet/",
+          "note": "not kept, third-party balance sheet aggregator"
+        }
+      ]
+    },
+    {
+      "key": "cash_from_operations",
+      "period": "FY2022",
+      "values": [
+        {
+          "value": null,
+          "source_url": null,
+          "note": "stage1 fy2023.json gaps note conflicting sources showing approximately $1.3B vs $1.669B; neither pinned down enough to record, left absent from ledger"
+        }
+      ]
+    },
+    {
+      "key": "market_cap_usd",
+      "period": "2026-09",
+      "values": [
+        {
+          "value": 47950,
+          "source_url": "https://tradingeconomics.com/csu:cn:market-capitalization",
+          "note": "kept, reported in USD"
+        },
+        {
+          "value": 65183,
+          "source_url": "https://stockanalysis.com/quote/tsx/CSU/market-cap/",
+          "note": "reported in CAD millions for 2026-09-08, not directly comparable, not converted here"
+        }
+      ]
+    }
+  ],
+  "peers": {
+    "Topicus.com (TOI)": {
+      "H1 2026 revenue": {
+        "value": 872.9,
+        "unit": "EUR millions",
+        "source_url": "https://www.globenewswire.com/news-release/2026/08/05/3339823/0/en/constellation-software-inc-and-topicus-com-inc-announce-results-for-topicus-com-inc-for-the-second-quarter-ended-june-30-2026.html"
+      },
+      "H1 2026 revenue growth yoy": {
+        "value": 20,
+        "unit": "percent",
+        "source_url": "https://www.globenewswire.com/news-release/2026/08/05/3339823/0/en/constellation-software-inc-and-topicus-com-inc-announce-results-for-topicus-com-inc-for-the-second-quarter-ended-june-30-2026.html"
+      },
+      "H1 2026 organic growth": {
+        "value": 5,
+        "unit": "percent",
+        "source_url": "https://www.globenewswire.com/news-release/2026/08/05/3339823/0/en/constellation-software-inc-and-topicus-com-inc-announce-results-for-topicus-com-inc-for-the-second-quarter-ended-june-30-2026.html"
+      },
+      "Q2 2026 revenue": {
+        "value": 437.3,
+        "unit": "EUR millions",
+        "source_url": "https://www.globenewswire.com/news-release/2026/08/05/3339823/0/en/constellation-software-inc-and-topicus-com-inc-announce-results-for-topicus-com-inc-for-the-second-quarter-ended-june-30-2026.html"
+      },
+      "Q1 2026 revenue": {
+        "value": 435.7,
+        "unit": "EUR millions",
+        "source_url": "https://www.globenewswire.com/news-release/2026/08/05/3339823/0/en/constellation-software-inc-and-topicus-com-inc-announce-results-for-topicus-com-inc-for-the-second-quarter-ended-june-30-2026.html"
+      },
+      "share_price": {
+        "value": 100.5,
+        "unit": "CAD",
+        "source_url": "https://www.investing.com/equities/topicus.com",
+        "note": "as of 2026-09-07"
+      },
+      "market_cap": {
+        "value": 8390,
+        "unit": "CAD millions",
+        "source_url": "https://www.gurufocus.com/term/mktcap/TSXV:TOI",
+        "note": "as of 2026-09"
+      }
+    },
+    "Lumine Group (LMN)": {
+      "H1 2026 revenue": {
+        "value": 443.4,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2026/08/04/3338792/0/en/Lumine-Group-Inc-Announces-Results-for-the-Second-Quarter-Ended-June-30-2026.html"
+      },
+      "H1 2026 revenue growth yoy": {
+        "value": 22,
+        "unit": "percent",
+        "source_url": "https://www.globenewswire.com/news-release/2026/08/04/3338792/0/en/Lumine-Group-Inc-Announces-Results-for-the-Second-Quarter-Ended-June-30-2026.html"
+      },
+      "Q1 2026 revenue": {
+        "value": 208.3,
+        "unit": "USD millions",
+        "source_url": "https://finance.yahoo.com/markets/stocks/articles/lumine-group-inc-announces-results-200100205.html"
+      },
+      "Q1 2026 organic growth": {
+        "value": 0,
+        "unit": "percent",
+        "source_url": "https://finance.yahoo.com/markets/stocks/articles/lumine-group-inc-announces-results-200100205.html"
+      },
+      "Q1 2026 organic growth fx-adj": {
+        "value": -2,
+        "unit": "percent",
+        "source_url": "https://finance.yahoo.com/markets/stocks/articles/lumine-group-inc-announces-results-200100205.html"
+      },
+      "Q2 2026 revenue": {
+        "value": 235.1,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2026/08/04/3338792/0/en/Lumine-Group-Inc-Announces-Results-for-the-Second-Quarter-Ended-June-30-2026.html"
+      },
+      "Q2 2026 operating income": {
+        "value": 75.3,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2026/08/04/3338792/0/en/Lumine-Group-Inc-Announces-Results-for-the-Second-Quarter-Ended-June-30-2026.html"
+      }
+    },
+    "Descartes Systems (DSG)": {
+      "FY2026 revenue": {
+        "value": 729.0,
+        "unit": "USD millions",
+        "source_url": "https://www.theglobeandmail.com/investing/markets/stocks/DSGX-Q/pressreleases/726305/descartes-systems-group-posts-record-fiscal-2026-revenue-and-earnings-amid-logistics-turbulence/"
+      },
+      "FY2026 revenue growth yoy": {
+        "value": 12,
+        "unit": "percent",
+        "source_url": "https://www.theglobeandmail.com/investing/markets/stocks/DSGX-Q/pressreleases/726305/descartes-systems-group-posts-record-fiscal-2026-revenue-and-earnings-amid-logistics-turbulence/"
+      },
+      "FY2026 adjusted ebitda": {
+        "value": 329.5,
+        "unit": "USD millions",
+        "source_url": "https://www.theglobeandmail.com/investing/markets/stocks/DSGX-Q/pressreleases/726305/descartes-systems-group-posts-record-fiscal-2026-revenue-and-earnings-amid-logistics-turbulence/"
+      },
+      "FY2026 net income": {
+        "value": 163.8,
+        "unit": "USD millions",
+        "source_url": "https://www.theglobeandmail.com/investing/markets/stocks/DSGX-Q/pressreleases/726305/descartes-systems-group-posts-record-fiscal-2026-revenue-and-earnings-amid-logistics-turbulence/"
+      },
+      "FY2026 cash": {
+        "value": 356.5,
+        "unit": "USD millions",
+        "source_url": "https://www.theglobeandmail.com/investing/markets/stocks/DSGX-Q/pressreleases/726305/descartes-systems-group-posts-record-fiscal-2026-revenue-and-earnings-amid-logistics-turbulence/"
+      }
+    },
+    "Enghouse Systems (ENGH)": {
+      "H1 2026 revenue": {
+        "value": 234.4,
+        "unit": "USD millions",
+        "source_url": "https://finance.yahoo.com/markets/stocks/articles/enghouse-systems-ltd-eghsf-q2-010050704.html"
+      },
+      "H1 2026 revenue growth yoy": {
+        "value": -5.8,
+        "unit": "percent",
+        "source_url": "https://finance.yahoo.com/markets/stocks/articles/enghouse-systems-ltd-eghsf-q2-010050704.html"
+      },
+      "Q2 2026 revenue": {
+        "value": 114.3,
+        "unit": "USD millions",
+        "source_url": "https://finance.yahoo.com/markets/stocks/articles/enghouse-systems-ltd-eghsf-q2-010050704.html"
+      },
+      "Q2 2026 net income": {
+        "value": 16.3,
+        "unit": "USD millions",
+        "source_url": "https://finance.yahoo.com/markets/stocks/articles/enghouse-systems-ltd-eghsf-q2-010050704.html"
+      },
+      "Q2 2026 adjusted ebitda": {
+        "value": 26.5,
+        "unit": "USD millions",
+        "source_url": "https://finance.yahoo.com/markets/stocks/articles/enghouse-systems-ltd-eghsf-q2-010050704.html"
+      },
+      "cash": {
+        "value": 269.7,
+        "unit": "USD millions",
+        "source_url": "https://finance.yahoo.com/markets/stocks/articles/enghouse-systems-ltd-eghsf-q2-010050704.html"
+      }
+    },
+    "Roper Technologies (ROP)": {
+      "status": "no data retrieved, WebSearch budget exhausted per stage1 peers_large.json"
+    },
+    "Tyler Technologies (TYL)": {
+      "status": "no data retrieved, WebSearch budget exhausted per stage1 peers_large.json"
+    },
+    "Open Text (OTEX)": {
+      "status": "no data retrieved, WebSearch budget exhausted per stage1 peers_large.json"
+    }
+  },
+  "gate": {
+    "maintenance_le_revenue": {
+      "status": "PASS",
+      "failures": [],
+      "periods_checked": [
+        "FY2023",
+        "FY2024",
+        "H1 2026",
+        "Q1 2025",
+        "Q1 2026",
+        "Q2 2026"
+      ]
+    },
+    "eps_x_shares_vs_net_income": {
+      "status": "PASS",
+      "failures": [],
+      "detail": [
+        {
+          "period": "Q2 2026",
+          "implied_ni": 274.0,
+          "reported_ni": 274,
+          "pct_diff": 0.0
+        },
+        {
+          "period": "Q1 2026",
+          "implied_ni": 367.0,
+          "reported_ni": 367,
+          "pct_diff": 0.0
+        },
+        {
+          "period": "FY2024",
+          "implied_ni": 730.6,
+          "reported_ni": 731,
+          "pct_diff": 0.1
+        },
+        {
+          "period": "FY2025",
+          "implied_ni": 511.7,
+          "reported_ni": 512,
+          "pct_diff": 0.1
+        },
+        {
+          "period": "FY2023",
+          "implied_ni": 565.1,
+          "reported_ni": 565,
+          "pct_diff": 0.0
+        }
+      ]
+    },
+    "h1_2026_consistency": {
+      "status": "PASS",
+      "failures": [],
+      "detail": [
+        {
+          "key": "revenue",
+          "q1_plus_q2": 6516,
+          "h1_reported": 6516,
+          "pct_diff": 0.0
+        },
+        {
+          "key": "net_income_attributable",
+          "q1_plus_q2": 641,
+          "h1_reported": 641,
+          "pct_diff": 0.0
+        },
+        {
+          "key": "cash_from_operations",
+          "q1_plus_q2": 1374,
+          "h1_reported": 1374,
+          "pct_diff": 0.0
+        },
+        {
+          "key": "diluted_eps",
+          "q1_plus_q2": 30.25,
+          "h1_reported": 30.25,
+          "pct_diff": 0.0
+        },
+        {
+          "key": "maintenance_recurring_revenue",
+          "q1_plus_q2": 4994,
+          "h1_reported": 4994,
+          "pct_diff": 0.0
+        }
+      ]
+    }
+  },
+  "post_review_changes": [
+    "acquisitions_cash_spent H1 2026: 1,700 (total consideration) replaced by 1,429 (cash consideration) to match the FY series definition.",
+    "usdcad 2026-09 added as a derived rate of 1.3594 from two third party market caps; no direct quote available.",
+    "market_cap_cad 2026-09-08 added (65,183).",
+    "total_debt and cash Q2 2026 flagged as possibly a September 2025 snapshot."
+  ]
+}

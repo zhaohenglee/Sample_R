@@ -1,0 +1,340 @@
+{
+  "topic": "fy2025",
+  "file": "/home/user/Sample_R/analysis/constellation-software/stage1/fy2025.json",
+  "figure_count": 48,
+  "figures": [
+    {
+      "item": "Revenue",
+      "period": "FY2025",
+      "value": 11623,
+      "unit": "USD millions",
+      "source_url": "https://www.globenewswire.com/news-release/2026/03/09/3251696/0/en/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2025-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "Revenue",
+      "period": "FY2024",
+      "value": 10066,
+      "unit": "USD millions",
+      "source_url": "https://www.globenewswire.com/news-release/2026/03/09/3251696/0/en/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2025-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "Revenue Growth",
+      "period": "FY2025",
+      "value": 15,
+      "unit": "percent",
+      "source_url": "https://www.globenewswire.com/news-release/2026/03/09/3251696/0/en/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2025-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "Organic Growth",
+      "period": "FY2025",
+      "value": 4,
+      "unit": "percent",
+      "source_url": "https://thepursuitofcompounding.substack.com/p/constellation-software-inc-fiscal"
+    },
+    {
+      "item": "Organic Growth FX-adjusted",
+      "period": "FY2025",
+      "value": 3,
+      "unit": "percent",
+      "source_url": "https://www.globenewswire.com/news-release/2026/03/09/3251696/0/en/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2025-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "Revenue",
+      "period": "Q4 2025",
+      "value": 3177,
+      "unit": "USD millions",
+      "source_url": "https://www.globenewswire.com/news-release/2026/03/09/3251696/0/en/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2025-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "Revenue",
+      "period": "Q4 2024",
+      "value": 2703,
+      "unit": "USD millions",
+      "source_url": "https://www.globenewswire.com/news-release/2026/03/09/3251696/0/en/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2025-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "Q4 Revenue Growth",
+      "period": "Q4 2025",
+      "value": 18,
+      "unit": "percent",
+      "source_url": "https://www.globenewswire.com/news-release/2026/03/09/3251696/0/en/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2025-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "Q4 Organic Growth",
+      "period": "Q4 2025",
+      "value": 6,
+      "unit": "percent",
+      "source_url": "https://www.globenewswire.com/news-release/2026/03/09/3251696/0/en/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2025-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "Q4 Organic Growth FX-adjusted",
+      "period": "Q4 2025",
+      "value": 2,
+      "unit": "percent",
+      "source_url": "https://www.globenewswire.com/news-release/2026/03/09/3251696/0/en/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2025-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "Maintenance and Recurring Revenue Growth",
+      "period": "FY2025",
+      "value": 6,
+      "unit": "percent organic constant currency",
+      "source_url": "https://thepursuitofcompounding.substack.com/p/constellation-software-inc-fiscal"
+    },
+    {
+      "item": "Maintenance and Recurring Revenue Proportion",
+      "period": "FY2025",
+      "value": 75,
+      "unit": "percent of total revenue",
+      "source_url": "https://finimize.com/content/cnswf-asset-snapshot"
+    },
+    {
+      "item": "Revenue",
+      "period": "Q1 2025",
+      "value": 2650,
+      "unit": "USD millions",
+      "source_url": "https://finance.yahoo.com/news/constellation-software-first-quarter-2025-135734558.html"
+    },
+    {
+      "item": "Revenue",
+      "period": "Q3 2025",
+      "value": 2950,
+      "unit": "USD millions",
+      "source_url": "https://www.msn.com/en-ca/money/topstories/constellation-software-q3-2025-earnings-revenue-up-16-per-cent/ar-AA1Qa1kM"
+    },
+    {
+      "item": "Net Income Attributable to Common Shareholders",
+      "period": "FY2025",
+      "value": 512,
+      "unit": "USD millions",
+      "source_url": "https://www.globenewswire.com/news-release/2026/03/09/3251696/0/en/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2025-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "Net Income Attributable to Common Shareholders",
+      "period": "FY2024",
+      "value": 731,
+      "unit": "USD millions",
+      "source_url": "https://www.globenewswire.com/news-release/2025/03/07/3039269/0/en/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2024-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "Net Income Attributable to Common Shareholders Change",
+      "period": "FY2025",
+      "value": -30,
+      "unit": "percent",
+      "source_url": "https://www.globenewswire.com/news-release/2026/03/09/3251696/0/en/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2025-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "Net Income Attributable to Common Shareholders",
+      "period": "Q4 2025",
+      "value": 110,
+      "unit": "USD millions",
+      "source_url": "https://www.globenewswire.com/news-release/2026/03/09/3251696/0/en/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2025-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "Net Income Attributable to Common Shareholders",
+      "period": "Q4 2024",
+      "value": 285,
+      "unit": "USD millions",
+      "source_url": "https://www.globenewswire.com/news-release/2026/03/09/3251696/0/en/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2025-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "Diluted EPS",
+      "period": "FY2025",
+      "value": 24.15,
+      "unit": "USD per share",
+      "source_url": "https://www.globenewswire.com/news-release/2026/03/09/3251696/0/en/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2025-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "Diluted EPS",
+      "period": "FY2024",
+      "value": 34.48,
+      "unit": "USD per share",
+      "source_url": "https://www.globenewswire.com/news-release/2026/03/09/3251696/0/en/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2025-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "Diluted EPS",
+      "period": "Q4 2025",
+      "value": 5.19,
+      "unit": "USD per share",
+      "source_url": "https://www.globenewswire.com/news-release/2026/03/09/3251696/0/en/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2025-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "Cash Flows from Operations",
+      "period": "FY2025",
+      "value": 2732,
+      "unit": "USD millions",
+      "source_url": "https://www.globenewswire.com/news-release/2026/03/09/3251696/0/en/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2025-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "Cash Flows from Operations",
+      "period": "FY2024",
+      "value": 2196,
+      "unit": "USD millions",
+      "source_url": "https://www.globenewswire.com/news-release/2025/03/07/3039269/0/en/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2024-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "Cash Flows from Operations Growth",
+      "period": "FY2025",
+      "value": 24,
+      "unit": "percent",
+      "source_url": "https://www.globenewswire.com/news-release/2026/03/09/3251696/0/en/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2025-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "Free Cash Flow Available to Shareholders (FCFA2S)",
+      "period": "FY2025",
+      "value": 1683,
+      "unit": "USD millions",
+      "source_url": "https://www.globenewswire.com/news-release/2026/03/09/3251696/0/en/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2025-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "Free Cash Flow Available to Shareholders (FCFA2S)",
+      "period": "Q4 2025",
+      "value": 423,
+      "unit": "USD millions",
+      "source_url": "https://www.globenewswire.com/news-release/2026/03/09/3251696/0/en/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2025-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "Free Cash Flow Available to Shareholders (FCFA2S)",
+      "period": "Q4 2024",
+      "value": 482,
+      "unit": "USD millions",
+      "source_url": "https://www.globenewswire.com/news-release/2026/03/09/3251696/0/en/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2025-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "FCFA2S Growth",
+      "period": "Q4 2025",
+      "value": 14.3,
+      "unit": "percent",
+      "source_url": "https://thecompoundingtortoise.substack.com/p/q4-and-fy-2025-constellation-software"
+    },
+    {
+      "item": "EBITDA",
+      "period": "FY2025",
+      "value": 3426,
+      "unit": "USD millions",
+      "source_url": "https://www.macrotrends.net/stocks/charts/CNSWF/constellation-software/ebitda"
+    },
+    {
+      "item": "EBITDA",
+      "period": "Q4 2025",
+      "value": 914,
+      "unit": "USD millions",
+      "source_url": "https://thecompoundingtortoise.substack.com/p/q4-and-fy-2025-constellation-software"
+    },
+    {
+      "item": "Acquisitions Spent",
+      "period": "FY2025",
+      "value": 1513,
+      "unit": "USD millions",
+      "source_url": "https://www.globenewswire.com/news-release/2026/03/09/3251696/0/en/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2025-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "Equity Securities Purchased",
+      "period": "FY2025",
+      "value": 580,
+      "unit": "USD millions",
+      "source_url": "https://finimize.com/content/cnswf-asset-snapshot"
+    },
+    {
+      "item": "Other Investments",
+      "period": "FY2025",
+      "value": 530,
+      "unit": "USD millions",
+      "source_url": "https://finimize.com/content/cnswf-asset-snapshot"
+    },
+    {
+      "item": "Total Cash Used in Investing Activities",
+      "period": "FY2025",
+      "value": 1881,
+      "unit": "USD millions",
+      "source_url": "https://finimize.com/content/cnswf-asset-snapshot"
+    },
+    {
+      "item": "Total Debt",
+      "period": "September 2025",
+      "value": 5020,
+      "unit": "USD millions",
+      "source_url": "https://www.webull.com/news/14126617830507520"
+    },
+    {
+      "item": "Cash and Cash Equivalents",
+      "period": "September 2025",
+      "value": 2800,
+      "unit": "USD millions",
+      "source_url": "https://www.webull.com/news/14126617830507520"
+    },
+    {
+      "item": "Net Debt",
+      "period": "September 2025",
+      "value": 2210,
+      "unit": "USD millions",
+      "source_url": "https://www.webull.com/news/14126617830507520"
+    },
+    {
+      "item": "Common Shares Outstanding",
+      "period": "FY2025",
+      "value": 21.2,
+      "unit": "millions",
+      "source_url": "https://www.macrotrends.net/stocks/charts/CNSWF/constellation-software/shares-outstanding"
+    },
+    {
+      "item": "Annual Dividend per Share",
+      "period": "FY2025",
+      "value": 4.0,
+      "unit": "USD per share",
+      "source_url": "https://stockanalysis.com/quote/tsx/CSU/dividend/"
+    },
+    {
+      "item": "Quarterly Dividend per Share",
+      "period": "FY2025",
+      "value": 1.0,
+      "unit": "USD per share",
+      "source_url": "https://www.globenewswire.com/news-release/2026/03/09/3251696/0/en/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2025-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "Q1 2025 Organic Growth",
+      "period": "Q1 2025",
+      "value": 5,
+      "unit": "percent",
+      "source_url": "https://finance.yahoo.com/news/constellation-software-first-quarter-2025-135734558.html"
+    },
+    {
+      "item": "Q3 2025 Organic Growth",
+      "period": "Q3 2025",
+      "value": 5,
+      "unit": "percent",
+      "source_url": "https://www.msn.com/en-ca/money/topstories/constellation-software-q3-2025-earnings-revenue-up-16-per-cent/ar-AA1Qa1kM"
+    },
+    {
+      "item": "Net Income Attributable to Common Shareholders",
+      "period": "Q1 2025",
+      "value": 115,
+      "unit": "USD millions",
+      "source_url": "https://quartr.com/events/constellation-software-inc-csu-q1-2025_33rGRbqH"
+    },
+    {
+      "item": "Net Income Attributable to Common Shareholders",
+      "period": "Q3 2025",
+      "value": 210,
+      "unit": "USD millions",
+      "source_url": "https://www.msn.com/en-ca/money/topstories/constellation-software-q3-2025-earnings-revenue-up-16-per-cent/ar-AA1Qa1kM"
+    },
+    {
+      "item": "Diluted EPS",
+      "period": "Q1 2025",
+      "value": 5.44,
+      "unit": "USD per share",
+      "source_url": "https://quartr.com/events/constellation-software-inc-csu-q1-2025_33rGRbqH"
+    }
+  ],
+  "notes": "Constellation Software FY2025 financial results for the year ended December 31, 2025, released March 9, 2026. Data compiled from official press releases and shareholder reports. All figures in USD unless otherwise specified. Q4 2025 and Q3 2025 are 3-month periods; Q1 2025 is a 3-month period. FY2025 includes full year results. Organic growth rates exclude foreign exchange impacts. FCFA2S is Free Cash Flow Available to Shareholders. EBITDA shown is calculated metric. Company maintains 64,000+ employees across 1,000+ businesses.",
+  "gaps": [
+    "Adjusted EBITA specific figures (EBITDA found but not specific EBITA)",
+    "H1 2025 specific results",
+    "LTM to Q2 2026 results",
+    "Property, plant and equipment capex (acquisition capex found but not traditional capex)",
+    "Detailed Q2 2025 specific revenue figure",
+    "Specific diluted shares outstanding count for FY2025",
+    "Current assets and current liabilities detail",
+    "Depreciation and amortization breakdown"
+  ]
+}

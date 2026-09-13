@@ -1,0 +1,350 @@
+{
+  "topic": "capital_allocation",
+  "company": "Constellation Software Inc.",
+  "period_start": 2016,
+  "period_end": 2026,
+  "reporting_currency": "USD",
+  "figure_count": 47,
+  "figures": [
+    {
+      "item": "Annual cash deployed acquisitions",
+      "period": "2016",
+      "value": 178.1,
+      "unit": "millions USD",
+      "source_url": "https://www.sedarplus.ca/csa-party/records/document.html?id=f773c6e5e3b902e73f73f4b0482df0b51868dc8494d2e5cb048ca2126cb3dd5e"
+    },
+    {
+      "item": "Annual cash deployed acquisitions",
+      "period": "2018",
+      "value": 1743,
+      "unit": "millions USD",
+      "source_url": "https://iocharts.io/en/blog/Constellation-Software%27s-stock-analysis-csu/"
+    },
+    {
+      "item": "Annual cash deployed acquisitions",
+      "period": "2019",
+      "value": 549,
+      "unit": "millions USD",
+      "source_url": "https://www.globenewswire.com/news-release/2020/02/13/1984977/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2019-and-Declares-Quarterly-Dividend.html"
+    },
+    {
+      "item": "Annual cash deployed acquisitions",
+      "period": "2020",
+      "value": 1743,
+      "unit": "millions USD",
+      "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/statutory-filings/2019-annual-information-form---final.pdf"
+    },
+    {
+      "item": "Annual cash deployed acquisitions",
+      "period": "2021",
+      "value": 1500,
+      "unit": "millions USD",
+      "source_url": "https://nospeedlimit.substack.com/p/constellation-software-the-art-of"
+    },
+    {
+      "item": "Annual cash deployed acquisitions",
+      "period": "2022",
+      "value": 1600,
+      "unit": "millions USD",
+      "source_url": "https://www.speedwellmemos.com/p/constellation-software-2022-earnings"
+    },
+    {
+      "item": "Annual cash deployed acquisitions",
+      "period": "2023",
+      "value": 1792,
+      "unit": "millions USD",
+      "source_url": "https://www.globenewswire.com/news-release/2025/03/07/3039269/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2024-and-Declares-Quarterly-Dividend.html"
+    },
+    {
+      "item": "Annual cash deployed acquisitions",
+      "period": "2024",
+      "value": 1683,
+      "unit": "millions USD",
+      "source_url": "https://thepursuitofcompounding.substack.com/p/constellation-software-inc-fiscal"
+    },
+    {
+      "item": "Annual cash deployed acquisitions",
+      "period": "2025",
+      "value": 1579,
+      "unit": "millions USD",
+      "source_url": "https://www.globenewswire.com/news-release/2026/03/09/3251696/0/en/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2025-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "First half acquisitions deployed",
+      "period": "H1 2026",
+      "value": 1700,
+      "unit": "millions USD",
+      "source_url": "https://www.mbi-deepdives.com/csu2q26/"
+    },
+    {
+      "item": "Acquisition consideration including commitments",
+      "period": "H1 2026 plus early Q3",
+      "value": 2520,
+      "unit": "millions USD",
+      "source_url": "https://www.mbi-deepdives.com/csu2q26/"
+    },
+    {
+      "item": "Allscripts acquisition fixed consideration",
+      "period": "2022",
+      "value": 670,
+      "unit": "millions USD",
+      "source_url": "https://www.csisoftware.com/category/press-releases/2022/03/02/constellation-software-s-harris-operating-group-acquires-allscripts-hospitals-and-large-physician-practices-business-segment"
+    },
+    {
+      "item": "Allscripts acquisition total consideration",
+      "period": "2022",
+      "value": 700,
+      "unit": "millions USD",
+      "source_url": "https://www.fiercehealthcare.com/health-tech/allscripts-sells-hospital-business-unit-700m-deal-constellation-subsidiary"
+    },
+    {
+      "item": "Allscripts contingent consideration",
+      "period": "2022",
+      "value": 30,
+      "unit": "millions USD",
+      "source_url": "https://www.csisoftware.com/category/press-releases/2022/03/02/constellation-software-s-harris-operating-group-acquires-allscripts-hospitals-and-large-physician-practices-business-segment"
+    },
+    {
+      "item": "Allscripts business revenue FY2021",
+      "period": "2021",
+      "value": 928,
+      "unit": "millions USD",
+      "source_url": "https://www.csisoftware.com/category/press-releases/2022/03/02/constellation-software-s-harris-operating-group-acquires-allscripts-hospitals-and-large-physician-practices-business-segment"
+    },
+    {
+      "item": "Topicus spin-out dividend issued",
+      "period": "2021-01-05",
+      "value": 1.859817814,
+      "unit": "shares per CSU share",
+      "source_url": "https://www.csisoftware.com/category/press-releases/2021/01/05/constellation-software-inc.-completes-spin-out-of-topicus.com-inc"
+    },
+    {
+      "item": "Topicus acquisition consideration",
+      "period": "2021-01-04",
+      "value": 39412385,
+      "unit": "shares acquired of Topicus",
+      "source_url": "https://www.csisoftware.com/category/press-releases/2021/01/05/constellation-software-inc.-completes-spin-out-of-topicus.com-inc"
+    },
+    {
+      "item": "WideOrbit acquisition revenue FY2021",
+      "period": "2021",
+      "value": 167,
+      "unit": "millions USD",
+      "source_url": "https://www.csisoftware.com/category/press-releases/2023/02/23/constellation-software-inc.-and-lumine-group-inc.-complete-purchase-of-wideorbit-inc.-and-lumine-group-spin-out"
+    },
+    {
+      "item": "WideOrbit LUM equity consideration",
+      "period": "2023-02-22",
+      "value": 13.83,
+      "unit": "percent of Lumine Group fully diluted shares",
+      "source_url": "https://www.csisoftware.com/category/press-releases/2023/02/23/constellation-software-inc.-and-lumine-group-inc.-complete-purchase-of-wideorbit-inc.-and-lumine-group-spin-out"
+    },
+    {
+      "item": "Lumine Group spin-out dividend issued",
+      "period": "2023-02-22",
+      "value": 3.0003833,
+      "unit": "shares per CSU share",
+      "source_url": "https://www.csisoftware.com/category/press-releases/2023/02/23/constellation-software-inc.-and-lumine-group-inc.-complete-purchase-of-wideorbit-inc.-and-lumine-group-spin-out"
+    },
+    {
+      "item": "Black Knight Empower acquisition completion date",
+      "period": "2023-09-15",
+      "value": null,
+      "unit": "date",
+      "source_url": "https://www.csisoftware.com/category/press-releases/2023/09/15/constellation-software-s-perseus-group-completes-acquisition-of-black-knight-s-empower-and-optimal-blue-businesses"
+    },
+    {
+      "item": "Black Knight merger valuation",
+      "period": "2023",
+      "value": 11700,
+      "unit": "millions USD",
+      "source_url": "https://www.jaxdailyrecord.com/news/2023/mar/07/black-knight-selling-empower-to-constellation-software/"
+    },
+    {
+      "item": "Annual acquisitions count",
+      "period": "2022",
+      "value": 134,
+      "unit": "acquisitions",
+      "source_url": "https://www.speedwellmemos.com/p/constellation-software-2022-earnings"
+    },
+    {
+      "item": "Median deal size",
+      "period": "2022",
+      "value": 3.3,
+      "unit": "millions USD",
+      "source_url": "https://www.speedwellmemos.com/p/constellation-software-2022-earnings"
+    },
+    {
+      "item": "Annual acquisitions count",
+      "period": "2020",
+      "value": 90,
+      "unit": "acquisitions (90+)",
+      "source_url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/constellation-software-s-strategic-pivot-a-billion-dollar-capital/"
+    },
+    {
+      "item": "Annual acquisitions count",
+      "period": "2019",
+      "value": 3,
+      "unit": "acquisitions (disclosed major)",
+      "source_url": "https://www.morningstar.com/company-reports/1489930-constellation-softwares-acquisition-playbook-continues-to-shine-bright"
+    },
+    {
+      "item": "Hurdle rate IRR target",
+      "period": "2024-2026",
+      "value": 25,
+      "unit": "percent IRR",
+      "source_url": "https://www.morningstar.com/company-reports/1489931-constellation-software-hurdle-rate-discipline-remains-the-cash-compounders-north-star"
+    },
+    {
+      "item": "Hurdle rate range",
+      "period": "2024-2026",
+      "value": null,
+      "unit": "20-30 percent IRR",
+      "source_url": "https://inpractise.com/articles/constellation-software-competition-hurdle-rates-and-deal-flow"
+    },
+    {
+      "item": "ROIC",
+      "period": "2025",
+      "value": 14.8,
+      "unit": "percent",
+      "source_url": "https://thepursuitofcompounding.substack.com/p/constellation-software-inc-fiscal"
+    },
+    {
+      "item": "ROIC",
+      "period": "June 2026",
+      "value": 10.97,
+      "unit": "percent",
+      "source_url": "https://www.gurufocus.com/term/roic/CNSWF"
+    },
+    {
+      "item": "ROIC TTM",
+      "period": "2026",
+      "value": 11.97,
+      "unit": "percent",
+      "source_url": "https://www.gurufocus.com/term/roic/CNSWF"
+    },
+    {
+      "item": "Shares outstanding",
+      "period": "2025-12-31",
+      "value": 21191530,
+      "unit": "shares",
+      "source_url": "https://www.globenewswire.com/news-release/2026/03/09/3251696/0/en/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2025-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "Shares outstanding",
+      "period": "2026-03-09",
+      "value": 21190000,
+      "unit": "shares (approximate)",
+      "source_url": "https://finance.yahoo.com/quote/CSU.TO/key-statistics/"
+    },
+    {
+      "item": "Shares outstanding change",
+      "period": "2024-2025",
+      "value": 0,
+      "unit": "percent change",
+      "source_url": "https://www.csisoftware.com/docs/default-source/press-releases/csi---press-release-q1-2025---final.pdf"
+    },
+    {
+      "item": "Quarterly dividend",
+      "period": "2024-2026",
+      "value": 4.0,
+      "unit": "annually USD",
+      "source_url": "https://www.investing.com/equities/constellation-software-inc-dividends"
+    },
+    {
+      "item": "Reinvestment rate",
+      "period": "2023",
+      "value": 154.5,
+      "unit": "percent",
+      "source_url": "https://www.globenewswire.com/news-release/2025/03/07/3039269/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2024-and-Declares-Quarterly-Dividend.html"
+    },
+    {
+      "item": "Reinvestment rate",
+      "period": "2024",
+      "value": 114.3,
+      "unit": "percent",
+      "source_url": "https://www.globenewswire.com/news-release/2025/03/07/3039269/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2024-and-Declares-Quarterly-Dividend.html"
+    },
+    {
+      "item": "Reinvestment rate",
+      "period": "2025",
+      "value": 89.9,
+      "unit": "percent",
+      "source_url": "https://www.globenewswire.com/news-release/2026/03/09/3251696/0/en/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2025-and-declares-quarterly-dividend.html"
+    },
+    {
+      "item": "Mark Leonard resignation date",
+      "period": "2025-09-25",
+      "value": null,
+      "unit": "date",
+      "source_url": "https://www.globenewswire.com/news-release/2025/09/25/3156334/0/en/Constellation-Software-Inc-Announces-the-Resignation-of-Mark-Leonard-and-Appointment-of-Mark-Miller-as-President-of-Constellation-Software.html"
+    },
+    {
+      "item": "Mark Miller appointment as President",
+      "period": "2025-09-25",
+      "value": null,
+      "unit": "date",
+      "source_url": "https://www.globenewswire.com/news-release/2025/09/25/3156334/0/en/Constellation-Software-Inc-Announces-the-Resignation-of-Mark-Leonard-and-Appointment-of-Mark-Miller-as-President-of-Constellation-Software.html"
+    },
+    {
+      "item": "Q1 2026 acquisitions deployed",
+      "period": "Q1 2026",
+      "value": 809,
+      "unit": "millions USD",
+      "source_url": "https://www.levelheadedinvesting.com/p/constellation-software-csu-q1-2026-results-the-market-feared-ai-constellation-deployed-1-6-billion"
+    },
+    {
+      "item": "Q2 2026 acquisitions deployed",
+      "period": "Q2 2026",
+      "value": 893,
+      "unit": "millions USD (cash plus deferred)",
+      "source_url": "https://www.mbi-deepdives.com/csu2q26/"
+    },
+    {
+      "item": "Q3 2026 YTD acquisition commitments",
+      "period": "First 6 weeks Q3 2026",
+      "value": 818,
+      "unit": "millions USD (closed or committed)",
+      "source_url": "https://www.mbi-deepdives.com/csu2q26/"
+    },
+    {
+      "item": "Q1 2026 acquisition cohort margin",
+      "period": "Q1 2026",
+      "value": -16,
+      "unit": "percent",
+      "source_url": "https://www.mbi-deepdives.com/csu2q26/"
+    },
+    {
+      "item": "Q2 2026 acquisition cohort margin",
+      "period": "Q2 2026",
+      "value": 16,
+      "unit": "percent",
+      "source_url": "https://www.mbi-deepdives.com/csu2q26/"
+    },
+    {
+      "item": "DerbySoft acquisition price to revenue multiple",
+      "period": "2026",
+      "value": 4.0,
+      "unit": "x revenue",
+      "source_url": "https://www.mbi-deepdives.com/csu2q26/"
+    },
+    {
+      "item": "DerbySoft acquisition price CAD",
+      "period": "2026",
+      "value": 400,
+      "unit": "millions CAD",
+      "source_url": "https://www.mbi-deepdives.com/csu2q26/"
+    }
+  ],
+  "notes": "Capital allocation data for Constellation Software from 2016-2026 includes annual cash deployed on acquisitions, major deal announcements (Allscripts $700M, Black Knight Empower, Topicus and Lumine spin-outs), hurdle rates, ROIC performance, share count history, and quarterly deployment information for 2026. Mark Leonard resigned as President in September 2025 and was succeeded by Mark Miller (COO). Leonard stepped down from the Board in March 2026 but continues as an advisor focused on the PEMS (Permanent Engaged Minority Shareholder) strategy. Company maintains hurdle rates of 20-30% IRR (~25% target) with ROIC declining from historical highs to 10.97% as of June 2026. Share count has remained stable at ~21.2M shares with no significant buybacks in recent years.",
+  "gaps": [
+    "Precise annual cash deployed for 2017 and 2018 exact figure (2018 estimate provided is $1.743B but needs verification)",
+    "Complete breakdown of acquisitions by year for 2016-2021 (only partial data available)",
+    "Specific special dividend amounts in USD for Topicus and Lumine spin-outs (share ratios provided instead)",
+    "Year-by-year ROIC figures for 2020-2024 (only 2025 and 2026 YTD available)",
+    "Complete share count history for individual years 2016-2023 (only 2024-2026 data confirmed stable)",
+    "President/shareholder letter contents for 2026 (no formal annual letter issued; Mark Leonard ceased writing annual letters after 2018)",
+    "Specific acquisition commitments and guidance for remainder of 2026",
+    "Historical ROIC calculations methodology and year-over-year comparisons"
+  ]
+}

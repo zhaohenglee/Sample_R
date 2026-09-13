@@ -1,0 +1,30 @@
+{
+  "stage": "0 Scope",
+  "date": "2026-09-13",
+  "company": "Constellation Software Inc.",
+  "ticker": "TSX: CSU (OTC: CNSWF)",
+  "reporting_currency": "USD",
+  "fiscal_year_end": "December 31",
+  "question": "Should an investor buy Constellation Software at the current share price? Deliver a Buy or Not Buy call with the conditions under which it flips.",
+  "periods": ["FY2023", "FY2024", "FY2025", "Q2 2025", "Q2 2026", "H1 2025", "H1 2026", "LTM to Q2 2026"],
+  "latest_filings": ["FY2025 annual results (released Feb/Mar 2026)", "Q1 2026 (May 2026)", "Q2 2026 (Aug 11, 2026)"],
+  "peer_set": ["Topicus.com (TSX: TOI)", "Lumine Group (TSXV: LMN)", "Roper Technologies (NASDAQ: ROP)", "Tyler Technologies (NYSE: TYL)", "Descartes Systems (TSX: DSG)", "Open Text (TSX: OTEX)"],
+  "user_thesis": "The user, drawing on direct industry experience deploying AI, holds that sector specific (vertical market) software will not be replaced by Claude or other LLM based systems. The analysis must test this thesis honestly: state where the evidence supports it and where it does not, rather than assume it.",
+  "thesis_tests": [
+    "Is organic growth or maintenance attrition deteriorating in a way consistent with AI substitution?",
+    "Which parts of the VMS moat (workflow lock in, regulatory data, integration, switching cost) does an LLM erode, and which does it not?",
+    "Has the market already priced AI disruption into CSU's multiple, and by how much versus its own history and peers?",
+    "Does the capital allocation engine (acquisition spend, hurdle rates, returns) still work if VMS multiples compress?"
+  ],
+  "deliverable": "report.md with an executive summary written by Fable 5.1 giving a Buy or Not Buy call, plus review.md, metrics.xlsx and ledger.xlsx",
+  "data_limitations": "Network policy in this environment allows WebSearch only. Filing PDFs, the company site, SEDAR+ and news sites cannot be fetched. Figures come from press release text and financial data sites as surfaced in search results. Each figure must carry its source URL. Ten spot checks are traced to those source records instead of filing pages.",
+  "routing": {
+    "stage1_intake": "Haiku 4.5, bulk search and extract",
+    "stage2_normalize": "Sonnet 5 low",
+    "stage3_compute": "Python script written by Sonnet 5 low, no model arithmetic",
+    "stage4_analyze": "Opus 5 high or xhigh, three lenses",
+    "stage5_report": "Sonnet 5 medium",
+    "stage6_review_and_executive_summary": "Fable 5.1, one pass, at the user's explicit request"
+  },
+  "signed_by": "user request in session, 2026-09-13"
+}

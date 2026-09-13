@@ -1,0 +1,382 @@
+{
+  "topic": "Constellation Software FY2024 Annual Results",
+  "file": "/home/user/Sample_R/analysis/constellation-software/stage1/fy2024.json",
+  "figure_count": 42,
+  "figures": [
+    {
+      "item": "Total Revenue",
+      "period": "FY2024",
+      "value": 10066,
+      "unit": "USD millions",
+      "source_url": "https://www.csisoftware.com/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2024-and-declares-quarterly-dividend/",
+      "source_title": "Constellation Software Inc. Announces Results for Q4 and FY2024"
+    },
+    {
+      "item": "Total Revenue",
+      "period": "FY2023",
+      "value": 8407,
+      "unit": "USD millions",
+      "source_url": "https://www.csisoftware.com/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2024-and-declares-quarterly-dividend/",
+      "source_title": "Constellation Software Inc. Announces Results for Q4 and FY2024"
+    },
+    {
+      "item": "Total Revenue Growth",
+      "period": "FY2024 vs FY2023",
+      "value": 20,
+      "unit": "percent",
+      "source_url": "https://www.csisoftware.com/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2024-and-declares-quarterly-dividend/",
+      "source_title": "Constellation Software Inc. Announces Results for Q4 and FY2024"
+    },
+    {
+      "item": "Organic Revenue Growth",
+      "period": "FY2024",
+      "value": 2,
+      "unit": "percent",
+      "source_url": "https://www.globenewswire.com/news-release/2025/03/07/3039269/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2024-and-Declares-Quarterly-Dividend.html",
+      "source_title": "Globe Newswire - Constellation Software Q4 2024 Results"
+    },
+    {
+      "item": "Maintenance and Other Recurring Revenue",
+      "period": "FY2024",
+      "value": 7396,
+      "unit": "USD millions",
+      "source_url": "https://www.csisoftware.com/docs/default-source/press-releases/csi---press-release-q4-2024---final.pdf?sfvrsn=a6da3ec_3/+CSI---Press-Release-Q4-2024---Final+.pdf",
+      "source_title": "Constellation Software Q4 2024 Press Release"
+    },
+    {
+      "item": "Professional Services Revenue",
+      "period": "FY2024",
+      "value": 1975,
+      "unit": "USD millions",
+      "source_url": "https://www.csisoftware.com/docs/default-source/press-releases/csi-financial-statements-q424---final.pdf?sfvrsn=191f7ac2_3/+CSI-Financial-Statements-Q424---Final",
+      "source_title": "Constellation Software Financial Statements Q4 2024"
+    },
+    {
+      "item": "License Revenue",
+      "period": "FY2024",
+      "value": 393,
+      "unit": "USD millions",
+      "source_url": "https://www.csisoftware.com/docs/default-source/press-releases/csi-financial-statements-q424---final.pdf?sfvrsn=191f7ac2_3/+CSI-Financial-Statements-Q424---Final",
+      "source_title": "Constellation Software Financial Statements Q4 2024"
+    },
+    {
+      "item": "Hardware and Other Revenue",
+      "period": "FY2024",
+      "value": 302,
+      "unit": "USD millions",
+      "source_url": "https://www.csisoftware.com/docs/default-source/press-releases/csi-financial-statements-q424---final.pdf?sfvrsn=191f7ac2_3/+CSI-Financial-Statements-Q424---Final",
+      "source_title": "Constellation Software Financial Statements Q4 2024"
+    },
+    {
+      "item": "Net Income Attributable to Common Shareholders",
+      "period": "FY2024",
+      "value": 731,
+      "unit": "USD millions",
+      "source_url": "https://www.globenewswire.com/news-release/2025/03/07/3039269/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2024-and-Declares-Quarterly-Dividend.html",
+      "source_title": "Globe Newswire - Constellation Software Q4 2024 Results"
+    },
+    {
+      "item": "Net Income Attributable to Common Shareholders",
+      "period": "FY2023",
+      "value": 565,
+      "unit": "USD millions",
+      "source_url": "https://www.globenewswire.com/news-release/2025/03/07/3039269/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2024-and-Declares-Quarterly-Dividend.html",
+      "source_title": "Globe Newswire - Constellation Software Q4 2024 Results"
+    },
+    {
+      "item": "Diluted Earnings Per Share",
+      "period": "FY2024",
+      "value": 34.48,
+      "unit": "USD",
+      "source_url": "https://www.globenewswire.com/news-release/2025/03/07/3039269/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2024-and-Declares-Quarterly-Dividend.html",
+      "source_title": "Globe Newswire - Constellation Software Q4 2024 Results"
+    },
+    {
+      "item": "Diluted Earnings Per Share",
+      "period": "FY2023",
+      "value": 26.67,
+      "unit": "USD",
+      "source_url": "https://www.globenewswire.com/news-release/2025/03/07/3039269/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2024-and-Declares-Quarterly-Dividend.html",
+      "source_title": "Globe Newswire - Constellation Software Q4 2024 Results"
+    },
+    {
+      "item": "Operating Income",
+      "period": "FY2024",
+      "value": 2178,
+      "unit": "USD millions",
+      "source_url": "https://www.alphaquery.com/stock/CNSWF/fundamentals/annual/ebitda",
+      "source_title": "AlphaQuery - Constellation Software Fundamentals"
+    },
+    {
+      "item": "EBITDA",
+      "period": "FY2024",
+      "value": 2690,
+      "unit": "USD millions",
+      "source_url": "https://www.investing.com/pro/TSX:CSU/explorer/ebitda",
+      "source_title": "Investing.com - Constellation Software EBITDA"
+    },
+    {
+      "item": "Amortization of Intangible Assets",
+      "period": "FY2024",
+      "value": 1044,
+      "unit": "USD millions",
+      "source_url": "https://www.csisoftware.com/docs/default-source/press-releases/q4-2024-shareholder-report.pdf?sfvrsn=2b888200_3/+Q4-2024-Shareholder-Report+.pdf",
+      "source_title": "Constellation Software Q4 2024 Shareholder Report"
+    },
+    {
+      "item": "Amortization of Intangible Assets",
+      "period": "FY2023",
+      "value": 860,
+      "unit": "USD millions",
+      "source_url": "https://www.csisoftware.com/docs/default-source/press-releases/q4-2024-shareholder-report.pdf?sfvrsn=2b888200_3/+Q4-2024-Shareholder-Report+.pdf",
+      "source_title": "Constellation Software Q4 2024 Shareholder Report"
+    },
+    {
+      "item": "Depreciation of Property and Equipment",
+      "period": "FY2024",
+      "value": 182,
+      "unit": "USD millions",
+      "source_url": "https://www.csisoftware.com/docs/default-source/press-releases/q4-2024-shareholder-report.pdf?sfvrsn=2b888200_3/+Q4-2024-Shareholder-Report+.pdf",
+      "source_title": "Constellation Software Q4 2024 Shareholder Report"
+    },
+    {
+      "item": "Depreciation of Property and Equipment",
+      "period": "FY2023",
+      "value": 161,
+      "unit": "USD millions",
+      "source_url": "https://www.csisoftware.com/docs/default-source/press-releases/q4-2024-shareholder-report.pdf?sfvrsn=2b888200_3/+Q4-2024-Shareholder-Report+.pdf",
+      "source_title": "Constellation Software Q4 2024 Shareholder Report"
+    },
+    {
+      "item": "Cash Flow from Operating Activities",
+      "period": "FY2024",
+      "value": 2196,
+      "unit": "USD millions",
+      "source_url": "https://www.csisoftware.com/docs/default-source/press-releases/q4-2024-shareholder-report.pdf?sfvrsn=2b888200_3/+Q4-2024-Shareholder-Report+.pdf",
+      "source_title": "Constellation Software Q4 2024 Shareholder Report"
+    },
+    {
+      "item": "Cash Flow from Operating Activities",
+      "period": "FY2023",
+      "value": 1779,
+      "unit": "USD millions",
+      "source_url": "https://www.csisoftware.com/docs/default-source/press-releases/q4-2024-shareholder-report.pdf?sfvrsn=2b888200_3/+Q4-2024-Shareholder-Report+.pdf",
+      "source_title": "Constellation Software Q4 2024 Shareholder Report"
+    },
+    {
+      "item": "Free Cash Flow Available to Shareholders (FCFA2S)",
+      "period": "FY2024",
+      "value": 1472,
+      "unit": "USD millions",
+      "source_url": "https://www.csisoftware.com/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2024-and-declares-quarterly-dividend/",
+      "source_title": "Constellation Software Inc. Announces Results for Q4 and FY2024"
+    },
+    {
+      "item": "Free Cash Flow Available to Shareholders (FCFA2S)",
+      "period": "FY2023",
+      "value": 1160,
+      "unit": "USD millions",
+      "source_url": "https://www.csisoftware.com/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2024-and-declares-quarterly-dividend/",
+      "source_title": "Constellation Software Inc. Announces Results for Q4 and FY2024"
+    },
+    {
+      "item": "Free Cash Flow Available to Shareholders (FCFA2S) Growth",
+      "period": "FY2024 vs FY2023",
+      "value": 27,
+      "unit": "percent",
+      "source_url": "https://www.csisoftware.com/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2024-and-declares-quarterly-dividend/",
+      "source_title": "Constellation Software Inc. Announces Results for Q4 and FY2024"
+    },
+    {
+      "item": "Cash Spent on Acquisitions",
+      "period": "FY2024",
+      "value": 1792,
+      "unit": "USD millions",
+      "source_url": "https://www.globenewswire.com/news-release/2025/03/07/3039269/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2024-and-Declares-Quarterly-Dividend.html",
+      "source_title": "Globe Newswire - Constellation Software Q4 2024 Results"
+    },
+    {
+      "item": "Cash and Cash Equivalents",
+      "period": "December 31, 2024",
+      "value": 2770,
+      "unit": "USD millions",
+      "source_url": "https://www.globenewswire.com/news-release/2025/03/07/3039269/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2024-and-Declares-Quarterly-Dividend.html",
+      "source_title": "Globe Newswire - Constellation Software Q4 2024 Results"
+    },
+    {
+      "item": "Cash and Cash Equivalents",
+      "period": "December 31, 2023",
+      "value": 2074,
+      "unit": "USD millions",
+      "source_url": "https://www.globenewswire.com/news-release/2025/03/07/3039269/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2024-and-Declares-Quarterly-Dividend.html",
+      "source_title": "Globe Newswire - Constellation Software Q4 2024 Results"
+    },
+    {
+      "item": "Total Debt",
+      "period": "December 31, 2024",
+      "value": 4533,
+      "unit": "USD millions",
+      "source_url": "https://finance.yahoo.com/quote/CNSWF/balance-sheet/",
+      "source_title": "Yahoo Finance - Constellation Software Balance Sheet"
+    },
+    {
+      "item": "Total Debt",
+      "period": "December 31, 2023",
+      "value": 3876,
+      "unit": "USD millions",
+      "source_url": "https://finance.yahoo.com/quote/CNSWF/balance-sheet/",
+      "source_title": "Yahoo Finance - Constellation Software Balance Sheet"
+    },
+    {
+      "item": "Common Shares Outstanding",
+      "period": "December 31, 2024",
+      "value": 21.19,
+      "unit": "millions",
+      "source_url": "https://www.macrotrends.net/stocks/charts/CNSWF/constellation-software/shares-outstanding",
+      "source_title": "MacroTrends - Constellation Software Shares Outstanding"
+    },
+    {
+      "item": "Quarterly Dividend Declared",
+      "period": "Q4 2024",
+      "value": 1.00,
+      "unit": "USD per share",
+      "source_url": "https://www.csisoftware.com/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2024-and-declares-quarterly-dividend/",
+      "source_title": "Constellation Software Inc. Announces Results for Q4 and FY2024"
+    },
+    {
+      "item": "Annual Dividend (4 Quarters)",
+      "period": "FY2024",
+      "value": 4.00,
+      "unit": "USD per share",
+      "source_url": "https://www.investing.com/equities/constellation-software-inc-dividends",
+      "source_title": "Investing.com - Constellation Software Dividends"
+    },
+    {
+      "item": "Total Assets",
+      "period": "December 31, 2024",
+      "value": 12863,
+      "unit": "USD millions",
+      "source_url": "https://finance.yahoo.com/quote/CNSWF/balance-sheet/",
+      "source_title": "Yahoo Finance - Constellation Software Balance Sheet"
+    },
+    {
+      "item": "Total Liabilities",
+      "period": "December 31, 2024",
+      "value": 9576,
+      "unit": "USD millions",
+      "source_url": "https://finance.yahoo.com/quote/CNSWF/balance-sheet/",
+      "source_title": "Yahoo Finance - Constellation Software Balance Sheet"
+    },
+    {
+      "item": "Total Equity",
+      "period": "December 31, 2024",
+      "value": 3287,
+      "unit": "USD millions",
+      "source_url": "https://finance.yahoo.com/quote/CNSWF/balance-sheet/",
+      "source_title": "Yahoo Finance - Constellation Software Balance Sheet"
+    },
+    {
+      "item": "Q4 Revenue",
+      "period": "Q4 2024",
+      "value": 2703,
+      "unit": "USD millions",
+      "source_url": "https://www.globenewswire.com/news-release/2025/03/07/3039269/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2024-and-Declares-Quarterly-Dividend.html",
+      "source_title": "Globe Newswire - Constellation Software Q4 2024 Results"
+    },
+    {
+      "item": "Q4 Revenue",
+      "period": "Q4 2023",
+      "value": 2323,
+      "unit": "USD millions",
+      "source_url": "https://www.globenewswire.com/news-release/2025/03/07/3039269/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2024-and-Declares-Quarterly-Dividend.html",
+      "source_title": "Globe Newswire - Constellation Software Q4 2024 Results"
+    },
+    {
+      "item": "Q4 Revenue Growth",
+      "period": "Q4 2024 vs Q4 2023",
+      "value": 16,
+      "unit": "percent",
+      "source_url": "https://www.globenewswire.com/news-release/2025/03/07/3039269/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2024-and-Declares-Quarterly-Dividend.html",
+      "source_title": "Globe Newswire - Constellation Software Q4 2024 Results"
+    },
+    {
+      "item": "Q4 Organic Revenue Growth",
+      "period": "Q4 2024",
+      "value": 1,
+      "unit": "percent",
+      "source_url": "https://www.globenewswire.com/news-release/2025/03/07/3039269/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2024-and-Declares-Quarterly-Dividend.html",
+      "source_title": "Globe Newswire - Constellation Software Q4 2024 Results"
+    },
+    {
+      "item": "Q4 Organic Revenue Growth (FX Adjusted)",
+      "period": "Q4 2024",
+      "value": 2,
+      "unit": "percent",
+      "source_url": "https://www.globenewswire.com/news-release/2025/03/07/3039269/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2024-and-Declares-Quarterly-Dividend.html",
+      "source_title": "Globe Newswire - Constellation Software Q4 2024 Results"
+    },
+    {
+      "item": "Q4 Net Income Attributable to Common Shareholders",
+      "period": "Q4 2024",
+      "value": 285,
+      "unit": "USD millions",
+      "source_url": "https://www.globenewswire.com/news-release/2025/03/07/3039269/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2024-and-Declares-Quarterly-Dividend.html",
+      "source_title": "Globe Newswire - Constellation Software Q4 2024 Results"
+    },
+    {
+      "item": "Q4 Net Income Attributable to Common Shareholders",
+      "period": "Q4 2023",
+      "value": 141,
+      "unit": "USD millions",
+      "source_url": "https://www.globenewswire.com/news-release/2025/03/07/3039269/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2024-and-Declares-Quarterly-Dividend.html",
+      "source_title": "Globe Newswire - Constellation Software Q4 2024 Results"
+    },
+    {
+      "item": "Q4 Diluted Earnings Per Share",
+      "period": "Q4 2024",
+      "value": 13.44,
+      "unit": "USD",
+      "source_url": "https://www.globenewswire.com/news-release/2025/03/07/3039269/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2024-and-Declares-Quarterly-Dividend.html",
+      "source_title": "Globe Newswire - Constellation Software Q4 2024 Results"
+    },
+    {
+      "item": "Q4 Diluted Earnings Per Share",
+      "period": "Q4 2023",
+      "value": 6.65,
+      "unit": "USD",
+      "source_url": "https://www.globenewswire.com/news-release/2025/03/07/3039269/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2024-and-Declares-Quarterly-Dividend.html",
+      "source_title": "Globe Newswire - Constellation Software Q4 2024 Results"
+    },
+    {
+      "item": "Q4 Free Cash Flow Available to Shareholders (FCFA2S)",
+      "period": "Q4 2024",
+      "value": 482,
+      "unit": "USD millions",
+      "source_url": "https://www.csisoftware.com/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2024-and-declares-quarterly-dividend/",
+      "source_title": "Constellation Software Inc. Announces Results for Q4 and FY2024"
+    },
+    {
+      "item": "Q4 Free Cash Flow Available to Shareholders (FCFA2S)",
+      "period": "Q4 2023",
+      "value": 325,
+      "unit": "USD millions",
+      "source_url": "https://www.csisoftware.com/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2024-and-declares-quarterly-dividend/",
+      "source_title": "Constellation Software Inc. Announces Results for Q4 and FY2024"
+    },
+    {
+      "item": "Q4 Free Cash Flow Available to Shareholders (FCFA2S) Growth",
+      "period": "Q4 2024 vs Q4 2023",
+      "value": 48,
+      "unit": "percent",
+      "source_url": "https://www.csisoftware.com/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2024-and-declares-quarterly-dividend/",
+      "source_title": "Constellation Software Inc. Announces Results for Q4 and FY2024"
+    }
+  ],
+  "notes": "All figures are reported in USD. Data sourced from official Constellation Software press releases and financial statements for FY2024 (year ended December 31, 2024). The company reports in US dollars. Organic growth figures exclude effects of acquisitions and foreign exchange changes. Maintenance and other recurring revenue represents approximately 73% of total revenue and includes customer support fees, subscription fees, transaction revenues, managed services, and SaaS products.",
+  "gaps": [
+    "Adjusted EBITA - Not found in search results",
+    "Specific capex or property/equipment purchase amount - Only available indirectly through cash flow calculations",
+    "Earnings attributable to preferred shareholders - Search results provided consolidated net income but shareholder breakdown was not explicit",
+    "Monthly or rolling 12-month figures to Q2/Q3 2024 mid-year data"
+  ]
+}
