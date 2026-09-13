@@ -918,9 +918,51 @@ function evaluateRow(row: ApplyRow, rules: Rule[], includeEdited: boolean): RowO
 // fresh -- and skipped -- rather than clobbered. Dry-run mode never writes,
 // so it uses a plain (unlocked) select; its counts still reflect exactly
 // what a real run would do to the rows as they stood when read.
+//
+// `runner`, when given, is an already-open transaction handle (e.g. the
+// CSV import path's own db.transaction) that this call must join instead
+// of opening a nested one -- opening `db.transaction` again here would run
+// against a *different* pooled connection and commit independently of the
+// caller's transaction, breaking the "whole import is one transaction"
+// guarantee. Locking (`.for("update")`) still applies either way. Omitted
+// (the default), this preserves the exact standalone behavior above:
+// each batch gets its own transaction. Never used for the dry-run branch,
+// which takes no locks and has nothing to join.
+type RuleApplyRunner = Pick<typeof db, "select" | "update">;
+
+async function applyRuleBatch(
+  runner: RuleApplyRunner,
+  batchIds: number[],
+  rules: Rule[],
+  includeEdited: boolean,
+  now: Date,
+): Promise<{ matched: number; changed: number }> {
+  let matched = 0;
+  let changed = 0;
+  const rows: ApplyRow[] = await runner
+    .select(APPLY_ROW_COLUMNS)
+    .from(transactions)
+    .where(inArray(transactions.id, batchIds))
+    .for("update");
+
+  for (const row of rows) {
+    const outcome = evaluateRow(row, rules, includeEdited);
+    if (!outcome.matched) continue;
+    matched += 1;
+    if (!outcome.changed) continue;
+    changed += 1;
+    await runner
+      .update(transactions)
+      .set({ categoryId: outcome.categoryId, displayName: outcome.displayName, ruleId: outcome.ruleId, updatedAt: now })
+      .where(eq(transactions.id, row.id));
+  }
+  return { matched, changed };
+}
+
 export async function applyRulesToTransactions(
   txIds: number[],
   opts: ApplyRulesOptions = {},
+  runner?: RuleApplyRunner,
 ): Promise<ApplyRulesResult> {
   if (txIds.length === 0) return { matched: 0, changed: 0 };
 
@@ -945,26 +987,12 @@ export async function applyRulesToTransactions(
       continue;
     }
 
-    await db.transaction(async (tx) => {
-      const now = new Date();
-      const rows: ApplyRow[] = await tx
-        .select(APPLY_ROW_COLUMNS)
-        .from(transactions)
-        .where(inArray(transactions.id, batchIds))
-        .for("update");
-
-      for (const row of rows) {
-        const outcome = evaluateRow(row, rules, includeEdited);
-        if (!outcome.matched) continue;
-        matched += 1;
-        if (!outcome.changed) continue;
-        changed += 1;
-        await tx
-          .update(transactions)
-          .set({ categoryId: outcome.categoryId, displayName: outcome.displayName, ruleId: outcome.ruleId, updatedAt: now })
-          .where(eq(transactions.id, row.id));
-      }
-    });
+    const now = new Date();
+    const result = runner
+      ? await applyRuleBatch(runner, batchIds, rules, includeEdited, now)
+      : await db.transaction((tx) => applyRuleBatch(tx, batchIds, rules, includeEdited, now));
+    matched += result.matched;
+    changed += result.changed;
   }
 
   return { matched, changed };

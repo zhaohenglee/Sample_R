@@ -86,7 +86,12 @@ export const transactions = pgTable(
     isPending: boolean("is_pending").notNull().default(false),
     isRemoved: boolean("is_removed").notNull().default(false),
     userEdited: boolean("user_edited").notNull().default(false),
-    source: text("source").notNull().default("plaid"), // plaid | manual | csv
+    source: text("source").notNull().default("plaid"),
+    // Dedupe key for CSV imports: a hash of date, amount and the
+    // normalized description. Null for Plaid and hand-entered rows, which
+    // have their own identity. Scoped per account, so the same recurring
+    // charge in two accounts is two rows, not a duplicate.
+    importHash: text("import_hash"), // plaid | manual | csv
     createdAt: timestamp("created_at", { withTimezone: true }).notNull().defaultNow(),
     updatedAt: timestamp("updated_at", { withTimezone: true }).notNull().defaultNow(),
   },
@@ -94,6 +99,7 @@ export const transactions = pgTable(
     index("transactions_date_idx").on(t.date),
     index("transactions_account_idx").on(t.accountId),
     index("transactions_pending_idx").on(t.pendingTransactionId),
+    index("transactions_import_hash_idx").on(t.accountId, t.importHash),
   ],
 );
 
