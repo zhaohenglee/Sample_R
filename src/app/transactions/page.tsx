@@ -1,0 +1,101 @@
+import { eq } from "drizzle-orm";
+import { requireAuthPage } from "@/lib/auth";
+import { db, schema } from "@/db";
+import { accountLabel } from "@/lib/format";
+import { transactionListQuery, normalizeTransactionListParams } from "@/lib/transactions";
+import { TransactionsTable } from "@/components/TransactionsTable";
+import { ManualTransactionForm } from "@/components/ManualTransactionForm";
+
+export const dynamic = "force-dynamic";
+const PAGE = 100;
+
+type Params = { q?: string; account?: string; category?: string; from?: string; to?: string; page?: string };
+
+export default async function TransactionsPage({ searchParams }: { searchParams: Promise<Params> }) {
+  await requireAuthPage();
+  const p = await searchParams;
+  const { accounts, categories } = schema;
+  const page = Math.max(1, Number(p.page ?? 1));
+
+  // Shared with GET /api/export/transactions.csv (src/lib/transactions.ts)
+  // so the two can never disagree about which rows match these params, or
+  // in what order -- the export just reads every matching row instead of
+  // paginating.
+  // Same normalization the export route uses, so the two always agree
+  // about what a given URL means and a malformed filter is ignored.
+  const filters = normalizeTransactionListParams(p);
+  const rows = await transactionListQuery(filters).limit(PAGE).offset((page - 1) * PAGE);
+
+  const accountRows = await db
+    .select({ id: accounts.id, name: accounts.name, nickname: accounts.nickname, mask: accounts.mask })
+    .from(accounts)
+    .where(eq(accounts.hidden, false))
+    .orderBy(accounts.name);
+  const categoryRows = await db.select({ id: categories.id, name: categories.name }).from(categories).orderBy(categories.name);
+  // Not filtered on hidden: hiding an account is a display preference (it
+  // hides the account from lists/totals), not a lock on recording against
+  // it -- same reasoning as the account filter dropdown intentionally not
+  // needing this table at all, and unlike that dropdown, this list decides
+  // whether a manual account can be used, not just whether it's shown.
+  const manualAccountRows = await db
+    .select({ id: accounts.id, name: accounts.name, nickname: accounts.nickname })
+    .from(accounts)
+    .where(eq(accounts.source, "manual"))
+    .orderBy(accounts.name);
+
+  const qs = (over: Partial<Params>) => {
+    const u = new URLSearchParams();
+    for (const [k, v] of Object.entries({ ...p, ...over })) if (v) u.set(k, String(v));
+    return `?${u.toString()}`;
+  };
+
+  // Same five filter fields as the page itself, minus pagination -- the
+  // export streams every matching row, not just the current page.
+  const exportHref = (() => {
+    const u = new URLSearchParams();
+    for (const key of ["q", "account", "category", "from", "to"] as const) {
+      const v = p[key];
+      if (v) u.set(key, v);
+    }
+    const query = u.toString();
+    return `/api/export/transactions.csv${query ? `?${query}` : ""}`;
+  })();
+
+  return (
+    <div className="space-y-4">
+      <div className="flex items-center justify-between">
+        <h1 className="text-xl font-semibold">Transactions</h1>
+        <div className="flex items-center gap-3">
+          <a href={exportHref} className="rounded border px-3 py-1 text-sm text-gray-600 hover:bg-gray-50">
+            Export CSV
+          </a>
+          <ManualTransactionForm accounts={manualAccountRows} categories={categoryRows} />
+        </div>
+      </div>
+
+      <form className="flex flex-wrap gap-2 text-sm">
+        <input name="q" defaultValue={p.q} placeholder="Search" className="rounded border px-2 py-1" />
+        <select name="account" defaultValue={p.account ?? ""} className="rounded border px-2 py-1">
+          <option value="">All accounts</option>
+          {accountRows.map((a) => <option key={a.id} value={a.id}>{accountLabel(a)} {a.mask ? `••${a.mask}` : ""}</option>)}
+        </select>
+        <select name="category" defaultValue={p.category ?? ""} className="rounded border px-2 py-1">
+          <option value="">All categories</option>
+          <option value="none">Uncategorized</option>
+          {categoryRows.map((c) => <option key={c.id} value={c.id}>{c.name}</option>)}
+        </select>
+        <input type="date" name="from" defaultValue={p.from} className="rounded border px-2 py-1" />
+        <input type="date" name="to" defaultValue={p.to} className="rounded border px-2 py-1" />
+        <button className="rounded bg-gray-900 px-3 py-1 text-white">Filter</button>
+        <a href="/transactions" className="px-2 py-1 text-gray-500">Reset</a>
+      </form>
+
+      <TransactionsTable rows={rows} categories={categoryRows} />
+
+      <div className="flex justify-between text-sm">
+        {page > 1 ? <a href={qs({ page: String(page - 1) })} className="underline">Previous</a> : <span />}
+        {rows.length === PAGE && <a href={qs({ page: String(page + 1) })} className="underline">Next</a>}
+      </div>
+    </div>
+  );
+}

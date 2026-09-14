@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX "categories_plaid_primary_idx" ON "categories" USING btree ("plaid_primary") WHERE "categories"."plaid_primary" is not null;
