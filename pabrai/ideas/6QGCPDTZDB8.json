@@ -1,0 +1,140 @@
+{
+  "video_id": "6QGCPDTZDB8",
+  "date": "2026-03-16",
+  "title": "Mental Models for Running Startups and Businesses, SXSW 2026 on March 16, 2026",
+  "summary": "A SXSW 2026 talk laying out Pabrai's latticework of mental models for founders, inspired by Munger's Psychology of Human Misjudgment: take a simple idea seriously, eliminate white lies (Power vs. Force), deepest desire is destiny, heads-I-win-tails-I-don't-lose-much, start with no capital while keeping your job, clone shamelessly, prune friends who pull you down, hire for integrity/intelligence/energy, use incentives, listen to customers, and aim for 70% of a segmented market. He also credits The Founders Podcast, tells the 'fast is slow' story about Duan Yongping, and explains the blackjack progression that got him banned from El Cortez.",
+  "ideas": [
+    {
+      "idea": "Mental models are truths that surprise you when first encountered, and cascading them in the same direction produces Munger's lollapalooza effect where 1 plus 1 becomes 11.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "He rereads Munger's Psychology of Human Misjudgment in Poor Charlie's Almanack every year and says it took him decades to understand; combining models is the single model with the biggest impact on his life.",
+      "stocks_or_cases": ["Charlie Munger", "Poor Charlie's Almanack"]
+    },
+    {
+      "idea": "The bedrock model is to take a simple idea and take it seriously: once convinced an unusual idea reflects reality, you must go all in or none of the other models work.",
+      "topic": "Psychology & temperament",
+      "detail": "He describes himself as a collector of mental models who goes all in whenever he finds one that will help him.",
+      "stocks_or_cases": ["Charlie Munger"]
+    },
+    {
+      "idea": "Truth is not binary but a logarithmic scale, and eliminating even white lies moves you toward the Buffett-Munger end of the curve where trust and payoffs become exponential.",
+      "topic": "Psychology & temperament",
+      "detail": "From David Hawkins's Power vs. Force. Post-Hawkins he tells his partner honestly if a dress doesn't look good even if it costs date night. Costco never marks up more than 15%, so Jim Sinegal refused to price $14 closeout Levi's at $30, and that trust makes customers fanatical; Costco also pays far more than Walmart and its CEO began as a forklift operator.",
+      "stocks_or_cases": ["David Hawkins", "Costco", "Jim Sinegal", "Walmart", "Warren Buffett", "Charlie Munger"]
+    },
+    {
+      "idea": "Your deepest desire is your destiny: if you truly want something and go all in, the world reconfigures around you regardless of your expertise.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "He cites Marc Andreessen's 'the world is a very malleable place' and the Upanishads' 'as is your desire, so is your will... so is your destiny', plus David Senra's 'belief comes before capability', which applied to Ford, Microsoft and his own blackjack system.",
+      "stocks_or_cases": ["Marc Andreessen", "David Senra", "Ford", "Microsoft"]
+    },
+    {
+      "idea": "Structure every venture as heads I win, tails I don't lose much, because business allows asymmetric bets of 1,000 or 10,000 runs rather than baseball's four.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Per Jeff Bezos on asymmetric bets. More than 99% of businesses worldwide are started for under $10,000 and Walmart and IKEA started with nothing, so don't waste time raising money; without capital in, there is no downside.",
+      "stocks_or_cases": ["Jeff Bezos", "Walmart", "IKEA"]
+    },
+    {
+      "idea": "Don't quit your job to start a business; drop to just above firing level and put the other 40-50 of the week's 168 hours into the venture at zero cost.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Once the venture gets traction you switch over, and if it fails you return to square one with a new idea. His own success came on the third venture; he never quit until that one worked.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Be a shameless cloner: the world can accommodate multiples of the same thing, and Walmart and Microsoft were built entirely on copied ideas.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "Sam Walton visited more non-Walmart stores than any human and learned from a badly run store's candle display. Microsoft took Word from WordPerfect, Excel from Lotus, Windows from the Mac and bought MS-DOS; even its AI comes from outside. A Starbucks does not preclude another coffee shop.",
+      "stocks_or_cases": ["Walmart", "Sam Walton", "Microsoft", "Starbucks"]
+    },
+    {
+      "idea": "Hang out with people better than you and cut the ones who are worse, even at the cost of loyalty, because Joe the yo-yo will pull you down and letting him go makes room for Steve.",
+      "topic": "Psychology & temperament",
+      "detail": "Following Buffett's observation, taking the model seriously means listing your friends and being a harsh grader. Asked whether to boot people once you surpass them, he said of course: you have to choose between loyalty and growth. It sounds harsh but life becomes happier.",
+      "stocks_or_cases": ["Warren Buffett"]
+    },
+    {
+      "idea": "Hire slow, fire fast, and hire for capability not scale: all three of his Austin employees were hired as fresh graduates with high integrity, intelligence and energy.",
+      "topic": "Management & capital allocation",
+      "detail": "He has no full-time employee who had prior experience when hired and now cannot do without them because they know too much and are good. All three traits are required.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Incentives are far more powerful than you think, and every year Munger found they were even stronger than he previously believed.",
+      "topic": "Management & capital allocation",
+      "detail": "He recommends Copy This! by Kinko's founder Paul Orfalea and the Les Schwab tire-shop story as examples of using incentives smartly to scale an organization.",
+      "stocks_or_cases": ["Charlie Munger", "Paul Orfalea", "Kinko's", "Les Schwab"]
+    },
+    {
+      "idea": "It is easier to build a great business than a shoddy one, so pursue extreme quality, play the long game, never think of an exit, and make it your life's work.",
+      "topic": "Moats & business quality",
+      "detail": "Robert Pirsig's Zen and the Art of Motorcycle Maintenance conveys the intense pursuit of quality; a great foundation makes it easier to attract people, customers and the whole ecosystem.",
+      "stocks_or_cases": ["Robert Pirsig"]
+    },
+    {
+      "idea": "The purpose of business is to deliver a great product or service to humanity, not to make money; start just to get rich and you won't.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "If you serve humanity in a great way there is a basis to get rich and the journey is fun; the money follows.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Put a value on your own time and delegate everything that can be done for less; he valued his time at $50-100 an hour at his first company and a few thousand an hour today.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Almost anything can be done by someone else for under $100 an hour, certainly for a few hundred, so he works only on things he is intensely excited about and lets his team handle the rest.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Your startup idea won't work as conceived because it came from the ivory tower between your ears; customers will tell you the real pain point if you listen.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "A Chicago bank CIO kept forcing him back to slide 10; he expanded that one slide into a 20-slide deck, dropped the rest, and got a purchase order 15 minutes after the next presentation because it became a laser-guided missile on everyone's pain point.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "In any market two or three players hold 80-90% share, so 'I only need 2% of a $10 billion market' means you haven't segmented; aim to take 70% of a properly defined market.",
+      "topic": "Moats & business quality",
+      "detail": "This holds whether the product is paperclips or airplanes. Starting out targeting 2% of a large market leads to failure.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Listening to David Senra's Founders Podcast episode on a book extracts more than reading the book yourself in a fraction of the time, so he is going all in on every episode.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "He listens at least an hour a day, has done about 270 of 400+ episodes working backward to September 2020, and expects to finish in 6-10 months. Listening to every episode regardless of subject introduces randomness, which Munger championed. He also likes Business Breakdowns and Acquired.",
+      "stocks_or_cases": ["David Senra", "The Founders Podcast", "Charlie Munger"]
+    },
+    {
+      "idea": "Poor Charlie's Almanack, Cialdini's work and Kevin Kelly's recent book teach more than any college degree, and the best things in life are free.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "Robert Cialdini is a good friend; he discovered Kevin Kelly's book through The Founders Podcast.",
+      "stocks_or_cases": ["Robert Cialdini", "Kevin Kelly", "Poor Charlie's Almanack"]
+    },
+    {
+      "idea": "'Fast is slow': Duan Yongping's three-word annual message to OPPO and Vivo's management took them three months to decode, after which they killed the competition.",
+      "topic": "Management & capital allocation",
+      "detail": "Duan, a multi-billionaire living in the Bay Area, meets his China-based management team once a year for about 15 minutes; OPPO and Vivo rank just behind Apple and Samsung in phones.",
+      "stocks_or_cases": ["Duan Yongping", "OPPO", "Vivo", "Apple", "Samsung"]
+    },
+    {
+      "idea": "His lifetime blackjack ban from El Cortez came from a non-card-counting bet progression that exploited streaks against a 0.13% house edge.",
+      "topic": "Psychology & temperament",
+      "detail": "Rules: hold 200 times the table minimum, progress 10-10, 15-15, 20-20, 30-30, 50-50, 70-70, 100-100, reset on any loss, skip a level on blackjack and two on a won double or split, so average winning bets slightly exceed losing bets. The casino took six months of tapes to conclude they couldn't beat it. He considers it his highest accomplishment.",
+      "stocks_or_cases": ["El Cortez", "bj21.com"]
+    },
+    {
+      "idea": "These models apply more to coffee shops and yoga studios than to tech startups, since 99.9% of the million-plus US businesses started each year are not venture-backed.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "The media over-covers venture-backed startups; he is not a tech guy.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Intensity and structured daily work apply in creative fields too: Seinfeld writes on a yellow pad for 1.5-2 hours daily and Charles Schulz worked eight hours a day.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "He recommends Seinfeld's Is This Anything? and Founders Podcast episodes on musicians and artists such as Jay-Z, who researched every artist before him.",
+      "stocks_or_cases": ["Jerry Seinfeld", "Larry David", "Charles Schulz", "Jay-Z"]
+    },
+    {
+      "idea": "The models are about happiness more than success; he focuses on happiness, and hard choices about people make life happier.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "He admits he has vices and sometimes self-sabotages. At nearly 62 he says hearing this talk at 18 would have been a huge advantage.",
+      "stocks_or_cases": []
+    }
+  ]
+}

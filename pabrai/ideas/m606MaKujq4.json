@@ -1,0 +1,116 @@
+{
+  "video_id": "m606MaKujq4",
+  "date": "2022-11-29",
+  "title": "Mohnish Pabrai's Speaker Event with Helvetian Investment Club at St. Gallen Univ on Nov 29, 2022",
+  "summary": "A joint session with Guy Spier for St. Gallen students in which Pabrai recounts his 1995 Satyam investment (a 140-bagger), frames his life through the two mental models of cloning and asymmetry (the Buffett lunch, his first business, Turkey trips, Munger-style randomness), and argues investing must be a dictatorship rather than a team sport. He explains why auction-driven public markets are a gift, why winners should not be trimmed (Rakesh Jhunjhunwala and Titan, the Waltons, Nick Sleep and Amazon, his regret over selling Ferrari), why intrinsic value of great compounders cannot be computed, and how truthfulness and giving shape a good life.",
+  "ideas": [
+    {
+      "idea": "Satyam Computer Services in 1995 was growing 60-70% a year yet traded below the value of its Hyderabad real estate; $10,000 became about $1.3-1.4 million before he sold in early 2000 in bubble territory.",
+      "topic": "Stock case studies",
+      "detail": "He put only $20,000 of his $1 million into India (in hindsight far too little), half into Satyam, and stuck the flimsy paper certificates in a desk drawer intending never to open it. After it rose over 100x he sold, repatriated the money in a day, and the stock fell about 70% over the next 18 months; the later accounting fraud began years after he exited.",
+      "stocks_or_cases": ["Satyam Computer Services"]
+    },
+    {
+      "idea": "Asymmetry, doing things where the downside is muted or non-existent and the upside is unknown, is a great mental model alongside cloning, and you should go for it whenever you can identify it.",
+      "topic": "Psychology & temperament",
+      "detail": "Jeff Bezos and Amazon throw many small bets against the wall; most fail but the few that work pay hugely. Satyam not working would have cost 1% of his portfolio. His first business risked only $30,000 from his retirement account plus $70,000 of credit card debt that bankruptcy would wipe out, with millions of upside. His recent insurance company acquisition did not work but capital was returned and nothing was lost.",
+      "stocks_or_cases": ["Amazon", "Jeff Bezos", "Satyam Computer Services"]
+    },
+    {
+      "idea": "The Buffett lunch was a tuition bill for lifted intellectual property, and it turned out to be 'buy one, get infinite free'.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "In 2007 his net worth was over $80 million, almost all from following Buffett, Munger and Graham, so a couple of million (about 2.5%) seemed a reasonable tuition; Guy paid a third, leaving Pabrai about $400,000. His only aim was to thank Buffett, but it led to friendships with Buffett, a deeper one with Munger, and with Buffett's assistant Debbie, plus Munger's high-quality bridge friends whom he deliberately made his own friends.",
+      "stocks_or_cases": ["Warren Buffett", "Charlie Munger", "Guy Spier"]
+    },
+    {
+      "idea": "Cloning Munger's habit of introducing randomness into life, he hosts strangers for afternoon tea in Austin a couple of times a month because there is no downside and occasionally a great friendship results.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Munger pulls letters from his coat pocket and picks strangers to have breakfast with, which has led to friendships and business partnerships. Since moving to Austin eight or nine months earlier he has still met Munger three times, including a catamaran cruise in Santa Barbara.",
+      "stocks_or_cases": ["Charlie Munger"]
+    },
+    {
+      "idea": "Amazon and Tencent do asymmetry brilliantly with many small bets; Meta violates the rules with a single massive multi-billion-dollar bet.",
+      "topic": "Management & capital allocation",
+      "detail": "The difference between Amazon and Facebook is that the two Jeffs throw lots of small things against the wall, whereas Meta has one giant bet: 'good luck with that'. He admits he himself should do more with asymmetry.",
+      "stocks_or_cases": ["Amazon", "Tencent", "Meta", "Facebook"]
+    },
+    {
+      "idea": "Investing is not a team sport; it must be a dictatorship because a team can never reach consensus on distressed, hated or unloved ideas.",
+      "topic": "Psychology & temperament",
+      "detail": "He has been visiting Turkey for four years and pitched its great businesses, management and moats to everyone he admires, including Munger and Guy Spier, and no one is interested. Teams end up in non-controversial names because 'you don't get fired for buying IBM'. Analysts and helpers are fine, but the decision must be one person's.",
+      "stocks_or_cases": ["IBM"]
+    },
+    {
+      "idea": "His Turkey approach combines cloning and asymmetry: he visits only the companies a high-quality local fund manager has real money in, so the ideas have already passed one filter, and the downside is just an airfare.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "A Turkish fund manager who attended his annual meeting hosted him for a week in Istanbul visiting every portfolio company; he had no plan to invest but has repeated the trip several times and will again in March 2023.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Auction-driven public markets are a gift to investors because faceless buyers and sellers driven by fear and greed create 50% annual price ranges that negotiated markets never produce.",
+      "topic": "Markets, cycles & macro",
+      "detail": "A $1.5 million Zurich apartment would be quoted within about 10% over a year, whereas even Microsoft, Amazon or Berkshire show 52-week ranges closer to 50%. Distress brings crazy low pricing and euphoria brings crazy high pricing like Snowflake or Carvana after their IPOs. Private equity instead involves levering up and putting lipstick on a pig.",
+      "stocks_or_cases": ["Microsoft", "Amazon", "Berkshire Hathaway", "Snowflake", "Carvana"]
+    },
+    {
+      "idea": "You do not need to sweat expanding your circle of competence; it grows organically from reading and thinking, but you must be intellectually honest and pass on anything outside it.",
+      "topic": "Circle of competence & checklists",
+      "detail": "Young investors start with the brands and companies they consume. Many of his mistakes came from thinking he knew something he did not.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Temperament is largely genetic; you cannot convert a hyperactive trader into a happy long-term value investor, so it is important to know yourself.",
+      "topic": "Psychology & temperament",
+      "detail": "Some traits can be learned, but you will struggle doing something far from your natural tendency or bias.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Reading 'Power vs. Force' convinced him that you cannot get away with lying, so he eliminated even white lies; pure candor makes you trustable, which is one of the most important things in life.",
+      "topic": "Psychology & temperament",
+      "detail": "Body language eventually gives lies away, whereas constant truth-telling makes people stronger around you: 'we want to hang out with the Dalai Lama, not used car dealers'. Guy Spier adds that 99% truthful gets you halfway; the last 1% gets you all the way.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Elite universities add value mainly as a selection filter that opens employer doors, not through the education itself; most people get only two or three impactful courses out of a degree.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "From his engineering degree, an elective in public speaking had the biggest long-term impact. The IITs have probably the world's most objective undergraduate admissions filter (no legacies or donors) with great talent in and out despite mediocre or pathetic professors; graduates land at Amazon, Salesforce or Google because of horsepower and hard work, not the teaching.",
+      "stocks_or_cases": ["IIT", "Amazon", "Google", "Salesforce"]
+    },
+    {
+      "idea": "He never puts more than 10% of fund assets into a bet at cost, ideally a 10-by-10 portfolio, but if the job is done right the portfolio ends up very concentrated as winners grow.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "Rakesh Jhunjhunwala started with under $500, never managed outside money, and died in his early sixties worth over $6-7 billion; a 4% bet in Titan Industries decades ago became more than half his portfolio. Even if the other 96% had gone to zero he would still have had about $3 billion.",
+      "stocks_or_cases": ["Rakesh Jhunjhunwala", "Titan Industries"]
+    },
+    {
+      "idea": "Trimming winners at 15% or 17% is cutting the flowers and watering the weeds; a manager who has done the job right ends up with 80-90% of net worth in one stock.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "Smart investors bought MasterCard after its IPO as a 5% position and trimmed every time it grew, so it never reached 20%. The Waltons, who no longer run Walmart, keep 90%+ of their wealth in it; Nick Sleep retired with three stocks and Amazon grew to 80%, outperforming Berkshire and Costco. Think of a great business you own like a founding family would and leave it alone.",
+      "stocks_or_cases": ["MasterCard", "Walmart", "Nick Sleep", "Amazon", "Berkshire Hathaway", "Costco"]
+    },
+    {
+      "idea": "Selling about 1% of Ferrari from his funds was an idiotic mistake; 'we are old too soon and wise too late', but he still has perhaps 32 years to apply the lesson.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "He has deep regrets about many great businesses he sold. Guy Spier kept his Ferrari (selling only half at the start of lockdown) and Guy's own regret is selling Crisil, the 'Moody's of India', which is up 50-100x since.",
+      "stocks_or_cases": ["Ferrari", "Crisil"]
+    },
+    {
+      "idea": "For a great compounder you cannot compute intrinsic value, only floor or liquidation value, so don't do cute things like figuring intrinsic value; just stay on for the ride.",
+      "topic": "Compounding & long-term holding",
+      "detail": "Berkshire was $40 a share in the mid-1970s and is now over $400,000, a 10,000x. Book value times a multiple ignores what happens when a great capital allocator runs the company for 50 years. He disagrees with Buffett and Munger's claim that their intrinsic value estimates would be in the same ballpark.",
+      "stocks_or_cases": ["Berkshire Hathaway"]
+    },
+    {
+      "idea": "To build a fund, start with any small amount in a brokerage account you never draw on, build an auditable track record, then raise from friends, family and fools; do well for them and the world shows up.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Buffett says if you are even slightly above average, investors will swim to you through shark-infested waters in the middle of the Atlantic.",
+      "stocks_or_cases": ["Warren Buffett"]
+    },
+    {
+      "idea": "Learn from mistakes but not too much: the best investors are wrong one in three times and mere mortals half the time, so be intellectually honest, move on, and don't try to win the money back the same way you lost it.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "Quoting Munger's advice to 'learn but not learn too much'. Jhunjhunwala only needed to be right on 4% of his portfolio. Once a loss of capital reveals a better understanding of the business, it may make sense to simply exit.",
+      "stocks_or_cases": ["Charlie Munger", "Rakesh Jhunjhunwala"]
+    }
+  ]
+}

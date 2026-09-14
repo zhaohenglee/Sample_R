@@ -1,0 +1,272 @@
+{
+  "video_id": "NrTz1uiL3RU",
+  "date": "2025-05-02",
+  "title": "Mohnish Pabrai's Sessions at UNO on May 2, 2025 and Columbia Business School on March 25, 2025",
+  "summary": "A new talk titled 'You only need to get rich once' built around the Nifty 50/Walmart thought experiment, Buffett's dozen good decisions in 60 years, Nick Sleep's three-stock portfolio, the Waltons, Bill Gates vs Steve Ballmer, and Pabrai's own regret over selling Ferrari and Frontline. Main takeaways: returns follow power laws and come from a tiny sliver of decisions, the hold decision matters more than the buy decision, never sell a great business merely because it looks overvalued, and once rich, keep an anchor (S&P 500 or Berkshire) and stop optimizing. Q&A covers checklists, circle of competence, Turkey (Reysas, TAV), met coal, Amazon, Coke, and the discipline of doing nothing.",
+  "ideas": [
+    {
+      "idea": "Stock market returns follow power laws: a tiny sliver of businesses generates almost all of the return, so the key is to be in those businesses for the long term.",
+      "topic": "Compounding & long-term holding",
+      "detail": "Assuming Walmart was 2% of the Nifty 50 and the other 49 stocks went to zero, the $2 in Walmart alone (roughly 64,000x over 55 years) still beat $100 in the S&P 500 (about 320x). The decision to hold, not the decision to buy, is what mattered.",
+      "stocks_or_cases": [
+        "Walmart",
+        "Nifty 50",
+        "Xerox",
+        "Polaroid",
+        "Kodak",
+        "S&P 500"
+      ]
+    },
+    {
+      "idea": "Even Buffett's hit rate is only 2 to 4%: about a dozen truly good decisions out of 400-500 important ones in 60 years drove all of Berkshire's value.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "Buffett wrote that most of his capital allocation decisions were 'so-so' and results came from about a dozen good ones, one every five years; Pabrai lists Ajit Jain (north of $100 billion of value created), See's, Coke, Apple, National Indemnity and Mid-American among them.",
+      "stocks_or_cases": [
+        "Berkshire Hathaway",
+        "Ajit Jain",
+        "See's Candies",
+        "Coca-Cola",
+        "Apple",
+        "National Indemnity",
+        "Mid-American"
+      ]
+    },
+    {
+      "idea": "Nick Sleep returned all outside capital and put his own money one-third each in Berkshire, Costco and Amazon, then trounced everyone after 2014 while doing no work.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "Nomad compounded at 18%+ from 2001 to 2013 with about $3 billion; had Nick done nothing his portfolio would be about $1.7 billion today, versus $1.4 billion after trimming Amazon into ASOS, and under $800 million had he gone into the S&P.",
+      "stocks_or_cases": [
+        "Nick Sleep",
+        "Qais Zakaria",
+        "Nomad",
+        "Berkshire Hathaway",
+        "Costco",
+        "Amazon",
+        "ASOS"
+      ]
+    },
+    {
+      "idea": "It is dumb to sell a business purely because it looks overvalued, because you may not understand the business well enough to know whether it is actually overvalued.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "Pabrai owned about 0.7% of Ferrari via Fiat Chrysler in 2014 and sold it as too expensive; the Fiat/Ferrari adventure turned $70 million into $260 million, but the Ferrari stake alone would be about $640 million now. Frontline was a 10% position sold for a double that then went up 350x.",
+      "stocks_or_cases": [
+        "Ferrari",
+        "Fiat Chrysler",
+        "Frontline"
+      ]
+    },
+    {
+      "idea": "Once you are rich, optimizing is likely to hurt more than help; keep a resilient anchor like Berkshire or the S&P 500 and let the rest ride.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "Even when Nick Sleep's portfolio drifted to 80% Amazon and 10% each in Berkshire and Costco, the Berkshire slice alone was more money than he could spend in a lifetime, so it should not have mattered. Buffett's plan to put 90% of his wife's money in the S&P 500 is sound for the same reason: 500 dominant companies cannot sink at once.",
+      "stocks_or_cases": [
+        "Nick Sleep",
+        "Berkshire Hathaway",
+        "Amazon",
+        "Costco",
+        "S&P 500"
+      ]
+    },
+    {
+      "idea": "Steve Ballmer made the best decisions of all: he never sold Microsoft, collected over a billion a year in dividends and parked them in the S&P 500, so he could let his Microsoft stake ride.",
+      "topic": "Stock case studies",
+      "detail": "Ballmer's 4% stake is more than four times Bill Gates's (under 1%, down from 45% at IPO); Ballmer has about $25 billion in the S&P and $120-130 billion in Microsoft, making the hired gun wealthier than the founder. Gates, who told Pabrai at a 1995 lunch that all dominant businesses decline, sold automatically and did worse. Microsoft at $600 billion in 2000 returned zero for 15 years, and Coke went through 12 years of no returns after its late-1990s euphoria, yet holding still worked out in the fullness of time.",
+      "stocks_or_cases": [
+        "Microsoft",
+        "Steve Ballmer",
+        "Bill Gates",
+        "Satya Nadella",
+        "S&P 500",
+        "Coca-Cola"
+      ]
+    },
+    {
+      "idea": "The Walton family kept 46% of Walmart for 55 years after the IPO, ignoring all the helpers pitching diversification, and became the richest family in America.",
+      "topic": "Compounding & long-term holding",
+      "detail": "Sam Walton transferred ownership to his kids while Walmart was tiny and private, so no estate tax was owed; Pabrai notes their single-company approach is riskier than Nick Sleep's, which had a Berkshire anchor.",
+      "stocks_or_cases": [
+        "Walmart",
+        "Walton family",
+        "Sam Walton"
+      ]
+    },
+    {
+      "idea": "Auction-driven markets overshoot and undershoot, which is the free lunch that lets investors buy assets well below what they are worth.",
+      "topic": "Markets, cycles & macro",
+      "detail": "With about 50,000 stocks worldwide, many are mispriced at any time; negotiated transactions rarely offer this, so focus on the ones mispriced on the cheap side. Volatility is always the long-term investor's friend: when news moving Coke's price has weak correlation with its long-term cash flows, that is a sign of mispricing.",
+      "stocks_or_cases": [
+        "Coca-Cola"
+      ]
+    },
+    {
+      "idea": "The pre-investment checklist was built like the FAA's process: study failures of great investors and turn the obvious-in-advance reasons into questions.",
+      "topic": "Circle of competence & checklists",
+      "detail": "Berkshire's Dexter Shoe failure from low-cost foreign manufacturing became a checklist question; when he categorized failures, the number one cause was leverage and the number two was misunderstanding the moat.",
+      "stocks_or_cases": [
+        "Dexter Shoe",
+        "Berkshire Hathaway",
+        "FAA"
+      ]
+    },
+    {
+      "idea": "If you have to ask whether something is within your circle of competence, you have already answered that it is not.",
+      "topic": "Circle of competence & checklists",
+      "detail": "There is no penalty for a narrow circle; what matters is staying at its epicenter, and it expands naturally through reading and mistakes without any deliberate program. Buffett's 'too hard' box should get 99% of ideas. The most successful people are an inch wide and a mile deep; Charlie's friend John Arrillaga became a multibillionaire investing only in real estate within two miles of Stanford.",
+      "stocks_or_cases": [
+        "Warren Buffett",
+        "John Arrillaga"
+      ]
+    },
+    {
+      "idea": "Most of his investments in South Korea and India did not work; a 50% error rate is normal and Templeton said the best analyst is wrong one in three times.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "In South Korea none of the bets worked though he mostly got his money back; he could not do well there and found other places where he could.",
+      "stocks_or_cases": [
+        "John Templeton"
+      ]
+    },
+    {
+      "idea": "For most investments the micro trumps the macro; pick bets where the thesis works across almost any macro environment so you can ignore macro entirely.",
+      "topic": "Markets, cycles & macro",
+      "detail": "Saudi Aramco lifts oil at about $10 a barrel and makes money whether oil is 30 or 300; Ferrari sells $2-3 million cars at 85-90% margins to a list of collectors who will not flip them, so tariffs are irrelevant.",
+      "stocks_or_cases": [
+        "Saudi Aramco",
+        "Ferrari"
+      ]
+    },
+    {
+      "idea": "The best things about Buffett and Munger have nothing to do with investing; they are about how to lead a great life.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "Pabrai had dinner with Charlie four or five times a year and learned mostly by observing how he interacted with family and visitors and his everyday habits; learning only the investing side misses most of it.",
+      "stocks_or_cases": [
+        "Charlie Munger",
+        "Warren Buffett"
+      ]
+    },
+    {
+      "idea": "There is no shortcut to finding ideas: 'start with the As' and go through everything one by one, the way Buffett did with racetrack tickets, Moody's Manuals and the Japan Company Handbook.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "Buffett found the five Japanese trading houses by flipping the Japan Company Handbook for more than 10 years, refusing Pabrai's efforts (via Tracy Britt) to switch him to a $10,000 Capital IQ screen; he bought 8% yielders financed entirely in yen at 0.5%, and the dividends have since doubled.",
+      "stocks_or_cases": [
+        "Warren Buffett",
+        "Japanese trading houses",
+        "Moody's Manual",
+        "Japan Company Handbook",
+        "Capital IQ",
+        "Tracy Britt"
+      ]
+    },
+    {
+      "idea": "Less is more, and fast is slow.",
+      "topic": "Psychology & temperament",
+      "detail": "Buffett was forced into five Japanese bets only because of Berkshire's size. Duan Yongping, founder of Oppo and Vivo, told his managers only 'fast is slow' in a 10-minute annual meeting and they tripled profits the next year.",
+      "stocks_or_cases": [
+        "Duan Yongping",
+        "Oppo",
+        "Vivo",
+        "Warren Buffett"
+      ]
+    },
+    {
+      "idea": "If you cannot describe an investment thesis to a 10-year-old in about four sentences with very high conviction, pass.",
+      "topic": "Circle of competence & checklists",
+      "detail": "Even a simple, impregnable thesis will have a high error rate, but the error rate is higher without one; most companies do not lend themselves to that clarity and you do not need to invest in most companies.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Debt is the number one reason businesses fail, and Berkshire's Fort Knox no-leverage approach is a very good thing for shareholders.",
+      "topic": "Management & capital allocation",
+      "detail": "Buffett and Munger said they could have earned higher returns with modest leverage but chose not to; insurance float gives them benign leverage. IKEA's founder was hell-bent on never having debt and thought about the company 500 to 1,000 years out.",
+      "stocks_or_cases": [
+        "Berkshire Hathaway",
+        "IKEA"
+      ]
+    },
+    {
+      "idea": "Industries with rapid change are the enemy of the investor, but value principles can be applied to a small sliver of tech businesses if you understand how the mousetrap works.",
+      "topic": "Moats & business quality",
+      "detail": "Nick Sleep and Qais Zakaria read hundreds of annual reports and saw that Amazon's losses were growth spending by a fanatical, efficient capital allocator making many small bets; AWS was an unplanned winner and Amazon converts cost line items into businesses, so he predicts it will enter parcel delivery and wreak havoc on UPS and FedEx. He thinks it likely that in 30 years 2025 will look like a bargain for Amazon.",
+      "stocks_or_cases": [
+        "Amazon",
+        "Jeff Bezos",
+        "AWS",
+        "UPS",
+        "FedEx",
+        "Nick Sleep",
+        "Qais Zakaria"
+      ]
+    },
+    {
+      "idea": "Separate businesses that are overvalued from businesses in secular decline; if the business is not in decline, leave it alone, but if there is secular decline, get off the bus as soon as possible.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "Microsoft and Cisco in 2000 had intact moats but overvalued stocks. Reysas in Turkey is his easiest hold because it trades below liquidation value with no sign of decline; the decision only gets hard at egregious overvaluation, and he sets a high bar for 'egregious' because energizer-bunny managers like Elon Musk or Reysas's founder keep winning in businesses they had no prior competence in. He would pick Microsoft over Apple, whose lock on customers he considers weaker; Bill Gates told him at a Munger dinner that Apple is a peculiar company still running on Steve Jobs's vision and he would not go long.",
+      "stocks_or_cases": [
+        "Microsoft",
+        "Cisco",
+        "Reysas",
+        "Elon Musk",
+        "Greg Abel",
+        "David Sokol",
+        "Apple",
+        "Bill Gates"
+      ]
+    },
+    {
+      "idea": "His whole history is selling too soon; the longest he has held anything is about 8 years, and you can do very well being sloppy as long as the sloppiness is on the side of inactivity.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "Riding a stock from 10 to 100 and selling at 30 is not where the game is; the game is holding the one that goes from 10 to 500.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "In Turkey he only made bets where currency and inflation were irrelevant, buying during extreme panic as foreign funds fled regardless of valuation.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "Reysas warehouses are land, steel and cement with inflation-indexed rents and the portfolio sits at below-market rents; TAV Airports earns in euros and dollars while paying staff in lira, so he could put $100 million there. Templeton sold him a 5% Reysas position for $1 million because someone in New York said exit Turkey.",
+      "stocks_or_cases": [
+        "Reysas",
+        "TAV Airports",
+        "Templeton Funds"
+      ]
+    },
+    {
+      "idea": "Metallurgical coal is a decades-long cash flow stream bought at a tiny fraction of its value, because steel needs blast furnaces and no one will open new coal mines.",
+      "topic": "Stock case studies",
+      "detail": "Every ton of steel needs 0.7 tons of met coal, which exists in few geographies; in 2023 Ukraine-war windfalls left met coal miners debt-free, and a business that could earn 0-100 million in bad years and a couple of billion in good years for 50 years was selling for a $2 billion market cap. He spent 15 days in coal mines and learned that in commodities, the unlevered low-cost producer wins.",
+      "stocks_or_cases": [
+        "Metallurgical coal miners"
+      ]
+    },
+    {
+      "idea": "You cannot know in advance which bets are the great ones, so make 10 or 15 bets and hang on to the one or two winners that become obvious; you only truly learn a business after you own it, especially when it drops 50%.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "Buffett only knew Ajit Jain was great 20 years later; putting 95% into yesterday's winner is a bet that yesterday's winner is tomorrow's, which he could not get conviction for. Two bets, one of them resilient like Berkshire or the S&P, lets you totally relax and never 'go back to go'.",
+      "stocks_or_cases": [
+        "Ajit Jain",
+        "Amazon",
+        "Berkshire Hathaway",
+        "S&P 500"
+      ]
+    },
+    {
+      "idea": "Investors must be able to sit quietly and do nothing for decades; the hack is to find another passion that soaks up all the time so the portfolio is left untouched.",
+      "topic": "Psychology & temperament",
+      "detail": "Munger says it was good Buffett played bridge; Buffett says you can give away 50 IQ points and results might improve. Pabrai has gone all in on golf and says no new ideas for 5 or 10 years would be fine. Hedging a great position is 'getting cute' like Nick Sleep buying ASOS.",
+      "stocks_or_cases": [
+        "Nick Sleep",
+        "Charlie Munger",
+        "Warren Buffett",
+        "ASOS"
+      ]
+    },
+    {
+      "idea": "Coke is a flavored-water delivery pipe reaching billions of people that nobody can rebuild, which makes it more resilient than Microsoft; keep it and, like Harriet Green, live on the dividend and leave the principal.",
+      "topic": "Moats & business quality",
+      "detail": "Humans need about 64 ounces of fluid a day and some must be flavored; Coke can buy something like Gatorade and push it through the pipe. Buffett and Munger cracked Coke in the late 1980s, made money for 10-12 years, then little for a while, but you only need to get rich once.",
+      "stocks_or_cases": [
+        "Coca-Cola",
+        "Gatorade",
+        "Microsoft",
+        "Harriet Green"
+      ]
+    }
+  ]
+}

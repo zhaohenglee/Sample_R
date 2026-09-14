@@ -1,0 +1,265 @@
+{
+ "video_id": "_h10aNEQK50",
+ "date": "2022-10-27",
+ "title": "Mohnish Pabrai's Presentation and Q&A at Boston College and Harvard Business School on Oct 27, 2022",
+ "summary": "Pabrai presents his 'Uber Cannibals' framework on companies that aggressively buy back their own shares, walking through NVR, AutoZone, AutoNation, H&R Block, Jack in the Box, Apple, IBM, Sears and Henry Singleton's Teledyne. He argues that buybacks are magical only when the business is stable for 20+ years and the share count is retired fast (80%+), and that management dilution and buyback pace matter. The Q&A covers dividends vs buybacks, interest rates, Dakshana's philosophy, his 'owner's manual', intrinsic value for businesses like Amazon, Turkey, China, and his drift from great businesses to cigar butts and back.",
+ "ideas": [
+  {
+   "idea": "The cannibal return formula: total return roughly equals earnings growth multiplied by 100 divided by the percent of shares left, times any multiple expansion.",
+   "topic": "Valuation & margin of safety",
+   "detail": "NVR went from $5.50 in 1994 to about $4,000 (727-bagger, 27% annualized) with earnings up 150X and 82% of shares retired (18% left gives a 5.5X pop); the formula predicts 783X. AutoZone: earnings up 11X, 87% of shares gone, 80-bagger vs 85X predicted.",
+   "stocks_or_cases": [
+    "NVR",
+    "AutoZone"
+   ]
+  },
+  {
+   "idea": "The magic of buybacks only really starts after more than 80% of shares are retired, and getting there takes two or three decades of business stability.",
+   "topic": "Compounding & long-term holding",
+   "detail": "Buying back half the shares gives 2X, two-thirds gives 3X, 80% gives 5X, 90% gives 10X and 99% gives 100X with no change in earnings or multiple. The key factor is how fast shares are being retired; 2% a year is unlikely to get you to the promised land. Even 15% earnings growth with 84% of shares retired over 20 years is a 100-bagger; 10% growth with 80% retired and 50% multiple expansion is a 50-bagger.",
+   "stocks_or_cases": [
+    "NVR",
+    "Teledyne"
+   ]
+  },
+  {
+   "idea": "Buybacks are fine in cyclical businesses but catastrophic in businesses in secular decline, so you must have a view of what the business looks like 10-20 years out.",
+   "topic": "Moats & business quality",
+   "detail": "IBM returned zero from 2001 to 2022 and Buffett lost money owning it 2011-2017; Sears bought back a third of its shares 2006-2011 and then went bankrupt: anything multiplied by zero is zero. NVR is cyclical but stayed profitable through 2007-2009 because it builds no spec homes.",
+   "stocks_or_cases": [
+    "IBM",
+    "Sears",
+    "NVR",
+    "Buffett",
+    "Eddie Lampert"
+   ]
+  },
+  {
+   "idea": "Track how much equity management extracts through incentive plans, because the 'knights who manage the castle' can take a meaningful slice every year.",
+   "topic": "Management & capital allocation",
+   "detail": "NVR's senior team has consistently been given about 5% of the company per year through incentive plans versus about 1% at Apple; NVR bought back over 9% a year from 1994-2005 (stock up 128X, 55% annualized) but under 2% a year from 2006-2012 and about 2% in 2017-2022, when returns fell to about 3% annualized.",
+   "stocks_or_cases": [
+    "NVR",
+    "Apple"
+   ]
+  },
+  {
+   "idea": "Henry Singleton at Teledyne is the model capital allocator: issue stock furiously when it is expensive and buy it back furiously when it is cheap, even with debt.",
+   "topic": "Management & capital allocation",
+   "detail": "From 1965-1970 he acquired 130 companies using Teledyne stock trading at 40-70x earnings to buy businesses at ~10x; from 1972-1984 he bought back over 90% of shares via tender offers (exchanging stock for 10% debentures), earnings tripled from $1.64 to $45 a share and the stock went up 40X. Compared with Apple's 39% buyback and 6X over 10 years.",
+   "stocks_or_cases": [
+    "Teledyne",
+    "Henry Singleton",
+    "Apple",
+    "Tim Cook",
+    "Constellation Software"
+   ]
+  },
+  {
+   "idea": "Buffett's ethos differs from Singleton's: Buffett treats shareholders as partners and refuses to 'play gin rummy' with them, so Berkshire resisted buybacks and now only buys back with full disclosure.",
+   "topic": "Buffett & Munger lessons",
+   "detail": "Singleton saw shareholders as faceless counterparties and made money off them; Buffett wants to make money with his partners. Pabrai notes John Malone does not seem to share Buffett's scruples.",
+   "stocks_or_cases": [
+    "Berkshire Hathaway",
+    "Warren Buffett",
+    "Henry Singleton",
+    "John Malone"
+   ]
+  },
+  {
+   "idea": "Good cannibal candidates are businesses you can see being stable or bigger 20 years out: ADP, Illinois Tool Works, Microsoft, Alphabet, Amazon, Union Pacific, possibly Tencent.",
+   "topic": "Stock case studies",
+   "detail": "He screened 167 companies that bought back more than 30% of shares in the last 10 years and says to filter for those where you can know the business will still be around in 20 years. AutoZone likely fine for 10-20 years but questionable at 30 as electric cars grow (California bans new ICE sales by 2035).",
+   "stocks_or_cases": [
+    "ADP",
+    "Illinois Tool Works",
+    "Microsoft",
+    "Alphabet",
+    "Amazon",
+    "Tencent",
+    "Union Pacific",
+    "AutoZone",
+    "AutoNation",
+    "H&R Block"
+   ]
+  },
+  {
+   "idea": "He does not favor dividends; buybacks return capital without a second layer of taxation and are preferable for stable businesses once internal reinvestment is exhausted.",
+   "topic": "Management & capital allocation",
+   "detail": "A company should prioritize internal growth, then buybacks; if reinvestment only returns 8% or the stock trades at a very high multiple, a dividend may be the better option.",
+   "stocks_or_cases": []
+  },
+  {
+   "idea": "Most CEOs are useless at capital allocation because they were promoted for sales, marketing or R&D skills, and capital allocation is never tested until they get the top job.",
+   "topic": "Management & capital allocation",
+   "detail": "Tim Cook recognized this gap and reached out to Buffett specifically to learn how to think about buybacks, dividends and acquisitions, and has followed that playbook.",
+   "stocks_or_cases": [
+    "Apple",
+    "Tim Cook",
+    "Warren Buffett"
+   ]
+  },
+  {
+   "idea": "Interest rates are 'Mickey Mouse factors' when you buy at a wide enough gap between price and intrinsic value; a 2-7% rate delta should not change the outcome.",
+   "topic": "Valuation & margin of safety",
+   "detail": "Reysas, Turkey's largest warehouse owner (12 million sq ft leased to Mercedes, Ikea, Carrefour, Amazon), had a $20 million market cap against ~$800 million liquidation value in 2019 (2.5% of liquidation value) and is now north of $150 million despite the lira collapse. His Turkish airport operator (15 airports in 8 countries) had a market cap under $1 billion with earnings likely heading to $200-300 million.",
+   "stocks_or_cases": [
+    "Reysas",
+    "TAV Airports"
+   ]
+  },
+  {
+   "idea": "Philanthropy should invert the investing rules: go high risk, high return, concentrate on a single cause, and only pick causes where outcomes are measurable.",
+   "topic": "Philanthropy & Dakshana",
+   "detail": "Buffett told him to 'swing for the fences' in charity. Dakshana spends $2,000-3,000 per bright poor Indian kid from families earning $30-100 a month; some alumni now earn over $500,000 a year at Google. Most charities optimize for what feels good, and in some cases 90% of funds raised go to fundraising.",
+   "stocks_or_cases": [
+    "Dakshana",
+    "Gates Foundation",
+    "Warren Buffett"
+   ]
+  },
+  {
+   "idea": "Everyone should get their 'owner's manual': who you are is hard-coded by age six, and knowing it lets you pick games you can win.",
+   "topic": "Career, entrepreneurship & life",
+   "detail": "In 1999 two industrial psychologists did a 360 on him and told him he likes single-player games he can win with no people; they urged him to leave his 170-person company (he hated herding cats past 20-30 people) and start Pabrai Investment Funds. He now works 100% from home and stays out of Dakshana's operations.",
+   "stocks_or_cases": [
+    "Pabrai Investment Funds",
+    "Dakshana"
+   ]
+  },
+  {
+   "idea": "Judging a new CEO's capital allocation requires a long track record; without one there is an unknown you cannot resolve.",
+   "topic": "Management & capital allocation",
+   "detail": "He invested in Fiat Chrysler in 2012 with comfort from Sergio Marchionne's long history, Harvard case studies and a book about him, versus a current situation where a three-year CEO leaves him unable to tell who the person is.",
+   "stocks_or_cases": [
+    "Fiat Chrysler",
+    "Sergio Marchionne"
+   ]
+  },
+  {
+   "idea": "For a business like Amazon do not waste brain cells on intrinsic value; ask only whether the business is getting better and whether valuation is within a reasonable range.",
+   "topic": "Valuation & margin of safety",
+   "detail": "Intrinsic value is the discounted cash you can pull out, but that is nearly impossible to calculate because Amazon's reinvestment amount and its trajectory are both unknown. Ben Graham's anchoring on liquidation value was the wrong lens. Sell only if the business is in decline or valuation goes extreme (e.g. $10-20 trillion).",
+   "stocks_or_cases": [
+    "Amazon",
+    "AWS",
+    "Jeff Bezos",
+    "Ben Graham"
+   ]
+  },
+  {
+   "idea": "Running a business makes you a better investor; the goal is to identify the three or four variables the CEO actually runs the business on.",
+   "topic": "Career, entrepreneurship & life",
+   "detail": "Quotes Buffett: 'I'm a better businessman because I'm an investor and a better investor because I'm a businessman' and the fish-walking-on-land analogy. Bezos and Jassy make small bets with asymmetric upside and don't run Amazon through spreadsheets.",
+   "stocks_or_cases": [
+    "Amazon",
+    "Jeff Bezos",
+    "Andy Jassy",
+    "Warren Buffett"
+   ]
+  },
+  {
+   "idea": "Creative destruction is non-linear and comes from left field, so even a business you love can be disrupted; you cannot rely on optimistic managers to foresee it.",
+   "topic": "Markets, cycles & macro",
+   "detail": "Wally Park near LAX seemed a 50-year franchise until Uber hollowed it out. CEOs must be optimists to lead, so they rarely have a good 10-20 year view. Roughly half of Berkshire's acquisitions were mistakes or have disappeared. With 10 positions, seven can fail and the portfolio still does well.",
+   "stocks_or_cases": [
+    "Wally Park",
+    "Uber",
+    "Berkshire Hathaway",
+    "Coca-Cola",
+    "Visa",
+    "American Express"
+   ]
+  },
+  {
+   "idea": "If you have to open Excel there is a problem; start with an honest circle-of-competence check and stay in its center.",
+   "topic": "Circle of competence & checklists",
+   "detail": "He avoids biotech, defense (few customers), US healthcare (non-market forces) and blockchain. Quotes Buffett that the size of the circle matters less than staying in the center; then assess trajectory, ROE, capital needs and the capital allocator.",
+   "stocks_or_cases": []
+  },
+  {
+   "idea": "Never short and never use leverage: shorting doubles your money if right and bankrupts you if wrong, and 'to finish first you have to first finish'.",
+   "topic": "Psychology & temperament",
+   "detail": "Notes Bill Ackman recently said he is done with shorting. Retail investors should think like the Walton family, holding an unhedged, unlevered concentrated position for decades; a dozen carefully chosen long positions can do well even if half don't work.",
+   "stocks_or_cases": [
+    "Bill Ackman",
+    "Walmart",
+    "Walton family"
+   ]
+  },
+  {
+   "idea": "Active managers lose to the index because of frictional costs and because the index is 'too dumb' to sell its winners, while about 4% of stocks deliver almost all returns.",
+   "topic": "Markets, cycles & macro",
+   "detail": "Managers carry 1-3% annual frictional costs; without the top 4% of performers the S&P's ~9% century-long return would be nothing, and more than half of stocks lose money long term. He admires Baillie Gifford for buying great businesses and just hanging on.",
+   "stocks_or_cases": [
+    "Baillie Gifford",
+    "Amazon",
+    "Apple",
+    "Alphabet",
+    "Microsoft"
+   ]
+  },
+  {
+   "idea": "China will always be difficult because of government policy risk, so he will not put much energy there now despite admiring Tencent and Pony Ma.",
+   "topic": "Geographies: India, China, Turkey, Japan, US",
+   "detail": "He previously invested in Moutai (a Li Lu idea), Alibaba and Tencent, all well run with good governance, but the unknown of the state is too large. He accessed Tencent through Prosus because the look-through discount was at times over 40% and Prosus was acting to close it.",
+   "stocks_or_cases": [
+    "Tencent",
+    "Alibaba",
+    "Moutai",
+    "Prosus",
+    "Pony Ma",
+    "Li Lu"
+   ]
+  },
+  {
+   "idea": "Turkey deserves more of his energy: 95-97% is uninvestable but the 3-5% with euro or dollar revenues is sold to him at great prices by gamblers and fleeing institutions.",
+   "topic": "Geographies: India, China, Turkey, Japan, US",
+   "detail": "80% of the Turkish market is held by insiders and foreigners and doesn't trade; the local-held 20% turns over every nine days. Templeton funds sold him Reysas at 2.5% of liquidation value. He also owns a Coke bottler and the VW importer/dealer group in Turkey. The market is like a burning theater where every seat must be occupied.",
+   "stocks_or_cases": [
+    "Reysas",
+    "Coca-Cola Icecek",
+    "Dogus Otomotiv",
+    "Templeton"
+   ]
+  },
+  {
+   "idea": "The holy grail of investing is a small ownership of a great growing business held for a very long time; his drift into cigar butts after 2000 was a mistake he is correcting.",
+   "topic": "Mistakes & lessons learned",
+   "detail": "He was buy-and-hold in 1994-2000 (a 200-bagger), switched to Ben Graham cigar butts at the 2000 NASDAQ peak and did ~36% a year for eight or nine years and +130% in 2009 in commodities, but should have switched back around 2012. Reading William Green's 'Richer, Wiser, Happier' manuscript in 2020 made him realize he had 'screwed up'.",
+   "stocks_or_cases": [
+    "William Green",
+    "Nick Sleep",
+    "Berkshire Hathaway"
+   ]
+  },
+  {
+   "idea": "Sell only for three reasons: the valuation becomes extreme, you realize you made a mistake about the business, or a clearly better opportunity exists, and the last is dangerous because 'the mistress always looks better than the wife'.",
+   "topic": "Portfolio concentration & selling",
+   "detail": "Quotes Phil Fisher: 'if the job is done right, every sell decision is a mistake.' His Turkish friend sold Reysas after a 100% gain despite believing it was worth 40X more, prompting Pabrai to tell him to triple his Munger worship time.",
+   "stocks_or_cases": [
+    "Phil Fisher",
+    "Reysas",
+    "Charlie Munger"
+   ]
+  },
+  {
+   "idea": "Between Markel and Berkshire he would choose Berkshire because its capital allocation is proven over decades, whereas Markel's whole-company acquisitions are unproven and even Buffett's acquisitions had a one-third error rate.",
+   "topic": "Stock case studies",
+   "detail": "Markel has excellent excess and surplus lines insurance businesses, but Pabrai lacks data on its private acquisition record; size is an anchor for Berkshire but he still prefers it.",
+   "stocks_or_cases": [
+    "Markel",
+    "Berkshire Hathaway",
+    "Tom Gayner"
+   ]
+  },
+  {
+   "idea": "Go to work for people you like, admire and trust rather than for brand names, and hang out with people better than you.",
+   "topic": "Career, entrepreneurship & life",
+   "detail": "He did not know who he was until 35 and wishes he had his owner's manual at 20; graduates should choose workplaces where they move up in quality of people, not pay or Thanksgiving-table prestige.",
+   "stocks_or_cases": [
+    "Warren Buffett"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,251 @@
+{
+  "video_id": "3xbhKOzNBW8",
+  "date": "2025-03-27",
+  "title": "Mohnish Pabrai’s Talk with the My First Million podcast on March 27, 2025",
+  "summary": "Pabrai coaches a hypothetical investor on turning $10,000 into a million: dollar-cost average into Berkshire as the default index (the S&P is overheated in 2025), then peel off 10-15% for rare anomalies that 'hit you in the head with a two-by-four'. He illustrates with Frontline, Buffett's Japanese trading companies, Value Investors Club and the Japan Company Handbook as idea sources, and covers no-Excel simplicity, no leverage (Rick Guerin), not selling great businesses, Costco, John Arrillaga's narrow circle of competence, his 'owner's manual' temperament test, Dakshana as a math game, and starting early.",
+  "ideas": [
+    {
+      "idea": "In investing the small guy has the advantage because tiny anomalies that compound at very high rates cannot absorb large capital, so the space is continually vacated for the next generation.",
+      "topic": "Markets, cycles & macro",
+      "detail": "Buffett says if he ran $1-10 million he would do 50% a year; below $100,000 the entire universe is available and the nooks and crevices offer very high returns on very small capital.",
+      "stocks_or_cases": [
+        "Warren Buffett"
+      ]
+    },
+    {
+      "idea": "Circa 2025 the S&P 500 is overheated, so use Berkshire Hathaway class B shares as the index and dollar-cost average into them as Plan A.",
+      "topic": "Markets, cycles & macro",
+      "detail": "The MAG7 and even the other 493 stocks trade well above historic multiples; in 2000 the only three $600B+ companies were Cisco, Microsoft and GE, and Cisco never regained that cap, Microsoft returned zero from 2000 to 2015, GE imploded. Berkshire holds a huge cash portion of its market cap.",
+      "stocks_or_cases": [
+        "Berkshire Hathaway",
+        "Cisco",
+        "Microsoft",
+        "GE",
+        "MAG7"
+      ]
+    },
+    {
+      "idea": "Life is all about doubles: at 10% a year Berkshire doubles every seven years, turning $10,000 into 128x in 49 years with no taxes and no activity.",
+      "topic": "Compounding & long-term holding",
+      "detail": "Rule of 72: seven doubles over 49 years gives $1.33 million from $10,000 with no dividends or taxes; spend less than you earn and keep adding annual savings.",
+      "stocks_or_cases": [
+        "Berkshire Hathaway"
+      ]
+    },
+    {
+      "idea": "The best investments make no sense on the numbers; when something is 'too good to be true' and hits you in the head with a two-by-four, that is when you dive in.",
+      "topic": "Valuation & margin of safety",
+      "detail": "Buffett found Western Insurance in the Moody's Manual trading at $15 with $25 of earnings per share and $80 book value; such positive anomalies are what to hunt for.",
+      "stocks_or_cases": [
+        "Western Insurance",
+        "Warren Buffett"
+      ]
+    },
+    {
+      "idea": "Frontline in 2001-02 was a no-lose bet: non-recourse ship-level debt and a liquid ship market meant liquidation value was $9-10 a share versus a $3 stock price.",
+      "topic": "Stock case studies",
+      "detail": "Frontline owned 75 of the world's 300 VLCCs on the spot market; rates fell from a $15,000/day breakeven to $7,000 and the stock dropped 90%. He put 10% of the fund in and sold at $10 for an 80% gain, but the stock went up 80x over three years as rates hit $300,000/day.",
+      "stocks_or_cases": [
+        "Frontline",
+        "John Fredriksen"
+      ]
+    },
+    {
+      "idea": "Always ask Buffett's question 'and then what?'; first-order thinking cost him 97% of the Frontline upside because he did not think through scrapping, fleet shrinkage and the 3-4 year shipbuilding lag.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "Single-hull ships were scrapped, the fleet fell from 300 to 250, and once demand returned shipyards were backlogged for five years with prices rising from $70M to $120M per ship, so rates stayed high for 1000+ days.",
+      "stocks_or_cases": [
+        "Frontline"
+      ]
+    },
+    {
+      "idea": "Great investment ideas are rare; Buffett said 12 decisions in 58 years moved the needle at Berkshire, roughly one good idea every five years and a 4% hit rate.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "From Buffett's 2022 letter; out of 300-400 purchase decisions only about a dozen were exceptional, so keep a Geiger counter running and expect to hit the mother lode only occasionally.",
+      "stocks_or_cases": [
+        "Warren Buffett",
+        "Berkshire Hathaway"
+      ]
+    },
+    {
+      "idea": "Plan B is to peel off 10-15% from Berkshire when a mother-lode anomaly appears, let it play out, then put the proceeds back into Berkshire, which gets you to 100x in half the time.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "You have all the time in the world to research something for three months and let it go if it is not great, because Berkshire keeps compounding in the meantime.",
+      "stocks_or_cases": [
+        "Berkshire Hathaway"
+      ]
+    },
+    {
+      "idea": "Value Investors Club is the modern Moody's Manual: read four or five write-ups a day as an input to ideas, then do all your own work within your circle of competence.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "It is free with a 60-120 day delay, curated (members must post two rated ideas a year), around 500 write-ups a year; old write-ups still work, e.g. he recently invested in a company first written up in 2021.",
+      "stocks_or_cases": [
+        "Value Investors Club",
+        "Moody's Manual"
+      ]
+    },
+    {
+      "idea": "Buffett's Japanese trading company bet was a no-brainer found by flipping through the Japan Company Handbook: 8% dividend yields financed by yen debt at 0.5%.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "He borrowed $5 billion in yen with dividend coverage of 16x the interest, put in no equity, earned roughly 7.5% on $5B immediately, and the stocks doubled in 3-4 years with dividends now ~15% on cost; he then raised stakes toward 10% with the companies' blessing. Pabrai dog-eared Buffett's copy of the handbook around 2019.",
+      "stocks_or_cases": [
+        "Mitsubishi",
+        "Marubeni",
+        "Japanese trading companies",
+        "Japan Company Handbook",
+        "Warren Buffett"
+      ]
+    },
+    {
+      "idea": "If you need Excel it is an automatic pass; the math on a great idea should be doable in your head and the thesis explainable to a 10-year-old in four or five sentences.",
+      "topic": "Circle of competence & checklists",
+      "detail": "Buffett has never used Excel for investments. Example: an international stock exchange at a trailing PE of 30 growing 15-20% with 60% margins becomes under 10x earnings in two or three years, no spreadsheet needed. Conviction is hard if you must keep returning to a model.",
+      "stocks_or_cases": [
+        "Warren Buffett"
+      ]
+    },
+    {
+      "idea": "Never use leverage: Rick Guerin was as good as Buffett and Munger but was in a hurry, got margin calls in the 1973-74 crash and sold his Berkshire to Buffett at $40 a share.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "Buffett told Pabrai and Guy Spier: 'If you are even a slightly above average investor, spend less than you earn, and use no leverage, you cannot help but get rich in a lifetime.' Rick later recovered and died worth hundreds of millions, owning most of the Daily Journal.",
+      "stocks_or_cases": [
+        "Rick Guerin",
+        "Warren Buffett",
+        "Charlie Munger",
+        "Berkshire Hathaway",
+        "Daily Journal"
+      ]
+    },
+    {
+      "idea": "It is almost always a mistake to sell a great business just because it looks fully priced; focus more on business quality than valuation and leave good businesses alone.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "He calls this the mistake of most of his career: repeatedly selling good businesses that appeared expensive and being wrong every time about how expensive they were. Flowers are rare and weeds are plentiful, so do not cut the flowers.",
+      "stocks_or_cases": [
+        "Warren Buffett",
+        "Dexter Shoes"
+      ]
+    },
+    {
+      "idea": "Costco's moat comes from doing public service: a maximum 15% markup and sacred cows like the $1.50 hot dog build member trust and loyalty.",
+      "topic": "Moats & business quality",
+      "detail": "When Costco bought Levi's jeans at $9 that normally sell for $30-40, Jim Sinegal refused to price them above 15% over cost and sold them at $10. Costco pays entry-level staff about 50% more than Walmart ($20/hour minimum) without hurting profitability. Munger discussed Costco at nearly every meal.",
+      "stocks_or_cases": [
+        "Costco",
+        "Jim Sinegal",
+        "Charlie Munger",
+        "Sol Price",
+        "Walmart"
+      ]
+    },
+    {
+      "idea": "Buffett and Munger get results from managers by giving them freedom to build their own sandcastle and never second-guessing, so managers perform because they do not want to let them down.",
+      "topic": "Management & capital allocation",
+      "detail": "Both have rough exteriors but warm hearts; Munger improved Costco quietly from the board with small suggestions rather than activism.",
+      "stocks_or_cases": [
+        "Warren Buffett",
+        "Charlie Munger",
+        "Costco"
+      ]
+    },
+    {
+      "idea": "Wall Street confuses risk with uncertainty, and low risk plus high uncertainty equals high returns.",
+      "topic": "Valuation & margin of safety",
+      "detail": "Markets reward consistent cash flows like ADP's 50 years of growth with high multiples, while a high-uncertainty business like Frontline gets taken out back and shot; that is where opportunity lies.",
+      "stocks_or_cases": [
+        "Frontline",
+        "ADP"
+      ]
+    },
+    {
+      "idea": "He exited the Turkish Coke bottler after Russia effectively nationalized the parent's beer joint venture, because the situation became something he could not handicap and went in the too-hard pile.",
+      "topic": "Stock case studies",
+      "detail": "The parent was the dominant beer bottler in Turkey with its largest operations in Russia in a 50/50 JV with AB InBev; he got his bet back with some return and closed it.",
+      "stocks_or_cases": [
+        "Coca-Cola Icecek",
+        "Anadolu Efes",
+        "AB InBev"
+      ]
+    },
+    {
+      "idea": "99% of investment ideas belong in Buffett's too-hard pile; of 50,000 stocks you will only ever understand a few hundred, and that small sliver is all you need.",
+      "topic": "Circle of competence & checklists",
+      "detail": "The too-hard box physically sits on Buffett's desk; the key trait is the humility to know you cannot handicap most things. He puts 98-99% of what he sees in it, including Michael Burry's 2008 CDS pitch, which he still thinks was right to pass on.",
+      "stocks_or_cases": [
+        "Warren Buffett",
+        "Michael Burry"
+      ]
+    },
+    {
+      "idea": "Be an inch wide and a mile deep like John Arrillaga, who became a billionaire investing only in real estate within two miles of Stanford, unlevered, buying distressed property in every downturn.",
+      "topic": "Circle of competence & checklists",
+      "detail": "We do not need to know many things about many things, we need to know a lot about a little; if looking at Frontline, learn everything about tankers rather than moving on to airplanes next week. Nick Sleep: 'The best investors are entrepreneurs who never sold.'",
+      "stocks_or_cases": [
+        "John Arrillaga",
+        "Nick Sleep",
+        "AerCap"
+      ]
+    },
+    {
+      "idea": "Sam Walton built Walmart as a learning machine that cloned relentlessly from competitors, including Sam's Club copied from Sol Price's Price Club.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "Walton spent more time in competitor stores than anyone, learned from losers ('did you see the candle display?'), and was found lying on a Brazilian store floor measuring aisle widths. Walmart did not innovate for its first 20-25 years; Sol Price influenced Walton, Sinegal and via them Amazon.",
+      "stocks_or_cases": [
+        "Sam Walton",
+        "Walmart",
+        "Sol Price",
+        "Price Club",
+        "Costco",
+        "Amazon"
+      ]
+    },
+    {
+      "idea": "Everyone should have an 'owner's manual': human traits are hardcoded by age five and never change, so find out what games you are built for rather than mirroring what the world expects.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "In 1999 two industrial psychologists did a 360 on him, told him to exit his 170-person IT business where he had become a cat herder, and that he was built for single-player mathematical games with an edge: blackjack, bridge, investing, Dakshana. One of them became an early investor in Pabrai Funds, now 26 years running.",
+      "stocks_or_cases": [
+        "Pabrai Investment Funds"
+      ]
+    },
+    {
+      "idea": "Dakshana is a math game focused on social return on invested capital: about $3,000 per kid takes a family from $60 a month to Google salaries via IIT admission.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "Cloned in 2006 from a man in Bihar coaching 30 poor kids for $800 each who refused to scale; Dakshana now does 1,000 kids a year heading to 2,500, spends $3-4 million a year, and its IIT admit rate rose from 8% in year one to 70% versus a 1.3% general rate. Buffett wrote him a letter calling it the best philanthropy he had seen.",
+      "stocks_or_cases": [
+        "Dakshana Foundation",
+        "IIT",
+        "Warren Buffett"
+      ]
+    },
+    {
+      "idea": "He plans to die on June 11, 2054 with $10,000 left, because large inheritances do more harm than good and surplus compounding should be recycled at high social returns.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "Quotes Buffett: give kids enough to do anything but not enough to do nothing. The giving curve must become dominant in the next few years, with $3 million a year rising to $5, 10, 15 million.",
+      "stocks_or_cases": [
+        "Warren Buffett",
+        "Dakshana Foundation"
+      ]
+    },
+    {
+      "idea": "Start investing as early as possible because runway length dominates: a 22-year-old with a 90-year runway at 10% gets 13 doubles, turning each $10,000 into $8 million.",
+      "topic": "Compounding & long-term holding",
+      "detail": "A small amount saved at 22 beats a larger amount at 32; Roth IRAs have no minimum age, only an earned-wage rule. Rakesh Jhunjhunwala compounded at 40% a year for decades starting with $10,000 borrowed, and Titan is still in its infancy.",
+      "stocks_or_cases": [
+        "Rakesh Jhunjhunwala",
+        "Titan Industries",
+        "Indigo",
+        "Berkshire Hathaway"
+      ]
+    },
+    {
+      "idea": "He ignores macro and AI because he cannot handicap them and brings nothing to that party; you can do extremely well without understanding the flavor of the day.",
+      "topic": "Circle of competence & checklists",
+      "detail": "He knew the internet, electricity and the App Store were transformational but that is not where his edge is; Buffett's Apple was a one-and-done and is mostly sold. Play to your strengths.",
+      "stocks_or_cases": [
+        "Apple",
+        "NVIDIA",
+        "Warren Buffett",
+        "John Arrillaga"
+      ]
+    }
+  ]
+}

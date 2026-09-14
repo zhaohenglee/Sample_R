@@ -1,0 +1,146 @@
+{
+  "video_id": "wT1m8J4hdpA",
+  "date": "2021-11-18",
+  "title": "Mohnish Pabrai’s Q&A session with students at The University of Georgia on November 18, 2021",
+  "summary": "A student Q&A in which Pabrai recounts how the 2008 charity lunch with Buffett led to friendships with Munger and Rick Guerin, then covers circle of competence for young investors, avoiding leverage and macro forecasting, moats and the 'smartest mathematician' test, judging management by track record, his 160-170 question checklist, and no-brainer valuation via Coca-Cola and a Turkish warehouse REIT. He closes with a long discussion of durable high-return businesses using GEICO vs Progressive, American Tower, and his holding Indian Energy Exchange (up 5-6x in three years, 40% of his India fund).",
+  "ideas": [
+    {
+      "idea": "He attributes nearly all of his 2007 net worth (~$80M) to using Buffett's intellectual property without paying royalties, which is why he bid $650,100 with Guy Spier for the 2008 charity lunch.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "Buffett's mental model for the lunch is that the winner must feel they got a bargain; he said he had nothing going on all afternoon and told Pabrai's daughters (10 and 12) to call him Warren. The lunch led to a free second lunch with Munger, then years of Friday bridge at the LA Country Club with Munger and Rick Guerin.",
+      "stocks_or_cases": ["Warren Buffett", "Charlie Munger", "Guy Spier", "Rick Guerin"]
+    },
+    {
+      "idea": "The size of your circle of competence doesn't matter; what matters is staying at its epicenter, and if you're wondering whether something is in it, it isn't.",
+      "topic": "Circle of competence & checklists",
+      "detail": "He cites John Arrillaga's tiny circle; for students, the most likely circle is the products and services they use daily (YouTube, Facebook, Google, iPhone, toothpaste), since becoming a trusted brand is a very high bar.",
+      "stocks_or_cases": ["John Arrillaga", "Facebook", "Google", "Apple"]
+    },
+    {
+      "idea": "Read like a gentleman of leisure, curious about how businesses work, and wait for the two-by-four 'aha moment' where you see an insight the market doesn't; once a year is enough.",
+      "topic": "Psychology & temperament",
+      "detail": "He reads several physical newspapers daily and biographies; he was still learning about Fiat Chrysler from a Reid Hoffman podcast with John Elkann nine years after that investment.",
+      "stocks_or_cases": ["Fiat Chrysler", "John Elkann"]
+    },
+    {
+      "idea": "Fund assets are a temporary pool of capital that can all leave in any year; there's one reason people give you money and many reasons they take it back, so it's not worth worrying about.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "He stumbled into the investment business by accident with a plan only to invest his own money; if all outside capital left he would still consider it a blessed life.",
+      "stocks_or_cases": ["Pabrai Investment Funds"]
+    },
+    {
+      "idea": "Personally, finance depreciating assets and your home but never carry margin debt or play with options; in businesses, the ideal is very high ROE with no borrowed money.",
+      "topic": "Circle of competence & checklists",
+      "detail": "Fair Isaac (FICO scores, ~a penny per score) is his example of a hugely profitable business that needs no leverage; refusing to invest in levered businesses would still let you live a blissful, profitable life, though leverage occasionally creates opportunities when the market misreads it.",
+      "stocks_or_cases": ["Fair Isaac"]
+    },
+    {
+      "idea": "Levered businesses are significantly less likely to survive multiple decades because a downturn coinciding with rising rates lets lenders turn the screws.",
+      "topic": "Moats & business quality",
+      "detail": "Capitalism is brutal and most businesses don't survive more than a few decades even when successful; check gearing ratios and whether interest is a large share of earnings at low rates.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Don't overlay macro assumptions on investing; most people are wrong about everything and it may not matter in the end.",
+      "topic": "Markets, cycles & macro",
+      "detail": "He was wrong about COVID in March 2020 and would never have guessed all-time highs after half a million US deaths or that remote work would raise productivity.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "A horse that counts to ten is a smart horse, not a smart mathematician: the best company in a bad industry is only the smartest horse, so pick businesses with natural advantages and pricing power.",
+      "topic": "Moats & business quality",
+      "detail": "Fair Isaac may be a better business than the best steel company or oil refiner; investors have the choice to be patient and choose where to go.",
+      "stocks_or_cases": ["Fair Isaac"]
+    },
+    {
+      "idea": "Moats are usually obvious with some thought (network effects at Facebook/Instagram, low-cost at Costco); if you can't convince yourself it's a no-brainer, pass, because one decision every year or two is fine.",
+      "topic": "Moats & business quality",
+      "detail": "Moat is Buffett and Munger's shorthand for enduring competitive advantage, simpler than Porter's five forces; sometimes the advantage is hidden and you see it only in the profits or growth, which makes it a treasure hunt.",
+      "stocks_or_cases": ["Facebook", "Instagram", "Costco", "7up"]
+    },
+    {
+      "idea": "Not being able to meet management is an advantage because you won't be sold; judge management by comparing what they said 10-20 years ago to what they delivered.",
+      "topic": "Management & capital allocation",
+      "detail": "Buffett and Munger don't care about projections, only track record; going back 10-15 years shows whether managers under-promise and over-deliver and whether they're competent.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Investing is permanently thrilling because even a simple business like Coca-Cola requires multidisciplinary thinking, such as psychology of association and celebrity endorsement.",
+      "topic": "Psychology & temperament",
+      "detail": "He references his UC Irvine Coca-Cola talk; the factors affecting a business are wide-ranging so you must hone in on what is likely to happen and its impacts.",
+      "stocks_or_cases": ["Coca-Cola"]
+    },
+    {
+      "idea": "Running a business (meeting payroll, losing customers, hiring) teaches more than reading about one; analyzing a company through spreadsheets is dangerous.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Buffett's line that one day walking on land beats a thousand years explaining it to a fish; put yourself in the CEO's seat and identify the three or four variables that drive most of the outcome.",
+      "stocks_or_cases": ["TransTech"]
+    },
+    {
+      "idea": "He would not change the Buffett partnership fee structure if starting over: investors get the first 6%, then a 25/75 split above that with high-water marks.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "At 20% gross returns the manager earns 3.5% on other people's money while investors still net 16.5%, so it's lucrative and aligned.",
+      "stocks_or_cases": ["Buffett Partnership", "Pabrai Investment Funds"]
+    },
+    {
+      "idea": "Greed can mislead you, so build circuit breakers: a 160-170 question pre-investment checklist and a trusted peer investor to discuss ideas with.",
+      "topic": "Circle of competence & checklists",
+      "detail": "Munger told him to discuss ideas with a peer who cares about him rather than an analyst who works for him. On a first pass the checklist typically surfaces 10-20 unanswered questions, which means the work isn't done; focus on what could cause permanent loss of capital and the upside takes care of itself.",
+      "stocks_or_cases": ["Charlie Munger"]
+    },
+    {
+      "idea": "Failures teach, winners only feel good; keep a real brokerage account because you must feel the pain and you will lose money at least one in three times.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "He quotes John Templeton on being wrong one out of three times; Delta Financial, a subprime lender, took $60-70M to zero in 2008 in his concentrated portfolio.",
+      "stocks_or_cases": ["John Templeton", "Delta Financial"]
+    },
+    {
+      "idea": "Everyone has SIC codes they excel at and ones they fail in; after repeated losses he no longer looks at banks or finance companies, but low-cost commodity producers have worked well for him.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "Buffett has apparently never been wrong on a bank (Forrest Rockford, Wells Fargo, JPMorgan, Bank of America, M&T) but Berkshire's dozens of retail acquisitions have mostly done terribly apart from Nebraska Furniture Mart and Borsheims, because retail is so hard.",
+      "stocks_or_cases": ["Warren Buffett", "Illinois National Bank Rockford", "Wells Fargo", "JPMorgan", "Bank of America", "M&T Bank", "Nebraska Furniture Mart", "Borsheims"]
+    },
+    {
+      "idea": "Intrinsic value need not be precise: Coke is clearly worth more than 15x trailing earnings, so at 5x it's a no-brainer and at 12x you don't know and pass, since there are no called strikes.",
+      "topic": "Valuation & margin of safety",
+      "detail": "You can let a thousand balls go by; keep saying no until something like Facebook at 12x earnings shows up and hits you like a two-by-four.",
+      "stocks_or_cases": ["Coca-Cola", "Facebook"]
+    },
+    {
+      "idea": "A Turkish warehouse operator with $600-800M of net asset value and a $20M market cap was a no-brainer where the only remaining question was whether management was honest.",
+      "topic": "Stock case studies",
+      "detail": "12 million sq ft at $70-80/sq ft replacement cost, 99% leased to Amazon, Carrefour and Ikea on ~10-year leases, a couple hundred million of debt; you don't need to weigh a huge bull to know it's big. He met the father and son and checked with trusted locals.",
+      "stocks_or_cases": ["Reysas"]
+    },
+    {
+      "idea": "Shameless cloning remains a big advantage: use Dataroma's top holdings of 10-15 great investors as a 50-stock universe instead of 50,000 global stocks.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "Anything in Chuck Akre's or Bill Ackman's concentrated portfolio has passed many filters; then screen for what you understand, which are great businesses, and finally valuation.",
+      "stocks_or_cases": ["Dataroma", "Chuck Akre", "Bill Ackman"]
+    },
+    {
+      "idea": "Identifying which high-return businesses can keep earning high returns for decades is the hard question that can make you insanely wealthy, and even GEICO shows advantages can erode.",
+      "topic": "Moats & business quality",
+      "detail": "GEICO's direct-writer model gives an 8-12% cost edge over State Farm and Allstate and took it from 2-3% to 8-12% share, but Progressive's early bet on telematics let it run circles around GEICO, which was not predictable 10-15 years ago; similar uncertainty applies to Coke's sugar issue and Visa/MasterCard/Amex in payments. That's why a margin of safety and aha moments are needed.",
+      "stocks_or_cases": ["GEICO", "Progressive", "State Farm", "Allstate", "Coca-Cola", "Visa", "MasterCard", "American Express"]
+    },
+    {
+      "idea": "The definition of a great business is American Tower's CFO with his feet on the desk: sellers know his number and his price, no deals need negotiating.",
+      "topic": "Moats & business quality",
+      "detail": "The second tenant on a tower is nearly 100% margin and carriers keep paying because moving a tower disrupts their network topology, though a satellite disruptor like Elon Musk could change that.",
+      "stocks_or_cases": ["American Tower", "AT&T"]
+    },
+    {
+      "idea": "Indian Energy Exchange is his American Tower: 95-98% share of spot power trading, 1% take rate, 75% of revenue is net income, and share of India's electricity went from 3% to 7.5% in three years with policy pointing to 20-35%.",
+      "topic": "Stock case studies",
+      "detail": "Invested about three years earlier, up 5-6x; an 80-person company that could 10x revenue with only 50% more staff. It's now 40% of his India fund and he'll let it ride and simply disclose even if it reaches 95%.",
+      "stocks_or_cases": ["Indian Energy Exchange", "American Tower"]
+    },
+    {
+      "idea": "He made a mistake trimming IEX from the 5% ownership cap when COVID hit because it always looked expensive; spectacular compounders like IEX or Fair Isaac will never trade at 8x earnings.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "IEX might trade at 80-100x trailing earnings; you only need to find one IEX or one American Tower and, if right about a 30-40 year runway, sit and let it rip.",
+      "stocks_or_cases": ["Indian Energy Exchange", "Fair Isaac", "American Tower"]
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "video_id": "bLjoL5zhBxA",
+  "date": "2017-06-07",
+  "title": "Mohnish Pabrai Lecture at Univ. of California, Irvine (UCI), June 7, 2017",
+  "summary": "Pabrai traces the Blue Chip Stamps saga (1967-1983) through See's Candies, Wesco, Buffalo News and Freddie Mac to show that Buffett, Munger and Rick Guerin built fortunes on roughly five decisions in twenty years, and adds Munger's 2002 Tenneco bet as a modern example. The core mantra is 'few bets, big bets, infrequent bets' combined with the ability to take pain and be decisive on no-brainers. The Q&A covers treasure-hunting through Moody's Manuals and the Japan Company Handbook, the 5x/10x tip filter, risk vs uncertainty (Frontline), Korean preferreds, compounding math for young people, and Dakshana.",
+  "ideas": [
+    {
+      "idea": "Few bets, big bets, infrequent bets is one of the core tenets of value investing.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "From the late sixties to late eighties Buffett, Munger and Guerin made only about five meaningful decisions (control of Blue Chip, See's, Wesco, Buffalo News, Freddie Mac), roughly one every four or five years; the 60% of Blue Chip bought for about $24 million is today worth about $60 billion.",
+      "stocks_or_cases": [
+        "Blue Chip Stamps",
+        "See's Candies",
+        "Wesco Financial",
+        "Buffalo News",
+        "Freddie Mac",
+        "Warren Buffett",
+        "Charlie Munger",
+        "Rick Guerin"
+      ]
+    },
+    {
+      "idea": "Float, especially permanent float that will never be redeemed, lets you control far more assets than you pay for.",
+      "topic": "Moats & business quality",
+      "detail": "In 1967 Blue Chip had ~$50M equity, ~$100M of float (perhaps half never to be redeemed) and traded at $40M; the group took 25M of that float to buy See's Candies in 1972 and another 25M for Wesco in 1973.",
+      "stocks_or_cases": [
+        "Blue Chip Stamps",
+        "See's Candies",
+        "Wesco Financial"
+      ]
+    },
+    {
+      "idea": "Great results come with serious pain: none of this was painless, and one must be able to sit through huge drawdowns.",
+      "topic": "Psychology & temperament",
+      "detail": "In 1972 Wheeler Munger had 94% in two stocks (61% Blue Chip, 23% New America Fund); the partnership fell about 53% over 1973-74 even though the underlying assets were cheap and controlled, and Munger liquidated in 1975 distributing the stock and telling investors to hold. New America Fund later went from under $4 to $100 a unit in 1986.",
+      "stocks_or_cases": [
+        "Wheeler Munger Partnership",
+        "Blue Chip Stamps",
+        "New America Fund",
+        "Daily Journal"
+      ]
+    },
+    {
+      "idea": "Charlie Munger read Barron's for fifty years, acted on exactly one tip, and turned $10 million into roughly $500 million in fifteen years.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "In 2002 he put $10M into Tenneco bonds and stock at 35 cents on the dollar, sold two years later for ~$80M, then gave the $80M to Li Lu, which has grown six or seven times; two actions in fifteen years produced a 50x.",
+      "stocks_or_cases": [
+        "Tenneco",
+        "Li Lu",
+        "Charlie Munger"
+      ]
+    },
+    {
+      "idea": "Keep a few percent of net worth in cash so you can act in size when a rare no-brainer shows up.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "Rick Guerin says keep $10 million in checking in case something shows up; Pabrai rephrases it as keeping one, two or five percent of net worth waiting to be deployed when extreme odds appear.",
+      "stocks_or_cases": [
+        "Rick Guerin"
+      ]
+    },
+    {
+      "idea": "Investing is an activity for a person of leisure; patience is like a law of physics in investing and hyperactivity does not jive with a great track record.",
+      "topic": "Psychology & temperament",
+      "detail": "He suggests millennials get the hyperactivity out of their system with a day job such as a fast-moving start-up, keeping investing as a second bucket of reading and waiting; he admits he has not practiced enough patience himself and gives such talks partly to pound the idea into his own head.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "There is always a bull market somewhere: with ~100,000 listed stocks globally, several hundred are always trading far below intrinsic value.",
+      "topic": "Valuation & margin of safety",
+      "detail": "Markets are almost but not fully efficient, and there is a huge gap between those two statements; Buffett says he'd be a bum on the street with a tin cup if markets were efficient.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Buffett treats stock hunting like the kid collecting discarded winning tickets at Aksarben racetrack, and you cannot take Aksarben out of the kid.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "In 1951 Buffett went through all 20,000 pages of Moody's Manuals twice and found things like Western Insurance earning $29 a share with $135 book value trading between $3 and $13; in 2011 Pabrai found the Japan Company Handbook on Buffett's desk, and in 2006 Buffett put $100M of personal money into 20 Korean stocks such as Daehan Flour at one third of liquidation value.",
+      "stocks_or_cases": [
+        "Warren Buffett",
+        "Western Insurance",
+        "Japan Company Handbook",
+        "Daehan Flour Mills"
+      ]
+    },
+    {
+      "idea": "A small amount of capital like $5,000 is a huge advantage, not a handicap; Buffett's problem is $400 billion.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Tiny, thinly traded Japanese net-nets or obscure stocks that a fund can barely put $100K into are wide open to the small investor willing to flip through 40,000 pages.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Filter every stock tip by two numbers: unless the gap between current price and claimed value is at least 5x, preferably 10x, throw it away.",
+      "topic": "Circle of competence & checklists",
+      "detail": "Two years earlier an unknown sender's 10-page write-up showed a 10x delta; after two hours of checking every number he put $20M of Pabrai Funds into the Hyderabad-based company, now worth north of $50M and possibly $100-200M, having never met management.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Finding just one five-bagger every ten years turns a few thousand dollars into tens of millions over a lifetime.",
+      "topic": "Compounding & long-term holding",
+      "detail": "$5,000 at 20 compounding 5x per decade becomes 25K at 30, 125K at 40, 625K at 50, 3M at 60, 15M at 70 and 75M at 80; with 20,000 working hours per decade you should be able to find one.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Cheapness gets over a lot of negatives, such as Japanese governance issues and hoarded cash.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "He and Guy Spier screened Japanese net-nets via the Japan Company Handbook and Capital IQ; a basket of 10-20 Japanese net-nets needs maybe 30 minutes per company with small bet sizes.",
+      "stocks_or_cases": [
+        "Guy Spier",
+        "Japan Company Handbook"
+      ]
+    },
+    {
+      "idea": "South Korea in 2017 is one of the cheapest markets in the world, and Korean preferreds trading at a third to a half of the common are an irrational anomaly.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "The preferreds are economically identical to the common except for voting rights (Google's two classes differ by only 2%), but Koreans view them with disdain because they were issued in the crisis bailouts; he suggests a basket of Korean preferreds such as Hyundai Motor preferred and also finds smaller-cap India relatively cheap.",
+      "stocks_or_cases": [
+        "Hyundai Motor",
+        "Google"
+      ]
+    },
+    {
+      "idea": "Skip the Fortune 500 entirely and go fishing where the fish are: hated sectors, unloved countries, distressed situations.",
+      "topic": "Circle of competence & checklists",
+      "detail": "GE is followed by two dozen analysts and no report will show a 5x or 10x gap, so he dismisses the thousand largest US businesses in two seconds; Buffett's too-hard box holds 98% of what he sees; Qatar's tanking market is a better hunting ground than GE.",
+      "stocks_or_cases": [
+        "GE",
+        "Qatar"
+      ]
+    },
+    {
+      "idea": "For mere mortals, about 10 stocks in a few different industries is plenty; 50 stocks will not help you.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "Munger's example is owning fractions of the McDonald's franchise, Ford dealership and best office and apartment buildings in one small town; the right number depends on conviction and moat durability, since almost all moats erode over time.",
+      "stocks_or_cases": [
+        "Charlie Munger",
+        "McDonald's",
+        "Ford"
+      ]
+    },
+    {
+      "idea": "Stay within a narrow circle of competence: specialization is a huge advantage and the narrower and more intense, the better.",
+      "topic": "Circle of competence & checklists",
+      "detail": "Munger's friend John Arrillaga became a billionaire investing only in real estate within a few blocks of Stanford, buying when pessimistic, selling when euphoric, never levered; Pabrai says China largely falls in his too-hard pile (one China and one Hong Kong holding).",
+      "stocks_or_cases": [
+        "John Arrillaga"
+      ]
+    },
+    {
+      "idea": "Risk and uncertainty are different things, and the best setups combine very low risk with very high uncertainty.",
+      "topic": "Valuation & margin of safety",
+      "detail": "Low-uncertainty businesses like a funeral home in Peoria are priced like bonds; in 2001-02 Frontline, with ~40% of the global VLCC fleet on spot rates, fell to $3 when rates collapsed to $10-12K/day versus ~$11 of distressed liquidation value, and he doubled his money in six months.",
+      "stocks_or_cases": [
+        "Frontline"
+      ]
+    },
+    {
+      "idea": "Selling Frontline at liquidation value was a mistake: he missed the supply-cycle upside and the stock eventually went 200 to one.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "VLCCs take two or three years to build and get scrapped when rates hit $10K, so when demand returned rates went to a quarter million a day; like Class A office towers, the shipping cycle is driven by lemming-like ordering with long lead times.",
+      "stocks_or_cases": [
+        "Frontline"
+      ]
+    },
+    {
+      "idea": "The business requires combining extreme patience with extreme decisiveness: do nothing for long periods, then act in size when the opportunity is obvious.",
+      "topic": "Psychology & temperament",
+      "detail": "He believes these traits are partly genetic predisposition that can be built upon but not fully reprogrammed.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Never make investment decisions based on who is in office; US presidents have very little power and the system tends toward inaction.",
+      "topic": "Markets, cycles & macro",
+      "detail": "Where Daehan Flour or Frontline trade has nothing to do with who is in power; spending time on the nuances of President Trump is entertaining but will not help your net worth.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Avoid leverage; the most controllable element of compounding is the length of the runway, so spend less than you earn and start very early.",
+      "topic": "Compounding & long-term holding",
+      "detail": "His daughter's $5,000 IRA at 18 compounding 15% (doubling every five years, 2^10 = 1024) becomes $5 million tax-deferred at 68; never cash out a 401k, never carry credit card debt, and even an index fund doubling every ten years yields 32x over 50 years.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Ride sharing and autonomy are tailwinds for auto and especially tire companies because cheaper mobility raises miles driven.",
+      "topic": "Stock case studies",
+      "detail": "Full level-five autonomy is 10-20 years away, but with Fiat Chrysler bought at roughly a P/E of one on 2018-19 earnings he doesn't care about 2025-30; a tipster sent him an obscure tire company at 2.5x earnings that trades by appointment, and he has nibbled ~$4 million so far in a $560M fund.",
+      "stocks_or_cases": [
+        "Fiat Chrysler",
+        "Uber"
+      ]
+    },
+    {
+      "idea": "Use the 'second 40 hours' of the week for your passion, and reduce day-job intensity to just above firing level when launching a start-up.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "He ran a dual life for nine months until his start-up had revenue and two or three months of visibility before resigning; his boss said 'you were just gone.'",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Collect mental models the way Munger does, including that people don't care that you screw up, they care that you are candid about it.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Candor about mistakes strengthens relationships and deepens trust; spend time with people better than you because the magnetic pull works both ways.",
+      "stocks_or_cases": [
+        "Charlie Munger"
+      ]
+    },
+    {
+      "idea": "Large inheritances are a disservice to children, so the only remaining option is to recycle wealth back to society, and giving money away well is harder than making it.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "He and his wife started Dakshana about 11 years ago in his early forties, giving 2% of net worth a year to allow a decade of learning from failure; Dakshana's budget is now a little over $3 million a year, half from his family; philanthropy should swing for the fences like the Gates Foundation, the opposite of investing.",
+      "stocks_or_cases": [
+        "Dakshana Foundation",
+        "Gates Foundation"
+      ]
+    }
+  ]
+}

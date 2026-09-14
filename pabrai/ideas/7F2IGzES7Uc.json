@@ -1,0 +1,253 @@
+{
+ "video_id": "7F2IGzES7Uc",
+ "date": "2015-12-03",
+ "title": "Boston College, Carroll School of Management Presentation, December 3, 2015",
+ "summary": "Pabrai walks through a century of bubbles (the 1920s motors bubble, the 1960s 'tronics' bubble, the dotcom bubble and the 1972 Nifty 50) and argues that 2015's richly valued tech names (Amazon, Netflix, Tesla, unicorns) are a new Nifty 50 that investors should sidestep. In Q&A he covers cloning and his idea filter, position sizing, risk vs. uncertainty (WL Ross SPAC, Silicon Valley Bank), the Sears mistake Munger flagged, Munger's 'cannibals, cloners, spinoffs' rule, avoiding management meetings, moats, and the Kelly formula retraction, closing with career and life advice via the Mexican fisherman story.",
+ "ideas": [
+  {
+   "idea": "Bubbles are far more common than people think and recur wherever humans oscillate between fear and greed.",
+   "topic": "Markets, cycles & macro",
+   "detail": "He cites Ron Insana's book Trend Watching, which lists bubbles happening somewhere in the world almost all the time; as long as humans are involved in markets there will be bubbles.",
+   "stocks_or_cases": [
+    "Ron Insana"
+   ]
+  },
+  {
+   "idea": "Investors can be completely right about a transformational trend and still lose their entire investment.",
+   "topic": "Markets, cycles & macro",
+   "detail": "1921 auto investors were right about population growth, industrialization and auto sales (1.5-2.5 million then vs 18 million forecast in 2015) yet nearly all lost everything as hundreds of car makers died; 1959-62 'tronics' investors were right about Moore's Law and 1999 dotcom investors were right about the internet, with the same result.",
+   "stocks_or_cases": [
+    "Stanley Steamer",
+    "Lafayette",
+    "Powertron Ultrasonics",
+    "boo.com",
+    "Kozmo"
+   ]
+  },
+  {
+   "idea": "Mega bubbles recur roughly every 38-40 years because the investors who lived through the last one must exit the scene before the next can take hold.",
+   "topic": "Markets, cycles & macro",
+   "detail": "The motors, tronics and dotcom bubbles were each ~38-40 years apart and the 1972 Nifty 50 and today's are 43 years apart; he expects the next big one around 2036-2042, with investors again saying 'this time it's different'.",
+   "stocks_or_cases": []
+  },
+  {
+   "idea": "The 1972 Nifty 50 'buy great businesses at any price and hold forever' idea ended with 80-90% drops in blue chips during the 1973-74 crash.",
+   "topic": "Markets, cycles & macro",
+   "detail": "McDonald's traded at 86x earnings, Disney at 82x and Polaroid at 91x in 1972; the slow-motion 1973-74 crash (over 60% end to end) was worse than 1929 and the Nifty 50 were 'taken out back and shot one by one'.",
+   "stocks_or_cases": [
+    "McDonald's",
+    "Disney",
+    "Polaroid",
+    "Coca-Cola",
+    "Kodak",
+    "Xerox"
+   ]
+  },
+  {
+   "idea": "In 2015 there is a new Nifty 50 concentrated in a sliver of tech stocks, and the best advice is to stay away from the high flyers.",
+   "topic": "Markets, cycles & macro",
+   "detail": "Amazon at 576x+ earnings, Netflix north of 200x, Tesla and SolarCity unprofitable, Uber at $50 billion; 141 unicorns worth a combined $500 billion, most of which he does not expect to deliver for investors. Money is being funneled from fixed income and old-economy stocks into these names. Netflix is a great business but over 99% of its content is other people's and must be paid for; he quotes Einhorn expecting Micron to be worth more than Netflix.",
+   "stocks_or_cases": [
+    "Amazon",
+    "Netflix",
+    "Tesla",
+    "SolarCity",
+    "Uber",
+    "Twitter",
+    "Facebook",
+    "GoPro",
+    "Groupon",
+    "Square",
+    "Micron",
+    "David Einhorn"
+   ]
+  },
+  {
+   "idea": "Tesla is a capital-intensive manufacturer priced like a capital-light tech business, while GM is ignored despite being far larger and ahead on electric cars.",
+   "topic": "Stock case studies",
+   "detail": "Tesla: ~$30 billion market cap, $4 billion revenue run rate, losing $400 million a year, under 50,000 cars; scaling to 200,000 cars would take tens of billions of capex, and even at 8% margins (best car companies make ~7%) the PE would exceed 100. GM makes 9-10 million cars, is number one in the US and China, generates $10 billion heading to $12-13 billion in cash flow, buys back stock with NOLs shielding income, and has the $30,000, 200-mile Chevy Bolt coming two years before an equivalent Tesla.",
+   "stocks_or_cases": [
+    "Tesla",
+    "General Motors"
+   ]
+  },
+  {
+   "idea": "Use Munger's inversion to test valuations: a 15% return on Amazon implies a $5 trillion market cap in 20 years, which the law of large numbers makes implausible.",
+   "topic": "Valuation & margin of safety",
+   "detail": "Amazon at ~$320-330 billion would need to double every five years; the entire US stock market is ~$20 trillion and global wealth ~$100 trillion growing 1-2% a year, so one company becoming 10-20% of the US economy is not credible. 'Count me a sceptic.'",
+   "stocks_or_cases": [
+    "Amazon",
+    "Charlie Munger"
+   ]
+  },
+  {
+   "idea": "Judge yourself on Munger's inner scorecard, not the market's outer scorecard, during multi-year periods of underperformance.",
+   "topic": "Psychology & temperament",
+   "detail": "Pabrai Funds lagged its benchmarks over the prior five years (like Sequoia Fund in its first five years) and was down close to 70% in 2008 vs. ~37-38% for the market; his motto: if wealth is lost nothing is lost, if health is lost something is lost, if character is lost everything is lost. Pabrai Funds, started in 1999 with none of the high flyers, was up 70% in its first year through the dotcom burst.",
+   "stocks_or_cases": [
+    "Sequoia Fund",
+    "Pabrai Investment Funds",
+    "Charlie Munger"
+   ]
+  },
+  {
+   "idea": "Cloning is the starting point, but every borrowed idea must pass independent filters: circle of competence, understanding the business, what it is worth, the risks and the checklist.",
+   "topic": "Cloning & learning from great investors",
+   "detail": "He calls himself the shameless cloner with 'no internal ideas', borrowing freely from Einhorn and others, then discussing with Guy Spier; independence of thought and strong conviction remain the most basic requirements for a decent investor. First rule of cloning: look at where concentrated investors have put the most money, ideally their largest position.",
+   "stocks_or_cases": [
+    "David Einhorn",
+    "Guy Spier",
+    "Valeant",
+    "Horsehead Holdings"
+   ]
+  },
+  {
+   "idea": "The idea funnel is designed to reject: is it in my circle of competence (usually no), and is the price below half of what it is worth (usually no); only the small sliver that survives gets deep reading.",
+   "topic": "Circle of competence & checklists",
+   "detail": "'We are not looking for a reason to invest in; we are looking for a reason not to invest.' Survivors go to Guy Spier for independent reading, then the checklist, then position sizing.",
+   "stocks_or_cases": [
+    "Guy Spier"
+   ]
+  },
+  {
+   "idea": "Position sizing runs at 2%, 5% and 10% of assets with a 10% maximum, and winners are never trimmed because he would rather water the flowers and cut the weeds.",
+   "topic": "Portfolio concentration & selling",
+   "detail": "He started with a 10x10 portfolio, then after the financial crisis moved to baskets (e.g. a commodities basket) and tiers: 2% for asymmetric bets like Fannie/Freddie preferreds, 5% for good conviction, 10% for the most serious ideas. The first 75% of the portfolio goes into likely doubles, the next 10% into triples, 10% into 4x and 5% into 5x ideas; at the depths of a crisis one should be fully invested.",
+   "stocks_or_cases": [
+    "Fannie Mae",
+    "Freddie Mac"
+   ]
+  },
+  {
+   "idea": "Risk and uncertainty are different things, and markets punishing uncertainty creates low-risk, high-uncertainty opportunities.",
+   "topic": "Valuation & margin of safety",
+   "detail": "WL Ross Holdings (WLRH), a $500 million SPAC with ~$10 per share of cash bought below $9.97, has huge uncertainty about what Wilbur Ross will buy but almost no risk since fees are refunded and cash returns if no deal is done; the WLRHU units add a half-share option kicker.",
+   "stocks_or_cases": [
+    "WL Ross Holdings",
+    "Wilbur Ross"
+   ]
+  },
+  {
+   "idea": "Silicon Valley Bank in July 1999 was a way to get the upside of the dotcom bubble without the downside.",
+   "topic": "Stock case studies",
+   "detail": "His first Pabrai Funds investment: a solid, profitable bank valued with zero credit for hundreds of undisclosed warrants in venture-backed companies; as the bank monetized the warrants and disclosed them the stock re-rated and he made 3-4x in about a year.",
+   "stocks_or_cases": [
+    "Silicon Valley Bank"
+   ]
+  },
+  {
+   "idea": "Liquidation value can be an illusion when a business employs many people, which is the lesson of his Sears mistake.",
+   "topic": "Mistakes & lessons learned",
+   "detail": "At a June 2009 lunch Charlie Munger shook his head at Sears in Pabrai's portfolio, recalling how he and Buffett barely got out of Diversified Retailing's Baltimore department stores; monetizing Sears real estate meant firing 100,000+ employees, and Amazon is eroding the value of mall real estate anyway. He sold and redeployed into other depressed stocks.",
+   "stocks_or_cases": [
+    "Sears",
+    "Charlie Munger",
+    "Eddie Lampert",
+    "Diversified Retailing"
+   ]
+  },
+  {
+   "idea": "Investing knowledge is cumulative, so an investor's best days can be ahead of him as long as he keeps pumping content into his brain and learning from others' mistakes.",
+   "topic": "Cloning & learning from great investors",
+   "detail": "Read Forbes, Fortune, Businessweek, the Economist, the NYT, WSJ, FT and books by great authors; learning from other people's mistakes is cheaper than your own. He never owned Valeant but read the biography of ITT's Harold Geneen after Munger's comparison to understand it.",
+   "stocks_or_cases": [
+    "Valeant",
+    "ITT",
+    "Harold Geneen"
+   ]
+  },
+  {
+   "idea": "The size of the circle of competence does not matter; knowing its boundaries does, and a tiny circle can make a fortune.",
+   "topic": "Circle of competence & checklists",
+   "detail": "Munger's friend John Arrillaga built a $2-3 billion fortune only on real estate within a mile or two of Stanford; Munger's Peoria example: buy the Ford dealership, McDonald's franchise, best apartment building and best office building at the right price and sit for 60-80 years.",
+   "stocks_or_cases": [
+    "John Arrillaga",
+    "Charlie Munger"
+   ]
+  },
+  {
+   "idea": "He avoids industries with rapid change and looks for no-brainers that can be explained in three or four sentences.",
+   "topic": "Circle of competence & checklists",
+   "detail": "He understands lowest-quartile-cost commodity producers well and is still learning the power of brands and intangibles; he made a small investment in Google as an exception. Don't force the circle to expand, it expands by osmosis through reading.",
+   "stocks_or_cases": [
+    "Google"
+   ]
+  },
+  {
+   "idea": "Munger told him a good investment operation needs to focus on just three things: cannibals, cloners and spinoffs.",
+   "topic": "Buffett & Munger lessons",
+   "detail": "Cannibals are companies aggressively buying back stock, like all of Berkshire's permanent holdings (American Express, Coca-Cola, IBM, Wells Fargo); back tests for a planned Dhandho Holdings ETF showed incredible outperformance from cannibals; Greenblatt's book covers spinoffs.",
+   "stocks_or_cases": [
+    "American Express",
+    "Coca-Cola",
+    "IBM",
+    "Wells Fargo",
+    "Dhandho Holdings",
+    "Joel Greenblatt"
+   ]
+  },
+  {
+   "idea": "Fiat Chrysler was a no-brainer: a company with over $100 billion of revenue at a market cap under $5 billion, and the Ferrari spinoff alone is now worth $10 billion.",
+   "topic": "Stock case studies",
+   "detail": "Bought about three and a half years earlier and still held; Ferrari sells 7,000 cars vs. Fiat's ~5 million, yet the spun-out sliver is worth 2x what the market priced the whole business at. He would have said autos were too ugly to invest in before 2012, so staying flexible matters.",
+   "stocks_or_cases": [
+    "Fiat Chrysler",
+    "Ferrari"
+   ]
+  },
+  {
+   "idea": "There is no point meeting management: the average CEO is a great salesman and you will only be impressed; judge managers by their long track record of what they said versus what they delivered.",
+   "topic": "Management & capital allocation",
+   "detail": "He never reaches out to management and tells those who contact him not to waste their time; he now puts far more weight on ultra-high-quality management than in 1999 and his portfolio is much richer in it. Wilbur Ross at WLRH is a high-quality manager available at no premium.",
+   "stocks_or_cases": [
+    "WL Ross Holdings",
+    "Wilbur Ross"
+   ]
+  },
+  {
+   "idea": "Other things being equal you are better off buying businesses with huge runways that will appreciate, even paying up for them, rather than merely cheap assets.",
+   "topic": "Moats & business quality",
+   "detail": "Tom Gayner's example: $50 in the S&P at the 1972 Nifty 50 peak became $2,800, but $3 in just three of the Nifty 50 (with 47 going to zero) is worth more than that; buying Amex the day before the salad-oil crisis and holding converges over time to Buffett's return from buying 40% lower. The 1999 Mohnish was a cheapskate; the 2015 Mohnish prefers a good business at a fair price.",
+   "stocks_or_cases": [
+    "Tom Gayner",
+    "Markel",
+    "American Express",
+    "Walmart"
+   ]
+  },
+  {
+   "idea": "Evaluating moats is one of the hardest things in investing because capitalism's creative destruction means almost all moats eventually get destroyed.",
+   "topic": "Moats & business quality",
+   "detail": "Kodak had a monopoly on film and Xerox owned its market in 1972, yet both were destroyed; the goal is enduring moats at great prices where the rest of humanity does not see the moat. Guy Spier considers Nestle bulletproof. Rapidly changing industries are the enemy of the investor: of the 1972 Nifty 50 tech names only IBM survived, and he would not bet Netflix or GoPro exist in 2068.",
+   "stocks_or_cases": [
+    "Kodak",
+    "Xerox",
+    "Nestle",
+    "Guy Spier",
+    "IBM",
+    "Netflix",
+    "GoPro"
+   ]
+  },
+  {
+   "idea": "The single greatest skill an investor can bring is extreme patience.",
+   "topic": "Psychology & temperament",
+   "detail": "'If you are a guy or girl who loves to watch paint dry, you will be a great investor.' Buffett and Munger spend much time reducing mistakes and holding great moats untouched for decades.",
+   "stocks_or_cases": []
+  },
+  {
+   "idea": "Putting the Kelly formula in his book was a mistake; it does not apply to one-off investment bets.",
+   "topic": "Mistakes & lessons learned",
+   "detail": "Kelly works for 5,000 repeated coin tosses at 51/49 odds, not for the one-off bets investors make; he would remove it from any new edition of The Dhandho Investor.",
+   "stocks_or_cases": []
+  },
+  {
+   "idea": "Go to work for people you like, admire and trust, and don't defer life; be like the fisherman, not the banker.",
+   "topic": "Career, entrepreneurship & life",
+   "detail": "Buffett's advice says nothing about comp or blue-chip status, only people; deferring is like 'saving sex for old age'. Life is finite, we leave naked, and once basics are covered you should not work anywhere that is not high quality all the way; hit the reset button if so.",
+   "stocks_or_cases": [
+    "Warren Buffett"
+   ]
+  }
+ ]
+}

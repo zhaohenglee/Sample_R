@@ -1,0 +1,146 @@
+{
+  "video_id": "SP6kKi2nMz4",
+  "date": "2023-05-05",
+  "title": "Mohnish Pabrai's Presentation and Q&A with the University of Nebraska, Omaha on May 5, 2023",
+  "summary": "Pabrai debuts his 'circle the wagons' presentation: Buffett's 2023 letter admits only about a dozen of ~300 decisions (roughly 4%) drove Berkshire's results, and the same pattern holds for Naspers/Tencent, Jhunjhunwala/Titan, Nick Sleep/Amazon, Graham/GEICO and the Nifty 50. The lessons are that error rates will be huge, don't cut the flowers and water the weeds, don't pay fancy prices, and maximize the runway. He candidly admits he lacks an answer for when a winner becomes egregiously overpriced, using Silicon Valley Bank (sold in 2000, then zero in 2023) and Reysas at 40% of his offshore fund as live dilemmas.",
+  "ideas": [
+    {
+      "idea": "Even Buffett's results came from about a dozen truly great decisions out of roughly 300, a 4% hit rate, and at least half of Berkshire's 80-plus acquisitions were probably outright mistakes.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "From the 2023 letter: 80 acquisitions, at least 210 stocks and ~10 key hires over 58 years; his guess at the dozen is Ajit Jain, GEICO, Coke, Amex, See's, Apple, BNSF, MidAmerican, National Indemnity, Gillette, Washington Post and Cap Cities/ABC.",
+      "stocks_or_cases": ["Berkshire Hathaway", "Ajit Jain", "GEICO", "Coca-Cola", "American Express", "See's Candies", "Apple", "BNSF", "MidAmerican Energy", "National Indemnity", "Gillette", "Washington Post", "Capital Cities/ABC"]
+    },
+    {
+      "idea": "The important thing was not buying the 12 winners but keeping all 300 decisions; investing is very forgiving if you don't cut the flowers and water the weeds.",
+      "topic": "Compounding & long-term holding",
+      "detail": "With just those dozen decisions Berkshire produced almost 4,000,000% versus a small fraction of that for the S&P; Michael Goldberg, who hired Ajit, still gets $1 million a year from Berkshire decades later because it's still a great deal.",
+      "stocks_or_cases": ["Berkshire Hathaway", "Michael Goldberg"]
+    },
+    {
+      "idea": "Naspers' $32 million for 46.5% of Tencent in 2001 worked because Koos Bekker never sold from 2004 to 2018, even when Tencent was 99% of Naspers' value in a company it did not control in China.",
+      "topic": "Stock case studies",
+      "detail": "Bekker took zero salary and zero bonus in exchange for 6% of value created on his watch; the stake, bought from Li Ka-shing, compounded about 50% for over 20 years, and per-share look-through ownership of Tencent has risen via buybacks even as Naspers/Prosus sold some from 2018.",
+      "stocks_or_cases": ["Naspers", "Prosus", "Tencent", "Koos Bekker", "Pony Ma", "Li Ka-shing"]
+    },
+    {
+      "idea": "Rakesh Jhunjhunwala turned $400 into $5.8 billion (56% compounded over 36-37 years), and his Titan position alone went from $3.7 million to $1.4 billion.",
+      "topic": "Stock case studies",
+      "detail": "He bought 5.9% of Titan (Tanishq jewelry) in 2003, then by 2011 raised the stake to 11% paying almost 20 times his first price, overcoming the anchoring most investors can't; he still owned 5.2% at death and Pabrai considers Titan still embryonic in its growth.",
+      "stocks_or_cases": ["Rakesh Jhunjhunwala", "Titan Industries", "Tanishq"]
+    },
+    {
+      "idea": "Nick Sleep's Nomad could have been wrong 80% of the time and still won: the 20% Amazon position from 2004 alone would have beaten the S&P by six points if everything else went to zero.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "Investors left Nomad over concentration; when Nomad closed in 2014 with ~$3B, Sleep told LPs to put money equally in Amazon, Costco and Berkshire for 10 years, but a large university endowment said it was not allowed to buy stocks; Sleep himself trimmed Amazon at 70% of his portfolio to buy ASOS, which has not done well.",
+      "stocks_or_cases": ["Nick Sleep", "Nomad Partnership", "Amazon", "Costco", "Berkshire Hathaway", "ASOS"]
+    },
+    {
+      "idea": "Ben Graham's biggest success was buying a great business, GEICO, and never applying his sell-at-intrinsic-value rule to it, though he never wrote about that.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "He put 25% of the portfolio into half of GEICO for $712,000 in 1948; by his death in 1976 it was $95 million excluding dividends and more than half his net worth; GEICO alone would have delivered 12.9% versus 6.9% for the S&P.",
+      "stocks_or_cases": ["Ben Graham", "GEICO"]
+    },
+    {
+      "idea": "The Nifty 50 bought at peak 1972 valuations, with many zeros and no price discipline, still returned 10.2% annualized versus 10.3% for the S&P, and with Walmart at 2% and the other 98% at zero you'd have compounded 13%.",
+      "topic": "Compounding & long-term holding",
+      "detail": "In 1972 Xerox was 49x, Avon 65x and Polaroid 91x trailing earnings and they fell 71%, 86% and 91% before eventually going to zero; the group halved in 1973-74 and by 1975 everyone had abandoned it.",
+      "stocks_or_cases": ["Nifty 50", "Walmart", "Xerox", "Avon", "Polaroid", "McDonald's", "Disney"]
+    },
+    {
+      "idea": "Berkshire put a quarter of book value into Coke in 1988 and never sold at the 1998 nosebleed valuation; even so, the full-period result is 12% versus 10.5% for the index, which leaves him genuinely unsure whether keeping Coke was right.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "Coke returned 32% annualized from 1988-98 and only 4% a year since; Buffett has said in hindsight he should have sold in 1999-2000.",
+      "stocks_or_cases": ["Coca-Cola", "Berkshire Hathaway"]
+    },
+    {
+      "idea": "Three key lessons: the error rate will be huge, hold great businesses for dear life, and do not pay fancy prices for great businesses.",
+      "topic": "Compounding & long-term holding",
+      "detail": "If Warren and Charlie have big errors, mere mortals will have bigger ones; focus on great businesses with great people and long runways, as with Titan, Coke, Amex, GEICO, Amazon, Tencent and Ajit Jain, whose ~$20 million bonus Buffett feels is missing a zero.",
+      "stocks_or_cases": ["Ajit Jain", "Greg Abel"]
+    },
+    {
+      "idea": "Chuck Akre's three-legged stool: highest-integrity managers with skin in the game, very high returns on invested capital with reinvestment ability, and a very long runway.",
+      "topic": "Moats & business quality",
+      "detail": "Pabrai visited Akre in one-traffic-light Middleburg, Virginia in November 2022; Akre's top holding is American Tower and when told 'I found the next American Tower' he replied 'son, the next American Tower is American Tower.'",
+      "stocks_or_cases": ["Chuck Akre", "American Tower"]
+    },
+    {
+      "idea": "Of the three compounding variables (starting capital, rate of return, runway), the runway is the one we control most, so prioritize longevity.",
+      "topic": "Compounding & long-term holding",
+      "detail": "At 7% money doubles in 10 years, at 10% in seven; Buffett became a billionaire at 56 and ~99% of his wealth came in the last three decades, so his wish is to live as long as possible to keep compounding.",
+      "stocks_or_cases": ["Warren Buffett"]
+    },
+    {
+      "idea": "Do not sell when things appear fully priced because great businesses surprise on the upside; selling may make sense only when egregiously overpriced, and he admits he can't tell where that line is.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "Applying this a single great business could become 60-99% of a portfolio as with Naspers; Naspers and Buffett could tolerate it because Tencent and Berkshire are internally diversified.",
+      "stocks_or_cases": ["Naspers", "Tencent", "Berkshire Hathaway"]
+    },
+    {
+      "idea": "Silicon Valley Bank, his fund's first investment on July 1, 1999, shows the dilemma: selling after a 150% gain in 2000 missed 23 years of 25% compounding, yet holding would have ended at zero in 2023.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "He bought it at slightly above book with an undisclosed basket of warrants as a no-downside way to play the bubble; his tentative answer is perhaps capping a position at 50%.",
+      "stocks_or_cases": ["Silicon Valley Bank"]
+    },
+    {
+      "idea": "Reysas is 40% of his ~$200 million offshore fund after a 10x and is still at roughly a third of liquidation value, and he honestly has no answer for how to handle such happy problems.",
+      "topic": "Stock case studies",
+      "detail": "Three bets make up 70% (~$140M) of the fund; if Reysas reached full liquidation value it would be $250M, nearly 70% of the pie; he invested only single-digit millions originally.",
+      "stocks_or_cases": ["Reysas", "Pabrai Investment Fund"]
+    },
+    {
+      "idea": "You don't need to identify the Pony Ma or Sam Walton upfront; with a 98% error rate you're fine as long as one is among 30 yo-yos, and you only really get to know a business after owning it a few years or after it drops 40%.",
+      "topic": "Management & capital allocation",
+      "detail": "After four years owning Reysas he finally met the founder and understood why it enters new businesses and becomes number one: he is an Energizer bunny doing 72 hours of work in 24, similar to what Buffett says of Greg Abel; screen on historic ROIC, then let the wheat separate from the chaff.",
+      "stocks_or_cases": ["Reysas", "Pony Ma", "Greg Abel"]
+    },
+    {
+      "idea": "Many of his buy decisions were exceptional and the sell decisions horrible, and he expects this to keep happening.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "No investor has ever assembled Walmart, Amazon, Costco and Tencent together; accept errors, study what you own, and err on the side of patience because being trigger-happy is a bigger risk than failing to sell optimally.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Turkey lets him invest at Grahamian prices in Mungeresque businesses, which he calls the most orgasmic combination.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "With ~50,000 stocks worldwide you can find businesses at a P/E of 1 or even 0.1 if willing to dig; Turkey made it easy because business quality was so high and prices so low; Charlie was quicker than Warren to grasp that you want great businesses rather than buy-at-discount-sell-at-fair-value.",
+      "stocks_or_cases": ["Turkey", "Charlie Munger"]
+    },
+    {
+      "idea": "Seritage was a liquidation-value bet where the 80/20 prime properties were supposed to carry the value, but with rising rates the old $30 price now looks too optimistic and there is no need to circle the wagons around it.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "The stock went from the thirties to $6-7, which looked too low, but real estate distress has changed the picture; he is willing to let it go.",
+      "stocks_or_cases": ["Seritage Growth Properties"]
+    },
+    {
+      "idea": "The human brain is set up to specialize between ages 11 and 20, but school makes you a jack of all trades, so parents must foster specialization outside school.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Buffett and Bill Gates specialized as teenagers outside the school system; parents should identify aptitudes at 10-12 and increase time on them.",
+      "stocks_or_cases": ["Warren Buffett", "Bill Gates"]
+    },
+    {
+      "idea": "Start your circle of competence with the products you actually buy, because a company that can extract even a dollar from a careful human has a tremendous moat.",
+      "topic": "Circle of competence & checklists",
+      "detail": "A 16-year-old with an Apple phone, Levi's jeans and Nike shoes already understands something about those businesses; very narrow circles are enough.",
+      "stocks_or_cases": ["Apple", "Levi's", "Nike"]
+    },
+    {
+      "idea": "Ajit Jain is a very good bookie: Berkshire's willingness and trusted capacity to take huge payouts lets it charge roughly three times the actuarial risk.",
+      "topic": "Moats & business quality",
+      "detail": "Berkshire collected $800 million to insure two $1 billion Chinese satellites reaching orbit (Pabrai guessed $400M), and charged the California Earthquake Authority several billion, about four times the risk, for 8.0+ coverage because nobody else could write it.",
+      "stocks_or_cases": ["Ajit Jain", "Berkshire Hathaway", "California Earthquake Authority"]
+    },
+    {
+      "idea": "US debt levels and dollar reserve status are far outside his circle of competence and he has nothing intelligent to say about them.",
+      "topic": "Markets, cycles & macro",
+      "detail": "He ducked the question outright rather than speculate.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Indexing is a wise choice for someone who can't pick wagons: it circles 500 great wagons that surely include the Walmarts and Costcos, and savings rate plus a long runway will take care of the rest.",
+      "topic": "Compounding & long-term holding",
+      "detail": "Given to a questioner seeking an upper-middle-class retirement; he stressed savings rate and a healthy lifestyle over stock selection.",
+      "stocks_or_cases": ["Walmart", "Costco"]
+    }
+  ]
+}

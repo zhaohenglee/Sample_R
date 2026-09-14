@@ -1,0 +1,128 @@
+{
+  "video_id": "wz8N5CkTA2w",
+  "date": "2022-08-30",
+  "title": "Mohnish Pabrai’s Q&A session with the Asian Institute of Technology, Bangkok on August 30, 2022",
+  "summary": "Pabrai uses Rakesh Jhunjhunwala's decades-long Titan holding to argue that the holy grail of investing is owning compounders and then doing nothing. He describes how to find multibaggers via fanatical founders (Southwest) and 'Uber cannibal' buyback machines (NVR, AutoZone), explains why the index is hard to beat, gives his 10x10 portfolio sizing, uses IPSCO and Reysas to illustrate valuation without Excel, and discusses error rates, selling discipline, and his Alibaba-to-Tencent swap.",
+  "ideas": [
+    {
+      "idea": "The holy grail of investing is partial ownership of businesses that can grow and compound intrinsic value for very long periods, then never touching them.",
+      "topic": "Compounding & long-term holding",
+      "detail": "Rakesh Jhunjhunwala started by borrowing about $20,000 at 18% and died a multi-billionaire; a 4% position in Titan bought roughly 30 years ago grew to about half his net worth, compounding at over 30% a year, and he never visited a single Titan plant. He regretted selling CRISIL until the end.",
+      "stocks_or_cases": ["Rakesh Jhunjhunwala", "Titan", "Lupin", "CRISIL"]
+    },
+    {
+      "idea": "Multibaggers tend to be run by fanatical, maverick founders who don't fit the normal mould, like Herb Kelleher at Southwest.",
+      "topic": "Management & capital allocation",
+      "detail": "Southwest designed its cost structure to compete with a driver's tank of gas on 200-300 mile trips rather than with other airlines, never lost money in 50 years except perhaps during COVID, and compounded faster than Berkshire from the 1970s. Ryanair and AirAsia copied the model.",
+      "stocks_or_cases": ["Southwest Airlines", "Herb Kelleher", "Ryanair", "AirAsia", "Berkshire Hathaway"]
+    },
+    {
+      "idea": "'Uber cannibals' that pay no dividend and plough nearly 100% of cash flow into buybacks for decades produce non-linear, magical results and are easy to screen for.",
+      "topic": "Management & capital allocation",
+      "detail": "NVR has bought back 75% of its shares in 28 years, going from about 16 million to 3.5 million shares; the stock went from $6 to about $6,000 at end-2021, a thousand-bagger, while revenue rose only 10x. AutoZone is up about 200x with the same playbook. Buying back 3-5% a year matters only when sustained for 20 years.",
+      "stocks_or_cases": ["NVR", "AutoZone"]
+    },
+    {
+      "idea": "NVR turned homebuilding into a capital-light, high-ROE business by optioning land just-in-time instead of owning land banks.",
+      "topic": "Moats & business quality",
+      "detail": "They pay $200,000-$500,000 for an option on a $10-30 million parcel and exercise only when needed; with few fixed costs they simply pause buybacks in downturns, which happened only in 2008 and 2009 since 1994. Management incentives are built around return on equity.",
+      "stocks_or_cases": ["NVR"]
+    },
+    {
+      "idea": "Identifying a great business is not difficult: above-average ROE without leverage, ability to grow, and an enduring competitive advantage; what is hard is telling a great investment.",
+      "topic": "Moats & business quality",
+      "detail": "Quantitative filters such as consistent 20-25% ROE, growing sales, profits and cash flows with little debt eliminate 90% of companies. Fifty students ranking Thailand's top 100 companies by quality would produce very similar lists.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Reysas should buy back its own shares because nothing management can do beats buying at 3% of liquidation value, but convincing them takes years of trust.",
+      "topic": "Stock case studies",
+      "detail": "He invested in 2019 at a market cap around $20 million versus a liquidation value of $700-800 million and intrinsic value over $1 billion. Reysas is Turkey's number one warehouse company, 99% leased on 10-year inflation-indexed leases, with cash flows more stable than NVR or AutoZone, like clipping bond coupons.",
+      "stocks_or_cases": ["Reysas Logistics", "NVR", "AutoZone"]
+    },
+    {
+      "idea": "Technology can produce multibaggers but rapid change is the enemy of the investor, so look for entrenched install bases and mispricings like the cloud-transition revenue dip.",
+      "topic": "Moats & business quality",
+      "detail": "When packaged software moves to subscription, a $400-500 one-time license becomes $8-10 a month and near-term revenue drops even though lifetime economics improve; markets sometimes fail to normalize that. Costco and Walmart show great operators can also compound in brutal industries like retail.",
+      "stocks_or_cases": ["Microsoft", "Costco", "Walmart"]
+    },
+    {
+      "idea": "A concentrated basket of compounders tolerates an extremely high error rate: even if 96% of Jhunjhunwala's portfolio had gone to zero, Titan alone made it a home run.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "Make 10 bets of 10% each in carefully studied businesses like NVR and AutoZone, then go to sleep despite Ukraine, inflation, Fed hikes and business hiccups. Jhunjhunwala had four screens in front of him all day and still never touched Titan for decades.",
+      "stocks_or_cases": ["Rakesh Jhunjhunwala", "Titan", "NVR", "AutoZone"]
+    },
+    {
+      "idea": "Investing is not a game where the highest IQ wins; the hardest part is doing nothing after you own great businesses, being content to watch paint dry.",
+      "topic": "Psychology & temperament",
+      "detail": "Paraphrasing Pascal, all investment manager misery stems from the inability to sit quietly in a room and do nothing. He and Buffett each play 10-15 hours of bridge a week and he does student sessions partly to absorb time that might otherwise cause action.",
+      "stocks_or_cases": ["Warren Buffett", "Pascal"]
+    },
+    {
+      "idea": "The index is hard to beat because it is too dumb to know it owns Microsoft or Alphabet and too dumb to sell them, so winners grow into 30-40% of the index.",
+      "topic": "Markets, cycles & macro",
+      "detail": "Index committees remove proven losers like GE and IBM long after the fact but never remove a Tesla or Microsoft that is climbing. After 20-30 years seven or eight companies dominate the index, which is why indexing suits almost all participants.",
+      "stocks_or_cases": ["Microsoft", "Alphabet", "AutoZone", "Apple", "Tesla", "GE", "IBM"]
+    },
+    {
+      "idea": "There are no called strikes in investing: you pay no penalty for ignoring a great business you don't understand, only for buying a bad one.",
+      "topic": "Circle of competence & checklists",
+      "detail": "Skip the chemical company you can't explain; MasterCard, Visa and Amex are obvious monopolies or oligopolies. Louis Vuitton's after-tax margins above 20% make it obviously great, but whether it is a great investment depends on whether it trades at 3x or 50x earnings.",
+      "stocks_or_cases": ["MasterCard", "Visa", "American Express", "LVMH"]
+    },
+    {
+      "idea": "Position sizes below 5% make little sense and above 20% is the ceiling; his psyche fits a 10-by-10 portfolio of ten 10% bets.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "Twenty stocks should be the upper limit and fewer than 5-10 is imprudent without strong picking skills; beginners hell-bent on stock picking can start with 20 and whittle down as confidence grows, though indexing is right for most.",
+      "stocks_or_cases": ["Warren Buffett", "Apple"]
+    },
+    {
+      "idea": "Think of market cap, not stock price, and ask whether you would put a fifth of a $10 trillion family fortune into owning all of Apple for $100 billion of annual cash flow.",
+      "topic": "Valuation & margin of safety",
+      "detail": "At $2 trillion and $100 billion of cash flow it takes 20 years to get your money back if flat; he wants his money back in 2-6 years with clear visibility, as with a $2 trillion company generating $1 trillion a year. Apple's cash flows 10 years out fall outside his circle of competence even though Buffett keeps buying.",
+      "stocks_or_cases": ["Apple", "Warren Buffett"]
+    },
+    {
+      "idea": "If you need Excel or a DCF to decide whether something is a good investment, it is a pass; you should be able to explain it to a 10-year-old in five to seven sentences.",
+      "topic": "Circle of competence & checklists",
+      "detail": "IPSCO in 2004-2005 traded at $45 with $15 a share of cash and two years of announced $15 a share earnings from pipeline contracts; he put 10% of the fund in, a third $15 year was announced with the stock at $90, and a Swedish buyer offered $160, at which point he sold at $155 immediately.",
+      "stocks_or_cases": ["IPSCO", "Reysas Logistics", "Apple"]
+    },
+    {
+      "idea": "It is not the most amazing business that becomes the most amazing investment; buying at 3% of liquidation value beats any great business at a rich price.",
+      "topic": "Valuation & margin of safety",
+      "detail": "Being able to buy the whole Turkish warehouse company for $20 million when it could be liquidated for $700-800 million made the odds of loss very low and superior to anything else in the market.",
+      "stocks_or_cases": ["Reysas Logistics"]
+    },
+    {
+      "idea": "Per John Templeton the best analyst is wrong one in three times, and Pabrai expects 40-50% of his own picks to not work, so the error rate is baked in like a law of physics.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "Berkshire bought 80-90 businesses in 50 years and at least 30 did not work, including almost all furniture retailers except Nebraska Furniture Mart, jewelers and retail; weighted by size Buffett is right about 90% of the time. Failures usually flatline or drop 20%, not go to zero.",
+      "stocks_or_cases": ["John Templeton", "Warren Buffett", "Berkshire Hathaway", "Nebraska Furniture Mart"]
+    },
+    {
+      "idea": "Selling is much harder than buying, and the mistake of most of his career was selling great businesses because they looked too richly valued.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "Ask whether the business is getting better; if so, keep it even if expensive, and only consider selling when the valuation becomes egregious, like 100x normalized earnings after buying at 15x, or when there is conclusive proof of permanent secular decline. Think like a family that has owned the business for 50 years.",
+      "stocks_or_cases": ["Rakesh Jhunjhunwala", "Titan"]
+    },
+    {
+      "idea": "Start with an open canvas rather than targeting an industry like education, although a focused hunter like Tom Russo can succeed by living only in luxury brands and premium liquor.",
+      "topic": "Circle of competence & checklists",
+      "detail": "Chinese tutoring companies went from hero to zero when banned, but they were not win-win businesses since they fought over limited elite seats rather than expanding education; governments' mandate to educate cheaply works against education companies. He never went looking for a Turkish warehouse company.",
+      "stocks_or_cases": ["Tom Russo", "Reysas Logistics", "Chinese tutoring companies"]
+    },
+    {
+      "idea": "When things get murky after an investment, as with Chinese regulation, the best course is usually to do nothing; sell decisions should happen only with very little ambiguity.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "After Alibaba fell he swapped into Tencent, judging it the better business and capturing a tax loss, but says simply holding Alibaba would also have been fine. There is a reasonable case these businesses will be doing much better in 10 years, so leave them alone.",
+      "stocks_or_cases": ["Alibaba", "Tencent"]
+    },
+    {
+      "idea": "The best way to learn is to teach; student sessions improve him and, like bridge, keep him from making sell decisions.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "He would be blissfully happy in a prison cell with three bridge players for life; investing is a great activity for gentlemen and ladies of leisure who can refrain from acting on their portfolio.",
+      "stocks_or_cases": []
+    }
+  ]
+}

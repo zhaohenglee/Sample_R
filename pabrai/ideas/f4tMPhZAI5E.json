@@ -1,0 +1,146 @@
+{
+  "video_id": "f4tMPhZAI5E",
+  "date": "2026-08-25",
+  "title": "Mohnish Pabrai's Session with Copenhagen Business School Investment Club on August 25, 2026",
+  "summary": "A Q&A with the CBS Investment Club in which Pabrai explains why investing forgives a high error rate as long as you never sell the rare exceptional business, using the Nifty 50/Walmart thought experiment, the Micron exit in 2023 and the 120x Reysas position (now $500-550M of his $1.4B) as contrasts. He describes his newer asymmetric bets (Kaspi, a 'Turkish Costco', Constellation Software), why he refuses to diversify and how he tells investors to cap exposure to him at 20%, and closes with what he learned from observing Munger's frugality.",
+  "ideas": [
+    {
+      "idea": "Before managing other people's money, build an auditable 5-10 year track record in a dedicated brokerage account, then raise from friends, family and fools.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "The account should be one that an audit firm can later verify; the most important source of early capital is the fools.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Judge management by the public historical track record and by talking to competitors; meeting charismatic managers can create distortions rather than clarity.",
+      "topic": "Management & capital allocation",
+      "detail": "If the CEO and team have been in place a while, you have solid data points on what they have done and don't need to interact with them to form a view.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Micron was a bet on a rational three-player memory oligopoly that broke when Samsung went for share in 2023, so exiting on the data made sense even though the stock later soared with AI.",
+      "topic": "Stock case studies",
+      "detail": "Bought around 2017 with Li Lu after discussion with Munger; in 2023 Samsung (50% share) cut prices, all three players lost money and cash flows turned negative; he exited with roughly a double, a low-teens annualized return, and has no regrets.",
+      "stocks_or_cases": ["Micron", "SK Hynix", "Samsung", "Li Lu", "Charlie Munger"]
+    },
+    {
+      "idea": "Oligopolies are usually licenses to print money but break down in the 3-5% of markets where one player decides to grab share.",
+      "topic": "Moats & business quality",
+      "detail": "Munger relayed Buffett's study of Coke and Pepsi bottlers: in 95-97% of geographies both bottlers made money, but where one got aggressive on price nobody made money because brand loyalty is not extreme; a 30% cheaper 12-pack wins.",
+      "stocks_or_cases": ["Coca-Cola", "Pepsi", "Warren Buffett", "Charlie Munger"]
+    },
+    {
+      "idea": "Investing is an extremely forgiving business: you can be wrong the majority of the time and still get more-than-acceptable results if you follow some rules.",
+      "topic": "Compounding & long-term holding",
+      "detail": "Over the last 100 years all US equity market returns have come from 4% of stocks; the other 96% did nothing or went to zero.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "A Nifty 50 portfolio held untouched since 1972 with 49 of 50 stocks going to zero and only 2% in Walmart would still beat the S&P 500 by about 5% a year.",
+      "topic": "Compounding & long-term holding",
+      "detail": "Walmart delivered roughly 15-16% annualized with dividends over 54 years; Xerox, Kodak, Polaroid and Digital Equipment did go to zero, but the Nifty 50 fell 60-70% in 1973-74 and everyone sold at steep losses by 1975. The important thing was not buying Walmart but never selling it.",
+      "stocks_or_cases": ["Walmart", "Nifty 50", "Xerox", "Kodak", "Polaroid", "Digital Equipment", "McDonald's", "American Express", "Coca-Cola"]
+    },
+    {
+      "idea": "The Walton family has never sold a share in 54 years and owns more than the 46% they had at the 1972 IPO thanks to buybacks, while no institution held Walmart that long.",
+      "topic": "Compounding & long-term holding",
+      "detail": "Helpers repeatedly told the Waltons they were dangerously concentrated with ~99% of net worth in one stock; they asked them to leave and now live on $2-3 billion a year in dividends and have transformed Bentonville, Arkansas.",
+      "stocks_or_cases": ["Walmart", "Walton family"]
+    },
+    {
+      "idea": "Munger's rule: you get a few trips to the pie counter in a lifetime, so load up and don't drop the pie; don't worry about getting good at selling, worry about getting good at finding Costcos.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "You can be useless at selling and have a high error rate as long as you recognize the truly exceptional holding and don't sell it when it looks fully priced or overpriced, only possibly when egregiously overpriced.",
+      "stocks_or_cases": ["Charlie Munger", "Costco"]
+    },
+    {
+      "idea": "Reysas went from a $15 million market cap in 2019 to $1.8 billion in 2026, a 120x in dollars in seven years despite the lira collapsing more than 90% from 5 to over 48 per dollar.",
+      "topic": "Stock case studies",
+      "detail": "Found on his second Turkey trip via a Graham-disciple friend: warehouses worth ~$1B with $200M debt, market cap $15M; for $8M he got a third of the company and now owns a little over 41%; liquidation value is now ~$3B ($3.4B assets, $400M debt) versus a $1.8B market cap.",
+      "stocks_or_cases": ["Reysas", "Turkey"]
+    },
+    {
+      "idea": "In an inflationary country, buy businesses where currency and inflation are irrelevant: a warehouse is land, cement, steel and paint, all automatically inflation-indexed.",
+      "topic": "Markets, cycles & macro",
+      "detail": "Like the thought experiment of a Coke bottler after nuclear war where people trade 15 minutes of labor for a Coke regardless of currency; he told the lira 'bring on 1000% a year inflation' because prime Istanbul hard assets adjust.",
+      "stocks_or_cases": ["Reysas", "Coca-Cola"]
+    },
+    {
+      "idea": "Turkey is a market of gamblers who buy at 10 and sell at 3 hoping for 10%, which lets a patient buyer accumulate a third of a company; the stock market transfers wealth from the active to the inactive.",
+      "topic": "Psychology & temperament",
+      "detail": "The average Turkish public company cycles through its float every 17 days; Buffett's quote on the active and inactive explains why the volume made a 33% stake possible.",
+      "stocks_or_cases": ["Turkey", "Reysas", "Warren Buffett"]
+    },
+    {
+      "idea": "What he did not appreciate when buying Reysas is that the father and son are exceptional capital allocators who only invest if returns exceed 25-35% a year in dollars or euros with payback in 2-3 years.",
+      "topic": "Management & capital allocation",
+      "detail": "Liquidation value compounded from $800M in 2019 to $3B in 2026 with an error rate close to zero on deal after deal; the founders own 44%, his investors 41%, and he wants no board seats, telling them to keep doing what they are doing.",
+      "stocks_or_cases": ["Reysas"]
+    },
+    {
+      "idea": "His main job description now is to not do any trades and let Reysas compound, since Charlie says do not interrupt compounding unnecessarily.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "He manages a little over $1.4 billion with $500-550M in Reysas; he visits Istanbul once a year for dinner with the founders and was pleased to see the son bringing his 11-year-old to meetings so the compounding can continue for 40 years.",
+      "stocks_or_cases": ["Reysas", "Charlie Munger"]
+    },
+    {
+      "idea": "Kaspi is a Tencent-like monopoly fintech with 15 million users in a country of 20 million, cheap on what is in place, with a moonshot of replicating the playbook in Turkey and beyond.",
+      "topic": "Stock case studies",
+      "detail": "Two or three HBS cases document the founder turning a failing bank into a thriving fintech; he wants 100 million users, bought a Turkish company with ~10M users and a Turkish bank; founders own 43-44% and pay high dividends while investing in growth.",
+      "stocks_or_cases": ["Kaspi", "Tencent", "Kazakhstan"]
+    },
+    {
+      "idea": "He owns over 30% of a two-store 'Costco of Turkey' bought as a near-venture bet because $70M of surplus real estate equaled the $70M market cap, so the business was free.",
+      "topic": "Stock case studies",
+      "detail": "He was blown away by the store economics and the crowds; he doesn't know how Kaspi, the Turkish Costco or Reysas will turn out, but they are asymmetric bets where even one working is enough.",
+      "stocks_or_cases": ["Turkey"]
+    },
+    {
+      "idea": "Keep looking for needles in haystacks: every one to three years you may find one to three things worth a bet, and one right needle changes your whole gene pool's trajectory.",
+      "topic": "Circle of competence & checklists",
+      "detail": "If each bet is 10% and you make ten bets, you only need one to work extremely well.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "He refuses to diversify: three Turkish stocks are 65-70% of his funds and Reysas could become 95%, so he tells investors to keep less than 20% of net worth with him.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "At 20% with him, no investor has more than 10% in one company and he cannot make them poor; he sends this note every quarter to ~300 families and gets no calls or redemptions; if after 20-30 years 90% of your portfolio is not in one stock you have badly made a loss.",
+      "stocks_or_cases": ["Reysas", "Pabrai Investment Funds"]
+    },
+    {
+      "idea": "Constellation Software is a DNA bet on Mark Leonard's capital allocation culture, bought after the AI threat took the stock out back and shot it.",
+      "topic": "Management & capital allocation",
+      "detail": "Like Kaspi and the Turkish Costco he doesn't know which will work; the most important thing is set it and forget it and let them do their thing.",
+      "stocks_or_cases": ["Constellation Software", "Mark Leonard"]
+    },
+    {
+      "idea": "The recent Reysas share sale was a reshuffle to honor the family's wish that he stay below 30% of the holding company; overall look-through ownership actually rose.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "He went from ~33% of Reysas Logistics and under 5% of the REIT to 30% of the holding company and ~11% of the REIT (the holdco owns 62% of the REIT), lifting the collective stake above 38%.",
+      "stocks_or_cases": ["Reysas", "Reysas REIT"]
+    },
+    {
+      "idea": "Reysas' rise is a weighing machine, not tailgating by his followers, and a business compounding at 15-25% should trade at a premium to its $3B liquidation value, not a discount.",
+      "topic": "Valuation & margin of safety",
+      "detail": "In the long run stocks are weighing machines, not voting machines; other positions of his get no tailgating; an investor believing the compounding continues should pay $3.5-4B.",
+      "stocks_or_cases": ["Reysas"]
+    },
+    {
+      "idea": "He hopes Reysas never becomes egregiously overvalued, because below liquidation value it is the easiest stock in the world to hold and selling would interrupt decades of compounding.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "If a $3B business went to $8B tomorrow that would be egregious, yet with a 41-year-old running it for 30-40 years at 15-20% it could be worth $20-40B; the Waltons have a harder job holding Walmart at 25x trailing earnings.",
+      "stocks_or_cases": ["Reysas", "Walmart"]
+    },
+    {
+      "idea": "Do your own analysis of returns on incremental capital from trailing financials rather than trusting management's stated returns, and accept that businesses investing ahead of the curve like Amazon won't show it in the numbers.",
+      "topic": "Valuation & margin of safety",
+      "detail": "Amazon showed almost no net income for 10-20 years while Bezos reinvested aggressively and made many small bets; AWS only became visible when it could no longer be kept under the radar.",
+      "stocks_or_cases": ["Amazon", "Jeff Bezos", "AWS", "Reysas", "Kaspi"]
+    },
+    {
+      "idea": "Most of what he learned from Munger came from observing how he lived rather than what he said, including a frugality that was calibrated, not reflexive.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "Munger wore a belt worn out 10-15 years earlier and $10 Costco flannel shirts and happily flew Southwest middle seats, yet paid $80,000 for a NetJets flight home from Costa Rica when he had a bad headache; the vast public body of work means you can learn from Buffett and Munger without ever meeting them.",
+      "stocks_or_cases": ["Charlie Munger", "Costco", "NetJets", "Southwest Airlines"]
+    }
+  ]
+}

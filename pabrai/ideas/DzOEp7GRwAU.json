@@ -1,0 +1,80 @@
+{
+  "video_id": "DzOEp7GRwAU",
+  "date": "2014-06-15",
+  "title": "Mohnish Pabrai’s Talk at Pan IIT Conference, Toronto in June 2014",
+  "summary": "Speaking to IIT alumni, Pabrai argues that large inheritances burden children, so wealth should be recycled to society through philanthropy run with a business head, and describes how Dakshana cloned Anand Kumar's Super 30 to send 458 poor students to the IITs at a 44% acceptance rate. He criticizes perpetual foundations that sprinkle 5% a year without measuring social ROI, praises the Gates and Buffett sunset mandates, and explains why he inverted the problem to fund only causes with a feedback loop.",
+  "ideas": [
+    {
+      "idea": "There are only two choices for an estate, your gene pool or society, and large inheritances are a burden that distorts children's lives.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "He quotes Buffett's line about giving kids enough to do anything but not enough to do nothing, and says a couple of million each is fine but $20 million does them no favors. He recycles all his assets to society out of enlightened self-interest, not altruism.",
+      "stocks_or_cases": ["Warren Buffett"]
+    },
+    {
+      "idea": "Most charities are all heart and no head, run as marketing machines that never report failures or lessons learned.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "Their leaders have never met payroll or had 99% of their net worth in a business near bankruptcy; he believes there is no difference between running a for-profit and a non-profit, and non-profits should narrow to one or two well-defined causes.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Dakshana was set up in 2007 when net worth crossed $50 million, giving 2% of net worth a year to allow real-world experimentation with his ideas.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "That gave at least $1 million a year; he wanted to teach fishing rather than give fish, and found the model in Anand Kumar's Super 30 in Bihar, which he cloned with Kumar's blessing after Kumar declined funding and scaling.",
+      "stocks_or_cases": ["Dakshana Foundation", "Super 30", "Anand Kumar"]
+    },
+    {
+      "idea": "From 2007 to 2014 Dakshana sent 458 impoverished students to the IITs out of 1,033 scholars, a 44% success rate versus a 2% national acceptance rate.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "Most scholars come from rural India with illiterate farmer or laborer parents; 250 scholars took the 2014 exam with at least 70% expected to be accepted, and the stretch goal is 2,020 IIT admits in 2020, which would make one in seven IITians a Dakshana scholar.",
+      "stocks_or_cases": ["Dakshana Foundation"]
+    },
+    {
+      "idea": "Giving money away effectively is much harder than making it, so start young while you have the energy rather than in your 60s or 70s.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "He planned to reach zero assets by 80, assumed he might spin his wheels for 10-15 years, started at 42, and got traction within weeks; Dakshana's constraint is not money but the pace of government and other entities.",
+      "stocks_or_cases": ["Dakshana Foundation"]
+    },
+    {
+      "idea": "His philanthropy came from overdosing on Buffett, not from his parents, and business people have a huge amount to add to philanthropy.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "Most people do not realize they are on a treadmill and their choices narrow by 70 or 80; the paybacks from taking the leap are much better than making more money.",
+      "stocks_or_cases": ["Warren Buffett"]
+    },
+    {
+      "idea": "Munger says Costco has done more good for the world than the Rockefeller Foundation, so entrepreneurship is probably the best way to help society, but keep the capitalist and philanthropic lives separate.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Costco's mission is to serve members, not philanthropy; the capitalist Mohnish drives the engine that funds the philanthropic Mohnish, and philanthropy only matters because we do not live forever.",
+      "stocks_or_cases": ["Costco", "Charlie Munger", "Rockefeller Foundation"]
+    },
+    {
+      "idea": "A business whose primary objective is making money is myopic and unsustainable; core principles that are good for the ecosystem produce profit as a byproduct.",
+      "topic": "Moats & business quality",
+      "detail": "Costco caps gross margin at 15% on any product; raising it to 20-25% would boost near-term profit but violate member trust and hurt the long run. Businesses that ignore employee and client wellbeing do not do well long term.",
+      "stocks_or_cases": ["Costco"]
+    },
+    {
+      "idea": "Dakshana's secret sauce is the government's Jawahar Navodaya Vidyalaya system, which pre-selects the top 2% of rural kids through a language-independent IQ test.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "Rajiv Gandhi created 600 residential JNV schools, one per district, taking 80 kids each from 2 million test-takers across 20 languages; Dakshana's under-5-crore layer works only because 3,000 crores on JNVs sits below it and 3,000-4,000 crores on IITs above it, with an MOU delivering a government spreadsheet to Irvine after 10th standard.",
+      "stocks_or_cases": ["Dakshana Foundation", "Jawahar Navodaya Vidyalaya", "Rajiv Gandhi"]
+    },
+    {
+      "idea": "Perpetual foundations that give away the legal minimum 5% sprinkled over hundreds of programs, never comparing social ROI, exist mainly to keep their managers employed.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "The MacArthur Foundation spreads 5.2% over at least 300 programs with no comparison; with five programs you should pick the best four, then three. Henry Ford would be flabbergasted by the Ford Foundation, and professional managers without founder conviction produce today's results.",
+      "stocks_or_cases": ["MacArthur Foundation", "Ford Foundation", "Rockefeller Foundation"]
+    },
+    {
+      "idea": "Do most giving while alive and set sunsets, as Gates and Buffett have mandated, because future entrepreneurs will find problems today's donors cannot conceive.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "Bill and Melinda Gates required the foundation to reach zero 50 years after their deaths and Buffett required his gift to be spent within 10 years of his death, both because they saw the abuse; a law limiting foundations to five or ten causes would help.",
+      "stocks_or_cases": ["Bill Gates", "Gates Foundation", "Warren Buffett"]
+    },
+    {
+      "idea": "Capitalism has a feedback loop that philanthropy lacks, so he inverted the problem and funds only areas with a measurable feedback loop.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "An entrepreneur's idea is mostly wrong at first and market signals force zigzags until it works, while a foundation earning over 5% can sprinkle forever. Dakshana's loop is the annual IIT and NIT acceptance percentage, a number controlled by the IITs that the management team analyzes and adjusts to.",
+      "stocks_or_cases": ["Dakshana Foundation"]
+    }
+  ]
+}

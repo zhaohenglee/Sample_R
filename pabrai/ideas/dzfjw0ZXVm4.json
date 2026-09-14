@@ -1,0 +1,196 @@
+{
+ "video_id": "dzfjw0ZXVm4",
+ "date": "2022-01-19",
+ "title": "Value Investing Masterclass with NUS MBA students at NUS Business School",
+ "summary": "Pabrai uses four investments (Fiat Chrysler via captive finance, Stewart Enterprises/Service Corp funeral homes, IPSCO, and Silicon Valley Bank) to show how a circle of competence accumulates over decades and how anomalies and 'low risk, high uncertainty' setups produce big returns. In Q&A he covers starting a fund young, why all intelligent investing is value investing, bottom-up opportunism (Reysas in Turkey), Buffett vs. himself, Alibaba/Prosus and Chinese regulation, and Chuck Akre's three-legged stool.",
+ "ideas": [
+  {
+   "idea": "Captive finance arms (Ford Credit, Toyota Credit, John Deere Financial) are exceptional businesses even though lending in general is not, because they can refurbish and resell repossessed assets through their own channels.",
+   "topic": "Moats & business quality",
+   "detail": "He learned this ~33 years ago at his IT client JI Case, whose finance arm never haggled while the equipment arm was broke; certified pre-owned Lexus is only possible for Lexus. Equipment loans also see low defaults since farmers lose the house before the tractor. Ford survived 2008 because of Ford Credit while GMAC went off the reservation into mortgages.",
+   "stocks_or_cases": [
+    "JI Case",
+    "Ford Credit",
+    "Lexus",
+    "GMAC",
+    "John Deere",
+    "Toyota"
+   ]
+  },
+  {
+   "idea": "He no longer invests in levered financial institutions because he has suffered permanent losses in them and thinks he is bad at them.",
+   "topic": "Circle of competence & checklists",
+   "detail": "Captive finance arms are the exception he understands; John Deere Finance's earnings are a smooth straight line while the equipment business is cyclical.",
+   "stocks_or_cases": [
+    "John Deere"
+   ]
+  },
+  {
+   "idea": "Fiat Chrysler in 2012 was a cleansed post-bankruptcy auto business at 4% of revenues, with Sergio Marchionne as the main reason to invest.",
+   "topic": "Stock case studies",
+   "detail": "$5 billion market cap on $130 billion revenue; bankruptcy removed pension liabilities and reset union contracts so Detroit went from one of the worst places to build a car in 2007 to one of the best by 2009; modest profits of $5-7 billion implied a PE under 1. The stock was a 10x from 2012 to 2022 though he captured 4-5x after Marchionne's death.",
+   "stocks_or_cases": [
+    "Fiat Chrysler",
+    "Sergio Marchionne",
+    "John Elkann"
+   ]
+  },
+  {
+   "idea": "Fiat Chrysler paying large dividends instead of rebuilding a captive finance arm was a capital allocation mistake he tried and failed to talk John Elkann out of.",
+   "topic": "Management & capital allocation",
+   "detail": "Financing was outsourced to Santander; Elkann said they lacked financial strength while paying out big dividends, which Pabrai read as traumatized owners pulling chips off the table. The investment worked but would have worked better.",
+   "stocks_or_cases": [
+    "Fiat Chrysler",
+    "John Elkann",
+    "Santander"
+   ]
+  },
+  {
+   "idea": "You cannot connect the dots looking forward, only backward; observations stored for 30 years can suddenly become actionable.",
+   "topic": "Circle of competence & checklists",
+   "detail": "The JI Case captive-finance insight from the early 1990s drove his Fiat Chrysler analysis in 2012 and his recent look at John Deere.",
+   "stocks_or_cases": [
+    "JI Case",
+    "Fiat Chrysler",
+    "John Deere"
+   ]
+  },
+  {
+   "idea": "Funeral homes have the lowest failure rate of any SIC code because nobody wants to enter the industry and customers never shop on price.",
+   "topic": "Moats & business quality",
+   "detail": "Unlike Bitcoin clones or airlines, young people don't aspire to funeral services; families choose on history not price and have no benchmark since they deal with one every 40 years; local brands and traditions create loyalty.",
+   "stocks_or_cases": []
+  },
+  {
+   "idea": "Anomalies are the trigger for digging in, and a funeral services company at a PE of 2 was an anomaly that made no sense.",
+   "topic": "Circle of competence & checklists",
+   "detail": "With 50,000 stocks you need a shortlisting method; he scans Value Line's lowest-PE list weekly, where 2-3x PE names are usually dogs whose earnings are gone, but in 2002 Stewart Enterprises (PE 2) and Service Corp (PE 2.3) stood out since deaths are predictable and the business deserved 10-30x.",
+   "stocks_or_cases": [
+    "Stewart Enterprises",
+    "Service Corp",
+    "Value Line"
+   ]
+  },
+  {
+   "idea": "A great business with a bad balance sheet can be fixed, and Stewart Enterprises was such a case that doubled and doubled again.",
+   "topic": "Stock case studies",
+   "detail": "Over-levered roll-ups had bought thousands of mom-and-pop funeral homes at 8-12x earnings; Stewart could sell a few hundred back to founders at 5x to cover debt, had 18 months of breathing room, and instead sold its cash-flow-negative European homes for $400-500 million, after which the stock took off.",
+   "stocks_or_cases": [
+    "Stewart Enterprises"
+   ]
+  },
+  {
+   "idea": "IPSCO in 2004 was a case of high uncertainty but low risk: cash plus two years of contracted earnings equaled the stock price, with all plants and equipment free.",
+   "topic": "Stock case studies",
+   "detail": "Stock ~$42-43, $14/share cash, no debt, $14/share of earnings guaranteed for each of the next two years by pipeline contracts; he put 10% of the fund in. A third $14 year was announced, the stock went to $60, then $85-90, and a Swedish acquirer bid ~$155; he sold immediately at $148.",
+   "stocks_or_cases": [
+    "IPSCO"
+   ]
+  },
+  {
+   "idea": "When you find very high uncertainty combined with very low risk, the result is usually a very high return, because Wall Street confuses the two.",
+   "topic": "Valuation & margin of safety",
+   "detail": "Markets hate uncertainty and would not give IPSCO a 10x multiple because they feared peak earnings; Silicon Valley Bank's undisclosed warrant basket was the same setup.",
+   "stocks_or_cases": [
+    "IPSCO",
+    "Silicon Valley Bank"
+   ]
+  },
+  {
+   "idea": "Silicon Valley Bank, his first fund investment on July 1, 1999, gave dotcom upside without downside via a free basket of undisclosed warrants.",
+   "topic": "Stock case studies",
+   "detail": "He knew from his own private dotcom that a bubble was underway; SVB is like a captive lender to VC-backed startups, recycling repossessed servers and software licenses, and collected warrants on every loan with no disclosure. Bought at 10x earnings, he made about 3x in 14 months and exited by August 2000; the bank has since compounded ~20% a year for 20 years.",
+   "stocks_or_cases": [
+    "Silicon Valley Bank",
+    "Sequoia",
+    "Andreessen Horowitz",
+    "Greylock"
+   ]
+  },
+  {
+   "idea": "He has no interest in a $10 stock worth $13-17; he wants wild mispricing, and you need an analytics edge rather than an information edge.",
+   "topic": "Valuation & margin of safety",
+   "detail": "With SVB he had no information edge about the warrant basket but could analyze from a high level that he couldn't lose.",
+   "stocks_or_cases": [
+    "Silicon Valley Bank"
+   ]
+  },
+  {
+   "idea": "Taking outside money without a track record is somewhat dishonest; build a record first, because compounding a modest sum at mid-20s returns doubles every three years.",
+   "topic": "Career, entrepreneurship & life",
+   "detail": "If you must, go to friends, family and fools. At mid-20s returns you have 1,000x in 30 years, so in 10-15 years you can have a decent sum and a legitimate reason for others to invest.",
+   "stocks_or_cases": []
+  },
+  {
+   "idea": "All intelligent investing is value investing; growth and value are two sides of the same coin and anything else is speculation.",
+   "topic": "Valuation & margin of safety",
+   "detail": "Buying a dollar for 25 cents gives 4x, but a business like Starbucks that recovers store investment in 18-24 months in the US and 12-15 months internationally with 60-70% unlevered ROEs and near-infinite store runway is the holy grail, and you need not pay much below a dollar if you are right about growth.",
+   "stocks_or_cases": [
+    "Starbucks"
+   ]
+  },
+  {
+   "idea": "Never invest top-down by asset class; it is a bottom-up treasure hunt driven by anomalies and serendipity.",
+   "topic": "Circle of competence & checklists",
+   "detail": "He never decided to invest in tech, blockchain or Turkey; he went to Turkey in 2018 for the tea and baklava and to meet his Ben Graham-style friend's portfolio companies. Templeton said being wrong 30-40% of the time is still okay.",
+   "stocks_or_cases": [
+    "John Templeton"
+   ]
+  },
+  {
+   "idea": "Reysas, Turkey's largest warehouse operator, was bought at a $20 million market cap against ~$800 million of warehouse value net of debt, and one-third of the company cost $7 million.",
+   "topic": "Stock case studies",
+   "detail": "12 million square feet worth close to $1 billion with $200 million of debt, 99% leased on 10-year inflation-indexed leases to Amazon, Carrefour and Ikea; no IR department, so fund managers ignored it. The stock rose 6-7x in a couple of years and remains undervalued; the father and son are tremendous capital allocators.",
+   "stocks_or_cases": [
+    "Reysas",
+    "Amazon",
+    "Carrefour",
+    "Ikea"
+   ]
+  },
+  {
+   "idea": "Buffett is a Swiss Army knife who can invest 20 different ways, but figuring out 3% of what he knows within a narrow circle is enough to do very well.",
+   "topic": "Buffett & Munger lessons",
+   "detail": "Buffett is an open book: 20+ years of Berkshire meetings on CNBC's site and the annual reports. Understanding only captive auto finance and investing there alone could still do very well.",
+   "stocks_or_cases": [
+    "Warren Buffett",
+    "Berkshire Hathaway"
+   ]
+  },
+  {
+   "idea": "He switched most of his large Alibaba position into Prosus (which owns Tencent) as a somewhat better bet, while acknowledging CCP risk.",
+   "topic": "Geographies: India, China, Turkey, Japan, US",
+   "detail": "Both Alibaba and Tencent are amazing businesses; the CCP could kibosh them but he doesn't think it wants to. The whole world is writing rules for big tech that has run like the Wild West.",
+   "stocks_or_cases": [
+    "Alibaba",
+    "Prosus",
+    "Tencent"
+   ]
+  },
+  {
+   "idea": "Investing right after governments launch antitrust action has historically paid off, because regulation confirms the strength of the moat and companies run circles around regulators.",
+   "topic": "Moats & business quality",
+   "detail": "Microsoft, AT&T and IBM investigations were good entry points; a $1-3 billion EU fine on Google is a pimple on a camel. Chinese regulation similarly demonstrates the power of these models even if wings get clipped.",
+   "stocks_or_cases": [
+    "Microsoft",
+    "AT&T",
+    "IBM",
+    "Google",
+    "Apple",
+    "Alibaba",
+    "Tencent"
+   ]
+  },
+  {
+   "idea": "Study and clone Chuck Akre, a one-trick pony whose three-legged stool (high ROE without leverage, great people, ability to reinvest at high rates) has produced 200-baggers.",
+   "topic": "Cloning & learning from great investors",
+   "detail": "The third leg is the hardest: MasterCard under Ajay Banga has high ROE but cannot reinvest, while Starbucks has all three legs. Pabrai admits it is 'so stupid' that he still doesn't own Starbucks. Akre sells when something compounds at only 7%.",
+   "stocks_or_cases": [
+    "Chuck Akre",
+    "MasterCard",
+    "Ajay Banga",
+    "Starbucks"
+   ]
+  }
+ ]
+}

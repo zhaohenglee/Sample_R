@@ -1,0 +1,134 @@
+{
+  "video_id": "NEB2RfRgBSQ",
+  "date": "2021-03-18",
+  "title": "Mohnish Pabrai’s Q&A Session with MBA Students at Columbia Business School – March 18, 2021",
+  "summary": "Pabrai tells Columbia MBA students how Peter Lynch led him to Buffett's 'laws of investing' and how Nick Sleep's letters recently shifted him from buying 50-cent dollars toward holding long compounders. He hears student 10x-in-10-years pitches (Boyd, ANGI, Copart, Ollie's, Danimer, Vroom, PagerDuty), then covers downside protection, Uber cannibals, the Horsehead lesson, 'funeral services and recycling' businesses, the evolving meaning of margin of safety, his Buffett/Munger lunches and Dakshana's measurement-first philanthropy.",
+  "ideas": [
+    {
+      "idea": "Buffett's principles are the 'laws of investing', like gravity; the mutual fund industry ignores them, so simply following them gives an edge.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "After reading Peter Lynch's two books on a 1994 London-Chicago flight he discovered Buffett; mutual funds held 200 stocks and turned over half the portfolio yearly, the opposite of concentration and buy-and-hold. He put his first $1 million into equities using Buffett's frameworks and it became $13 million in five years, leading to Pabrai Investment Funds in 1999.",
+      "stocks_or_cases": ["Peter Lynch", "Warren Buffett", "Pabrai Investment Funds"]
+    },
+    {
+      "idea": "Reading Nick Sleep's Nomad letters in 2020 convinced him he had been 'barking up the wrong tree'; the Holy Grail is finding long compounders and not sweating modest overvaluation.",
+      "topic": "Compounding & long-term holding",
+      "detail": "Because markets were so euphoric in 1999-2000 he defaulted to classic Graham, buying 50-cent dollars and selling at 90 cents. Owning a business the way a founder does means you do not need a fine exact value and, as long as it is not in secular decline, you let it ride, with tax efficiencies as a bonus.",
+      "stocks_or_cases": ["Nick Sleep", "Nomad Investment Partnership", "Ben Graham"]
+    },
+    {
+      "idea": "Focus on the downside; if the downside is solidly protected the upside almost takes care of itself.",
+      "topic": "Valuation & margin of safety",
+      "detail": "The ideal equation is: if it does not work I end up with roughly what I started with, and if it works it is a multi-bagger. A significant probability of a zero coupled with a high probability of a multi-bagger is not of much interest.",
+      "stocks_or_cases": ["Warren Buffett"]
+    },
+    {
+      "idea": "Non-venture-backed entrepreneurs are not risk-takers; they do everything possible to minimize risk, and investors should think the same way.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "At 24 he started TransTech with $30,000 from his 401k and $70,000 of credit-card debt after researching personal bankruptcy law; Visa and MasterCard were venture capitalists who took no board seats. His old boss promised a job with a 20% raise 'when your business fails', so there was little downside; he ate $7 of Subway sandwiches a day and the business was sold for about $20 million in 2000.",
+      "stocks_or_cases": ["TransTech"]
+    },
+    {
+      "idea": "Venture-capital 'IV drips' are bad for you; it is better to spend your time getting customers than getting a VC to fund you.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Venture-backed startups are perhaps 1% of all startups; non-venture-backed businesses are what drive the US economy. For students without money, substitute what is between your ears for capital, and use Li Lu, who invested student-loan float at Columbia and graduated with over $1 million, as a role model.",
+      "stocks_or_cases": ["Li Lu"]
+    },
+    {
+      "idea": "Capitalism is brutal creative destruction: most businesses will not make it, and by the time a company enters the S&P 500 the elements of its decline are usually already in place.",
+      "topic": "Moats & business quality",
+      "detail": "Very few businesses last 50 years and almost none last 100. Looking at the 25 student pitches, ten years from now the list will show a high mortality rate, with many not even where they are today; a great brand alone (e.g. Twinkies) does not guarantee survival because brands need constant nurturing.",
+      "stocks_or_cases": ["Twinkies"]
+    },
+    {
+      "idea": "The first filter on any pitch is whether it is inside the circle of competence, and about 99% of ideas fall outside his.",
+      "topic": "Circle of competence & checklists",
+      "detail": "Many student pitches were 'straight over my head'; they become hard until more time is spent. He also noted that a $1 billion minimum market cap and 10-year horizon 'took away all the fun', since 10x is easier to find sub-billion, though tiny caps may trade by appointment.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Copart is an exceptional business with a tailwind: sensor-laden bumpers mean minor damage totals five- or six-year-old cars, sending more vehicles to salvage.",
+      "topic": "Stock case studies",
+      "detail": "He liked the founder's book 'From Junk to Gold' and the company's principles; students pitched it at a $25 billion market cap with ~45% US share, 30%+ ROE and 26% earnings growth over six years.",
+      "stocks_or_cases": ["Copart"]
+    },
+    {
+      "idea": "'Uber cannibals' that put 100% or more of net income into autopilot buybacks can compound spectacularly even if the business barely grows.",
+      "topic": "Management & capital allocation",
+      "detail": "NVR, a capital-light homebuilder, bought back about 80% of its shares over 25 years and the stock rose more than 400-fold; AutoZone is an okay business where buybacks did the heavy lifting. Rebalancing annually to find future NVRs can produce a hockey stick when the multiple eventually takes off.",
+      "stocks_or_cases": ["NVR", "AutoZone", "Charlie Munger"]
+    },
+    {
+      "idea": "He never deliberately enters binary-outcome situations; every business has a non-zero probability of going to zero, so the aim is to maximize home-run odds while minimizing permanent capital loss.",
+      "topic": "Valuation & margin of safety",
+      "detail": "Before investing he tries hard to figure out what could go wrong and what would happen to the position if it did; sometimes an investment becomes binary only after it has gone south.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Horsehead taught him never to assume management's ambitious new plants will go as planned; the size of a project relative to the mothership must be survivable.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "Horsehead's new plant kept getting delayed with cost overruns while the old plant was shut, then zinc prices collapsed and it ran out of runway. Rain Industries in India also has plant delays and overruns, but even if those plants were worth zero the business would survive and thrive.",
+      "stocks_or_cases": ["Horsehead", "Rain Industries"]
+    },
+    {
+      "idea": "Retail is a terrible business, but 'recycling and funeral services' retailers like Ollie's and TJ Maxx are great because mismatched inventory always needs an honorable burial.",
+      "topic": "Moats & business quality",
+      "detail": "Manufacturers will always have too much or unwanted inventory, so there is a continuous need; the treasure-hunt aspect adds a Costco-like element. The caveat is that, unlike Costco, they must keep feeding the machine as they scale. eBay and Big Lots are in the same category, and TJ Maxx is a strong tenant for his Seritage investment.",
+      "stocks_or_cases": ["Ollie's Bargain Outlet", "TJ Maxx", "Costco", "eBay", "Big Lots", "Seritage"]
+    },
+    {
+      "idea": "Funeral homes are a great business because nobody aspires to enter it, customers do not take the low bid, and deaths per year are highly predictable recurring revenue.",
+      "topic": "Moats & business quality",
+      "detail": "From the out-of-print Mosaic (chapters free on ChaiwithPabrai): you do not call 10 funeral homes for the cheapest quote when your grandmother dies, and you say yes to flowers; 'I don't know who's going to die in Peoria in 2022, but I know how many'.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Margin of safety has evolved from Graham's hard-asset protection to protection from brands, culture and customer relationships, and investors must be flexible about this.",
+      "topic": "Valuation & margin of safety",
+      "detail": "Graham was scarred by the 1930s; buying a crappy business at a third of liquidation value protects the downside but crimps the upside. See's Candies (paid over $25 million for under $5 million of book) led to Coca-Cola and later Apple, where the downside protection was the brand; Munger notes Graham made most of his money on GEICO because it was a great business, not because it was cheap. You rarely get hard-asset protection and 100-bagger potential together.",
+      "stocks_or_cases": ["Ben Graham", "See's Candies", "Coca-Cola", "Apple", "GEICO", "Copart", "Charlie Munger"]
+    },
+    {
+      "idea": "Look for the exceptional business that is not fragile, then find it at a cheaper price; putting the pieces together is why investing is not easy.",
+      "topic": "Moats & business quality",
+      "detail": "Businesses are very fragile creations, and even short periods of neglect can be detrimental to great brands.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "The $650,000 Buffett lunch (2008) 'continues to pay dividends endlessly' even though his only motive was to say thank you.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "Buffett, competitively, arranged a lunch with Munger, which led to regular dinners at Munger's home and bridge games with Munger and Rick Guerin at the LA Country Club; he and Guy Spier have been invited to the Sunday Berkshire managers' brunch for about 10 years. His wife said it was the best thing he did other than marrying her.",
+      "stocks_or_cases": ["Warren Buffett", "Charlie Munger", "Rick Guerin", "Guy Spier"]
+    },
+    {
+      "idea": "Buffett and Munger barely use mobile phones; Buffett's sits in his assistant's desk and Munger has never used one, despite being among Apple's largest shareholders.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "Learned over Thursday lunches with Buffett's assistant Debbie, which he says were '10x better than the lunch with Warren' for insight into how Buffett functions.",
+      "stocks_or_cases": ["Warren Buffett", "Charlie Munger", "Apple"]
+    },
+    {
+      "idea": "Beyond a certain number, wealth cannot buy happiness, and the only two choices are giving it to your gene pool or recycling it to society; a large inheritance is a disservice.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "A second home would reduce his happiness. Buffett: Jesse Owens's son is not helped by starting the 100-yard dash at the 40-yard line; give kids enough to do anything but not enough to do nothing. By 2005-06 he could see wealth would keep growing with no way to use it, so at $50 million he committed to giving away 2% of wealth per year.",
+      "stocks_or_cases": ["Warren Buffett", "Dakshana Foundation"]
+    },
+    {
+      "idea": "Dakshana was designed by inverting the problem: only pursue charitable initiatives where results are easily measured by an independent third party.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "Most charities spend 60% of money on fundraising and run 10 initiatives with no measurement. Training poor kids for the IIT and medical entrance exams gives an external test as a feedback loop, so if numbers drop they go back and fix it; non-profits otherwise never pay the penalty capitalism imposes for being stupid.",
+      "stocks_or_cases": ["Dakshana Foundation", "Rockefeller Foundation"]
+    },
+    {
+      "idea": "Philanthropy needs both heart and head; most charities have huge hearts and no heads, which does not work.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "Wonderful people can be useless at running charities; you need a big heart coupled with horsepower.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Book recommendations: Suneel Gupta's 'Backable' and William Green's 'Richer, Wiser, Happier', especially the chapters on Nick Sleep and Zak Zakaria and on himself.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "Green spent hundreds of hours with each subject, including nights on Indian trains with Pabrai; he predicts the book will become a classic.",
+      "stocks_or_cases": ["William Green", "Nick Sleep", "Suneel Gupta"]
+    }
+  ]
+}

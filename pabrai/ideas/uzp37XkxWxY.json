@@ -1,0 +1,86 @@
+{
+  "video_id": "uzp37XkxWxY",
+  "date": "2024-06-19",
+  "title": "Mohnish Pabrai’s Session with Rotary Bangalore DownTown on June 19, 2024",
+  "summary": "A talk to Rotarians on 'social return on invested capital': applying a capital allocator's input-to-output thinking to philanthropy. Pabrai explains why nonprofits lack capitalism's feedback loop, how Dakshana inverted the measurement problem by choosing education and hacking the government's IIT subsidy and Navodaya school system, the economics of a 2.5 lakh investment producing a 2 crore salary, Buffett's size problem in giving, and his own Chuck Feeney-inspired plan to die with 5,000 rupees on June 10, 2054.",
+  "ideas": [
+    {
+      "idea": "Philanthropy should be viewed through the lens of a capital allocator, because input-to-output ratios are fundamental to investing and equally decisive when resources for doing good are limited.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "Feeding a hungry man outside a temple, sheltering a homeless family in Bangalore, or a needle program for addicts in Los Angeles all do good, but if you knew which had the highest return you would fund only that one. Most nonprofits never ask the question because it is too hard to answer; Nobel laureates Esther Duflo and Abhijit Banerjee are among the few who try to measure it.",
+      "stocks_or_cases": ["Esther Duflo", "Abhijit Banerjee"]
+    },
+    {
+      "idea": "Nonprofits have no feedback loop: a foundation spending the required 5% while earning 7-8% will exist forever regardless of whether it helps anyone, whereas capitalism's creative destruction wipes out companies that stop delivering value.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "A $1 billion Rockefeller or Ford Foundation spends $50 million a year and makes $70-80 million, so it grows even if the spending is useless; Infosys, by contrast, would go bankrupt if it provided poor service. Nonprofits that want to optimize must artificially impose rules that almost none know or apply.",
+      "stocks_or_cases": ["Rockefeller Foundation", "Ford Foundation", "Infosys"]
+    },
+    {
+      "idea": "Dakshana inverted the measurement problem, following Munger's 'invert, always invert': instead of picking a cause and struggling to measure it, pick causes where outcome measurement is easy, which led to education.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "Education outcomes are obvious, and teaching a man to fish implicitly has a higher social return on invested capital than giving fish. Over 17 years about 70% of Dakshana scholars have been admitted to IITs, close to 90% to IITs or NITs, and around 95% to some engineering college.",
+      "stocks_or_cases": ["Dakshana", "Charlie Munger"]
+    },
+    {
+      "idea": "Dakshana spends about 2.5 lakhs per scholar and can take a family from 60,000 rupees a year to nearly 2 crores a year within six years, a 10x-plus income transformation almost no other intervention could achieve.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "Rajiv Kumar from Fatehpur district, whose parents earned under 5,000 rupees a month, graduated IIT Kanpur in 2014 and earns 1.9 crores a year at Google Bangalore, or about $800,000 if he moved to Mountain View. The social impact on his siblings, cousins and future generations approaches infinity and is not worth trying to measure.",
+      "stocks_or_cases": ["Dakshana", "Rajiv Kumar", "Google", "IIT Kanpur"]
+    },
+    {
+      "idea": "The Dakshana 'hack' or jugaad is that admission to an IIT unlocks roughly 80 lakhs of government subsidy per student, so 2.5 lakhs of coaching leverages a program never intended to alleviate poverty into one that does.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "Unsubsidized IIT would cost 15-20 lakhs a year, about 80 lakhs for four years, and the subsidy goes equally to Ambani's son and the poorest student, a stupid public policy. IIT coaching costs 3-5 lakhs, impossible for a family earning 60,000 rupees a year; if Dakshana had to pay the full 82.5 lakhs per kid its return would be terrible, since that sum in a bank yields 4-5 lakhs a year on its own.",
+      "stocks_or_cases": ["Dakshana", "IIT"]
+    },
+    {
+      "idea": "The IITs were meant to take the best talent of India but in practice took the best of urban middle-class India, excluding 85-90% of the country, because rural and poor kids face awareness, coaching-availability and affordability problems.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "Kids in the Sundarbans, the Andaman Islands, Arunachal Pradesh or Fatehpur have never heard the word IIT and have no high-quality coaching; excluding rural India alone excludes about 900 million people. Dakshana has sent a girl from the Andamans and kids from Kargil and the Sundarbans to IIT.",
+      "stocks_or_cases": ["Dakshana", "IIT"]
+    },
+    {
+      "idea": "Dakshana piggybacks on the Jawahar Navodaya Vidyalaya system, Rajiv Gandhi's biggest and least-known achievement: 660 free residential Doon-School-style boarding schools, one per district, that admit the top 1% of fifth graders via a language-independent IQ test.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "About 40 lakh kids a year take the test for 40,000 seats, all selected centrally in Delhi on 30-acre campuses following CBSE in English medium. In 2007 Pabrai received a 40,000-row spreadsheet of 10th-standard scores in Irvine, cut it to 4,000 in ten minutes, tested them at 30-40 centers and took about 400, so getting 80-90% into IIT is unsurprising because they have brains coming out of their ears.",
+      "stocks_or_cases": ["Jawahar Navodaya Vidyalaya", "Rajiv Gandhi", "Narasimha Rao", "The Doon School", "Dakshana"]
+    },
+    {
+      "idea": "Dakshana now takes about 1,000 kids a year across IIT, NIT, AIIMS and government medical colleges at roughly $2,500 per kid, spending about $2.5 million (20 crores) a year and expanding its Pune campus from 600 to 1,100 kids with a $12 million investment.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "The 109-acre Pune campus expansion will take three years and push annual spending to $4-5 million. Dakshana also built the Charles T. Munger Hall in Bangalore near Yelahanka for about $3.5 million, coaching 240 kids at a time.",
+      "stocks_or_cases": ["Dakshana", "Charles T. Munger Hall", "Pune"]
+    },
+    {
+      "idea": "Buffett's giving problem is a size problem: giving away 5% of his remaining Berkshire shares each year, about $6 billion a year mostly through the Gates Foundation, he would still not run out in 1,000 years because Berkshire compounds faster than 5%.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "In 2005 Buffett held about 500,000 of Berkshire's roughly 1.5 million shares (about 35%) and gave 25,000 the first year; 85% goes to the Gates Foundation and 5% to each of his three children's foundations. Had he not given, his net worth would be $300-350 billion versus about $200 billion for the LVMH founder. Like Berkshire needing $25-50 billion investments to move the needle, his charitable choices are limited by scale; Dakshana can be nimbler.",
+      "stocks_or_cases": ["Warren Buffett", "Berkshire Hathaway", "Gates Foundation", "Bill Gates", "LVMH"]
+    },
+    {
+      "idea": "Digital and online education would let Dakshana reach far more kids but yields for the IIT entrance exam would drop a lot; Dakshana is an inch wide and a mile deep and must decide whether to become a mile wide and an inch deep.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "He recently spoke with Physics Wallah, which offered to collaborate and provide digital resources for free; Dakshana is evaluating it.",
+      "stocks_or_cases": ["Physics Wallah", "Dakshana"]
+    },
+    {
+      "idea": "He cloned Buffett's giving formula, starting by donating 2% of his wealth a year (about $1 million on $50 million at the time), with the goal of having exactly 5,000 rupees to his name on June 10, 2054, the day before he plans to leave Planet Earth.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "He runs two engines, one compounding wealth and one giving it away, and the giving engine must step up big time: from $2.5-3 million a year to $10-20 million in a few years and $30-40 million after that. Return on invested capital will fall as scale rises, as it has for the Gates Foundation, but that is fine if absolute numbers go up.",
+      "stocks_or_cases": ["Warren Buffett", "Dakshana", "Gates Foundation"]
+    },
+    {
+      "idea": "Chuck Feeney is his hero: the Duty Free International and General Atlantic founder gave away billions mostly anonymously and died in a rented San Francisco studio with under $100,000 left.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "Feeney's objective was to have nothing left when he died; even the remaining assets were given away by his family afterward. Pabrai intends to follow Chuck's example.",
+      "stocks_or_cases": ["Chuck Feeney", "Duty Free International", "General Atlantic"]
+    },
+    {
+      "idea": "He is willing to simply write checks to other high-return nonprofits rather than keep everything homegrown, but worries that organizations may be unable to absorb and scale the money.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "Akshaya Patra's midday meal program in Bangalore generates a very high social return on invested capital; if he offered it $2 million a year it might say it cannot scale. He is also studying Foundation for Excellence, Teach for India and The Nudge.",
+      "stocks_or_cases": ["Akshaya Patra Foundation", "Foundation for Excellence", "Teach for India", "The Nudge"]
+    }
+  ]
+}

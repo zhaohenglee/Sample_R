@@ -1,0 +1,98 @@
+{
+  "video_id": "sDQD2CQ8MXk",
+  "date": "2024-10-29",
+  "title": "Mohnish Pabrai's Talk with GreenHaven Road Partners Fund on October 29, 2024",
+  "summary": "A conversation with Scott Miller's GreenHaven Road investors focused almost entirely on Dakshana: why Pabrai started giving at 42 with 2% of net worth a year, the missing feedback loops and measurement problems in philanthropy, how the IIT meritocracy makes social return on capital measurable, the $3,000-per-kid economics, scaling limits, and early failures with outsourced coaching. He closes with his 2024 portfolio (70% Turkey in three stocks, 20-25% coal) and a revised view of the Dhandho two-to-three-year rule.",
+  "ideas": [
+    {
+      "idea": "Start philanthropy early, when you still have energy to experiment and pay the tuition of failures, rather than just writing checks in your seventies.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "He started Dakshana at 42 when net worth crossed $50 million, giving 2% of net worth a year (at least $1 million), fully expecting 5-15 years of failure; instead traction came within weeks and things went 10 times better than expected. He is now 60 with 18 years of experience.",
+      "stocks_or_cases": ["Dakshana Foundation"]
+    },
+    {
+      "idea": "For seven-figure annual giving a family foundation makes sense, and public charity status unlocks corporate matching from Microsoft, Google and IBM donors.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "Dakshana began as a US 501(c)(3) family foundation plus an Indian charitable trust, later obtaining IRS public charity status; donating appreciated stock has tax advantages.",
+      "stocks_or_cases": ["Dakshana Foundation", "Microsoft", "Google", "IBM"]
+    },
+    {
+      "idea": "Philanthropy lacks the two feedback loops capitalism has: an endowed foundation survives forever without being useful, and outcomes for 98% of causes are almost impossible to measure.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "A foundation earning 6% and spending the IRS-required 5% keeps growing even if it makes a bonfire of the money; a free-needle program for the homeless has some benefit but nobody can measure it. Without measurement you cannot decide what to increase or decrease.",
+      "stocks_or_cases": ["Rockefeller Foundation"]
+    },
+    {
+      "idea": "Following Munger's 'invert, always invert', Dakshana only pursues activities where output per unit of input is easy to measure, which led to education for very poor, very smart kids.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "Education has a huge multiplier effect, turning zeros into heroes. He contrasts Gottesman's $1 billion gift making Albert Einstein medical school tuition-free, where return on capital differs vastly between rich and needy students and may never be measured.",
+      "stocks_or_cases": ["Charlie Munger", "Albert Einstein College of Medicine", "Gottesman"]
+    },
+    {
+      "idea": "The IIT entrance exam is a strict, purely objective meritocracy with a 1.3% admit rate, which makes it an ideal ecosystem for measurable social return.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "About 1.3 million kids compete for 16,000 seats; a 33% score gets a seat while top-96 ranks score 90%+. IIT is nearly free once admitted. Bill Gates said if limited to one school for Microsoft recruiting he would pick the IITs over MIT and Stanford.",
+      "stocks_or_cases": ["IIT", "Bill Gates", "Microsoft"]
+    },
+    {
+      "idea": "Dakshana's $3,000 per kid can transform a family from $50 a month to $80,000 a month, as with Ashok, a Hyderabad slum kid who ranked 63 at IIT and now earns over $1 million a year at Google.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "Ashok scored 27/100 on his first IIT Bombay CS test, 'found another gear', graduated in the top 15%, and got Google Skype interviews within seven hours of emailing HR with his rank. Dakshana takes about 1,000 kids a year with a 70% IIT admit rate and 15% AIIMS admit rate versus 0.1% nationally.",
+      "stocks_or_cases": ["Dakshana Foundation", "Google", "IIT Bombay", "AIIMS"]
+    },
+    {
+      "idea": "Vertical integration brought Dakshana's cost per kid down from about $5,000 to $3,000 despite 18 years of inflation, and its coaching now beats the for-profit industry.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "It began as an outsourced model paying for-profit coaching centers; now it has its own 109-acre campus in Pune, faculty paid $60-80,000 (half a million US-equivalent), many of them alumni. Wealthy parents offer $20-30,000 a year for a seat and are refused; it is free or nothing.",
+      "stocks_or_cases": ["Dakshana Foundation"]
+    },
+    {
+      "idea": "Dakshana will hit a brick wall at about $7-8 million a year of spending because it would run out of IIT seats; it already fills 3-4% of them and can never exceed about 1 in 8.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "Spending is about $3 million now with $10 million of capex under way to reach 1,500 kids a year and roughly $5 million a year in three years; rich kids start coaching in 6th grade for six years while Dakshana coaches for one year after 12th.",
+      "stocks_or_cases": ["Dakshana Foundation", "IIT"]
+    },
+    {
+      "idea": "Focus and feedback loops matter in charity: push one model to its limit, accept that future models will have far lower returns, and treat setbacks as block-and-tackle problems.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "The first batch had only a 10% IIT success rate because outsourced coaches sent third-rate faculty or nobody at all; he fired them ('fool me twice, shame on me') and the rate went to 20% and kept rising. Targets $10 million a year, about 5% of a hoped-for $200 million net worth; his net worth was cut in half by divorce but stayed above $50 million.",
+      "stocks_or_cases": ["Dakshana Foundation"]
+    },
+    {
+      "idea": "Well-run charter schools like Joel Greenblatt's Success Academy earn a very high return on private dollars because they are layered on top of public base funding.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "Ivy League teachers meet inner-city minority students; he judges Success Academy's return higher than the Gottesman gift when viewed through the input-output lens investors already use.",
+      "stocks_or_cases": ["Success Academy", "Joel Greenblatt"]
+    },
+    {
+      "idea": "In philanthropy stay very narrow and say no 99% of the time; sprinkling money across causes does not work.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "Exceptions were small: $10,000 to Success Academy for lunch with Greenblatt, the Buffett lunch donation to Glide, and Turkey earthquake contributions because he has investments there and should not take without giving.",
+      "stocks_or_cases": ["Glide Foundation", "Success Academy"]
+    },
+    {
+      "idea": "Buffett says he is not a market timer, but per David Einhorn he is the best one: closing the partnership in 1969, the Gen Re purchase with overvalued Berkshire stock, and now selling Apple and Bank of America.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "Berkshire may see froth and be positioning to deploy $100 billion or more when a dislocation comes; Buffett does not know whether it will be next year but thinks the odds within 10 years are high.",
+      "stocks_or_cases": ["Warren Buffett", "David Einhorn", "Berkshire Hathaway", "Gen Re", "Apple", "Bank of America"]
+    },
+    {
+      "idea": "As a stock picker he does not care where the S&P or the Magnificent Seven trade; among 50,000 stocks there are always exceptional opportunities, especially in a barbell market where much has been left behind.",
+      "topic": "Markets, cycles & macro",
+      "detail": "Someone willing to dig will find opportunities even in the frothiest markets; he does not find many things but finds enough to stay invested.",
+      "stocks_or_cases": ["S&P 500", "Magnificent Seven"]
+    },
+    {
+      "idea": "In late 2024 about 70% of his roughly $1 billion under management is in three Turkish stocks and another 20-25% in coal, 95% invested, and he would not want it any other way.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "He calls it the weirdest allocation the fund has ever had; the remaining 5% is not relevant.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "If a stock is flat or down after three years there is a decent probability your assessment was wrong, but do a holistic analysis rather than sell automatically.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "Revisiting the Dhandho Investor two-to-three-year rule: the best investors are wrong one in three times and many are wrong half the time; the stock may still be undervalued, but there may be factors affecting intrinsic value you do not understand. Investing forgives a high error rate.",
+      "stocks_or_cases": ["The Dhandho Investor"]
+    }
+  ]
+}

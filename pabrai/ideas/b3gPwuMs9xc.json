@@ -1,0 +1,128 @@
+{
+  "video_id": "b3gPwuMs9xc",
+  "date": "2026-03-23",
+  "title": "Mohnish Pabrai's Interview with The Investor’s Podcast on March 23, 2026",
+  "summary": "In his annual Berkshire-weekend conversation with Stig Brodersen, Pabrai assesses the Greg Abel era and CEO compensation, then argues from Buffett's '4% rule' that a handful of winners drive all returns, so investors should never trim great compounders like Constellation or Reysas. He revisits the Frontline and IPSCO lessons that led to his CONSOL/Alpha/Warrior met coal bets (which Munger was still buying six days before his death), explains why micro trumps macro in Turkey, discusses the Pabrai Wagons ETF, Darwin and fitness, and closes with a tribute to Guy Spier.",
+  "ideas": [
+    {
+      "idea": "Greg Abel occupies a middle ground between Buffett's delegation-to-abdication and being overbearing, and Berkshire's long-undermanaged subsidiaries will now see tighter operations.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "Munger said Greg is better than Warren in some important ways; Greg runs 80-plus businesses from Des Moines with a team of about 30 between him and the subsidiaries, and will act when a manager isn't delivering. Munger agreed with Pabrai that the furniture and jewelry retailers bought after Nebraska Furniture Mart and Borsheims were 'useless'.",
+      "stocks_or_cases": ["Berkshire Hathaway", "Greg Abel", "Charlie Munger", "Nebraska Furniture Mart", "Borsheims"]
+    },
+    {
+      "idea": "Buffett's dozen great ideas out of 300-400 investments is a 3-4% hit rate, matching the 4% of US stocks that have delivered all market returns over 90 years; most of the time when investors act the odds are stacked against them.",
+      "topic": "Compounding & long-term holding",
+      "detail": "Most of Warren's acquisitions did not work well for Berkshire, yet the home runs were so big they trounced the market. The other 96% of stocks have barely matched bonds or inflation.",
+      "stocks_or_cases": ["Berkshire Hathaway", "Warren Buffett"]
+    },
+    {
+      "idea": "Greg Abel and Ajit Jain are seriously underpaid at $20-25 million; Buffett and Munger paid them identically to the dollar for years specifically to avoid envy.",
+      "topic": "Management & capital allocation",
+      "detail": "Ajit single-handedly created maybe $150 billion of value for Berkshire and Buffett said he often felt he'd left off a zero; Buffett once offered to double Jamie Dimon's $30 million pay without defining a job. Greg's net worth is $700 million to $1 billion, mostly from selling his Berkshire Hathaway Energy stake, and he buys Berkshire stock with his after-tax pay on his own initiative; Sundar at over $500 million may also be underpaid.",
+      "stocks_or_cases": ["Greg Abel", "Ajit Jain", "Jamie Dimon", "Berkshire Hathaway Energy", "Sundar Pichai", "Satya Nadella"]
+    },
+    {
+      "idea": "For a 50-100 year holding for grandkids he would split across four buckets: one-fourth S&P 500, one-fourth Berkshire, and broad international indices with more Asia and China exposure.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "Over such a horizon Buffett's and Abel's fingerprints fade, while the S&P has a built-in mechanism that recycles out bad companies.",
+      "stocks_or_cases": ["Berkshire Hathaway", "S&P 500"]
+    },
+    {
+      "idea": "He has delegated to the point of abdication and refuses to spend brain cells on reviews or compensation, structuring life around what he loves and handing the rest to a few gifted people.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "He has never filled out the firm's 360-review software, sending a few sentences and 'warm regards' instead. He advises figuring out what you love, what you don't, and who else can do what you don't.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "He launched the Pabrai Wagons ETF because Pabrai Investment Funds' multi-million minimums serve only a small sliver, and he wanted a way to serve 'Joe Public' around the world without being elitist.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "The funds are over $1 billion and concentrated; ETF rules force far more diversification than his natural bent, but a spectacular winner takes care of itself even from a small position as long as you never trim.",
+      "stocks_or_cases": ["Pabrai Wagons ETF", "Pabrai Investment Funds"]
+    },
+    {
+      "idea": "Live by an inner scorecard and ignore critics: if people criticize Gandhi and Buffett, who is he to expect otherwise, and 'it is not the critic who counts'.",
+      "topic": "Psychology & temperament",
+      "detail": "He keeps Teddy Roosevelt's 'man in the arena' quote on his wall; Buffett and Munger operated in an open field with people saying all kinds of things about them rather than a walled garden.",
+      "stocks_or_cases": ["Warren Buffett", "Gandhi", "Teddy Roosevelt"]
+    },
+    {
+      "idea": "For almost all businesses the micro trumps the macro: how his Turkish holdings do is 95% dependent on the managers and their markets, and obsessing over Erdogan is myopic.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "He was drawn to Turkey because it screened cheaply but invested for exceptional businesses at cigar-butt prices, not Turkish exposure; the country's leader has no real advantage in messing with those companies and has other fish to fry.",
+      "stocks_or_cases": ["Reysas"]
+    },
+    {
+      "idea": "Investors should keep less than 20% of net worth in Pabrai Funds, which look-through to no more than 10-12% in any one company, and that is plenty of diversification.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "In some cases one stock is more than half a fund. The Walton heirs still own 46% of Walmart 54 years after the 1972 IPO and would be far worse off had they listened to 'the helpers'; most billionaires had 90-99% in one stock, and a couple with a Chinese restaurant has 90% in an illiquid asset without losing sleep.",
+      "stocks_or_cases": ["Pabrai Investment Funds", "Walmart", "Sam Walton"]
+    },
+    {
+      "idea": "A great fund manager should end up after 20 or 30 years with 95% in one stock; trimming Constellation Software every time it hits 10% is 'a desecration of the temple'.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "Constellation has compounded at 30-35% since IPO under Mark Leonard, who took no salary or bonus, flew coach, and now pays personally to fly business; with 1,000 businesses in one he thinks it is more resilient than Walmart. Managers who know a company cold from every call and letter should not cap it.",
+      "stocks_or_cases": ["Constellation Software", "Mark Leonard", "Walmart", "Reysas"]
+    },
+    {
+      "idea": "Frontline in 2002 was a stock with no downside where he doubled, patted himself on the back, exited, and then watched it go up 200x.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "A 2025 offshore-driller conference field trip to Frontline's ornate harbor-front Oslo headquarters, full of VLCC replicas and art, felt like God rubbing his nose in it: he once owned 2% of all that, paid for by a rounding error of the returns. He also recounts visiting Michael Burry in September 2008 and having CDSs go over his head.",
+      "stocks_or_cases": ["Frontline", "John Fredriksen", "Michael Burry"]
+    },
+    {
+      "idea": "IPSCO was a picture-perfect 'math game': a $40 stock with $15 a share cash and two announced years of $15 a share cash flow, so $45 of cash for $40 with the plant and inventory free.",
+      "topic": "Stock case studies",
+      "detail": "He put 10% of the funds in; after a third $15 year was announced the stock hit $90, and a Swedish acquirer then offered $160, at which point he exited 'one femtosecond' later. Truth is stranger than fiction because fiction has to make sense.",
+      "stocks_or_cases": ["IPSCO"]
+    },
+    {
+      "idea": "The met coal thesis is an IPSCO-style bet: a Twitter follower flagged David Einhorn's CONSOL Energy as resembling IPSCO, and he bought CONSOL, then switched to Alpha Metallurgical and Warrior because met coal was even more favorable.",
+      "topic": "Stock case studies",
+      "detail": "CONSOL forward-sells with future visibility though it isn't as clean as IPSCO, which 'came with a bow on it'. These are great bets because coal is a four-letter word nobody wants to think about.",
+      "stocks_or_cases": ["CONSOL Energy", "Alpha Metallurgical Resources", "Warrior Met Coal", "IPSCO", "David Einhorn"]
+    },
+    {
+      "idea": "Munger bought CONSOL in May 2023 within two weeks of Pabrai without either speaking to the other, said 'it was bound to happen', and after reading Pabrai's write-up was still buying Alpha six days before he died at 99.9.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "In October 2023, for the first time in their friendship, Pabrai asked to meet Charlie and flew from Austin for what became their last meal four weeks before his death. Munger's life expectancy was irrelevant to him; he was still excited to make bets.",
+      "stocks_or_cases": ["Charlie Munger", "CONSOL Energy", "Alpha Metallurgical Resources"]
+    },
+    {
+      "idea": "A lesson that took decades: never sell a good or great company when it is fairly priced or even overpriced; only consider exiting when it is egregiously overpriced with no way to justify it.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "He used to sell at 90% of fair value, a bad framework because nobody knows the true fair value of a great business. Given the 4% rule, true compounders are rare, and when they land in your portfolio the job is not to be trigger-happy.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "If Walmart was 2% of a Nifty Fifty portfolio in 1970 and the other 49 stocks went to zero, holding Walmart alone still beats the S&P; with such asymmetry you don't need to optimize, just don't get cute.",
+      "topic": "Compounding & long-term holding",
+      "detail": "Owning all five of your holdings lets you own the one or two that go spectacular. In the Wagons ETF he lets Constellation, the coal companies, Reysas and the offshore drillers all run; one or two may have issues but it is inconceivable all fall apart.",
+      "stocks_or_cases": ["Walmart", "Constellation Software", "Reysas", "McDonald's", "Coca-Cola"]
+    },
+    {
+      "idea": "Position size matters less than not trimming: Pabrai Funds never put more than 10% in anything, and index funds work precisely because they hold winners for a long time and let the 4-5% drive the result.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "The winners will get there no matter where they start; be relaxed and patient and leave it alone, which is what happens inside the S&P 'sausage factory'.",
+      "stocks_or_cases": ["Pabrai Investment Funds"]
+    },
+    {
+      "idea": "Darwin's survival of the fittest applies to investing: seek businesses that can zigzag and reinvent themselves, and a key definition of fitness is lack of leverage.",
+      "topic": "Moats & business quality",
+      "detail": "Microsoft was threatened with extinction many times over six decades and survived by zigzagging; Walmart is fit through fanatical value delivery and cost removal. A capital structure must give management the freedom to zigzag.",
+      "stocks_or_cases": ["Microsoft", "Walmart"]
+    },
+    {
+      "idea": "Pulak Prasad's 'What I Learned About Investing From Darwin' is one of the best investment books he has read, and Prasad's Nalanda model of years of research then permanent ownership is a wonderful framework.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "Prasad runs about $5 billion from Singapore, is closed to new capital, posts his whole portfolio on the homepage with no movement, and treats well-run basic businesses with exceptional governance as marriages.",
+      "stocks_or_cases": ["Pulak Prasad", "Nalanda Capital"]
+    },
+    {
+      "idea": "His bond with Guy Spier, his best friend despite their differences, comes down to 'I see you': each understands what the other needs in a way almost no one else does.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "On a 17-hour Rajdhani Express trip from Mumbai to Delhi he told Guy to tip the butler $25 up front, after which Guy rang the bell 30 times for tea and was ecstatic; he recently wrote Guy an old-fashioned letter about this.",
+      "stocks_or_cases": ["Guy Spier"]
+    }
+  ]
+}

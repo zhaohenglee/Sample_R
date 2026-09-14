@@ -1,0 +1,134 @@
+{
+  "video_id": "c7Oyv-Echa0",
+  "date": "2023-01-18",
+  "title": "Mohnish Pabrai’s Q&A with London School of Economics on January 18, 2023",
+  "summary": "In a fireside chat at LSE, Pabrai corrects the story of his evolution (he began buying great growing businesses, switched to Graham deep value in 1999-2000, and sidestepped the dot-com bubble), argues that capitalism fills in almost every moat, and lays out two routes to 100-baggers: buying at 1-3% of liquidation value (Belridge Oil, Reysas) or identifying a great compounder. He stresses circle of competence, margin of safety and being unreasonable about price, describes hacks like Value Investors Club and Dataroma to shrink the 50,000-stock universe, restates 'never use Excel', and explains why Munger's mental-model fluency, not his brain or reading, is the source of his success.",
+  "ideas": [
+    {
+      "idea": "He started 28 years ago buying great growing businesses, compounded $1M to ~$13M from 1995 to 2000, then switched to Graham deep value when the fund launched in 1999 to sidestep the dot-com bubble.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "On March 9, 2000, the day Nasdaq peaked near 5,000, Berkshire hit a multi-year low; Nasdaq then fell ~75% to ~1,200 while his funeral homes and steel companies did extremely well. Buying growing intrinsic value usually beats buying discounted dollar bills.",
+      "stocks_or_cases": ["Pabrai Investment Funds", "Berkshire Hathaway", "Nasdaq"]
+    },
+    {
+      "idea": "Capitalism is brutal and businesses with moats are aberrations; a profitable business has a target on its back and most moats eventually get filled in.",
+      "topic": "Moats & business quality",
+      "detail": "The Thai-restaurant-in-a-small-English-town example: premium economics attract entrants until returns normalize. Coke's moat makes no objective sense, the formula is easily cloned and people preferred Pepsi blind in the 1980s Pepsi Challenge, yet the brand endures, though many switch if Pepsi is 20% cheaper.",
+      "stocks_or_cases": ["Coca-Cola", "Pepsi", "Visa", "MasterCard", "American Express"]
+    },
+    {
+      "idea": "Very few businesses survive 50, 100 or 200 years, so betting that Apple will be more valuable in 100 years is a bet he would take the other side of.",
+      "topic": "Moats & business quality",
+      "detail": "The oldest known business is a 30-room Japanese hotel run by one family for ~700 years and ~35 generations. Apple will likely exist in 10-20 years but may not be more valuable than in 2023.",
+      "stocks_or_cases": ["Apple", "Wells Fargo", "Coca-Cola"]
+    },
+    {
+      "idea": "The Berkshire asset most likely to survive 200 years is Burlington Northern, because it owns rights of way, land and port connections, whatever the freight technology becomes.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "In a conversation a few weeks earlier Munger agreed and added the utilities; neither mentioned Coke, which Pabrai thinks has a decent shot but is uncertain over 200 years.",
+      "stocks_or_cases": ["Burlington Northern", "Berkshire Hathaway", "Charlie Munger", "Coca-Cola"]
+    },
+    {
+      "idea": "Value investors have no information edge and rarely an analytic edge; the strongest edge is time horizon.",
+      "topic": "Compounding & long-term holding",
+      "detail": "Bezos said Amazon gained an edge by looking out 5-10 years while competitors looked 1-3. The index is too dumb to know it owns Microsoft or Alphabet and too dumb to sell, holding them 20-30 years, which is why it does so well.",
+      "stocks_or_cases": ["Jeff Bezos", "Amazon", "Microsoft", "Alphabet", "S&P 500", "General Electric"]
+    },
+    {
+      "idea": "A simple path to a 100-bagger is buying a company that never grows at 1% of liquidation value.",
+      "topic": "Valuation & margin of safety",
+      "detail": "If something worth $1B can be bought for $10M and the value holds, you have a 100x; not facetious, since Belridge and Reysas were exactly that kind of situation.",
+      "stocks_or_cases": ["Belridge Oil", "Reysas"]
+    },
+    {
+      "idea": "Munger calls declining the second 1,500 shares of Belridge Oil in 1977 the greatest mistake of his life; he should have sold something else because nothing he owned was a 20-cent dollar.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "Belridge traded at ~$120M market cap with a 15% yield, owned its Bakersfield land outright, and was bought by Shell two years later for $3.5B, ~30x. Rolled into Berkshire at ~$300 a share in 1979, Charlie's ~$30K became ~$1.5B; the declined shares would be worth ~$7.5B, more than his net worth.",
+      "stocks_or_cases": ["Belridge Oil", "Charlie Munger", "Shell", "Berkshire Hathaway"]
+    },
+    {
+      "idea": "In 2019 he found his Belridge Oil: a Turkish company at 3% of liquidation value that is also growing its value, so he may not even need a 'cross connect'.",
+      "topic": "Stock case studies",
+      "detail": "He bought at a ~$20M market cap against $600-700M of value, now probably $1.5B+ and doubled in three years. The hard part is doing nothing like Rip Van Winkle for 20 years and making sure no sell orders are placed; it is one and done.",
+      "stocks_or_cases": ["Reysas", "Belridge Oil", "Turkey"]
+    },
+    {
+      "idea": "Auction-driven markets, like parimutuel horse racing, constantly overshoot and undershoot, unlike a private gas station sale between intelligent buyer and seller.",
+      "topic": "Markets, cycles & macro",
+      "detail": "In 2022 Meta was given one valuation and a year later 'taken out back and shot' with little change in the business; a private sale would not show anything like that delta. The undershooting creates the opportunity.",
+      "stocks_or_cases": ["Meta"]
+    },
+    {
+      "idea": "Buffett's 'start with the A's' is real: he thumbed the Moody's Manual in 1956-57 finding companies earning $15M with $25M market caps, and was still thumbing the Japan Company Handbook around 2010-11.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "The 12-year-old collecting discarded winning tickets at Aksarben racetrack is the same person at 26 and 82; personality is die-cast by age five. When Pabrai dog-eared Buffett's Japan Company Handbook, Buffett said the good stuff is always at the back, so maybe start with the Z's.",
+      "stocks_or_cases": ["Warren Buffett", "Moody's Manual", "Japan Company Handbook", "Guy Spier", "Debbie Bosanek"]
+    },
+    {
+      "idea": "The one-, two- or three-cent dollar bill exists today, tomorrow and in five years; the only question is how many pages you are willing to flip and rocks you are willing to turn.",
+      "topic": "Psychology & temperament",
+      "detail": "Munger's answer to 'this is so much work' is 'why should it be easy to get rich?' One and done is better than zero and done, and he keeps hunting.",
+      "stocks_or_cases": ["Charlie Munger"]
+    },
+    {
+      "idea": "The second route to a 100-bagger, identifying a great compounder and paying a reasonable or even expensive-looking price, is a harder game for him personally, though he is open to both.",
+      "topic": "Compounding & long-term holding",
+      "detail": "With a crystal ball for 30-50 years a $1B market cap could become $200B; the cheap-asset game is a tad easier because auction markets and fear/greed oscillation deliver it.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Circle of competence is the most important filter; you can get extremely wealthy with a circle an inch wide and a mile deep, and 98-99% of businesses should get a pass.",
+      "topic": "Circle of competence & checklists",
+      "detail": "He passes on all biotech and healthcare, and dislikes defense contractors because a single government customer invites non-market forces. Missing a 100x or 1000x does not matter; avoiding what you do not understand does.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Be very unreasonable about price: with 50,000 companies you can find 50%, 75%, 90% or even 95% off, and if you make 8-10 such bets and half fail you still do spectacularly.",
+      "topic": "Valuation & margin of safety",
+      "detail": "If you truly understand a company you by definition know what it is worth; then demand a large delta to market price and wait for seven moons to line up.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Take the path less traveled: a large company followed by 20 analysts is unlikely to be widely mispriced, so hunt obscure names.",
+      "topic": "Circle of competence & checklists",
+      "detail": "He could not get his best investor friends to spend five minutes on Reysas ('Turkey, some nano cap'). Exceptions like Microsoft in the 1980s or Walmart in the 1970s would have worked at almost any multiple.",
+      "stocks_or_cases": ["Reysas", "Belridge Oil", "Microsoft", "Walmart"]
+    },
+    {
+      "idea": "You only get ~1,500 months of life and could study maybe 600-700 businesses, about 1% of the universe, so use hacks like Value Investors Club, Dataroma and Berkshire's portfolio.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "VIC gives digested qualitative and quantitative write-ups from a rigorous membership; Dataroma lists holdings already filtered by smart investors. One good investment a year is a year well spent; he is a shameless cloner.",
+      "stocks_or_cases": ["Value Investors Club", "Dataroma", "Berkshire Hathaway"]
+    },
+    {
+      "idea": "Thou shall never use Excel: if you reach for a spreadsheet you do not have a Belridge or a Reysas; it should hit you over the head on first read that it is worth 10x the price.",
+      "topic": "Valuation & margin of safety",
+      "detail": "Fine-tuning work may follow, but the no-brainer quality must be blindingly obvious up front.",
+      "stocks_or_cases": ["Belridge Oil", "Reysas"]
+    },
+    {
+      "idea": "Munger's success comes not from his large brain or reading 400-500 books a year but from 30-50 etched mental models he can overlay on a situation instantly.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "Observing how Charlie functions over dinners and Bridge taught more than his words. Get the models in, believe in them, and gain fluency to apply three to five at once; when several point the same way you get lollapalooza effects. He rereads The Psychology of Human Misjudgement in Poor Charlie's Almanack every year.",
+      "stocks_or_cases": ["Charlie Munger", "Poor Charlie's Almanack"]
+    },
+    {
+      "idea": "Coke exploits the association tendency by advertising wherever people are happy, the Olympics, Super Bowl, movie theaters, and using celebrities, Pavlovian conditioning that makes you credit Coke for the happiness.",
+      "topic": "Moats & business quality",
+      "detail": "Buffett and Munger saw four or five mental models working in the same direction on Coke and knew they had a winner; cloning and reciprocity are also mental models.",
+      "stocks_or_cases": ["Coca-Cola", "Warren Buffett", "Charlie Munger"]
+    },
+    {
+      "idea": "Overlaying cheapness with goodness produces lollapalooza results: Reysas was interesting less as a three-cent dollar than because management will not invest capital below a 25-35% return.",
+      "topic": "Management & capital allocation",
+      "detail": "A three-cent dollar gives 30x; if the dollar becomes a $20 bill through high-return reinvestment, three cents becomes $20. Buying a compounder at 100 cents still works, but at three or five cents it is off the charts.",
+      "stocks_or_cases": ["Reysas", "Charlie Munger"]
+    },
+    {
+      "idea": "The value investing community from Graham to Buffett and Munger has an ethos of selfless knowledge sharing, and nobody gets poorer by teaching.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "He claims no original ideas, only cloned ones from earlier masters, and notes Buffett wants just one line on his gravestone: 'Was a teacher.'",
+      "stocks_or_cases": ["Ben Graham", "Warren Buffett", "Charlie Munger"]
+    }
+  ]
+}

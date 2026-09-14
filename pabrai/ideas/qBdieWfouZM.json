@@ -1,0 +1,140 @@
+{
+  "video_id": "qBdieWfouZM",
+  "date": "2022-06-16",
+  "title": "Mohnish Pabrai's Session with Narsee Monjee Institute of Management Studies on June 16, 2022",
+  "summary": "Pabrai tells NMIMS students that of all the approaches under the value-investing tent, the best is focusing on multibaggers (10x in 10 years, 100x in 20) using Chuck Akre's three-legged stool of high ROIC without debt, high-integrity insider management, and a long runway, illustrated with McDonald's, Walmart, Coca-Cola and DMart. He recounts his 1995 India bets (Satyam 150x, but selling Kotak and Blue Dart before 500x and 300x), his 3-cents-on-the-dollar Turkish warehouse investment, and Rain Industries, and argues investors should ignore macro, build conviction from a thesis explainable to a 10-year-old, and worry about moat shrinkage rather than price drops.",
+  "ideas": [
+    {
+      "idea": "Investing is an endeavor where you can keep getting better throughout your life, unlike basketball or cricket.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Continuous improvement and learning are both possible and desirable in this business.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "The value-investing tent is wide (50-cent dollars, spinoffs, cannibals, spawners, net-nets, special situations, P/E of 1), and with 50-100,000 stocks globally almost any criterion can work if you focus on it with clarity.",
+      "topic": "Circle of competence & checklists",
+      "detail": "Quoting the Upanishads, your deepest desire is your destiny: if you want 20-cent bills you will find them, and if you want 100-baggers you will find those too, as long as you sift company after company with your framework.",
+      "stocks_or_cases": ["Joel Greenblatt", "Ben Graham"]
+    },
+    {
+      "idea": "If there is a best approach, it is focusing on multibaggers: businesses that can be 10x in 10 years or less, or 100x in 20 years or less.",
+      "topic": "Compounding & long-term holding",
+      "detail": "Advantages: unrealized gains go untaxed for decades (an interest-free loan from the government where rates can be 40-50%), and you escape the treadmill of finding undervalued stocks, selling at fair value and starting over.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "In the multibagger framework you don't sell when a position becomes fully valued or even overvalued; you sell only when it is egregiously overvalued.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "This is a departure from Graham, who taught selling as price approaches fair value; the investor must learn to distinguish overvalued from egregiously overvalued.",
+      "stocks_or_cases": ["Ben Graham"]
+    },
+    {
+      "idea": "McDonald's is a 10,000-plus bagger since going public in the 1960s because its moat of standardization, consistency and speed has held for 60 years despite many copycats.",
+      "topic": "Moats & business quality",
+      "detail": "Early innovations included food eaten without cutlery and light-manufacturing-style processes; entering a country like India or Russia takes two or three years just to train farmers for the right potatoes. He recommends The Founder, Grinding It Out and The Burger King.",
+      "stocks_or_cases": ["McDonald's", "Ray Kroc", "Burger King", "KFC"]
+    },
+    {
+      "idea": "McDonald's is a capital-light franchisor: it collects roughly 4% of sales in inflation-indexed rent plus ~4% franchise fees, about $150-200k a year per $2-3 million restaurant, with the franchisee funding all capex.",
+      "topic": "Moats & business quality",
+      "detail": "Like most franchisors, it passes product sales through at little margin; the two engines are rent and franchise fees, roughly 7-8% off the top line.",
+      "stocks_or_cases": ["McDonald's"]
+    },
+    {
+      "idea": "Chuck Akre's three-legged stool for multibaggers: very high returns on invested capital ideally without debt, high-integrity management with insider ownership, and a very long runway; the fourth thing is price.",
+      "topic": "Moats & business quality",
+      "detail": "Each leg is a hard filter: low ROE, growth needing debt, or questionable ethics means you're done. Walmart's 1980 annual report showed superior store economics and an embryonic footprint, and then it went global; Coca-Cola's syrup-concentrate model after 130 years is almost like software taking ~8% of each Coke sold.",
+      "stocks_or_cases": ["Chuck Akre", "Walmart", "Coca-Cola", "MasterCard", "Visa", "American Express"]
+    },
+    {
+      "idea": "Well-known moats get priced to perfection, but if the runway truly lasts decades, an expensive-looking price can still be a great value investment, though keep a dose of skepticism.",
+      "topic": "Valuation & margin of safety",
+      "detail": "DMart, with a Costco/Aldi-like model, is embryonic in India relative to its 10-30 year potential and trades at huge multiples (around 100x trailing); private sector banks may go from a third to half or two-thirds of a growing Indian banking pie.",
+      "stocks_or_cases": ["DMart", "Costco", "Aldi"]
+    },
+    {
+      "idea": "Templeton said the best analyst is wrong one in three times; multibagger investing tolerates being wrong half the time, and two or three 100-baggers in a lifetime are all you need.",
+      "topic": "Psychology & temperament",
+      "detail": "A brain surgeon with a 3% error rate would have no patients, but he has been wrong close to half the time with a phenomenal record; you may only need to find one 100-bagger.",
+      "stocks_or_cases": ["John Templeton"]
+    },
+    {
+      "idea": "My journey has been sloppy; if I had focused purely on 10- and 100-baggers from 1994-95 my results would have been vastly better.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "Starting with ~$1 million in 1995, he had two 100-baggers in the first five years (one turned $100,000 into ~$10 million and the US portfolio went from $980,000 to ~$13 million by 1999-2000), but none from 2000 to 2022; the two 100-baggers drove 80-90% of returns.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Satyam turned $10,000 into ~$1.4 million (150x) from 1995 to 2000, but I sold Kotak and Blue Dart in 2000 for no good reason and missed a 500x and a 300x.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "He put 2% ($20,000) of his portfolio into India via an NRI account at Kotak: half in Satyam (then an honest company that went wayward 10-12 years later), and ~$3,300 each in Kotak, Blue Dart and Sky Pack; Sky Pack fell ~90% and went bankrupt, but the lesson is that selling winners was the error.",
+      "stocks_or_cases": ["Satyam Computers", "Kotak Mahindra", "Blue Dart", "Sky Pack Courier"]
+    },
+    {
+      "idea": "In 2019 in Istanbul I found a dollar bill trading for 3 cents: a $20 million market cap with liquidation value over $600-700 million, and I bought a third of it for about $8 million.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "Turkey is the cheapest market in the world with crazy inflation and policies, reminiscent of India in the early 1990s; reaching fair value alone would be a 30-33x, it is already up 5-6x in three years, and if the phenomenal capital allocators triple its value it becomes a 100-bagger. Having learned from Kotak and Blue Dart, his job is to do nothing and still own it in 20 years.",
+      "stocks_or_cases": ["Turkey", "Reysas"]
+    },
+    {
+      "idea": "All intelligent investing is value investing, and auction-driven markets guarantee mispricing because a stock's 52-week range swings 50-100% while real business value cannot.",
+      "topic": "Markets, cycles & macro",
+      "detail": "A Mumbai flat quoted by a broker moves from 3 crores to maybe 3.1 or 3.3 crores in a year because an intelligent buyer faces an intelligent seller, whereas NSE/BSE/NYSE prices overshoot and undershoot; there is always a bull market somewhere and Turkey is hated and unloved.",
+      "stocks_or_cases": ["Turkey", "Jim Cramer"]
+    },
+    {
+      "idea": "Ethics filters must be stronger in India than the US; take a pass on any business where governance is low or you can't determine it, just as you would on a low-ROE business.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "Of 50 NYSE investments over a lifetime maybe one would be fraudulent; in India the number would be higher, but with 5,000 listed companies a rigorous ethics filter still leaves a decent universe and reduces the error rate.",
+      "stocks_or_cases": ["Satyam Computers"]
+    },
+    {
+      "idea": "First ask whether the business is in your circle of competence; if you can bound its 10-20 year cash flows, valuation is straight math, and if you can't, take a pass.",
+      "topic": "Circle of competence & checklists",
+      "detail": "Even at 100x trailing earnings, DMart could be judged over- or undervalued by discounting cash flows, but only if you understand the business well enough to estimate them.",
+      "stocks_or_cases": ["DMart"]
+    },
+    {
+      "idea": "Rain Industries was a future P/E of 1: 35 rupees a share and 0.1x sales in 2015, with earnings likely to exceed 35 rupees a share within four or five years.",
+      "topic": "Stock case studies",
+      "detail": "Parry Pasricha's 20-page writeup (and an earlier Luca Franca report) prompted the bet; he bought the 9.99% foreign limit for ~$20 million, the stock hit 440 rupees by early 2018 as quarterly earnings approached 9-10 rupees, fell to 60 in March 2020 and is ~160-170 now, a ~4x in seven years; he still owns it because he fell in love with the honest, competent management and his usual problem is getting off the bus too early.",
+      "stocks_or_cases": ["Rain Industries", "Parry Pasricha", "Luca Franca"]
+    },
+    {
+      "idea": "Venture capital is not a game where the odds are in my favor: no downside protection, no historical track records, and returns dominated by deal flow that unknown investors lack.",
+      "topic": "Circle of competence & checklists",
+      "detail": "Top-quartile venture funds beat bottom-quartile by multiples while bond funds differ by 100-200 bps; VC friends say access to Sequoia's trash can would triple their returns. By contrast, in public markets the small investor with 10 lakhs to 5 crores has a huge advantage over institutions because they can look at nano caps.",
+      "stocks_or_cases": ["Sequoia", "Andreessen Horowitz", "Y Combinator"]
+    },
+    {
+      "idea": "For a know-nothing investor, passive index investing with low frictional costs is a great baseline, especially with decades ahead; pick stocks only if you understand specific businesses.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "Being a passive investor is certainly a great way to go for most people.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Most investors would be better off completely ignoring macro; being right on the business is what matters, and long runways transcend everything.",
+      "topic": "Markets, cycles & macro",
+      "detail": "Starbucks earns its money back in two years per US store (35% return on capital) and 15 months in China (~70%), and a second store diagonally across a Manhattan intersection doesn't cannibalize the first, regardless of the Fed. His Turkish investment went from 5 lira per dollar to almost 18 yet is up 5x in dollars.",
+      "stocks_or_cases": ["Starbucks", "Turkey", "McDonald's", "Walmart", "MasterCard", "Visa", "Coca-Cola"]
+    },
+    {
+      "idea": "One decision can trump all others: 90% of Enam's value came from keeping the unwanted Infosys shares it was stuck with as underwriter.",
+      "topic": "Compounding & long-term holding",
+      "detail": "Whatever else the Nariman Point investment bank did over 30 years is irrelevant; had it sold the Infosys stock it would be a shadow of itself.",
+      "stocks_or_cases": ["Enam", "Infosys"]
+    },
+    {
+      "idea": "To survive 50-90% drawdowns you need conviction, and conviction comes from a thesis you can explain to a 10-year-old in 5-10 sentences without a spreadsheet.",
+      "topic": "Psychology & temperament",
+      "detail": "His Turkish company has 12 million square feet of 99%-leased prime Istanbul warehouses on 10-year inflation-indexed leases, worth $1-2 billion against ~$80-100 million of debt, bought at ~$80 per square foot that may reach $200 but won't fall to $30. For Starbucks the two pieces that matter are unit economics and store count (5,000 stores could be 25,000 in 20 years).",
+      "stocks_or_cases": ["Turkey", "Reysas", "Starbucks"]
+    },
+    {
+      "idea": "We are not concerned with price movements; we are concerned with the expansion or shrinkage of the moat.",
+      "topic": "Moats & business quality",
+      "detail": "If you have to open a spreadsheet after a 50% drop to understand what is going on, you haven't done your homework; the thesis changes only if there is a secular, permanent change in the economics, such as payback stretching from two years to five or ten.",
+      "stocks_or_cases": ["Starbucks"]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "video_id": "JpGi2c7a1gw",
+  "date": "2025-01-31",
+  "title": "Mohnish Pabrai's session with CIBS at University of Cambridge on January 31, 2025",
+  "summary": "Pabrai opens with Marcus Aurelius and Munger on adversity as the seed of growth, illustrated by his $4.5 million dot-com loss before the 1999-2007 run and the two-thirds drawdown in 2008-09. He then covers his 3-5% a year outlook for the S&P, why the Magnificent Seven are 'too hard', the Reysas case (bought at under 3% of liquidation value, now up 40-50x), patience and simplicity as the core skills, extreme concentration justified by the Walton family, and what he would change in a second edition of The Dhandho Investor.",
+  "ideas": [
+    {
+      "idea": "'To encounter misfortune and overcome it is good fortune': every major setback in his life has been the kernel of later growth, so he now has blind faith that adversity will prove helpful.",
+      "topic": "Psychology & temperament",
+      "detail": "Munger lost a son to leukemia and an eye to a botched cataract operation around 60 and his answer was 'you always just soldier on'. Pabrai cannot point to a single setback that did not lead to better outcomes.",
+      "stocks_or_cases": ["Marcus Aurelius", "Charlie Munger"]
+    },
+    {
+      "idea": "Losing $4.5 million ($2 million his own) on a dot-com startup in 1998-99 put him six to nine months ahead of the market in recognizing the bubble, which set up the fund's best years.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "Pabrai Investment Funds started mid-1999 with almost no tech and a portfolio of anomalies and special situations in cheap brick-and-mortar businesses; from 1999-2007 it had no down years, mid-30s annualized before fees and high-20s after, while the Nasdaq crashed. By 2007 he managed about $600 million.",
+      "stocks_or_cases": ["Pabrai Investment Funds"]
+    },
+    {
+      "idea": "The 2007-09 financial crisis, when the fund fell 65-67% versus 40% for markets, forced a rethink that led to great investments he would not otherwise have made.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "He was clueless about the crash and had significant exposure to leveraged financial institutions, the worst place to be, taking a couple of 100% losses. Munger: learn from mistakes but do not learn too much; study them and move on.",
+      "stocks_or_cases": ["Charlie Munger", "Pabrai Investment Funds"]
+    },
+    {
+      "idea": "Predicting markets is a fool's errand, but his current view is that the S&P 500 will return no more than 3-5% a year over the next 10-15 years.",
+      "topic": "Markets, cycles & macro",
+      "detail": "He does not know whether that plays out as a big decline followed by robust returns or a flat line, and he makes no bets on it; he owns no tech and nothing related to AI, so his basic undervalued bets should be uncorrelated with the market. The DeepSeek correction did not change this.",
+      "stocks_or_cases": ["S&P 500"]
+    },
+    {
+      "idea": "All intelligent investing is value investing; the Magnificent Seven fall in the 'too hard' pile because he cannot estimate their cash flows and they are not selling at three times earnings.",
+      "topic": "Circle of competence & checklists",
+      "detail": "Nvidia could be a great value investment or ridiculously overvalued depending on what it produces in cash in 2030, a number he cannot figure out. He sees plenty of euphoria in large tech and thinks the next decade may not be a great place to invest in them, though he could be wrong.",
+      "stocks_or_cases": ["Nvidia", "Magnificent Seven", "Berkshire Hathaway"]
+    },
+    {
+      "idea": "Limit yourself to businesses where either the future cash flows are clearly visible or the discount is so extreme that cash flows do not matter; most of his investments are the latter.",
+      "topic": "Valuation & margin of safety",
+      "detail": "Reysas had a $16 million market cap against $600-800 million of equity liquidation value (warehouses worth $800 million to $1 billion less $200 million debt), less than 3% of liquidation value, so no cash-flow model was needed. Reject all investments unless conventional metrics no longer make sense, and when a situation looks completely illogical but favorable, go all in because such opportunities are rare.",
+      "stocks_or_cases": ["Reysas"]
+    },
+    {
+      "idea": "Turkey's market is filled with gamblers who 'rent' stocks, which let him buy a third of Reysas for about $8 million despite a mass exodus of foreign investors.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "The average Turkish stock cycles through its entire float in under 20 days. Warehouses are land, cement, concrete and steel, all inflation-indexed and globally valued, so the collapse of the lira did not matter in dollar terms; the stock is up 40-50x to a market cap over $1 billion and is still below a liquidation value north of $2 billion.",
+      "stocks_or_cases": ["Reysas"]
+    },
+    {
+      "idea": "Asset classes can stagnate for 10, 20 or 30 years, so value investing cannot be judged on 5 or 10 years of underperformance as long as cash-flow streams remain intact.",
+      "topic": "Markets, cycles & macro",
+      "detail": "Traditional non-tech value stocks may have delivered poor returns over the last decade, but that is part of the cycle.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Public-market value investing is a game of singles where 100% losses are very expensive, unlike venture capital where winners return 100-10,000x and missing the winner is the real risk.",
+      "topic": "Valuation & margin of safety",
+      "detail": "Templeton said the best analyst is wrong one in three times and most of us at least half the time. Bill Gurley's Benchmark passed on a sub-20-person Google (two PhDs both wanting to be CEO, crowded field with Yahoo and AltaVista) while Sequoia and John Doerr took the same pitch and made 10,000x; Sequoia's ability to do this decade after decade is 'magic DNA'.",
+      "stocks_or_cases": ["John Templeton", "Bill Gurley", "Benchmark Capital", "Sequoia Capital", "John Doerr", "Google"]
+    },
+    {
+      "idea": "He cannot point to which of his current holdings will fail, but he knows some in the basket will not work, which is why a basket is needed.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "It will become obvious in due course which ones do not work; that is the nature of investing.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "The number one investing skill is extreme patience, coupled with a thesis so simple it fits in three or four sentences a 10- or 12-year-old could follow.",
+      "topic": "Psychology & temperament",
+      "detail": "Even Reysas, extraordinarily undervalued, did nothing for a couple of years. Many stocks drop 50% after you buy them; without a hardcoded, simple thesis you will second-guess and sell, but if the thesis is intact after the drop, conviction stays intact.",
+      "stocks_or_cases": ["Reysas"]
+    },
+    {
+      "idea": "Conviction in Reysas is easy because the reference point is liquidation value; intrinsic value only becomes the question once the stock reaches liquidation value.",
+      "topic": "Valuation & margin of safety",
+      "detail": "The only thing he needs to understand about the business is what liquidation value is; holding below that is simple.",
+      "stocks_or_cases": ["Reysas"]
+    },
+    {
+      "idea": "The fund has no fixed strategy: long-only equities, no leverage, options, derivatives or shorting, and purely opportunistic hunting where things are hated and unloved.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "Munger: go fishing where the fish are and there are no fishermen, another reason not to spend time on the Magnificent Seven. He makes annual trips to Turkey, where extreme fear and hatred still make prices irrational.",
+      "stocks_or_cases": ["Charlie Munger", "Magnificent Seven"]
+    },
+    {
+      "idea": "Buffett has a 'Swiss Army knife' approach: mostly great businesses, but he still enjoys workouts like the Japanese trading companies financed entirely with 0.5% yen debt against 8% dividend yields.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "Without putting up equity he was significantly cash-flow positive; the companies then doubled dividends, taking the yield on cost to 15%, and the stock prices doubled too. Be flexible and read a lot until something truly exceptional shows up on the radar.",
+      "stocks_or_cases": ["Warren Buffett", "Japanese trading companies", "Charlie Munger"]
+    },
+    {
+      "idea": "He will not trim positions just because they become large: over two-thirds of his ~$400 million offshore fund is in two Turkish stocks and 90%+ in four names, and he told investors to manage concentration at their own level instead.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "Reysas is more than half the fund and a second Turkish stock is 17-18%, with two coal bets at 15-20%. Investors with less than one-fifth of net worth in the fund should do nothing (no look-through position above 10% of net worth); those above should withdraw some into uncorrelated assets. It makes no sense to trim something at less than half of liquidation value when good ideas are so rare.",
+      "stocks_or_cases": ["Reysas"]
+    },
+    {
+      "idea": "The Walton family's stake in Walmart has risen from about 36% at the 1970 IPO to the low 40s despite no family member running the company for 30+ years; that is the model for treating Reysas as a family business.",
+      "topic": "Compounding & long-term holding",
+      "detail": "Sam Walton transferred shares to his kids before the IPO, avoiding estate taxes. Pabrai has watched Reysas for five or six years and sees exceptional capital allocators and good assets; all billionaires got there by being concentrated, and Munger said when you get a rare trip to the pie counter you must load up. He never expects to find another stock at 3% of liquidation value.",
+      "stocks_or_cases": ["Walmart", "Sam Walton", "Reysas", "Charlie Munger"]
+    },
+    {
+      "idea": "Investing knowledge is cumulative, so unlike a basketball player who peaks in his early thirties, an investor keeps improving as long as the top nine or twelve inches of the body work.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Munger said Warren was still getting better in his nineties; winners teach little, mistakes teach a lot.",
+      "stocks_or_cases": ["Warren Buffett", "Charlie Munger"]
+    },
+    {
+      "idea": "A second edition of The Dhandho Investor would make long-term buy-and-hold of exceptional businesses at reasonable prices the number one goal, with special situations as a Swiss Army knife side pursuit.",
+      "topic": "Compounding & long-term holding",
+      "detail": "The anchor of the portfolio must be great businesses run by great capital allocators with great economics. You do not need to be a founder: riding the coattails of Bezos or Sam Walton with a hundred shares works, and the small investor's ability to go anywhere is a huge advantage since size is a big negative.",
+      "stocks_or_cases": ["Amazon", "Walmart", "Jeff Bezos", "Sam Walton"]
+    },
+    {
+      "idea": "Nick Sleep's post-fund portfolio of one-third each in Amazon, Costco and Berkshire is beating everyone; his one mistake was halving Amazon at 60% of the pie to buy a terrible fourth business.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "Sleep shut Nomad around 2012-14; he would have done better sticking with the original three, yet even with that mistake has done very well, showing how forgiving the business is.",
+      "stocks_or_cases": ["Nick Sleep", "Amazon", "Costco", "Berkshire Hathaway"]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "video_id": "FO5V7jcBNMM",
+  "date": "2016-09-26",
+  "title": "Mohnish Pabrai's Lecture to Univ. of Puerto Rico MBA Class – Sept. 26, 2016",
+  "summary": "In a first-time lecture to University of Puerto Rico MBA students, Pabrai presents three of Munger's latticework mental models that changed his life: radical truthfulness from David Hawkins' 'Power vs. Force', the power of compounding illustrated with the $24 Manhattan sale and a minimum-wage saver, and the 'second 40 hours' method of starting a business without quitting your job. He ties them together with his own examples, including candor with investors after the 67% loss in 2008 and how his former bosses later became fund investors.",
+  "ideas": [
+    {
+      "idea": "Be aware of and leverage Munger's latticework of mental models, because our brains have evolutionary distortions of reality.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "He recommends Munger's 'Psychology of Human Misjudgment' speech and picks three of the roughly 30 models that had a significant positive impact on his life.",
+      "stocks_or_cases": ["Charlie Munger"]
+    },
+    {
+      "idea": "People subconsciously detect lies, so eliminate even small white lies; when choosing between truth and diplomacy, choose truth.",
+      "topic": "Psychology & temperament",
+      "detail": "From David Hawkins' 'Power vs. Force', read about 20 years earlier: you feel weak around a used car salesman and strong around the Dalai Lama or Buffett and Munger; telling his wife candidly that a dress could be better cost some dates but made the relationship stronger.",
+      "stocks_or_cases": ["David Hawkins"]
+    },
+    {
+      "idea": "Humans do not care what the truth is; they care that you tell the truth, and they forgive even egregious failures when you own them.",
+      "topic": "Psychology & temperament",
+      "detail": "In 2008 his funds lost two-thirds of their value; instead of blaming the crisis he detailed his own mistakes to the 450-500 investor families and received only about two phone calls and a couple of emails, mostly supportive.",
+      "stocks_or_cases": ["Pabrai Investment Funds"]
+    },
+    {
+      "idea": "Trust, not contracts, runs the world, and the payoff to trustworthiness is exponential: lying 1 in 1,000 times versus 1 in 100 makes an exponential difference in life outcomes.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Trust takes 5, 10 or 20 years to establish and has been a compounding tailwind for him; he cites Trump's 'Teflon' ratings as evidence that people reward candor over PR-packaged talk.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Fluency in compounding math in your head, using the rule of 72 and 2^10 = 1,024, is a huge life advantage.",
+      "topic": "Compounding & long-term holding",
+      "detail": "At 7% money doubles every 10 years, so $24 for Manhattan in 1626 becomes roughly $12 trillion by 2016, far more than Manhattan's land is worth given total US wealth of about $80 trillion; Buffett used this example in a late-1950s partnership letter.",
+      "stocks_or_cases": ["Warren Buffett"]
+    },
+    {
+      "idea": "Almost anyone can retire wealthy: an 18-year-old minimum-wage worker saving $1,500 a year at 7% ends up with over $1 million at 68.",
+      "topic": "Compounding & long-term holding",
+      "detail": "The first $1,500 alone becomes $48,000 after five doubles; a middle-class librarian who left a college $4 million simply followed this plan. Starting at 18 versus 28 makes a huge difference, and never raid a 401k or IRA for vacations.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "The two levers of compounding are the length of the runway and the rate, and it is all about the number of doubles.",
+      "topic": "Compounding & long-term holding",
+      "detail": "He put his daughter's $5,000 internship pay into one stock in her IRA at 18; at 15% (doubling every five years) it becomes $5 million at 68. Buffett's one wish is to live as long as possible so he can keep compounding; he started at 11 and told his wife at 24 they would be wealthy beyond their dreams.",
+      "stocks_or_cases": ["Warren Buffett"]
+    },
+    {
+      "idea": "Do not quit your job to start a business; build it in the 'second 40 hours' of the 168-hour week and resign only once revenue and cash flow show traction.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "At 24 he worked on TransTech on evenings and weekends, deliberately performing just above firing level, and resigned after 11 months in 1991 once he had clients; his boss and his boss's boss became Pabrai Funds investors in 2001.",
+      "stocks_or_cases": ["TransTech", "Pabrai Investment Funds"]
+    },
+    {
+      "idea": "You can attempt the second-40-hours startup five times and fail five times at no real risk, because today's tech and app businesses need what is between your ears, not capital.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "He tried two or three ideas before TransTech that never got traction, losing only $3-4,000 each; work with people you like, admire and trust, as Buffett says.",
+      "stocks_or_cases": ["TransTech"]
+    }
+  ]
+}

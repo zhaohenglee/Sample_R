@@ -1,0 +1,116 @@
+{
+  "video_id": "-etUrauRHgE",
+  "date": "2021-10-26",
+  "title": "Mohnish Pabrai’s Q&A session with students at William & Mary College",
+  "summary": "A student Q&A hosted by William & Mary's entrepreneurship center in which Pabrai discusses lessons from observing Charlie Munger's stoicism, how beginners should start investing with a real brokerage account and Buffett's 20-punch card, and entrepreneurship insights from his daughter's startup and Amar Bhide's research. He also covers why leverage kills operators but creates opportunities for investors (Teck Cominco), why DCF is the only true valuation method, why insurance is a terrible core business, and Dakshana's swing-for-the-fences philanthropy.",
+  "ideas": [
+    {
+      "idea": "The biggest lesson from Charlie Munger is not what he says but what he does: stoic behavior to the power of stoic behavior, never engaging in self-pity no matter what life deals him.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "Munger, turning 98, lost his wife after a fall down the stairs and nearly lost sight in his one good eye; his only comment was that he might have to learn Braille. He also says he never spent an hour working out and added those hours to reading, while the doctors who advised otherwise are all dead.",
+      "stocks_or_cases": ["Charlie Munger"]
+    },
+    {
+      "idea": "Everything you need to learn from Buffett and Munger is already in the public domain; you don't need to know them personally because they are open books.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "He recommends the Berkshire letters, the CNBC annual meeting archive, the Buffett and Munger biographies and Poor Charlie's Almanack.",
+      "stocks_or_cases": ["Warren Buffett", "Charlie Munger", "Berkshire Hathaway"]
+    },
+    {
+      "idea": "Most entrepreneurs go low risk, high return, not high risk, high return; venture-backed startups are an irrelevant anomaly making up well under 1% of startups.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "His daughter's four-person beauty product startup muted the downside with no debt, no burn, and founders keeping their day jobs, giving it a long runway even though scaling remains a low-probability uphill climb.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "A beginner should open a real discount brokerage account (not Robinhood, which is too much like a video game), study the products they already use, and hold no more than three high-conviction stocks.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Commission-free trading means you can start with $100; gains and losses must be real rather than in Excel. Buffett's 20-punch card means you get only 20 picks over 70 years, so don't blow 10 in one year.",
+      "stocks_or_cases": ["Warren Buffett", "Apple", "Alphabet"]
+    },
+    {
+      "idea": "Micro trumps macro: as a bottoms-up stock picker he cares little about geography, currency or who runs the country because long-term returns depend on how the business does.",
+      "topic": "Markets, cycles & macro",
+      "detail": "Some markets are still cheaper than others: Turkey is very undervalued due to macro noise, Japan because of decades of terrible returns, and pockets of India and China may be undervalued, but plenty of undervalued businesses exist in the US too.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Less can be more: narrow focus, even to a single state's companies, can give a big edge because you know the businesses intimately and can easily kick the tires.",
+      "topic": "Circle of competence & checklists",
+      "detail": "The Mairs and Power Fund in Minnesota mostly invested in Minnesota companies and did really well; you do not need to look globally.",
+      "stocks_or_cases": ["Mairs and Power Fund"]
+    },
+    {
+      "idea": "If you find yourself asking whether a business is in your circle of competence, the answer is no; you would not have asked the question if you understood it.",
+      "topic": "Circle of competence & checklists",
+      "detail": "He gives the example of asking yourself 'Do I understand Apple?' as proof that you don't.",
+      "stocks_or_cases": ["Apple"]
+    },
+    {
+      "idea": "Early-stage companies make lots of hiring mistakes because they have no brand and exceptional people see career risk, but a great business model can transcend team incompetence if you keep improving the team over time.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "He made many hiring mistakes at TransTech in 1991 without 90% of the frameworks he has now; in the famous early Microsoft photo, only Bill Gates and Paul Allen stayed on, and even Gates, a great hirer, made many errors.",
+      "stocks_or_cases": ["TransTech", "Microsoft", "Bill Gates"]
+    },
+    {
+      "idea": "Startup success comes from attacking the right market with the right product at the right price and knowing how to sell; usually a disruption or an unaddressed offering gap lets new entrants gain traction.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Amar Bhide's The Origin and Evolution of New Businesses studied 10 years of Inc. 500 CEOs and found common tactics like putting 'Global' in the company name to look bigger; Pabrai carried a 'VP Marketing' business card instead of 'CEO' in sales situations for the same reason. Tesla could enter because electric cars were new.",
+      "stocks_or_cases": ["Amar Bhide", "Tesla"]
+    },
+    {
+      "idea": "Capitalism is brutal and almost all businesses are fragile, so a levered business that hits a headwind may not get to play out its hand; operators should avoid the leverage path.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "This applies whether you are a startup or a Fortune 100 company; his daughter's startup carries no debt and has income from the founders' other jobs.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Leverage that hurts operators can create opportunities for investors, as with Teck Cominco, which fell from $45 to $4 in early 2009 when a one-year bridge loan could not be refinanced and was back at $45 within a year.",
+      "topic": "Stock case studies",
+      "detail": "Teck had a dominant, oligopoly-like metallurgical coal footprint with long-term contracts tied to specific coal chemistry. He reasoned banks would not want to run coal mines, so they would extract a pound of flesh and extend the loan, while Teck sold assets and forward-sold production, which is exactly what happened.",
+      "stocks_or_cases": ["Teck Cominco"]
+    },
+    {
+      "idea": "Nonprofits must be businesslike about how their endowments are invested, because investment returns directly determine the wellbeing of students; decision by committee is subpar.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "Grinnell College, with under 1,000 students, put Buffett on its endowment advisory board with Joe Rosenfield, invested early in Intel, and grew the endowment past $1 billion, about $10 million per student. Yale's endowment covers roughly a third of total expenses.",
+      "stocks_or_cases": ["Grinnell College", "Warren Buffett", "Joe Rosenfield", "Intel", "Yale"]
+    },
+    {
+      "idea": "Study business biographies of underappreciated leaders like Ken Iverson of Nucor, Reed Hastings of Netflix and Sol Price of Price Club, whose 'buying agent for the consumer' philosophy is the source of everything that makes Costco great.",
+      "topic": "Management & capital allocation",
+      "detail": "Sol Price didn't think of Price Club as a retailer but as being on the consumer's side against manufacturers, keeping a small sliver. Reed Hastings has no office or desk and said the longer he goes without making a decision, the better Netflix runs.",
+      "stocks_or_cases": ["Nucor", "Ken Iverson", "Netflix", "Reed Hastings", "Sol Price", "Price Club", "Costco", "Home Depot", "Michael Dell"]
+    },
+    {
+      "idea": "A DCF of future cash flows is the only way to truly value any asset; the difficulty is not the model but the uncertainty of the cash flows, and most of the value sits in the next five to seven years.",
+      "topic": "Valuation & margin of safety",
+      "detail": "A business certain to grow 50% a year for five years would be at 12-13x earnings in five years even if bought at 100x, so paying 100x could be wise; a business shrinking 5-10% a year may be too expensive at 10x. He uses Facebook at 20-30x as the example.",
+      "stocks_or_cases": ["Facebook", "Tesla", "McDonald's"]
+    },
+    {
+      "idea": "Before managing money for others, you should be independently wealthy from compounding your own capital; if you're truly good, investors will find you.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "$10,000 compounded at 25% doubles every three years: seven doubles in 21 years is 128x, so a 20-year-old would have over $1 million by 41 and over $1 billion by 71 without ever adding to it or managing outside money.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Buying the Stonetrust insurance company was a mistake because insurance at its core is a terrible business: you sell a product whose cost you don't know, and pricing is set by your dumbest competitor.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "Bought and sold at roughly $60M book value for a small gain; the buyer, a better operator and fixed-income investor, has since grown book value to almost $140M. Workers' comp buyers treat premiums as a tax and shop on price alone, unlike Patek Philippe or Tiffany where higher prices raise demand.",
+      "stocks_or_cases": ["Stonetrust", "Costco", "Patek Philippe", "Tiffany"]
+    },
+    {
+      "idea": "Dakshana succeeded because it cloned a great model, got lucky with a high-quality leadership team, took a businesslike approach demanding extremely high social return on invested capital, and said no to almost everything.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "After almost 15 years it has exceeded his wildest dreams; most charities have too much heart and too little head, whereas foundations run by business leaders like Gates, Dell and Zuckerberg are likely to do well. Dakshana does only one or two things and does them better than any nonprofit he knows.",
+      "stocks_or_cases": ["Dakshana Foundation", "Bill Gates", "Michael Dell", "Mark Zuckerberg"]
+    },
+    {
+      "idea": "Philanthropy is harder than making money and requires the opposite of investing: go high risk, high return, swing for the fences and be willing to completely lose.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "Most philanthropic organizations are meek and unwilling to fail, a recipe for disaster; the Gates Foundation's vaccine bets have had no home run yet but are the right place for the money because a malaria vaccine or polio eradication would be enormous.",
+      "stocks_or_cases": ["Gates Foundation", "Dakshana Foundation"]
+    }
+  ]
+}

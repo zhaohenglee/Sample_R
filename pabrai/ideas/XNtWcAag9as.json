@@ -1,0 +1,158 @@
+{
+  "video_id": "XNtWcAag9as",
+  "date": "2021-04-01",
+  "title": "Mohnish Pabrai’s Q&A Session with Students at Indiana Univ. Kelley School of Business –April 1, 2021",
+  "summary": "In a Zoom Q&A with Kelley MBA students, Pabrai walks through his idea-filtering process, his narrow circle of competence, the Frontline VLCC shipping case, and his 2020 shift from buying 50-cent dollars to holding long-term compounders. He introduces the three new checklist questions (is it a cinch, are the feet on the desk, what is the destination), disowns the Kelly formula and DCFs, explains why he never shorts, discusses Dakshana's measurement-first philanthropy, and admits Dhandho Holdings was a mistake.",
+  "ideas": [
+    {
+      "idea": "You need a system to eliminate large swaths of companies in seconds; the goal is to be really good at saying no, and the business must convince a deep skeptic it deserves a place in the portfolio.",
+      "topic": "Circle of competence & checklists",
+      "detail": "He passes on all of US healthcare (corrupt, no market forces), defense contractors and high-flying tech on valuation; Snowflake takes him 15 seconds to dismiss. Sources include Value Investors Club, Value Line, SumZero and ideas emailed daily.",
+      "stocks_or_cases": ["Snowflake", "CVS", "Walgreens", "Value Investors Club", "SumZero", "Value Line"]
+    },
+    {
+      "idea": "Diversification is overrated; do not compromise the circle of competence to get diversified, and even two or three stocks is fine if the competence is solid.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "Sam Walton and most entrepreneurs had no diversification and no sleepless nights; John Arrillaga became a billionaire investing only in real estate within two miles of Stanford.",
+      "stocks_or_cases": ["Sam Walton", "John Arrillaga"]
+    },
+    {
+      "idea": "If you are asking whether something is in your circle of competence, or what the business is worth, it is not; stay dead center because competence fades gradually from the center outward.",
+      "topic": "Circle of competence & checklists",
+      "detail": "Within the circle you know the two or three variables driving the long-term outcome and the valuation is apparent; he says he does not understand 99% of stocks and is not breaking out in hives about it.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Long gestation periods for new supply create violent booms and busts, and VLCC shipping is the office-tower cycle on steroids.",
+      "topic": "Stock case studies",
+      "detail": "Office towers take 4-6 years so supply arrives all at once; VLCCs take about three years from Korean yards, day rates swing from $5,000 to $200-250,000, and when rates collapse Greek owners scrap single-hull ships (post-Exxon Valdez rules) so the fleet shrinks from 400 to 350 and rates then spike within weeks when demand returns.",
+      "stocks_or_cases": ["Frontline", "Exxon Valdez"]
+    },
+    {
+      "idea": "Buying at a discount to liquidation value with non-recourse ship debt meant he could not lose on Frontline, but selling at his double meant missing the run to $150.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "Frontline had about 80 of the world's 350-400 VLCCs all on the spot market; stock was $4-5 versus $8-9 liquidation value, he put 10% of the fund in, exited around $10-11 and the stock later exceeded $150. Extreme compressions usually pop the other way, so he could have kept a small position.",
+      "stocks_or_cases": ["Frontline"]
+    },
+    {
+      "idea": "Pabrai Funds never puts more than 10% of assets into a position at cost, but he refuses to trim winners and has let two stocks become 70% of the portfolio.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "He is not a proponent of cutting the flowers and watering the weeds and will not sell purely for 'risk management'; his personal portfolio rarely has more than three stocks and often just one.",
+      "stocks_or_cases": ["Pabrai Investment Funds"]
+    },
+    {
+      "idea": "Market inefficiency is not tied to a specific country; in 2021 the US inefficiency is in overheated sectors, not in bargains, so he looks for businesses worth 10 selling for 4, which mostly exist outside the US.",
+      "topic": "Markets, cycles & macro",
+      "detail": "Different markets are at different points in the cycle; some whole markets are very cheap. He is not interested in something worth 10 selling for 8.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Shorting makes no sense: there are no short sellers in the Forbes 400, which is dominated by long-only, non-diversified people.",
+      "topic": "Markets, cycles & macro",
+      "detail": "Short sellers must cut positions as a stock rises and are chained to the quote machine; Buffett and Munger say they were almost always right on the company but wrong on timing. A short seller who loses 3% a year while the S&P makes 9% calls it 6% alpha, which only makes money via fees.",
+      "stocks_or_cases": ["Tesla", "Sam Walton", "Bill Gates", "Jeff Bezos"]
+    },
+    {
+      "idea": "Research is a jigsaw puzzle: form a thesis, then compare what management said five or ten years ago with what transpired to see whether they under-promise and over-deliver.",
+      "topic": "Management & capital allocation",
+      "detail": "He is always looking for a flimsy reason to stop; recently he dropped a company after three days of digging but valued the learning about the industry and CEO.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Every sell decision is an investing mistake; the holy grail is a compounder you can hold for decades while you sit on your ass and the company kicks ass for you.",
+      "topic": "Compounding & long-term holding",
+      "detail": "Citing Thomas Phelps' '100 to 1 in the Stock Market' (1972), he says he went through a significant change in thinking in 2020: the buy-at-half-off-sell-at-double approach is tax-inefficient and a treadmill, so he now asks what a business looks like in 10 or 20 years.",
+      "stocks_or_cases": ["Thomas Phelps", "Frontline"]
+    },
+    {
+      "idea": "For long-term compounders you need a fanatical focus on near 'cinches', Munger's term for businesses whose franchise is almost impossible to destroy.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "After dinner with Charlie that weekend: Amex was a cinch 20 years ago but is not now, while Costco is a cinch because every new store and member deepens the moat; 99% of businesses do not last 10 years and even Fortune 500 companies die within decades.",
+      "stocks_or_cases": ["Charlie Munger", "American Express", "Costco"]
+    },
+    {
+      "idea": "If the CEO or CFO can run the business with his feet on the desk, it is generally a kickass business to invest in.",
+      "topic": "Moats & business quality",
+      "detail": "An American Tower CFO sat idle because every tower owner already had his number and knew his price; Chuck Akre found the Bandag tire-retreading CEO with feet up decades ago. Most businesses would fail in three months if the boss did that.",
+      "stocks_or_cases": ["American Tower", "Bandag", "Chuck Akre"]
+    },
+    {
+      "idea": "The three new moat-checklist questions are: Is it a cinch? Are the feet on the desk? Is the destination awesome? His portfolio should eventually be a museum of only such businesses.",
+      "topic": "Circle of competence & checklists",
+      "detail": "Costco just opened its first China store and got mobbed; it could have 1,000 China stores and enter 10 more of the 160-170 countries where it has no presence in 20 years. He candidly says only two of his current holdings are cinches with feet on the desk and hopes the 'Mickey Mouse moat' businesses get replaced.",
+      "stocks_or_cases": ["Costco", "Frontline"]
+    },
+    {
+      "idea": "Even for a great compounder he will not pay up: Costco at 36x trailing earnings loses him, though he would look at low double digits.",
+      "topic": "Valuation & margin of safety",
+      "detail": "He jokes he wants his cake and to eat it too, ideally Costco at three times earnings; at 15 times, 'you lost me'.",
+      "stocks_or_cases": ["Costco"]
+    },
+    {
+      "idea": "A checklist is built by studying how great investors lost money and asking what was knowable beforehand; his has about 170 questions.",
+      "topic": "Circle of competence & checklists",
+      "detail": "Buffett's Dexter Shoe loss to cheap Chinese labor produced the question 'could this business be hurt by cheap overseas labor?', which is a no for Amex and Costco but relevant for US manufacturers.",
+      "stocks_or_cases": ["Dexter Shoe", "American Express", "Costco"]
+    },
+    {
+      "idea": "The Kelly formula in The Dhandho Investor was a mistake and should be disregarded for stock picking because you never get to make the same bet 10,000 times.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "The 10% position size simply felt comfortable; he is fine with higher concentration in his own money but keeps 10% with other people's money.",
+      "stocks_or_cases": ["The Dhandho Investor"]
+    },
+    {
+      "idea": "Thou shall not use Excel: if you need a DCF to know whether an investment works, there is a problem.",
+      "topic": "Valuation & margin of safety",
+      "detail": "For Costco you need a rough range of future stores, members and profit per store in your head; if he could buy Costco at nine times earnings he would not need Excel to know he would make money.",
+      "stocks_or_cases": ["Costco"]
+    },
+    {
+      "idea": "With a buy-and-hold-forever approach the hurdle rate changes: if a business bought at 9x reaches 40x, leave it alone as long as the moat is deepening, just as the founding family would.",
+      "topic": "Compounding & long-term holding",
+      "detail": "The key questions are whether the business is getting better and more valuable, not what forward return the current multiple implies.",
+      "stocks_or_cases": ["Costco"]
+    },
+    {
+      "idea": "Philanthropy lacks capitalism's feedback loop, so Dakshana only runs programs that lend themselves to easy measurement and gets an independent report card every year.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "A billion-dollar foundation can spend 5% stupidly for 50 years and survive, run by agents who care mainly about being paid; Dakshana inverted the problem, chose education for its multiplier effect, and now ties a significant portion of faculty compensation to results.",
+      "stocks_or_cases": ["Dakshana Foundation", "Rockefeller Foundation"]
+    },
+    {
+      "idea": "Losing money is par for the course: of 10 investments, four to six will work out worse than expected, and zeros happen.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "Delta Financial (a $50-60 million investment in 2006-07) and Horsehead Holdings both went to zero; he says if wealth is lost nothing is lost, and it does not rattle him.",
+      "stocks_or_cases": ["Delta Financial", "Horsehead Holdings"]
+    },
+    {
+      "idea": "The single most important trait for an investor is extreme patience, because business change takes years while the brain processes in seconds.",
+      "topic": "Psychology & temperament",
+      "detail": "Someone who loves to watch paint dry, like Seinfeld's Puddy staring at the seat back, is ideally suited to investing.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "The Buffett lunch was about saying thank you for the intellectual property, and it led to a 13-year friendship with Warren and a relationship with Charlie.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "Buffett cleared his afternoon and told Pabrai's daughters, then 9 and 11, that the most important decision in life is whom you marry; they asked him about 55 questions.",
+      "stocks_or_cases": ["Warren Buffett", "Guy Spier"]
+    },
+    {
+      "idea": "To start a fund, first get independently wealthy with a real track record; then friends and family come, and after that assets are almost automatic.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "He turned $1 million into $12-13 million from 1994-99, started Pabrai Funds in 1999 as a hobby guaranteeing friends' principal plus 6% with a one-quarter carry above that, and had to launch a second fund to drop the guarantees at about $3 million of assets.",
+      "stocks_or_cases": ["Pabrai Investment Funds"]
+    },
+    {
+      "idea": "Learn investing with a real brokerage account holding a meaningful portion of your assets, not hypothetical spreadsheets; make mistakes and learn from them.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Career advice: work for someone you like, admire and trust rather than a name brand, and optimize for learning rather than the resume.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Dhandho Holdings, the 2014 insurance holding company, was a mistake, but a mistake with no loss of capital is a home run.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "He raised over $150 million, bought an insurer, realized the plan would not work, sold the insurer for slightly more than he paid and is returning more capital than was raised; sitting in board meetings and reviewing claims gave him a great understanding of insurance.",
+      "stocks_or_cases": ["Dhandho Holdings"]
+    }
+  ]
+}

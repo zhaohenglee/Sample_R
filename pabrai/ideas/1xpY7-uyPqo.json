@@ -1,0 +1,158 @@
+{
+  "video_id": "1xpY7-uyPqo",
+  "date": "2024-01-30",
+  "title": "Mohnish Pabrai's Q&A at London School of Economics on January 30, 2024",
+  "summary": "Q&A with the LSE Value Investing Society. Pabrai says a revised Dhandho Investor would stress the relentless hunt for 100-baggers, admits selling Ferrari (once over 1% owned via Fiat Chrysler) was a deep regret, and explains that great businesses should be held even when overvalued - only egregious overvaluation like Microsoft in 2000 warrants selling. He also covers judging management by their unscripted past record (Sergio Marchionne), why Stellantis is in the too-hard pile (competing with Elon and BYD's Wang Chuanfu), lessons from Munger, shameless cloning of 13Fs as a data-set filter, coal, his four-question process, career advice, and why small capital is a huge advantage.",
+  "ideas": [
+    {
+      "idea": "Writing a book is the best way to crystallize frameworks in your head, and daily disciplined practice - like Seinfeld's yellow notepad - is what sets people apart.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "He wrote The Dhandho Investor one page a day, an hour each morning, finishing in about six months. Seinfeld's book Is This Anything? shows his method of sitting down daily to develop observations; others were funnier but lacked the discipline.",
+      "stocks_or_cases": ["Jerry Seinfeld", "The Dhandho Investor"]
+    },
+    {
+      "idea": "A revised Dhandho Investor would emphasize the relentless hunt for hundred-baggers and great long-term compounders: find two or three in a lifetime with reasonable allocation and you're done, even with a 95% error rate.",
+      "topic": "Compounding & long-term holding",
+      "detail": "He has no plans for a second edition, but 17 years on he would explore the wealth creation possible if one is honed in on 100-baggers.",
+      "stocks_or_cases": ["The Dhandho Investor"]
+    },
+    {
+      "idea": "Selling Ferrari is a deep regret - 'we are old too soon and wise too late' - and taught him that some assets must be held when fully priced and even when they appear overpriced.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "He owned more than 1% of Ferrari via his 2012 purchase of Fiat Chrysler, when Ferrari was valued at under $2 billion; it is now more than 25 times that. He will still always try to buy assets well below what they are worth.",
+      "stocks_or_cases": ["Ferrari", "Fiat Chrysler", "Guy Spier"]
+    },
+    {
+      "idea": "Judge management not by what they say will happen but by what they said in the past and what actually transpired - decades of unscripted earnings-call transcripts are the best window.",
+      "topic": "Management & capital allocation",
+      "detail": "Annual letters are now written by PR or IR departments, but a CEO with 10-20 years of quarterly calls has a long, less-controlled record to overlay against actual performance, building Munger's latticework of mental models.",
+      "stocks_or_cases": ["Warren Buffett", "Charlie Munger"]
+    },
+    {
+      "idea": "Fiat Chrysler in 2012 was a tough business run by a once-in-a-generation manager the market didn't appreciate, trading at a $5-6 billion market cap on $130-140 billion of sales.",
+      "topic": "Stock case studies",
+      "detail": "Sergio Marchionne joined in 2004 as the fifth CEO in two years with Fiat bleeding millions of euros a day, giving eight years of transcripts to study. He spent four months digging (an Agnelli family book, Harvard cases); Jeep alone or RAM alone could produce $5-6 billion a year, so shedding non-performers would leave a company earning about $10 billion.",
+      "stocks_or_cases": ["Fiat Chrysler", "Sergio Marchionne", "Jeep", "RAM", "Agnelli family"]
+    },
+    {
+      "idea": "Go down promising rabbit holes deeply for a competitive edge, and back out fast when one stops looking promising - the 50,000-stock data set is too large to do otherwise.",
+      "topic": "Circle of competence & checklists",
+      "detail": "Each rabbit hole takes days to months, and many aren't in your circle of competence at all; deep understanding of a few businesses is where the edge comes from.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Stellantis at three times forward earnings goes in the too-hard pile: if you have to compete with Elon Musk - and 'Elon squared', Wang Chuanfu of BYD - take your ball and leave the arena.",
+      "topic": "Stock case studies",
+      "detail": "Carlos Tavares is a gifted cost-squeezer ($200 suits, $3 sandwiches), but the EV transition costs legacy makers tens of billions in capex, and if Tesla and BYD earn 10% margins on EVs, Stellantis, Ford and GM lose money because the cost gap exceeds 10%; in an all-EV world 15-20 years out a negative-margin business has no value.",
+      "stocks_or_cases": ["Stellantis", "Carlos Tavares", "Elon Musk", "Tesla", "BYD", "Wang Chuanfu", "Ford", "GM"]
+    },
+    {
+      "idea": "Munger pushed BYD on a reluctant Buffett in 2008 by calling Wang Chuanfu 'Henry Ford, Bill Gates and Thomas Edison in the same person'; Berkshire's $250 million via MidAmerican is up 20-25 fold.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "Buffett had no interest in a Chinese company he'd never heard of, so he had 80%-owned MidAmerican Energy take an 8-9% stake. Pabrai has met Wang Chuanfu several times and says he is the only person who gives Elon pause.",
+      "stocks_or_cases": ["BYD", "Wang Chuanfu", "Charlie Munger", "Warren Buffett", "MidAmerican Energy", "Berkshire Hathaway"]
+    },
+    {
+      "idea": "Everything you need from Buffett and Munger is public: Poor Charlie's Almanack ($50-75) and 29 years of archived Berkshire meetings at buffett.cnbc.com (150 hours, free) teach more than an LSE degree.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "He jokes that both offer better economics than LSE tuition.",
+      "stocks_or_cases": ["Charlie Munger", "Warren Buffett", "Poor Charlie's Almanack"]
+    },
+    {
+      "idea": "The lesson from watching Munger up close: keep your nose to the grindstone on the problem at hand and never bask in past accomplishments.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "Charlie brushed off reminders of his impact on humanity and instead groaned about Berkshire's uninvested cash or focused on finding a Daily Journal CEO. Most of what Pabrai learned came from observing him at home with family and partners, not from direct words.",
+      "stocks_or_cases": ["Charlie Munger", "Berkshire Hathaway", "Daily Journal"]
+    },
+    {
+      "idea": "Be a shameless cloner: using the 13F filings of investors you understand and admire cuts the 50,000-stock universe by more than 99% to 20-50 names, but you still have to do the work.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "Cloning trims the data set; you must still confirm the business is in your circle of competence, that you understand it, and that there is a big delta between price and value.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "ESG bans on coal by US foundations and endowments are irrational: humanity depends on thermal coal for base load for some time, and metallurgical coal for steel has no practical substitute.",
+      "topic": "Moats & business quality",
+      "detail": "Solar, wind and nuclear alone would mean cold nights, dark homes and no power-hungry AI computers; thermal coal use is falling in the US and Europe but rising in India. He declines to discuss current holdings (Alpha Metallurgical, CONSOL) because he may still be buying.",
+      "stocks_or_cases": ["Alpha Metallurgical Resources", "CONSOL Energy"]
+    },
+    {
+      "idea": "His process is four questions: Is it in my circle of competence? Is it widely mispriced? Does there appear to be a very large gap between price and value? Then go down the rabbit hole and ask what it looks like in 5-10 years.",
+      "topic": "Circle of competence & checklists",
+      "detail": "Ideas start from 13Fs of admired investors. Something at $75 worth $100 is 'too Mickey Mouse'; he wants $75 selling for something worth $300-500 or more, and in most cases the answer is no. Finding one a year is a really good year.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Aspiring professional investors should open a separate, auditable brokerage account as early as possible to build a 5-15 year track record; size doesn't matter, discipline does.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "If returns are significantly above the index after 5, 10 or 15 years, you have a basis to ask others for money.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Clone Buffett's career advice: work for people you like, admire and trust, and ignore salary and brand names - if you question your boss's or organization's ethos, move on.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "When Ben Graham hired Buffett, Buffett never asked about salary or title; he just took the next train to New York. Working at Goldman Sachs matters less than who your immediate boss and colleagues are.",
+      "stocks_or_cases": ["Warren Buffett", "Ben Graham", "Goldman Sachs"]
+    },
+    {
+      "idea": "Auction-driven markets serve up whatever screening criteria you set - 1x earnings, 0.5x earnings, stable earners under 3x - because things can be severely underpriced as well as severely overpriced.",
+      "topic": "Valuation & margin of safety",
+      "detail": "Among 50,000 stocks you don't need many; one wide mispricing a year is a great year.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Microsoft in 2000 shows that even an exceptional business can be egregiously overvalued: at a $600 billion market cap and 70-80x trailing earnings, the stock returned zero from 2000 to about 2013 with a 70%-plus drawdown.",
+      "topic": "Valuation & margin of safety",
+      "detail": "Early Microsoft employees who invested with him had 90% of their net worth in the stock and told him 'the stock only goes up'; the company grew enormously in that period yet holders suffered for 13 years.",
+      "stocks_or_cases": ["Microsoft"]
+    },
+    {
+      "idea": "'Why should it be easy to get rich?' - undervalued securities exist but finding them takes a singular, passionate treasure hunt; per the Upanishads, your deepest desire is your destiny.",
+      "topic": "Psychology & temperament",
+      "detail": "Quoting Munger and the Upanishads verse 'as is your wish, so is your will... so is your destiny': if finding 10-, 50- or 100-baggers becomes your most intense pursuit, it will happen.",
+      "stocks_or_cases": ["Charlie Munger"]
+    },
+    {
+      "idea": "Deliver above-average returns and investors will swim through shark-infested waters to find you - he did no sales meetings, and the fund grew from $1 million to over $600 million by 2007.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "From 1999 to 2007 Pabrai Funds had no down year, about 35-36% a year gross and high twenties net. He told prospects he was unavailable for meetings - audited reports, letters and the website were all they got - to test Buffett's theory, and it worked.",
+      "stocks_or_cases": ["Pabrai Investment Funds", "Warren Buffett"]
+    },
+    {
+      "idea": "He runs a 10-stock portfolio with 10% bets, expecting half of them not to work; a 10% position going to zero is survivable - 'I'm still standing'.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "John Templeton said the best analysts are wrong one in three times. Had he bought WallyPark near LAX before Uber blew it up, it would have been a 10% loss, and he has had 10% bets go to zero. Interest rates and macro don't enter the equation.",
+      "stocks_or_cases": ["John Templeton", "WallyPark", "Uber"]
+    },
+    {
+      "idea": "Hold great businesses when fairly valued and even when overvalued if bought much lower; act only when they become egregiously overvalued, because great managements and moats surprise to the upside.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "We never really know intrinsic value: Amazon morphed into web services, Microsoft into an AI leader, Google bought YouTube and Android. There is a huge gap between overvalued and egregiously overvalued (the Microsoft 2000 case).",
+      "stocks_or_cases": ["Amazon", "Microsoft", "Google", "YouTube", "Android"]
+    },
+    {
+      "idea": "You don't need to be right many times: two 100-baggers on a $1 million portfolio in 1995 - a $10,000 bet that became $1.5 million and a $100,000 bet that became $10 million - gave him financial independence.",
+      "topic": "Compounding & long-term holding",
+      "detail": "Those two positions were $11.5 million of the roughly $14 million the portfolio became; the 1% bet was almost a 150-bagger. A 100-bagger early in life may not have the impact you need, so allocation matters.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Ferrari's moat will be wider and deeper in 20-30 years because rich men have very few ways to express their wealth - it can sell $5 million cars costing under $400,000 that sell out in five minutes.",
+      "topic": "Moats & business quality",
+      "detail": "He invested about $20 million in 2012 when Ferrari was a $1.5-2 billion market cap; it is $40-60 billion now, already a 20-30 bagger, and a 100-bagger would be $2 billion. When you own such a business, stick it in the bottom drawer and forget about it.",
+      "stocks_or_cases": ["Ferrari", "Hermes"]
+    },
+    {
+      "idea": "AI can speed up information gathering but can't substitute for the deep dive into a moat like Coca-Cola's or Ferrari's; investing remains part art, part science.",
+      "topic": "Circle of competence & checklists",
+      "detail": "He spent seven months in 2023 studying only coal, went more than 200 stories underground into four mines and spent 10 days with miners and at terminals, and still doesn't know the industry that well - 'people with ADD who want it on a platter in 15 minutes, good luck'.",
+      "stocks_or_cases": ["Coca-Cola", "Ferrari"]
+    },
+    {
+      "idea": "Small capital is a huge advantage: as great investors grow from $5 million to $5 billion they must move up the food chain, continuously emptying the bottom for new entrants who can make $500,000 bets.",
+      "topic": "Markets, cycles & macro",
+      "detail": "The smartest brainpower working in small nooks and crannies of the market by definition migrates to greener pastures once it succeeds, leaving those niches for the next generation.",
+      "stocks_or_cases": []
+    }
+  ]
+}

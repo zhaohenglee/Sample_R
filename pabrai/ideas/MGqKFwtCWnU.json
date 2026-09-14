@@ -1,0 +1,122 @@
+{
+  "video_id": "MGqKFwtCWnU",
+  "date": "2025-01-21",
+  "title": "Mohnish Pabrai’s Interview at MOI Global on January 21, 2025",
+  "summary": "In his biennial MOI Global interview, Pabrai lays out the gestation-period boom-and-bust mental model (office towers, VLCC tankers, offshore rigs) and applies it to metallurgical coal, where ESG pressure, debt-free balance sheets and near-impossible mine restarts create an extreme cycle. He revisits the Frontline mistake, Micron and Meta, describes the extreme concentration in his offshore fund driven by Reysas, explains how to invest in distressed countries like Turkey, why he now talks to management, and why small investors have an evergreen advantage.",
+  "ideas": [
+    {
+      "idea": "Industries with long gestation periods for new supply have violent boom-and-bust cycles, and understanding this mental model can be very lucrative if you go long at the right point in the cycle.",
+      "topic": "Markets, cycles & macro",
+      "detail": "Warehouses take under a year to build so industrial real estate has mild cycles, while office towers take 3-5 years so a tightness in 2020 keeps towers starting through 2024 and delivers a five-year boom followed by a 5-10 year bust; he sees the same glut now in Austin luxury residential towers. He learned this from the First Industrial CEO, whose stock Buffett tipped in a charity wallet auction.",
+      "stocks_or_cases": ["First Industrial Realty", "Warren Buffett"]
+    },
+    {
+      "idea": "VLCC tankers around 2001 showed the model on steroids: scrapping shrank the fleet from 400 to 350, rates went from $7-8,000 to $250,000 a day, and Korean shipyards then charged $120-150 million for a $70 million ship.",
+      "topic": "Stock case studies",
+      "detail": "Ships take 3-4 years to deliver after ordering, so the new fleet all hits at once and the cycle repeats; the same dynamic applies today to offshore oil rigs costing $1-1.5 billion that take 3-5 years to build.",
+      "stocks_or_cases": ["Frontline"]
+    },
+    {
+      "idea": "Coal is a four-letter word: ESG pressure has made every factor of production treat coal companies like pariahs, which is irrational and creates opportunity.",
+      "topic": "Moats & business quality",
+      "detail": "CONSOL Energy, a 150-year-old low-cost thermal producer that never went bankrupt, was dropped by JP Morgan after decades despite borrowing nothing on $2-3 billion of revenue, and struggles to get workers' comp insurance even though it self-insures; CONSOL has since merged with Arch into Core Natural Resources.",
+      "stocks_or_cases": ["CONSOL Energy", "Arch Resources", "Core Natural Resources", "JP Morgan"]
+    },
+    {
+      "idea": "Coal companies became debt-free after the 2022 Ukraine-war pricing, which has never happened in mining, so they can survive the trough and capture the super-normal profits on the other side.",
+      "topic": "Stock case studies",
+      "detail": "Debt was what historically bankrupted miners in downturns; his coal bets have no debt, sit low on the cost curve, break even or lose a little at the bottom, and he is still buying in the space.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Restarting a shut metallurgical coal mine is nearly impossible, making the coming supply response far weaker than in past cycles.",
+      "topic": "Markets, cycles & macro",
+      "detail": "At PLV prices around $190-200/ton many Appalachian mines have shut, selling equipment, laying off miners and losing permits; a restart at $300 would need all-equity financing with no price visibility, miners who have left the industry, and equipment on 2-4 year backlogs at inflated prices.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Knowing an industry is cyclical is not enough; you also need the right management team and capital structure to survive the murky entry period and fully capitalize on the boom.",
+      "topic": "Management & capital allocation",
+      "detail": "He is open to copper miners and offshore drillers on the same thesis but says resilience to live to see the boom varies business by business.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Frontline was a first-order-thinking mistake: he took a 70-80% gain in under a year and missed what would have been a 70-bagger in four or five years.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "He focused only on the liquidation-value downside with non-recourse ship debt and did not appreciate that John Fredriksen was a gifted capital allocator or that spot rates could go to $250-300,000 a day with the whole fleet on spot.",
+      "stocks_or_cases": ["Frontline", "John Fredriksen"]
+    },
+    {
+      "idea": "Investments do not fall into neat buckets of 'great business' versus 'special situation'; flexibility and second-order thinking matter, like Buffett's Swiss Army knife.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "Berkshire, with $100 billion-plus in cash, still borrowed nearly the entire amount in yen to buy the Japanese trading companies because it was mathematically right, earning an effectively infinite return on equity; the ideal remains great businesses at great prices that return 10-100x over 10-20 years.",
+      "stocks_or_cases": ["Berkshire Hathaway", "Japanese trading companies", "Google"]
+    },
+    {
+      "idea": "Micron is a three-player oligopoly with almost impossible barriers to entry, and memory is a good place to be with AI.",
+      "topic": "Stock case studies",
+      "detail": "Micron's CFO told him there is so much black magic in memory production that even with all the patents they are not sure they could rebuild a burnt-down fab; his Micron bet doubled in a few years before he switched to more interesting ideas.",
+      "stocks_or_cases": ["Micron"]
+    },
+    {
+      "idea": "He saw Meta as an easy double but never bought it because of a mental block about multi-trillion market caps and the law of large numbers, which he admits is sometimes wrong.",
+      "topic": "Psychology & temperament",
+      "detail": "He is skeptical of where NVIDIA, Microsoft or Apple are in 10-20 years; at the time other names looked more interesting.",
+      "stocks_or_cases": ["Meta", "NVIDIA", "Microsoft", "Apple"]
+    },
+    {
+      "idea": "He starts positions at 10% of a portfolio and never cuts winners for diversification's sake; investors who find the fund too large a share of net worth should cut their exposure instead.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "His $400 million offshore fund owns 20% of Turkish REIT Reysas, whose market cap went from $16 million on his first 2019 visit to over $1 billion; Reysas is over 60% of that fund, which now holds only five stocks, and other funds reach 80-90% in the top four or five positions. Lowest-conviction ideas are the natural sale candidates when redemptions come.",
+      "stocks_or_cases": ["Reysas"]
+    },
+    {
+      "idea": "Painting whole countries as uninvestible is a mistake; go fishing where the fish are, in distressed places with a mass investor exodus, but only in the highest-quality businesses for which the macro problem is irrelevant.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "In Turkey from 2018 the currency was a basket case and inflation extreme, yet the exclusive Burger King franchisee kept growing like crazy; Argentina has few listed companies, Brazil more, and Hong Kong/China should not be dismissed wholesale.",
+      "stocks_or_cases": ["TFI TAB Gida", "Burger King", "Turkey", "Argentina", "Brazil", "China"]
+    },
+    {
+      "idea": "His process has evolved through stronger mental models, more industry and geographic expertise, and the growth of assets from $1 million in 1995 to over $1 billion, which changes the universe he can look at.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "The boom-and-bust model took 20-plus years to fully appreciate in all its nuances.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "He now talks to management and says avoiding it was a disservice to investors, though he still gets swayed by CEO salesmanship.",
+      "topic": "Management & capital allocation",
+      "detail": "Meetings reveal how management thinks about capital allocation and culture over a 5-10 year horizon, not next quarter; for coal the 800-pound gorilla is the coal price, which no CEO can forecast, but meetings show which teams and cultures are best.",
+      "stocks_or_cases": ["Ben Graham"]
+    },
+    {
+      "idea": "A company with a $2 billion market cap that averages $1 billion a year of cash flow over 50 years before disappearing is an exceptionally great business, even if the yearly numbers are lumpy.",
+      "topic": "Valuation & margin of safety",
+      "detail": "Met coal reserves run 50-plus years and new blast furnaces in Asia and India will run 30-50 years; that is what coal looked like in 2023. Whether the tail is 5, 10, 20 or 50 years, at that price you make money in every scenario.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Risk and uncertainty are different; high uncertainty combined with low risk gives great rewards to the patient, whereas seeking certainty means paying a high price for a cheery consensus.",
+      "topic": "Psychology & temperament",
+      "detail": "Patience is the most important skill because businesses rarely play out as expected; coal fits the low-risk, high-uncertainty equation, and one should love watching paint dry.",
+      "stocks_or_cases": ["Warren Buffett"]
+    },
+    {
+      "idea": "Avoid countries without basic respect for property rights and investor capital, such as Russia, Venezuela and Zimbabwe; you do not need a large circle of competence to do well.",
+      "topic": "Circle of competence & checklists",
+      "detail": "John Arrillaga died a billionaire investing only within a mile of Stanford, knowing every building's history, rents and owners cold.",
+      "stocks_or_cases": ["John Arrillaga", "Russia", "Venezuela", "Zimbabwe"]
+    },
+    {
+      "idea": "Starting over with $1 million he would focus almost entirely on special-situation anomalies in nooks and crannies, possibly with long-term options, that funds cannot touch.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Per Joel Greenblatt, exceptional small investors are forced to graduate out of fertile pastures as capital grows, leaving an evergreen opportunity set for the next batch; the little guy has a huge advantage. A friend with a small fund compounds over 50% a year on option bets but will have to leave that pasture within a year or two.",
+      "stocks_or_cases": ["Joel Greenblatt", "Li Lu"]
+    },
+    {
+      "idea": "'The Joys of Costco' shows the incredible moat of Costco, whose runway remains very long.",
+      "topic": "Moats & business quality",
+      "detail": "Munger read it and called it 'not exactly Shakespeare' but a very good effort; at least 30 minutes of every dinner with Charlie was about Costco, and the book drew more responses than any Christmas book he has sent.",
+      "stocks_or_cases": ["Costco", "Charlie Munger"]
+    }
+  ]
+}

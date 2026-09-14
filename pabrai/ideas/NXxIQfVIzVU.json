@@ -1,0 +1,128 @@
+{
+  "video_id": "NXxIQfVIzVU",
+  "date": "2021-02-09",
+  "title": "Mohnish Pabrai’s Q&A with members of Babson College Fund (Babson College students) on Feb 9, 2021",
+  "summary": "A Q&A with Babson students in early 2021 where Pabrai explains that value and growth are the same thing (future cash flows bought at a discount), why volatility in auction-driven markets is par for the course, and his 2020 shift from buying dollar bills at 50 cents toward long-runway compounders held for decades. He illustrates with Microsoft in 2000, the Nifty 50 and Walmart, and his Turkish warehouse investment (Reysas), and closes with the three variables of wealth creation, dollar-cost averaging into the S&P, and Mr. Money Mustache's savings rate.",
+  "ideas": [
+    {
+      "idea": "Value and growth are two sides of the same coin: any business is worth its future cash flows discounted to present value, and paying meaningfully less than that is value investing regardless of the growth rate.",
+      "topic": "Valuation & margin of safety",
+      "detail": "Whether a business grows 10%, 50% or declines 5%, the cash flows drive what it is worth; paying anything for future cash flows has led to poor long-term results. He would love to see 20-year cash flow projections for Snowflake to judge whether it is overvalued.",
+      "stocks_or_cases": ["Snowflake"]
+    },
+    {
+      "idea": "A great business can be a terrible stock if overvalued: Microsoft in 2000 produced under $10 billion of cash flow on a $600 billion valuation and was a bad holding until 2015-2016 even though the business kept doing well.",
+      "topic": "Valuation & margin of safety",
+      "detail": "Visiting Redmond in early 2000, Microsoft employees with nearly all their assets in the stock told him it had only gone straight up for 24 years; the market cap later dropped 70-80%. Cisco had the same issue; these were not Pets.com businesses with no model.",
+      "stocks_or_cases": ["Microsoft", "Cisco", "Pets.com"]
+    },
+    {
+      "idea": "Auction-driven markets overshoot and undershoot constantly, with almost every stock showing a 100% gap between its 52-week high and low, so volatility is part and parcel of investing and a 50% drawdown is par for the course.",
+      "topic": "Markets, cycles & macro",
+      "detail": "Munger says Berkshire has dropped 50% or more from a high three times in his life. Pabrai's funds lost two-thirds in 2008-09 while intrinsic value was much higher, then rose over 110% in 2009 because they were so undervalued, not because the businesses did better.",
+      "stocks_or_cases": ["Berkshire Hathaway", "Charlie Munger", "Pabrai Investment Funds"]
+    },
+    {
+      "idea": "Never use leverage, because it becomes lethal in large drawdowns when the broker asks for cash at the moment you have none.",
+      "topic": "Psychology & temperament",
+      "detail": "He also keeps the saying 'if wealth is lost nothing is lost, if health is lost something is lost, if character is lost everything is lost'; a portfolio drop is only a temporary loss of wealth and has never bothered him.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Market crashes are the best times to improve a portfolio by swapping lesser businesses for better ones that got thrown out more deeply.",
+      "topic": "Markets, cycles & macro",
+      "detail": "In 2008-09 commodity stocks fell to prices that made no sense, so he built a basket of seven or eight commodity bets at 2% each without time to drill down; every one at least doubled and some rose seven or eight times.",
+      "stocks_or_cases": ["commodity basket 2008-09"]
+    },
+    {
+      "idea": "Think of yourself as a partner and co-owner of the business, not an investor, and like great entrepreneurs be extremely non-diversified.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "Sam Walton, Steve Jobs and Bill Gates often had 99% of wealth in one illiquid business. Buffett says it is madness to put money in your 25th best idea; Munger says three stocks are enough. Pabrai's personal accounts rarely hold more than two or three stocks, sometimes one, while the funds cap positions at 10% at cost although one or two positions have grown to 60-70% and he was reluctant to trim.",
+      "stocks_or_cases": ["Sam Walton", "Steve Jobs", "Bill Gates", "Warren Buffett", "Charlie Munger"]
+    },
+    {
+      "idea": "It is very hard to beat the index with a 20-stock portfolio capped at 5% per name; when a business you understand extremely well is also very undervalued, step up to the plate: when it is raining gold, put out a bucket, not a thimble.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "He distinguishes between businesses one understands extremely well and not so well, and says the convergence of deep understanding and deep undervaluation is the moment to concentrate.",
+      "stocks_or_cases": ["Warren Buffett"]
+    },
+    {
+      "idea": "In 2020 he changed his thinking from buying dollar bills for 40-50 cents and selling at 90 cents to buying great compounders with long runways, even at small discounts, and holding them for 10x or 100x.",
+      "topic": "Compounding & long-term holding",
+      "detail": "The old approach was tax-inefficient in taxable accounts, especially in Massachusetts and California, and he would sell compounders once they reached full price. With 10 carefully chosen compounders not bought at ridiculous valuations, one or two winners suffice even if four fail.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "The Nifty 50 lesson: a single 2% position in Walmart, a $30-40 million market cap company when it came public in 1970, made the entire richly priced basket beat every index by a mile despite a 98% error rate.",
+      "topic": "Compounding & long-term holding",
+      "detail": "The Nifty 50 (McDonald's, Coca-Cola, Polaroid, Xerox, Kodak) traded at 70-100x earnings and got crushed in 1973-74 when the market lost two-thirds; without Walmart it performed terribly. Yet nobody but the Walton family held Walmart from 1970, 1980 or even 1990 to now, which only an owner mindset makes possible.",
+      "stocks_or_cases": ["Walmart", "Nifty 50", "McDonald's", "Coca-Cola", "Polaroid", "Xerox", "Kodak", "Walton family"]
+    },
+    {
+      "idea": "In 2019 he bought a third of a Turkish company (Reysas) for under $7 million at a $19 million market cap versus at least $500 million liquidation value, less than 5 cents on the dollar, run by exceptional capital allocators, and plans to do nothing but check on it in 2030.",
+      "topic": "Stock case studies",
+      "detail": "The company owns 12 million square feet of warehouses and Turkey's largest truck fleet; it is up seven or eight times in about 20 months. He expects the father-son team, who own about 40%, to at least triple intrinsic value in 10 years to perhaps $1.5 billion by 2030, and the 35-year-old son gives a three- or four-decade runway. It was 1.5% of assets at purchase.",
+      "stocks_or_cases": ["Reysas", "Turkey"]
+    },
+    {
+      "idea": "The stock market is a mechanism to transfer wealth from the active to the inactive, and the number one skill an investor needs is extreme patience: if you love watching paint dry, this is the business for you.",
+      "topic": "Psychology & temperament",
+      "detail": "Turkish retail investors hold stocks for hours or days, creating the volume that let him buy; his main job now is sitting on his ass while the operators work, like Rip Van Winkle waking up in 2030.",
+      "stocks_or_cases": ["Warren Buffett", "Reysas"]
+    },
+    {
+      "idea": "Focus on the micro, not the macro: 99% of what happens on the planet he does not understand, and Walmart and Bezos did fine through oil shocks, wars, price controls and sky-high rates.",
+      "topic": "Markets, cycles & macro",
+      "detail": "Negative-yielding debt, the Fed balance sheet, Bitcoin and the GameStop short squeeze are all popcorn entertainment; the real opportunity is where no one is paying attention.",
+      "stocks_or_cases": ["Walmart", "Jeff Bezos", "GameStop", "Bitcoin"]
+    },
+    {
+      "idea": "Currency risk was irrelevant for the Turkish warehouses because he was buying hard assets for one year's rent, $3 a square foot to buy versus $3 a square foot of inflation-indexed rent.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "In July 2019 foreigners were fleeing Turkey, and the lira fell 40% within six months of his investment, yet the position was up 7x in dollars and 12x in lira; a weaker lira raises cement prices and therefore replacement cost of existing warehouses. Tenants included Amazon, Carrefour and IKEA at 100% occupancy.",
+      "stocks_or_cases": ["Reysas", "Turkey", "Amazon", "Carrefour", "IKEA"]
+    },
+    {
+      "idea": "You do not need a large circle of competence, only to know its boundaries and stay inside them, as John Arrillaga did by investing solely in real estate within two miles of Stanford.",
+      "topic": "Circle of competence & checklists",
+      "detail": "Arrillaga will not let you finish a sentence about a strip mall in Sacramento or a Turkish warehouse; he knows the rent and value of every building near campus, sells when euphoric and buys back when pessimistic, and became a billionaire. Students should start with products they use, like Amazon or Peloton, and ask how the company makes money, its runway and price.",
+      "stocks_or_cases": ["John Arrillaga", "Stanford", "Amazon", "Peloton"]
+    },
+    {
+      "idea": "Unable to find undervalued stocks in the US in 2018-2019, he expanded his circle by visiting the portfolios of trusted Graham-style investors in Korea and Turkey who had already applied a first filter.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "He asked a Korean investor named David and his friend in Istanbul to walk him through every company they owned, relying on them for local knowledge about honesty and auditors, while nudging them from deep value toward compounders. In 2019 the Coke bottler in Turkey, partly owned by Coca-Cola, traded at seven times earnings with better growth than the US bottler.",
+      "stocks_or_cases": ["Coca-Cola Icecek", "Korea", "Turkey"]
+    },
+    {
+      "idea": "He invests bottom-up rather than top-down: first ask whether you understand the business, then what it is worth, though there are a hundred ways to get to Mecca.",
+      "topic": "Circle of competence & checklists",
+      "detail": "On the streaming and ad-dollar shift, he notes platforms like Twitter and Google under-monetize and could get more eggs from the goose without killing it; Netflix raising prices to $17.99 will not see disconnects anywhere near the 15% price increase because it is like an IV drip.",
+      "stocks_or_cases": ["Twitter", "Google", "Netflix"]
+    },
+    {
+      "idea": "He refuses to give stock picks because there is only downside: even the Turkish bet could go to zero, and buying something because someone else told you about it is a bad starting point.",
+      "topic": "Psychology & temperament",
+      "detail": "A tip runs out of steam in two or three years and the tipster is nowhere to be found; a know-nothing investor should dollar-cost average into the S&P 500 and own Apple, Amazon and the other great businesses.",
+      "stocks_or_cases": ["Apple", "Amazon"]
+    },
+    {
+      "idea": "Three variables drive wealth: capital invested, length of runway, and rate of return; for young people the runway is 70-80 years, and $5,000 at 15% (doubling every five years by the rule of 72) becomes $5 million in 50 years.",
+      "topic": "Compounding & long-term holding",
+      "detail": "He put his 18-year-old daughter's $5,000 summer earnings into a Roth IRA: 10 doubles is 2^10, about 1,000x, tax-free. At 10% and seven-year doubles a 70-year runway gives the same result, so great stock picks are not where the game is.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Savings rate matters more than stock picks, and it is fully in your control, as Mr. Money Mustache showed by retiring at 30 on a generic programmer's salary.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "He lives on about $8,000-10,000 a year, would never buy a new car or a $4 latte, bikes everywhere and uses maybe 15 gallons of gas a year; the one-third-of-income-on-housing rule is for the uneducated majority. It is important to find a Mrs. Money Mustache who is even more frugal.",
+      "stocks_or_cases": ["Mr. Money Mustache"]
+    },
+    {
+      "idea": "Entrepreneurship is the neglected engine that built the United States, ignored by business schools because entrepreneurs are too cheap to hire professors as consultants and practitioners lack the credentials for tenure.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "He praises Babson's focus on entrepreneurship as unique; at the core of the nation's wealth is an entrepreneur chasing an impossible dream.",
+      "stocks_or_cases": ["Babson College"]
+    }
+  ]
+}

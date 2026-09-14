@@ -1,0 +1,110 @@
+{
+  "video_id": "ePBZbS0cRAM",
+  "date": "2025-04-15",
+  "title": "Mohnish Pabrai's Interview at the Investors Podcast on April 15, 2025",
+  "summary": "A pre-Berkshire-meeting conversation with Stig Brodersen covering when to swap portfolio holdings (the wife-versus-mistress test and the Nifty 50/Walmart example), the advice Pabrai would give his 40-year-old self (stop selling great businesses at 90% of intrinsic value), money and happiness, and his goal of dying in June 2054 with only $10,000 left after giving everything away through Dakshana. He also discusses how Dakshana is run like a business with separated incentives, why enduring moats are rare accidents of capitalism, the too-hard pile and circle-of-competence humility, and why judging manager skill needs 20 years and a calibrated index.",
+  "ideas": [
+    {
+      "idea": "The mistress always looks better than the wife but may not be; only replace a holding when something in the portfolio is a 6.5 out of 10 and the newcomer is a 9.5, never in a 19-versus-20 game.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "Following Munger's opportunity-cost framing, newness can make a new idea look better than it is. Buffett has permanent holdings like American Express, Coca-Cola and the wholly owned businesses, though Apple clearly was not one. Taxes and other frictions also weigh against switching.",
+      "stocks_or_cases": ["American Express", "Coca-Cola", "Apple", "Warren Buffett", "Charlie Munger"]
+    },
+    {
+      "idea": "If you had put $100,000 into the Nifty 50 in 1970 and 49 of the 50 went to zero but you held Walmart, you still compounded at almost 15% a year for 55 years and beat the S&P with a 98% error rate.",
+      "topic": "Compounding & long-term holding",
+      "detail": "The 1973-74 crash was a slow-motion bloodbath and by 1975 nobody would admit owning the Nifty 50, which included losers like Xerox, Polaroid and Kodak alongside ADP, Coke, Amex and Disney. Most stock market returns come from a small sliver of companies, and even Buffett has a 3-4% hit rate, so most new ideas will disappoint.",
+      "stocks_or_cases": ["Walmart", "Nifty 50", "Xerox", "Polaroid", "Kodak", "ADP", "Coca-Cola", "American Express", "Disney"]
+    },
+    {
+      "idea": "The Walton family still owns 46% of Walmart 55 years after the IPO because they told every helper urging diversification to get lost, paying no taxes and no frictional costs.",
+      "topic": "Compounding & long-term holding",
+      "detail": "Sam Walton transferred shares to his kids while Walmart was private and worth almost nothing, so almost no estate tax was paid; it has been 33 years since he died and the family has collected huge dividends.",
+      "stocks_or_cases": ["Walmart", "Sam Walton"]
+    },
+    {
+      "idea": "Compounding has three variables (starting capital, rate of return, length of runway) and a long runway is the marvelous one, so he now plans on living until June 11, 2054.",
+      "topic": "Compounding & long-term holding",
+      "detail": "Buffett bought his first stock at 11, considers the years before that wasted, and at 95 has an 84-year runway. Pabrai previously assumed he'd die in 2044 at 80 but 'God Google' gave him ten more years, leaving 29 years and three months as of the interview.",
+      "stocks_or_cases": ["Warren Buffett"]
+    },
+    {
+      "idea": "His investing model was flawed for almost his whole career: buying at half of intrinsic value and selling at 90% is the dumbest thing because we don't know intrinsic value and great businesses surprise to the upside.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "Buffett struggled to pay 25 million for See's Candies, yet dividends are approaching 3 billion, more than 100x the investment, which they would never have guessed. His advice to his 40-year-old self: when you own an exceptional business don't sell at 90% of intrinsic value, fully priced, or overpriced, only consider selling when egregiously overpriced.",
+      "stocks_or_cases": ["See's Candies"]
+    },
+    {
+      "idea": "You cannot know which businesses are the truly great ones until you have owned them for a while, but when you have one you will know it.",
+      "topic": "Moats & business quality",
+      "detail": "Humans are never able to appreciate in advance how great some good businesses can be; the framework change is to hold the exceptional fraction of a business rather than rotate into the next mistress.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Adversity is a blessing; every difficult period in his life led to greater growth and higher highs, so when a reverse comes you should be excited and grateful even without knowing how it will help.",
+      "topic": "Psychology & temperament",
+      "detail": "He draws on Marcus Aurelius's Stoicism and Munger's point that no one is immune from reverses. He now observes his own adversity almost as an outsider, confident it leads to higher highs: play the cards and life works out.",
+      "stocks_or_cases": ["Marcus Aurelius", "Charlie Munger"]
+    },
+    {
+      "idea": "Past a base level, extra money does not increase happiness, and many things money can buy actively make you unhappier; he reached that point at 33 or 34.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Munger lived six decades in an unremarkable 1960s ranch home and Buffett over 70 years in his house; Buffett put his Laguna Beach second home up for sale soon after Susie's death. Pabrai wants one home, no travel, and the same brunch every day in Austin; a second home would split his books and add burdens, and he sees Guy Spier's many homes as a headache.",
+      "stocks_or_cases": ["Warren Buffett", "Charlie Munger", "Guy Spier"]
+    },
+    {
+      "idea": "He would never do something that reduces his joy by even one iota just to earn more to give away; giving has never been about legacy or recognition.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "More travel, more human interaction and a more frantic life would not be worth extra money to donate. He conceived giving this way almost two decades ago and it is unchanged.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Dakshana is a math game: compound wealth at 15% for 29 more years (about six doubles, 64x) and give it all away so that on June 10, 2054 he has $10,000 or less left, judged fantastic by a critical observer.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "If 3 billion remains a day before he dies he has lost the game. Giving to the Red Cross would be suboptimal; the challenge is quality. He admires Chuck Feeney (The Billionaire Who Wasn't), who died with little money in a rented San Francisco apartment. As numbers grow, giving money away is harder than making it.",
+      "stocks_or_cases": ["Dakshana Foundation", "Chuck Feeney"]
+    },
+    {
+      "idea": "Dakshana's current program spends about 3 million a year and caps out around 7 million because it runs out of seats and brains, so deploying 100 million a year well is the unsolved problem of his life.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "The compounding side is on autopilot; the giving side is where the challenge lies. If the extra 93 million doesn't go into endeavors that critics call awesome, that is terrible.",
+      "stocks_or_cases": ["Dakshana Foundation"]
+    },
+    {
+      "idea": "Because Dakshana's coaching is better than what the private sector offers, wealthy families try to crash the gate, so verifying below-poverty-line status is a constant battle handled with in-person interviews and treated like retail shrinkage.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "People offer $50,000 donations for a single seat, more than private coaching costs. Dakshana targets the absolute bottom of society, tracks the percentage of wrongly supported kids as a metric, and aims to be slightly better on 20 variables each year, which compounds into world-class; Walmart's greeter is the analogy for policies that cut shrink.",
+      "stocks_or_cases": ["Dakshana Foundation", "Walmart"]
+    },
+    {
+      "idea": "Dakshana separates church and state: faculty who teach have no say in admissions, and the admissions team is not paid on results, so incentives can't corrupt selection.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "Teams are well incentivized even though many joined for the calling; the CEO and Pabrai watch both sides. Selection quality (brilliance plus poverty) drives most of the success.",
+      "stocks_or_cases": ["Dakshana Foundation"]
+    },
+    {
+      "idea": "It is impossible to optimize for more than one or two variables; Dakshana selects only on brilliance and socioeconomic status and keeps the game plan simple enough for everyone to understand.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "Adding criteria like abusive households would make the problem too complicated; if you want to help abused kids, don't restrict to brilliant abused kids. More than half of Dakshana's hires are now alumni (oldest are 33-34), who make up everything below the CEO and whose passion for the mission vastly exceeds his.",
+      "stocks_or_cases": ["Dakshana Foundation"]
+    },
+    {
+      "idea": "Enduring moats are few and far between because capitalism competes everything away; approach businesses and their claimed moats with very jaundiced eyes.",
+      "topic": "Moats & business quality",
+      "detail": "The Walmart example and Buffett's 3-4% hit rate show how rare moats are. ASML and Nvidia have head-start moats that will last a while (ASML perhaps forever, like black magic), but Coca-Cola and American Express started moatless and stumbled into their models by accident; it is almost impossible to start a business intending to build a specific moat.",
+      "stocks_or_cases": ["ASML", "Nvidia", "Coca-Cola", "American Express", "Walmart"]
+    },
+    {
+      "idea": "Approach circle of competence with humility: a question like how to handicap regulation usually means the business belongs in the too-hard pile, and 99% of businesses belong there.",
+      "topic": "Circle of competence & checklists",
+      "detail": "Humans have difficulty giving up on a business they've spent time on. Even Buffett, a child prodigy, keeps a physical 'too hard' box on his desk (which was empty when Pabrai and Guy Spier toured his office in 2014) to remind himself most things he cannot understand. Be comfortable saying no very fast: understand 10 companies and have no clue about 10,000.",
+      "stocks_or_cases": ["Warren Buffett", "Guy Spier", "Long-Term Capital Management", "Burlington Northern"]
+    },
+    {
+      "idea": "To distinguish skill from luck in a manager you need more than 10 years and preferably 20, and even then the index must be calibrated for over- or undervaluation.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "Berkshire hired Ted Weschler in 2010 after he was down over 70% and 30 points behind the S&P in 2007-2009, based on his longer record. Ballmer took over Microsoft ridiculously overvalued and left it undervalued, while Satya Nadella started from a value stock. Anyone compared to the S&P over the last decade looks bad, but many yo-yos will beat the elevated S&P over the next 10 years. Selecting managers is one of the most difficult things to do.",
+      "stocks_or_cases": ["Ted Weschler", "Berkshire Hathaway", "Microsoft", "Steve Ballmer", "Satya Nadella", "S&P 500"]
+    }
+  ]
+}

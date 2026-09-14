@@ -1,0 +1,110 @@
+{
+  "video_id": "m-chs2cmWTs",
+  "date": "2024-10-15",
+  "title": "Mohnish Pabrai's Guest Lecture at University of Nebraska, Omaha on October 15, 2024",
+  "summary": "A lecture built around Charlie Munger's win-win versus win-lose lens on business models, using Costco as the ultimate win-win-win and Conwood, Valeant, Credit Acceptance and TransDigm as businesses Munger rejected on moral grounds despite spectacular economics. Pabrai explains Munger's inversion habit of hunting for the flimsiest reason to say no, then in Q&A covers Berkshire after Buffett, compounding in IRAs from a young age, his own 'aha' moment with Buffett at age 30, Poor Charlie's Almanack, and being a harsh grader of your friends.",
+  "ideas": [
+    {
+      "idea": "Look for win-win-win business models like Costco, which does an exceptional job for customers, shareholders, employees and vendors; they are rare and tend to do extremely well for investors.",
+      "topic": "Moats & business quality",
+      "detail": "Costco caps markups at 15%, has kept the $1.50 hot dog and soda for decades, pays hourly workers 50% more than Walmart, has far lower turnover and promoted a forklift operator to CEO. It could raise prices 5% tomorrow with no short-term sales loss but does not because it acts as a buying agent, not a retailer. Munger in 2022: imagine how good the US would be if everyone followed the Costco model.",
+      "stocks_or_cases": ["Costco", "Charlie Munger", "Walmart"]
+    },
+    {
+      "idea": "Buffett and Munger walked away from Conwood chewing tobacco in 1986, one of the best businesses Buffett ever saw, purely on moral grounds, and it went on to mint money for the Pritzkers.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "Offered at $400M with ~22% pretax margins in 1985; Jay Pritzker bought it and sold 20 years later for $3.5B (8-9x) with pretax margins near 55%, and by 2016 after-tax margins were almost 40%. Berkshire's market cap was only ~$500M then, so Munger called passing 'like putting $100 million in a bushel basket and setting it on fire.' Buffett distinguishes owning stock in a cigarette company from manufacturing cigarettes.",
+      "stocks_or_cases": ["Conwood", "Jay Pritzker", "Berkshire Hathaway", "Warren Buffett", "Charlie Munger"]
+    },
+    {
+      "idea": "Valeant blew up Sequoia, Pershing Square and ValueAct because these very smart investors missed something basic: the business model was win-lose.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "In mid-2015 Ruane Cunniff had $7.5B of a $21B portfolio in Valeant, Ackman ~$4B of $14B, Ubben ~$3.3B of $20B. Valeant's ex-McKinsey CEO bought small drug companies, gutted R&D and raised prices on life-saving patented drugs as high as they could get away with, a 'chain letter' as Buffett called it. Munger called the strategy deeply immoral and said 'sewer' was too light a word while the stock was still flying high.",
+      "stocks_or_cases": ["Valeant", "Sequoia Fund", "Ruane Cunniff", "Bill Ackman", "Pershing Square", "Jeff Ubben", "ValueAct"]
+    },
+    {
+      "idea": "Running businesses through the win-lose lens lets you say no very quickly to a lot of companies without spending much time on them.",
+      "topic": "Circle of competence & checklists",
+      "detail": "The notion appears simple but is complicated; cigarette companies and casinos are obviously win-lose, but models like TransDigm appear great and are not easy to figure out.",
+      "stocks_or_cases": ["TransDigm"]
+    },
+    {
+      "idea": "Credit Acceptance looked like a good business helping people get wheels until Munger dismissed it in under 60 seconds as predatory, win-lose lending, and Pabrai immediately stopped looking.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "It lends to the worst credits at 30-50% interest, makes dealers put ~$3,000 of a $9,000 loan in as skin in the game, remotely disables cars 24 hours after a missed payment and repossesses within a week. Shareholders past and present include Ruane Cunniff, Seth Klarman, Francois Rochon, Rob Vinall, Francis Chou and Maverick. Munger's standard: 'we can make a lot of money by taking the high road.' 'Thank God for Munger, I did not make that investment.'",
+      "stocks_or_cases": ["Credit Acceptance", "Charlie Munger", "Ruane Cunniff", "Seth Klarman", "Francois Rochon", "Rob Vinall", "Francis Chou", "Maverick Capital"]
+    },
+    {
+      "idea": "People default on mortgages before car loans because a repossession comes within weeks and stops you getting to work, which makes auto financing a structurally good place to be.",
+      "topic": "Moats & business quality",
+      "detail": "Foreclosure takes 12-18 months while even Chase will start repossessing a car within a few weeks of a missed payment.",
+      "stocks_or_cases": ["Credit Acceptance"]
+    },
+    {
+      "idea": "TransDigm's 173x in 18 years (33% annualized) comes from buying sole-source, FAA-qualified aerospace parts makers and raising prices ten times, which Munger called too brutal and immoral weeks before he died.",
+      "topic": "Moats & business quality",
+      "detail": "Boeing is only an assembler; parts on a 737 typically have one to three FAA-approved makers, so the market can bear huge price hikes. Owners have included Wally Weitz (a Berkshire director), Chuck Akre, Maverick, Stephen Mandel, Daniel Loeb, Brian Lawrence and David Abrams, but Berkshire never invested.",
+      "stocks_or_cases": ["TransDigm", "Boeing", "Spirit AeroSystems", "GE", "Wally Weitz", "Chuck Akre", "Stephen Mandel", "Daniel Loeb", "David Abrams"]
+    },
+    {
+      "idea": "Munger's speed came from inversion: he never asked why he should invest, he hunted for the flimsiest reason to pass, and only fell in love with something like Costco when he could not find one.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "'Invert, always invert.' Win-win businesses earn extreme loyalty and goodwill, while customers of TransDigm, Valeant or Credit Acceptance are forced into a corner and feel gouged. With 50,000 stocks you can say no to almost everything.",
+      "stocks_or_cases": ["Charlie Munger", "Costco", "TransDigm", "Valeant", "Credit Acceptance"]
+    },
+    {
+      "idea": "Berkshire's record exists largely because of the deals Munger, 'the abominable no-man,' stopped Buffett from doing; the $20B General Re deal Buffett did without telling Charlie became a huge problem.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "General Re in 1996-97 was Berkshire's largest acquisition at a ~$60-70B market cap and its culture had eroded; Munger said he did not know about it until it was almost done, probably because Buffett was tired of the no's. Pabrai wishes for a list of every investment Warren wanted and Charlie rejected.",
+      "stocks_or_cases": ["General Re", "Berkshire Hathaway", "Warren Buffett", "Charlie Munger"]
+    },
+    {
+      "idea": "There has not been a mind like Munger's among humans in at least 2,000 years and there will not be another; his own answer about who stands out in his gene pool was 'no one.'",
+      "topic": "Buffett & Munger lessons",
+      "detail": "In 13-14 years of friendship every meeting was at Munger's initiative until summer 2023, when Pabrai asked for a dinner that turned out to be exactly 30 days before Munger died. The body of work left behind (Poor Charlie's Almanack, Berkshire meetings at buffett.cnbc.com, Daily Journal transcripts) is what matters.",
+      "stocks_or_cases": ["Charlie Munger", "Ben Franklin", "Poor Charlie's Almanack", "Daily Journal"]
+    },
+    {
+      "idea": "Keeping Berkshire going needs a different, simpler skill set than creating it; the real challenge is size, not succession, and in the next crisis Berkshire will shine.",
+      "topic": "Management & capital allocation",
+      "detail": "Tim Cook could not have created Apple but runs it well; Greg Abel is very capable and understands the culture. Humans create crises every 10-15 years and Berkshire has the liquidity to go on offense.",
+      "stocks_or_cases": ["Berkshire Hathaway", "Greg Abel", "Apple", "Tim Cook"]
+    },
+    {
+      "idea": "Start compounding in a tax-sheltered IRA as early as possible: $5,000 earned at 18 growing at 15% becomes $5 million by 68.",
+      "topic": "Compounding & long-term holding",
+      "detail": "There is no minimum age for an IRA, only earned wages. Rule of 72: 15% doubles every five years, ten doublings in 50 years is 2^10 ~ 1,000x. He put his daughter's $5-6k summer earnings into an IRA concentrated in one or two stocks. Even at 8-9% the number is very large; fluency in the US tax code matters.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Spend less than you earn, max out retirement accounts, and 'do not interrupt compounding unnecessarily'; a happy life does not need much money.",
+      "topic": "Compounding & long-term holding",
+      "detail": "He cites Munger's quote and his weekly $6 Costco hot dog date night versus a $200 fancy dinner that is not as good. Do this and one day your peers will be so far behind you cannot see them.",
+      "stocks_or_cases": ["Charlie Munger", "Costco"]
+    },
+    {
+      "idea": "Blackstone is a wonderful business because sovereign wealth funds have few 'tall bridges' able to deploy capital at scale, and its leverage is mostly non-recourse.",
+      "topic": "Stock case studies",
+      "detail": "Blackstone, Apollo and Brookfield serve funds like ADIA, Qatar and Singapore; leverage is always a negative but they are prudent with it. He judges it a win-win serving a demographic that needs the product.",
+      "stocks_or_cases": ["Blackstone", "Stephen Schwarzman", "Apollo", "Brookfield"]
+    },
+    {
+      "idea": "When you have an 'aha' moment, seize it and go all in; his came at 30 in 1994 from a Buffett biography and the insight that investing uses the same strategic brain as running a business, but 80% of the time instead of 4%.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Buffett: 'I am a better investor because I am a businessman, and a better businessman because I am an investor.' He invested $1M from a partial sale of his company, compounded at over 70% a year to $13-14M by 1999, lost interest in his company at 35 and hired a CEO so he could invest full time.",
+      "stocks_or_cases": ["Warren Buffett"]
+    },
+    {
+      "idea": "Poor Charlie's Almanack, for $25, has more take-home value than four years of college; re-read the Psychology of Human Misjudgment talk every year.",
+      "topic": "Psychology & temperament",
+      "detail": "The eleven talks in the back half hold thousands of years of wisdom. Our brains are a messy evolutionary mishmash with wiring defects; understanding that weirdness explains why great investors bought Valeant and is a big advantage.",
+      "stocks_or_cases": ["Poor Charlie's Almanack", "Charlie Munger", "Valeant"]
+    },
+    {
+      "idea": "Be a harsh grader of your friends: increase time with people better than you and let go of those who pull you down, even though it conflicts with loyalty.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Buffett says we become like the people we hang out with. Munger's friends were off the charts, likely the result of a pruning process, so Pabrai made a point of befriending them. Since 1997 Omaha has yielded deep friendships because Berkshire shareholders are a self-selected, above-average group.",
+      "stocks_or_cases": ["Charlie Munger", "Warren Buffett", "Berkshire Hathaway"]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "video_id": "E0_K-eFC8bQ",
+  "date": "2022-07-25",
+  "title": "Mohnish Pabrai's conversation with Lauren Templeton on July 25, 2022",
+  "summary": "On Lauren Templeton's Zenvesting podcast, Pabrai discusses his daughter Monsoon's superior 'never sell' temperament (she still holds Maotai after he and Li Lu sold), the 2007 Buffett lunch and the friendships with Munger and Rick Guerin it produced, and how his father's serial bankruptcies gave him business acumen in his teens. He explains that a CEO's simple mental models are the investor's roadmap, that micro trumps macro, and details his Turkey investments (Reysas at 3% of liquidation value, Dogus Automotive) before describing Dakshana's 70-80% IIT success rate.",
+  "ideas": [
+    {
+      "idea": "Women are temperamentally better investors, and his daughter Monsoon's approach is superior to his own because she hates to sell and is biased toward very high quality.",
+      "topic": "Psychology & temperament",
+      "detail": "Temperament is hard-coded by age five or six; a hyperactive person who needs action will not do well in value investing. He never pushed either daughter toward investing, only toward finding their natural calling.",
+      "stocks_or_cases": ["Monsoon Pabrai"]
+    },
+    {
+      "idea": "Every sell decision is an investing mistake, per Thomas Phelps: if you bought it right, it never needs to be sold.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "He and Li Lu sold Maotai at 700-900 RMB after Li Lu called with concerns; Monsoon, who had visited the distillery in 2017 and saw a business with under $2 cost of goods and a ~$1,200 selling price, ignored both of them and still holds it above 2,000 RMB.",
+      "stocks_or_cases": ["Kweichow Moutai", "Li Lu", "Thomas Phelps", "Monsoon Pabrai"]
+    },
+    {
+      "idea": "Buffett's advice to his 10- and 12-year-old daughters at the 2007 lunch, that whom you marry is the most important decision in life, was alone worth many times the $650,000 price.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "Buffett said he had nothing going on all afternoon and let them end the 2h45m lunch; Pabrai noted 54 questions. Buffett's ethos is that the winner must feel they got a bargain, which he contrasts with a lunch with Eric Schmidt; the final auction went for ~$19M in 2022.",
+      "stocks_or_cases": ["Warren Buffett", "Eric Schmidt", "Johnny Rockets"]
+    },
+    {
+      "idea": "If you are even a slightly above-average investor, spend less than you earn and use no leverage, you cannot help but get very wealthy.",
+      "topic": "Compounding & long-term holding",
+      "detail": "Rick Guerin was forced by 1973-74 margin calls to sell his Berkshire shares to Buffett at $40, shares now worth over $400,000. Take out leverage, be patient, go one day at a time.",
+      "stocks_or_cases": ["Rick Guerin", "Berkshire Hathaway", "Warren Buffett"]
+    },
+    {
+      "idea": "The Buffett lunch was 'buy one get one': Buffett set up a lunch with Munger, which he found even more interesting because Charlie has no diplomatic filters.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "He then had dinner with Munger every few months and became a Friday Bridge substitute at the LA Country Club, where Rick Guerin was a partner. His then-wife said it was the smartest thing he ever did besides marrying her.",
+      "stocks_or_cases": ["Charlie Munger", "Rick Guerin", "Warren Buffett"]
+    },
+    {
+      "idea": "Sitting on his father's de facto board from age 11-12 and doing sales calls at 15-16 gave him several MBAs before 19, during the years the brain is wired to specialize.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "His father was brilliant at starting businesses from zero after each bankruptcy but grew them with heavy leverage and no savings, so they crumbled at the first headwind. Brain connections are culled from ~10 to 20, so Buffett, Gates and Michelangelo, who specialized at 10-11, got an edge that 20s or 30s cannot replicate even with 5x the time.",
+      "stocks_or_cases": ["Warren Buffett", "Bill Gates"]
+    },
+    {
+      "idea": "Engineers who ignore the economics of what they build make no sense; he switched to the business side after 2.5 years and found he could crack business models faster than most.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "At a telecom equipment company 200 engineers had no interest in how the product made money; his boss told him it was not their concern.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Businesses can be started with nothing: his father's first venture in 1962 turned a 250-rupee magazine ad for mail-order magic kits into 1,400 rupees of profit, then reinvested.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "His father joked he could be put naked on a rock and start a business. Pabrai started TransTech in 1991 with $30,000 from his 401k and $70,000 of credit-card debt and sold it nine years later for $20M.",
+      "stocks_or_cases": ["TransTech", "Illustrated Weekly of India"]
+    },
+    {
+      "idea": "Investing converts the 2-3% of entrepreneurship spent on strategy into 80% of the job, with none of the operational heavy lifting.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "He discovered Buffett in 1994 via Peter Lynch's books, then the first two biographies and the Berkshire letters; the aha was that the mental models he and his father used to run businesses were the same ones Buffett used to evaluate investments.",
+      "stocks_or_cases": ["Warren Buffett", "Peter Lynch"]
+    },
+    {
+      "idea": "Look at every investment through the CEO's shoes: find the two or three variables that drive the outcome and ask whether they are predictable.",
+      "topic": "Circle of competence & checklists",
+      "detail": "Buffett says he is a better investor because he is a businessman. No CEO runs a business through a spreadsheet; they hold simple models in their head, and if the investor can reach the same models he has a basis for forecasting.",
+      "stocks_or_cases": ["Warren Buffett"]
+    },
+    {
+      "idea": "Ignore macro noise; micro always trumps macro for businesses like Maotai, Starbucks or Microsoft.",
+      "topic": "Markets, cycles & macro",
+      "detail": "Nobody predicted the pandemic, Russia invading Ukraine or stimulus-driven inflation three years earlier. For Starbucks the only question is whether it still delights customers.",
+      "stocks_or_cases": ["Kweichow Moutai", "Starbucks", "Microsoft"]
+    },
+    {
+      "idea": "97-98% of listed Turkish businesses are uninvestible because of inflation, but a 2-3% sliver of great businesses transcend the macro and are extremely cheap because people fled.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "Since 2018 he has visited every holding of a hard-core Graham-style Turkish friend, and spent three weeks in an Istanbul Airbnb in early 2022. If starting with small capital today he would put all his time into Turkey.",
+      "stocks_or_cases": ["Turkey"]
+    },
+    {
+      "idea": "He drifted from US-only investing because fitting businesses got scarce; Fiat Chrysler in 2012 was a $5B market cap on $135B revenue, under 4% of sales, with 80% of Ferrari (now $40B alone) inside.",
+      "topic": "Stock case studies",
+      "detail": "It traded far below Ford and GM for no logical reason despite being a vastly better business with a better leader; the Jeep and Ram franchises and spun-out parts businesses were all inside that $5B.",
+      "stocks_or_cases": ["Fiat Chrysler", "Ferrari", "Ford", "GM", "Jeep", "Ram"]
+    },
+    {
+      "idea": "In 2019 he bought Turkey's largest warehouse operator at a $20M market cap against ~$700M net liquidation value, 3% of liquidation, and now owns a third of it.",
+      "topic": "Stock case studies",
+      "detail": "Roughly 100 warehouses and 12M square feet in prime Istanbul-area locations that any broker could liquidate for ~$1B in six months, less $200M debt. It has risen 4-5x in dollars and grown its value but is still cheap; nothing like it exists in the US.",
+      "stocks_or_cases": ["Reysas", "Turkey"]
+    },
+    {
+      "idea": "Turkey's market is a casino: 80% is held by insiders and foreigners and the 20% held by locals turns over every nine days, which is why a $20M company had massive volume.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "A Turkish CFO explained the national game is Backgammon, pure luck, versus chess in Russia and poker in the US; locals buy at 10 and sell by 2. Buffett: the stock market transfers wealth from the active to the inactive.",
+      "stocks_or_cases": ["Turkey", "Warren Buffett"]
+    },
+    {
+      "idea": "He cannot invest in India or Turkey without meeting the people, so the pandemic stalled new investments; no new Indian investments have come up, but he found a couple of great Turkish businesses in 2022.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "Dogus Automotive, which he does not yet own, is the sole importer of VW, Porsche and Bentley in Turkey with ~14% market share; car dealership parts and service is a great business and such franchises trade at ~3x earnings.",
+      "stocks_or_cases": ["Dogus Automotive", "Volkswagen", "India", "Turkey"]
+    },
+    {
+      "idea": "Large inheritances do more harm than good, and most charities have great hearts but not great heads, so he had to build Dakshana himself to learn how to give well before he loses his marbles.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "Buffett's line: Jesse Owens's son can start the 100m at the 10m line but not the 40m line. Dakshana is a lab for social return on invested capital that can scale as wealth grows.",
+      "stocks_or_cases": ["Dakshana Foundation", "Warren Buffett"]
+    },
+    {
+      "idea": "Dakshana levels the playing field for gifted poor kids to enter the IITs, achieving a 70-80% admit rate versus ~1-1.5% overall.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "About 1,000 kids a year, 700-800 reach IIT and the rest good second-tier colleges. One scholar, son of a slum tailor in Hyderabad whose family sometimes went to bed hungry and could not pay a 20-rupee school fee, ranked 63 of 1.3M, went to IIT Bombay CS and now earns $300-400K at Google.",
+      "stocks_or_cases": ["Dakshana Foundation", "IIT", "Google"]
+    }
+  ]
+}

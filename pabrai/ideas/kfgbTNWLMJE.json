@@ -1,0 +1,173 @@
+{
+ "video_id": "kfgbTNWLMJE",
+ "date": "2023-09-29",
+ "title": "Mohnish Pabrai’s Q&A at Mendoza College of Business - University of Notre Dame on September 29, 2023",
+ "summary": "In a Q&A with Notre Dame students, Pabrai explains why compounders should be held even when they look 20-30% overvalued (sell only when egregious), tells the story of Buffett rejecting his 1999 job request and the birth of Pabrai Investment Funds, and argues for a 'Swiss Army Knife' approach using Buffett's yen-financed Japanese trading company bet as an example. He gives students a hack for finding compounders through their own spending, extols shameless cloning with the Chipotle, GM-to-Fiat Chrysler and NVR-homebuilder examples, discusses Munger's psychology models and the reciprocation tendency, bridge, and Dakshana's scaling limits.",
+ "ideas": [
+  {
+   "idea": "Do not sell a great compounder when it is 20-30% overvalued; sell only when overvaluation is egregious, which becomes obvious when it happens.",
+   "topic": "Portfolio concentration & selling",
+   "detail": "Great compounders are rare and intrinsic value is error-prone: Amazon always looked optically overvalued because reinvestment depressed earnings and no one could see AWS before it surfaced. Microsoft's only clear sell point in 40 years was around 2000 at a $600 billion valuation. Amazon at $1.3 trillion would not bother him at $2-2.5 trillion.",
+   "stocks_or_cases": [
+    "Amazon",
+    "AWS",
+    "Microsoft"
+   ]
+  },
+  {
+   "idea": "Adopt a founder's mindset: a founder would not sell for 20-30% above his estimate of value but would happily sell at 500%.",
+   "topic": "Psychology & temperament",
+   "detail": "Giving a business rope means you may sell a 30x or 50x winner 20-30% below its peak when it goes into decline, but 'there are far worse tragedies'; the downside of getting off a great runway is much worse.",
+   "stocks_or_cases": []
+  },
+  {
+   "idea": "He started Pabrai Investment Funds in 1999 as 'plan B' after Buffett turned down his letter asking to work for him for free.",
+   "topic": "Career, entrepreneurship & life",
+   "detail": "With a liquid net worth north of $10 million he wrote Buffett in early 1999; Buffett replied within a week that he works alone and 'I am not the answer'. Eight or nine YPO friends gave him $100,000 each; after being up ~70% in the first year and reaching $2.5 million in 2000 he decided to treat it as a real business.",
+   "stocks_or_cases": [
+    "Warren Buffett",
+    "Pabrai Investment Funds",
+    "TransTech"
+   ]
+  },
+  {
+   "idea": "Keep a 'Swiss Army Knife' approach: compounders are plan A, but net-nets, merger arbitrage, convertibles and special situations are useful plans B, C and D while you wait.",
+   "topic": "Circle of competence & checklists",
+   "detail": "Buffett's 2023 letter said 12 decisions in 58 years created 80-90% of Berkshire's value out of more than 300 stocks bought, roughly one great decision every five years, so even Buffett needs other tools.",
+   "stocks_or_cases": [
+    "Warren Buffett",
+    "Berkshire Hathaway",
+    "GEICO",
+    "Coca-Cola",
+    "American Express",
+    "Burlington Northern",
+    "National Indemnity"
+   ]
+  },
+  {
+   "idea": "Buffett's Japanese trading company bet is a model low-risk bet: he borrowed the entire $5 billion in yen at about 0.5% to buy stocks yielding about 8%, with no currency risk.",
+   "topic": "Buffett & Munger lessons",
+   "detail": "Announced on his birthday, August 30, 2020, stakes over 5% in Mitsui, Mitsubishi, Marubeni, Sumitomo and Itochu; ~$400 million of dividends against $25 million of interest. Three years later dividends doubled, stocks doubled to quadrupled, the $5 billion became $12-13 billion and income is ~$800 million a year. The stocks were at multi-year lows and Japan was still 30-40% below its 1990 high.",
+   "stocks_or_cases": [
+    "Mitsui",
+    "Mitsubishi",
+    "Marubeni",
+    "Sumitomo",
+    "Itochu",
+    "Berkshire Hathaway",
+    "Warren Buffett"
+   ]
+  },
+  {
+   "idea": "When a net-net basket has one winner and two laggards, do not rebalance mechanically; peel the onion to see if the laggards are structurally broken or melting ice cubes.",
+   "topic": "Valuation & margin of safety",
+   "detail": "Small amounts of capital can do well in these 'Mickey Mouse games' on the side, but always keep an eye out for compounders.",
+   "stocks_or_cases": []
+  },
+  {
+   "idea": "The hack for finding compounders: list every brand you spend money on, find which are public, and ask why you chose them over competitors.",
+   "topic": "Circle of competence & checklists",
+   "detail": "Winning even a tiny part of a discerning consumer's spending is a huge accomplishment; as a consumer you already know much without the balance sheet. Peter Lynch advocated this. College students dropped landlines and cable first and used Facebook first, so Notre Dame students have a massive advantage over Buffett in Omaha, who changes nothing.",
+   "stocks_or_cases": [
+    "McDonald's",
+    "Chipotle",
+    "Facebook",
+    "Peter Lynch"
+   ]
+  },
+  {
+   "idea": "Read Munger's 'Psychology of Human Misjudgment' every year; it distills 30-40 years of his stumbling into 30-plus models you can absorb in a day or two.",
+   "topic": "Buffett & Munger lessons",
+   "detail": "Association tendency explains why Coke wants to be anywhere humans are happy (Olympics, World Cup, NFL, movie theaters) and uses celebrities; understanding the quirks in human wiring gives you a leg up on other humans.",
+   "stocks_or_cases": [
+    "Charlie Munger",
+    "Coca-Cola",
+    "Poor Charlie's Almanack"
+   ]
+  },
+  {
+   "idea": "The reciprocation tendency has no calibration engine, so a small unsolicited gift can create a disproportionate sense of obligation.",
+   "topic": "Psychology & temperament",
+   "detail": "He sends prospective investors a physical package with a book and a Cross pen; only 1-2 in 100 return it, and for the rest 'the pen is equal to a few million dollars' minimum investment. Cialdini describes the same mechanism used by salespeople.",
+   "stocks_or_cases": [
+    "Pabrai Investment Funds",
+    "Robert Cialdini"
+   ]
+  },
+  {
+   "idea": "Humans have an inexplicable aversion to cloning, so being a shameless cloner is a huge structural advantage.",
+   "topic": "Cloning & learning from great investors",
+   "detail": "Nobody has cloned Chipotle's customizable assembly line (Baja Fresh never scaled; CAVA applied the concept to different food), McDonald's fries or the Egg McMuffin, even though there is room for two to four players in anything already proven.",
+   "stocks_or_cases": [
+    "Chipotle",
+    "Baja Fresh",
+    "CAVA",
+    "McDonald's"
+   ]
+  },
+  {
+   "idea": "When a smart investor buys something you hate, study it to understand 'what drugs they were smoking'; Berkshire's and Einhorn's 2012 GM purchases led him to Fiat Chrysler.",
+   "topic": "Cloning & learning from great investors",
+   "detail": "He hated autos (high capex, unions, consumer taste risk) but read Steve Rattner's 'Overhaul' and the 2009 UAW contract signed without changing a comma under threat of no bailout, and realized Detroit had become the best place to build cars again.",
+   "stocks_or_cases": [
+    "General Motors",
+    "Berkshire Hathaway",
+    "David Einhorn",
+    "Ted Weschler",
+    "Steve Rattner",
+    "Fiat Chrysler"
+   ]
+  },
+  {
+   "idea": "Fiat Chrysler in 2012 had a $5-6 billion market cap on $135 billion of revenue, with the RAM and Jeep franchises each capable of over $5 billion a year in cash flow, plus 80% of Ferrari.",
+   "topic": "Stock case studies",
+   "detail": "He took a 10% position; Ferrari alone is now worth $50-60 billion (about $300 a share versus ~$15 a share of embedded value then) and the pieces became worth over $100 billion. Sergio Marchionne was the rock-star manager, and he sold too early in hindsight.",
+   "stocks_or_cases": [
+    "Fiat Chrysler",
+    "Ferrari",
+    "RAM",
+    "Jeep",
+    "Maserati",
+    "Alfa Romeo",
+    "Sergio Marchionne"
+   ]
+  },
+  {
+   "idea": "Berkshire's recent purchase of homebuilders is likely because Lennar and others finally cloned the NVR model after 25 years of watching it outperform.",
+   "topic": "Stock case studies",
+   "detail": "NVR bought back about 85% of its stock, stopped dividends and became an 800-bagger in 25 years, 'a stupid homebuilder, not ChatGPT'; peers only copied it after they 'couldn't take it anymore'. Berkshire bought Lennar, D.R. Horton and others as a basket.",
+   "stocks_or_cases": [
+    "NVR",
+    "Lennar",
+    "D.R. Horton",
+    "Berkshire Hathaway"
+   ]
+  },
+  {
+   "idea": "Bridge and investing are both probabilistic games with no absolutes, which is why Buffett, Munger and many great investors play; taking up bridge makes you a better investor.",
+   "topic": "Psychology & temperament",
+   "detail": "Every investment has 'hair on it', e.g. what if Andy Jassy leaves Amazon or the FTC handcuffs it. He plays 5-6 hours a week, learns fastest playing with far better partners, and is now attending all three US national tournaments; Bridge Base costs about $99 a year.",
+   "stocks_or_cases": [
+    "Amazon",
+    "Warren Buffett",
+    "Charlie Munger"
+   ]
+  },
+  {
+   "idea": "Learning accelerates when you play with people far better than you; a great teacher or coach matters.",
+   "topic": "Career, entrepreneurship & life",
+   "detail": "At 23 he was 'made minced meat of' by a frail 90-year-old couple at a bridge club, which forced him back to square one; he now plays with exceptional teachers as well as peers.",
+   "stocks_or_cases": []
+  },
+  {
+   "idea": "Finding great charitable causes with high social returns is far harder than finding compounders, and Dakshana will cap out around $7-8 million a year of spending.",
+   "topic": "Philanthropy & Dakshana",
+   "detail": "Dakshana currently spends about $3 million a year and lucked into the IIT ecosystem. Homelessness in LA or San Francisco is a problem he is sure he would fail at. Like Buffett going from 50% a year on $1 million to barely beating the S&P on $600 billion, Dakshana will have to lower its bar as it scales.",
+   "stocks_or_cases": [
+    "Dakshana",
+    "IIT",
+    "Warren Buffett"
+   ]
+  }
+ ]
+}

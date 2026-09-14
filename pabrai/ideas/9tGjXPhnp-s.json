@@ -1,0 +1,239 @@
+{
+  "video_id": "9tGjXPhnp-s",
+  "date": "2018-10-04",
+  "title": "The Ten Commandments of Investment Management",
+  "summary": "Pabrai debuts a new talk to Prof. Arvind Navaratnam's class laying out his 'Ten Commandments' for investment managers: no fees off the top, no investment team, accept being wrong a third of the time, hunt hidden P/E of 1 stocks, never use Excel, keep a rope to climb out of wells, focus like Arjuna, never short, avoid leverage, and clone shamelessly. The Q&A covers his 2018 trip to Istanbul, a Turkish cement exporter, Sergio Marchionne and Fiat Chrysler, fraud detection in India, the illusion of most moats, why he would drop Kelly from his book, selling Coke/MasterCard-type compounders, and running an empty calendar.",
+  "ideas": [
+    {
+      "idea": "Thou shall not skim off the top: manage money with no fixed fee, as Buffett's 0/6/25 partnership structure did, and only after compounding your own capital first.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Buffett took no fees off the top after merging his partnerships around 1962; if you compound your own small pile at 15-25% it doubles every 4-7 years and you can live off that base. Almost 100% of young managers he advises to go zero-fee ignore him, even one with $6-7M who could compound at 40-50% on his own. The 0/6/25 structure is as close to a permanent moat as a manager can have: it removes the asset-gathering incentive and investors become reluctant to pay anyone else; he lived on 'fresh air and water' from 2007 until crossing the high-water mark in 2017.",
+      "stocks_or_cases": [
+        "Warren Buffett",
+        "Charlie Munger",
+        "Pabrai Investment Funds"
+      ]
+    },
+    {
+      "idea": "Thou shall not have an investment team: investing is an individual pursuit, not a team sport, because any two people have different circles of competence.",
+      "topic": "Circle of competence & checklists",
+      "detail": "An analyst's ideas would get rejected simply because the manager's circle differs; you only need two to four ideas a year, and analysis is the fun part you should never delegate.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Thou shall accept being wrong at least one-third of the time, a lesson borrowed from John Templeton.",
+      "topic": "Psychology & temperament",
+      "detail": "Of ten stocks in his portfolio, at least four will not behave as expected: some lose, some flatline, some do far better. Forecasting a business 5-10 years out is an inexact science demanding humility even on highest-conviction ideas.",
+      "stocks_or_cases": [
+        "John Templeton"
+      ]
+    },
+    {
+      "idea": "Thou shall look for hidden P/E of 1 stocks: businesses that are a P/E of 1 on future earnings or asset value but do not show up as such on a screen.",
+      "topic": "Valuation & margin of safety",
+      "detail": "Fiat Chrysler at under $5/share in 2012 had guided to ~$5/share of earnings by 2018 and delivered (including Ferrari), a 7-8x return. IPSCO in 2004-05 traded at 3x earnings with a third of market cap in cash and two years of guided cash flow equal to the rest; a buyer took it out for ~4x in under two years. He has found such P/E of 1s six or seven times in 19 years running the fund.",
+      "stocks_or_cases": [
+        "Fiat Chrysler",
+        "Ferrari",
+        "IPSCO",
+        "Stewart Enterprises"
+      ]
+    },
+    {
+      "idea": "Funeral homes have the lowest business-failure rate of any industry because nobody enters the business and nobody shops for the low bid.",
+      "topic": "Moats & business quality",
+      "detail": "He found Stewart Enterprises at a P/E of 2 in Value Line, which he scans weekly hunting for P/E of 1s; P/E of 2s are common and usually worth avoiding but occasionally hide a gem.",
+      "stocks_or_cases": [
+        "Stewart Enterprises",
+        "Value Line"
+      ]
+    },
+    {
+      "idea": "Thou shall never use Excel: if you need a spreadsheet to see the value, it is an automatic pass; the math must work on the fingers of one hand.",
+      "topic": "Valuation & margin of safety",
+      "detail": "A $1B company at 20x earnings growing 10-15% cannot deliver a 20-25% return once you discount the cash flows; even Apple at ~$1T would need $260B of owner earnings for a 26% return. At a P/E of 1-3 the math becomes trivial: money back in two or three years and you still own the business.",
+      "stocks_or_cases": [
+        "Apple"
+      ]
+    },
+    {
+      "idea": "Thou shall always have a rope to climb out of the deepest well, because both investing and life guarantee deep wells.",
+      "topic": "Psychology & temperament",
+      "detail": "Pabrai Funds fell 65-70% from June 2007 to March 2009, from ~$600M to below $200M against a $636M high-water mark. Like his bankrupt father's astrologer, he fired up Excel to project 2010-2011 portfolio values well above $600M and focused on that number; he still keeps the spreadsheet.",
+      "stocks_or_cases": [
+        "Pabrai Investment Funds",
+        "Steve Jobs"
+      ]
+    },
+    {
+      "idea": "Thou shall be singularly focused like Arjuna: look only at the business and ignore macro clouds you cannot predict anyway.",
+      "topic": "Psychology & temperament",
+      "detail": "In Istanbul in 2018 there was enormous noise, but buying at 20% of liquidation value or a small fraction of future earnings makes the macro irrelevant; he cannot forecast even his own county, let alone an economy.",
+      "stocks_or_cases": [
+        "Turkey"
+      ]
+    },
+    {
+      "idea": "Thou shall never short a stock: the maximum upside is a double and the maximum downside is bankruptcy.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "With shorting you will be wrong 80% of the time on timing; Buffett and Munger say they were right on the stocks but wrong on the timing. Tesla goes in the too-hard pile, to be watched from the front row, not the arena.",
+      "stocks_or_cases": [
+        "Tesla",
+        "Warren Buffett",
+        "Charlie Munger"
+      ]
+    },
+    {
+      "idea": "Neither a long-term lender nor a short-term borrower be: keep leverage out of your life, spend less than you earn, and put the difference in a compounding engine.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "To finish first you must first finish. He points to Mr. Money Mustache, a software engineer who retired at 30 on a 60-70% savings rate with no debt, as the model on his Chai with Pabrai blog.",
+      "stocks_or_cases": [
+        "Mr. Money Mustache",
+        "Polonius"
+      ]
+    },
+    {
+      "idea": "Thou shall be a shameless cloner: 13F filings and sites like Dataroma reveal the highest-conviction ideas of very smart investors.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "He says he would not have survived without cloning; in South Korea, Turkey and China he used cloning for cover ('I know a guy' in Istanbul), whereas in India he did direct work, visiting 180+ listed companies in two years. Buffett's 'start with the A's' was not facetious: he went through the 20,000-company Moody's manual twice in the 1950s, often buying below net cash, and in India Pabrai looks for parallels to businesses with long US or European histories.",
+      "stocks_or_cases": [
+        "Dataroma",
+        "Warren Buffett",
+        "Moody's Manual"
+      ]
+    },
+    {
+      "idea": "If wealth is lost nothing is lost; the safety nets in the US make bouncing back almost certain, so keep losses in perspective.",
+      "topic": "Psychology & temperament",
+      "detail": "His wife barely noticed a change in his demeanor during 2008-09 even as his net worth fell from over $80M to about $18M; childhood extremes with his father's bankruptcies had prepared him. Tendency is not destiny, and tools like Vipassana can help.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "In a crash, sell cheap stocks to buy cheaper stocks and widen the discount to intrinsic value.",
+      "topic": "Markets, cycles & macro",
+      "detail": "In 2008-09 he built a basket of collapsed commodity names that each looked like at least a 5x; not one lost money and almost all went up 4-5x. Teck Cominco, which he sold at 5x, went on to 10x.",
+      "stocks_or_cases": [
+        "Teck Cominco"
+      ]
+    },
+    {
+      "idea": "Google is a rare business that can make its revenue whatever it wants by switching on monetization engines for products it gives away free.",
+      "topic": "Stock case studies",
+      "detail": "The founders had no revenue model; an employee later invented AdWords, and Waze ran free for years after acquisition. He bought at a forward P/E in the teens, more than doubled in about three years, intended to hold forever, but sold when P/E of 1s showed up and he needed cash.",
+      "stocks_or_cases": [
+        "Google",
+        "Waze"
+      ]
+    },
+    {
+      "idea": "In the US he never lost money to fraud in 25 years, but India carries a much higher fraud risk, so there he must meet management and follow the cash.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "For 22 of 24 years he never met managements. He recommends Howard Schilit's Financial Shenanigans; WorldCom was easy to spot by comparing cash to net income (expenses capitalized), while Satyam, which faked bank statements, is a rare exception. Fraudsters are usually playing with debt one way or another.",
+      "stocks_or_cases": [
+        "MCI WorldCom",
+        "Satyam",
+        "Deloitte",
+        "Howard Schilit"
+      ]
+    },
+    {
+      "idea": "Sergio Marchionne was among the top 20 business leaders of the last hundred years, and his team's mission-driven culture outlives him at Fiat Chrysler.",
+      "topic": "Management & capital allocation",
+      "detail": "Chrysler avoided liquidation in 2009 by a 3-2 Auto Task Force vote; under Sergio it went from distant third to margins above GM and Ford. Knowing since July 2017 he was terminally ill, he ran flat out to hit the 2018 plan and published the 2022 blueprint on June 1, 2018; the stock sits at a P/E of ~2 on 2022 numbers, probably closer to 1.3-1.5 given sandbagging, with Jeep at ~2M units and no me-too products.",
+      "stocks_or_cases": [
+        "Fiat Chrysler",
+        "Sergio Marchionne",
+        "Michael Manley",
+        "Jeep",
+        "GM",
+        "Ford"
+      ]
+    },
+    {
+      "idea": "Currency is irrelevant if you are right about the business.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "His first personal investment in India in 1994 went up 150x in five or six years while the rupee moved 30-40% against him. At P/E of 1 valuations, and with assets that have international value, currency does not matter.",
+      "stocks_or_cases": [
+        "India"
+      ]
+    },
+    {
+      "idea": "A Turkish coastal cement company with a dedicated port can export competitively to the US East Coast and West Africa because ocean shipping is nearly free and the lira devaluation makes it more competitive.",
+      "topic": "Stock case studies",
+      "detail": "Cement is normally uncompetitive beyond 100-200 miles, but Turkey has cheap limestone, coal and power. The CFO candidly said domestic numbers would be terrible and exports would rise from 8-9% to 50%, then 70% if the currency fell further. He compares it to POSCO's ship-in/ship-out model and recommends The Box and Ninety Percent of Everything.",
+      "stocks_or_cases": [
+        "Turkey",
+        "POSCO",
+        "Marc Levinson"
+      ]
+    },
+    {
+      "idea": "Do not bet on turnarounds; the recovery must already be structurally in place and merely missed by the market, not dependent on management magic.",
+      "topic": "Circle of competence & checklists",
+      "detail": "Fiat Chrysler worked because structural changes in the auto industry made recovery near-certain. In Turkey, imports have repriced but local prices have not, so exporters are the obvious beneficiaries.",
+      "stocks_or_cases": [
+        "Fiat Chrysler",
+        "Turkey"
+      ]
+    },
+    {
+      "idea": "Most moats are illusions that get filled in far faster than expected; the P/E of 1 is your only real protection.",
+      "topic": "Moats & business quality",
+      "detail": "GE, the last original Dow member, just fired its CEO. Buffett noted around 2000 that only ~400 US companies earned over $200M after tax in 224 years of capitalism; today fewer than 500 earn over $500M. Lessons: stick with small and nano caps, favor P/E of 1s, and view moats with a jaundiced eye.",
+      "stocks_or_cases": [
+        "GE",
+        "Warren Buffett"
+      ]
+    },
+    {
+      "idea": "The Kelly formula discussion in The Dhandho Investor was a mistake because Kelly only works when you can make the same bet a thousand times.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "With a 51/49 edge and only two chances to bet, outcomes are all over the place; he would delete the Kelly section in a new edition.",
+      "stocks_or_cases": [
+        "Kelly formula"
+      ]
+    },
+    {
+      "idea": "Circle of competence is the first filter, before price; but an extreme P/E of 1 can shrink what you need to understand to a single handicappable statement.",
+      "topic": "Circle of competence & checklists",
+      "detail": "With IPSCO he only had to judge the resilience of two years of cash flows, not the moat. In Turkey a sliver of assets exceeded market cap so he needed no view on everything else. When few things survive the filters, Munger's answer is: why should it be easy to get rich?",
+      "stocks_or_cases": [
+        "IPSCO",
+        "Turkey",
+        "Charlie Munger"
+      ]
+    },
+    {
+      "idea": "He runs a barbell portfolio: about 55% P/E of 1s (an all-time high), 10% cash, and the rest enduring moats where he will pay up only for a truly strong moat.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "Credit rating agencies are the archetype: Moody's and S&P survived the financial crisis with modest fines, no capex, 60%+ margins, and revenue uncorrelated with cost. He owns 10% (the maximum allowed) of one of India's three rating agencies at more than a P/E of 1 and plans to hold it a long time.",
+      "stocks_or_cases": [
+        "Moody's",
+        "S&P",
+        "India credit rating agencies"
+      ]
+    },
+    {
+      "idea": "Buy and hold forever is not the answer even for the ultimate moat; sell great compounders when the price no longer allows the math to work.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "Berkshire's Coke went from $1B to $12B in 1988-2000 (~25%/yr) but only to ~$18B by 2018 (~2.3%/yr ex-dividends); Buffett admitted not selling was a mistake. MasterCard at ~50x trailing earnings with a 2% earnings yield cannot deliver 25%; he would let a tremendous asset run to 40-45x but would be a seller at 2018 prices.",
+      "stocks_or_cases": [
+        "Coca-Cola",
+        "Berkshire Hathaway",
+        "MasterCard",
+        "Chuck Akre",
+        "Tom Russo",
+        "Guy Spier"
+      ]
+    },
+    {
+      "idea": "Run an empty calendar, like Buffett and Munger, and constantly tweak your days so the glove fits and you are energized.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "The Arvind talk is the only fixed annual event on his calendar; he avoids meetings but loves company visits. Do not take the highest job offer, take the one you are most passionate about; Buffett likens deferring what you want to saving sex for old age.",
+      "stocks_or_cases": [
+        "Warren Buffett",
+        "Charlie Munger"
+      ]
+    }
+  ]
+}

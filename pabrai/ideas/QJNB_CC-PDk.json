@@ -1,0 +1,152 @@
+{
+  "video_id": "QJNB_CC-PDk",
+  "date": "2022-10-11",
+  "title": "Mohnish Pabrai's Q&A Session with YPO Gold Nairobi in Kenya on October 11, 2022",
+  "summary": "A dinner Q&A with YPO members in Nairobi after a safari. Pabrai opens with the Manhattan-for-$24 compounding story and the three variables of compounding, argues that individual investors should mostly index, and then walks through his Turkish investments (the Reysas warehouse operator bought at a $20 million market cap, the TAV airport operator, the Coca-Cola bottler) as examples of hunting anomalies where inflation is a tailwind. He also covers ignoring macro ('this too shall pass'), the too-hard pile, why selling is harder than buying, the Buffett lunch and Munger friendship, and how Dakshana was built by cloning Super 30 and swinging for sixers.",
+  "ideas": [
+    {
+      "idea": "The Native Americans who sold Manhattan for $24 got a good deal; they just lacked a competent trust officer to compound it.",
+      "topic": "Compounding & long-term holding",
+      "detail": "$24 (60 guilders) in 1626 at 7% a year doubles every 10 years, giving 1,000x per century: $24 trillion by 2026, or roughly $16-17 trillion in 2022, versus US total wealth of about $130 trillion and Manhattan land worth at most a few hundred billion. The story is from a 1950s Buffett partnership letter.",
+      "stocks_or_cases": ["Warren Buffett", "Peter Minuit"]
+    },
+    {
+      "idea": "Compounding has three interchangeable variables - rate, runway and starting amount - and with a long enough runway you need neither a high rate nor a large starting sum.",
+      "topic": "Compounding & long-term holding",
+      "detail": "Rule of 72 works both ways: 7% doubles in 10 years, 10% in 7, and if you want a double in 5 years you need 15%. His daughter's $5,000 internship savings at 18 in an IRA compounding at 15% becomes $5 million at 68, and each year's savings adds another $5 million.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Buffett's only wish is that when he dies people say 'man, he was old' - he wants runway because he just wants to compound.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "Buffett bought his first stock at 11 and says he wasted his time until then; he had about $10,000 saved at 18 (about $120,000 today) and has now compounded for 74 years, having just turned 92.",
+      "stocks_or_cases": ["Warren Buffett"]
+    },
+    {
+      "idea": "The individual investor has an advantage over professionals: small capital widens the opportunity set, and you can simply index and get 8-9% a year knowing nothing.",
+      "topic": "Markets, cycles & macro",
+      "detail": "The S&P 500 has delivered about 9% a year for a hundred years and will likely do 8-9% over the next few decades. Buffett must put tens of billions to work at a time, which narrows his options, while a $5,000 account can go almost anywhere.",
+      "stocks_or_cases": ["Warren Buffett", "S&P 500"]
+    },
+    {
+      "idea": "85% of money managers lag the index because of 1-2% fees and because the index is 'too dumb' to ever sell Apple, Microsoft or Starbucks, while managers turn over 80-100% a year.",
+      "topic": "Compounding & long-term holding",
+      "detail": "An index costs 5-10 basis points; a manager charging 1-2% must earn 10-11% just to match a 9% index. Buffett says the stock market is a mechanism to transfer wealth from the active to the inactive, and he recommends most YPO members stick to indexing.",
+      "stocks_or_cases": ["Apple", "Microsoft", "Starbucks", "Alphabet", "Warren Buffett"]
+    },
+    {
+      "idea": "Buffett's lesson from Rick Guerin: if you are even a slightly above-average investor who spends less than you earn, you cannot help but get rich over a lifetime - but never use leverage.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "In the 1973-74 crash, more severe than 1929 but in slow motion, Guerin was leveraged with margin loans and had to sell Berkshire shares to Buffett at $40; they now trade above $400,000, a 10,000x in 48 years.",
+      "stocks_or_cases": ["Rick Guerin", "Warren Buffett", "Charlie Munger", "Berkshire Hathaway"]
+    },
+    {
+      "idea": "Investing is a forgiving business: even the best investors are wrong one in three times and you can be wrong half the time and still do well.",
+      "topic": "Psychology & temperament",
+      "detail": "He cites John Templeton's one-in-three error rate and contrasts it with a brain surgeon. Roughly 4% of stocks - 1 in 25 - produce the index's 9% return, which is another reason active managers struggle.",
+      "stocks_or_cases": ["John Templeton"]
+    },
+    {
+      "idea": "If you do pick stocks, look only for anomalies that 'hit you on the head with a two-by-four'; finding one or two a year is a good year.",
+      "topic": "Valuation & margin of safety",
+      "detail": "Something you understand well that is 80-90% off, not 20% off, should get you excited. Among 50,000 stocks worldwide you can always find businesses at a P/E of 1 or 2 if that is your screen.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Auction-driven markets price businesses in a far wider band than private negotiations, so stocks are almost always either undervalued or overvalued, rarely correctly valued.",
+      "topic": "Markets, cycles & macro",
+      "detail": "A random NYSE stock has a 52-week range like $60-$100 or $55-$110 in a normal year; a private seller quoting daily would stay within $9-11 million on a $10 million business, whereas listed it would range $5-15 million.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Turkey is an extreme case of wealth transferring from the active to the inactive: 80% of the market is static insider and foreign holdings while the retail 20% turns over every nine days.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "Turkish retail 'investors' aim to buy at 10am, sell at 3pm and make 10%. With 85% inflation, a collapsing lira and foreign investors gone, it is a good time to enter; Buffett compares it to playing bridge with people told it does no good to look at the cards.",
+      "stocks_or_cases": ["Turkey"]
+    },
+    {
+      "idea": "The Turkish warehouse operator was bought at a $20 million market cap against roughly $800 million of liquidation value - 'better than a P/E' - and is up 7x despite a 4-to-1 lira devaluation.",
+      "topic": "Stock case studies",
+      "detail": "Visited in 2019 with a Turkish Buffett-Munger-Graham disciple friend: prime warehouses 99% leased on inflation-indexed leases to Amazon, Ikea and Carrefour, worth about $1 billion with $200 million of debt. He bought a third of the company for $7 million; market cap is now $150 million, liquidation value over $1.2 billion, and the father-son team are good capital allocators.",
+      "stocks_or_cases": ["Reysas", "Amazon", "Ikea", "Carrefour"]
+    },
+    {
+      "idea": "In high-inflation countries, buy businesses where inflation is a tailwind, not a headwind - euro revenues or hard assets like land, cement and steel.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "The airport operator's revenues and costs are in euros, so lira devaluation is irrelevant, and the warehouse operator's assets are automatically inflation-indexed. The number one skill is patience: let the game come to you.",
+      "stocks_or_cases": ["TAV Airports", "Reysas"]
+    },
+    {
+      "idea": "TAV, the Turkish airport operator, is a tremendous asset: 15 airports in eight countries in a niche where only 3% of the world's airports are privately run and the big boys don't compete.",
+      "topic": "Stock case studies",
+      "detail": "In 2020-21 with no flights they bought Almaty airport in Kazakhstan outright (not a BOT concession) for $400 million plus $200 million capex, including fueling rights in a landlocked country; he expects $100-200 million a year of earnings in a few years. Duty-free (about $1,500 per plane, 40% to the operator) and F&B are unregulated. Pabrai's funds own about 5-6% - 'every 20th bottle of Johnnie Walker is for my investors'.",
+      "stocks_or_cases": ["TAV Airports", "Almaty Airport"]
+    },
+    {
+      "idea": "He skips entire sectors like US healthcare, pharma and defense because they don't run on market forces and he would be late to the party; the first question is always whether it's in your circle of competence.",
+      "topic": "Circle of competence & checklists",
+      "detail": "Billionaire John Arrillaga only ever invested in real estate within two miles of the Stanford campus, knew every building cold, went to cash when cap rates hit 3% and bought back in downturns. Better to be an inch wide and a mile deep than a mile wide and an inch deep; he makes only about two investments a year.",
+      "stocks_or_cases": ["John Arrillaga", "Charlie Munger"]
+    },
+    {
+      "idea": "He doesn't care about any market, interest rates, Fed policy or inflation - the micro trumps the macro for most businesses, and 'this too shall pass'.",
+      "topic": "Markets, cycles & macro",
+      "detail": "Like a business owner, an investor should focus on the three or four variables that drive a specific company. Every era looks terrible - the financial crisis, March 2020, the Depression, Vietnam - yet Ukraine will be resolved and US inflation will come under control someday.",
+      "stocks_or_cases": ["Amazon"]
+    },
+    {
+      "idea": "Getting out is much harder than getting in - like Abhimanyu in the chakravyuha - and Phil Fisher's view is that if the job is done right you never need to sell.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "You only really understand a business after you own it, and especially when it drops 30-40%. He avoids early-stage and private-equity investing entirely, and even public positions can take a year to exit for lack of liquidity.",
+      "stocks_or_cases": ["Phil Fisher", "Abhimanyu"]
+    },
+    {
+      "idea": "Value is its own catalyst: like Ben Graham told Senator Fulbright in 1956, if the value is $20 the stock will get there eventually, so he never focuses on catalysts.",
+      "topic": "Valuation & margin of safety",
+      "detail": "He had no idea whether the $20 million Turkish company would take six months or ten years to approach $800 million; it went from $20 million to $150 million in three years amid macro turmoil while the business value rose in the meantime.",
+      "stocks_or_cases": ["Ben Graham", "Reysas"]
+    },
+    {
+      "idea": "Outside the US the odds of outright fraud are elevated, so integrity, ethics and how management treats outside shareholders become an extra layer of due diligence.",
+      "topic": "Management & capital allocation",
+      "detail": "In the US he loses money because he's stupid, not because of fraud. Until seven or eight years ago almost all his investments were in the US; now he would rather deepen his familiarity with Turkey than start on another country, though the circle expands by osmosis.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "The Turkish Coca-Cola bottler is a good business trading at a discount to other listed bottlers only because it's based in Turkey - but he hasn't bought it because it wasn't as cheap as the warehouse operator.",
+      "topic": "Stock case studies",
+      "detail": "Coca-Cola owns 20% and sits on the board; the bottler also owns 49% of the Pakistan bottler and operates in 11 other countries including Jordan, Uzbekistan and Kazakhstan. The bottling business is not as good as Coke itself but still good.",
+      "stocks_or_cases": ["Coca-Cola Icecek", "Coca-Cola"]
+    },
+    {
+      "idea": "Companies that have never made money go straight into Buffett's 'too hard' pile - 99% of ideas belong there and there's no point wasting brain cells.",
+      "topic": "Circle of competence & checklists",
+      "detail": "Story from a 2010-11 Berkshire HQ tour with Debbie Bosanek: the famous 'too hard' box on Buffett's desk was empty, so he filled it with paper on the spot. Once in a while a Turkish warehouse company shows up that isn't too hard.",
+      "stocks_or_cases": ["Warren Buffett", "Debbie Bosanek"]
+    },
+    {
+      "idea": "Life and investing payoffs are asymmetric: many ventures fail, but the ones that work make up for the rest, so take any asymmetric bet whose downside you can tolerate.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "He bought an insurance company two years earlier, realized within three months it was a mistake and sold it for about what he paid. He cites Teddy Roosevelt's man in the arena.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Bidding $650,000 for lunch with Buffett in 2007 was 'tuition' for intellectual property used for free, and it paid off through an unexpected friendship with Charlie Munger.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "With a net worth of $85 million he was willing to bid up to $2 million; his only agenda was to say thank you (and touch Buffett's feet). Buffett introduced him to Munger, leading to dinners every two or three months, bridge twice a month, and invaluable non-investing life advice.",
+      "stocks_or_cases": ["Warren Buffett", "Charlie Munger", "Guy Spier"]
+    },
+    {
+      "idea": "Giving money away effectively is far harder than making it, so start early - he began Dakshana at 43 by committing 2% of assets a year and accepting he might lose it while learning.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "Investing is low risk, high return; charity must be high risk, high return - only go for sixers, because that is the only way to move the needle. Dakshana is about 15 years old.",
+      "stocks_or_cases": ["Dakshana Foundation"]
+    },
+    {
+      "idea": "Cloning is a core mental model most humans think is beneath them; Dakshana was built by cloning Anand Kumar's Super 30 and running it on an industrial scale.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "Super 30 got 27-30 of 30 poor kids into IIT each year; Anand declined funding to scale to 300 but happily let Pabrai replicate the model, and Dakshana sourced students through the government's Navodaya magnet school system.",
+      "stocks_or_cases": ["Anand Kumar", "Super 30", "Dakshana Foundation"]
+    }
+  ]
+}

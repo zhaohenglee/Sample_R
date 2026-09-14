@@ -1,0 +1,122 @@
+{
+  "video_id": "DS4lhTSZMRc",
+  "date": "2024-11-15",
+  "title": "Mohnish Pabrai's Guest Lecture at Microsoft on November 15, 2024",
+  "summary": "Speaking to Microsoft employees, Pabrai argues that value and growth are the same thing (discounted future cash flows versus price) and that his approach is to seek certainty in near-term cash flows, illustrated by IPSCO in 2004 and Reysas in Turkey (now 70% of his assets). He warns that the S&P 500 is unlikely to return more than 3-5% a year over the next 10-15 years, questions Nvidia's valuation, recalls telling Microsoft staff in 2000 that their stock was egregiously priced, and closes with his 'two games' of compounding and giving it all away via Dakshana plus life principles of trust, reliability and going all in.",
+  "ideas": [
+    {
+      "idea": "Value and growth are joined at the hip; all intelligent investing is discounting future cash flows to judgment day and comparing to price, so Nvidia is value at one price and speculation at another.",
+      "topic": "Valuation & margin of safety",
+      "detail": "Buffett bought Apple on future cash flows versus price, not as a low-growth value stock; Aesop's bird in the hand question is how likely and how soon the two birds in the bush arrive.",
+      "stocks_or_cases": ["Nvidia", "Apple", "Microsoft", "Berkshire Hathaway", "Warren Buffett"]
+    },
+    {
+      "idea": "Even Microsoft insiders, Satya or Bill, could not give 10 years of cash flows at 80% probability; the less confidence in future cash flows, the more speculative the investment.",
+      "topic": "Valuation & margin of safety",
+      "detail": "His response to that uncertainty, unlike Nick Sleep's, is to take away as much uncertainty as possible by favoring situations with near-certain near-term cash flows.",
+      "stocks_or_cases": ["Microsoft", "Nick Sleep"]
+    },
+    {
+      "idea": "IPSCO in 2004 was $40 a share with $15 cash and $15 a share of contracted cash flow in each of the next two years, so $45 of cash versus a $40 price made intrinsic value unlikely to be below the price.",
+      "topic": "Stock case studies",
+      "detail": "He put 10% of the fund in it despite year-three cash flow possibly going to zero; a year later it guided another $15 and the stock hit $90, then a Swedish steel company bid $160, roughly 4x in 15-16 months.",
+      "stocks_or_cases": ["IPSCO"]
+    },
+    {
+      "idea": "Reysas, Turkey's largest warehouse operator, traded at $16M market cap against $600M+ liquidation value (2.5% of value) with 10-year inflation-indexed leases, so he bought a third of it for $8M.",
+      "topic": "Stock case studies",
+      "detail": "Five and a half years later it crossed $1B market cap and liquidation value is north of $2B; the lira lost ~80% but steel, concrete and land are inflation-indexed. Management increased value 2.5x in five years and he treats it as a passive family-business stake that could be worth $5-10B in 5-10 years.",
+      "stocks_or_cases": ["Reysas", "Amazon", "Carrefour", "Ikea", "Toyota", "Mercedes"]
+    },
+    {
+      "idea": "Small investors have a structural edge: nooks and crannies (merger arb, micro-caps, junk bonds) are evergreen hunting grounds because successful incumbents outgrow them.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Joel Greenblatt's observation; you can't make $100k bets on a $20M portfolio. Buffett's Japanese trading-company bet was Mickey Mouse for Berkshire but could deliver spectacular returns for a smaller portfolio.",
+      "stocks_or_cases": ["Joel Greenblatt", "Warren Buffett", "Japanese trading companies"]
+    },
+    {
+      "idea": "He had no plan to be in Turkey; it simply screened super cheap in 2018 as the currency collapsed, and now 70% of his assets are there.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "He asked a Ben Graham-style investor friend in Turkey to show him only companies the friend had his own money in, starting with the largest position.",
+      "stocks_or_cases": ["Reysas"]
+    },
+    {
+      "idea": "Entrepreneurs spend 3-4% of their time on strategy and 95-97% on execution; investing uses the same brain cells as the strategy part without any blocking and tackling.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "He had no interest in investing until about 30, when reading about Buffett ('I am a better investor because I am a businessman') showed him a utopian existence of only picking businesses and leaving execution to others.",
+      "stocks_or_cases": ["Warren Buffett"]
+    },
+    {
+      "idea": "When you encounter a simple idea, take it very seriously and clone it: Walmart innovated nothing for 25 years and Microsoft's biggest wins (Word, Excel, the browser, AI) were lifted from outside.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "Sam's Club was cloned from Costco and the Walmart model from Kmart; Word came from WordPerfect and Excel from Lotus. We rise by standing on the shoulders of giants.",
+      "stocks_or_cases": ["Walmart", "Sam Walton", "Costco", "Kmart", "Microsoft", "WordPerfect", "Lotus"]
+    },
+    {
+      "idea": "Anything under a $10-20B investment at Berkshire, like Domino's, is probably Todd or Ted rather than Buffett.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "He has no inside information but says it's a guess based on the size of the position.",
+      "stocks_or_cases": ["Domino's Pizza", "Berkshire Hathaway", "Todd Combs", "Ted Weschler"]
+    },
+    {
+      "idea": "In January 2000 he told Microsoft employees their stock was a terrible investment despite a great business, and from 2000 to 2012 it was a horrible ride with 60-70% drawdowns.",
+      "topic": "Markets, cycles & macro",
+      "detail": "Microsoft then had under $10B cash flow on a $600-700B market cap, a trailing PE of about 70; he'd be more bullish owning it today than in 2000 but still suggests keeping at least half your assets outside the company.",
+      "stocks_or_cases": ["Microsoft", "Satya Nadella"]
+    },
+    {
+      "idea": "The odds the S&P 500 returns more than 5% a year over the next 10-15 years are approximately zero; he thinks it will be under 3%.",
+      "topic": "Markets, cycles & macro",
+      "detail": "Buffett's record cash pile and trimming while corporate tax rates are at record lows shows this isn't lost on him; Berkshire isn't even buying back its own stock as too richly priced, and a significant dislocation within 10 years is quite likely.",
+      "stocks_or_cases": ["S&P 500", "Berkshire Hathaway", "Warren Buffett"]
+    },
+    {
+      "idea": "Nvidia at $3-3.5 trillion goes in the too-hard pile: to double, it would need roughly $15 trillion of cumulative cash flows over 15-20 years and nobody can show which years they arrive.",
+      "topic": "Valuation & margin of safety",
+      "detail": "Run the same exercise on the magnificent five or seven: if you bought the whole company you'd want $7-8T back within a few years.",
+      "stocks_or_cases": ["Nvidia"]
+    },
+    {
+      "idea": "AI and large language models are outside his circle of competence: embryonic, with many implications not yet understood and many negative.",
+      "topic": "Circle of competence & checklists",
+      "detail": "He says the Microsoft audience is better placed to answer; so far it has not changed how he spends his time.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Bill Gates told him in 1995 that the record of great companies going into oblivion is nearly 100% and Microsoft would too; Gates diversified while Ballmer stayed all in and became one of the wealthiest people.",
+      "topic": "Compounding & long-term holding",
+      "detail": "The non-founder was far more bullish for far longer, and Gates' diversification went into things that did worse than Microsoft. He says he doesn't like to sell things that are great.",
+      "stocks_or_cases": ["Microsoft", "Bill Gates", "Steve Ballmer"]
+    },
+    {
+      "idea": "Build a personal moat by finding what you're passionate about, going all in, and going to bed slightly wiser each day; after 20 years your peers will be out of sight.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "He rereads Poor Charlie's Almanack yearly and calls The Psychology of Human Misjudgment better than a four-year degree; Munger knew no wise people who didn't read all the time. The digital edition is free.",
+      "stocks_or_cases": ["Charlie Munger", "Poor Charlie's Almanack"]
+    },
+    {
+      "idea": "He is a single-player game player running two games: compound at ~25-26% (a million to a billion in 30 years) and give it all away to be left with $10,000 the day before he dies.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "He started the compounding game exactly 30 years ago; beyond a point money doesn't correlate with happiness, so following Chuck Feeney and Buffett he blasts the money out through Dakshana, which he calls just a math game.",
+      "stocks_or_cases": ["Dakshana Foundation", "Chuck Feeney", "Warren Buffett"]
+    },
+    {
+      "idea": "What keeps him going is the near-infinite study of businesses and why they work, not numbers on a spreadsheet.",
+      "topic": "Psychology & temperament",
+      "detail": "Gates reluctantly met Buffett at his mother's insistence and talked for 10 hours because Buffett asked questions about IBM and Microsoft nobody had ever asked him.",
+      "stocks_or_cases": ["Bill Gates", "Warren Buffett", "IBM", "Microsoft"]
+    },
+    {
+      "idea": "The world runs on trust, not contracts, and trust is earned only through a track record of exemplary behavior; go all in on basic principles like honesty, reliability and hard work.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Munger says McDonald's does more good than Harvard Business School by teaching teenagers reliability; from Munger he adopted always arriving 15 minutes early.",
+      "stocks_or_cases": ["Charlie Munger", "McDonald's"]
+    },
+    {
+      "idea": "Do the best possible job on any task you're given, like it or not, and you'll go straight to the top.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Somasegar, who rose to the top of Microsoft despite worn-out shoes, told him that as a janitor he'd make his bathroom the cleanest in the airport.",
+      "stocks_or_cases": ["Somasegar", "Microsoft"]
+    }
+  ]
+}

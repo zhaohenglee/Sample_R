@@ -1,0 +1,146 @@
+{
+  "video_id": "PN3f668IKO0",
+  "date": "2021-10-19",
+  "title": "Mohnish Pabrai’s Q&A session with students at the University of Oxford",
+  "summary": "Pabrai explains the Patel motel story behind The Dhandho Investor as a lesson in low-cost advantage and Peter Thiel's 'competition is for losers', then argues that finding great businesses is easy while finding great investments is the hard part. He walks through his Reysas (Turkey) investment bought at 4 cents on the dollar, explains why shorting is dumb, discusses the inner scorecard, Buffett's unchanging nature, cloning as a funnel, tolerating high error rates, and his regret at selling Amazon at $14 in 2002 and abandoning compounders for cheap stocks.",
+  "ideas": [
+    {
+      "idea": "The Patels came to dominate 70% of US motels from 0.2% of the population by becoming the low-cost provider, a framework that maps directly onto value investing.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Expelled from Uganda by Idi Amin in the 1970s with $5-15,000, they bought $50-75,000 motels with $5-10,000 down, lived on site, eliminated payroll, priced rooms below competitors, saved at high rates and cascaded family members into more motels.",
+      "stocks_or_cases": ["Patels", "The Dhandho Investor"]
+    },
+    {
+      "idea": "Low-cost provider status gives many businesses a long-term enduring competitive advantage.",
+      "topic": "Moats & business quality",
+      "detail": "He cites GEICO, Berkshire Hathaway, Costco, Walmart and Nucor's mini-mills alongside the Patel motels.",
+      "stocks_or_cases": ["GEICO", "Berkshire Hathaway", "Costco", "Walmart", "Nucor"]
+    },
+    {
+      "idea": "Capitalism is brutal and 99% of businesses are tough; per Peter Thiel's 'Competition is for losers', investors should seek the 1% with monopoly-like enduring edges at a reasonable price.",
+      "topic": "Moats & business quality",
+      "detail": "Even at 1% of 50,000 listed companies there are 500 awesome businesses; Thiel's Stanford lecture is on YouTube and worth watching.",
+      "stocks_or_cases": ["Peter Thiel"]
+    },
+    {
+      "idea": "Monopolies go to extreme lengths to convince you they are not monopolies, while competitive businesses beat their chests claiming secret sauce.",
+      "topic": "Moats & business quality",
+      "detail": "Facebook and Google do not want governments thinking they are monopolies; listing the products you use (iPhone, Amazon, your utility) reveals monopolies, and their financials scream it out even when they want you to walk on by.",
+      "stocks_or_cases": ["Facebook", "Google", "Apple", "Amazon"]
+    },
+    {
+      "idea": "Finding great businesses is easy; finding great investments, where the price does not reflect the great economics, is the hard part.",
+      "topic": "Valuation & margin of safety",
+      "detail": "Amazon, Alphabet and Microsoft are obviously great; the harder second step is finding the aberration where the market has not figured it out, and as Munger says, 'Why should it be easy to get rich?'",
+      "stocks_or_cases": ["Amazon", "Alphabet", "Microsoft", "Charlie Munger"]
+    },
+    {
+      "idea": "As long as humans vacillate between fear and greed there will always be mispricings in both directions, so bargains always exist somewhere, though they are rarely comfortable to buy.",
+      "topic": "Markets, cycles & macro",
+      "detail": "The ones fitting the criteria are usually the hardest to convince yourself to buy, as with Turkey where everyone wants to exit because of Erdogan and backwards macro policy.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Reysas in Turkey was bought in 2019 at 4 cents on the dollar of liquidation value: 12 million square feet of prime warehouses against a $20 million market cap.",
+      "topic": "Stock case studies",
+      "detail": "Warehouses 99% leased to Amazon, Ikea and Carrefour on 10-year inflation-indexed leases, under $200 million debt, worth $75-80 a square foot or about $1 billion. He ended up owning a third of the company; two years later it is up 6x in dollars (10x in lira), still only 24 cents on the dollar, and rooftop solar of about 50 MW added roughly $200 million of value.",
+      "stocks_or_cases": ["Reysas", "Amazon", "Ikea", "Carrefour"]
+    },
+    {
+      "idea": "Inflation and currency collapse are a non-event when you own hard assets bought far below replacement cost.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "The lira went from under 5 to over 9 per dollar between 2019 and 2021; if inflation rises, cement and land prices and warehouse replacement cost rise too, so the properties appreciate in lira and hold value in dollars. Turkey remains one of the cheapest markets in the world with many mispriced businesses.",
+      "stocks_or_cases": ["Reysas"]
+    },
+    {
+      "idea": "Investing does not need a high IQ or Oxford grades, just basic common sense, a calculator and Excel.",
+      "topic": "Psychology & temperament",
+      "detail": "The Reysas math was simple: sell the warehouses for a billion, repay 200 million of debt, and compare 800 million to a 20 million market cap.",
+      "stocks_or_cases": ["Reysas"]
+    },
+    {
+      "idea": "Deep mispricings like Reysas persist because tiny market caps are below institutional radar and historic-cost lira accounting hides the asset value.",
+      "topic": "Valuation & margin of safety",
+      "detail": "He first suspected fraud and spent an afternoon touring warehouses with the founder; the company does a poor job educating investors, and depreciated 30-year-old lira book values bear no relation to market value.",
+      "stocks_or_cases": ["Reysas"]
+    },
+    {
+      "idea": "Shorting is one of the dumbest activities: the most you can make is 2x and the most you can lose is everything.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "Roaring Kitty, GameStop and AMC showed there is no limit to how far a stock can rise; no short sellers appear in the Forbes top 10 because 'they lost their shorts'. He sent Ben Mezrich's 'The Antisocial Network' to Buffett and Munger.",
+      "stocks_or_cases": ["GameStop", "AMC", "Roaring Kitty"]
+    },
+    {
+      "idea": "In investing there are no called strikes; you can let a thousand pitches go by and only need opinions on a tiny sliver of the planet.",
+      "topic": "Circle of competence & checklists",
+      "detail": "Unlike baseball, investing is like cricket where you can let 100 balls pass; one can live a healthy and wealthy life without ever shorting a stock.",
+      "stocks_or_cases": ["Warren Buffett"]
+    },
+    {
+      "idea": "Live by an inner scorecard: when the outer and inner scorecards diverge, follow the inner one, which makes you more trustworthy and gives a huge edge in life.",
+      "topic": "Psychology & temperament",
+      "detail": "Buffett asked at lunch whether you'd rather be the greatest lover known as the worst, or the worst known as the greatest. If his fund is up 30% he asks internally what risk he took and whether it was the best opportunity cost; the easiest person to fool is yourself.",
+      "stocks_or_cases": ["Warren Buffett", "Guy Spier"]
+    },
+    {
+      "idea": "Humans are hardcoded by age five or six and do not change between six and 96, so be extremely picky about friends because you drift toward the people you spend time with.",
+      "topic": "Psychology & temperament",
+      "detail": "Hanging out with better people makes you better; wishful thinking that someone will change is futile once you know their nature.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Buffett at nine, 25 and 80 was doing the identical activity: sifting discarded racetrack tickets, Moody's Manuals, and the Japan Company Handbook for needles in haystacks.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "At Ak-Sar-Ben he sent Aunt Alice to collect winning tickets; in his twenties he found companies with $15 million caps earning $25 million; at over 80 with $100 billion-plus in Berkshire cash he was still reading the Japan handbook, where Pabrai dog-eared pages for him and Buffett said 'all the good stuff is in the back'.",
+      "stocks_or_cases": ["Warren Buffett", "Berkshire Hathaway", "Moody's Manual", "Japan Company Handbook"]
+    },
+    {
+      "idea": "You cannot add on Buffett's personality; it is binary, so understand who you are and build behaviors that maximize your own talents.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Sam Walton, Buffett, Howard Schultz and Bezos are intensely singular in their pursuits; if you would not enjoy picking up tickets at Ak-Sar-Ben you will not become Buffett.",
+      "stocks_or_cases": ["Warren Buffett", "Sam Walton", "Howard Schultz", "Jeff Bezos"]
+    },
+    {
+      "idea": "Without failure there is no success; learning from others' mistakes is less painful but our own mistakes get seared in deeper.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "Peeling the onion on any successful person reveals many failures along the way; Munger says 'we are old too soon and wise too late'.",
+      "stocks_or_cases": ["Charlie Munger"]
+    },
+    {
+      "idea": "His biggest regret is abandoning long-runway compounders for Ben Graham cheap stocks after the 1999-2000 bubble and not switching back around 2012-2014.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "Bargain hunting became a comfortable habit; reading chapter six on Nick Sleep in 'Richer, Wiser, Happier' in 2021 showed him Sleep won by identifying long runways and doing nothing, so he began his journey back to great compounders.",
+      "stocks_or_cases": ["Nick Sleep", "Ben Graham", "Berkshire Hathaway", "Costco", "Amazon", "Coca-Cola", "American Express"]
+    },
+    {
+      "idea": "In 2002 he put 10% of his fund into Amazon at $10 a share after a Harvard case on CFO Joy Covey, sold at $14, and blew away a 330x.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "With $70-80 million under management, roughly $5 million at 300x would have been $1.5 billion and nothing else in the portfolio would have mattered; 'there can't be dumber than that'.",
+      "stocks_or_cases": ["Amazon", "Joy Covey", "Jeff Bezos"]
+    },
+    {
+      "idea": "Cloning is a powerful mental model most humans have an aversion to, but in investing it is only a funnel: once you have a shortlist from a great investor's portfolio, turn your own brain on.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "He has studied cloning for 33-34 years. With 50,000 public stocks nobody can master even 100, so following five or ten great investors' positions is a far better way to cull the data set than darts or quantitative screens, regardless of whether those investors later lose their edge.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Even the best investors are right only two out of three times, and asymmetric payoffs mean investing can tolerate a very high error rate.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "John Templeton put the top batting average at about 65%; most of Berkshire's roughly 100 acquisitions and Buffett's retailer and airline bets did not work while his bank record is perfect. Had he kept his 5% Amazon position, the other 95% could have gone to zero and the outcome would still be incredible.",
+      "stocks_or_cases": ["John Templeton", "Warren Buffett", "Berkshire Hathaway", "Amazon"]
+    },
+    {
+      "idea": "Making as few decisions as possible is a huge edge; Guy Spier takes in lots of data but hardly acts on it.",
+      "topic": "Psychology & temperament",
+      "detail": "Spier told him 'I don't trust myself to make decisions, so I try to make as few decisions as possible.'",
+      "stocks_or_cases": ["Guy Spier"]
+    },
+    {
+      "idea": "Indian Energy Exchange was the highest-quality business of 200-plus Indian management teams he met, but he dumbly sold his 4.99% stake during COVID.",
+      "topic": "Stock case studies",
+      "detail": "In 2018-19 IEX handled 3% of India's electricity with a 1% fee and about 70% net margins, foreigners capped at 5%; Guy Spier bought about 4.4 million shares near $2 for roughly $9 million, now a $50 million-plus position up five to six times. Pabrai rebought and holds a similar position.",
+      "stocks_or_cases": ["Indian Energy Exchange", "IEX", "Guy Spier"]
+    }
+  ]
+}

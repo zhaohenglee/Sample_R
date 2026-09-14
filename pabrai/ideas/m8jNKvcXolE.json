@@ -1,0 +1,265 @@
+{
+  "video_id": "m8jNKvcXolE",
+  "date": "2026-05-05",
+  "title": "Mohnish Pabrai's Interview with My First Million on May 5, 2026",
+  "summary": "A wide-ranging conversation with Shaan Puri built around Pabrai's mental models: cloning, introducing randomness, 'take a simple idea and take it seriously', the too-hard pile, the inner scorecard and living an aligned life. He walks through the Turkish warehouse investment (Reysas, now ~100x), his Constellation Software thesis, why AI winners are the pickaxe makers and software incumbents, and stories about Buffett, Munger, Sam Walton, Ed Thorp and Ken Griffin.",
+  "ideas": [
+    {
+      "idea": "Buying an index fund puts you ahead of 90+% of stock pickers with zero effort, because the index is 'too dumb' to sell its 4% of winners.",
+      "topic": "Markets, cycles & macro",
+      "detail": "Over the last 90 years only about 4% of US companies have delivered the entire market return; the index captures Nvidia and TSMC and never sells them, whereas active managers rationalize swapping them out. Well under 1% of stock pickers are good investors. Today, at a ~23x PE, he is bearish on the S&P 500, agreeing with Howard Marks that forward 10-year returns from such levels have been roughly -2% to +2%.",
+      "stocks_or_cases": [
+        "Nvidia",
+        "TSMC",
+        "Howard Marks",
+        "S&P 500"
+      ]
+    },
+    {
+      "idea": "The main failing of smart investors is not intellect but lack of patience; the less activity, the better the outcomes.",
+      "topic": "Psychology & temperament",
+      "detail": "An investment may do nothing for 3 or 5 years; 'thou shalt enjoy watching paint dry'. Guy Spier's reluctance to take any action on his portfolio is a huge leg up.",
+      "stocks_or_cases": [
+        "Guy Spier"
+      ]
+    },
+    {
+      "idea": "'The mistress is always hotter than the wife': the stock you do not own always looks better than the one you know intimately, so the bar for swapping must be extremely high.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "You know all the flaws of what you own and only the surface of what you do not; you must be unequivocally convinced the mistress is truly hotter, not just apparently so. He would never sell the Turkish warehouses to buy TSMC because on valuation 'the mistress looks much uglier than the wife'.",
+      "stocks_or_cases": [
+        "TSMC",
+        "Reysas"
+      ]
+    },
+    {
+      "idea": "Introduce randomness into your life and hang out with people better than you; that is how your circle of competence naturally expands.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Picking up Peter Lynch's One Up on Wall Street at Heathrow in 1994 led him to Buffett, the Berkshire letters, the 1997 annual meeting, Munger's bridge table and his best friendships; Charlie told him 'introduce randomness in your life', and the 2018 Turkey trip was the same idea. There is a gravitational pull toward the people you spend time with, and you only need a few such relationships.",
+      "stocks_or_cases": [
+        "Peter Lynch",
+        "Warren Buffett",
+        "Charlie Munger"
+      ]
+    },
+    {
+      "idea": "Humans are terrible at cloning, which is why cloning works: everyone knows exactly what Elon or Walmart did and still will not copy it.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "Sam Walton had no original ideas: Walmart came from Kmart, Sam's Club from Sol Price's Price Club; he stopped the car on family vacations to tour competitors' stores and brought donuts to truck drivers at 5:30am to learn what they saw. Burger King's site-selection model was two guys putting stores across the street from McDonald's. Elon Musk's 'idiot index' (a $5,000 part with $270 of raw materials made in-house for $500) is known to Boeing and every carmaker, yet none adopt it because it is not in their DNA.",
+      "stocks_or_cases": [
+        "Sam Walton",
+        "Walmart",
+        "Sol Price",
+        "Costco",
+        "Burger King",
+        "McDonald's",
+        "Tesla",
+        "SpaceX",
+        "Boeing",
+        "Elon Musk"
+      ]
+    },
+    {
+      "idea": "'Take a simple idea and take it seriously' is the bedrock model without which cloning or any other model works; you have to go all in.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "Once he saw Turkey was absurdly cheap he chose to be an inch wide and a mile deep, treating the Turkish market as his Moody's Manual and studying every company. Using several models together yields Munger's lollapalooza effect (1+1 becomes 11); the models do the heavy lifting and all you have to do is not violate them.",
+      "stocks_or_cases": [
+        "Charlie Munger"
+      ]
+    },
+    {
+      "idea": "Turkey's hyperactive, speculative shareholder base makes it ideal for a patient investor, since the market transfers wealth from the active to the inactive.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "The average Turkish public company cycles through its entire float every 17 days (about 4% of shares trade daily) versus perhaps 10+ years for Berkshire; Turkish investors want to buy at 10:00, sell at 3:00 and make 10%. Both great and useless companies were cheap, so he focused on the great ones. Even so, a well-run major bank at a PE of 0.1 was 'too much hair even for me' because of US sanctions risk after its CFO was arrested at JFK.",
+      "stocks_or_cases": [
+        "Berkshire Hathaway",
+        "Halkbank"
+      ]
+    },
+    {
+      "idea": "India's 100-150 well-governed companies out of 5,000 are over-researched and trade at stratospheric valuations, so identical businesses are far cheaper in Turkey.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "A Pepsi bottler in India versus a Coke bottler in Turkey, or an Indian airport operator (50-70x trailing PE) versus a Turkish one (3-4x), are the same businesses at massive valuation differentials; he concluded India was 'zero' for him despite being Indian. Coke and Pepsi bottlers are an easy entry point anywhere because the franchisor pre-screens for quality management (the Turkish Coke bottler's CFO was Ukrainian, ex-Delhi); the businesses you spend the least time studying tend to make the most money because they are the simplest.",
+      "stocks_or_cases": [
+        "TAV Airports",
+        "Coca-Cola Icecek",
+        "Pepsi"
+      ]
+    },
+    {
+      "idea": "Buffett's American Express salad-oil bet shows scuttlebutt beats spreadsheets: he checked whether the moat (brand trust) was intact by standing at Omaha restaurant cash registers.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "After the salad-oil fraud (warehouses of seawater) crushed the stock, Buffett saw zero merchant hesitation to accept the card and put 40% of his fund into Amex. He similarly went to see Snow White with a briefcase to study Disney, of which he owned ~5%; he sold both at a profit but holding them 20-30 years would have done far better.",
+      "stocks_or_cases": [
+        "American Express",
+        "Disney",
+        "Warren Buffett"
+      ]
+    },
+    {
+      "idea": "'Thou shalt not use Excel', and if you cannot explain the thesis to a 10-year-old in four sentences, it is a pass; 98% of businesses belong in the too-hard pile.",
+      "topic": "Circle of competence & checklists",
+      "detail": "Every investment starts complex but must reduce to four simple sentences. With 50,000 stocks in the world, 98% belong in Buffett's 'too hard' box; sorting honestly is an exercise in humility and the inner scorecard. GLP-1 drugs (Wegovy, then Mounjaro, now tablets) and Bitcoin both go in the too-hard pile: rapid change is the enemy of the investor, and given gold, 'why do we need Bitcoin?'",
+      "stocks_or_cases": [
+        "Warren Buffett",
+        "Wegovy",
+        "Mounjaro",
+        "Bitcoin"
+      ]
+    },
+    {
+      "idea": "Investing is a game with no called strikes: let 10,000 balls go by and swing only when a deal hits you in the head like a 2x4.",
+      "topic": "Psychology & temperament",
+      "detail": "Ajit Jain instructs new insurance hires to say no to every deal until one is unbelievable. Buffett found Western Insurance ($15 stock, $25 earnings, $40 cash) by turning Moody's Manual pages; the whale only surfaces occasionally though it swims all the time, and Peter Lynch's advice is to study the companies whose products you already consume.",
+      "stocks_or_cases": [
+        "Ajit Jain",
+        "Western Insurance",
+        "Warren Buffett",
+        "Peter Lynch"
+      ]
+    },
+    {
+      "idea": "Buffett's Japanese trading-company bets came from 20 years of reading the Japan Company Handbook and were nearly risk-free because he borrowed the entire $5 billion in yen at 0.5%.",
+      "topic": "Stock case studies",
+      "detail": "The companies paid 8-9% dividends, giving ~7.5% cash carry; within 3-4 years dividends doubled to ~16% on cost, the stocks doubled, and $5 billion became $10 billion paying $800 million a year.",
+      "stocks_or_cases": [
+        "Japanese trading companies",
+        "Warren Buffett",
+        "Berkshire Hathaway"
+      ]
+    },
+    {
+      "idea": "The more the stock-market casino fills with hyperactive gamblers (Robinhood, options, prediction markets), the better for a patient investor, even though it is a negative for humanity.",
+      "topic": "Markets, cycles & macro",
+      "detail": "Capital markets exist to funnel capital to the Teslas and SpaceXs of the world; the casino is a side effect. Like professional horse bettors who overcome a 21% track take by finding mispriced odds, Polymarket winners are simply betting against other bettors.",
+      "stocks_or_cases": [
+        "Robinhood",
+        "Polymarket"
+      ]
+    },
+    {
+      "idea": "If you are even slightly above average, spend less than you earn and never use leverage, you cannot help but get rich over a lifetime.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "From his 2007 $650,000 lunch with Buffett: Rick Guerin, the third partner, was always on margin, got margin calls in the 1973-74 crash and sold his Berkshire shares to Buffett at $40 (now over $700,000). 'Charlie and I always knew we were going to be rich, but we were not in a hurry.'",
+      "stocks_or_cases": [
+        "Rick Guerin",
+        "Warren Buffett",
+        "Berkshire Hathaway"
+      ]
+    },
+    {
+      "idea": "Live by an inner scorecard rather than an outer scorecard: measure yourself by internal metrics, not what people think of you.",
+      "topic": "Psychology & temperament",
+      "detail": "Buffett's test: would you rather be the greatest lover in the world but known as the worst, or the reverse? On critics: 'if they can criticize Gandhi, then I am fair game.'",
+      "stocks_or_cases": [
+        "Warren Buffett",
+        "Gandhi"
+      ]
+    },
+    {
+      "idea": "Berkshire's $380 billion cash pile will likely be halved or less within 5 years as dislocations bring the desperate 'Saturday phone calls'.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "Berkshire is now run by a great operator and pretty good capital allocator rather than a great capital allocator, but Greg Abel will get the weekend calls in a crisis. Investing requires extreme patience with extreme decisiveness, like Munger standing by a stream with a spear waiting for the salmon.",
+      "stocks_or_cases": [
+        "Berkshire Hathaway",
+        "Greg Abel",
+        "Charlie Munger"
+      ]
+    },
+    {
+      "idea": "Reysas, the Turkish warehouse operator bought at 3% of liquidation value, is approaching a 100x return; his best ever bets were two pre-fund 100x+ investments from 1994-2000.",
+      "topic": "Stock case studies",
+      "detail": "Reysas had a $15-16 million market cap against ~$800 million liquidation value; Templeton offered 5% of the company for $1 million and he told the broker to take out every ask. The owners never cared about the stock price and did not understand buybacks. Earlier, $10,000 invested in 1994 became $1.4 million (140x) and another bet exceeded $10 million.",
+      "stocks_or_cases": [
+        "Reysas",
+        "Templeton Funds"
+      ]
+    },
+    {
+      "idea": "In an inflationary, unstable-currency market, only buy assets that are naturally immune: inflation-indexed hard assets or businesses earning in hard currency.",
+      "topic": "Valuation & margin of safety",
+      "detail": "A warehouse is land, paint, cement and steel, all inflation-indexed; the lira went from 5 to 45 per dollar (down 90%) yet he is up ~90x in dollars. TAV Airports earns in euros and pays costs in liras. Munger thought experiment: after a thermonuclear event people would still trade 15 minutes of labor for a Coke regardless of currency.",
+      "stocks_or_cases": [
+        "Reysas",
+        "TAV Airports",
+        "Coca-Cola",
+        "Charlie Munger"
+      ]
+    },
+    {
+      "idea": "What matters in investing is not the mistakes but not selling the winners; only about 4% of Buffett's 300-400 investments built Berkshire.",
+      "topic": "Compounding & long-term holding",
+      "detail": "Buffett says 12 investments over 60 years created Berkshire; what mattered was not selling Coke or Apple and keeping Greg Abel and Ajit Jain. Of his own bets (airports, coal, warehouses, Constellation) there is no way all work, but if 40-50% work it is a home run; investing is a forgiving business of favorable bets, and unlike basketball you keep getting better with age.",
+      "stocks_or_cases": [
+        "Warren Buffett",
+        "Berkshire Hathaway",
+        "Coca-Cola",
+        "Apple",
+        "Constellation Software"
+      ]
+    },
+    {
+      "idea": "Capitalism is brutal and almost every business eventually goes to zero, so investors should buy into existing, accidentally-built moats with staying power.",
+      "topic": "Moats & business quality",
+      "detail": "McDonald's started with no moat but now a highway sign pulls you 8 miles past Sean's Burger Shack; FICO is too entrenched to displace. Prime Istanbul warehouses are growing from quarter-million to million square feet because of e-commerce; airport operators and Coke bottlers will go on.",
+      "stocks_or_cases": [
+        "McDonald's",
+        "FICO",
+        "Reysas"
+      ]
+    },
+    {
+      "idea": "For AI, invest in the pickaxe makers, but he owns none because they are too hard, outside his circle or too expensive.",
+      "topic": "Markets, cycles & macro",
+      "detail": "Alphabet and Meta are playing an unfamiliar high-CapEx game that may or may not work, but they all must pass through toll bridges like TSMC, ASML and probably Micron. If he is not making a bet, it does not matter whether he is right or wrong.",
+      "stocks_or_cases": [
+        "TSMC",
+        "ASML",
+        "Micron",
+        "Alphabet",
+        "Meta"
+      ]
+    },
+    {
+      "idea": "The market is wrong that AI kills software incumbents: coding is at most a fifth of the software pie, and incumbents will cut costs so cash flows do not fall even if prices are cut.",
+      "topic": "Moats & business quality",
+      "detail": "'Betsy in HR' firing up AI to replace Workday is a pipe dream; Adobe does not go out of business because code is cheap. Microsoft and Adobe are laying off staff; 'if you drop the price in half and the cash flow is not going down, where do I sign?'",
+      "stocks_or_cases": [
+        "Adobe",
+        "Workday",
+        "Microsoft"
+      ]
+    },
+    {
+      "idea": "He invested in Constellation Software only because of Mark Leonard's uncloneable acquisition engine, which reinvests cash at ~25% into tiny vertical-market software companies.",
+      "topic": "Management & capital allocation",
+      "detail": "Constellation contacts 70,000-100,000 private VMS companies four times a year, bought ~200 companies last year and over 1,000 total without bankers, paying 5-6x cash flow that becomes 3-4x after 20% license-fee bumps and best practices; deals under $20 million need no HQ approval. A mousetrap growing cash flow 20-25% deserves 40-50x but fell to a teen multiple; private equity ignores such itty-bitty buy-and-hold deals, so there is only one Constellation though the market could support three or four.",
+      "stocks_or_cases": [
+        "Constellation Software",
+        "Mark Leonard",
+        "Berkshire Hathaway"
+      ]
+    },
+    {
+      "idea": "Do not die at 25 and get buried at 75: keep growing and making bets as if you were 25, as Munger did, buying a stock six days before he died at 99.9.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Ben Franklin's quote; Munger ignored his mortality when making decisions. Gandhi: 'live as if you were to die tomorrow, learn as if you were to live forever.' Deferring life for a McKinsey stint is, per Buffett, like saving sex for old age. Ken Griffin rejected a recruit who would quit after making $10 million because 'we do not want someone who dies at 25'.",
+      "stocks_or_cases": [
+        "Charlie Munger",
+        "Ben Franklin",
+        "Gandhi",
+        "Ken Griffin"
+      ]
+    },
+    {
+      "idea": "The most important thing in life is not being a great investor but leading an aligned life: discovering your calling, which is hardcoded by age five, and getting your music out.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "He found his calling at 34-35 through industrial psychologists (Jack Skeen), having wandered 'in the wilderness' before that; the shortcut is psychological testing, otherwise track what energizes you. The brain is set to specialize from 11 to 20, exactly when school makes you a jack of all trades; Gates got 20,000 coding hours by his early 20s, and a parent's job is to maximize time on what an 11-12 year old is good at.",
+      "stocks_or_cases": [
+        "Jack Skeen",
+        "Bill Gates",
+        "Guy Spier"
+      ]
+    }
+  ]
+}

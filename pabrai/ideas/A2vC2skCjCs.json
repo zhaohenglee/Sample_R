@@ -1,0 +1,158 @@
+{
+  "video_id": "A2vC2skCjCs",
+  "date": "2023-12-25",
+  "title": "Mohnish Pabrai's Presentation and Q&A at FLAME University on December 25, 2023",
+  "summary": "Pabrai compares Varun Beverages (India) with Coca-Cola Icecek and Anadolu Efes (Turkey) to show how similar great bottling businesses trade at wildly different valuations, then recounts how he found Reysas and TAV Airports in Turkey. In the Q&A he covers position sizing, why he has no analysts, his Fiat Chrysler/Ferrari lesson on selling great businesses too early, his struggle to pay up for quality, and personal memories of Charlie Munger and Rick Guerin shortly after Munger's death.",
+  "ideas": [
+    {
+      "idea": "Use Munger-style inversion to sanity-check growth assumptions: Varun Beverages compounding volume at 15% forever implies 700 servings per capita in India, which no comparable country supports.",
+      "topic": "Valuation & margin of safety",
+      "detail": "Varun has ~900 million cases, $2B revenue, $250M net income and ~$16B market cap; his base case of 15% then 10% then 8% growth yields only ~1.3-3.2% annualized plus dividends. US is ~1,400 servings per capita, Saudi ~885, UK ~700, China ~337, while India is under 100 today.",
+      "stocks_or_cases": ["Varun Beverages", "PepsiCo", "Coca-Cola"]
+    },
+    {
+      "idea": "The same quality of bottling business can be bought at a P/E under 10 in Turkey versus a nosebleed multiple in India, so compare similar businesses across geographies.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "Coca-Cola Icecek has ~$4B revenue, ~$400M net income, ~$3.7B market cap, ~1.6 billion cases (twice Varun's volume) and 6-9% growth, with possible upside from Bangladesh. India trades above 25x trailing earnings versus Turkey at ~7x.",
+      "stocks_or_cases": ["Coca-Cola Icecek", "Varun Beverages", "Anadolu Efes"]
+    },
+    {
+      "idea": "Coca-Cola is a 140-year-old business that is still embryonic in many markets, not a mature one; the Uzbekistan bottler went from $15M to $80M net income in a year just by adding trucks and coolers.",
+      "topic": "Moats & business quality",
+      "detail": "Coke pushed CCI to buy the Soviet-style Uzbek bottler for ~$300M (about 20x a flat $15M income); analysts complained, but painting trucks red and placing one cooler per shop drove profits up fivefold before expanding the product range. Pakistan volumes went from 40M to 400M cases in 15 years.",
+      "stocks_or_cases": ["Coca-Cola Icecek", "Coca-Cola"]
+    },
+    {
+      "idea": "In a market with madness like Turkey, use one simple filter: buy the highest-quality business with the highest-quality management whatever the price, rather than the cheapest P/E.",
+      "topic": "Circle of competence & checklists",
+      "detail": "In India you must compromise on business, management or governance quality to get a normal multiple; in Turkey you don't have to. He tells his Ben Graham-disciple friend Hayder to choose the 3x P/E business with better management over the 2x one.",
+      "stocks_or_cases": ["Anadolu Efes", "Coca-Cola Icecek", "TAV Airports"]
+    },
+    {
+      "idea": "The market is a weighing machine in the long run: Reysas went from a $16M market cap to $500M in dollars in four years even as the lira collapsed from 5 to 29 per dollar.",
+      "topic": "Stock case studies",
+      "detail": "Reysas is Turkey's largest warehouse operator with 12 million sq ft, 99% leased on 10-year inflation-indexed or euro leases to Amazon, IKEA, Carrefour, Mercedes and Toyota; warehouses were worth ~$1B against $200M debt. He bought one-third of the company for $8M as Templeton dumped a 5% block on a blanket order to exit Turkey.",
+      "stocks_or_cases": ["Reysas", "Templeton"]
+    },
+    {
+      "idea": "Hard assets like land, steel and concrete are inflation-indexed, so a warehouse business can retain real value even when the currency is decimated.",
+      "topic": "Markets, cycles & macro",
+      "detail": "He assumed in 2018-2019 that the lira would be destroyed, but reasoned that Reysas's prime warehouses in a major city would reprice upward with rebuild costs and rents, which is exactly what happened.",
+      "stocks_or_cases": ["Reysas"]
+    },
+    {
+      "idea": "Selling a great business because it doubled is a mistake; his friend Hayder sold Reysas at a $40M market cap despite an $800M liquidation value because he is a 'one-bagger guy'.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "Pabrai sent him a bust of Charlie Munger to recite quotes before work each day; Hayder has since moved from selling at 2x to being willing to hold to 2.5x.",
+      "stocks_or_cases": ["Reysas", "Charlie Munger"]
+    },
+    {
+      "idea": "Turks treat the stock market like backgammon, pure gambling; the entire free float of most Turkish companies turns over in about nine trading days, which creates mispricings for patient outsiders.",
+      "topic": "Markets, cycles & macro",
+      "detail": "The typical local model is to buy at 10 a.m., close at 3 p.m. and make 10%. Since TAV trades in Istanbul and is handled by gamblers, its pricing makes his life easy.",
+      "stocks_or_cases": ["TAV Airports"]
+    },
+    {
+      "idea": "Great businesses bought at too high a price can produce zero returns for over a decade: Microsoft returned nothing from 1999 to 2015 and Coca-Cola nothing from 1998 to 2011.",
+      "topic": "Valuation & margin of safety",
+      "detail": "Microsoft in 1999 had $22B revenue, $8-9B net income, a $600B market cap and a trailing P/E above 70; 16 years later revenue was 4x and the market cap half. Coke traded at 62x in 1998 and doubled its business by 2011 with shrinking market cap. Buffett: you pay a very high price for a cheery consensus.",
+      "stocks_or_cases": ["Microsoft", "Coca-Cola", "Warren Buffett"]
+    },
+    {
+      "idea": "He runs Pabrai Funds without analysts because Buffett and Munger never had any, and because investing is not a team sport: the data set of 50,000 companies is too large for any team anyway, so you need hacks to shrink it.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "Buying only the top two or three holdings of 20 admired investors (via Value Investors Club, SumZero, Dataroma) trims the universe to ~60 companies; discarding those outside his circle of competence leaves 10-12, which one person can handle. His two staff do deep dives and find blind spots but are told not to generate ideas.",
+      "stocks_or_cases": ["Warren Buffett", "Charlie Munger", "Berkshire Hathaway"]
+    },
+    {
+      "idea": "Position sizing is simple: aim for a 10x10 portfolio with 10% bets, and never trim a position just because it has grown large.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "Reysas could only be a ~1% bet ($8M of $700M) because of its $16M market cap, but it is now ~40% of one fund (~$100M of $270M); he reminds investors quarterly that he will not trim while it sits at roughly one-third of intrinsic value and could be worth $4-5B in 5-10 years. Efes and TAV were large enough for full 10% positions.",
+      "stocks_or_cases": ["Reysas", "Anadolu Efes", "TAV Airports"]
+    },
+    {
+      "idea": "Airport concessions are generally poor businesses because competitive BOT auctions push prices above intrinsic value, but TAV's outright purchase of Almaty airport was an exception.",
+      "topic": "Stock case studies",
+      "detail": "TAV closed the Almaty deal in 2021 at a COVID-discounted price, 80% financed at 4% for 25 years with ~$100M equity; the airport should earn ~$200M a year after tax growing ~10%, versus TAV's $800M market cap. Duty-free is unregulated: the airport takes 40% of the price of a $100 bottle whose factory-gate cost is $25-30. All TAV revenue is in euros.",
+      "stocks_or_cases": ["TAV Airports", "GMR"]
+    },
+    {
+      "idea": "A declining population is a significant headwind, so in places like Japan or China favor businesses whose fortunes are tied to markets outside the country; India's rising population and per capita GDP are its trump card.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "He finds China much harder, took it off his radar during COVID when he couldn't travel, and notes Buffett's five Japanese trading company bets work because their assets are largely outside Japan.",
+      "stocks_or_cases": ["Warren Buffett"]
+    },
+    {
+      "idea": "Selling is much harder than buying, and if you own a great business with a big gain it is usually a mistake to sell on valuation alone; give it a lot of rope.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "Many of his biggest mistakes were money left on the table by selling good businesses that looked optically expensive. Varun has tailwinds because Pepsi loves them and will hand them more geographies.",
+      "stocks_or_cases": ["Varun Beverages"]
+    },
+    {
+      "idea": "A 50% error rate on what you buy is par for the course because you are forecasting a future with too many variables, and mistakes you cannot see yet are always sitting in the portfolio.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "His biggest recurring theme of losses is leverage: a subprime mortgage lender bought in early 2007 went to zero (a 10% bet) and a leveraged zinc producer transitioning plants went bankrupt (another 10% loss). Debt removes a business's anti-fragility, so he tries to avoid leveraged businesses.",
+      "stocks_or_cases": ["Horsehead Holdings"]
+    },
+    {
+      "idea": "In Turkey he filters out the 97-98% of businesses that high inflation would hurt within seconds, then hunts for the babies thrown out with the bathwater.",
+      "topic": "Circle of competence & checklists",
+      "detail": "TAV's euro revenue and lira wages meant inflation actually helped it; CCI had 60-70% of business outside Turkey and Coke can always reprice, so neither volumes nor margins dropped.",
+      "stocks_or_cases": ["TAV Airports", "Coca-Cola Icecek"]
+    },
+    {
+      "idea": "His Fiat Chrysler investment was a home run, but not appreciating the Ferrari brand inside it and selling early cost him more than $400M of additional gains.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "In 2013 Fiat Chrysler had a $5B market cap on $140B revenue and Sergio Marchionne guided to 2018 profits above the market cap; $70M grew to over $350M. The ~$16M Ferrari slice made $70-80M but would be worth over $500M today; Ferrari is like a factory that produces Picassos, with special editions selling out at 85-90% margins.",
+      "stocks_or_cases": ["Fiat Chrysler", "Ferrari", "Sergio Marchionne", "John Elkann"]
+    },
+    {
+      "idea": "Owning a great business at what looks like an overvalued price is not a problem; the one habit he still cannot fix is paying up for a great business in the first place.",
+      "topic": "Compounding & long-term holding",
+      "detail": "Nick Sleep's Amazon bet made the rest of his portfolio's mistakes irrelevant; a 5% position that becomes a 100-bagger swamps being wrong on the other 95%. Buffett said 12 decisions in 60 years created most of Berkshire's value, roughly one every five years, and Munger could never convince Buffett to buy Costco.",
+      "stocks_or_cases": ["Nick Sleep", "Amazon", "Costco", "Berkshire Hathaway"]
+    },
+    {
+      "idea": "In the US, losses come from your own mistakes rather than fraud, whereas in Turkey or China you must handicap governance, but judging people transcends borders.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "Per Buffett, a few people are clearly exceptional and a few clearly not, while most you cannot judge; the Anadolu family's reputation let AB InBev sell 50% of the Russian beer JV with nothing down.",
+      "stocks_or_cases": ["Anadolu Efes", "AB InBev", "Warren Buffett"]
+    },
+    {
+      "idea": "The Kelly formula does not belong in value investing because you never get to make a thousand bets with known odds; if he rewrote The Dhandho Investor he would remove it.",
+      "topic": "Valuation & margin of safety",
+      "detail": "John Burr Williams' intrinsic value definition is timeless, but the right approach is to never run a DCF and only act when the value is so obvious it needs no calculation, as with Reysas and TAV; Munger says he never saw Buffett run a DCF.",
+      "stocks_or_cases": ["Reysas", "TAV Airports", "Charlie Munger", "Warren Buffett"]
+    },
+    {
+      "idea": "When meeting a company for the first time, the only goal is to build a picture in your head of how the business works and whether it is easy for you to understand.",
+      "topic": "Circle of competence & checklists",
+      "detail": "For a Coke bottler you know the royalty, the capex, and that a strong brand creates pull once distribution exists, and there are bottler models worldwide showing what returns to expect.",
+      "stocks_or_cases": ["Coca-Cola Icecek"]
+    },
+    {
+      "idea": "Charlie Munger's greatest lesson was not what he said but how he lived: he never looked back, showed no self-pity through near-blindness and his wife's death, and just 'soldiered on' to the next problem.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "Over a 14-year friendship from 2009 they met for dinner 4-5 times a year and monthly bridge at the LA Country Club. Munger once called him to say he was beating himself up too much over the Horsehead loss: learn from losses, but do not learn too much, and move on. Their last dinner was a month before Munger died.",
+      "stocks_or_cases": ["Charlie Munger", "Horsehead Holdings", "Daily Journal", "Costco"]
+    },
+    {
+      "idea": "Leverage is how Rick Guerin, Buffett and Munger's third partner, got knocked out: margin calls in 1973-74 forced him to sell Berkshire to Buffett at $40 a share.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "Buffett told him that a slightly above-average investor can get rich over a lifetime without leverage and can never get hurt, but Rick never got to play out his hand. Guerin brought See's Candies and Blue Chip Stamps to Buffett and Munger, and the three of them operated in a no-competition era similar to Turkey today.",
+      "stocks_or_cases": ["Rick Guerin", "Berkshire Hathaway", "See's Candies", "Blue Chip Stamps"]
+    },
+    {
+      "idea": "Charity requires the opposite mindset from investing: per Buffett, you should swing for the fences and be willing to lose money, so Dakshana will put 5-10% of spending into the high-risk EMRS tribal school partnership.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "New EMRS schools take 3-4 years to open plus 5-6 years before a batch reaches 10th standard, so real results could take 20-25 years. On a 1-10 scale Navodaya management is a 7 and EMRS a 4, and tribals have seen no real per capita progress in 70 years.",
+      "stocks_or_cases": ["Dakshana Foundation", "Navodaya Vidyalaya", "EMRS"]
+    },
+    {
+      "idea": "Sugar and diabetes concerns have not hurt the cola businesses because Coke Zero and Pepsi Zero carry 3-4% higher margins at the same price and the companies have ~200 brands.",
+      "topic": "Moats & business quality",
+      "detail": "Bottlers told him sugar is a big portion of cost, so zero-sugar products are both healthier and more profitable; he concedes he has not studied the Zero-to-regular ratio in India.",
+      "stocks_or_cases": ["Coca-Cola", "PepsiCo"]
+    }
+  ]
+}

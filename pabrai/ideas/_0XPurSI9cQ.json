@@ -1,0 +1,228 @@
+{
+  "video_id": "_0XPurSI9cQ",
+  "date": "2019-02-21",
+  "title": "Mohnish Pabrai speaks at Trinity College Dublin - February 21, 2019",
+  "summary": "Pabrai opens with slides drawn from Maggie Mahar's book 'Bull' showing that markets worldwide alternate between roughly 17-year flat periods and boom periods driven by human fear and greed, and notes that Japan and Korea look cheap while the US is hard to buy in. The Q&A covers his mistakes with levered institutions, the Fidelity 'dead clients' study, Munger's Tenneco/Li Lu patience story, the Buffett-partnership zero-fee structure and why no one clones it, the low-risk/high-uncertainty framework (IPSCO, Rain Industries), Dakshana's measurable-only philanthropy, and his father's astrologer as a 'rope' for surviving drawdowns.",
+  "ideas": [
+    {
+      "idea": "The 9% long-run US equity return is a half-truth: markets go through roughly 17-year stretches of nothing followed by equally long spectacular runs, because 17 years is about the length of human memory.",
+      "topic": "Markets, cycles & macro",
+      "detail": "The Dow was about 870 in 1965 and again in 1981 while the economy grew a lot; from 1982 to 1999 it went from under 900 to over 12,000 (about 15% a year); from 2000 to 2012 it was flat again. Businessweek ran 'the death of equities' near the 1981 bottom, and extreme bearishness sets the foundation for a bull run.",
+      "stocks_or_cases": [
+        "Maggie Mahar",
+        "Bull"
+      ]
+    },
+    {
+      "idea": "Cycles of euphoria and pessimism will continue forever because markets are driven by humans who vacillate between fear and greed.",
+      "topic": "Markets, cycles & macro",
+      "detail": "The pattern is global, not limited to the Dow: the NASDAQ did 20% a year from 1980 to 2000, then fell 75% from 5,000 to 1,250 and took 16 years to recover even with Amazon, Apple and Netflix inside it. India's Sensex was flat for 12 years after the 1992 liberalization, and the German DAX was flat for the last 11 years.",
+      "stocks_or_cases": [
+        "NASDAQ",
+        "Sensex",
+        "DAX"
+      ]
+    },
+    {
+      "idea": "He pays no attention to macro because forecasting one business is hard enough and forecasting markets is nearly impossible, but it helps to know where you are in a cycle when things reach extremes.",
+      "topic": "Markets, cycles & macro",
+      "detail": "Markets only get to obvious extremes once every 15-20 years. Japan and Korea are clearly cheap; in the US he can't find much to buy, which means fully valued rather than necessarily overvalued since companies could grow into their prices.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Starting a fund in July 1999 at the peak of a bubble still worked because all the money was flowing into a small sliver of equities, leaving lots of opportunity in lesser-known names for anyone who didn't join the euphoria.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "NASDAQ peaked at just over 5,000 on March 9, 2000, the same day Berkshire Hathaway hit a multi-year low as people moved money from Berkshire to Pets.com. Pabrai Funds was up north of 70% in its first year and 15-20% or more annually for several years after with small capital.",
+      "stocks_or_cases": [
+        "Berkshire Hathaway",
+        "Pets.com",
+        "Pabrai Investment Funds"
+      ]
+    },
+    {
+      "idea": "It is not enough to buy great businesses; price matters, because a great business bought at 45 times earnings that de-rates to 15 times delivers terrible returns.",
+      "topic": "Valuation & margin of safety",
+      "detail": "Coca-Cola bought in 2000 at about 45x earnings returned roughly 2% a year through 2019 even though the business did well. Microsoft was earning about $10 billion on a $600 billion market cap in 2000, fell to under $200 billion, and produced almost no return until 2013-14; he told early Microsoft employees who became his investors to sell, and none did.",
+      "stocks_or_cases": [
+        "Coca-Cola",
+        "Microsoft"
+      ]
+    },
+    {
+      "idea": "Japan is among the cheapest equity markets in the world 29 years after its 1990 bubble, but its cash-rich balance sheets are an illusion because Japanese companies put shareholders last and will not release the cash.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "The Nikkei peaked at 40,000 in 1990 and sits at about half that in 2019; at the peak the Tokyo Imperial Palace was valued above all real estate in California. Many Japanese companies trade below net current assets, Ben Graham style, but the value can't be unlocked.",
+      "stocks_or_cases": [
+        "Nikkei"
+      ]
+    },
+    {
+      "idea": "South Korea is probably the most fertile hunting ground in the world: 30 years of incredible growth and the KOSPI went only from 1,000 to 2,000, with plenty of businesses at three times earnings.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "Since 1989 the KOSPI has compounded at a little over 2% a year despite the rise of Samsung and Hyundai. He has one Korean investment, is visiting Seoul and Busan next month, and says the impediments are language, culture and circle of competence; something like the Moody's of Korea would be easier to get his arms around.",
+      "stocks_or_cases": [
+        "KOSPI",
+        "Samsung",
+        "Hyundai"
+      ]
+    },
+    {
+      "idea": "His biggest recurring trouble area is levered institutions, where several picks went to zero, so he now tells himself to stay away even when they look good.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "He believes there is some mis-wiring in his brain that makes him miss the issues with leveraged companies, and the fix is to know where to hunt and where to avoid rather than try to get better at it.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Even the best analysts are wrong a third of the time, so keep the humility that at least 4 out of 10 decisions will be mistakes and focus on being right on the big ones.",
+      "topic": "Circle of competence & checklists",
+      "detail": "John Templeton said the best analyst is wrong one-third of the time; of the roughly 80 businesses Berkshire bought in 50 years, a third to 40% didn't work out, especially retailers and furniture and jewelry stores after Borsheims and Nebraska Furniture Mart, while Buffett's record in banks and levered institutions is nearly unblemished except Irish banks. Everyone has areas of competence and areas where they are not good.",
+      "stocks_or_cases": [
+        "John Templeton",
+        "Warren Buffett",
+        "Berkshire Hathaway",
+        "Borsheims",
+        "Nebraska Furniture Mart"
+      ]
+    },
+    {
+      "idea": "Extreme patience is the single most important trait, because real business change takes years while stock prices change by the second and activity tends to hurt you.",
+      "topic": "Psychology & temperament",
+      "detail": "A Fidelity study of self-directed accounts found the top 10% performers were overwhelmingly people who were dead or had forgotten they had the account. The two best performing criteria were being dead or having forgotten.",
+      "stocks_or_cases": [
+        "Fidelity"
+      ]
+    },
+    {
+      "idea": "Charlie Munger is the gold standard of patience: after 50 years and roughly 25,000 stock tips from Barron's he acted on one, Tenneco, in 2003 and turned $10 million into $80 million in three years, then gave it to Li Lu where it became about $800 million.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "Munger was 80 when he made the Tenneco bet; an 80x in 15-16 years would rank in the top 1% globally. The willingness to wait for a really fat pitch is the lesson.",
+      "stocks_or_cases": [
+        "Charlie Munger",
+        "Tenneco",
+        "Li Lu",
+        "Barron's"
+      ]
+    },
+    {
+      "idea": "The size of your circle of competence does not matter; staying inside it does, and any doubt about understanding a business means stay away.",
+      "topic": "Circle of competence & checklists",
+      "detail": "John Arrillaga became a Forbes 400 billionaire investing only in real estate within a mile of the Stanford campus. You don't need to know a lot of things to do well in investing.",
+      "stocks_or_cases": [
+        "John Arrillaga",
+        "Charlie Munger"
+      ]
+    },
+    {
+      "idea": "Choose your first jobs by the people you would work for and with, someone you like, admire and trust, not by the highest offer or the biggest brand name.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Compensation takes care of itself. Buffett says laying out a plan like three years of banking, then an MBA, then a business is like saving sex for old age; go directly at your goals.",
+      "stocks_or_cases": [
+        "Warren Buffett"
+      ]
+    },
+    {
+      "idea": "Cloning is an enormously powerful mental model, and because humans are genetically bad at cloning, a shameless cloner gets a huge advantage in life.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "In 1999 he photocopied pages of Roger Lowenstein's Buffett biography and told his lawyer to create that partnership structure. Dakshana and the Pabrai Funds fee structure are both clones he could never have invented. Young managers he advises to use zero fees and no team all nod and none of them do it.",
+      "stocks_or_cases": [
+        "Warren Buffett",
+        "Roger Lowenstein",
+        "Dakshana Foundation"
+      ]
+    },
+    {
+      "idea": "The Buffett-partnership 0/6/25 fee structure (no management fee, 6% hurdle, 25% of the excess) is both fairer to investors and a competitive advantage that almost no competitor will copy.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "On a 10% return the manager takes 1% versus 3.6% under 2-and-20; compounding at 9% versus 6.4% over 30 years produces an 80-90% difference in ending wealth. After one fund fell 70% in the financial crisis, he collected no fee from 2007 until 2017 and never considered resetting or renegotiating, which he calls unethical. Managing $500 million and returning 20% yields a fee of about $17 million with only half a million of expenses.",
+      "stocks_or_cases": [
+        "Warren Buffett",
+        "Pabrai Investment Funds"
+      ]
+    },
+    {
+      "idea": "Investment teams are an oxymoron: value investing is an individual pursuit, and 80% of the industry's participants subtract value, so the industry would be better if smaller.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "A 2-and-20 firm with $100 million has a guaranteed $2 million to fund payroll, whereas a zero-fee structure can produce years with no revenue at all. Pabrai Funds has no full-time employees other than him. John Bogle said in investing you get what you don't pay for.",
+      "stocks_or_cases": [
+        "John Bogle"
+      ]
+    },
+    {
+      "idea": "A genuinely good investor should already be wealthy by their forties from compounding small sums at 30-40%, and doesn't need a 1% management fee.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Munger asks why give money to a manager who isn't already wealthy. Pabrai's own $1 million from selling part of his business in 1994 grew to $12 million by 1999 at about 70% a year. A 1% fee on $2 million is $20,000, which pays for coffee but makes fundraising harder and puts you out of alignment with the universe.",
+      "stocks_or_cases": [
+        "Charlie Munger"
+      ]
+    },
+    {
+      "idea": "If you have the skills of a good investor you can generate your own capital with some chutzpah, as Li Lu and Desmond D'Souza did.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Li Lu arrived at Columbia with no English, did three degrees simultaneously, invested his student loans and graduated with about $250,000; Munger gave him money because 'there was nobody else'. Desmond D'Souza, a back-bencher from Pabrai's Dubai high school, bought a house near campus with his tuition money, rented it to 40 students, then flipped 20 foreclosed homes to Haitian contractors and was worth millions a few years after graduation without a job.",
+      "stocks_or_cases": [
+        "Li Lu",
+        "Charlie Munger",
+        "Desmond D'Souza"
+      ]
+    },
+    {
+      "idea": "Philanthropy is the opposite of entrepreneurship and value investing: you must swing for the fences and be willing to lose everything, because safe approaches to hard problems have already been tried and failed.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "Entrepreneurs minimize risk and hunt for offering gaps, while charities face five or six intractable problems governments have spent billions on. The Gates Foundation's vaccine moonshots mostly fail, but one polio or malaria success has a huge impact on humanity.",
+      "stocks_or_cases": [
+        "Gates Foundation"
+      ]
+    },
+    {
+      "idea": "Charities lack the brutal feedback loop of capitalism, so Dakshana inverted the problem and refuses to engage in any charitable activity that cannot be measured, throwing away 99% of possible activities.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "A billion-dollar foundation spending the legally required 5% a year never goes out of business no matter how bad its 'haircuts'. He tells Dakshana staff 'we are not a charity, we are a business' without a profit motive but with tight outcome measurement; the blankets-versus-housing homelessness example shows why most charity can't be measured.",
+      "stocks_or_cases": [
+        "Dakshana Foundation",
+        "Rockefeller Foundation",
+        "Ford Foundation"
+      ]
+    },
+    {
+      "idea": "Markets have an irrational expectation of smoothness and confuse risk with uncertainty, so businesses with low risk but high uncertainty get extreme valuations that an investor can exploit.",
+      "topic": "Valuation & margin of safety",
+      "detail": "Buffett bought the Washington Post at an $80 million market cap that fell to $60 million when private buyers would have paid $400 million; sellers agreed on the value but wouldn't tolerate near-term uncertainty. IPSCO around 2004 traded at $45 with no debt, $15 in cash and $15 a share of contracted after-tax earnings in each of the next two years; it went to $65, then near $90, and a Swedish firm bid $160 for it.",
+      "stocks_or_cases": [
+        "Washington Post",
+        "Warren Buffett",
+        "IPSCO"
+      ]
+    },
+    {
+      "idea": "Rain Industries in India was a $200 million market cap on $2 billion of revenue where the market gave no value to 90% of the assets; after two years of going straight down, earnings hit $200 million and the market cap went to $2 billion.",
+      "topic": "Stock case studies",
+      "detail": "Bought roughly four years before 2019, the stock fell to about $160 million market cap before the third-year earnings arrived; the position was 12x at the peak and about 2.5x after a subsequent earnings correction. Uncertainty lasting only six or nine months still gets punished by markets.",
+      "stocks_or_cases": [
+        "Rain Industries"
+      ]
+    },
+    {
+      "idea": "Everyone needs a 'rope' to climb out of the well of a deep drawdown; it is a mistake to sell things just because they became cheaper unless you are convinced the value is below the price.",
+      "topic": "Psychology & temperament",
+      "detail": "His bankrupt father paid an astrologer for rosy forecasts as a rope. Down 70% in the financial crisis, Pabrai broke his own 'thou shalt not use Excel' rule to build a spreadsheet of his portfolio at much higher 2009-2011 prices, and that was his rope. Otherwise be like the Fidelity dead clients and do nothing.",
+      "stocks_or_cases": [
+        "Fidelity"
+      ]
+    },
+    {
+      "idea": "He has not found a US stock to buy in four years except one, and his portfolio has shifted to India and other geographies purely bottom-up, not from a macro view.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "He used to be 100% US; he holds less than 10% cash; he thinks the US is fully priced or possibly overpriced but could grow into it, and India investments of the last few years were better than anything available in the US.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Keep an empty calendar with no meetings, take an afternoon nap, and leave large chunks of every day for reading widely; finding two or three ideas a year is doing well.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "He has a nap room off his office and picked up the empty-calendar habit from Warren and Charlie; a podcast request gets scheduled in whatever week has nothing on the calendar.",
+      "stocks_or_cases": [
+        "Warren Buffett",
+        "Charlie Munger"
+      ]
+    }
+  ]
+}

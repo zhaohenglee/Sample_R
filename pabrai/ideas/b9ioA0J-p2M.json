@@ -1,0 +1,128 @@
+{
+  "video_id": "b9ioA0J-p2M",
+  "date": "2022-01-05",
+  "title": "Mohnish Pabrai's Interview with The Wall Street Lab Podcast on January 5, 2022",
+  "summary": "Pabrai explains the Dhandho (low-risk, high-return) approach via the Patel motel story and recounts his own evolution: a Munger-style compounder investor in 1994-99, a Graham deep-value investor from 1999 to 2020, and a return to great compounders after reading about Nick Sleep in William Green's book. He discusses durable moats, his two big mistakes (not paying up and not holding), Ferrari and Moutai as businesses he sold too early, why venture capital is harder than public markets, Micron as his largest position, the 'be like Puddy' patience lesson, and how a 360 analysis at 34 revealed his single-player-game wiring.",
+  "ideas": [
+    {
+      "idea": "Dhandho means smartly doing business so that risk is lowered and return is high; entrepreneurs like the Patels minimize downside rather than take big risks.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Non-venture startups (99.99% of all startups) structure things so downside is limited and upside asymmetric; the Patels entered motels with tiny capital outlays, leveraged the cash flows and now own 70-80% of US motels. The same approach was used by Graham, Buffett and Munger.",
+      "stocks_or_cases": ["Patels", "Ben Graham", "Warren Buffett", "Charlie Munger"]
+    },
+    {
+      "idea": "He started in 1994 as a Munger-style compounder investor, switched to Graham deep value in 1999 because of the dotcom bubble, and stayed on that path nearly 20 years too long.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "The day the NASDAQ peaked in March 2000 Berkshire hit a multi-year low as money moved into pets.com; he was buying funeral homes and compounded at mid-30s percent a year from 1999-2000 to 2007 while the S&P did low single digits. The ideal time to switch back to compounders was 2009-2012; reading about Nick Sleep and Zak in William Green's book in 2020 finally triggered the switch.",
+      "stocks_or_cases": ["Berkshire Hathaway", "pets.com", "Nick Sleep", "William Green"]
+    },
+    {
+      "idea": "The best place to invest is a great growing business, but buying at 80 times earnings is not a way to get rich; every business has a value and you buy well below it.",
+      "topic": "Valuation & margin of safety",
+      "detail": "He is resetting his frameworks toward compounders while remaining careful about price.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Enduring, durable moats are rare in capitalism and almost happen by accident; he wants durability of growth plus a great price, which lines up only a couple of times a year.",
+      "topic": "Moats & business quality",
+      "detail": "Most startups disappear in 5-10 years and few survive 20-30. American Express, Visa and MasterCard have produced great returns on capital for decades; Costco and Amazon are almost bulletproof. When the 'seven moons' of growth, durability and price line up, invest; a couple of finds a year is doing well.",
+      "stocks_or_cases": ["American Express", "Visa", "MasterCard", "Costco", "Amazon"]
+    },
+    {
+      "idea": "He looks at hundreds of businesses a year but spends under five minutes on most, discarding anything outside his circle such as pharma, healthcare and health insurance.",
+      "topic": "Circle of competence & checklists",
+      "detail": "US healthcare and health insurers do not operate under market forces; it becomes obvious quickly when there is no moat, no growth or no durability.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "There are no called strikes in investing: you pay a penalty only for bets that fail, never for passing on Amazon at $10.",
+      "topic": "Circle of competence & checklists",
+      "detail": "Buffett's baseball analogy; you can be sloppy about what you let go, and he has let many awesome businesses go because he could not see them.",
+      "stocks_or_cases": ["Amazon", "pets.com", "Warren Buffett"]
+    },
+    {
+      "idea": "Funeral services at a PE of 2 was a great business with a bad capital structure: stable, protected, tradition-bound recurring demand where nobody shops for the low bid.",
+      "topic": "Stock case studies",
+      "detail": "About 20 years ago he spotted two funeral companies at a PE of 2 on the Value Line lowest-PE list; a 25-30-year-old roll-up had over-leveraged them. The question was whether they could withstand the debt, and the investment worked well.",
+      "stocks_or_cases": ["Value Line", "funeral services companies"]
+    },
+    {
+      "idea": "Fiat Chrysler in 2012 traded at 3-4% of revenue ($140 billion revenue, $5 billion market cap) after the 2009 crisis had removed much of what people hated about autos.",
+      "topic": "Stock case studies",
+      "detail": "He first looked at GM because a couple of investors had bought it, then found Fiat Chrysler. Had he done nothing it would have been a 12x in 10 years, but Sergio Marchionne's death left him without a paddle and he sold.",
+      "stocks_or_cases": ["Fiat Chrysler", "GM", "Sergio Marchionne"]
+    },
+    {
+      "idea": "Starbucks and Chipotle are incredible businesses he understood for 20 years but never bought because they looked expensive.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "A US Starbucks store pays back in 18-24 months and an international one in a year; opening a second and third store diagonally across a New York intersection did not dent the original's sales because demand is convenience-driven.",
+      "stocks_or_cases": ["Starbucks", "Chipotle"]
+    },
+    {
+      "idea": "His two big mistakes are being too cheap to pay up for great businesses and being too cheap to keep holding them after they re-rate.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "Some businesses looked optically overpriced at 30-40 times earnings and still did well; others bought at 10 times were sold at 20-30 times and kept going. He hammers into his head daily that capitalism is brutal and if you own a truly exceptional business, do not worry about valuation.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Ferrari, obtained at about $13 a share inside Fiat Chrysler in 2012, went to about $270 (20x) and he sold at $60, $100 and $130 because a 40-times IPO multiple was above his pay grade.",
+      "topic": "Stock case studies",
+      "detail": "Ferrari can earn whatever net income it decides and has never spent a dollar on advertising in 70-plus years since 1950, unlike any other top-10 brand such as Coke. He only understood the business after buying a Ferrari car, post-sale, and buying back higher is too painful for his brain.",
+      "stocks_or_cases": ["Ferrari", "Fiat Chrysler", "Coca-Cola"]
+    },
+    {
+      "idea": "Moutai, bought when the stock tanked during China's corruption crackdown, is the world's most valuable liquor company at about $700 billion with under $3 cost per bottle selling for $1,200-5,000.",
+      "topic": "Stock case studies",
+      "detail": "80-90% of Moutai sold in China is counterfeit and special editions at 40,000-70,000 sell out in 15 minutes; he sold it too early. Officials photographed with Moutai on the table ended their careers, which is why sales collapsed and he bought.",
+      "stocks_or_cases": ["Moutai"]
+    },
+    {
+      "idea": "China will keep rising because naturally entrepreneurial people were artificially kept in a non-capitalist system and the genie is out of the bottle.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "Chinese per capita GDP will double, triple or quadruple over coming decades, and hundreds of millions of newly rich people have few ways to express wealth, as LVMH's Chinese-origin sales show.",
+      "stocks_or_cases": ["Moutai", "LVMH"]
+    },
+    {
+      "idea": "Venture capital is a much harder game than public markets because deal flow depends on brand and there are no track records to judge.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Top and bottom quartile bond managers differ by basis points, but Sequoia has been top 3-5% for decades and VCs say Sequoia's rejects would triple returns; a no-name VC is the 301st person to see a deal. Public businesses like Starbucks, Chipotle, Moutai and Ferrari have history; in VC you cannot tell Theranos from Apple since both wore turtlenecks.",
+      "stocks_or_cases": ["Sequoia", "Andreessen Horowitz", "Y Combinator", "Theranos", "Apple"]
+    },
+    {
+      "idea": "Value investors have no information edge, only an analytics edge.",
+      "topic": "Circle of competence & checklists",
+      "detail": "He had no inside knowledge of funeral businesses; the edge was concluding it was a great business with a bad capital structure and doing the work to see it could transcend it.",
+      "stocks_or_cases": ["funeral services companies"]
+    },
+    {
+      "idea": "Micron is his largest position because the memory industry consolidated to three rational players, a change the market refused to believe after decades of boom and bust.",
+      "topic": "Stock case studies",
+      "detail": "About 30% of the cost of an Amazon data center goes to memory makers, a 30% tax on streaming and e-commerce that he is collecting. His thesis dates from three or four years earlier; the industry changes rapidly but he likes the upside-downside.",
+      "stocks_or_cases": ["Micron", "Amazon", "Nvidia"]
+    },
+    {
+      "idea": "Be like Puddy from Seinfeld: the biggest mistake investors make is being too active, and inaction is a tremendous skill.",
+      "topic": "Psychology & temperament",
+      "detail": "Getting Guy Spier to trade anything is like a root canal; he focuses on extreme durability and refuses swaps. Valuations can take many years to reflect reality, completely out of sync with watching a screen.",
+      "stocks_or_cases": ["Guy Spier", "Fiat Chrysler"]
+    },
+    {
+      "idea": "To find investors worth cloning, use DataRoma and follow people like Josh Tarasoff and Rob Vinall of RV Capital.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "He found GM by seeing that a couple of investors had bought it.",
+      "stocks_or_cases": ["DataRoma", "Josh Tarasoff", "Rob Vinall", "RV Capital", "GM"]
+    },
+    {
+      "idea": "Your deepest desire is your destiny: if you truly put everything into a wish and a will, it will happen.",
+      "topic": "Psychology & temperament",
+      "detail": "From the Upanishads, written 2,500-3,000 years ago. Buffett at 24 told his wife he wanted to be the wealthiest person; Bill Gates wanted a desktop on every desk.",
+      "stocks_or_cases": ["Upanishads", "Warren Buffett", "Bill Gates"]
+    },
+    {
+      "idea": "He wandered aimlessly until 34, when a 360 analysis by industrial psychologists at a YPO retreat gave him an 'owner's manual' showing he is a single-player game player who needs an edge.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "He loved his company at one person and hated it at 170 people running HR and politics; they told him to sell or hire a CEO, and within six months he was gone and starting Pabrai Funds, which they said was perfect. One psychologist, Dr. Jack Skeen, became an early investor and has a 16x so far. Myers-Briggs is the poor man's version.",
+      "stocks_or_cases": ["Jack Skeen", "YPO", "Pabrai Funds"]
+    }
+  ]
+}

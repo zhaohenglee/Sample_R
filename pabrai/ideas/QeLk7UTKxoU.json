@@ -1,0 +1,80 @@
+{
+  "video_id": "QeLk7UTKxoU",
+  "date": "2013-11-09",
+  "title": "Mohnish Pabrai’s keynote address at TiECON Southwest on November 9, 2013",
+  "summary": "A short keynote to Indian-American entrepreneurs with two themes: start your business as a second job while keeping your paycheck and never chase venture capital, as he did in 1990 with Visa and MasterCard as his only 'VCs'; and, once wealthy, recycle the money back to society by running philanthropy like a business. He describes founding Dakshana in 2007 with 2% of net worth a year, cloning Anand Kumar's Super 30 model, and getting 457 impoverished kids into the IITs at a 44% acceptance rate versus the IITs' 2%.",
+  "ideas": [
+    {
+      "idea": "Humans are driven by peers, so Indians need to know the stories of Indian entrepreneurs like Vinod Khosla, Bharat Desai, Prem Watsa and every Patel motel owner, not just Gates, Jobs and Walton, because their path creates the path for us.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "He credits TiE with lighting that path 'with a million floodlights' by bringing these stories to the community.",
+      "stocks_or_cases": ["Vinod Khosla", "Sabeer Bhatia", "Desh Deshpande", "Kanwal Rekhi", "Bharat Desai", "Prem Watsa", "TiE"]
+    },
+    {
+      "idea": "Venture-backed startups are less than 0.1% of the million-plus new US businesses each year, an anomaly that can safely be ignored; you do not need money or VCs to get a business off the ground.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Most of the successful entrepreneurs he named never wrote a formal business plan or chased venture capitalists.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "The secret is to keep your full-time job and use the other 40-50 hours in a 168-hour week to build your startup as a second job, so there is no pressure and the rent stays current.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "In 1990 at age 25 with no money he worked one or two hours before work and until midnight after, plus weekends, eating a Subway sandwich every night; after 10 months he had two clients and resigned. The fatal mistake is to quit, live off savings and chase VCs.",
+      "stocks_or_cases": ["TransTech"]
+    },
+    {
+      "idea": "His two venture capitalists were Visa and MasterCard, which backed him with $70,000, took no board seats, gave no advice and took no equity.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "A year after quitting he replaced the credit cards with a low-cost bank line of credit, and four years later the company was recognized as an Inc 500 fastest-growing business. His old boss offered him his job back at higher pay if the business failed.",
+      "stocks_or_cases": ["Visa", "MasterCard"]
+    },
+    {
+      "idea": "Passing on a large inheritance is a burden, not a gift, so the only logical thing to do with wealth beyond what you can consume is to efficiently recycle it back to society.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "Cites Buffett: give kids enough to do anything they want but not enough to do nothing. His children had zero interest in the money, and because he compounds money for a living the numbers would only grow.",
+      "stocks_or_cases": ["Warren Buffett"]
+    },
+    {
+      "idea": "Most charities are all heart and no head, run by people who have never met a payroll; non-profits should be run by businessmen with great hearts and narrowed to one or two causes with the highest social return on invested capital.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "Reading many charity annual reports he found not one discussed failures or lessons learned; they were marketing machines focused on maximizing dollars, doing good work inefficiently. There is no difference between running a for-profit and a non-profit.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "When net worth crossed $50 million in 2007, he and Harina committed 2% of net worth every year, at least $1 million, to the Dakshana Foundation to test these ideas in the real world.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "The focus chosen was education toward the alleviation of poverty: teach fishing rather than give fish, then decide what kind of fishermen to create.",
+      "stocks_or_cases": ["Dakshana Foundation"]
+    },
+    {
+      "idea": "Dakshana is a scaled clone of Anand Kumar's Super 30 in Bihar, which took 30 ultra-poor, super-smart kids a year and got 80-100% of them into the IITs for free.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "Anand refused Dakshana's funding and had no interest in scaling, but strongly endorsed Pabrai copying the model on his own and offered to help.",
+      "stocks_or_cases": ["Anand Kumar", "Super 30", "Dakshana Foundation"]
+    },
+    {
+      "idea": "From a standing start in 2007, Dakshana sent 457 impoverished kids to the IITs out of 1,033 taken on, a 44% acceptance rate against the IITs' typical 2%.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "Most parents were illiterate manual laborers or marginal farmers. Dakshana took 434 new scholars in 2013, hoped for 1,000 the next year, and had a stretch goal of sending 2,020 kids to the IITs in 2020, which would make one in seven IIT students the child of a poor farmer or laborer.",
+      "stocks_or_cases": ["Dakshana Foundation"]
+    },
+    {
+      "idea": "Dakshana deliberately rejects hires with non-profit or education-sector experience because they carry stupid ideas that take a long time to deprogram; a blank slate works better.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "None of his senior management had ever worked at a non-profit or in education.",
+      "stocks_or_cases": ["Dakshana Foundation"]
+    },
+    {
+      "idea": "The Dakshana journey has added a dimension to his life he clings to, and he is gradually giving up baggage about creature comforts like one-star hotels, mosquitoes and dirty toilets in rural India.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "On his first 2007 trip to Bihar, then the 'kidnapping capital of India', he took two armed guards. The discomforts still bother him but less than six years earlier; the journey is the destination.",
+      "stocks_or_cases": ["Dakshana Foundation"]
+    },
+    {
+      "idea": "If you are procrastinating on a startup, get going, and along the way help a few less fortunate humans; you can't change the world but you can change it for one, ten or a few thousand people.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "He closes with Robert Frost's road less travelled and recommends the book 'The Billionaire's Apprentice' as one of the best he read that year.",
+      "stocks_or_cases": ["The Billionaire's Apprentice"]
+    }
+  ]
+}

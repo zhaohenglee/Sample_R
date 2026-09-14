@@ -1,0 +1,231 @@
+{
+  "video_id": "_1aGen3q2_g",
+  "date": "2017-11-30",
+  "title": "Mohnish Pabrai Lecture at Boston College (Carroll School of Mgmt) - Nov 30, 2017",
+  "summary": "Pabrai's seventh annual lecture to Arvind Navaratnam's Boston College class is built around the theme 'take a simple idea and take it seriously', using the young Warren Buffett (the $1,000 book, the Wilson Coin Operated Company) and the Manhattan-for-$24 story to teach the three variables of compounding: starting capital, rate and runway. The Q&A covers his zero-management-fee, no-analyst structure as a moat, his pivot to India (45% of the portfolio, a 9x Indian stock), why he won't trim winners, his retraction of the Kelly Formula, ignoring macro, Stewart Enterprises at 2x earnings, commodity moats, Munger's two-step 80x, and Dakshana.",
+  "ideas": [
+    {
+      "idea": "Extreme success usually comes from taking a simple idea and pursuing it with fanatical intensity, not from high-horsepower ideas.",
+      "topic": "Psychology & temperament",
+      "detail": "He opens and closes with the Einstein-attributed quote 'take a simple idea and take it seriously'; Buffett got rich on commonly known facts and commonly known math, applied obsessively from age 11 to 87.",
+      "stocks_or_cases": [
+        "Warren Buffett"
+      ]
+    },
+    {
+      "idea": "Compounding has three variables - starting capital, rate of compounding and length of runway - and you must become fluent in doing this math in your head.",
+      "topic": "Compounding & long-term holding",
+      "detail": "Rule of 72: 7% doubles in 10 years, 10% in 7 years; ten doubles is 2^10 = 1024, roughly 1,000x. Buffett still does all his compounding math in his head with no computer in his office. $24 for Manhattan in 1626 compounding at 7% would be about $13 trillion by 2016 - the Native Americans just had an incompetent investment officer.",
+      "stocks_or_cases": [
+        "Warren Buffett",
+        "Buffett Partnership"
+      ]
+    },
+    {
+      "idea": "Buffett's teenage Wilson Coin Operated Company is one of the most important business lessons: a capital-light business with return on capital higher than almost any American business.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "In 1941 the 11-year-old Buffett read '1000 Ways to Make $1000' and declared he'd be a millionaire by 35 - he needed seed capital for his compounding engine. Buffett and Don Danley bought broken pinball machines for $15-30, fixed them, placed them free in DC barbershops with a 50/50 split; a $25 machine returned $2.50 a week. By 16-17 Buffett had about $9,000 saved and told his father to give his college money to his sisters.",
+      "stocks_or_cases": [
+        "Warren Buffett",
+        "Don Danley",
+        "Wilson Coin Operated Company"
+      ]
+    },
+    {
+      "idea": "Because compounding is geometric, the vast majority of wealth arrives late - so maximize your runway and compound until one day before dying.",
+      "topic": "Compounding & long-term holding",
+      "detail": "Buffett's net worth was under $30 million at 40 and about $300-400 million at 50; 99 and two-thirds percent of it came after age 50. Buffett's only wish is that people say 'man, he was old' when they look at his corpse, and he checked life-expectancy tables from age 16.",
+      "stocks_or_cases": [
+        "Warren Buffett"
+      ]
+    },
+    {
+      "idea": "Young people have lost runway, so they must compensate with a high savings rate and by building starting capital quickly.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "A 26-year-old has maybe 64 years of runway; he tells students to do a net-worth analysis and study Mr. Money Mustache, who retired at 28-29 by extreme frugality. His daughter's $5,000 IRA at 18 compounding at 15% for 50 years becomes $5 million, so a low-paid internship cost her '$3-4 million', not $3-4 thousand.",
+      "stocks_or_cases": [
+        "Mr. Money Mustache"
+      ]
+    },
+    {
+      "idea": "His 'COMLB 26' license plate is a mantra: compound $1 million at 26% (doubling every 3 years) for 30 years and it becomes $1 billion.",
+      "topic": "Compounding & long-term holding",
+      "detail": "After selling his IT company in 1994 at age 30 he had about $1 million; from 1995-2000 he compounded north of 70% a year (10x in five years), and Pabrai Funds did about 36% gross from 1999-2007 before losing two-thirds in the financial crisis and recovering from 2009.",
+      "stocks_or_cases": [
+        "Pabrai Investment Funds",
+        "Warren Buffett"
+      ]
+    },
+    {
+      "idea": "Mindlessly cloning the Buffett Partnership's fee structure - zero management fee, 6% hurdle, 25% above it - created a moat competitors cannot cross.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "Started in 1999 with $1 million from eight friends using rules copied from Lowenstein's biography; at $840 million a 1-and-20 shop would collect $8.4 million 'just for breathing'. A manager earning 10% with 2-and-20 fees leaves 6.4%, so 36% of returns vanish in friction, which is why most active managers trail the S&P.",
+      "stocks_or_cases": [
+        "Pabrai Investment Funds",
+        "Buffett Partnership",
+        "Warren Buffett"
+      ]
+    },
+    {
+      "idea": "A team in an investment operation is an oxymoron: you cannot delegate any part of the investment process, so he runs $840 million with no analysts and no full-time employees.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "Total payroll for part-time admins is under $150-200k a year. If he had 10 high-IQ analysts presenting three great-looking ideas a week, he is almost sure results would be worse.",
+      "stocks_or_cases": [
+        "Pabrai Investment Funds"
+      ]
+    },
+    {
+      "idea": "The key to doing well in investing is inactivity; the single biggest mistake he has made historically is being too active.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "Small team size is an advantage because it takes longer to get through ideas, which reduces activity. Being a part-time investor (as he was from 1995-99, and as his oncologist friend is) is an advantage because there is less reason to act.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "It doesn't matter how good a fisherman you are if you're not fishing where the fish are - so he pivoted from the US to India, which went from 0% to 45% of the portfolio in three years.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "For nearly two years he has found little to buy at half-off in the US; US-domiciled companies are now under 13% of the $840 million portfolio. US listed companies have fallen from about 8,000 to under 3,700 while the brain cells picking through them keep rising, producing pricing to perfection. The one recent US anomaly was the airlines, bought 14-15 months earlier, a quarter before Berkshire.",
+      "stocks_or_cases": [
+        "Pabrai Investment Funds",
+        "Airlines",
+        "Berkshire Hathaway"
+      ]
+    },
+    {
+      "idea": "His India process is to fly in every six to eight weeks and meet 10-15 companies a week regardless of industry, earnings or multiple, purely to learn.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "Being Indian, knowing the language and running a foundation there are natural advantages, and an outsider's bird's-eye view plus decades of mental models lets him see mispricings locals miss. India is 'fish in a barrel' even if the water hasn't been drained.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Don't cut the flowers and water the weeds: he will not trim a winner just because it has become 35-40% of a fund.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "PIF3 (about $240 million) has roughly $90 million in one Indian company that went about 9x from under $11 million invested 30 months earlier, plus about $45 million in Fiat; two stocks are $135 million. He expected 5-10x in five years in 2015 and is approaching 10x in 2.5 years. A 20% drop 'bounces off'; only at 60% would he even think about it. You really learn a business only after you own it; his understanding has gone up 3-4x since purchase, revealing better management and a wider moat than he thought.",
+      "stocks_or_cases": [
+        "Rain Industries",
+        "Fiat Chrysler",
+        "PIF3"
+      ]
+    },
+    {
+      "idea": "The Kelly Formula section of The Dhandho Investor was a mistake and should be ignored, because Kelly only works with a huge number of repeated bets with known odds.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "In the stock market you rarely get repeated bets with well-known odds. He has never put more than 10% of assets into a single stock at purchase and prefers a '10 by 10' portfolio; research shows going from 10-15 stocks to 40 adds little diversification but costs a lot of performance.",
+      "stocks_or_cases": [
+        "The Dhandho Investor"
+      ]
+    },
+    {
+      "idea": "The commandments of Buffett, Munger and Graham are: thou shall not fixate on macro, forecast recessions, short anything, or hedge.",
+      "topic": "Markets, cycles & macro",
+      "detail": "Asked about a flat yield curve and Black Swan positions, he says it is hard enough to figure out one business over two or three years; instead find long positions where the economy is irrelevant.",
+      "stocks_or_cases": [
+        "Warren Buffett",
+        "Charlie Munger",
+        "Ben Graham"
+      ]
+    },
+    {
+      "idea": "Stewart Enterprises at a P/E of 2 in 2002 shows you can find recession-proof bets: you earn the whole price back in two years as long as humans keep dying.",
+      "topic": "Stock case studies",
+      "detail": "Found on Value Line's lowest-P/E list; funeral homes have recurring franchise-like demand, no price shopping, and no HBS grads rushing in to compete. Yet the stock fell with everything after 9/11 when its prospects if anything improved - proof that auction-driven markets are inefficient. Service Corp later traded at $37 and 15-17x earnings.",
+      "stocks_or_cases": [
+        "Stewart Enterprises",
+        "Service Corp International",
+        "Value Line",
+        "United Airlines"
+      ]
+    },
+    {
+      "idea": "Auction-driven markets swing far wider than intrinsic value, which is why a stock-picker can beat passive investing and why more indexing is good news for stock pickers.",
+      "topic": "Markets, cycles & macro",
+      "detail": "A Boston townhouse appraised daily by a sensible realtor would range 5% in a year, but listed on the NYSE it would trade from $700k to $1.3 million. Markets paint with a wide brush - a company like Axalta gets 'taken out back and shot' for one bad quarter. 'The more drones in the market, the better off we are.'",
+      "stocks_or_cases": [
+        "Axalta",
+        "Amazon"
+      ]
+    },
+    {
+      "idea": "Only invest in businesses you can explain to a five-year-old in two minutes; take a pass on anything like Amazon whose cash flows to 2045 nobody can estimate.",
+      "topic": "Circle of competence & checklists",
+      "detail": "The market prices Amazon to the penny, yet the odds it has precisely figured out cash flows from 2018 to 2045 are as close to zero as imaginable; even Bezos doesn't know them.",
+      "stocks_or_cases": [
+        "Amazon",
+        "Jeff Bezos"
+      ]
+    },
+    {
+      "idea": "The best source of ideas in recent years has been unsolicited emails from 'Joe Public', not analysts.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "His 9x Indian stock came from an elegant analysis emailed by Parry Pasricha, whom he has never met, producing about $170 million in gains so far. He reads printed emails for 15 minutes a day at 11am; Value Investors Club and SumZero are other sources.",
+      "stocks_or_cases": [
+        "Rain Industries",
+        "Parry Pasricha",
+        "Value Investors Club",
+        "SumZero"
+      ]
+    },
+    {
+      "idea": "Managers should ignore redemptions, volatility and cash drag and focus on doing the best job; he has never been concerned about LPs leaving.",
+      "topic": "Psychology & temperament",
+      "detail": "Only twice in 18 years has he called an investor to discourage a redemption (both institutions, both left anyway). If every LP left he would happily compound his own capital. Sitting on cash after raising the new India Focus Fund is irrelevant - it can take three to five years to put a fortune to work in stocks.",
+      "stocks_or_cases": [
+        "Pabrai Investment Funds",
+        "India Focus Fund"
+      ]
+    },
+    {
+      "idea": "Buying an insurance company for its float was a mistake; the delusions about the wonders of float have been washed away.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "He bought the insurer about three years earlier, found it a difficult business, and has agreed to sell it; he won't enter insurance again in this lifetime but would enter funeral services at one times earnings.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Having run a business, at any scale, is a huge advantage for evaluating businesses - especially if you do it between ages 11 and 21 and especially if it fails.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Buffett's line: it's like explaining to a fish what it is to walk on land. The brain specializes in the teen window (Gates, Buffett, da Vinci all had formative experiences then); meeting payroll and negotiating a lease teach enormously, and failure makes the learning exponential.",
+      "stocks_or_cases": [
+        "Warren Buffett",
+        "Bill Gates"
+      ]
+    },
+    {
+      "idea": "Commodity businesses can have moats: the lowest-cost producer with no leverage, bought at a low valuation, is money in the bank.",
+      "topic": "Moats & business quality",
+      "detail": "Saudi oil at $2 a barrel sold at $60, or Pilbara iron ore scooped from the surface, are great businesses; avoid high-cost producers like $60-plus North Sea oil even when cheap. His 9x Indian holding is the lowest-cost producer in its market, an enduring tailwind.",
+      "stocks_or_cases": [
+        "Rain Industries"
+      ]
+    },
+    {
+      "idea": "Be extremely unreasonable in equity markets - never compromise on your criteria, because you always have the option of sitting in cash and only acting when all the ducks line up.",
+      "topic": "Circle of competence & checklists",
+      "detail": "He cites Eli Broad's book The Art of Being Unreasonable; with fear and greed cycling across tens of thousands of listed businesses, something will show up if you keep reading.",
+      "stocks_or_cases": [
+        "Eli Broad"
+      ]
+    },
+    {
+      "idea": "Munger's 70-80x in 15 years came from a 'two-step slingshot': one 8x stock in 2002, then handing the proceeds to Li Lu - and he swung only once out of 25,000 Barron's tips.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "Charlie read Barron's for 50 years, acted on one article (Tenneco), turned $10 million into $80 million, and picked one money manager in 94 years; that $80 million is likely $500-700 million now. Munger told him 'it only happened once in my life'. His own recurring mistakes: putting out a thimble when it's raining gold, and selling too early; he rereads Poor Charlie's Almanack every year.",
+      "stocks_or_cases": [
+        "Charlie Munger",
+        "Li Lu",
+        "Tenneco",
+        "Daily Journal",
+        "Poor Charlie's Almanack"
+      ]
+    },
+    {
+      "idea": "Giving money away effectively is harder than making it, so Dakshana inverted the problem by only pursuing causes where input versus output can be precisely measured.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "Unlike the for-profit world, philanthropy has no feedback loop - giving away 2% of wealth a year can continue forever regardless of results. Dakshana just finished 10 years, but the model saturates at $4-5 million a year, so gains from Rain Industries and Fiat will force them to find the next endeavor.",
+      "stocks_or_cases": [
+        "Dakshana Foundation",
+        "Rain Industries",
+        "Fiat Chrysler",
+        "Sergio Marchionne"
+      ]
+    }
+  ]
+}

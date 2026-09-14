@@ -1,0 +1,246 @@
+{
+  "video_id": "Jo1XgDJCkh4",
+  "date": "2016-10-14",
+  "title": "Mohnish Pabrai Lecture at Peking University (Guanghua School of Mgmt) - Oct 14, 2016",
+  "summary": "A first-time lecture titled 'the quest for ten to hundred baggers', in which Pabrai reviews his own 1995 portfolio (Satyam, Blue Dart, Kotak Mahindra, CMGI) and admits he was smart enough to buy multibaggers but not to hold them. He lays out five categories where 10-100x returns come from: idiot-proof tailwind businesses, tailwind businesses needing great management, low-risk/high-uncertainty situations, special situations/bankruptcies, and upside-without-downside bubble plays. The Q&A covers patience, a one-person no-staff investment operation, cloning, and the Buffett/Munger lifestyle.",
+  "ideas": [
+    {
+      "idea": "Compounding at 26% doubles money every three years, turning $1 million into $1 billion in 30 years, which is the key to Buffett's success and the game he set out to play in 1995.",
+      "topic": "Compounding & long-term holding",
+      "detail": "26% for 30 years is 2^10 = 1024x. From 1995 to 2014 his own record was roughly 26% a year, though he was down about a third over the previous two years as of 2016.",
+      "stocks_or_cases": [
+        "Warren Buffett"
+      ]
+    },
+    {
+      "idea": "His core mental model is to buy companies at half or less of what they will be worth in two or three years, because a 50-cent dollar revalued in three years compounds at 26%.",
+      "topic": "Valuation & margin of safety",
+      "detail": "Finding things half off in an auction-driven market is not that hard, and if the revaluation happens in two years the return is 35-36%. Markets are a weighing machine in the long term.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "He was smart enough to buy hundred baggers but not smart enough to hold them; four of his 14 stocks from 1995 eventually rose more than 50 times and he sold almost all of them early.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "Blue Dart (bought for $7,700) became a 60x he sold after six years of doing nothing; Kotak Mahindra went up 50x after he sold; Satyam went from 45 to 7,000 rupees (130-140x) and CMGI went 100x, both cashed out in the dotcom bubble. Blue Dart he only held 21 years by accident because one certificate was flagged as fake.",
+      "stocks_or_cases": [
+        "Blue Dart",
+        "Kotak Mahindra",
+        "Satyam Computers",
+        "SkyPack",
+        "CMGI"
+      ]
+    },
+    {
+      "idea": "India honored its promise to let foreign capital exit tax-free: $15,000 in Satyam came back as $1.5 million with no questions asked.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "Skeptical of exchange controls in 1995, he allocated only $30,000 across four Indian stocks and had to fly to Mumbai to open accounts and receive physical certificates. He sold Satyam within 5% of its all-time high at over 100x earnings and the money was wired out flawlessly.",
+      "stocks_or_cases": [
+        "Satyam Computers"
+      ]
+    },
+    {
+      "idea": "Category one of 10-100 baggers is businesses with huge tailwinds, deep moats, long runways, high ROE, no debt, that an idiot can run; buy them, forget the PE ratio and hold forever.",
+      "topic": "Moats & business quality",
+      "detail": "Examples are See's Candies, Coca-Cola (poorly managed for decades of its 100-year history), Moody's, Visa, MasterCard, American Express and Maotai in China. He has never had one of these in his portfolio; if he gets one he will never sell.",
+      "stocks_or_cases": [
+        "See's Candies",
+        "Coca-Cola",
+        "Moody's",
+        "Visa",
+        "MasterCard",
+        "American Express",
+        "Maotai"
+      ]
+    },
+    {
+      "idea": "Guy Spier's mental model of looking around the world for replicas of a proven great business (Coke bottlers, Moody's) is a superior way to find undervalued compounders, but it only pays if you hold.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "In 2001 Spier bought CRISIL, India's number-one credit rating agency in which S&P owned 10%, made about 4x and sold; it went up 130 times after he sold, which alone would exceed his entire $160 million fund today. Moody's economics: pay an analyst $100,000, collect $4 million in fees.",
+      "stocks_or_cases": [
+        "Guy Spier",
+        "CRISIL",
+        "Moody's",
+        "S&P",
+        "Coca-Cola"
+      ]
+    },
+    {
+      "idea": "Category two is the same tailwind/moat/high-ROE businesses that cannot be run by idiots but do have great management, such as Amazon, Costco, Geico, Kotak, Blue Dart, Restaurant Brands and Domino's.",
+      "topic": "Moats & business quality",
+      "detail": "These franchises have phenomenal economics but need solid management on top to keep them; they produced the massive runs he saw with Blue Dart and Kotak in India.",
+      "stocks_or_cases": [
+        "Amazon",
+        "Costco",
+        "Geico",
+        "Kotak Mahindra Bank",
+        "Blue Dart",
+        "Satyam Computers",
+        "Restaurant Brands",
+        "Yum Brands",
+        "Domino's Pizza",
+        "McDonald's"
+      ]
+    },
+    {
+      "idea": "Category three, the one that has shown up most in his portfolio, is when the market confuses risk with uncertainty: low risk plus high uncertainty usually produces high reward because markets hate and misprice uncertainty.",
+      "topic": "Valuation & margin of safety",
+      "detail": "IPSCO in 2005 had a $2.5 billion market cap, $900 million of excess cash and two years of contracted earnings of $650 million a year, so 90% of the market cap would come back in cash in two years. He put 10% in at $45 and sold at the $157 buyout in 2007, nearly 4x in 2.5 years.",
+      "stocks_or_cases": [
+        "IPSCO"
+      ]
+    },
+    {
+      "idea": "Fiat Chrysler in 2016 is an IPSCO-like bet: at $6 and change with management guiding to roughly $5 of earnings in 2018, it is priced at 1.2 times one year's earnings, so he will hold to 2018 and see.",
+      "topic": "Stock case studies",
+      "detail": "The company has $130 billion in car sales and Jeep sales in China expected to rise about five times in three years. At 5-7x earnings the stock would be 5-7x his money.",
+      "stocks_or_cases": [
+        "Fiat Chrysler",
+        "Jeep"
+      ]
+    },
+    {
+      "idea": "He missed most of Tesoro's 200x run because he sold at a double after a 10x from the bottom, even though he already knew from the conference calls that CEO Bruce Smith was an exceptional manager.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "No new US refinery has been built in 30 years due to NIMBY, and state-specific fuel standards make refining less of a commodity business. He bought 10% of assets at $7.50, watched it fall to $1.33 (taking the portfolio down 8%), and sold at $15; from purchase it eventually rose about 40x.",
+      "stocks_or_cases": [
+        "Tesoro Petroleum",
+        "Bruce Smith"
+      ]
+    },
+    {
+      "idea": "Every stock he buys goes down first, what Bruce Berkowitz calls 'premature accumulation', so he is used to it and does not sell on the initial drop.",
+      "topic": "Psychology & temperament",
+      "detail": "Tesoro fell from $7.50 to $1.33 within three months of purchase and Frontline fell from $6 to $4 within weeks; in both cases he sat tight and the stocks recovered many-fold.",
+      "stocks_or_cases": [
+        "Bruce Berkowitz",
+        "Tesoro Petroleum",
+        "Frontline"
+      ]
+    },
+    {
+      "idea": "Shipping and office real estate go through perpetual boom-bust cycles because owners extrapolate current rates to infinity, order at the top, and scrap at the bottom, so capacity shrinks exactly when rates are about to go exponential.",
+      "topic": "Markets, cycles & macro",
+      "detail": "Around 2002 Frontline owned 70 of the world's 400 VLCCs, all on daily charters ranging from $5,000 to $300,000 a day, losing money below $12-13,000 and earning supernormal profits above $30-40,000. He bought at about $6 when rates were $5-10,000 a day, sold at $9, and it would have been 30-35x had he held; ship owners will never learn because human nature does not change.",
+      "stocks_or_cases": [
+        "Frontline",
+        "John Fredriksen",
+        "The Shipping Man"
+      ]
+    },
+    {
+      "idea": "Teck Cominco in 2008 was a classic low-risk/high-uncertainty situation: a 90% drop in seven weeks over a bridge loan on world-class low-cost mines that banks would rather extend than seize.",
+      "topic": "Stock case studies",
+      "detail": "The stock went from $50 to $4; he bought at $4-5 and sold at $30, a 7x in a few months, after China came in as an investor; it later went to $50.",
+      "stocks_or_cases": [
+        "Teck Cominco"
+      ]
+    },
+    {
+      "idea": "Category four is bankruptcies, reorganizations, public and busted LBOs and special situations, where following a grave dancer like Sam Zell generally goes well.",
+      "topic": "Stock case studies",
+      "detail": "Zell and Martin Whitman bought Mission Insurance's $630 million of NOLs for about $30 million around 1998-99, then a barge company that also went bankrupt, then a waste-to-energy company with $2 billion of assets and debt for $30 million (Danielson Holding). Pabrai bought at $9 after it rose from $1, doubled in 13 months and sold; from $1 it became a 40x.",
+      "stocks_or_cases": [
+        "Sam Zell",
+        "Martin Whitman",
+        "Mission Insurance",
+        "Danielson Holding",
+        "Pritzkers"
+      ]
+    },
+    {
+      "idea": "Category five is 'upside without downside', or playing a bubble by buying a cheap sound business that owns a free option on the mania.",
+      "topic": "Stock case studies",
+      "detail": "In the late 1990s Silicon Valley Bank traded slightly above book value while holding undisclosed warrants from every dotcom borrower; he made 2.5x in 2.5 years and would have made 5x with one more year. CMGI, an internet incubator bought just above book, went 100x and turned $100,000 into $10 million; he sold 20-30% off the top.",
+      "stocks_or_cases": [
+        "Silicon Valley Bank",
+        "CMGI",
+        "Amazon",
+        "Yahoo",
+        "pets.com"
+      ]
+    },
+    {
+      "idea": "The number one skill an investor needs is extreme patience: you make money by waiting, not by buying or selling, and the business is best suited to gentlemen and gentlewomen of leisure.",
+      "topic": "Psychology & temperament",
+      "detail": "Blue Dart did nothing for six years, he sold it, and it had its run in the next 15 years. Munger says you don't make money when you buy or sell but by waiting; every trade tends to hurt the investor.",
+      "stocks_or_cases": [
+        "Charlie Munger",
+        "Blue Dart"
+      ]
+    },
+    {
+      "idea": "You only truly learn a business after you own it, which is when you can recognize which holdings are real multibaggers that should not be touched.",
+      "topic": "Compounding & long-term holding",
+      "detail": "Pre-purchase analysis tells you something, but ownership teaches more; he can name three or four current holdings that could be huge home runs and is willing to let them play out because even one 10x is worth it.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Everything about the market is designed to make you active, so set up tricks like never submitting orders while the market is open.",
+      "topic": "Psychology & temperament",
+      "detail": "He sends orders to his broker after midnight for next-day execution when nothing is moving, and rarely trades during market hours. Brokers make nothing if you buy one company and keep it forever.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Do not allocate top-down across categories; investing is opportunistic bargain hunting and ideas arrive unpredictably, sometimes none in a year and sometimes five in a week.",
+      "topic": "Circle of competence & checklists",
+      "detail": "During December 2008 to February 2009 so many ideas came at him that he had one or two days to process each, versus the usual weeks or months. He has never done top-down.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "The Munger approach of waiting for businesses you love to drop in price is superior to Graham's approach of buying whatever is most discounted, so make a list of remarkable assets and the prices at which they become exciting.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "Graham goes into the supermarket and buys the most heavily discounted item; Munger keeps going back until the thing he loves goes on sale. The Munger way requires more patience and self-knowledge, then you wait for the world to come to you.",
+      "stocks_or_cases": [
+        "Ben Graham",
+        "Charlie Munger"
+      ]
+    },
+    {
+      "idea": "He never meets management, visits plants or seeks superior information; the edge comes from superior analytics on commonly known information plus patience that most market participants lack.",
+      "topic": "Circle of competence & checklists",
+      "detail": "After six weeks studying the auto industry, which he had hated all his life for its capex, unions and consumer taste, he found many of his assumptions wrong using only public data synthesized from many sources. Investors trying to go from 10 to 12 to 15 in weeks would out-compound Buffett if it worked, and it doesn't.",
+      "stocks_or_cases": [
+        "Guy Spier",
+        "Moody's"
+      ]
+    },
+    {
+      "idea": "Run the Buffett-Munger model with no staff and no analysts: do not delegate investment research, because a hired analyst's ideas would be rejected 95% of the time and you would eventually buy things you don't believe in to be nice.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "The only way to add people is to give them their own pools of capital with full autonomy, as Buffett did with Ted Weschler and Todd Combs at $9 billion each. He has about 400 investor families, takes no calls or meetings before they invest, and is 'open for business' two days a year at annual meetings. The first violation he looks for in any investment operation is team size above one.",
+      "stocks_or_cases": [
+        "Warren Buffett",
+        "Ted Weschler",
+        "Todd Combs"
+      ]
+    },
+    {
+      "idea": "The simplest way to find bargains is to be a shameless cloner: ask Li Lu what he owns, or reverse engineer 13F filings of smart investors, and you need no analysts.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "Li Lu is 'a hundred times smarter than me' and a better analyst than anyone he could hire, and he doesn't need to be paid.",
+      "stocks_or_cases": [
+        "Li Lu"
+      ]
+    },
+    {
+      "idea": "The rules for loving this business are no staff, no trading during office hours, and not even going to work when the market is open; keep the calendar empty as Buffett advised.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "He wakes at 9 or 9:30 with no alarm, has 30 books on his desk and no meetings; the key to life is to find CRISIL, the Moody's of India, and go to sleep for 20 years. Young managers should spend less than they earn, compound the difference to independence and become their own boss.",
+      "stocks_or_cases": [
+        "Warren Buffett",
+        "CRISIL"
+      ]
+    },
+    {
+      "idea": "Strategic investors have domain knowledge but usually lack a value-investing sense of price, because great CEOs must be optimistic builders while value investors are skeptics; follow strategic acquirers into other markets only if they are proven capital allocators.",
+      "topic": "Management & capital allocation",
+      "detail": "Most CEOs cannot tell when their own stock is undervalued for buybacks. Buffett, John Malone and Sam Zell are good at buying companies, whereas Japanese buyers grossly overpaid for US trophy real estate in the 1980s by anchoring on their own bubble. He admits his own skepticism about what could go wrong is why he sold winners too early.",
+      "stocks_or_cases": [
+        "Warren Buffett",
+        "John Malone",
+        "Sam Zell",
+        "Starwood"
+      ]
+    }
+  ]
+}

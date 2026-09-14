@@ -1,0 +1,226 @@
+{
+  "video_id": "PpBPzNoltbs",
+  "date": "2013-07-13",
+  "title": "Mohnish Pabrai's Presentation and Q&A at Indian School of Business on July 13, 2013",
+  "summary": "A presentation and Q&A at ISB (with Dakshana scholars in attendance) built around the power of compounding: the chess-board rice story, his 30-year 'compound 26' goal set in 1994, and his fund's record through 2013. He argues that cloning great investors and business models is the path almost nobody takes, explains why auction-driven markets create exploitable mispricings, recounts the 2008-09 lessons (hubris, no cash, the checklist), discusses why he does not invest in India, and applies the same ROI thinking to Dakshana's philanthropy while warning against envy and ego.",
+  "ideas": [
+    {
+      "idea": "Envy and ego are the most destructive human traits; eliminate them and you are far along the path of doing well.",
+      "topic": "Psychology & temperament",
+      "detail": "He uses Rajat Gupta's downfall as a Shakespearean lesson: off-the-chart success undone by envy of someone richer but less capable. Ego is 'a false sense of self; we came from ashes and dust'. He returns to it later citing Munger on the Ten Commandments and covetousness.",
+      "stocks_or_cases": [
+        "Rajat Gupta"
+      ]
+    },
+    {
+      "idea": "Compounding is the eighth wonder of the world: the chess-board rice story ends at 2^64 minus 1 grains, worth about $300 trillion, the entire net worth of the planet.",
+      "topic": "Compounding & long-term holding",
+      "detail": "US total net worth was about $70 trillion at the time. When he discovered Buffett in 1994, Buffett had compounded at 31% a year for 44 years (1950-1993), doubling every 2.6 years, so he was already on the 18th square of the board.",
+      "stocks_or_cases": [
+        "Warren Buffett"
+      ]
+    },
+    {
+      "idea": "Since hardly anyone followed Buffett's approach and hardly anyone had his returns, he concluded the two facts were linked and decided to replicate the approach himself.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "In 1994, at age 30 with $1 million from selling part of his business, he set a 30-year game: compound at 26% (his license plate reads COMPOUND 26), doubling every three years, 2^10 = roughly 1,000x, turning $1 million into $1 billion. Even failing by 90-97% would still be fine.",
+      "stocks_or_cases": [
+        "Warren Buffett"
+      ]
+    },
+    {
+      "idea": "His record by mid-2013: 43.4% a year from 1995-1999 personally, 37.2% gross (29.4% net) for Pabrai Funds 1999-2007, then -47.1% annualized over 21 months, then about 32.8% for 4.25 years, leaving 25.8% over 18.5 years versus the 26% goal.",
+      "topic": "Compounding & long-term holding",
+      "detail": "The $1 million became $5.1 million by 1999. Pabrai Investment Funds launched July 1, 1999 with $1 million from eight friends plus $100,000 of his own. Unlike tennis, in investing you get better as you get older because all knowledge accumulates.",
+      "stocks_or_cases": [
+        "Pabrai Investment Funds"
+      ]
+    },
+    {
+      "idea": "You cannot beat the index by trying to beat the index; make few bets, big bets, infrequent bets, only when the odds are heavily in your favor.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "You can be wrong a lot and still be fine; even with several investments going to zero in the 21-month drawdown the record looks fine. Focusing on cannibals (companies buying back stock), spinoffs and cloning makes things much easier.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "He does not invest unless there is a prospect of doubling or tripling in two to three years, and the hurdle rises as cash falls, so the last 5-10% of assets requires at least 5x.",
+      "topic": "Valuation & margin of safety",
+      "detail": "This escalating hurdle ensures the last dollars go out only during the most distressed times and effectively forces a cash cushion; he was sitting on more than 20% cash for most of 2012 and about 10% in mid-2013.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Something in the human genome makes cloning attractive to maybe 1-2% of people at most, which is why nobody replicated the Buffett partnership model for 30 years.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "Buffett's 1956-1969 partnership was the most successful hedge fund ever and was described in books selling millions of copies, yet he found no fund anywhere that had replicated it when he opened his in 1999. He wants his gravestone to read 'He was a cloner'.",
+      "stocks_or_cases": [
+        "Buffett Partnership"
+      ]
+    },
+    {
+      "idea": "Great businesses are often pure clones: Microsoft, Walmart and Burger King built enormous value by copying rather than innovating.",
+      "topic": "Moats & business quality",
+      "detail": "Most of Microsoft's revenue comes from cloned products (Windows, Word from WordPerfect, Excel from Lotus, SQL Server from Oracle). Walmart copied Kmart and Sears for its first 20 years and Sam Walton would be worth about $150 billion today. Burger King has two people picking sites who simply follow McDonald's studies. India does not need Walmart to come in; an entrepreneur just needs to replicate the model.",
+      "stocks_or_cases": [
+        "Microsoft",
+        "Walmart",
+        "Kmart",
+        "Sears",
+        "Burger King",
+        "McDonald's"
+      ]
+    },
+    {
+      "idea": "Dakshana itself is a clone of Anand Kumar's Super 30 model, adopted with his blessing.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "He says he is 'too stupid' to have invented a model as good as Dakshana's; he asked Anand Kumar if he minded it being cloned and Kumar offered to help.",
+      "stocks_or_cases": [
+        "Dakshana",
+        "Super 30",
+        "Anand Kumar"
+      ]
+    },
+    {
+      "idea": "Stock markets are auction-driven with faceless buyers and sellers, so they systematically produce 50-100% price swings within a year while the underlying business barely changes.",
+      "topic": "Markets, cycles & macro",
+      "detail": "GM ranged from $18 to over $36 in 52 weeks and Infosys from about 2,200 to 2,800 rupees, whereas a used car or a private-company sale moves 5-10% because an intelligent buyer faces an intelligent seller. Without the stock market Buffett could not have achieved his record. Obscure companies (a jute producer in Calcutta) swing even more, and the entire shareholder base turns over every six months to two years.",
+      "stocks_or_cases": [
+        "General Motors",
+        "Infosys",
+        "Facebook",
+        "Tata Motors"
+      ]
+    },
+    {
+      "idea": "Stick within your circle of competence, act only on extreme distortions, and you need only two or three buys and two or three sells a year; you don't need to be right all the time.",
+      "topic": "Circle of competence & checklists",
+      "detail": "He quotes John Templeton that no investor is right more than two out of three times. If you understand a business you know what it is worth; buy when the world values it far below that, sell when far above, and otherwise do nothing.",
+      "stocks_or_cases": [
+        "John Templeton"
+      ]
+    },
+    {
+      "idea": "Mechanically buying what Buffett buys after it is public, at the month's worst price, and selling when he sells, beat the S&P 500 by 11.5% a year from 1975 to 2005.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "The study by professors at the University of Nevada and Ohio State implies about 21.5% a year versus roughly 10% for the S&P, with no business-school degree required, and yet nobody has set up a fund to do it. Almost everything Pabrai Funds owns was copied from some other great investor, filtered to what he can understand and finds undervalued, limiting him to two or three decisions a year.",
+      "stocks_or_cases": [
+        "Warren Buffett",
+        "IBM"
+      ]
+    },
+    {
+      "idea": "Philanthropy is the same as investing: figure out which endeavor delivers the highest social return and put everything into it rather than sprinkling money across causes.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "His father said 'we come to this world naked and leave it naked', so surplus assets should be recycled to society, per Buffett's influence. Education for poverty alleviation has a huge multiplier, and Dakshana's partnership with the Government of India (JNV schools) means the government does the heavy lifting and Dakshana's ROI is off the charts.",
+      "stocks_or_cases": [
+        "Dakshana",
+        "Jawahar Navodaya Vidyalaya"
+      ]
+    },
+    {
+      "idea": "Dakshana produces single-generation transformations: a tailor's son from Gachibowli scored India rank 63 in the 2010 IIT entrance exam out of half a million takers.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "Ashok Kumar was selected in 10th grade at a JNV, coached for two years, studied computer science at IIT Bombay and interned at Microsoft; the family home had only two chairs when Pabrai visited.",
+      "stocks_or_cases": [
+        "Dakshana",
+        "IIT Bombay",
+        "Microsoft"
+      ]
+    },
+    {
+      "idea": "His fee structure, copied from Buffett, has zero management fees, the first 6% to investors, one-fourth of returns above that to him, with a high-water mark; if the industry adopted it the industry would disappear.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "If the fund is up 10% he gets 1%; if up 5% or down he gets nothing. The fund's legal setup cost $8,000 after he handed a lawyer the book chapter describing the Buffett partnership and said 'copy this'.",
+      "stocks_or_cases": [
+        "Buffett Partnership",
+        "Pabrai Investment Funds"
+      ]
+    },
+    {
+      "idea": "2008-09 went wrong because of hubris after eight years without a down year, missing the housing bubble entirely, and owning businesses dependent on a functioning financial system while fully invested with no cash.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "Delta Financial went from a $65 million position to zero and another position lost almost $40 million. Redemptions forced him to sell solid businesses at pennies on the dollar, compounding the damage. We learn nothing from success; every stumble in his life has led to growth.",
+      "stocks_or_cases": [
+        "Delta Financial"
+      ]
+    },
+    {
+      "idea": "Three post-2009 changes: a healthy appreciation for holding cash, a pre-investment checklist built from other great investors' mistakes, and regular conversations with one other fund manager on Munger's advice.",
+      "topic": "Circle of competence & checklists",
+      "detail": "The checklist asks whether past mistakes would have been obvious at the time of investment; since 2009 the error rate has been almost zero with hardly any loss of capital. Until 2008 he never discussed investments with anyone; now he talks to one exceptional manager and they disagree often but it still helps.",
+      "stocks_or_cases": [
+        "Charlie Munger"
+      ]
+    },
+    {
+      "idea": "Buffett spends nearly all his time on how he could lose money, not how much he could make, just as he walked with bent knees as a child to avoid falling.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "From Alice Schroeder's biography 'The Snowball'; the downside focus is what Pabrai says he has developed a much greater appreciation for since 2007-2009.",
+      "stocks_or_cases": [
+        "Warren Buffett",
+        "Alice Schroeder"
+      ]
+    },
+    {
+      "idea": "He does not invest in India because his armchair, never-meet-management style would get his head handed to him there; Indian investing requires being local and handicapping management like private equity or venture capital.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "In the US he can say the probability of losing money to fraud is near zero (no case in 18 years, losses were from his own stupidity) because businesses and managements have long histories; in India he could not. If investing in India he would want a structure allowing public, private and real estate and would focus on businesses that could 10x or 20x in five to ten years. He recommends tracking Chetan Parikh and Amitabh Singhi.",
+      "stocks_or_cases": [
+        "Chetan Parikh",
+        "Amitabh Singhi"
+      ]
+    },
+    {
+      "idea": "Cloning does not conflict with moats; Buffett himself has made dozens of non-moat investments, and you can do extremely well in a shallow-moat business if you pay next to nothing for it.",
+      "topic": "Moats & business quality",
+      "detail": "Example: Buffett bought the debt of Finova Capital, a bankrupt subprime lender, to participate in the restructuring, and did many arbitrage deals in the 1950s and 60s. Given his current size he now goes mostly moat-based. The ideal is a great moat at a great or fair price, but there are many ways to skin the investing cat.",
+      "stocks_or_cases": [
+        "Finova Capital",
+        "Warren Buffett"
+      ]
+    },
+    {
+      "idea": "Munger's Peoria portfolio: owning pieces of the local McDonald's franchise, best office building, Ford dealership and similar basic assets at reasonable prices and never selling would make an investor with a tiny circle of competence extremely wealthy.",
+      "topic": "Circle of competence & checklists",
+      "detail": "Outsiders would call it undiversified and all in one geography, but simplicity is powerful and you do not need esoteric things to do well; the same would apply in Aurangabad, Maharashtra.",
+      "stocks_or_cases": [
+        "Charlie Munger",
+        "McDonald's",
+        "Ford"
+      ]
+    },
+    {
+      "idea": "For the most part ignore macro; micro trumps macro because 90% of a business's eventual results come from what happens inside it.",
+      "topic": "Markets, cycles & macro",
+      "detail": "Fed tapering, the European crisis and exchange rates are irrelevant to the cash flow of the 24-hour drive-thru McDonald's near his home in Irvine. If that McDonald's produced $400,000 a year and sold for $5 million (12x cash flow), the questions are how long the cash flow lasts and what could reduce it.",
+      "stocks_or_cases": [
+        "McDonald's"
+      ]
+    },
+    {
+      "idea": "Look at a stock as if buying the whole company: if you would not put 70% of your family's assets into it and hold it unsellable for five to ten years, do not buy a single share.",
+      "topic": "Valuation & margin of safety",
+      "detail": "He is not interested in the 200-rupee share price but in the INR 5,000 crore market cap; asking whether a family with INR 8,000-9,000 crores would happily own the whole company for 10 years saves a lot of trouble.",
+      "stocks_or_cases": [
+        "Infosys"
+      ]
+    },
+    {
+      "idea": "The secret to becoming wealthy: a week has 168 hours, a job takes 40-50, so use the remaining 30-40 hours for a single-minded pursuit of a second business while someone else pays the paycheck.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "At 24 he worked on his business 7:00-8:30 am, 6 pm to midnight and all weekend, taking vacation days for client meetings and deliberately doing just enough not to be fired. It took 10 months to land the first client and two more weeks for the second; his bosses offered a higher salary if the business failed. If a venture fails, start another; something will hit. That business became TransTech, later left to start Pabrai Funds.",
+      "stocks_or_cases": [
+        "TransTech"
+      ]
+    },
+    {
+      "idea": "When you start a business you do not need all the answers or money, only passion, drive and a few answers, while keeping the risk small.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Dakshana did not know how to find scholars, so he hired a 64-year-old IIT Madras grad consultant at 5,000 rupees a day (500 an hour) to research; after three people mentioned JNV schools the model was found. Three lakh rupees of research at risk was no problem. Sam Walton likewise kept learning as he went.",
+      "stocks_or_cases": [
+        "Dakshana",
+        "Jawahar Navodaya Vidyalaya",
+        "Sam Walton"
+      ]
+    }
+  ]
+}

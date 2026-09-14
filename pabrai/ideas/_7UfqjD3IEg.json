@@ -1,0 +1,273 @@
+{
+  "video_id": "_7UfqjD3IEg",
+  "date": "2021-10-14",
+  "title": "Mohnish Pabrai Lecture at Boston College",
+  "summary": "Pabrai builds on Peter Thiel's 'Competition is for Losers' lecture to argue that true monopolies hide their advantages, so investors must back into the moat from the numbers and outside sources rather than company disclosures. He uses Rain Industries, Amazon/AWS and especially Tencent (via Naspers and Koos Bekker) to illustrate this, then in Q&A covers his shift from Graham-style bargains toward great compounders, the power of cloning, his origin story, China risk, and how he sources ideas.",
+  "ideas": [
+    {
+      "idea": "Real monopolies go to great lengths to convince you they are not monopolies, while the 99% of businesses in hypercompetitive spaces try to convince you they have unassailable advantages, so what companies present is mostly backward.",
+      "topic": "Moats & business quality",
+      "detail": "Drawn from Peter Thiel's 'Competition is for Losers' Stanford lecture (2015 or 2016); Google says 'poor me, I'm a tiny part of global advertising' to deflect attention from its search monopoly, and maybe 1% or less of capitalism has such moats.",
+      "stocks_or_cases": [
+        "Peter Thiel",
+        "Google",
+        "Facebook"
+      ]
+    },
+    {
+      "idea": "Because monopolists won't explain their edge, reading annual reports alone is diluted; you must treat the moat as a jigsaw puzzle and back into it from the numbers and from being a customer.",
+      "topic": "Circle of competence & checklists",
+      "detail": "Rain Industries has been in his portfolio for more than six years and is a low-cost producer whose plants stay profitable when competitors bleed red ink; he can see it in the numbers but after meeting the CEO twice still cannot explain how or why. A great business cannot mask its economics in required reporting.",
+      "stocks_or_cases": [
+        "Rain Industries",
+        "Nick Sleep",
+        "Qais Zakaria",
+        "Costco"
+      ]
+    },
+    {
+      "idea": "A whale only gets harpooned after it surfaces, so the best operators scale in stealth; once Amazon disclosed AWS around 2015-2016, Microsoft and Google immediately pounced.",
+      "topic": "Moats & business quality",
+      "detail": "Buffett told him this line in the context of Ajit Jain, who has no desire to ever surface. Bezos accepted competitors cannibalizing Amazon's retail so it could sell 'pickaxes in the gold rush', rebuilt spaghetti code into APIs, and hid the cloud business for years; today it is a three-horse race with AWS leading, Microsoft a strong second, and Google a distant third.",
+      "stocks_or_cases": [
+        "Amazon",
+        "AWS",
+        "Microsoft",
+        "Google",
+        "Ajit Jain",
+        "Warren Buffett",
+        "Jeff Bezos"
+      ]
+    },
+    {
+      "idea": "Among the seven or eight big US and Chinese tech giants, only Amazon and Tencent truly understand capital allocation, which shows up in the fact that they alone carry no cash while the others drown in it.",
+      "topic": "Management & capital allocation",
+      "detail": "Microsoft, Apple, Google and Alibaba sit on $50-150 billion earning under 1%; it doesn't bother Sundar, Satya or Apple, but it bothers Pony Ma, who spends slightly more than the cash he generates and borrows at 1% rather than leave money in a checking account.",
+      "stocks_or_cases": [
+        "Tencent",
+        "Amazon",
+        "Microsoft",
+        "Apple",
+        "Alphabet",
+        "Alibaba",
+        "Pony Ma"
+      ]
+    },
+    {
+      "idea": "Tencent's real business model is two 'bazookas': an army of software engineers earning about 65% annualized return on capital and 20-30 'digital Warren Buffetts' who invest the leftover cash at about 35% a year.",
+      "topic": "Stock case studies",
+      "detail": "On roughly $15 billion of cash flow, the engineering arm can absorb only about $1 billion (5,000 engineers at $200,000 each), so the remaining $14 billion goes into minority stakes in companies like PDD, JD.com and Meituan that do the heavy lifting off Tencent's payroll. He thinks this model runs circles around Amazon's and that Tencent could be the most valuable business on the planet in 10-15 years.",
+      "stocks_or_cases": [
+        "Tencent",
+        "Pony Ma",
+        "PDD",
+        "JD.com",
+        "Meituan",
+        "Amazon"
+      ]
+    },
+    {
+      "idea": "In software the productivity gap between an incredible engineer and a good one can be a thousand to one, so a company like Tencent would rationally pay $50 million a year to a true superstar versus $100,000 for a run-of-the-mill engineer.",
+      "topic": "Moats & business quality",
+      "detail": "Pony Ma is very good at sifting out the rockstars and making sure they are well taken care of; this army is a bazooka he can point wherever he wants.",
+      "stocks_or_cases": [
+        "Tencent",
+        "Pony Ma"
+      ]
+    },
+    {
+      "idea": "Chinese government action on video games is a 'pimple on a camel' for Tencent because less than 5% of its video game revenue and profit comes from inside China, and the engineering army can be redirected anywhere.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "He says you could ban video games globally and Tencent would still prosper; in the absence of clear rules from the CCP, Pony Ma has pointed both bazookas outside China. What Tencent wants is for the CCP to state all the rules at once instead of dribbling them out.",
+      "stocks_or_cases": [
+        "Tencent",
+        "Pony Ma"
+      ]
+    },
+    {
+      "idea": "When 20 years of Tencent transcripts and annual reports said nothing, the cliff notes came from an outside shareholder, Naspers' Koos Bekker, who repeatedly called Tencent the best management team on the planet.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "He read 18 years of Naspers letters and transcripts to understand Tencent; Naspers IR told him they would never sell Tencent, which compelled him to dig in. The lesson is to go to different sources when the company itself is not helping you.",
+      "stocks_or_cases": [
+        "Naspers",
+        "Prosus",
+        "Koos Bekker",
+        "Tencent"
+      ]
+    },
+    {
+      "idea": "Koos Bekker is 'Nick Sleep on steroids': a hired-gun CEO who turned a $32 million bet on Tencent in 2001 into a position worth hundreds of billions and did not sell a single share until 2018.",
+      "topic": "Compounding & long-term holding",
+      "detail": "Bekker joined Naspers in 1998 asking for zero salary, zero bonus and no contract in exchange for 3% of value created, and took the company from under $200 million to over $200 billion in about 20 years, a thousand-x. Even when Tencent became 97% of Naspers' assets he took no chips off the table, and the 2018 sale proceeds were used to buy back Naspers stock.",
+      "stocks_or_cases": [
+        "Koos Bekker",
+        "Naspers",
+        "Tencent",
+        "Nick Sleep"
+      ]
+    },
+    {
+      "idea": "Nick Sleep and Qais Zakaria outperformed everyone after hanging up their boots simply by keeping large stakes in Amazon, Berkshire and Costco untouched.",
+      "topic": "Compounding & long-term holding",
+      "detail": "If you kept Amazon at one-third of your portfolio from around 2013 and didn't touch it, you beat everybody without doing much real work.",
+      "stocks_or_cases": [
+        "Nick Sleep",
+        "Qais Zakaria",
+        "Amazon",
+        "Berkshire Hathaway",
+        "Costco"
+      ]
+    },
+    {
+      "idea": "If you make 10 bets and one is a hundred-bagger with an enduring moat that the rest of the world hasn't figured out, it doesn't matter what happens to the other nine.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "Finding even one such business a year is plenty; the game is the willingness to dive deep and solve the jigsaw puzzle when companies aren't helping you, which also gives conviction to hold through temporary headwinds.",
+      "stocks_or_cases": [
+        "Koos Bekker"
+      ]
+    },
+    {
+      "idea": "He got into investing in 1994 after reading Peter Lynch on a flight, then Buffett biographies, and realized Buffett spent 80% of his time on the strategy work that was only 3% of his time running an IT company.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "He had about $1 million after tax from selling part of his company in 1994-95 and began investing it using Buffett's approach of buying a business, not a stock. Herding cats was not fun; he wanted to be like 'that guy'.",
+      "stocks_or_cases": [
+        "Peter Lynch",
+        "Warren Buffett"
+      ]
+    },
+    {
+      "idea": "He agrees with the CCP's crackdown on Chinese for-profit education because test-prep companies are win-lose businesses that don't create seats, they only decide who gets the limited ones.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "In India roughly 1 million kids compete for about 15,000 IIT seats, so only about 1.5% succeed and 95% of paying customers end up disappointed; he contrasts this with Costco where every participant in the ecosystem wins. His 15 years running Dakshana gave him a front-row seat.",
+      "stocks_or_cases": [
+        "Costco",
+        "Dakshana",
+        "Guy Spier"
+      ]
+    },
+    {
+      "idea": "China regulatory risk is real and rules can change the economics of a business overnight, which is exactly why you don't have only one bet.",
+      "topic": "Markets, cycles & macro",
+      "detail": "He doesn't know whether Tencent will do well in the future; there is nothing like a sure bet in investing and capitalism is just hard.",
+      "stocks_or_cases": [
+        "Tencent",
+        "Alibaba"
+      ]
+    },
+    {
+      "idea": "He retreated into Ben Graham bargains during the 1999-2000 dot-com bubble, which worked well until about 2012-2014, but he missed the turn back to great compounders and is now shifting to buying great businesses with long runways at reasonable prices.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "Reading the chapter on Nick Sleep and Zak in 'Richer, Wiser, Happier' during COVID crystallized that the holy grail is finding great businesses early, not paying too much, and riding them. Investing knowledge is cumulative, so unlike Tom Brady an investor keeps getting better with age.",
+      "stocks_or_cases": [
+        "Ben Graham",
+        "Nick Sleep",
+        "Qais Zakaria"
+      ]
+    },
+    {
+      "idea": "Buffett-style public equity investing is lower risk than startups because you see plenty of history to extrapolate and can spread bets, whereas 98-99% of startups are non-venture-backed and inherently high risk.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Entrepreneurs minimize risk by limiting what they can lose and keeping the option to go back and get a job; venture-backed founders play a different game because it's not their own capital.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "The biggest wealth in China over the next 10-20 years will come from businesses that are private or worth under $1 billion today, not from Tencent or Alibaba which can hardly go up more than 10x.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "He admits this is outside his own circle of competence, but tells students to roll up their sleeves and find the Tencents and Alibabas of tomorrow. He thinks Alibaba's model is not as good as Tencent's but both can do well.",
+      "stocks_or_cases": [
+        "Tencent",
+        "Alibaba",
+        "JD.com",
+        "PDD"
+      ]
+    },
+    {
+      "idea": "Everything about COVID unfolded opposite to what he expected, and it created secular, permanent shifts in behavior worth studying for investment opportunities.",
+      "topic": "Markets, cycles & macro",
+      "detail": "In March 2020 he never imagined indices at all-time highs in October 2021; he sees business travel and business hotels permanently impaired, delivery businesses like DoorDash becoming 'whatever you need in 30-60 minutes' businesses, and housing prices up because everyone wants more space at once.",
+      "stocks_or_cases": [
+        "DoorDash",
+        "Marriott"
+      ]
+    },
+    {
+      "idea": "He invests bottoms-up and opportunistically rather than picking sectors; basket bets only work when the world goes to extremes, like commodities in 2009.",
+      "topic": "Valuation & margin of safety",
+      "detail": "Most of the time so much capital chases good businesses that they get fully or overpriced, so you need an understanding of the business that differs from the world's to get a valuation gap.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Cloning is a hugely powerful and under-appreciated mental model; the small sliver of companies with cloning DNA have a massive advantage because most humans and companies look down on it.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "Almost all of Microsoft's success came from cloning (Word from WordPerfect, Excel, Azure) while most R&D was burned; Burger King used two guys to site stores across from McDonald's; Jim Sinegal said nothing he knows wasn't taught by Sol Price, and Costco later acquired Price Club; Sam Walton cloned Sears and Kmart. You can have two or three coffee players succeed, not thirty.",
+      "stocks_or_cases": [
+        "Microsoft",
+        "Burger King",
+        "McDonald's",
+        "Costco",
+        "Jim Sinegal",
+        "Sol Price",
+        "Price Club",
+        "Walmart",
+        "Sam Walton",
+        "Starbucks"
+      ]
+    },
+    {
+      "idea": "He doesn't get ideas from talking to people and is against analyst teams generating ideas; his two colleagues only help with deep dives on businesses he is already looking at.",
+      "topic": "Circle of competence & checklists",
+      "detail": "He makes one or two investments a year, so an idea-generating analyst would be frustrated by constant no's. Free Value Investors Club, a paid SumZero subscription (roughly $10-15k a year) and Value Line are enough; one could do really well with just Value Line and one or two investments a year.",
+      "stocks_or_cases": [
+        "Value Investors Club",
+        "SumZero",
+        "Value Line"
+      ]
+    },
+    {
+      "idea": "Humans are hard-coded by age five or six, and Buffett's treasure hunt at 11 picking up discarded racetrack tickets, at 26 with Moody's manuals, and today with the Japan Company Handbook is the same activity.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "Buffett refused to spend $10-15k on Capital IQ but happily spends $150 on the Japan Company Handbook, and told Pabrai 'all the good stuff is always at the back of the book'. The edge comes not from slicing data faster (NLP or otherwise) but from the analytics you apply; Buffett has no computer on his desk and became the richest guy.",
+      "stocks_or_cases": [
+        "Warren Buffett",
+        "Moody's Manual",
+        "Japan Company Handbook",
+        "Capital IQ",
+        "Tracy Britt"
+      ]
+    },
+    {
+      "idea": "The bottom of the market is continuously emptied out as good small investors get wealthy and move up the chain, so obscure opportunities for small capital are always available.",
+      "topic": "Markets, cycles & macro",
+      "detail": "Citing Joel Greenblatt: a $10,000 position matters to a beginner but Buffett can't touch it; Pabrai himself can't justify investments where only $50,000 could be put to work.",
+      "stocks_or_cases": [
+        "Joel Greenblatt",
+        "Warren Buffett"
+      ]
+    },
+    {
+      "idea": "There is no single template for great management; there are many ways to Nirvana and different styles fit different people.",
+      "topic": "Management & capital allocation",
+      "detail": "Reed Hastings has no office, wanders around and boasted of going three months without making a decision, yet that produced Squid Game; Bloomberg and Bruce Flatt sit in bullpens; Andy Grove managed by walking around. Buffett's baseball analogy: hitters stand differently but all can hit.",
+      "stocks_or_cases": [
+        "Netflix",
+        "Reed Hastings",
+        "Michael Bloomberg",
+        "Bruce Flatt",
+        "Brookfield",
+        "Andy Grove",
+        "Jeff Bezos"
+      ]
+    },
+    {
+      "idea": "Investing is like bridge: you can learn the game in 20 minutes but never master it in a lifetime, which makes it one of the broadest and most continuously challenging disciplines.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Recent books he found useful: The Antisocial Network (skimmable, on GameStop/Robinhood), Ace Greenberg's autobiography (recommended by Munger, good on learning from failure) and Red Roulette.",
+      "stocks_or_cases": [
+        "Ace Greenberg",
+        "Bear Stearns",
+        "GameStop",
+        "Robinhood"
+      ]
+    }
+  ]
+}

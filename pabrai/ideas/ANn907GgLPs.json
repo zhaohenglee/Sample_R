@@ -1,0 +1,261 @@
+{
+  "video_id": "ANn907GgLPs",
+  "date": "2020-10-08",
+  "title": "Mohnish Pabrai Lecture at Boston College (Carroll School of Mgmt) - October 8, 2020",
+  "summary": "Pabrai walks through century-long charts of the Dow, NASDAQ, Nikkei and KOSPI to argue that markets alternate between roughly 17-year flat and euphoric periods, and explains that 2020 was his second-biggest year of learning: he is abandoning his 'buy at 50 cents, sell at 90 cents' model in favor of holding great compounders and cannibals (NVR, Nick Sleep's Amazon/Costco/Berkshire) for decades. In Q&A he covers leverage as his top source of losses, why he avoids retail, recurring revenue streams, using DataRoma and circle of competence as filters, optionality (Ferrari inside Fiat Chrysler), the mistress-vs-wife switching trap, cloning as a competitive advantage, checklists, IPSCO and a Turkish warehouse company, dropping Kelly, and career advice to pursue passion.",
+  "ideas": [
+    {
+      "idea": "Markets go through very long flat periods and equally long euphoric periods, roughly 17 years each, because human memory does not go past 17 years.",
+      "topic": "Markets, cycles & macro",
+      "detail": "The Dow was flat from 1965 to 1982 (about 870) then went from under 1,000 to over 12,000 from 1982 to 1999, then flat again from 1999 to 2011; after the 1929 crash it took a quarter century to recover. Cites Maggie Mahar's book recommended by Buffett.",
+      "stocks_or_cases": [
+        "Dow Jones",
+        "S&P 500",
+        "Maggie Mahar"
+      ]
+    },
+    {
+      "idea": "When valuations get extreme enough, even incredible business growth cannot rescue the stock for 15 years or more.",
+      "topic": "Markets, cycles & macro",
+      "detail": "In 2000 Microsoft and Cisco were each around $600 billion with Microsoft earning under $10 billion at 70-plus times trailing earnings; Microsoft delivered zero returns until 2015-16 with violent drops. The NASDAQ took 16 years to get back to 5,000. The Nikkei peaked in 1990 and has done minus 2% a year for 30 years; the Imperial Palace in Tokyo was valued above all California real estate. Korea, by contrast, is now a cheap market he is interested in investing in.",
+      "stocks_or_cases": [
+        "Microsoft",
+        "Cisco",
+        "NASDAQ",
+        "Nikkei",
+        "KOSPI"
+      ]
+    },
+    {
+      "idea": "He used two different models in two different periods: set-and-forget in the 1990s, then 'buy at 50 cents, sell at 90 cents' from 1999 to 2020, and he forgot he was supposed to switch back.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "In 1994-99 he captured more than one hundred-baggers: Satyam Computers in India ($10-12k into $1.5 million, physical shares stuck in a drawer) and CMGI ($100k into about $10 million). Starting his fund in 1999 facing headwinds he switched to buying dollar bills for 50 cents and selling at 90, which worked well through 2011 but ideally he would have switched back two or three years before 2020.",
+      "stocks_or_cases": [
+        "Satyam Computers",
+        "CMGI",
+        "Berkshire Hathaway"
+      ]
+    },
+    {
+      "idea": "The 2020 lesson is that the flat-curve period is over and the goal now is to find great compounders or cannibals at reasonable prices and set them and forget them, bringing portfolio velocity to zero.",
+      "topic": "Compounding & long-term holding",
+      "detail": "He is no longer looking for a 50-cent dollar bill but for very long runways at reasonable prices with a lot of stability; one to three such ideas a year is enough. Munger does not sell businesses that go somewhat above intrinsic value, and Berkshire has not touched Coke in 32 years even at 40-plus times earnings in 2000.",
+      "stocks_or_cases": [
+        "Coca-Cola",
+        "Berkshire Hathaway",
+        "Charlie Munger"
+      ]
+    },
+    {
+      "idea": "A diehard cannibal with a stable business can deliver non-linear returns regardless of index headwinds.",
+      "topic": "Management & capital allocation",
+      "detail": "NVR, a home builder with no intellectual property, spent 100%-plus of owner earnings on buybacks every year since 1994 except 2008-09; top line up 3-4x in 20 years, share count down 56%, and the stock up 55x over the same 20 years.",
+      "stocks_or_cases": [
+        "NVR"
+      ]
+    },
+    {
+      "idea": "Once you find great compounders, let them run for decades, as Nick Sleep and Chuck Akre do.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "Nick Sleep returned about $3 billion in 2015 holding just Amazon, Costco and Berkshire, telling investors to buy the three stocks themselves; it did not matter what else he owned as long as he owned Amazon. Pabrai notes this approach would not have worked buying compounders at 50 times earnings in 2000-2016.",
+      "stocks_or_cases": [
+        "Nick Sleep",
+        "Amazon",
+        "Costco",
+        "Berkshire Hathaway",
+        "Chuck Akre"
+      ]
+    },
+    {
+      "idea": "The current party will end in extreme euphoria, his best guess somewhere between the late 2020s and early 2030s.",
+      "topic": "Markets, cycles & macro",
+      "detail": "As long as humans are involved, markets go from extreme undervaluation to extreme overvaluation; he does not know whether the cycles will be 10, 17 or 30 years but says extreme binges produce longer periods.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "The number one reason his investments failed was leverage.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "He had a few zeros and near-zeros from over-leveraged businesses: Delta Financial, a mortgage lender, went to zero in 2008-09 and CompuCredit produced a significant loss. He admits he still owns some businesses with more leverage than he would like.",
+      "stocks_or_cases": [
+        "Delta Financial",
+        "CompuCredit"
+      ]
+    },
+    {
+      "idea": "Valuation yardsticks differ by business; the key is identifying the two or three variables that drive the outcome and seeing the business the way the CEO does.",
+      "topic": "Circle of competence & checklists",
+      "detail": "Moutai has a $3-4 cost per bottle selling for $150 and went up 6-7x in 4-5 years (he sold it because of the 50/90 rule); Fiat Chrysler in 2012 had $130-plus billion revenue at a $5-6 billion market cap where even 2-4% margins meant a multi-bagger; for NVR all that matters is shares outstanding and cash flow at the end point. NVR builds no speculative homes and owns no land, only options.",
+      "stocks_or_cases": [
+        "Moutai",
+        "Fiat Chrysler",
+        "NVR"
+      ]
+    },
+    {
+      "idea": "Investing is a business of no called strikes, so you can dump entire industries like retail with no penalty.",
+      "topic": "Circle of competence & checklists",
+      "detail": "He hates retail because it is the most transparent business with no trade secrets and no customer contract, so it is a graveyard; he dumps Costco, Amazon and Walmart along with it and admits he does not understand Amazon's last-mile economics. There are infinite good things, so throwing away good stuff costs nothing.",
+      "stocks_or_cases": [
+        "Costco",
+        "Amazon",
+        "Walmart",
+        "Sam Walton",
+        "Kmart"
+      ]
+    },
+    {
+      "idea": "Recurring revenue streams (RRS) are the holy grail of business.",
+      "topic": "Moats & business quality",
+      "detail": "He hates ADP's prices but keeps trying and failing to leave because switching payroll is not worth the hassle; Broadridge gets paid per investor for filings that cost nearly zero to send digitally. Retailers like Walmart, Costco and Home Depot must win back customer loyalty every day against constant erosion.",
+      "stocks_or_cases": [
+        "ADP",
+        "Paychex",
+        "Broadridge",
+        "Costco",
+        "Walmart",
+        "Home Depot"
+      ]
+    },
+    {
+      "idea": "Hack the 50,000-stock universe by looking at what great investors have bought, then filter by circle of competence.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "DataRoma is free and cuts the universe by 90-98%; categorize investors like Chuck Akre, David Tepper and Jeff Ubben by pattern, favoring larger holdings. Buffett instead went page by page through the Moody's manual and Japan Company Handbook and refused Capital IQ.",
+      "stocks_or_cases": [
+        "DataRoma",
+        "Chuck Akre",
+        "David Tepper",
+        "Warren Buffett",
+        "Li Lu"
+      ]
+    },
+    {
+      "idea": "In the pandemic he exited Fiat Chrysler at a significant discount because auto operating leverage made outcomes unknowable, and doing nothing would have been better.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "Capitalism is brutal and most businesses are fragile; his unlevered Indian real estate companies could handle the overhead so he kept them. He made two new investments in late March 2020 that did very well.",
+      "stocks_or_cases": [
+        "Fiat Chrysler"
+      ]
+    },
+    {
+      "idea": "Growth and value are joined at the hip; all intelligent investing is value investing.",
+      "topic": "Valuation & margin of safety",
+      "detail": "Growth just means more and higher coupons in the future to discount; whether coupons grow 20%, 0% or decline 5%, each yields a valuation. Given a choice he wants to invest in growth and long runways without paying up too much.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Markets dislike messiness and wide outcome ranges, so embedded optionality remains mispriced for investors who appreciate that businesses do not move in straight lines.",
+      "topic": "Valuation & margin of safety",
+      "detail": "When he bought Fiat Chrysler in 2012 Ferrari made under $150 million a year and he dismissed it; they paid about $16 a share for Ferrari inside FCA and it went to $190-200, delivering a third of the total value. Starbucks Reserve is another example of optionality outside the model.",
+      "stocks_or_cases": [
+        "Fiat Chrysler",
+        "Ferrari",
+        "Starbucks",
+        "Costco"
+      ]
+    },
+    {
+      "idea": "Make 8-10 carefully selected long-runway bets at careful valuations and you end up very wealthy even if 40% of them fail.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "Equal-weighted, easily a third of Berkshire's acquisitions did not work, though dollar-weighted 80-90% did. If one of ten 10% bets becomes a 30-bagger and some are 5-10 baggers over 20-30 years, you do fine.",
+      "stocks_or_cases": [
+        "Berkshire Hathaway",
+        "ADP",
+        "Visa",
+        "MasterCard"
+      ]
+    },
+    {
+      "idea": "A moat should be obvious before you look at the numbers, and businesses with recurring revenue are more resilient than those that must earn customer trust daily.",
+      "topic": "Moats & business quality",
+      "detail": "He knows ADP and Visa are great before seeing any numbers; Chipotle has widened its moat with its app and delivery but is harder because it has no recurring revenue. Boeing looked like an incredible duopoly moat with no white tails and then all hell broke loose.",
+      "stocks_or_cases": [
+        "ADP",
+        "Visa",
+        "Chipotle",
+        "Starbucks",
+        "Boeing"
+      ]
+    },
+    {
+      "idea": "Set the hurdle for switching positions very high because the mistress always looks hotter than the wife.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "You know all the blemishes of what you own and none of the new shiny thing's; do not switch on 60:40. Guy Spier's inaction saves him: he refused to sell Nestle or buy Moutai until badgered into $100k, then regretted missing a 5x.",
+      "stocks_or_cases": [
+        "Guy Spier",
+        "Nestle",
+        "Moutai"
+      ]
+    },
+    {
+      "idea": "Humans and companies are bad at cloning, which creates a big window for businesses that embrace copying.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "Microsoft copied everything after its 1976 BASIC compiler (Excel from Lotus, Word from WordPerfect, Teams from Slack); Walmart copied Kmart and Sears for its first 15 years; Costco copied everything from Price Club; Starbucks brought the Italian cafe to Peoria. Markets do not recognize the power of great cloning.",
+      "stocks_or_cases": [
+        "Microsoft",
+        "Walmart",
+        "Costco",
+        "Price Club",
+        "Starbucks",
+        "NVR"
+      ]
+    },
+    {
+      "idea": "He never builds Excel models because precision leads you astray; a ~160-question checklist before investing exposes questions he cannot answer and counters greed.",
+      "topic": "Circle of competence & checklists",
+      "detail": "Typically he finds he does not know the answers to about 10 questions and goes back to do the work. Almost no business other than Costco passes with no blemishes; the judgment call is whether a given issue is the one that kills it.",
+      "stocks_or_cases": [
+        "Costco"
+      ]
+    },
+    {
+      "idea": "When an idea hits you over the head like a two-by-four, that is when you act; ignore anything that merely seems okay.",
+      "topic": "Stock case studies",
+      "detail": "IPSCO at $45 had $15 cash and two years of $15 contracted earnings, so plant and inventory were free; a Swedish buyer offered $160 in 2006 for a 4x. A Turkish warehouse operator with 12 million square feet and tenants like IKEA, Carrefour and Amazon had a market cap under $30 million versus liquidation value of $300 million to $1 billion and went up 7-8x in 13-14 months; micro trumps macro at the right price.",
+      "stocks_or_cases": [
+        "IPSCO",
+        "Turkish warehouse company",
+        "Value Investors Club",
+        "DataRoma"
+      ]
+    },
+    {
+      "idea": "The Kelly criterion does not apply to investing and was a mistake to put in The Dhandho Investor.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "Kelly works when you can make many similar-odds bets like 100 coin tosses at 51/49; investing is one bet at a time without the luxury of repeats, so he ignores it completely.",
+      "stocks_or_cases": [
+        "The Dhandho Investor"
+      ]
+    },
+    {
+      "idea": "The size of your circle of competence does not matter; what matters is not stepping outside it and playing at its epicenter.",
+      "topic": "Circle of competence & checklists",
+      "detail": "John Arrillaga became a billionaire investing only in real estate within a couple of miles of Stanford. Be a harsh grader; the most obvious ideas come from things you consume, like Shimano bike parts, which he passed on at double-digit earnings.",
+      "stocks_or_cases": [
+        "John Arrillaga",
+        "Shimano"
+      ]
+    },
+    {
+      "idea": "Judge leaders by what they have done, not what they say; public markets give you track records venture investors lack.",
+      "topic": "Management & capital allocation",
+      "detail": "Sergio Marchionne was obviously unusual in 2012 and kept exceeding his assessment; GM had competent but far lesser leadership so he sold it after 40-50% gains. Elon Musk understands first principles of physics unlike other auto CEOs, so he would neither go long (too expensive) nor short Tesla.",
+      "stocks_or_cases": [
+        "Sergio Marchionne",
+        "Fiat Chrysler",
+        "GM",
+        "Elon Musk",
+        "Tesla",
+        "Sam Walton"
+      ]
+    },
+    {
+      "idea": "Graduates in an advanced economy will never be homeless, so they should pursue their passion directly rather than a circuitous 20-year plan.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "The problem for elite graduates is opportunity cost since the world pays more than passion does; he started his first business part-time on credit cards while employed, and it is easiest when young, single and childless. The Staples founder stocked grocery shelves after Harvard Business School because he loved retail.",
+      "stocks_or_cases": [
+        "Staples",
+        "Warren Buffett"
+      ]
+    }
+  ]
+}

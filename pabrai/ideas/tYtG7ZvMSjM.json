@@ -1,0 +1,174 @@
+{
+ "video_id": "tYtG7ZvMSjM",
+ "date": "2023-06-14",
+ "title": "Mohnish Pabrai's Q&A with members of the Finance and Investment Cell at SRCC, Delhi on June 14, 2023",
+ "summary": "Returning virtually to SRCC, where he briefly studied in 1982, Pabrai answers student questions on personal finance for teenagers, investing in oneself, temperament, and why investors err. He uses NVIDIA's trillion-dollar euphoria and the Microsoft/Cisco/GE example from 2000 to warn against projecting the present to infinity, argues for focusing on micro over macro despite his Alibaba mistake, and shares views on demographics, ESG, venture capital and the AI race.",
+ "ideas": [
+  {
+   "idea": "Three things make even modest earners very wealthy: spend less than you earn, put savings in a low-cost index fund, and start as early as possible for the longest runway.",
+   "topic": "Compounding & long-term holding",
+   "detail": "Munger says consistently spending 5% more than you earn gives a life of misery while spending 5-10% less gives a bountiful life; decades later you will have left your peers far behind. He wishes this were core high school curriculum.",
+   "stocks_or_cases": [
+    "Charlie Munger"
+   ]
+  },
+  {
+   "idea": "Investing in yourself early delivers the greatest returns, but pursue your passion rather than doing an MBA for pay or opportunities.",
+   "topic": "Career, entrepreneurship & life",
+   "detail": "Only a couple of undergraduate courses, notably a public speaking elective chosen by coin toss, had lifelong impact; going to sleep a little wiser every day and reading for life compounds like a marathon.",
+   "stocks_or_cases": []
+  },
+  {
+   "idea": "Follow your nose down rabbit holes of curiosity; he ended up in investing because he randomly picked up a book on a flight to Chicago.",
+   "topic": "Career, entrepreneurship & life",
+   "detail": "He never worked in the industry or had finance degrees; that one book led to other readings and a new career.",
+   "stocks_or_cases": []
+  },
+  {
+   "idea": "Jugaad in investing means cutting a huge data set down to the two, three or four factors that will drive the outcome.",
+   "topic": "Circle of competence & checklists",
+   "detail": "The base path is reading historic annual reports, transcripts, industry and competitor reports; others' write-ups can accelerate learning if weighted correctly. Even then the error rate is 30-50%, and being right half the time while hanging on is fine.",
+   "stocks_or_cases": []
+  },
+  {
+   "idea": "India's opportunity set today is very different from the 1970s-90s, while the US immigration system is a mess with green-card waits that on paper run 70-80 years.",
+   "topic": "Geographies: India, China, Turkey, Japan, US",
+   "detail": "More than half his Indian school classmates ended up abroad; multinationals and world-class Indian companies now offer opportunities, and Canada, Australia and Singapore are gaining talent the US loses. The choice should rest on lifestyle, family and personal aspirations.",
+   "stocks_or_cases": []
+  },
+  {
+   "idea": "Passive index investing gives a great result; crossing into active stock picking is a different game mastered mainly by taking arrows in your back.",
+   "topic": "Psychology & temperament",
+   "detail": "Learn from your own and others' mistakes, and start with a framework, beginning with how many stocks your temperament lets you hold (5, 10, 20 or 30).",
+   "stocks_or_cases": []
+  },
+  {
+   "idea": "Many aspects of investing cannot be taught; a hyperactive trader is hard to convert into someone who buys one stock a year and holds for decades.",
+   "topic": "Psychology & temperament",
+   "detail": "Know your temperament, aptitude and style; read everything by Buffett and Munger and watch the hundreds of hours of Berkshire meetings at buffett.cnbc.com to form your framework.",
+   "stocks_or_cases": [
+    "Warren Buffett",
+    "Charlie Munger",
+    "Berkshire Hathaway"
+   ]
+  },
+  {
+   "idea": "The error rate in investing is high because humans project present circumstances to infinity, as with NVIDIA's euphoria at a $1 trillion market cap.",
+   "topic": "Markets, cycles & macro",
+   "detail": "NVIDIA was up almost 200% in five or six months of 2023; a DCF of plausible 10-year cash flows would be hard to stretch to $1 trillion. Markets vacillate between fear and greed because prices are set by sentiment in an auction-driven market.",
+   "stocks_or_cases": [
+    "NVIDIA"
+   ]
+  },
+  {
+   "idea": "NVIDIA today rhymes with Microsoft in early 2000, when a $600 billion market cap was not seen again for 13 years.",
+   "topic": "Stock case studies",
+   "detail": "The top three companies in 2000 were Cisco, Microsoft and General Electric; none was a great investment, GE has practically disappeared and Microsoft drew down to under $100 billion. In 1999-2000 he told Microsoft employees who invested in his then $2-3 million fund that their net worth was concentrated in Microsoft stock.",
+   "stocks_or_cases": [
+    "NVIDIA",
+    "Microsoft",
+    "Cisco",
+    "General Electric"
+   ]
+  },
+  {
+   "idea": "There are no called strikes in investing: not buying NVIDIA costs nothing even if it becomes a $10 trillion company.",
+   "topic": "Psychology & temperament",
+   "detail": "What matters is what you actually invested in; FOMO and the euphoric flavor of the day are a major source of errors.",
+   "stocks_or_cases": [
+    "NVIDIA"
+   ]
+  },
+  {
+   "idea": "Predicting a business's future trajectory is inherently error-prone, so an investor must be a pessimist and an optimist at the same time.",
+   "topic": "Psychology & temperament",
+   "detail": "Managers leave or arrive, regulations and import duties change, competitors act; saying a business will be worth three times as much in 5-10 years is by definition a high-error exercise.",
+   "stocks_or_cases": []
+  },
+  {
+   "idea": "Zero-commission phone trading has hurt investors; Buffett's 20-punch-card rule or a five-year minimum holding rule would help them.",
+   "topic": "Buffett & Munger lessons",
+   "detail": "Low frictional costs increase the propensity to trade in and out; slowing activity and reducing the number of decisions is counterintuitively beneficial.",
+   "stocks_or_cases": [
+    "Warren Buffett"
+   ]
+  },
+  {
+   "idea": "Focus on the business, not geopolitics; forecasts like Japan overtaking the US in the 1980s failed, and China's future trajectory is similarly hard to call.",
+   "topic": "Markets, cycles & macro",
+   "detail": "China lifted more people from poverty than any economy in history; if India achieved anything resembling that it would look like Dubai everywhere. Ray Dalio's superpower thesis is not something he spends time on.",
+   "stocks_or_cases": [
+    "Ray Dalio"
+   ]
+  },
+  {
+   "idea": "Declining populations in Japan, Korea and China are a headwind for domestically focused consumer businesses, whereas the US is an anomaly with a growing population thanks to immigration.",
+   "topic": "Markets, cycles & macro",
+   "detail": "Japan lost about 1.6 million people versus 800,000 births last year; Korea's fertility is under 0.8. The US grew from about 250 million to 335 million in 40 years. To thrive in shrinking markets a company needs a unique mousetrap like NVIDIA's or must be an export juggernaut.",
+   "stocks_or_cases": [
+    "NVIDIA"
+   ]
+  },
+  {
+   "idea": "Alibaba was a mistake that went sideways because of state actions from left field, yet he still favors focusing on the micro over the macro.",
+   "topic": "Mistakes & lessons learned",
+   "detail": "A 40-50% error rate is par for the course; even Buffett, the best of the best, has a 50% error rate on businesses he buys.",
+   "stocks_or_cases": [
+    "Alibaba",
+    "Warren Buffett"
+   ]
+  },
+  {
+   "idea": "All investment manager misery stems from the inability to sit quietly in a room and do nothing.",
+   "topic": "Psychology & temperament",
+   "detail": "A paraphrase of Pascal; combined with his father's rule that one good wife and one good friend are all you need, he argues less is more and quality beats quantity.",
+   "stocks_or_cases": [
+    "Blaise Pascal"
+   ]
+  },
+  {
+   "idea": "Make a deliberate effort to be friends with a small number of people vastly better than you, because there is a gravitational pull in both directions.",
+   "topic": "Career, entrepreneurship & life",
+   "detail": "Hang out with people better than you and you get better; mediocre relationships can have negative impacts. He says less human contact generally makes him happier, except with a few people.",
+   "stocks_or_cases": []
+  },
+  {
+   "idea": "ESG 'tree huggers have gone nuts': civilization cannot make steel without metallurgical coal, and engineering, not just prevention, can address emissions.",
+   "topic": "Markets, cycles & macro",
+   "detail": "Carbon-capture technologies exist and their cost curves are worth driving down; airplanes will use fossil fuels for decades or a century. Rating Tesla below Philip Morris on ESG shows how political and bizarre it has become.",
+   "stocks_or_cases": [
+    "Tesla",
+    "Philip Morris International"
+   ]
+  },
+  {
+   "idea": "A simple rule to defeat the snake-oil salesmen of Wall Street is never to invest in IPOs or in companies with fewer than 5-10 years of public history.",
+   "topic": "Circle of competence & checklists",
+   "detail": "Investors with poor outcomes have only themselves to blame; bankers and underwriters have packaged exciting stories for a hundred years and it is the investor's job to sift through them.",
+   "stocks_or_cases": []
+  },
+  {
+   "idea": "Venture capital provides a real service to society but is a very hard business where only top-quartile firms with brand-driven deal flow do well.",
+   "topic": "Career, entrepreneurship & life",
+   "detail": "A VC investor in his fund said his results would be spectacular if he could invest in Sequoia's trash can; Sequoia, Andreessen Horowitz and Y Combinator get the pick of the litter. VCs dressing up the pig for IPO is expected, and investors should just be skeptical.",
+   "stocks_or_cases": [
+    "Sequoia",
+    "Andreessen Horowitz",
+    "Y Combinator"
+   ]
+  },
+  {
+   "idea": "Questions like who will win the AI race are too-hard-pile blue-sky thinking; he prefers simpler questions with a higher probability of being right.",
+   "topic": "Circle of competence & checklists",
+   "detail": "After a two-and-a-half-hour dinner beside Bill Gates in Omaha in 2023, playing long/short/neutral on NVIDIA, AMD, Google and Salesforce, he would keep an existing Microsoft investment but as a cheapskate would hesitate to pay a rich price for it today.",
+   "stocks_or_cases": [
+    "Microsoft",
+    "Bill Gates",
+    "NVIDIA",
+    "AMD",
+    "Google",
+    "Salesforce"
+   ]
+  }
+ ]
+}

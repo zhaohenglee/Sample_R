@@ -1,0 +1,134 @@
+{
+  "video_id": "HhA8WfnEw9I",
+  "date": "2023-07-28",
+  "title": "Mohnish Pabrai's Interview at the Meb Faber Show on July 28, 2023",
+  "summary": "A wide-ranging conversation covering Pabrai's path from Clemson engineering to investing, his love of Bridge (including games with Munger and Buffett), and a detailed update on Dakshana's IIT results. The investing core is his non-consensus views: that even Buffett made most of his money on ~4% of bets so winners must be held for decades like a founder would, that Turkey offered no-brainers nobody would look at, and that the best investments are anomalies like IPSCO and funeral-home stocks at 2x earnings.",
+  "ideas": [
+    {
+      "idea": "The most important thing to teach 9th or 10th graders is the logarithmic power of compounding and the rule of 72.",
+      "topic": "Compounding & long-term holding",
+      "detail": "At 10% a year money doubles every seven years, so an 18-year-old with a 70-year runway gets close to 10 doubles (1024x): $1,000 saved at 18 becomes a million; spend less than you earn, put it in a compounding engine and don't mess with it.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Retirement savings should be opt-out, automatic into an index fund, with no loans or withdrawals, because it is too easy to shut off the engine.",
+      "topic": "Compounding & long-term holding",
+      "detail": "People cash out 401ks when they leave jobs, pay the penalty and end up with $40-100K at 70 when it should be millions; nobody explains the logarithmic nature of compounding even when people enroll.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Dakshana works because a $3,000 two-year program unlocks a 25-to-1 government subsidy match and lifts families out of poverty permanently.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "The IIT entrance exam has a 1.3% admit rate (1.3 million takers for 16,000 seats) versus ~5% for Harvard/Princeton; Dakshana's success rate is close to 60% for IITs and over 90% including NITs, with about 1,000 graduates a year taking ~4% of IIT seats, and kids go from under $3/day family income to $150-200K starting salaries.",
+      "stocks_or_cases": ["Dakshana Foundation", "IIT"]
+    },
+    {
+      "idea": "Dakshana focuses on the inner scorecard: put your head down, do the work, and let the chips fall where they may.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "After 16 years the program runs on a deep partnership with India's largest government rural magnet school system; oldest alums are 32, some funded by Y Combinator, and Dakshana expects to max out at 12-13% of IIT seats.",
+      "stocks_or_cases": ["Dakshana Foundation"]
+    },
+    {
+      "idea": "Even Warren Buffett made most of his money on about 4% of his bets, so investing is an art that tolerates a very high error rate only if you hold high-conviction winners for a very long time.",
+      "topic": "Compounding & long-term holding",
+      "detail": "He realized this from Buffett's 2023 letter: one in 25 bets moved the needle; Shelby Davis's dynasty made 80-90% of its fortune from AIG, a sub-2% position he never sold among a zillion small insurance bets that mostly didn't work.",
+      "stocks_or_cases": ["Warren Buffett", "Shelby Davis", "AIG"]
+    },
+    {
+      "idea": "The index does so well because it is too dumb to sell Microsoft, Google or Facebook, while mutual funds go in and out of stocks all the time.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "The S&P only throws out a company when it is so long in the tooth that it's obvious; our views of what a business looks like in 5-15 years are usually wrong, so you must hold both the wrongs and the rights for a very long time to collect the fruits.",
+      "stocks_or_cases": ["Microsoft", "Google", "Facebook"]
+    },
+    {
+      "idea": "Think of yourself as a founder or partner in a private family business, not a stock trader; control is overrated.",
+      "topic": "Compounding & long-term holding",
+      "detail": "The Waltons have held Walmart since 1970 with no control and no Walton running it; the IKEA founder had 99.99% of net worth in one company; entrepreneurs sleep fine with 99% in one business, so why should an investor use a different framework?",
+      "stocks_or_cases": ["Walmart", "Walton family", "IKEA", "Google"]
+    },
+    {
+      "idea": "Berkshire should do nothing with Apple until there is a permanent secular decline, because you can never cash out at the top anyway.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "He sees no concern for Apple for at least 5-10 years; Apple is only a fourth or fifth of Berkshire, which also has MidAmerican (a 50-bagger from $2B to nearly $100B), the railroad, $130-140B cash and $30B a year coming in, so focus on deploying the incoming money.",
+      "stocks_or_cases": ["Apple", "Berkshire Hathaway", "MidAmerican Energy", "BNSF"]
+    },
+    {
+      "idea": "Buffett's ability to keep adding to Apple at five times his first purchase price shows he is not anchored, a great skill Pabrai admits he lacks as a cheapskate.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "He was having a hard time finding things in the US in 2023 partly because he didn't fully grasp how strong the tech tailwinds and businesses like Amazon were; his 13Fs sometimes carry only two or three names.",
+      "stocks_or_cases": ["Apple", "Amazon", "Warren Buffett"]
+    },
+    {
+      "idea": "Turkey in 2018 was a no-brainer that smart investors refused to even look at because they couldn't get past the country to the company.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "Market cap to GDP was a very small fraction versus over 100% in the US, and everyone had exited; after visiting 80-90 businesses over five years with a Graham-style local friend as unpaid analyst, he owns just three Turkish companies, none correlated with Turkish inflation.",
+      "stocks_or_cases": ["Turkey"]
+    },
+    {
+      "idea": "In an inflationary country, look for the sliver of businesses where currency and inflation are irrelevant or even tailwinds, because the baby gets thrown out with the bathwater.",
+      "topic": "Markets, cycles & macro",
+      "detail": "A Coke bottler with only 35-40% of volume from Turkey (largest bottler in Pakistan, Coca-Cola owns 20%) traded as an outlier versus global bottlers; a juice exporter earns Euros with Lira costs; a warehouse company had $600-700M liquidation value and a $20M market cap; the market is mostly right that inflation clobbers most companies, but not entirely right.",
+      "stocks_or_cases": ["Coca-Cola Icecek", "Reysas", "Coca-Cola"]
+    },
+    {
+      "idea": "Never hedge currency; instead pick businesses where the currency view doesn't matter.",
+      "topic": "Markets, cycles & macro",
+      "detail": "Hedging the Lira or Rupee would be expensive and impractical for long; he expected continued devaluation and high inflation in Turkey and sidestepped it by choosing businesses immune to those conditions.",
+      "stocks_or_cases": ["Turkey", "India"]
+    },
+    {
+      "idea": "A bank at a P/E of 0.1 with too much hair is a pass: even extreme cheapness doesn't justify sanctions-violation risk.",
+      "topic": "Circle of competence & checklists",
+      "detail": "The first Turkish company his friend showed him was a large bank facilitating Iran transactions whose executive was jailed at Rikers; Pabrai told him to take it down a notch to at least a P/E of one.",
+      "stocks_or_cases": ["Halkbank"]
+    },
+    {
+      "idea": "Outside the US, Canada, India and parts of Western Europe, he needs trusted ground cover, and people and governance matter more than macro.",
+      "topic": "Management & capital allocation",
+      "detail": "The Turkish families he invested with (the Coke bottler family also holds the McDonald's franchises and an AB InBev JV) are among the highest quality, most ethical people he has met, higher quality than he would get in the US; without a Buffett-Munger-literate local he can't do much with a Mexican stock tip.",
+      "stocks_or_cases": ["Anadolu Group", "Turkey"]
+    },
+    {
+      "idea": "India is a good hunting ground because of secular tailwinds: China in the penalty box, a demographic dividend and a growing population.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "Before Turkey he had invested in India and made trips to Korea, China and Japan; India remains his usual default outside the US.",
+      "stocks_or_cases": ["India", "China"]
+    },
+    {
+      "idea": "He prefers the Amazon way of many small bets nurtured on traction over the Facebook way of one all-or-none bet on the Metaverse.",
+      "topic": "Management & capital allocation",
+      "detail": "Bezos buries products like the Fire phone that don't get traction; Bill Gates, over a 2.5-hour dinner in Omaha 2023, said Apple doesn't do R&D and is top-down by Steve's design, and would go long Amazon, Microsoft and AMD.",
+      "stocks_or_cases": ["Amazon", "Facebook", "Apple", "Microsoft", "AMD", "ASML", "Bill Gates"]
+    },
+    {
+      "idea": "Shorting is a little bit dumb, and shorting someone like Elon is very dumb.",
+      "topic": "Psychology & temperament",
+      "detail": "Said in response to Bill Gates's famous Tesla short.",
+      "stocks_or_cases": ["Tesla", "Bill Gates"]
+    },
+    {
+      "idea": "The most memorable investments are anomalies where guaranteed cash flows exceed the market cap, like IPSCO in 2004.",
+      "topic": "Stock case studies",
+      "detail": "IPSCO had $15/share cash, no debt and contracted earnings of $15/share for each of the next two years with the stock at $42; a third year of guidance followed, and a Swedish company bought it at $160 when he was thinking of selling near $90. In 2023 he found two similar anomalies in the US that will show up in the next 13F.",
+      "stocks_or_cases": ["IPSCO"]
+    },
+    {
+      "idea": "Funeral homes have the lowest failure rate of any business, so buying two of them at a P/E of 2 in 2001 was an easy call.",
+      "topic": "Stock case studies",
+      "detail": "Found via Value Line's lowest-PE list; Stewart Enterprises had rollup debt but resilient cash flows (we don't know who dies in Peoria next week but we know how many) and went from 2x to 10x earnings.",
+      "stocks_or_cases": ["Stewart Enterprises", "Value Line"]
+    },
+    {
+      "idea": "Investing is a business with no called strikes: you can let 3,000 balls go and don't need an opinion on Tesla or Bitcoin.",
+      "topic": "Circle of competence & checklists",
+      "detail": "Be an inch wide and a mile deep, like Munger's friend John Arrillaga who only did real estate within a mile of Stanford and died a billionaire.",
+      "stocks_or_cases": ["John Arrillaga", "Tesla", "Bitcoin"]
+    },
+    {
+      "idea": "Bridge correlates a lot with investing, and the data points that he was suited to investing were there at Clemson long before he heard of Buffett.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "In a 1985 investing class he had a 106% average and the professor said he was in the wrong major; he only pivoted 13 years after graduating, after reading the first Buffett biography, having played Bridge with Munger for years and once online with Buffett (handle T-Bone).",
+      "stocks_or_cases": ["Warren Buffett", "Charlie Munger"]
+    }
+  ]
+}

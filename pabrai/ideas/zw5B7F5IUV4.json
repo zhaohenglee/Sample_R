@@ -1,0 +1,140 @@
+{
+  "video_id": "zw5B7F5IUV4",
+  "date": "2022-09-16",
+  "title": "Mohnish Pabrai's Q&A Session with Ironhold Capital on September 16, 2022",
+  "summary": "Pabrai explains his 'hacks' for intrinsic value: stay within the circle of competence, only need to know value is above X, and use liquidation value, illustrated with IPSCO, Reysas and Rain Industries. He covers idea sourcing (Value Investors Club, DataRoma, Turkey trips), the need for a sounding board and an expected one-third error rate, how moats are apparent from consumer experience, the limits of meeting management, his 2008 Buffett lunch, favorite resources, and Dakshana's focus on measurable outcomes.",
+  "ideas": [
+    {
+      "idea": "Intrinsic value (John Burr Williams' discounted cash to judgment day) is simple to define but far from elementary to calculate, so investing without a sense of it is a fool's errand and you need hacks.",
+      "topic": "Valuation & margin of safety",
+      "detail": "Even insiders running a business for 10-30 years struggle to project cash flows years out; outside investors are more handicapped.",
+      "stocks_or_cases": ["John Burr Williams"]
+    },
+    {
+      "idea": "First hack: do not aspire to know the intrinsic value of everything; ignore anything outside your circle of competence such as biotech or technology you do not understand.",
+      "topic": "Circle of competence & checklists",
+      "detail": "Large swaths of equities fall outside any individual's circle; if you cannot identify the main factors that drive an industry, move on.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Second hack: you only need to know that value is above X, such as a stock at 50 with value over 80, or that liquidation value is two to three times the price and not degrading.",
+      "topic": "Valuation & margin of safety",
+      "detail": "Liquidation value is relatively easy to compute in most cases and sometimes exceeds the stock price, giving a basis to proceed without a precise number.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "IPSCO in 2004-05 was a bet where two years of contracted earnings plus balance-sheet cash equaled the $45 stock price, leaving all plants and inventory free.",
+      "topic": "Stock case studies",
+      "detail": "$15 a share cash, no debt, $15 a share net income guided for each of the next two years; a year later they added a third year and the stock hit $90, then a Swedish company offered $160 and he sold at about $150-152 within a femtosecond. The market confuses risk with uncertainty.",
+      "stocks_or_cases": ["IPSCO"]
+    },
+    {
+      "idea": "Reysas in Turkey in 2019 was bought at a $20 million market cap against over $1 billion liquidation value and $200 million of debt, about 2.5-3 cents on the dollar.",
+      "topic": "Stock case studies",
+      "detail": "12 million square feet of class A warehouses, 20% refrigerated, 99% leased on 10-year inflation-indexed leases, with good capital allocators; intrinsic value probably over $800 million but he did not need to compute it.",
+      "stocks_or_cases": ["Reysas"]
+    },
+    {
+      "idea": "Rain Industries (bought 2015, still owned) was a no-downside, unknown-upside bet that a single year's earnings would exceed the sub-$200 million market cap within five years.",
+      "topic": "Stock case studies",
+      "detail": "A cyclical low-cost producer; within three years earnings hit $200 million and market cap neared $2 billion. He did not sell and it fell back to $700-800 million, but he expects it to pass the old high in the fullness of time.",
+      "stocks_or_cases": ["Rain Industries"]
+    },
+    {
+      "idea": "If you need Excel to figure out intrinsic value, there is a problem; you should be able to do it in your head.",
+      "topic": "Circle of competence & checklists",
+      "detail": "For Starbucks or McDonald's the odds of lower earnings in 5-10 years are very low; the complication is how much higher, e.g. China going from 5,000 to 10,000 stores in 5 years, which requires more assumptions than Reysas or Rain.",
+      "stocks_or_cases": ["Starbucks", "McDonald's"]
+    },
+    {
+      "idea": "With 50,000 listed companies there is always some business, region or industry under an overhang; buy great businesses when they are on the operating table.",
+      "topic": "Markets, cycles & macro",
+      "detail": "Buffett's quote; temporary hiccups make it easier to find the floor of value and get in below a conservative assessment.",
+      "stocks_or_cases": ["Warren Buffett"]
+    },
+    {
+      "idea": "He waits for an idea to hit him like a two-by-four; two investments a year is a good year, and in the first eight months of 2022 he found one and a second just appeared.",
+      "topic": "Psychology & temperament",
+      "detail": "Future years could bring zero or four ideas; basic questions like circle of competence and 'what is it worth' eliminate most of the 50,000 stocks.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Limiting yourself to businesses written up on Value Investors Club is a hack that trims the universe to a well-curated set better than throwing darts.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "Membership is difficult and requires submitting decent ideas each year. DataRoma's 13F filings and Barron's are other sources; his assistant shows him all VIC ideas posted in the last month, and Value Line arrives weekly.",
+      "stocks_or_cases": ["Value Investors Club", "DataRoma", "Barron's", "Value Line"]
+    },
+    {
+      "idea": "He went to Turkey in 2018 because the currency was unstable, everyone was leaving and the market looked optically cheap, visiting only companies already in a trusted friend's portfolio.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "The 2019 follow-up trip is when he visited Reysas at 3% of liquidation value; a geography under stress can be a funnel input.",
+      "stocks_or_cases": ["Reysas"]
+    },
+    {
+      "idea": "He directs 80-90% of his horsepower to one business at a time and compares any new candidate against it on a risk-adjusted basis.",
+      "topic": "Psychology & temperament",
+      "detail": "He still reads several newspapers daily and scans other ideas, most of which are discarded quickly.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Munger told him in 2009 it is really important to have someone to talk to about investments, and seeking unbiased opinions helps lower the error rate.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "Munger said it was not always Warren; Pabrai deliberately began seeking out differing opinions after that second meeting.",
+      "stocks_or_cases": ["Charlie Munger", "Warren Buffett"]
+    },
+    {
+      "idea": "Expect at least one-third of bets to fail, even for Buffett: more than a third of Berkshire's 70-80 acquisitions did not work on an equal-weighted basis.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "Templeton's rule means two or three of six bets over three years will do far worse than expected. Every Berkshire furniture retailer except Nebraska Furniture Mart and every jeweler except Borsheims failed, and many would have gone under in the financial crisis without the parent; dollar-weighted, Buffett's larger bets worked.",
+      "stocks_or_cases": ["John Templeton", "Berkshire Hathaway", "Nebraska Furniture Mart", "Borsheims"]
+    },
+    {
+      "idea": "Within your circle of competence a moat is apparent from thinking about the business and is then ratified by high unlevered returns on equity over a long period.",
+      "topic": "Moats & business quality",
+      "detail": "Starbucks, all company-owned, recovers store investment in two years in the US and 15-18 months in China, about 36% unlevered ROE with a huge runway. Knowing a great business is easy; knowing whether it is a great investment is much harder.",
+      "stocks_or_cases": ["Starbucks"]
+    },
+    {
+      "idea": "The products and services you personally consume are full of deep moats, because winning a share of your wallet is a high bar.",
+      "topic": "Moats & business quality",
+      "detail": "Your razor, toothpaste, breakfast brands and car; ADT has a moat because insurers require it; Moody's and S&P have moats because ratings are written into bond covenants.",
+      "stocks_or_cases": ["ADT", "Moody's", "S&P"]
+    },
+    {
+      "idea": "Scuttlebutt, as Phil Fisher advocated, is a wonderful add-on and he admits he should do more of it.",
+      "topic": "Circle of competence & checklists",
+      "detail": "He tries to think about whom to call among users, competitors, customers and suppliers, or to be a user himself.",
+      "stocks_or_cases": ["Phil Fisher"]
+    },
+    {
+      "idea": "Meeting management is dangerous because CEOs are optimistic salesmen who understand the business better than you; rely on the track record and use meetings mainly to check you have the right two or three variables.",
+      "topic": "Management & capital allocation",
+      "detail": "Graham opposed meeting management so retail investors could replicate his methods. Leaders know the two or three variables driving 80% of the outcome, and meetings help confirm you have the same ones or reveal a bothersome issue.",
+      "stocks_or_cases": ["Ben Graham"]
+    },
+    {
+      "idea": "The 2008 Buffett lunch, bid simply to say thank you for his public-domain IP, delivered unbelievable value because Buffett's mindset is to make the winner feel they got a bargain.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "It ran almost three hours and covered about 54 questions. A question about Rick Guerin became a lesson: Rick had margin calls in 1973-74 and sold Berkshire to Buffett at about $40; 'if you are slightly above average, spend less than you earn and don't use leverage, you cannot help but get rich'. The introduction to Munger was the gift that kept giving.",
+      "stocks_or_cases": ["Warren Buffett", "Rick Guerin", "Charlie Munger", "Guy Spier", "Berkshire Hathaway"]
+    },
+    {
+      "idea": "His most helpful resources are Poor Charlie's Almanack (reread yearly), Thomas Phelps' 100 to 1 in the Stock Market, the Berkshire letters and the archived Berkshire meetings on buffett.cnbc.com.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "He listened to all the archived meetings in the shower over six months, twice, and has attended every meeting since 1998.",
+      "stocks_or_cases": ["Poor Charlie's Almanack", "Thomas Phelps", "Berkshire Hathaway"]
+    },
+    {
+      "idea": "Large inheritances do more harm than good, so beyond a head start the money should go to society; Dakshana was started about 15 years ago in his early forties.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "Modest lifestyle plus compounding plus fees on other people's money meant sums well beyond need; putting heirs on an IV drip is counterproductive.",
+      "stocks_or_cases": ["Dakshana"]
+    },
+    {
+      "idea": "Most charities have great hearts but not great heads and cannot quantify impact, so Dakshana's hack is to do only things that are easy to measure, just like the intrinsic value hack.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "Dakshana coaches gifted 16-18-year-olds from very poor families for IIT and medical entrance exams; an independent external report card each year shows admissions that the team cannot fudge, with cost per kid and lifetime benefit extrapolations.",
+      "stocks_or_cases": ["Dakshana", "IIT"]
+    }
+  ]
+}

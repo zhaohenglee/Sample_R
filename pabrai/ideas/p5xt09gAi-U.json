@@ -1,0 +1,116 @@
+{
+  "video_id": "p5xt09gAi-U",
+  "date": "2021-08-02",
+  "title": "Brown University Value Investing Speaker Series: Q&A with Mohnish Pabrai",
+  "summary": "In a student Q&A, Pabrai lays out his 'spawner' framework and a hierarchy of capital redeployment, contrasting IEX, Tencent, Berkshire and MasterCard, and defends China's education crackdown from his Dakshana experience. He then advises small investors to set an absolute return target and hunt in market nooks like Buffett with his Ak-sar-ben tickets and Moody's manuals, explains how to raise a fund only after a proven record, and revisits his Ferrari selling regret and the MasterCard vs. Seritage bet with Guy Spier.",
+  "ideas": [
+    {
+      "idea": "Mechanical filters make him cringe because the real world and individual businesses are messy; statistical cheapness is only the beginning of the hunt.",
+      "topic": "Circle of competence & checklists",
+      "detail": "A stock well below book value may be worth far more or far less than book, and a P/E of 2 may be deserved if the company is gone in year three. After finding something cheap, the first question is whether it's within your circle of competence and you can figure it out.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "The best use of capital is an internal spawning engine with a high hit rate, second is buying or investing in other businesses at valuations that yield high ROE, and third is dividends or buybacks, which work best at modest valuations.",
+      "topic": "Management & capital allocation",
+      "detail": "Amazon redeploys mostly through internal spawns while Berkshire mostly acquires externally; MasterCard, despite very high net margins, must buy back stock at 40x earnings because it has no other option, and buying at 10x would be far better. Spawners sit at the apex of the pyramid.",
+      "stocks_or_cases": ["Amazon", "Berkshire Hathaway", "MasterCard"]
+    },
+    {
+      "idea": "Indian Energy Exchange is an effective monopoly with 80% operating margins whose share of India's electricity has grown from under 3% to over 6.5%, but like most great businesses it cannot redeploy its cash and can only dividend or buy back.",
+      "topic": "Stock case studies",
+      "detail": "IEX collects about 1.5% of the amount transacted; $100 of revenue becomes about $80 pre-tax and about $60 after 25% tax. Its first spawn, Indian Gas Exchange, also needs almost no capital.",
+      "stocks_or_cases": ["Indian Energy Exchange", "Indian Gas Exchange"]
+    },
+    {
+      "idea": "Tencent contains a 'Sequoia Fund on steroids': a biz dev arm that redeploys roughly $15 billion of annual free cash flow into mostly private, post-traction businesses with a record that rivals the best VCs, and with no carry.",
+      "topic": "Moats & business quality",
+      "detail": "They avoid large stakes to preserve team incentives and have backed 15-20 companies that became unicorns; this redeployment engine is extremely rare among even great businesses.",
+      "stocks_or_cases": ["Tencent"]
+    },
+    {
+      "idea": "Berkshire never paid a dividend from 1965 onward (except once, when Buffett jokes he was in the bathroom) and didn't even buy back shares for over 40 years because it could redeploy all cash, until recently when it ran out of opportunities.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "See's Candies has been a money spinner that can't use its own cash, but the Berkshire engine took See's cash flow and bought a hundred other businesses; the stock is now over $400,000 a share.",
+      "stocks_or_cases": ["Berkshire Hathaway", "See's Candies", "Warren Buffett"]
+    },
+    {
+      "idea": "He sides with the Chinese government on cracking down on for-profit tutoring, calling the equivalent Indian industry 'rootless capitalists' after 14 years of studying it at Dakshana.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "With 10-15,000 IIT seats and half a million to a million aspirants, capitalism creates toll bridges that don't add seats; in China the cost and effort made couples decide not to have more kids, which is why the government stepped in. A blogger he follows says China is innovation then regulation, Europe regulation then no innovation, and the US innovation and no regulation.",
+      "stocks_or_cases": ["Dakshana"]
+    },
+    {
+      "idea": "China's large tech players are high quality and operated in a wild west where rules were undefined, so government tweaks may ultimately produce a better, more competitive ecosystem.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "He says very little that has happened in China recently makes him scratch his head, and a robust competitive environment is healthy for the country. He declined to comment on current portfolio holdings.",
+      "stocks_or_cases": ["Tencent"]
+    },
+    {
+      "idea": "US payment systems are archaic with extremely high frictional costs, so Visa and MasterCard's 2-3% take is a moving target globally even though their US moat, reinforced by airline-mile kickbacks, is very hard to disrupt.",
+      "topic": "Moats & business quality",
+      "detail": "China and Korea are far more advanced; using a bank or other rails would cut a small merchant's cost by over 95%. Alipay and Tencent Pay built great moats, but payments can shift rapidly so one must be careful.",
+      "stocks_or_cases": ["Visa", "MasterCard", "Alipay", "Tencent"]
+    },
+    {
+      "idea": "Some businesses are so good an idiot can run them, like a Coke bottler with a monopoly territory, while most of capitalism is dog-eat-dog where you must be amazing at execution.",
+      "topic": "Moats & business quality",
+      "detail": "The dying bottler's advice to his kids: 'whatever you do, don't let them change the contract'. Businesses that must be well managed to survive end up well managed; those that can tolerate slack generally have it, so most Coke and Pepsi bottlers are undermanaged.",
+      "stocks_or_cases": ["Coca-Cola", "Pepsi"]
+    },
+    {
+      "idea": "A small investor should set an absolute target such as doubling every three years (about 26% a year), which rules out buying at 80% of intrinsic value and requires buying a dollar for 30 cents.",
+      "topic": "Valuation & margin of safety",
+      "detail": "Sources can include distressed or high-yield bonds yielding over 30% to maturity when mispriced; Munger bought Tenneco common and bonds at 20-30 cents on the dollar around 2002 and turned $10 million into $80 million in three or four years.",
+      "stocks_or_cases": ["Charlie Munger", "Tenneco"]
+    },
+    {
+      "idea": "Successful investors are forced to move up the capital chain, leaving the low end permanently open to young, enterprising entrants.",
+      "topic": "Markets, cycles & macro",
+      "detail": "Per Joel Greenblatt, a $1 million investor earning 50% soon has $10 million and can no longer use the small opportunities; managing about $750 million, Pabrai won't research a business where he can only deploy $2 million even if he'd love the hunt.",
+      "stocks_or_cases": ["Joel Greenblatt"]
+    },
+    {
+      "idea": "Who you are is hard-coded by age five, so the best life comes from aligning your behavior with your inborn traits; Buffett at 80 with the Japan Company Handbook was doing exactly what he did at 12 with racetrack tickets and at 25 with Moody's manuals.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "Young Buffett picked up discarded Ak-sar-ben tickets and had Aunt Alice cash the winners; later he read every company in Moody's manuals twice from 7 AM to 11 PM, finding things like an insurer with a $15 million market cap and $25 million earnings. He couldn't help himself with Korean stocks either. The Upanishads: 'your deepest desire is your destiny'.",
+      "stocks_or_cases": ["Warren Buffett", "Moody's Manual", "Japan Company Handbook"]
+    },
+    {
+      "idea": "There will always be winning tickets on the ground; the only question is whether you'll bend down and pick them up, as with a Turkish company at a $20 million market cap and $500-600 million liquidation value in 2019, or Rain Industries in 2015.",
+      "topic": "Psychology & temperament",
+      "detail": "Neither 80 million Turks nor 1.3 billion Indians were interested, so 'the guy from Bandra' had to do the job. These sit in plain daylight but you must be passionately focused on the hunt.",
+      "stocks_or_cases": ["Reysas", "Rain Industries"]
+    },
+    {
+      "idea": "Lunches with Buffett's assistant Debbie Bosanek gave more of the real lowdown than lunch with Buffett himself, because Buffett has a veneer of diplomacy.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "For several years he and Guy Spier took Debbie to lunch on the Thursday before the annual meeting; one year Buffett met them at the 14th-floor elevator and gave a headquarters tour.",
+      "stocks_or_cases": ["Warren Buffett", "Debbie Bosanek", "Guy Spier"]
+    },
+    {
+      "idea": "Before starting a fund you should already be independently wealthy from 10 years of 30-50% annual returns on your own small capital; if you have a great record, investors will 'swim to you in shark-infested waters'.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "He started with $1 million from eight investors who had done well on his stock tips; since the SEC bars solicitation but not talking to existing investors, he told them their 'mission in life' was to bring in assets, and went from 8 to 17 to 25 investors.",
+      "stocks_or_cases": ["Pabrai Investment Funds", "Warren Buffett"]
+    },
+    {
+      "idea": "Selling his 1%-plus of Ferrari because it traded at 30-40x earnings is a deep regret: the funds made about $100 million but would hold about $300 million of Ferrari stock today.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "He owned 1.3-1.4% of Fiat Chrysler after putting about $70 million in at a $5 billion market cap, and received 1.3 million Ferrari shares in the spin-off. He thinks Exor under his friend John Elkann is a good capital allocator with a long runway.",
+      "stocks_or_cases": ["Ferrari", "Fiat Chrysler", "Exor", "Stellantis", "John Elkann"]
+    },
+    {
+      "idea": "He has shifted from a bias toward low-P/E bargains to a bias toward compounders, and doubts he would place his Seritage-vs-MasterCard bet with Guy Spier today.",
+      "topic": "Valuation & margin of safety",
+      "detail": "He guesses MasterCard is probably ahead, though Seritage is just hitting its stride and the outcome will play out over five to seven years.",
+      "stocks_or_cases": ["MasterCard", "Seritage", "Guy Spier"]
+    },
+    {
+      "idea": "Business biographies and autobiographies are his favorite genre because they let you see through founders' lenses across many industries.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "He recommends Sam Walton's book, Sol Price's biography by his son (Jim Sinegal: 'there's nothing I know that did not come from Sol Price'), Lowenstein's 'Buffett: The Making of an American Capitalist' and Bezos's 'Invent and Wander'. He found Zen and the Art of Motorcycle Maintenance hard going and didn't get what Nick Sleep got from it, though Audible helped.",
+      "stocks_or_cases": ["Sam Walton", "Sol Price", "Price Club", "Jim Sinegal", "Costco", "Jeff Bezos", "Nick Sleep"]
+    }
+  ]
+}

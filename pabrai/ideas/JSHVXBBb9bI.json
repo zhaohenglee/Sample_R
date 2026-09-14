@@ -1,0 +1,122 @@
+{
+  "video_id": "JSHVXBBb9bI",
+  "date": "2014-12-26",
+  "title": "Mohnish Pabrai's Presentation and Q&A at MDI, Gurgaon on December 26, 2014",
+  "summary": "A 'Cloning 101' talk explaining that Pabrai Investment Funds, Dakshana Foundation and the new Dhandho Holdings are all clones of Buffett and Munger ideas, followed by an Iowa farmland versus stock-chart demonstration of why auction-driven markets hand value investors an edge. The Q&A covers when to sell, the two-year rule, the value of a trusted sounding board like Guy Spier, why India's best opportunities are long-runway small businesses, opportunity cost versus waiting for moats, and a detailed origin story of how Dakshana found the JNV school system in its first 12 weeks.",
+  "ideas": [
+    {
+      "idea": "Pabrai Investment Funds is a straight clone of the Buffett Partnership model, which no large hedge fund had copied in the 30 years after Buffett closed it in 1969.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "No management fees, long-term focus, long-term investors, and few, big, infrequent bets; humans have a peculiar aversion to copying, which is a significant advantage for those who do.",
+      "stocks_or_cases": ["Buffett Partnership", "Pabrai Investment Funds"]
+    },
+    {
+      "idea": "Philanthropy should be the opposite of investing: extreme concentration on one or two narrowly defined problems and a willingness to go high risk and completely fail.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "Munger sees no problem with a foundation holding 90% in one stock; Dakshana's assets are usually in no more than three or four stocks and have often been close to 90% in a single position, because the goal is moonshots, not preservation.",
+      "stocks_or_cases": ["Dakshana Foundation", "Charlie Munger", "Ford Foundation", "Rockefeller Foundation"]
+    },
+    {
+      "idea": "The 2%-of-net-worth-per-year giving model treated the first decade of Dakshana spending as tuition money that could vaporize without concern.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "When their net worth passed $50 million he and his wife committed 2% a year (at least $1 million), cloned from Buffett's 5%-a-year gift to the Gates Foundation; he expected 10-15 years of failure but got traction in about 12 weeks.",
+      "stocks_or_cases": ["Dakshana Foundation", "Gates Foundation", "Warren Buffett"]
+    },
+    {
+      "idea": "Dhandho Holdings was set up to own and control insurance companies because hundreds of well-run US P&C insurers are clueless on the investing side, a void the 50-year-old Berkshire model should have filled.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Raised about $150 million in Q1 2014 and just received regulatory approval to buy Stone Trust Insurance in Louisiana, about $70 million a year of mostly workers' comp premiums, adding capital and taking over float management while leaving underwriting alone; about 3,000 US P&C insurers collect $550 billion a year.",
+      "stocks_or_cases": ["Dhandho Holdings", "Stone Trust Insurance", "Berkshire Hathaway"]
+    },
+    {
+      "idea": "Replicating Berkshire inside an insurer requires two very rare skills: identifying a talented investment manager, and then leaving that person completely alone.",
+      "topic": "Management & capital allocation",
+      "detail": "Buffett disagreed with about 90% of Lou Simpson's monthly trade reports but never once called him about it; most insurance boards could not recognize a Lou Simpson standing in front of them, and going to a team yields an institutional average at best.",
+      "stocks_or_cases": ["Lou Simpson", "Berkshire Hathaway", "Warren Buffett", "GEICO"]
+    },
+    {
+      "idea": "Stock markets are auction-driven, not negotiated transactions between intelligent buyers and sellers like Iowa farmland, so prices swing 50-100% a year on emotion and that volatility is the value investor's edge.",
+      "topic": "Markets, cycles & macro",
+      "detail": "Iowa farmland sold for about $2,100 an acre in 1980 and was still there 25 years later, under $9,000 in 2013 (versus a million dollars an acre in Gurgaon), with rents of $200-250 an acre; random BSE stocks he pulled up showed 60-100% 52-week ranges.",
+      "stocks_or_cases": ["Iowa farmland", "IFCI"]
+    },
+    {
+      "idea": "Because value investors buy after screening for cheapness, they naturally catch stocks at the low end of their swing range, which alone can deliver 50-60% gains even when the thesis was wrong.",
+      "topic": "Valuation & margin of safety",
+      "detail": "He has seen this in his own portfolio: investments where he was wrong in hindsight still made decent gains simply from buying at a low point and the natural ebb and flow of the stock.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Selling is harder than buying; write a simple paragraph on intrinsic value before buying, look to sell at about 90% of intrinsic value, and update the estimate every three to six months.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "Approach every stock as if buying the entire business: with Apple at a $700 billion market cap, ask whether a family with $1.5 trillion would buy the whole company at that price.",
+      "stocks_or_cases": ["Apple", "Benjamin Graham"]
+    },
+    {
+      "idea": "The two-year rule: he is an unwilling seller of a stock at a loss until at least two years have passed since purchase, unless intrinsic value is clearly below the price.",
+      "topic": "Psychology & temperament",
+      "detail": "Most things he buys proceed to decline immediately after purchase; the rule is a circuit breaker against taking instruction from the market and shakes out market-driven psychology.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "In India, the best investments are not quantitatively cheap stocks but relatively small businesses with long runways, high returns on capital and good management that could be worth 10-30x in five to ten years.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "Investing in India is more like private equity: you must do far more work understanding management and ownership; buying and selling is fine as long as it is done in the mindset of owning the whole business.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Having a trusted sounding board with no vested interest is a huge advantage, and he no longer moves on any idea without at least one such conversation.",
+      "topic": "Psychology & temperament",
+      "detail": "Munger says he always had someone to talk to and that even Einstein needed one; when Guy Spier said he added nothing, Charlie replied that articulating an idea to another person exposes flaws, and it would not work with a monkey because Mohnish would know it is a monkey.",
+      "stocks_or_cases": ["Guy Spier", "Charlie Munger", "Daily Journal"]
+    },
+    {
+      "idea": "Cost basis is irrelevant; hold a blue chip only on a view of the future, by asking how and when its market cap doubles or triples from here.",
+      "topic": "Compounding & long-term holding",
+      "detail": "Hero MotoCorp returned 45-50x (maybe 100x with dividends) over 20 years, but with a 60,000 crore market cap the question is how it gets to 120,000 or 200,000 crores; India's lack of capital gains tax makes holding compounders a beautiful place to be.",
+      "stocks_or_cases": ["Hero MotoCorp", "Hero Honda", "ITC"]
+    },
+    {
+      "idea": "He will not discuss current holdings until they are sold, because publicly stating a view makes it harder to change your mind when the evidence turns.",
+      "topic": "Psychology & temperament",
+      "detail": "Asked about J&K Bank and South Indian Bank, he declined, citing Buffett and Munger's practice and saying he would rather look stupid later than commit publicly.",
+      "stocks_or_cases": ["J&K Bank", "South Indian Bank"]
+    },
+    {
+      "idea": "It is very hard to make up lost years: sitting in cash for years waiting for a perfect 20-year moat destroys the annualized return even if the eventual investment compounds at 20%.",
+      "topic": "Compounding & long-term holding",
+      "detail": "One lakh sitting idle from 2014 to 2020, then quadrupling by 2027, is only about 11% a year over 13 years; think in terms of opportunity cost and the best available option today.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Moats are elusive and can evaporate, so it is very hard to be confident any business, even Unilever, P&G or Hero Honda, will hold its moat for 20 years.",
+      "topic": "Moats & business quality",
+      "detail": "Walmart and Costco have significantly eroded P&G's pricing power in the US; waiting 10 years to buy a 20-year moat requires being right for 30 years.",
+      "stocks_or_cases": ["Procter & Gamble", "Unilever", "Walmart", "Costco", "Hero Honda", "Nestle"]
+    },
+    {
+      "idea": "Indian markets are mostly outside his circle of competence because he is not on the ground, but Modi's arrival created a chance for the government to get out of the way and produce GDP and profit tailwinds.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "After 67 years of socialist or half-capitalist leaders, he made a few bets with muted downside, mostly in banking, since banks grow at a multiple of GDP.",
+      "stocks_or_cases": ["Narendra Modi", "Indian banks"]
+    },
+    {
+      "idea": "Dakshana's model is high leverage: about 1-1.25 lakh spent per scholar gets 60-70% into IIT and forces the government to spend 25-35 lakhs educating a poor kid it would otherwise have ignored.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "A tailor's son from a Hyderabad slum earning under Rs 4,000 a month ranked 63 out of 500,000, went to IIT Bombay computer science, was hired by Google at about $100,000 a year and moved his parents into their own house within three months; the whole thing cost $2,000.",
+      "stocks_or_cases": ["Dakshana Foundation", "IIT", "Google", "Super 30", "Anand Kumar"]
+    },
+    {
+      "idea": "Dakshana got traction in 12 weeks by hiring one honest retired IIT Madras graduate on 800 rupees an hour, letting him roam, and following the leads to the JNV school system and an MOU with the government.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "550 Jawaharlal Navodaya Vidyalayas admit the top 2% of 2 million fifth-graders via a corruption-free test, but the nearest coaching centre could be 400 km away; by September 2007 Dakshana had 320 scholars in eight regional schools, the first batch got 22% into IIT, and the only rule is that next year must be better than this year.",
+      "stocks_or_cases": ["Dakshana Foundation", "Jawaharlal Navodaya Vidyalaya", "Bansal Classes", "Kota"]
+    },
+    {
+      "idea": "Value investing's biggest personal impact was leading him to Buffett and Munger as people, whose non-investing values, including the fallacy of large inheritances, shaped his life and made Dakshana possible.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "Both men do not care about the money they make beyond keeping score; emulating their non-investing qualities can only improve your life, and his kids are not interested in large inheritances either.",
+      "stocks_or_cases": ["Warren Buffett", "Charlie Munger", "Dakshana Foundation"]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "video_id": "jZ4f21386Yc",
+  "date": "2024-07-09",
+  "title": "Mohnish Pabrai's Session with YPO Delhi on July 9, 2024",
+  "summary": "A talk to YPO Delhi entrepreneurs opening with the rule of 72 and the Manhattan $24 story to show that starting capital, rate and length of runway drive compounding. Pabrai argues businessmen already have the investing brain cells, that great ideas are rare (Buffett's 12 in 58 years), that investments must pass a payback-in-head test with no spreadsheet, and that the biggest mistake of his career was selling compounders at 90 cents. He details his 2024 allocation (75% in three Turkish stocks, 20% in US met coal), the Turkish warehouse company bought at 16 million market cap, why Indian quality stocks like Varun Beverages are priced too richly versus global bottlers, and why the S&P at 28-29x is unattractive.",
+  "ideas": [
+    {
+      "idea": "Entrepreneurs already have all the core tools for investing because running a business and allocating capital use the same brain cells.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "He cites Buffett: 'I am a better businessman because I am an investor and a better investor because I am a businessman.' A few tweaks in how you think about capital allocation bring the two into complete alignment, worth more than an MBA.",
+      "stocks_or_cases": ["Warren Buffett"]
+    },
+    {
+      "idea": "The rule of 72 is the single most important takeaway: divide 72 by the return rate to get the years to double, and life is all about how long things take to double.",
+      "topic": "Compounding & long-term holding",
+      "detail": "At 7% money doubles in about 10 years, at 5% in 15, at 25% in 3. The $24 paid for Manhattan in 1626 compounded at a non-heroic 7% would be about 21-22 trillion today, more than the bare land is worth, so the Indians got a great deal and a trust officer who could not earn 7% is the one who failed. Total world wealth is about 550 trillion, of which the US is close to 200 trillion.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Three variables drive compounding outcomes: starting amount, rate of return, and length of runway, and they trade off against each other, so start as early as possible.",
+      "topic": "Compounding & long-term holding",
+      "detail": "He told his 18-year-old daughter that $5,000 in an IRA at 15% doubles every five years, giving 10 doubles (about 1000x) and 5 million by age 68. Buffett says he bought his first stock at 11 and was wasting time before that; Munger says take a simple idea and take it very seriously.",
+      "stocks_or_cases": ["Warren Buffett", "Charlie Munger"]
+    },
+    {
+      "idea": "Even Buffett had only about 12 needle-moving ideas in 58 years at Berkshire, roughly one every five years and a 3% hit rate, so investing is extremely forgiving of misses as long as you don't lose big and hold the winners.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "From Buffett's 2023 letter; Pabrai guesses the 12 include American Express, Coca-Cola, See's, ABC, Washington Post, GEICO and hiring Ajit Jain, who created over 100 billion of value for a headhunter fee. The best investors will be wrong half the time and most two-thirds of the time; what matters is keeping something great for a long time.",
+      "stocks_or_cases": ["Berkshire Hathaway", "American Express", "Coca-Cola", "See's Candies", "ABC", "Washington Post", "GEICO", "Ajit Jain"]
+    },
+    {
+      "idea": "See's Candies taught Buffett and Munger the power of brands and pricing, which took them 10-15 years to fully understand and made the Coke and later Apple investments possible.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "In 1972 they paid about 25 million, three times book and 13-14 times trailing earnings, and would have walked for $10,000 more. Buffett set the price list every December 26th and raised prices 10% a year for 50 years while sales rose; See's has paid north of 3 billion in dividends and they could have paid 100-150 million. In 1988 Buffett put a quarter of Berkshire's book value into Coke.",
+      "stocks_or_cases": ["See's Candies", "Coca-Cola", "Apple", "Chuck Huggins"]
+    },
+    {
+      "idea": "An investment must be a complete no-brainer: if you need a spreadsheet or Excel, it is a pass; you should be able to do the math in your head that you get your money back in 3-4 years.",
+      "topic": "Valuation & margin of safety",
+      "detail": "The investor is a salmon fisherman standing by a stream with a spear, patiently waiting for an unpredictably timed juicy salmon. The first question is what it costs to buy the whole business, the second is how long until that money comes back; more than 7-10 years and you've lost him. For example, if Nvidia at 3 trillion market cap produced 2 trillion of cash in 10 years, it is an easy pass.",
+      "stocks_or_cases": ["Nvidia"]
+    },
+    {
+      "idea": "Rakesh Jhunjhunwala shows that being right only once, and then adding at prices 16 times your original cost, can be enough to build a fortune.",
+      "topic": "Compounding & long-term holding",
+      "detail": "Jhunjhunwala traded frantically on one side of his brain while never touching a few core holdings; he kept buying Titan at higher and higher prices, and about 2 billion of his 5.6 billion net worth at death was Titan.",
+      "stocks_or_cases": ["Rakesh Jhunjhunwala", "Titan"]
+    },
+    {
+      "idea": "The Turkish father-son team he backs requires every capital allocation to pay back in two years (36% annualized), three at most (24%), which is why they make few mistakes and earn high returns.",
+      "topic": "Management & capital allocation",
+      "detail": "Neither went to business school, and Pabrai says the same payback lens applies whether the business is tech, a motel or real estate. In euphoric environments like current tech you won't get 2-4 year paybacks, but the great thing about investing is you can keep saying no.",
+      "stocks_or_cases": ["Turkish warehouse company (father-son team)"]
+    },
+    {
+      "idea": "If you don't fully understand something, such as quant investing, take a pass; that is the case with 99% of things in the world and someone else can make the money.",
+      "topic": "Circle of competence & checklists",
+      "detail": "Renaissance and Jim Simons are an extreme outlier that almost nobody has replicated; he doesn't waste brain cells on it.",
+      "stocks_or_cases": ["Renaissance Technologies", "Jim Simons", "D.E. Shaw"]
+    },
+    {
+      "idea": "In July 2024 he would pick neither the S&P nor the Nifty: the S&P at a 28-29 trailing multiple resembles September 2000 at 26x, after which investors earned zero for 11 years.",
+      "topic": "Markets, cycles & macro",
+      "detail": "The 2000-2011 zero return came with a volatile ride where 30-40% of money vanished at times. If forced to index in the US he would buy the equal-weighted S&P to strip out tech euphoria; the Nifty has been great but he can't be bullish about 10 years out.",
+      "stocks_or_cases": ["S&P 500", "Nifty 50"]
+    },
+    {
+      "idea": "India has far more tailwinds than the US, but there is a big difference between a great business and a great investment; Indian quality stocks are priced at multiples of comparable global businesses.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "Varun Beverages trades at over 100x trailing PE, about five times the effective valuation of Coke and Pepsi bottlers worldwide, and roughly 8-10 times the Istanbul-based Coke bottler that has twice its volume across 14 countries; Coca-Cola FEMSA in Mexico is at one-fifth or less of Varun's multiple. India has many great investors but only about 100 businesses with great governance and moats, so all the SIP money crowds into them, and lemming behavior perpetuates until a new cycle begins.",
+      "stocks_or_cases": ["Varun Beverages", "Istanbul Coke bottler", "Coca-Cola FEMSA", "Hindustan Unilever"]
+    },
+    {
+      "idea": "The choice between a high-ROCE niche business and a lower-ROCE growth business boils down to opportunity cost and how much capital each can absorb; keep compounding and don't be a flash in the pan.",
+      "topic": "Management & capital allocation",
+      "detail": "Berkshire faces this dilemma at 800 billion market value, needing to deploy 50-60 billion at a time, so Buffett and Munger accepted running the runway at a lower rate. Put limited dollars into the high-ROE option first, but the lower-ROE one may absorb the rest.",
+      "stocks_or_cases": ["Berkshire Hathaway"]
+    },
+    {
+      "idea": "You can generate serious wealth with passive index funds; a set-it-and-forget-it approach will likely beat an advisor who buys and sells.",
+      "topic": "Compounding & long-term holding",
+      "detail": "With a long runway, significant annual earnings pushed in, and no need for heroic rates, a vanilla approach does very well.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "You don't overcome greed and fear; you simply are fearful when the world is greedy and greedy when it is fearful, which is how he ended up with the weirdest allocation of his 35-year career.",
+      "topic": "Psychology & temperament",
+      "detail": "Managing about 1.1 billion, 75% is in three Turkish stocks and another 20% in three US coal stocks; his plan for the next 10-15 years is to do talks and no work.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "When visiting a market with a local investor, only look at companies they have real money in, starting with their highest-conviction position.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "Turkey screened as extremely cheap in 2018; his Ben Graham-style friend Haydar took him to about 20 businesses, including a bank at a PE of 0.1 that had too much hair for him.",
+      "stocks_or_cases": ["Haydar"]
+    },
+    {
+      "idea": "His Turkish warehouse investment: 16 million market cap against 800 million liquidation value in 2019, bought at up to the 10% daily limit, now worth about a billion dollars.",
+      "topic": "Stock case studies",
+      "detail": "For 8 million he got one-third of the company; the father-son team holds 42%. The lira went from 5 to 33 per dollar but the collapse meant nothing because warehouses are steel, concrete and land, all inflation-indexed; liquidation value is now 2-3 billion. He tells the 39-year-old son that if he is still excited at 70 they will be the wealthiest family in Turkey, just by math. The position is about 350 million and he treats it as the Pabrai family business, where he is a silent cheerleader and does no work.",
+      "stocks_or_cases": ["Turkish warehouse company (father-son team)"]
+    },
+    {
+      "idea": "It took him a few years to realize he had not bought a cheap asset in Turkey but two gifted capital allocators who would compound it, so he cannot sell cheap.",
+      "topic": "Compounding & long-term holding",
+      "detail": "The wealthiest Turkish families are all second- to fourth-generation with professional managers, while this team pounds day in and day out with clear investing metrics.",
+      "stocks_or_cases": ["Turkish warehouse company (father-son team)"]
+    },
+    {
+      "idea": "US metallurgical coal companies were priced at under 2 billion for roughly a billion a year of cash flow over 50 years, buying back shares with no long-term holders, so he loaded up.",
+      "topic": "Stock case studies",
+      "detail": "Their major market is India, which needs met coal for steel but has little of it; only six or seven places in the world produce that quality, and no one will invest in or finance a coal mine. He doesn't need all his bets to work; even 40% working is fine.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Whenever someone pitches an IPO or investment, ask only two questions: what is the market cap, and when do I get that money back; the market will deliver whatever threshold you set, from PE of 1 to PE of 100.",
+      "topic": "Valuation & margin of safety",
+      "detail": "If the money isn't back in three or four years he is not interested. Hardcore Dhandho businessmen who allocate capital inside their businesses can do the same outside them.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Turkey is an ideal market for a buy-and-never-sell investor because the average Turkish stock cycles its entire free float every 11 days; the stock market transfers wealth from the active to the inactive.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "A Turkish blue-chip CFO told him the national game is backgammon, pure luck, and the average investor wants to buy at 10 and sell at 3 for 10%. Someone willing to hold six years has a huge advantage over someone thinking six hours ahead.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Who becomes US president is irrelevant to investing because the founders' separation of powers means the country works on a status-quo basis.",
+      "topic": "Markets, cycles & macro",
+      "detail": "The US went from 4% of global wealth at founding to about 30% (200 of 550 trillion) despite frequent logjams between president and Congress. He recommends Robert Caro's books, starting with The Power Broker, and the documentary Turn Every Page.",
+      "stocks_or_cases": ["Robert Caro"]
+    },
+    {
+      "idea": "If the job is done right, a stock never needs to be sold; treat every purchase like a family business that can never be sold and use Buffett's 20-punch card test.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "Buying at 40-50 cents and selling at 80-90 cents was the biggest mistake of most of his career; it took about 25 years to realize compounding machines are so rare that you should keep them even when overvalued, though not egregiously so. He turned away a buyer of his Austin home at three times value by asking for a three-paragraph essay.",
+      "stocks_or_cases": ["Warren Buffett"]
+    },
+    {
+      "idea": "Brands and consumer behavior are complicated and not his forte; the devil is in the details and seeing is believing.",
+      "topic": "Moats & business quality",
+      "detail": "At Kraft Heinz, ketchup can take big price increases while tiny cheese price increases cause switching. See's fails outside California (Arizona, Chicago, even Dubai) with boxed chocolate and dedicated retail, yet Coke travels anywhere and has no aftertaste so people can drink five a day, which is why Buffett and Munger saw it as See's on steroids and went all in.",
+      "stocks_or_cases": ["Kraft Heinz", "See's Candies", "Coca-Cola"]
+    }
+  ]
+}

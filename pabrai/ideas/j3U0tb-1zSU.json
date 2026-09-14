@@ -1,0 +1,134 @@
+{
+  "video_id": "j3U0tb-1zSU",
+  "date": "2022-11-08",
+  "title": "Mohnish Pabrai’s Q&A Session with students at William & Mary College on November 8, 2022",
+  "summary": "In a student Q&A, Pabrai defends his Micron bet as a rational three-player oligopoly analyzed by destination rather than next quarter, and explains why entrepreneurship is low-risk asymmetric betting, drawing on his own 1990 start with credit-card debt. He also covers 'no Excel' investing through the Reysas and IPSCO examples, Rain Industries' cyclical 10x, Dakshana's social ROI, Marcus Aurelius on setbacks, and Buffett's advice to work for people you admire.",
+  "ideas": [
+    {
+      "idea": "Investing carries a very high error rate, at least 40% and maybe 50%, and one can still do well because the winners dominate.",
+      "topic": "Psychology & temperament",
+      "detail": "Micron was a 10% bet that peaked near 25% of the fund and is now around 20%; he will not know if it worked until the dust settles. Of ten non-correlated bets, five or six working, one or two losing and one or two flat still produces a massive home run.",
+      "stocks_or_cases": ["Micron"]
+    },
+    {
+      "idea": "DRAM has gone from a terrible business with over a dozen players to a three-player oligopoly holding 95%+ share, where rational players all make money like Coke and Pepsi bottlers.",
+      "topic": "Moats & business quality",
+      "detail": "Munger told him Buffett studied Coke and Pepsi bottlers and found both made good money in 95-97% of regions, with price wars only where one owner chased share. Samsung, Micron and SK Hynix signal capex plans to each other through public announcements, which is legal, like United and American matching fares.",
+      "stocks_or_cases": ["Micron", "Samsung", "SK Hynix", "Coca-Cola", "Pepsi", "Charlie Munger", "Warren Buffett"]
+    },
+    {
+      "idea": "Samsung told him 'bad things happen to us when we get over 50% market share', confirming the memory players have no interest in price wars.",
+      "topic": "Stock case studies",
+      "detail": "He met all three companies; Samsung, once the low-cost producer, said customers want a second source and regulators would not tolerate an 80% player. Micron has caught up from being a year or two behind, though he does not know if that edge is sustainable.",
+      "stocks_or_cases": ["Samsung", "Micron", "SK Hynix"]
+    },
+    {
+      "idea": "Memory demand from AI, data centers and assisted driving will surge while Moore's Law slows, so all three high-capex memory players should do well and NAND may consolidate too.",
+      "topic": "Stock case studies",
+      "detail": "As a computer engineer he notes the IBM System 360 and Intel 386 architectures 30 years apart were essentially identical, and chips doubling now takes four or five years instead of 18 months; he does not expect a fourth DRAM player, though whether NVIDIA or AMD prove better bets remains to be seen.",
+      "stocks_or_cases": ["Micron", "NVIDIA", "AMD", "Intel", "IBM", "ARM", "Apple"]
+    },
+    {
+      "idea": "Entrepreneurs are not risk takers; over 99.9% of startups are non-venture-backed and their founders do everything possible to reduce risk while capturing asymmetric upside.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "In 1991 at 25 he funded TransTech with about $70,000 of credit-card debt plus $30,000 from his 401(k), having researched that bankruptcy would wipe the cards and even make him a good credit for seven years; his bosses promised a promotion 'when' the business failed. Amar Bhide's 'The Origin and Evolution of New Businesses' found Inc. 500 founders think the same way.",
+      "stocks_or_cases": ["TransTech", "Amar Bhide"]
+    },
+    {
+      "idea": "Not starting a business was the high-risk path, because once married with kids in your thirties or forties there is far more to lose.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Single and bankrupt at 25 means nothing and you bounce back, so he felt he had one open clear shot and took it.",
+      "stocks_or_cases": ["TransTech"]
+    },
+    {
+      "idea": "A hedge fund has tremendous economics because one person can run hundreds of millions or billions, and his early investors served as unpaid analysts.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "His first investors were entrepreneurs whose businesses sometimes overlapped with what he was studying; he lost interest in the IT business as investing became a profitable pursuit he was passionate about.",
+      "stocks_or_cases": ["Pabrai Investment Funds"]
+    },
+    {
+      "idea": "Charities need heart and head; a charity with ten initiatives should measure them, cut to eight, then six, and pour money into the highest social return on invested capital.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "He found most charities run by good-hearted people who do not understand capital allocation and keep spreading money to appeal to donors or make annual reports look nice.",
+      "stocks_or_cases": ["Dakshana Foundation"]
+    },
+    {
+      "idea": "Dakshana cloned Anand Kumar's Super 30 because education has a massive multiplier: about $3,000 per student yields near-infinite payback by transforming a family for generations.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "In 2006 in Bihar, Super 30 spent about $700 per kid from families earning under $2 a day and got 90-100% into the IITs, whose graduates get hired by Microsoft, Alphabet and Apple; Kumar would not take money but endorsed cloning. He has not found a higher SROI and would switch if he did.",
+      "stocks_or_cases": ["Dakshana Foundation", "Super 30", "Anand Kumar"]
+    },
+    {
+      "idea": "Following Marcus Aurelius, to encounter misfortune and overcome it is good fortune; every setback has produced exponential learning paybacks he could not see at the time.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "His serial-entrepreneur father went bankrupt every three or four years, and as a college junior on a student visa the family's bankruptcy left him helpless until an uncle stepped in. The fund's 65-70% drop in the financial crisis seared in mistakes that improved later performance; 'we don't learn from success, we learn when we stumble'.",
+      "stocks_or_cases": ["Marcus Aurelius"]
+    },
+    {
+      "idea": "Thou shalt not use Excel: if you need a complex DCF to tell you something is a good investment, it is not a good investment, and reaching for Excel is a red flag.",
+      "topic": "Valuation & margin of safety",
+      "detail": "Reysas in 2019 was a $20 million market cap with roughly $800 million of prime warehouses 99% leased on 10-year inflation-indexed leases to Amazon, Ikea, Carrefour, DuPont and Mercedes; despite the lira going from 5 to 10.5 per dollar, the position is up about 9x in dollars to a $180 million market cap, still 10-20% of a liquidation value now over $1 billion.",
+      "stocks_or_cases": ["Reysas", "Amazon", "Ikea", "Carrefour", "DuPont", "Mercedes"]
+    },
+    {
+      "idea": "IPSCO in 2006 was a no-brainer: $45 stock with $15 cash and two contracted years of $15 earnings, sold at about $150 when a Swedish buyer emerged.",
+      "topic": "Stock case studies",
+      "detail": "Pipeline contracts hard-coded the earnings, unlike ordinary guidance; when a third $15 year was announced the stock rose to the high 60s, then near 90 in 18 months as he considered exiting the cyclical, and the $160 takeover bid let him sell immediately at 152.",
+      "stocks_or_cases": ["IPSCO"]
+    },
+    {
+      "idea": "Make very few bets with extremely asymmetric odds; even with a 30-40% error rate the winners do so well that the losers do not matter.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "He looks for low-risk, high-reward bets that auction-driven markets offer only from time to time; the rest of the time risk is high and reward low, so discipline and patience are needed.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "He does not care about the next quarter or next year of any business he owns; Micron is destination analysis.",
+      "topic": "Compounding & long-term holding",
+      "detail": "The three memory makers earn about $150 billion combined revenue expected to reach roughly $300 billion in seven or eight years, with Micron perhaps $75-100 billion and $20-30 billion of annual cash flow; when the market sees these players no longer lose money in downturns, it will value them accordingly. He bought in the thirties and sees $200-250 a share as plausible.",
+      "stocks_or_cases": ["Micron"]
+    },
+    {
+      "idea": "Rain Industries at one-tenth of sales in 2015 was bought on the bet that a single year of $200 million cash flow would force a rerating, and it went 10x by 2018.",
+      "topic": "Stock case studies",
+      "detail": "Bought at a $200 million market cap on $2 billion revenue, it reached $2 billion in 2018; he fell in love with the manager and held through Covid when it fell to under $300 million, and it now sits at $700-800 million. He expects another $200 million year by about 2025 and may 'get off the bus' then, which would still be a 10x in 10 years.",
+      "stocks_or_cases": ["Rain Industries"]
+    },
+    {
+      "idea": "Your investment framework must match the way the person running the business thinks; Bezos's arbitrage is looking out seven years when nobody else will.",
+      "topic": "Management & capital allocation",
+      "detail": "Amazon had no cash flow for the longest time because everything went into growth; an investor who did not understand Bezos's long game could not hold it long enough.",
+      "stocks_or_cases": ["Amazon", "Jeff Bezos"]
+    },
+    {
+      "idea": "People always believe the present is the worst time, but micro trumps macro and this too shall pass.",
+      "topic": "Markets, cycles & macro",
+      "detail": "Through the Depression, Vietnam and the financial crisis, staying invested in Walmart did well; his best gains in 2022 are in Turkey despite its crazy monetary policy, while US holdings lag.",
+      "stocks_or_cases": ["Walmart", "Reysas"]
+    },
+    {
+      "idea": "Warren Buffett is the best investor because he is a learning machine who has continuously evolved over an unmatched span.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "Buffett moved from buying fractions of businesses to whole businesses to leading an empire with over 80 CEOs reporting directly; Lowenstein's biography and 'The Snowball' are the books to read.",
+      "stocks_or_cases": ["Warren Buffett"]
+    },
+    {
+      "idea": "Hedge funds cannot publish returns to non-accredited investors under SEC rules, which is why his letters are not public.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Guy Spier's Aquamarine also checks accreditation before sharing; mutual funds are open because they are built for the public with daily NAVs, whereas hedge funds must keep a curtain from the general public.",
+      "stocks_or_cases": ["Guy Spier", "Aquamarine Fund"]
+    },
+    {
+      "idea": "His career rule: if on Monday morning he is not fired up to go to work, he does not go to work and hits the reading.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "He left his employer when it grew from 8 to 800 people and his undefined job became narrow; he started TransTech around opportunities he saw because the risk was low.",
+      "stocks_or_cases": ["TransTech"]
+    },
+    {
+      "idea": "Echoing Buffett, go to work for people you like, admire and trust; pay and brand are secondary.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "You spend such a large portion of your life with the people you work with that who you work for and with should excite you more than money or recognition.",
+      "stocks_or_cases": ["Warren Buffett"]
+    }
+  ]
+}

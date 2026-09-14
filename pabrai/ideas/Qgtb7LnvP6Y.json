@@ -1,0 +1,128 @@
+{
+  "video_id": "Qgtb7LnvP6Y",
+  "date": "2023-05-10",
+  "title": "Mohnish Pabrai's Q&A session with the Finance Club of IIT Patna on May 10, 2023",
+  "summary": "In a Q&A with IIT Patna students Pabrai explains that value comes in many forms (Amazon's hidden earnings versus optically cheap Graham stocks), recounts what he learned from observing Munger and Li Lu, and describes his 'anomaly' hunting philosophy with Buffett's racetrack-ticket and Moody's Manual stories. He also discusses choosing friends as a harsh grader, Adam Grant's givers/takers/matchers, Chinese ADRs, the dollar's reserve status, Bitcoin, and his own regret at switching back to buy-and-hold eight years too late.",
+  "ideas": [
+    {
+      "idea": "The best way to learn is to teach — I do these student sessions to teach myself.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "He says his ulterior motive is self-education, with the side effect that others learn too.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Amazon was never really trading at 100x earnings — it ran a very profitable business and reinvested the cash at very high returns on equity, which is superior to Google's model.",
+      "topic": "Moats & business quality",
+      "detail": "Advertising has near-zero cost and 50-90% margins, third-party logistics needs no inventory, and AWS is spectacularly profitable, but none of it shows in the income statement; you can assign segment margins (logistics 25%, cloud 40%, advertising 60-70%) to get a realistic earnings picture. Google lacks that reinvestment engine and is left with buybacks.",
+      "stocks_or_cases": ["Amazon", "Google", "Amazon Web Services"]
+    },
+    {
+      "idea": "Amazon's frugality — Bezos's door desk, a $170,000 salary cap and only 1-2% annual dilution — is a signal that value is hiding behind reported earnings.",
+      "topic": "Management & capital allocation",
+      "detail": "Peers dilute 3-5% a year through stock comp; Bezos never awarded himself options, a bonus or even the maximum salary. The head of Amazon India also made his desk out of a door for the symbolism.",
+      "stocks_or_cases": ["Amazon", "Jeff Bezos"]
+    },
+    {
+      "idea": "Value comes in many shapes — sometimes a mediocre business at 2x earnings worth 10x, sometimes a great business at a very high multiple that turns out even better.",
+      "topic": "Valuation & margin of safety",
+      "detail": "Optically cheap stocks work if operations are stable or growing; Amazon-type stocks work because the multiple is not what it appears.",
+      "stocks_or_cases": ["Amazon"]
+    },
+    {
+      "idea": "The biggest lesson from Munger and Buffett is that they never dwell on past accomplishments — they solve a problem, eliminate it from their minds and move to the next one.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "Munger bought the Doheny Ranch (tens of thousands of acres, two miles of beachfront, worth $10-20 billion) for $75 million and donated it to UC Santa Barbara the next day, then never mentioned it again; Buffett does the same with GEICO and Burlington Northern. Be a Karma Yogi who does the job without expecting reward.",
+      "stocks_or_cases": ["Charlie Munger", "Warren Buffett", "Doheny Ranch", "UC Santa Barbara", "GEICO", "Burlington Northern"]
+    },
+    {
+      "idea": "Be a harsh grader of friends: cut the bottom 80-95%, because there is no penalty for missing a great person but a real penalty for letting in a not-so-great one.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Every one of Munger's friends is exceptionally high quality though many are not wealthy, so Pabrai made all of Munger's friends his own and applied the same filter. In 15 months in Austin he invited 25-35 people for Assam tea and only one passed the filter — and that is fine, since there are infinite great humans and you need only half a dozen.",
+      "stocks_or_cases": ["Charlie Munger"]
+    },
+    {
+      "idea": "You need just one good wife and one good friend to live a happy life — less is more.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "His father's saying; after one truly exceptional deep relationship, leave the rest to nature and osmosis while staying a harsh grader.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "When judging people or companies, don't listen to what they say — look at the track record and don't try to project forward.",
+      "topic": "Management & capital allocation",
+      "detail": "Munger gave Li Lu money because his record made it a no-brainer: a Tiananmen student leader smuggled to the US, three simultaneous Columbia degrees at the top of his class without knowing English, and $1 million made by investing the float on his scholarship money. Same for Motherson Sumi and Rain Industries — the history in black and white matters more than meeting Jagan Reddy.",
+      "stocks_or_cases": ["Li Lu", "Charlie Munger", "Motherson Sumi", "Rain Industries", "Jagan Reddy"]
+    },
+    {
+      "idea": "In investing and in life, look for anomalies — Li Lu, Munger, Buffett and Amazon are all anomalies.",
+      "topic": "Valuation & margin of safety",
+      "detail": "Be a student of business, be patient, and look for something that stands out and the market doesn't understand; out of thousands of listed companies you are looking for 2-4, one at a time. It's a treasure hunt.",
+      "stocks_or_cases": ["Li Lu", "Amazon"]
+    },
+    {
+      "idea": "Chinese ADRs like Alibaba, Tencent and JD are very high-quality businesses but fall into my too-hard pile because of political unpredictability.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "China's leaders do not want a second power base that threatens them; when a hard-to-forecast factor can have a huge impact, staying away is appropriate even though others may do well.",
+      "stocks_or_cases": ["Alibaba", "Tencent", "JD.com", "China"]
+    },
+    {
+      "idea": "I don't expect the US dollar to lose reserve-currency status in my lifetime and would never bet against the US.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "He jokes he will die June 11, 2054; the US is the only country that imports and harnesses global talent — Elon Musk from South Africa, Sergey Brin's parents from Russia, countless IIT alumni — and can fix its problems relatively easily if it chooses.",
+      "stocks_or_cases": ["Elon Musk", "Sergey Brin", "United States"]
+    },
+    {
+      "idea": "The surest way to build a nest egg is to spend less than you earn and put the savings into mid-cap and small-cap index funds.",
+      "topic": "Compounding & long-term holding",
+      "detail": "Control the savings rate, improve your skills and income, and you can reach $100,000 in 10-15 years or less without taking much risk.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Bitcoin investors will in the end be very sorry, and algorithmic trading is outside my circle of competence — none of the 10-20 richest people are algo traders.",
+      "topic": "Markets, cycles & macro",
+      "detail": "Bubbles are common and can go on for a long time; 14 years of Bitcoin history does not mean the future is great. He holds neither a long nor a short position.",
+      "stocks_or_cases": ["Bitcoin"]
+    },
+    {
+      "idea": "The small investor has a huge advantage because investing is one of the only disciplines where size is a disadvantage.",
+      "topic": "Circle of competence & checklists",
+      "detail": "Buffett needs to put tens of billions to work, exceeding almost every company's market cap, so his universe is tiny; a small investor can hunt anomalies among smaller names where mispricing is greater, if willing to roll up their sleeves.",
+      "stocks_or_cases": ["Warren Buffett"]
+    },
+    {
+      "idea": "I should have switched back from Graham bets to great businesses around 2012, not 2020 — those eight years were suboptimal.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "He started in the mid-90s as a buy-and-hold tech investor, switched to Graham in 1999 as the bubble formed (fund up 70% in year one, ~30% annualized while Nasdaq lost 75%), but got too comfortable with Graham-type bets. Today he has almost come full circle to buy-and-hold, though tech now comes public later and richer so he hasn't fully returned to tech.",
+      "stocks_or_cases": ["Pabrai Investment Funds", "TransTech"]
+    },
+    {
+      "idea": "Poor Charlie's Almanack, the Buffett biographies, the archived Berkshire meetings and the partnership letters are the core body of work for a beginner.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "He also recommends Pulak Prasad's What I Learned About Investing from Darwin, Where the Money Is, and Munger's book list at the back of the Almanack; buffett.cnbc.com archives 25-30 years of five-hour meetings.",
+      "stocks_or_cases": ["Pulak Prasad", "Charlie Munger"]
+    },
+    {
+      "idea": "You don't need to be high quality to attract high-quality people — just find people of higher quality than you, and kindness is the base trait.",
+      "topic": "Psychology & temperament",
+      "detail": "Buffett's advice: identify the classmates you admire most, ask what qualities cause that admiration, and incorporate them. No kind person dies without friends.",
+      "stocks_or_cases": ["Warren Buffett"]
+    },
+    {
+      "idea": "Surround yourself with givers and be a giver — eliminate takers and matchers.",
+      "topic": "Psychology & temperament",
+      "detail": "From Adam Grant's Give and Take; Buffett and Munger are givers. Dakshana never asks scholars to donate, yet many give back many times the $2,500-3,000 spent on them — that voluntary giving is the signal for identifying givers. Dakshana itself should be a giver organization, not a matcher.",
+      "stocks_or_cases": ["Adam Grant", "Dakshana Foundation"]
+    },
+    {
+      "idea": "Finding great investments is like Buffett picking up discarded racetrack tickets or reading every page of Moody's Manual — determined, dogged anomaly hunting.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "At 11-12 Buffett collected thousands of thrown-away tickets at Ak-Sar-Ben and had Aunt Alice cash the winners; in his twenties he went through 1,000-2,000 companies in Moody's Manual to find a $15 million market cap with $25 million of earnings. Per the Upanishads, your deepest desire is your destiny.",
+      "stocks_or_cases": ["Warren Buffett", "Moody's Manual"]
+    },
+    {
+      "idea": "Selfless giving makes the universe conspire to help you — the 2008 Buffett lunch I bid on only to say thank you produced a friendship with Munger.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "Buffett set no time limit and turned every question into a learning opportunity, unlike hurried 45-minute cafeteria lunches with tech CEOs; the introduction to Munger led to 30-50 Friday bridge sessions and dinners. Living in the time of Warren and Charlie is like meeting Gandhi, Einstein or Newton.",
+      "stocks_or_cases": ["Warren Buffett", "Charlie Munger"]
+    }
+  ]
+}

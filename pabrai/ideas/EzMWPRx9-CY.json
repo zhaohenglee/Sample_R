@@ -1,0 +1,146 @@
+{
+  "video_id": "EzMWPRx9-CY",
+  "date": "2023-10-17",
+  "title": "Mohnish Pabrai's Talk at the YPO Waterloo Austin on October 17, 2023",
+  "summary": "A talk to YPO members in Austin built around compounding math - the Manhattan $24 story, Queen Isabella's $30,000 to Columbus, the janitor who left $4 million and his daughter's $5,000 IRA - with the message: keep it simple, index in a Vanguard S&P fund, live modestly, never interrupt compounding, and start your kids early. The Q&A covers why large inheritances do harm (Chuck Feeney, the eulogy exercise, his plan to die with $100), his three career resets and the sale of his IT business, the 4% hit rate that drives returns (Buffett's 12 decisions, his two 100-baggers), the Turkish warehouse REIT bought at a $16 million market cap, zero weight on macro, and why he avoids private deals.",
+  "ideas": [
+    {
+      "idea": "The Native Americans were overpaid for Manhattan at $24; the screw-up was not investing it - at 7% it would be about $19-20 trillion today, more than the land is worth.",
+      "topic": "Compounding & long-term holding",
+      "detail": "Rule of 72: 7% doubles every 10 years, ten doubles is 1,024x per century, so $24 in 1626 becomes $24 trillion by 2026. US total wealth is about $150 trillion and Manhattan's land at $1,000 a square foot is a fraction of that.",
+      "stocks_or_cases": ["Peter Minuit"]
+    },
+    {
+      "idea": "Humans think linearly but compounding works on a log scale, which is why Einstein called it the eighth wonder - even Queen Isabella overpaid Columbus.",
+      "topic": "Compounding & long-term holding",
+      "detail": "$30,000 to Columbus in 1491 at just 5% (doubling every 15 years, 35 doubles over 532 years, 2^35 = 32 billion) would be about a thousand trillion dollars today, double the entire wealth of the planet (about $500 trillion).",
+      "stocks_or_cases": ["Christopher Columbus", "Queen Isabella"]
+    },
+    {
+      "idea": "The janitor who left $4 million to his college should not be a surprise - given a modest lifestyle and a long runway, the number should have been much higher.",
+      "topic": "Compounding & long-term holding",
+      "detail": "The average IRA balance at 65-70 is a pathetically small number, maybe $150,000, because people get in their own way. His daughter's $5,000 IRA at 18 doubling every five years reaches $5 million at 68, and every subsequent year's savings adds another $5 million.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Compounding has three interchangeable variables - starting amount, runway and rate of return - and with a 60-80 year runway in the S&P you get roughly 150x on whatever you start with.",
+      "topic": "Compounding & long-term holding",
+      "detail": "The S&P has done about 9% a year for a hundred years, doubling every eight years; a 60-year runway is 7.5 doubles (7 doubles = 128x, 8 = 256x). Steady savings over 30 years can dwarf a business exit at 50. Buffett, born 1930 and just turned 93, has run his engine for 82 years and would still be the richest person in the world had he not given money away.",
+      "stocks_or_cases": ["Warren Buffett", "S&P 500"]
+    },
+    {
+      "idea": "Never interrupt compounding unnecessarily - Munger's quote - so dollar-cost average into an index every month regardless of markets and never raid tax-deferred accounts for consumption.",
+      "topic": "Compounding & long-term holding",
+      "detail": "Most humans are too smart for their own good and can't stay with the program like the janitor. He pulled $30,000 from his 401(k) at 25 to start his first business; it worked out, but taking tax-deferred assets into consumption plus penalties is a bad idea.",
+      "stocks_or_cases": ["Charlie Munger"]
+    },
+    {
+      "idea": "Investing is a strange industry where the people who pay the lowest frictional costs win, so Joe Public with a 5-basis-point Vanguard S&P ETF beats the rich person's exclusive hedge fund manager.",
+      "topic": "Markets, cycles & macro",
+      "detail": "Hedge funds charging 2-and-20 mostly end up behind the S&P after fees, and even a 1-3% return delta - 9% dropping to 7% or 6% - is massive over decades. His message: Vanguard S&P, modest lifestyle, max savings, stay healthy.",
+      "stocks_or_cases": ["Vanguard"]
+    },
+    {
+      "idea": "Start your kids' compounding as early as possible - an IRA has no minimum age, so get them earning wages at 13 or 14 and put it in.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "He tells YPOers their runways are half gone and the message should go to their children or to YMG members, who may live to 100-120 with a hundred-year runway.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "You can walk and chew gum at the same time - enjoy life and run a compounding engine - but large inheritances do more harm than good.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "His hero is Chuck Feeney (The Billionaire Who Wasn't), who made billions in duty-free shops, founded General Atlantic, gave away about $9 billion mostly anonymously and died with only a few hundred thousand. Pabrai plans to 'die on June 11th, 2054' down to $100, having so far given about $30 million through Dakshana.",
+      "stocks_or_cases": ["Chuck Feeney", "General Atlantic", "Dakshana Foundation"]
+    },
+    {
+      "idea": "The YPO eulogy exercise - write your own eulogy as if you died one day before turning 80 - forces you to stop spending time on things that wouldn't make it into the eulogy.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Done at a forum retreat in Mexico when he was 40; each person read theirs by the fire, and the second part asked why you spend time on anything that didn't make the cut.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "He gave his kids full control of concentrated UGMA accounts worth a few million at 18, on the theory that if values weren't transferred by 18, staggered trusts at 30 and 40 are nonsense.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "He and his ex-wife maxed the annual gift each year and invested it very concentrated; at 18 both daughters simply handed the money back to him to manage and never touched it, later using it for entrepreneurship and a PhD.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "He runs two games: a compounding engine of about $900 million of other people's money with no management fee and a quarter over a 6% hurdle, and a giving engine with high social returns on invested capital.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "He does not want money going to the Red Cross or 'stupid things'; Dakshana's returns worked out better than he expected.",
+      "stocks_or_cases": ["Pabrai Investment Funds", "Dakshana Foundation"]
+    },
+    {
+      "idea": "If you're not excited to go to work on Monday morning, don't go - hit the reset button; each of his three resets felt like the abyss but led to greater growth.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Engineer to international marketing, then leaving to start his own IT business in 1991 on $75,000 of credit card debt and his 401(k), then leaving the 170-person company ('herding cats') for zero-employee investing after his YPO forum told him 'you can own the business without running it'; the new CEO sold the company within weeks.",
+      "stocks_or_cases": ["Pabrai Investment Funds"]
+    },
+    {
+      "idea": "Buffett's framework for investing is the same one entrepreneurs use to allocate excess capital - highest return, lowest risk - which is why a business owner with no investing experience could beat 90% of fund managers.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "Reading the first Buffett biographies in 1994 at age 30 he saw mutual funds holding hundreds of stocks with 80% turnover, violating Graham and Buffett's rules 'like saying I don't believe in gravity'. He tested the theory with $1 million after tax; in five years it was $13 million, north of 70% a year. Buffett: 'I'm a better businessman because I'm an investor and a better investor because I'm a businessman.'",
+      "stocks_or_cases": ["Warren Buffett", "Ben Graham"]
+    },
+    {
+      "idea": "Returns come from a roughly 4% hit rate: Buffett says only 12 of his 300-plus decisions in 58 years at Berkshire were spectacular, and his own 13x came from two 100-baggers.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "A $100,000 position became $9-10 million and a $10,000 overseas bet became $1.5 million (150x); without those two, $1 million would have become only $2-3 million. The other 296 Berkshire decisions weren't losers, they just didn't move the needle.",
+      "stocks_or_cases": ["Warren Buffett", "Charlie Munger", "Berkshire Hathaway"]
+    },
+    {
+      "idea": "A business owner should reinvest only what the business can absorb at 20-40% low-risk returns and index the rest.",
+      "topic": "Management & capital allocation",
+      "detail": "Most YPO businesses aren't capital intensive and can't absorb even another $1-10 million at the returns they already generate.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Know your own owner's manual: industrial psychologists told him he plays single-player math games where the outcome depends on him, so running a 170-person company was a ridiculous mismatch and a one-man fund was perfect.",
+      "topic": "Psychology & temperament",
+      "detail": "A YPO forum 360 review 24 years ago; one of the psychologists became an original fund investor. Since COVID he works from home, is more productive with no human interaction, and stopped going to his Austin office.",
+      "stocks_or_cases": ["Pabrai Investment Funds"]
+    },
+    {
+      "idea": "Before buying, the thesis must be explainable to a nine-year-old in four or five sentences - not a spreadsheet - and if those sentences stop being true, move on.",
+      "topic": "Circle of competence & checklists",
+      "detail": "You only start learning a business after you own it; when it drops 50% you become an expert. Don't use the stock price to guide decisions, but within two or three years the writing on the real economics should be on the wall.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "The index works because it is too dumb to sell Apple or Microsoft and it captured NVIDIA's entire run from a $10-20 billion market cap - so for most people the answer is just to index.",
+      "topic": "Compounding & long-term holding",
+      "detail": "The S&P 500's constituents are all very successful companies, the list is mostly static with a couple of changes a year, many members won't do well but they don't matter, and it is tax efficient. The leap from indexing to stock picking is huge.",
+      "stocks_or_cases": ["Apple", "Microsoft", "NVIDIA", "S&P 500"]
+    },
+    {
+      "idea": "The Turkish warehouse REIT was bought at a $16 million market cap against $600-800 million of liquidation value; for $8 million he got one-third of the company and has no plans to sell.",
+      "topic": "Stock case studies",
+      "detail": "Found in 2019 through his deep-value friend Haydar in Istanbul: 12 million square feet of class-A warehouses leased to Amazon, IKEA, Carrefour, Mercedes and Toyota, 99% leased on inflation-indexed leases, run by an astute father and son. Liquidation value now approaches $2 billion; despite the lira going from 5 to 28 per dollar, the dollar market cap is $600 million - still a third of where it should be.",
+      "stocks_or_cases": ["Reysas", "Amazon", "IKEA", "Carrefour", "Mercedes", "Toyota"]
+    },
+    {
+      "idea": "He is not a risk taker - he looks for no-brainers in places with irrational hatred and irrational behavior, where the whole float turns over every nine days and he's buying from gamblers.",
+      "topic": "Psychology & temperament",
+      "detail": "Turkish retail investors buy at 10am, sell at 3pm and aim for 10%; Buffett says the market transfers wealth from the active to the inactive, like playing bridge with someone who doesn't look at the cards. In the US float turns over maybe 1.5-2 times a year.",
+      "stocks_or_cases": ["Warren Buffett", "Turkey"]
+    },
+    {
+      "idea": "The Turkish Coke bottler came with the number one beer business in Turkey (55% share) and top-two beer positions in 12 countries, for which he effectively paid nothing.",
+      "topic": "Stock case studies",
+      "detail": "The bottler operates in about 12 countries; the beer business includes Ukraine and Russia. He hones in on things he can explain in three sentences.",
+      "stocks_or_cases": ["Coca-Cola Icecek", "Anadolu Efes"]
+    },
+    {
+      "idea": "He puts zero weight on macro, and index fund giants like Vanguard and BlackRock don't concern him because indexed assets are still small relative to total market cap.",
+      "topic": "Markets, cycles & macro",
+      "detail": "If indexed money ever converged with the market cap of the 500 companies it would be an issue, but that would take decades and he doesn't think it can happen.",
+      "stocks_or_cases": ["Vanguard", "BlackRock"]
+    },
+    {
+      "idea": "All his investments are public because he likes dealing with stupid people on the other side; private equity is an auction with too much money chasing deals.",
+      "topic": "Markets, cycles & macro",
+      "detail": "Sellers can see the peak and sell at peak valuations to PE buyers playing with other people's money and collecting fees; in a negotiated transaction you rarely face a stupid counterparty.",
+      "stocks_or_cases": []
+    }
+  ]
+}

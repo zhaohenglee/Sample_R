@@ -1,0 +1,110 @@
+{
+  "video_id": "miqfRmUDwFQ",
+  "date": "2023-03-03",
+  "title": "Mohnish Pabrai's Chat with students at the Rotman School of Management on March 03, 2023",
+  "summary": "A Q&A with the Rotman Student Investment Fund shortly after Buffett's 2022 letter, in which Pabrai lays out his 'circle the wagons' framework: investing is forgiving because a few never-sold winners (Buffett's dozen, Walmart in the Nifty 50, Jhunjhunwala's Titan, Reysas) dominate outcomes. He also covers durability and creative destruction, judging management by track record rather than talk, anomaly-based no-brainer investing without Excel, circle of competence (Arrillaga, Amorepacific, Moutai), when to sell (Satyam), and his caution on China.",
+  "ideas": [
+    {
+      "idea": "Buying the Buffett lunch for $650,000 in 2007 was 'buy one, get infinite free' because it led to friendships with Buffett and Munger; he viewed it as a 2% tuition fee on a net worth built by cloning Buffett.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "His net worth was north of $80 million in 2007, mostly from cloning Buffett, so about $1.6 million seemed a fair tuition; Guy Spier capped his share at $250,000. The lunch ran three hours and about 54 questions; Buffett introduced him to Munger, whom he now sees four or five times a year and used to play bridge with on Fridays at the LA Country Club.",
+      "stocks_or_cases": ["Warren Buffett", "Charlie Munger", "Guy Spier", "Glide Foundation"]
+    },
+    {
+      "idea": "Buffett's 2022 letter admits most of his capital allocation decisions were so-so and about a dozen truly good decisions, one every five years, produced the results; the lesson is that the flowers were never cut and the weeds never watered.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "Over 58 years Berkshire made roughly 200 decisions (about 80 acquisitions and 120 stocks); Pabrai guesses a good hundred were mediocre or poor. Buffett compounded 19.8% a year versus 9.9% for the S&P, a 3.8 million percent gain versus 24,700%, not even the same zip code.",
+      "stocks_or_cases": ["Berkshire Hathaway", "Warren Buffett", "Helzberg Diamonds", "Jordan's Furniture"]
+    },
+    {
+      "idea": "Investing is a very forgiving business: if you bought the Nifty 50 at its 1970s peak and 49 of 50 went to zero but you never touched Walmart, you still beat the S&P by about four points a year.",
+      "topic": "Compounding & long-term holding",
+      "detail": "The Nifty 50 (McDonald's, P&G, Xerox, Kodak, IBM) was 'taken out back and shot' in 1973-74, but $2 of $100 left in Walmart for 50 years beats the index; the catch is nobody except the Walton family held Walmart the whole 50 years. Templeton said the best manager is wrong one in three times, probably half.",
+      "stocks_or_cases": ["Walmart", "Nifty 50", "Walton family", "John Templeton", "McDonald's", "Procter & Gamble", "Xerox", "Kodak", "IBM"]
+    },
+    {
+      "idea": "Rakesh Jhunjhunwala died worth about $7 billion with half of it in Titan Industries, a position he put 4% of net worth into 25-27 years earlier and never touched despite being a hyperactive trader.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "He started by borrowing about 10,000 rupees at 18% with the stocks held in the lender's name as collateral and never managed outside money. Torch 96% of his mid-1990s portfolio and Titan alone still leaves $3.5 billion, the same math as the Nifty 50.",
+      "stocks_or_cases": ["Rakesh Jhunjhunwala", "Titan Industries"]
+    },
+    {
+      "idea": "You do not really know a business until you own it, and your analysis becomes amazing only after it drops 40%, so structure the portfolio as concentric circles with the rare tremendous business at the center and lower-conviction bets in outer rings.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "The innermost circle needs a tremendous business with a long growth runway, high returns on equity without leverage, the ability to reinvest at high rates, and a modest price; the modest price is the deal killer and why Munger says fish where the fish are. He urged the students to sort their inherited portfolio into these circles.",
+      "stocks_or_cases": ["Titan Industries", "Rakesh Jhunjhunwala", "Charlie Munger"]
+    },
+    {
+      "idea": "Identifying great businesses is trivial (200 of the S&P 500 qualify and they show up in the numbers); the hard part is which will do best for an investor from today, because when you are the 201st analyst the prospects are already priced in.",
+      "topic": "Moats & business quality",
+      "detail": "Great businesses show high returns on equity without leverage and long reinvestment runways: Coca-Cola, Visa, MasterCard, American Express, FlightSafety, GEICO. Munger at the 2023 Daily Journal meeting said the biggest human flaw is denial; a manager mandated to beat the S&P by five points with 20 large-cap names should not even try.",
+      "stocks_or_cases": ["Coca-Cola", "Visa", "MasterCard", "American Express", "FlightSafety", "GEICO", "Charlie Munger", "Daily Journal"]
+    },
+    {
+      "idea": "Durability is the hallmark of a great business, but capitalism puts a target on every high-return mousetrap and most invaders succeed, so talk about great businesses with humility.",
+      "topic": "Moats & business quality",
+      "detail": "Only GE survived from the Dow of 100 years ago and now it is gone too; IBM jumped curves many times but is a shadow of itself. The oldest business he knows is a 700-year-old hotel in Kyoto in its 36th generation; at 300-500 years you are left with liquor companies, and investing in vices does well. Apple, Alphabet, Amazon and Microsoft are solid for 10 years, maybe 20, but he would not bet any thrives in 40.",
+      "stocks_or_cases": ["GE", "IBM", "Apple", "Alphabet", "Amazon", "Microsoft"]
+    },
+    {
+      "idea": "The tension of investing is circling the wagons around your crown jewel while creative destruction can still decimate it, so you must separate normal cyclicality from secular decline and only move the wagons when convinced the decline is permanent.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "Be a little sloppy and careful on selling rather than trigger-happy to avoid reacting to noise; as Charlie says, why should it be easy to get rich? He applied the same signal-versus-noise test to Anheuser-Busch and shifting tastes toward hard seltzers.",
+      "stocks_or_cases": ["Anheuser-Busch", "Charlie Munger"]
+    },
+    {
+      "idea": "Munger read Barron's for 50 years, roughly 25,000 ideas, acted on exactly one (Tenneco in 2003), turned $10 million into $80 million, and handed it to Li Lu because his track record made it a no-brainer.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "Tenneco's bonds were at 20 cents on the dollar when Munger bought. Li Lu, a Tiananmen student leader who did three simultaneous Columbia degrees with no English, turned the float on his scholarship money into $1 million by graduation; Munger's $80 million became $800 million and is now perhaps $1.2-1.4 billion.",
+      "stocks_or_cases": ["Charlie Munger", "Tenneco", "Li Lu"]
+    },
+    {
+      "idea": "Kweichow Moutai is a remarkable business: one product costing under $2 a bottle to make and selling for about $1,400, a near 99.9% operating margin, and Pabrai bought it when it was down for temporary reasons after Li Lu spoon-fed him the thesis.",
+      "topic": "Stock case studies",
+      "detail": "After failing to act on Li Lu's Amorepacific idea, which rose 600x, because everything was in Korean and outside his circle of competence, he asked Li Lu to explain Moutai fully at their monthly Din Tai Fung lunch. Moutai became such a large position he visited the remote headquarters with Guy Spier and his daughter, where only water and Moutai were served.",
+      "stocks_or_cases": ["Kweichow Moutai", "Li Lu", "Amorepacific", "Guy Spier"]
+    },
+    {
+      "idea": "Judge management by the track record, not by what they say, because CEOs are optimists who believe their own Kool-Aid, and like Napoleon you want lucky generals.",
+      "topic": "Management & capital allocation",
+      "detail": "Coca-Cola was run by idiot managers for 35-40 years who bought Paramount Pictures and shrimp farms in China, and the business still did well, so great past performance is usually the business, not the manager. What happened in the past is not subject to debate; forecasts and stories are hocus-pocus.",
+      "stocks_or_cases": ["Coca-Cola", "Paramount Pictures", "Warren Buffett"]
+    },
+    {
+      "idea": "Valuation should be a no-brainer that needs no Excel: Reysas traded at less than 3% of liquidation value, a straight 30x even if liquidation value never grew, while reinvesting at 25-35% a year in dollars.",
+      "topic": "Valuation & margin of safety",
+      "detail": "Turkey was the cheapest market he had ever screened, with 80% inflation and local investors whose average holding period is six hours. 12 million square feet at $80 replacement value is about $960 million, less $200 million debt, versus a $16-20 million market cap; tenants include Amazon, Carrefour, Ikea, Toyota, Mercedes and DuPont on 99% leased inflation-indexed leases. He got a third of the company for $7-8 million (about 1-1.5% of AUM); it is now a $350 million market cap and 25-30% of the portfolio, with liquidation value near $1.5 billion.",
+      "stocks_or_cases": ["Reysas", "Turkey", "Amazon", "Ikea", "Toyota", "Mercedes", "DuPont", "Carrefour"]
+    },
+    {
+      "idea": "Practice anomaly-based investing: invest in things that make no sense, because if it makes sense, don't invest in it; that is where you get a shot at greatness.",
+      "topic": "Valuation & margin of safety",
+      "detail": "He cites Mark Twain: truth is stranger than fiction because fiction must make sense. Excel cannot make sense of something that does not make sense, and he jokes about an AA program for Excel addiction. He expects God gives him only one Reysas in a lifetime.",
+      "stocks_or_cases": ["Reysas", "Mark Twain"]
+    },
+    {
+      "idea": "The size of your circle of competence is irrelevant; never stray outside it, because investing without conviction means you cannot hold through drawdowns or separate signal from noise.",
+      "topic": "Circle of competence & checklists",
+      "detail": "He hates defense (one government client) and US healthcare (no market forces); Moderna might be a home run but it is outside his circle, and envy of a neighbor who got rich on Salesforce is pointless. John Arrillaga became a multi-billionaire investing only in real estate within two miles of Stanford, loading up in pessimism and unloading in euphoria. Entrepreneurs like Sam Walton succeed by being an inch wide and a mile deep; the circle expands naturally over time.",
+      "stocks_or_cases": ["John Arrillaga", "Sam Walton", "Moderna", "Salesforce", "Stanford"]
+    },
+    {
+      "idea": "Sell a great business only when the valuation is a no-brainer egregious, when no rose-colored glasses could justify it; if you are confused, it is not yet time to sell.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "Satyam Computers, bought in 1994 for about $10,000 (1% of his portfolio) when its Hyderabad real estate exceeded the business value and it was growing 70% a year, went from 40 rupees to 7,000 rupees, 150x in dollars, by early 2000; he sold within 10% of the peak for about $1.5 million and it dropped 85% nine months later. It was his first 100-bagger; he has had two so far and Reysas may be the third.",
+      "stocks_or_cases": ["Satyam Computers", "Reysas"]
+    },
+    {
+      "idea": "China is a difficult place to invest; his only remaining exposure is Prosus (effectively Tencent) plus a tiny leftover Alibaba stake he calls a mistake, and mega caps cannot be 100-baggers because of the law of large numbers.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "Tencent is remarkable but he cannot figure out how the Chinese government thinks of it. A 100x on a $300-400 billion market cap would need $30-40 trillion, and the largest companies on the planet cap out around 5% of that; he will switch if he finds something better.",
+      "stocks_or_cases": ["Prosus", "Tencent", "Alibaba", "China"]
+    },
+    {
+      "idea": "In the early 1990s India was so undervalued that a fast-growing IT company's real estate alone was worth more than the whole business.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "Satyam's Hyderabad real estate exceeded its market value even though it grew about 70% a year with huge margins; India had no Demat, so he received physical share certificates and worried whether he could repatriate $1.5 million on a $10,000 investment, which went through.",
+      "stocks_or_cases": ["Satyam Computers", "India"]
+    }
+  ]
+}

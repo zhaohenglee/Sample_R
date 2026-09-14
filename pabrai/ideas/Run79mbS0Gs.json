@@ -1,0 +1,92 @@
+{
+  "video_id": "Run79mbS0Gs",
+  "date": "2024-09-24",
+  "title": "Mohnish Pabrai's Podcast with Kevin (Age 10) and Justin (Age 6) on September 24, 2024",
+  "summary": "Pabrai answers questions from two young brothers, arguing that kids should start investing early because the brain specializes between ages 10 and 20 (Bill Gates, Buffett's first stock at 11), and walks them through compounding with the chessboard rice story, the rule of 72, and Buffett doubling $10,000 every three years from age 18. He explains that the best thing he bought was freedom (his $1 million became $13 million in five years), that wealth comes from spending less than you earn and holding good businesses you understand, and that the eminent dead like Munger make the best mentors.",
+  "ideas": [
+    {
+      "idea": "Kids should think about money and investing early because from about age 10 to 20 the brain allocates its real estate to whatever you spend time on, and that space isn't available later.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Bill Gates coded dozens of hours a week from age 10-11, sneaking into Lakeside's computer lab overnight, and had over 10,000 hours by 20 so no one could catch him; Michelangelo apprenticed at nine or ten; Buffett bought his first stock at 11 and said he wasted his time until then.",
+      "stocks_or_cases": ["Bill Gates", "Warren Buffett", "Michelangelo"]
+    },
+    {
+      "idea": "Running small businesses like a lemonade stand teaches costs, pricing and selling everything to make a profit, which is essential training for an investor.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Buffett at six bought six-packs of Coke for 25 cents at his grandfather's store and sold them for a nickel each, sold lost golf balls at zero cost at 9 or 10, and ran a large newspaper route in high school; all of it served him later.",
+      "stocks_or_cases": ["Warren Buffett", "Coca-Cola", "Dakshana"]
+    },
+    {
+      "idea": "The best thing I ever bought with my money was freedom: the $1 million from selling part of my IT business in 1995 became $13 million in five years and let me leave the company around 1999-2000.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "The money was extra, not needed, so he invested it; once it grew he was no longer dependent on the business and could choose what to do day to day.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Money made me happy, but you don't need money to be happy; the best things in life are free, and you should spend time on what you love and cut what you don't.",
+      "topic": "Psychology & temperament",
+      "detail": "Many rich people are unhappy and many poor people are happy; a bridge subscription costs $100-200 a year, about 20-50 cents an hour, for nearly infinite play.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Compounding is the eighth wonder of the world, more important than the other seven, as the chessboard rice story shows: doubling per square yields 2^64 minus 1 grains, more rice than exists on Earth.",
+      "topic": "Compounding & long-term holding",
+      "detail": "He walks Kevin through powers of two and the Persian king who couldn't pay the chess inventor's modest-sounding request.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "The rule of 72 tells you doubling time: 72 divided by the rate, so 10% doubles in about seven years, 20% in three and a half, and 24% in three.",
+      "topic": "Compounding & long-term holding",
+      "detail": "Buffett compounded at 24% as a teenager, so $10,000 at 18 doubled every three years, roughly 26 doublings by 95 (2^26 is about 64 million), giving on the order of $640 billion; he knew at 25 with under $60,000 that he would be a millionaire.",
+      "stocks_or_cases": ["Warren Buffett"]
+    },
+    {
+      "idea": "Buffett understood two things early: compounding, and the importance of saving rather than spending; that is how he became the wealthiest person.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "To get wealthy: spend less than you earn, do part-time jobs, save part of it, don't leave it in a bank but buy good stocks you know, and be patient holding them for a long time.",
+      "stocks_or_cases": ["Warren Buffett"]
+    },
+    {
+      "idea": "Living a long time is a compounding advantage: Buffett at 94 wants three more years to double again, Munger compounded from a wheelchair until 99.9, and only your brain needs to work at 90.",
+      "topic": "Compounding & long-term holding",
+      "detail": "He jokes that Google says he dies June 11, 2054, and that kids today will live past 100, so they should not become basketball players whose passion ends before 90.",
+      "stocks_or_cases": ["Warren Buffett", "Charlie Munger"]
+    },
+    {
+      "idea": "The first step to successful investing is to buy only what you understand, ideally companies whose products you use, and never because someone told you to.",
+      "topic": "Circle of competence & checklists",
+      "detail": "He praises the kids for owning Disney, Google, Microsoft, Facebook, NVIDIA, Nintendo and Roblox because they use those products; Kevin ties it to social proof from Poor Charlie's Almanack.",
+      "stocks_or_cases": ["Disney", "Google", "Microsoft", "Facebook", "NVIDIA", "Nintendo", "Roblox"]
+    },
+    {
+      "idea": "The next steps are understanding in detail how a company makes money and how much: Google earns $5-10 per sponsored search result at a cost close to zero.",
+      "topic": "Moats & business quality",
+      "detail": "Advertisers pay to appear first in search results, and the marginal cost of a digital search is like one second of use of a $500 laptop, not even a cent.",
+      "stocks_or_cases": ["Google"]
+    },
+    {
+      "idea": "I got into investing because of Buffett's compounding story, starting at 30, which gives these kids a 26-year head start plus a longer life to compound.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "He studied businesses he thought would do well, ended up with more money than he could spend, and started Dakshana, so he now plays two games: making money and giving it away.",
+      "stocks_or_cases": ["Warren Buffett", "Dakshana"]
+    },
+    {
+      "idea": "All knowledge helps an investor; like Munger said, learn a little about almost everything so you know how the world works.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "Understanding electricity, steam engines, airplanes, rockets, electric cars, earthquakes or volcanoes all feeds curiosity that makes you a better investor.",
+      "stocks_or_cases": ["Charlie Munger"]
+    },
+    {
+      "idea": "Parents are your number one mentors, and after that the best mentors are the eminent dead who left their writings; you don't need to meet a mentor in person.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "Buffett and Munger were his mentors long before they became friends, and Poor Charlie's Almanack is better than meeting Munger; he names Bezos, Gates and Zuckerberg as top entrepreneurs and Buffett, Munger and Jim Simons as top investors.",
+      "stocks_or_cases": ["Warren Buffett", "Charlie Munger", "Benjamin Franklin", "Jeff Bezos", "Bill Gates", "Mark Zuckerberg", "Jim Simons", "Renaissance Technologies"]
+    },
+    {
+      "idea": "Always do things you are passionate about and truly love; if you do, you will do well at them.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Buffett delivered newspapers and did odd jobs because investing was his calling and he needed money to invest; if your calling is something else, that is great too.",
+      "stocks_or_cases": ["Warren Buffett"]
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "video_id": "jZKOk-hlo8I",
+  "date": "2023-10-12",
+  "title": "Mohnish Pabrai's Q&A Session at Boston College, Carroll School of Management on October 12, 2023",
+  "summary": "Pabrai opens with Buffett's lifelong hunt for 'anomalies' (racetrack tickets, Moody's Manuals, the Japan Company Handbook and the 2020 Japanese trading company bets) and argues that rare extreme anomalies, not ordinary 30%-cheap stocks, are what move the needle. He illustrates his 'low risk, high uncertainty' model with Level 3 bonds, IPSCO, Rain Industries and Reysas, admits the Ferrari sale as a deep regret, explains why Excel is unnecessary, and covers Fiat Chrysler/GM, Turkey, the Coke bottler, TransTech, Micron and Munger's forward-looking mindset.",
+  "ideas": [
+    {
+      "idea": "Buffett's edge has always been a dogged, painstaking search for overlooked winning tickets, from discarded racetrack stubs to flipping 10,000 pages of Moody's Manuals.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "As a teenager at Ak-Sar-Ben he collected discarded tickets and found winners; in his early twenties he flipped through every page of the Moody's Manuals twice, finding anomalies like Western Insurance with a $15 million market cap earning $25 million. Pabrai bought a 1953 Moody's Manual on eBay to see it.",
+      "stocks_or_cases": ["Warren Buffett", "Western Insurance", "Moody's Manual"]
+    },
+    {
+      "idea": "Humans are hardcoded by genetics and early life experience, so at 82 Buffett was still doing the same treasure hunt in the Japan Company Handbook that he did as a teenager.",
+      "topic": "Psychology & temperament",
+      "detail": "In 2012 Pabrai saw the Japan Company Handbook on Buffett's desk and dog-eared pages of companies he liked; Pabrai believes the five Japanese trading company positions filed on August 30, 2020 came out of that handbook.",
+      "stocks_or_cases": ["Warren Buffett", "Japan Company Handbook", "Mitsui", "Mitsubishi"]
+    },
+    {
+      "idea": "Buffett's Japanese trading company bet had an infinite return on equity because he financed the whole $5 billion in yen at 0.5% while collecting an 8% dividend yield.",
+      "topic": "Stock case studies",
+      "detail": "He paid about $25 million a year in interest against about $400 million in dividends; in three years the stocks went up 2x to 4x, dividends doubled to $800 million, and the $5 billion became roughly $12 billion. Positions were later bumped to about 8% each after his trip with Greg Abel.",
+      "stocks_or_cases": ["Berkshire Hathaway", "Mitsui", "Mitsubishi", "Japanese trading companies"]
+    },
+    {
+      "idea": "In 58 years only about 12 decisions built Berkshire, so the name of the game is finding rare anomalies, not merely cheap stocks.",
+      "topic": "Valuation & margin of safety",
+      "detail": "Something worth $20 trading at $14 and growing 5-10% a year will not move the needle; per Buffett's 2022 letter, the dozen needle-movers include Ajit Jain, Washington Post, Amex, Coke, MidAmerican, BNSF and National Indemnity. In the last 10 years Apple and Japan stand out.",
+      "stocks_or_cases": ["Berkshire Hathaway", "Apple", "Washington Post", "American Express", "Coca-Cola", "BNSF", "National Indemnity", "MidAmerican"]
+    },
+    {
+      "idea": "Wall Street confuses risk with uncertainty and punishes uncertain situations, so low-risk, high-uncertainty setups are where the mispricing lives.",
+      "topic": "Valuation & margin of safety",
+      "detail": "Level 3 convertible bonds traded at 20 cents on the dollar with a 6% coupon in 2001-2002 while the balance sheet could pay interest for three years; Pabrai put 10% of his roughly $10 million fund in them, got his principal back in coupons and eventually a 5x when the bonds paid off at par.",
+      "stocks_or_cases": ["Level 3 Communications", "Walter Scott Jr.", "Peter Kiewit and Sons"]
+    },
+    {
+      "idea": "A great, predictable business like ADP is of no interest because it is priced to perfection, whereas an unpredictable business like Exxon can be valued off a floor if you have an edge.",
+      "topic": "Valuation & margin of safety",
+      "detail": "Twenty analysts would get within 5% of ADP's earnings, so there is no distress. For Exxon, if cost curves let you believe oil will not average below $60 for three years, you can build a floor valuation and buy when market cap is far below it, with upside if oil spikes.",
+      "stocks_or_cases": ["ADP", "Exxon"]
+    },
+    {
+      "idea": "IPSCO was a two-year bet: $15 a share of cash plus two years of $15 guided free cash flow equaled $45 against a $42 stock price, so the downside was covered regardless of year three.",
+      "topic": "Stock case studies",
+      "detail": "Bought in 2004; in 2005 the company guided another $15 year and the stock went to the low 90s, then a Swedish company made a $160 cash offer and Pabrai sold everything at $155 rather than wait for the arbitrage.",
+      "stocks_or_cases": ["IPSCO"]
+    },
+    {
+      "idea": "Rain Industries was a 10x because non-recourse debt meant the Indian core assets could not be lost while the market priced the US and European acquisitions at zero.",
+      "topic": "Stock case studies",
+      "detail": "In 2015 Rain had a $200 million market cap on $2 billion of revenue; Pabrai verified the lenders had no recourse, and within three years the market cap reached $2 billion as the business went through a supernormal earnings cycle.",
+      "stocks_or_cases": ["Rain Industries"]
+    },
+    {
+      "idea": "Turkey's extremely short holding periods make mispricing likely, which is how he bought a third of Reysas at a $24 million market cap against a $600-800 million liquidation value.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "Turkish companies cycle through their entire non-insider float in nine days. He paid about $8 million in 2019; the market cap is now about $600 million US, and in lira the return is effectively infinite despite the currency collapse.",
+      "stocks_or_cases": ["Reysas", "Haider (Istanbul fund manager)"]
+    },
+    {
+      "idea": "Buffett was picking through Japan because a 33-year bear market since the 1990 bubble has taught generations of Japanese to avoid equities, making it a fertile hunting ground.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "The Nikkei peaked near 40,000 in 1990 and is still below that. The five trading companies have global footprints and pay large dividends, so Japan's declining population and employee-first culture are irrelevant to them. Pabrai's new 2023 handbook copy already shows a stock at a P/E of 1.2.",
+      "stocks_or_cases": ["Japanese trading companies", "Shimano", "Japan Company Handbook"]
+    },
+    {
+      "idea": "Selling Ferrari is one of his deepest regrets: when you find yourself owning a great business, don't sell it.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "Fiat Chrysler had a market cap under $6 billion on $135 billion of revenue in 2012; Ferrari came out at about $16 a share and is now $310, nearly 20x. His roughly $20 million Ferrari stake would be about $400 million today against total fund assets of about $750 million. Guy Spier kept it.",
+      "stocks_or_cases": ["Ferrari", "Fiat Chrysler", "Guy Spier", "John Elkann", "Nestle"]
+    },
+    {
+      "idea": "Owning great businesses like Ferrari, Amex and MasterCard with Guy Spier's lethargic no-sell approach will keep up with the S&P, but it is not the Mohnish way.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "He repeatedly begged Guy to sell Nestle, which like ADP has no variance, and buy Reysas at 2-3% of liquidation value; Guy refused to buy anything in Turkey even after visiting Istanbul.",
+      "stocks_or_cases": ["Guy Spier", "Nestle", "Ferrari", "American Express", "MasterCard", "Reysas"]
+    },
+    {
+      "idea": "There is no systematic screening approach; idea sourcing is opportunistic, like reading Value Line's lowest-P/E and biggest-13-week-loser lists each week.",
+      "topic": "Circle of competence & checklists",
+      "detail": "In October 2023 he flagged JetBlue at about $4 a share as a raw idea: consolidated industry, packed planes, pricing power, aircraft shortages from Boeing's troubles, though the Spirit deal and long-haul mix need digging.",
+      "stocks_or_cases": ["JetBlue", "Southwest", "Spirit Airlines", "Value Line"]
+    },
+    {
+      "idea": "Don't use Excel: people calculate too much and think too little, and any real investment thesis should be explainable to a 10-year-old in five or six sentences.",
+      "topic": "Circle of competence & checklists",
+      "detail": "For Level 3 bonds the only question was whether three coupons would be paid; Excel adds nothing but hocus pocus. A simple mental model becomes your North Star for filtering the noise that arrives after you invest. Pulak Prasad's rules of no leverage, no models, no projections also work.",
+      "stocks_or_cases": ["Pulak Prasad", "Level 3 Communications", "IPSCO", "Reysas", "JetBlue"]
+    },
+    {
+      "idea": "Studying disconfirming evidence from smart investors turned his hatred of the auto business into a Fiat Chrysler no-brainer.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "In 2012 he saw on Dataroma that Ted Weschler and David Einhorn had bought GM and set out to prove them wrong; reading the UAW contract Steve Rattner forced through in 2009 showed Detroit had become one of the best places to build cars. Sergio Marchionne guided to over $5 billion cash flow on a $5 billion market cap and nobody believed him.",
+      "stocks_or_cases": ["Fiat Chrysler", "General Motors", "Sergio Marchionne", "Ted Weschler", "David Einhorn", "Steve Rattner", "Dataroma"]
+    },
+    {
+      "idea": "Be like a salmon fisherman with a spear: long dry spells are normal, and when a juicy idea shows up it may take two days or four months of work.",
+      "topic": "Psychology & temperament",
+      "detail": "Fiat Chrysler took about four months of reading including Harvard case studies on Marchionne; Reysas was so simple he was buying shares less than a week after meeting the company.",
+      "stocks_or_cases": ["Fiat Chrysler", "Reysas"]
+    },
+    {
+      "idea": "Most of the time the market is right that cheap things are cheap for good reason, so a high-conviction contrarian view will be rare, but even a 50% error rate works out fine.",
+      "topic": "Valuation & margin of safety",
+      "detail": "Capitalism is brutal and almost everything declines eventually; he would not bet Apple's franchise is intact in 20 years even though it looks bulletproof for 10. Dig into hated industries from a learning perspective, and occasionally you find a rich vein like the 10x from the 'stupid auto business'.",
+      "stocks_or_cases": ["Apple", "Fiat Chrysler", "Ferrari"]
+    },
+    {
+      "idea": "Time tells you when you are wrong: if after three to five years you are down 30%, the odds are high something is off in your thesis.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "A stock must reach intrinsic value at some point, the bedrock of Ben Graham. You understand a business far better after investing because data keeps arriving, and sometimes the error is clear within three months.",
+      "stocks_or_cases": ["Ben Graham"]
+    },
+    {
+      "idea": "Read your own 'owner's manual': he sold TransTech because running 170 people was herding cats, while investing is the single-player math game he is wired for.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "He bootstrapped TransTech at 25 with $70,000 of credit cards and $30,000 of 401k, sending 200 letters a week to Midwest CIOs and calling at 7, 21 and 45 days. Industrial psychologists in 1999 told him he needs single-player, mathematically oriented games where he controls the outcome, so he started Pabrai Funds with $1 million.",
+      "stocks_or_cases": ["TransTech", "Pabrai Investment Funds"]
+    },
+    {
+      "idea": "Working entirely from home since moving to Austin made him more productive and happier because it returns him to being a single player.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "The pandemic taught him this; he now visits the office no more than twice a year and manages Dakshana and the fund's back office remotely. The fund is 25 years old and he hopes to do it for the rest of his life.",
+      "stocks_or_cases": ["Dakshana", "Pabrai Investment Funds"]
+    },
+    {
+      "idea": "In emerging markets like Turkey, buy the highest-quality businesses run by the highest-quality management, because the 'emerging market' discount is nonsense applied by people who haven't done the work.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "He met 60-70 Turkish businesses over several years and made three investments. The Coke bottler has exclusive rights in Turkey and about 12 other countries including Pakistan, two-thirds of volume outside Turkey, Coca-Cola owns 20%, and its professional managers are better than any US bottler's.",
+      "stocks_or_cases": ["Coca-Cola Icecek", "Coca-Cola", "Reysas", "Guy Spier"]
+    },
+    {
+      "idea": "Coca-Cola picked the Turkish bottler over all others to win the Uzbekistan auction and sold its own half cheaply, a signal of exceptional management quality.",
+      "topic": "Moats & business quality",
+      "detail": "The bottler paid over 20-25x EBITDA for the government's 50% and got Coke's half at a single-digit multiple; profits went from $20 million toward $100 million in year two just by adding trucks and drivers. Coke then sold them 50% of Pakistan (400 million cases, up from 40 million 15 years ago) and Bangladesh (about 600 million cases) is rumored next.",
+      "stocks_or_cases": ["Coca-Cola Icecek", "Coca-Cola", "Uzbekistan bottler"]
+    },
+    {
+      "idea": "Like Munger, don't dwell on past success; keeping brain cells focused on the problems at hand is what keeps you going like the Energizer Bunny.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "Past accomplishments take up less than one-tenth of 1% of Charlie's mind; what occupied him was solving Daily Journal's succession problem. Pabrai changed himself after observing this.",
+      "stocks_or_cases": ["Charlie Munger", "Daily Journal"]
+    },
+    {
+      "idea": "The Micron thesis was a rational three-player memory oligopoly signaling capacity through press releases, and he sold when Samsung went off the reservation and US-China trade wars hit.",
+      "topic": "Stock case studies",
+      "detail": "Samsung told him it deliberately capped share at 50% because bad things happen above that; Buffett's study found Coke and Pepsi bottlers both made money in 95-97% of geographies, with price wars in 3-5%. In late 2021-2022 Samsung raised production and China banned Micron products, so he exited with a 60-70% gain.",
+      "stocks_or_cases": ["Micron", "Samsung", "SK Hynix", "Charlie Munger", "Sanjay Mehrotra"]
+    },
+    {
+      "idea": "Oligopolists cannot legally collude, but they communicate through the marketplace, the way airlines match each other's fares within minutes.",
+      "topic": "Moats & business quality",
+      "detail": "Micron, Hynix and Samsung issued a stream of near-identical press releases about capacity and capex days apart, signaling to each other rather than to investors. A fourth entrant, including China, cannot credibly enter because of patents and process complexity.",
+      "stocks_or_cases": ["Micron", "Samsung", "SK Hynix", "American Airlines", "United Airlines"]
+    }
+  ]
+}

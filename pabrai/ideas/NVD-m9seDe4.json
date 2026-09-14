@@ -1,0 +1,128 @@
+{
+  "video_id": "NVD-m9seDe4",
+  "date": "2026-06-08",
+  "title": "Mohnish Pabrai's Interview with Knowledge Inside podcast on June 8, 2026",
+  "summary": "A Korean podcast interview in which Pabrai recounts the $650,000 Buffett lunch and the friendships it produced, gives his view of the Korean market (population decline as a headwind, SK Hynix and Samsung as protected memory oligopolists), and explains the aviation origin of his 213-question checklist, boiled down to no leverage, moat quality and management quality. He then describes his Reysas investment in Turkey as the model of 'heads I win, tails I do not lose much', warns against buying loved shiny objects like AI and the coming SpaceX IPO, and closes with the Manhattan/Rule of 72 story, the boring formula of saving and indexing, and his plan to give it all away by 2054.",
+  "ideas": [
+    {
+      "idea": "Anytime we have to sell something, we have made a mistake; we look for investments we can hold forever and approach every stock as if buying the whole company.",
+      "topic": "Compounding & long-term holding",
+      "detail": "He manages about $1.4 billion in hedge funds and an ETF after 28 years, following Buffett and Munger; he goes further to say that anytime most market participants sell anything, they have made a mistake.",
+      "stocks_or_cases": ["Warren Buffett", "Charlie Munger"]
+    },
+    {
+      "idea": "The $650,000 Buffett lunch was one of the best deals ever, a tuition bill for the $70 million he had already made from Buffett's ideas, that turned into infinite free lunches and friendships.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "He had budgeted $2 million (about 3% of his gains) and Guy Spier capped at $250,000; Buffett studied everyone's bios, set no time limit, then competitively set up a lunch with Charlie that led to dinners every 3-4 months and bridge at the LA Country Club, plus yearly invitations to Buffett's private Sunday brunch. By contrast, a charity lunch with Google CEO Eric Schmidt ended at 1 hour 1 minute and rated 2 out of 10.",
+      "stocks_or_cases": ["Warren Buffett", "Charlie Munger", "Guy Spier", "Eric Schmidt", "Google"]
+    },
+    {
+      "idea": "South Korea's rapidly declining population, faster than Japan's, is a long-run headwind for its output and stock market, and rising labor costs are pushing production abroad.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "It is already cheaper for Hyundai to build a car in Alabama than in Korea; export-biased companies have tailwinds but face US tariffs, while domestic companies face real challenges.",
+      "stocks_or_cases": ["Hyundai", "South Korea", "Japan"]
+    },
+    {
+      "idea": "Memory chips are now a protected three-player business (Samsung, SK Hynix, Micron) where a fourth entrant is nearly impossible, and Korea is selling pickaxes in the AI gold rush.",
+      "topic": "Moats & business quality",
+      "detail": "Micron management told him that if a fab burned down they were not sure they could rebuild it to the same cost and yield because there is 'black magic' in the process; the industry went from 20 price-cutting players to three, chips are on allocation and device prices are rising. He owned Micron and SK Hynix and sold them, violating his own rule.",
+      "stocks_or_cases": ["Samsung", "SK Hynix", "Micron", "KOSPI"]
+    },
+    {
+      "idea": "On SK Hynix and Samsung: if you already own it, do not sell it, but if you do not own it, do not buy it; the party has only started but the rest of KOSPI may still be somewhat undervalued.",
+      "topic": "Markets, cycles & macro",
+      "detail": "The KOSPI is lopsided because it is dominated by these two companies; he has no current investment in Korea and considers himself an outsider looking in.",
+      "stocks_or_cases": ["SK Hynix", "Samsung", "KOSPI"]
+    },
+    {
+      "idea": "The checklist copies the FAA: changes are only made after a crash, and a stock that went to zero is a crash with no survivors while a stock sold at a loss is a crash with some survivors.",
+      "topic": "Circle of competence & checklists",
+      "detail": "The FAA values a life at about $5 million and mandates fixes only when cheaper than expected losses, which makes flying both safe and cheap; he studied the mistakes of great investors, such as Buffett paying 2% of Berkshire for Dexter, which was killed by cheap foreign competition, and turned each into a question.",
+      "stocks_or_cases": ["FAA", "Dexter Shoe", "Berkshire Hathaway", "Shimano", "Korean Air"]
+    },
+    {
+      "idea": "The checklist started 16-17 years ago with 70-80 questions, now has 213, takes 1-2 hours to run, and he runs it every time before buying since he makes only 2-3 investments a year.",
+      "topic": "Circle of competence & checklists",
+      "detail": "The first pass reveals questions he cannot answer, which means the work is not done; then he examines the failures and decides whether to 'take off'. The checklist is proprietary and unpublished.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "For individual investors the checklist reduces to three items: no leverage (company or investor), a strong and durable moat, and the quality and ethics of the managers and owners.",
+      "topic": "Circle of competence & checklists",
+      "detail": "Leverage is the number one reason investors lose money and misunderstanding the moat is number two; IKEA's founder Ingvar Kamprad borrowed nothing in 70+ years and opened every store from retained earnings so no one could stop him playing his game for 500 or 1,000 years. Managers may like money but cannot love it.",
+      "stocks_or_cases": ["IKEA", "Ingvar Kamprad"]
+    },
+    {
+      "idea": "A great product without a brand in a hyper-competitive market like Korean skincare is a difficult business, and restaurants or hotels in Korea would be terrible businesses.",
+      "topic": "Moats & business quality",
+      "detail": "Amorepacific has done well but faces constant attack because customers are never satisfied and always want even better, younger skin.",
+      "stocks_or_cases": ["Amorepacific"]
+    },
+    {
+      "idea": "More than 99% of investors should buy the index, because you should only buy a stock if you can say with high certainty what its cash flows will be in 10, 15 and 20 years relative to its market cap.",
+      "topic": "Valuation & margin of safety",
+      "detail": "SK Hynix at a $500 billion market cap earning perhaps $50 billion a year requires knowing its earnings in 5 and 10 years; a regulated Korean power company earning $100 million bought for $300 million returns your money in 3 years of dividends and is a no-brainer, and such companies have traded at under 5 or even 3 times earnings in Korea.",
+      "stocks_or_cases": ["SK Hynix", "Korean power companies"]
+    },
+    {
+      "idea": "Risk-free investments are found only in sectors that are hated and unloved; when everything is loved, do not buy.",
+      "topic": "Psychology & temperament",
+      "detail": "Investing is about anomalies, things that make no sense, like a power company at 3 times earnings; most people ignore boring businesses because they seek excitement.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Reysas, the largest warehouse builder and renter in Turkey, was bought at a $16 million market cap against $800 million of liquidation value, like buying a million-dollar apartment for $20,000; he now owns 40% and will hold forever.",
+      "topic": "Stock case studies",
+      "detail": "12 million square feet, 99% leased with inflation-indexed leases to Amazon, IKEA, Carrefour, Mercedes and Toyota; in 7 years market cap went from $15 million to $1.5 billion and liquidation value to $2.5 billion, and he will own it as long as the founder father and 31-year-old son run it. 70% of his portfolio is in Turkey, which screened as the cheapest market in the world with P/Es of 1 or 2.",
+      "stocks_or_cases": ["Reysas", "Turkey", "Amazon", "IKEA", "Carrefour", "Mercedes", "Toyota"]
+    },
+    {
+      "idea": "Do no work on a foreign market until after meeting the companies; visit to educate yourself with no plan to invest and let the anomalies show up.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "He asked his friend Haydar, the second-largest fund manager in Turkey, to tour his portfolio companies in Istanbul about 8 years ago purely to learn; only in the second year, driving between meetings, did he start asking about Reysas. Now he has 3 or 4 Turkish investments and 50,000 of his 264,000 X followers are Turkish.",
+      "stocks_or_cases": ["Reysas", "Turkey"]
+    },
+    {
+      "idea": "'Heads I win, tails I do not lose much' means the most important pre-investment question is 'How can I lose money?' and the answer should be 'It cannot.'",
+      "topic": "Valuation & margin of safety",
+      "detail": "For Reysas he tried repeatedly to find how the company could go away: no debt, prime warehouses leased to Fortune 500 tenants who would need 2 years to vacate in a 100%-leased market, and he verified earthquake insurance and 8.0 construction standards; after Istanbul's earthquake not a single warehouse had $10 of damage.",
+      "stocks_or_cases": ["Reysas"]
+    },
+    {
+      "idea": "Do not buy shiny objects: AI is deeply loved, the Bitcoin crowd rotated into AI, and the same crowd will dump AI stocks like SK Hynix for the SpaceX IPO next.",
+      "topic": "Markets, cycles & macro",
+      "detail": "Bitcoin fell from 100,000 to 70,000 while gold rose as money chased AI; if you like buying what is loved, just buy the index.",
+      "stocks_or_cases": ["Bitcoin", "SpaceX", "SK Hynix", "Gold"]
+    },
+    {
+      "idea": "With $1,000 he would buy Berkshire Hathaway (BRK.B): no leverage, lots of cash, good management, deep moat, boring, hated and unloved.",
+      "topic": "Stock case studies",
+      "detail": "Given as his answer to what a beginner should do with $1,000 in June 2026.",
+      "stocks_or_cases": ["Berkshire Hathaway"]
+    },
+    {
+      "idea": "The Manhattan-for-$23 story shows the Rule of 72: at 7% money doubles every 10 years and grows 1,000x a century, so $23 in 1623 would be about $28 trillion today, far more than Manhattan's land is worth.",
+      "topic": "Compounding & long-term holding",
+      "detail": "Manhattan's land without buildings is worth closer to $500 billion, under $1 trillion, and total US household net worth is under $200 trillion; the Native Americans simply had a bad investment officer.",
+      "stocks_or_cases": ["Manhattan"]
+    },
+    {
+      "idea": "The surest way to build wealth is two boring things: spend less than you earn, and put the savings into something hated and unloved like Berkshire or an index, set it and forget it, and keep adding every month for 50 years.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "A 22-year-old saving 15% of a $50,000 salary ($5,000-7,000 a year) whose pay rises to $250,000 will have 'too much' money at 72; get your excitement from other places in life, not the stock market.",
+      "stocks_or_cases": ["Berkshire Hathaway"]
+    },
+    {
+      "idea": "He invests because he is wired to play single-player games; he runs a compounding engine and a give-back engine (Dakshana) and wants to have $10,000 left the day before he dies.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "Personality is baked by age five; he jokes that 'God Google' told him he will die June 11, 2054, so the giving curve must accelerate as compounding continues, with Dakshana generating very high returns for society.",
+      "stocks_or_cases": ["Dakshana Foundation"]
+    },
+    {
+      "idea": "If wealth is lost, nothing is lost; if health is lost, something is lost; if character is lost, everything is lost.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "His closing advice: do not worry about wealth, worry a little about health, and worry a lot about character.",
+      "stocks_or_cases": []
+    }
+  ]
+}

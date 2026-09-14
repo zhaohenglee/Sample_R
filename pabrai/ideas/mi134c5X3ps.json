@@ -1,0 +1,122 @@
+{
+  "video_id": "mi134c5X3ps",
+  "date": "2024-02-08",
+  "title": "Mohnish Pabrai's Session at the SumZero Virtual Investor Summit 2024 on February 8, 2024",
+  "summary": "An interview with SumZero covering big tech cost discipline (Meta's pivot, Alphabet as a country club, Microsoft as a lean cloner positioned for AI), the economics of TAV Airports' Almaty acquisition, why Turkey is now over half his portfolio, his cloned coal bet via David Einhorn's CONSOL filing, and views on auto OEMs, US office real estate, the deficit and the election. It closes with stories about Charlie Munger, including the auto-additive deal with Rick Guerin and why being Buffett's junior partner was a no-brainer.",
+  "ideas": [
+    {
+      "idea": "Meta's easy double came from Zuckerberg doing a 180 on expenses; great businesses do not need to watch pennies, so when one suddenly does, the cash flows just show up.",
+      "topic": "Management & capital allocation",
+      "detail": "Meta had a country club attitude toward spending; after tightening up with layoffs and discipline the stock doubled from roughly $200. He rates Amazon and Microsoft as running tight ships, while Alphabet is definitely a country club with a lot of fat left to cut, which is itself an argument to own it.",
+      "stocks_or_cases": ["Meta", "Mark Zuckerberg", "Alphabet", "Amazon", "Microsoft"]
+    },
+    {
+      "idea": "Microsoft is a higher-quality franchise than Meta because its revenue is recurring and critical to enterprises, whereas Meta is ultimately an advertising business.",
+      "topic": "Moats & business quality",
+      "detail": "Microsoft is a machine where top line almost equals bottom line, so 80% of incremental revenue drops through; that justifies a mid-to-high-30s multiple versus low 20s for Alphabet. Digital platforms like Meta also eliminated the old waste of not knowing which half of advertising works.",
+      "stocks_or_cases": ["Microsoft", "Meta", "Alphabet", "Satya Nadella"]
+    },
+    {
+      "idea": "Microsoft is a great cloner rather than innovator, and its execution DNA puts it near the top of the AI winners while Google, despite deep research strength, lacks the execution discipline.",
+      "topic": "Moats & business quality",
+      "detail": "At a Munger dinner in Omaha in May 2023 he sat with Bill Gates, who said long Amazon and short Google; Gates conceded nothing useful ever came out of the ivory-tower Microsoft Research Labs, and the real engine is development-tied R&D. Google turned research into a business only for Search; YouTube and Android were acquisitions. At 48 years old Microsoft still looks like a young executing company.",
+      "stocks_or_cases": ["Microsoft", "Bill Gates", "Google", "Amazon", "Apple", "OpenAI"]
+    },
+    {
+      "idea": "TAV Airports got the deal of the century buying Almaty Airport outright during COVID when passenger traffic was zero, owning it forever rather than under a 25-50 year BOT concession.",
+      "topic": "Stock case studies",
+      "detail": "TAV paid about $400 million including capex, two-thirds financed at about 4% 30-year fixed. The whole company had a $600-800 million market cap while Almaty alone could sell for $3-5 billion in a few years, plus 15 other airports; the market cap is now approaching $2 billion and he is long and strong with no plans to lighten up.",
+      "stocks_or_cases": ["TAV Airports", "Almaty Airport", "Kazakhstan"]
+    },
+    {
+      "idea": "Airport duty-free is an incredible business: the operator takes 40% of the top line as rent, and Almaty's per-passenger international revenue will go from about $3 to $11 on its way to $15 once the new terminal opens.",
+      "topic": "Moats & business quality",
+      "detail": "A $100 duty-free bottle has a $25-30 factory price; roughly $1,500 of duty-free is spent per international flight, yielding about $600 or $6 per passenger to the airport, plus terminal fees of $7-9 that Almaty is raising 20% a year from $3-4. The old terminal's privately owned duty-free space becomes domestic, so TAV's 50%-owned subsidiary captures 100% of duty-free. TAV also holds fueling rights at Almaty, a 40%-margin monopoly gas station for 500 miles, and 2024 traffic is 30-40% above 2019.",
+      "stocks_or_cases": ["TAV Airports", "Almaty Airport"]
+    },
+    {
+      "idea": "Turkey is now 50-60% of his portfolio, not because he added money but because Reysas went from a $16 million market cap to about 30 times that, and it is still very undervalued.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "Because Turkey was so cheap he bought the very best iconic monopoly-type assets: the Coke bottler, the largest beer company, the best airport operator in the region and prime warehouses. He has held Reysas almost five years since 2019 without changes and has never seen its managers make a single mistake.",
+      "stocks_or_cases": ["Reysas", "TAV Airports", "Coca-Cola Icecek", "Anadolu Efes", "Turkey"]
+    },
+    {
+      "idea": "All his Turkish bets assumed the macro never improves, yet Erdogan's new post-election team raising rates to the mid-40s to sledgehammer inflation is a possible tailwind he does not need.",
+      "topic": "Markets, cycles & macro",
+      "detail": "TAV is listed in Turkey but Kazakhstan has nothing to do with Turkish monetary policy; the baby was thrown out with the bath water. If foreign institutions return, these blue-chip names are what they will want, but it works even without that.",
+      "stocks_or_cases": ["Turkey", "TAV Airports"]
+    },
+    {
+      "idea": "Metallurgical coal was an extreme mispricing: stocks at two times earnings doing massive buybacks, and buybacks at two to four times earnings are good for your health and wealth.",
+      "topic": "Valuation & margin of safety",
+      "detail": "Met coal is needed for iron and steel with no substitute 50-60 years out; ESG mandates force endowments out, creating irrational mispricing. His last 13F showed only coal among US positions.",
+      "stocks_or_cases": ["coal industry", "CONSOL Energy"]
+    },
+    {
+      "idea": "He has no original ideas; the coal bet was cloned from David Einhorn's mid-May 13F showing CONSOL Energy as his largest position, and answering 'why is Einhorn so hot on stupid coal' led to a massive bet.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "CONSOL forward-sells production at least a year ahead so 2024 cash flows are known within a band; it cancelled its dividend and directs 100% of discretionary cash to buybacks, with a $1.8 billion market cap and north of $600 million of earnings. When no one is interested in cheap names, you get paid through buybacks. He never spoke to Einhorn.",
+      "stocks_or_cases": ["David Einhorn", "CONSOL Energy", "Bill Gates"]
+    },
+    {
+      "idea": "India has great tailwinds and franchises but is not cheap, so he has been a net seller in India and a net buyer in the US and Turkey.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "Asked about India Energy Exchange, he said valuations in India are pretty heady while the US and Turkey offer more things that make sense.",
+      "stocks_or_cases": ["India Energy Exchange", "India"]
+    },
+    {
+      "idea": "He invests only when he sees an anomaly, a big price-to-value delta with a reason he can understand: 'I am Mohnish anomaly Pabrai.'",
+      "topic": "Valuation & margin of safety",
+      "detail": "Almaty was priced absurdly because of worries about Turkey and who wants a Kazakh airport; metallurgical coal, large car dealerships and Turkey are similar anomalies of price versus worth.",
+      "stocks_or_cases": ["TAV Airports", "coal industry", "car dealerships", "Turkey"]
+    },
+    {
+      "idea": "Auto OEMs are a really bad business: when EVs win, if Tesla earns 10% margins Ford and GM will have negative margins and may become terminal, because competing with Elon and with BYD's Wang Chuanfu ('Elon to the power of Elon') is not good for your health or wealth.",
+      "topic": "Moats & business quality",
+      "detail": "The EV transition may take 10-20 years but it will happen; except BYD and possibly the Koreans, most players against Tesla will struggle to make any profit. When you compete with an anomaly like Elon, take your ball and go home.",
+      "stocks_or_cases": ["Tesla", "Ford", "GM", "BYD", "Elon Musk", "Wang Chuanfu", "Hyundai", "Toyota"]
+    },
+    {
+      "idea": "US office real estate is in a nuclear winter that will last a long time; stay away, and look at home builders instead.",
+      "topic": "Markets, cycles & macro",
+      "detail": "Office vacancy near 20% is the highest in more than three decades, worse than the financial crisis; landlords hand back keys and small banks like New York Community Bancorp get stuck. Slow population growth means the space takes years to absorb. Home builders have no overhang, low housing stock and falling rates ahead; NVR went from $10 to $4,000 in 30 years through buybacks and Pulte is following, though he has not made bets there.",
+      "stocks_or_cases": ["New York Community Bancorp", "NVR", "Pulte", "Resolution Trust Corporation"]
+    },
+    {
+      "idea": "The US form of government is bulletproof: the economy thrives despite complete deadlock in Washington, and a half-functional government would be night and day.",
+      "topic": "Markets, cycles & macro",
+      "detail": "He wishes for better candidates on both sides ahead of the 2024 election but says the founding fathers built a system that keeps working through the craziness.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "The US deficit is a bigger problem at higher interest rates; there will never be a default because the US owns the printing press, but it makes runaway inflation more likely and a civilization should not test its limits.",
+      "topic": "Markets, cycles & macro",
+      "detail": "A small deficit is fine, but structural tax changes require a functional Washington; he is not an alarmist but wants grownups in DC.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Munger and Rick Guerin in the 1960s were shooting fish in a barrel with the water drained out, for example buying a bankrupt auto-additive company's bank debt at 30-40 cents on the dollar and pacifying a widow and the nurse-executor to close the deal.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "The founder, a super salesman who demonstrated his leak-sealing additive by shooting his own engine block, died suddenly and his affair with the nurse named as executor set the two women against each other; Charlie met the nurse for lunch at the California Club to get cooperation. Pabrai heard the story at a Friday bridge lunch at the LA Country Club.",
+      "stocks_or_cases": ["Charlie Munger", "Rick Guerin"]
+    },
+    {
+      "idea": "Without Charlie Munger, Berkshire's market cap would not be even 10% of what it is; one plus one became eleven because he pushed Warren toward better businesses and better people without ever taking credit.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "Munger also transformed Harvard-Westlake, UCSB, Stanford and the University of Michigan; Pabrai's last one-on-one dinner with him was exactly a month before he died, and twice Munger's advice on personal challenges worked out really well.",
+      "stocks_or_cases": ["Charlie Munger", "Berkshire Hathaway", "Warren Buffett", "Harvard-Westlake School"]
+    },
+    {
+      "idea": "Munger, a type-A dominant partner in every other venture, said it was a total no-brainer to be a junior partner to Warren Buffett even though it went against his natural brain.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "Pabrai asked him directly how he could accept the junior role given his personality; some things are simply no-brainers and you do the right thing.",
+      "stocks_or_cases": ["Charlie Munger", "Warren Buffett"]
+    },
+    {
+      "idea": "Munger was extremely careful in life and only wanted no-brainer bets, but at the bridge table he was a gambler who overbid and overplayed his hand.",
+      "topic": "Psychology & temperament",
+      "detail": "Once Pabrai figured this out he could trap Charlie in bridge and told him so; the contrast shows Munger reserved risk-taking for games, not investments.",
+      "stocks_or_cases": ["Charlie Munger"]
+    }
+  ]
+}

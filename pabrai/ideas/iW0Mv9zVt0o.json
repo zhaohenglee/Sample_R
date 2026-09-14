@@ -1,0 +1,236 @@
+{
+  "video_id": "iW0Mv9zVt0o",
+  "date": "2020-04-07",
+  "title": "Q&A Session with Francis Chou at Harvard - April 7, 2020",
+  "summary": "Pabrai and Francis Chou walk a Harvard class through the Dhandho Holdings purchase of Stonetrust (a workers' comp insurer bought for $65M in 2014), why Pabrai concluded it was a mistake, and how he sold it to Chou on trust with almost no due diligence. The Q&A, held in the early weeks of COVID, covers being a harsh grader of people, circle of competence, the failure-driven checklist, why he has moved from discounted pies to growing pies with hidden moats and a 10x-in-5-years bar, rejecting the Kelly formula, ~10% position sizing, and starting to compound early.",
+  "ideas": [
+    {
+      "idea": "Cloning is one of the most powerful mental models: lift what smart people have already figured out rather than inventing everything yourself.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "He calls himself the shameless cloner; he stumbled on Buffett via a Peter Lynch book about 26 years earlier and cloned many aspects of Buffett, including the idea of owning an insurer with float, which led to buying Stonetrust.",
+      "stocks_or_cases": [
+        "Warren Buffett",
+        "Peter Lynch",
+        "Berkshire Hathaway",
+        "Stonetrust"
+      ]
+    },
+    {
+      "idea": "You only truly understand a business after you own it with real money; paper portfolios don't make the learning sink in.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "Before the ink was dry on the $65M Stonetrust purchase in 2014 he realized he'd made a mistake; there is no way to avoid that tuition bill.",
+      "stocks_or_cases": [
+        "Stonetrust",
+        "Dhandho Holdings"
+      ]
+    },
+    {
+      "idea": "When you know you've made a mistake, change the mission like Shackleton: stop chasing the original goal and get your investors' capital back at 100 cents on the dollar.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "He decided not to run Stonetrust from a board level because of the opportunity cost, hired bankers and aimed simply to recover roughly the $65M paid; if you get all your money back on a mistake, that's a good place to be.",
+      "stocks_or_cases": [
+        "Stonetrust",
+        "Ernest Shackleton"
+      ]
+    },
+    {
+      "idea": "Insurance's great attributes are customers paying you upfront (float) and sticky recurring revenue; lending is the opposite and one of the worst businesses because money leaves the door on every sale.",
+      "topic": "Moats & business quality",
+      "detail": "Workers' comp is legally mandatory and renews year after year like the barbershop example; recurring revenue is one of the most beautiful aspects of any business.",
+      "stocks_or_cases": [
+        "Stonetrust"
+      ]
+    },
+    {
+      "idea": "Insurance is 'good from far but far from good': you make a sale without knowing your cost of goods for years, and it takes exceptional people to run, unlike a Coke bottler your idiot nephew could run.",
+      "topic": "Moats & business quality",
+      "detail": "Berkshire's real edge, which he only understood recently, is that its AAA rating and overcapitalization let regulators treat a railroad bought for $30B (now worth over $100B) as if it were a bond, a freedom almost no other insurer has.",
+      "stocks_or_cases": [
+        "Stonetrust",
+        "Berkshire Hathaway",
+        "BNSF",
+        "Coca-Cola"
+      ]
+    },
+    {
+      "idea": "You cannot write a good contract with a bad person; the most important thing in life is that everyone in your orbit is a high-quality individual.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "The Stonetrust sale closed with $45M cash and a $26M note from Chou, $16M of which was adjustable for reserves; both sides waived the annual actuary review and there were no price adjustments in over two years, saving an estimated $2-5M in fees.",
+      "stocks_or_cases": [
+        "Francis Chou",
+        "Stonetrust"
+      ]
+    },
+    {
+      "idea": "Be a harsh grader of people, as Buffett is: let in only the exceptional 4% and give no benefit of the doubt to the 92% you can't judge.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "From his 2008 lunch, Buffett said he isn't a great judge of people but simply culls; Munger adds there are enough nice people that you needn't make exceptions. Small signals like how someone treats a waiter suffice, and there's a gravitational effect from who you spend time with. Buffett's swap test: the classmate you'd trade half your lifetime income with has integrity, intelligence and energy.",
+      "stocks_or_cases": [
+        "Warren Buffett",
+        "Charlie Munger"
+      ]
+    },
+    {
+      "idea": "Circle of competence: if you have to ask whether a business is in it, the answer is that it isn't.",
+      "topic": "Circle of competence & checklists",
+      "detail": "Munger's 'to ask the question is to answer it'; MasterCard, American Express and Carnival are easy to understand, pass quickly on the ones where you're scratching your head.",
+      "stocks_or_cases": [
+        "Charlie Munger",
+        "MasterCard",
+        "American Express",
+        "Carnival Cruise Lines"
+      ]
+    },
+    {
+      "idea": "In April 2020 markets were nowhere near 2008-09 bargain levels; he had found only one business he was excited about and was buying it, versus an avalanche of 5-10x basket bets in 2008-09.",
+      "topic": "Markets, cycles & macro",
+      "detail": "In 2008-09 he made five 2% bets instead of one 10% bet because everything looked cheap and every investment was a winner; the 2020 fiscal and monetary response was much faster, with 10% unemployment reached far quicker than the 15 months it took in 2008-09.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Don't aim to broaden your circle of competence; being an inch wide and a mile deep beats a mile wide and an inch deep.",
+      "topic": "Circle of competence & checklists",
+      "detail": "Munger's friend John Arriaga became a billionaire investing only in real estate within one mile of Stanford; Buffett and Gates both name focus as the key trait. Read business biographies like Ken Iverson's Plain Talk on Nucor to stay curious.",
+      "stocks_or_cases": [
+        "John Arriaga",
+        "Nucor",
+        "Ken Iverson",
+        "Bill Gates"
+      ]
+    },
+    {
+      "idea": "There are no called strikes: if something about a business bothers you, take a pass and never regret it, but do regret understanding a good business and failing to pull the trigger.",
+      "topic": "Psychology & temperament",
+      "detail": "Carnival bothers him because much revenue comes from captive casinos past 12 miles and cruise lines skirt labor laws; it could be a 10-bagger but he doesn't need to spend more time on it.",
+      "stocks_or_cases": [
+        "Carnival Cruise Lines"
+      ]
+    },
+    {
+      "idea": "Leverage is the number one reason investments and businesses fail; great businesses like Google, Amazon and Microsoft don't need leverage to earn high returns.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "Delta Financial went to zero in the financial crisis and another holding was nearly a zero; in a concentrated portfolio zeros are hard to recover from, and this made him cut back sharply on leveraged institutions.",
+      "stocks_or_cases": [
+        "Delta Financial",
+        "Google",
+        "Amazon",
+        "Microsoft"
+      ]
+    },
+    {
+      "idea": "His checklist was built from post-mortems of great investors' losing investments, asking whether the failure was obvious beforehand; the biggest categories are leverage, moats and management.",
+      "topic": "Circle of competence & checklists",
+      "detail": "With interns he studied hundreds of failures across 15-20 investors like Ackman, Einhorn, Buffett and Munger via 13Fs; in most cases the weak link was visible in advance, e.g. US Airways was not the low-cost provider when Southwest came in.",
+      "stocks_or_cases": [
+        "Bill Ackman",
+        "David Einhorn",
+        "Warren Buffett",
+        "Charlie Munger",
+        "US Airways",
+        "Southwest Airlines"
+      ]
+    },
+    {
+      "idea": "He has moved from discounted pies to growing pies: '5x is for losers', the bar is now 10x in five years with a deep moat, which makes most things fail the cut and simplifies life.",
+      "topic": "Valuation & margin of safety",
+      "detail": "In 2008-09 he required at least a 5x on any bargain regardless of quality; in 2019 he made three investments and in 2020 one, which he sees as a straight 10x in five years with a nice moat.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Investments fall into three categories: discounted pies, obvious growing pies (which cheap value investors can't bring themselves to buy), and hidden moats, which is where the action is.",
+      "topic": "Moats & business quality",
+      "detail": "The whole planet knows Google, Amazon, Microsoft and Salesforce are great, so the edge lies in growing businesses with moats that very few humans can see.",
+      "stocks_or_cases": [
+        "Google",
+        "Amazon",
+        "Microsoft",
+        "Salesforce"
+      ]
+    },
+    {
+      "idea": "The Kelly formula is the mistake in The Dhandho Investor and should be ignored, because investing offers one-off bets, not thousands of sequential ones.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "Kelly works for a 51/49 coin flipped 2,000 times; in investing you get a single 70/30 or 90/10 opportunity, so the formula doesn't fit the format.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Don't be single-stock since anything can go to zero, but 20 stocks is also not bright; he caps positions at 10% and ideally holds about 10 bets.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "In his daughters' UGMA accounts with $15k-30k a year and a very long runway he went down to two or three highest-conviction ideas and it worked out; only exceed a tenth if you can't see a downside.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Diversify across 8-10 bets within your circle of competence because 100-year events happen every 10 years; don't sweat whether the odds are 70% or 90%.",
+      "topic": "Markets, cycles & macro",
+      "detail": "Guy Spier's view is 100-year events happen every 10 years and 50-year events every 7; nobody projected Vegas going to zero customers for weeks. Three REITs or three casinos is not diversification; prioritize low odds of losing money.",
+      "stocks_or_cases": [
+        "Guy Spier",
+        "Wynn Las Vegas",
+        "Encore Boston"
+      ]
+    },
+    {
+      "idea": "If you don't understand how a business makes money, you don't need to go there; there are 30,000 other stocks.",
+      "topic": "Circle of competence & checklists",
+      "detail": "He never seriously looked at Enron since energy is outside his circle, and he still can't figure out how Amazon's first-party retail makes money on Prime shipping, though AWS, Google and Apple he understands.",
+      "stocks_or_cases": [
+        "Enron",
+        "Amazon",
+        "Google",
+        "Apple"
+      ]
+    },
+    {
+      "idea": "Compounding has three variables (capital contributed, runway length, rate of return) and starting early matters most; even a 5-10% return with maxed 401k/IRA builds spectacular sums over decades.",
+      "topic": "Compounding & long-term holding",
+      "detail": "Buffett started at 20 with $10,000 and has compounded 70 years; Rick Guerin was levered in 1973-74 and sold Berkshire shares to Buffett at $40 that were recently $300,000. There's no minimum age for an IRA, so a 14-year-old with a part-time job should open one.",
+      "stocks_or_cases": [
+        "Warren Buffett",
+        "Rick Guerin",
+        "Berkshire Hathaway"
+      ]
+    },
+    {
+      "idea": "Start your business while employed: do just enough not to get fired, let the employer pay the rent, and switch full-time once there's revenue and traction.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "He ran TransTech for nine months on evenings and weekends while at Tellabs, then left at 25 with $70,000 in credit card debt and an emptied 401k; his boss offered him his job back anytime, so the risk was low. Many ideas today need intellectual capital, not money.",
+      "stocks_or_cases": [
+        "TransTech",
+        "Tellabs"
+      ]
+    },
+    {
+      "idea": "Most investors should index (S&P 500 or the Chai with Pabrai free lunch portfolio) because valuing businesses years out is extremely complicated and indexing is like watching paint dry.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "The free lunch portfolio mixes Uber Cannibals, spinoffs and shameless-cloning ideas, is back-tested and updated annually; zero-commission brokers make stock picking look easier than it is.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Philip Fisher-style scuttlebutt (talking to ex-employees, customers, vendors) beats armchair investing; he was wrong to avoid it for most of his career.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "He had followed the Graham view that CEOs are super salesmen who sway judgment, but investing internationally forced him to get on a plane to eliminate fraud risk, which he found invigorating.",
+      "stocks_or_cases": [
+        "Philip Fisher",
+        "Benjamin Graham"
+      ]
+    },
+    {
+      "idea": "Have a trusted peer with different life experience to bounce investments off, not a subordinate, because you can't see everything through your own filters.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "Munger told him he has always had someone to talk to about investments; Buffett and Munger worry they think so alike that an idea passing one filter passes the other. He uses Guy Spier and others who don't work for him.",
+      "stocks_or_cases": [
+        "Charlie Munger",
+        "Guy Spier"
+      ]
+    },
+    {
+      "idea": "Never count America, the world or humans out: the COVID shock is intense and many fragile businesses will fail, but a few years on the scars will be barely visible.",
+      "topic": "Markets, cycles & macro",
+      "detail": "GM's supply chain took ventilator maker Vintech from 150 to a planned 20,000 units a month in days; airlines will survive but equity holders may not do well since the government only cares that planes fly.",
+      "stocks_or_cases": [
+        "GM",
+        "Vintech"
+      ]
+    }
+  ]
+}

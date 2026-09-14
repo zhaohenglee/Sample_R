@@ -1,0 +1,220 @@
+{
+ "video_id": "ot6pzc9ZwfU",
+ "date": "2013-11-19",
+ "title": "Boston College Presentation November 19, 2013",
+ "summary": "Pabrai explains why he runs Pabrai Investment Funds alone with no analysts and instead 'shamelessly clones' ideas from 13F filings of great investors, using free tools like Value Investors Club and the Manual of Ideas. In the Q&A he walks through his elimination-based research process, his post-2008 cash-cushion and position-sizing rules, the checklist built from other investors' mistakes, commodity cost curves, why he never shorts, and advice for students on building an auditable track record.",
+ "ideas": [
+  {
+   "idea": "A one-person investment shop beats a large team because circles of competence differ and analysts create a bias for action.",
+   "topic": "Circle of competence & checklists",
+   "detail": "Buffett, Munger and Guy Spier all operate alone; with a 10-person team you get only Cliff Notes of secondary research and end up saying no to most ideas. Pabrai had zero new ideas in the past 17 months, which a team would not have tolerated.",
+   "stocks_or_cases": [
+    "Warren Buffett",
+    "Charlie Munger",
+    "Guy Spier"
+   ]
+  },
+  {
+   "idea": "It is not the size of your circle of competence but knowing its boundaries that determines results.",
+   "topic": "Circle of competence & checklists",
+   "detail": "John Arrillaga became a billionaire investing only in real estate within a couple of miles of Stanford; Munger's Peoria example of owning stakes in the Ford dealership, McDonald's franchise, best apartment and office building would compound spectacularly.",
+   "stocks_or_cases": [
+    "John Arrillaga",
+    "Charlie Munger"
+   ]
+  },
+  {
+   "idea": "Saying no to Apple in 2007 and Amazon in 2003 was correct even though each was a 10X or 100X, because they were outside his circle of competence.",
+   "topic": "Circle of competence & checklists",
+   "detail": "A venture capitalist investor laid out the iPhone/app store thesis eerily accurately; Pabrai still passed because he does not do tech or rapid change. This illustrates why an analyst bringing good ideas would rightly be frustrated.",
+   "stocks_or_cases": [
+    "Apple",
+    "Amazon"
+   ]
+  },
+  {
+   "idea": "Be a shameless cloner: use 13F filings of about 20 great investors to cut the universe of 50,000 stocks down to a few dozen.",
+   "topic": "Cloning & learning from great investors",
+   "detail": "Buffett, Ted Weschler, Todd Combs, Seth Klarman, Longleaf and David Einhorn are his 'analysts at zero pay' who report four days a year (Feb 14, May 14, Aug 14, Nov 14). Only one stock in his portfolio is not a cloned position.",
+   "stocks_or_cases": [
+    "Berkshire Hathaway",
+    "Longleaf Partners",
+    "Seth Klarman",
+    "Third Avenue",
+    "David Einhorn",
+    "Ted Weschler",
+    "Todd Combs"
+   ]
+  },
+  {
+   "idea": "Free or near-free tools like Value Investors Club, SumZero, GuruFocus, Corner of Berkshire and Fairfax, the Manual of Ideas and EDGAR replace an analyst team.",
+   "topic": "Cloning & learning from great investors",
+   "detail": "Value Investors Club, set up by Joel Greenblatt and John Petry, curates amateur write-ups by paying $5,000 a week for the best idea; the Manual of Ideas costs about $900 a year and digests 13Fs; EDGAR Online is $10 a month.",
+   "stocks_or_cases": [
+    "Value Investors Club",
+    "Joel Greenblatt",
+    "Manual of Ideas",
+    "GuruFocus",
+    "SumZero"
+   ]
+  },
+  {
+   "idea": "General Motors became a position only after both Berkshire and David Einhorn showed it as a top holding, prompting a multi-week drill down.",
+   "topic": "Stock case studies",
+   "detail": "He initially rejected GM (high capex, unions, consumer tastes) when it appeared in Berkshire's Q1 2012 13F, then read a dozen books including Rattner's Overhaul and Sloan's My Years at GM; the position is up 100-120% and he bought cheaper than Weschler did.",
+   "stocks_or_cases": [
+    "General Motors",
+    "Berkshire Hathaway",
+    "David Einhorn",
+    "Steve Rattner"
+   ]
+  },
+  {
+   "idea": "The research process is designed to get to a 'no' as quickly as possible, in escalating stages from two minutes to a few weeks.",
+   "topic": "Circle of competence & checklists",
+   "detail": "First filter is circle of competence, second is valuation (needs to be at least 50% off intrinsic value), then 15 minutes, a few hours with filings, a few days of drill down, and finally the checklist, which mostly surfaces things he did not know.",
+   "stocks_or_cases": []
+  },
+  {
+   "idea": "The absolute lowest bar is buying at half of intrinsic value; paying $13 for something worth $18-19 is an automatic pass.",
+   "topic": "Valuation & margin of safety",
+   "detail": "If he pays $13 he wants to be convinced it will be worth at least the mid-twenties within a couple of years. Valuation is the most common reason for exclusion after circle of competence.",
+   "stocks_or_cases": []
+  },
+  {
+   "idea": "Patience is the number one skill for beating the market; there is never a need for rapid response and two or three ideas a year is enough.",
+   "topic": "Psychology & temperament",
+   "detail": "GM became cheaper while he researched it for three to four weeks, so he bought at lower prices than Berkshire originally paid.",
+   "stocks_or_cases": [
+    "General Motors"
+   ]
+  },
+  {
+   "idea": "Write a six-or-seven-sentence thesis before buying, review metrics every three to six months, and treat a stock as a sale candidate at 90% of intrinsic value.",
+   "topic": "Portfolio concentration & selling",
+   "detail": "He knows the selling conditions before he buys; he may also swap a 75-80 cent dollar for a 40-cent dollar when he has no cash, and prefers holding at least a year for long-term gains in US funds.",
+   "stocks_or_cases": []
+  },
+  {
+   "idea": "Mechanically buying what Buffett bought after it was public beat the S&P by more than 11 percentage points a year over 30 years.",
+   "topic": "Cloning & learning from great investors",
+   "detail": "Two professors (Ohio State and University of Nevada) assumed the worst broker and worst prices on the last day of the month; result was roughly 20-21% a year vs 10% for the S&P. Beating indices by 3 points puts a manager in the top 0.5%, yet no student has started a 'Berkshire Clone Fund'.",
+   "stocks_or_cases": [
+    "Berkshire Hathaway",
+    "Warren Buffett"
+   ]
+  },
+  {
+   "idea": "After losing about 67% in 2008 while fully invested, he adopted a tiered cash-cushion rule so the fund can play offense in dislocations.",
+   "topic": "Portfolio concentration & selling",
+   "detail": "First 75% of the fund can go into 2-3X ideas, next 10% needs 3X, next 5% needs 4X, last 10% needs 5X or better; a permanent 10-20% cash cushion is fine because dislocations are nearly certain. Anything bought in Q4 2008 or Q1 2009 is a 4-5X since.",
+   "stocks_or_cases": [
+    "Pabrai Investment Funds"
+   ]
+  },
+  {
+   "idea": "Focus on the downside: if you spend enough time on what can go wrong, the upside takes care of itself.",
+   "topic": "Valuation & margin of safety",
+   "detail": "He cites Buffett's rule number one, don't lose money, and notes distressed bonds at 30-50 cents on the dollar can be a safer proxy for equity when the business is only temporarily distressed.",
+   "stocks_or_cases": [
+    "Warren Buffett"
+   ]
+  },
+  {
+   "idea": "Position sizes come in three thresholds: 2%, 5% and 10% of assets, replacing the pre-2008 practice of 10% bets.",
+   "topic": "Portfolio concentration & selling",
+   "detail": "2% is for asymmetric but hairy bets like Freddie and Fannie preferreds bought at 7-9% of par, or the 2008 commodity basket where every 2% position was a multi-bagger; 5% is a normal opportunity and 10% for high conviction. Four or five industries is enough diversification.",
+   "stocks_or_cases": [
+    "Freddie Mac",
+    "Fannie Mae"
+   ]
+  },
+  {
+   "idea": "Expanding your circle of competence happens naturally through curiosity and reading; it is better to be an inch wide and a mile deep.",
+   "topic": "Circle of competence & checklists",
+   "detail": "If you are an inch wide and 200 feet deep, put energy into going deeper before going wider.",
+   "stocks_or_cases": []
+  },
+  {
+   "idea": "A zero-growth business with utility-like stable cash flows is worth 10-14 times cash flow, and one growing 5-10% a year is worth at least 15 times.",
+   "topic": "Valuation & margin of safety",
+   "detail": "Buying a stable no-growth business at five or six times cash flow gives good odds of a double. High variability of cash flows produces wider gyrations from intrinsic value and hence opportunity.",
+   "stocks_or_cases": []
+  },
+  {
+   "idea": "Horsehead Holdings (ticker ZINC) is a free option: cash flow of $130-170 million on a $700 million market cap even at low zinc prices, with $25 million more per 10-cent rise in zinc.",
+   "topic": "Stock case studies",
+   "detail": "Zinc is at 85 cents a pound versus a historic 50 cents to $2 range; the thesis does not depend on zinc rising, but a move to $1.30-2.00 would be a large upside. The position is about five years old.",
+   "stocks_or_cases": [
+    "Horsehead Holdings"
+   ]
+  },
+  {
+   "idea": "Leverage is the largest source of investment failures, so the checklist has about 25 questions on it; ideally look for large cash flows with virtually no leverage.",
+   "topic": "Circle of competence & checklists",
+   "detail": "Whether debt is recourse or non-recourse, plant-level or corporate, and cash-flow coverage of interest all matter; being a good credit analyst is a huge advantage.",
+   "stocks_or_cases": []
+  },
+  {
+   "idea": "The 90-odd-question checklist was built by reverse-engineering real permanent losses of respected investors, not by blue-sky thinking.",
+   "topic": "Circle of competence & checklists",
+   "detail": "Questions cluster into leverage, moats, management/ownership and miscellaneous (unions, environment). Sources include Berkshire's Dexter Shoes, NetJets and Berkshire Mills, and Longleaf's loss on pre-bankruptcy GM where labor and capital intensity were the obvious failure points.",
+   "stocks_or_cases": [
+    "Dexter Shoes",
+    "NetJets",
+    "Longleaf Partners",
+    "General Motors"
+   ]
+  },
+  {
+   "idea": "Investors can have a healthy error rate and still do very well; Templeton says being right two out of three times hits the ball out of the park.",
+   "topic": "Mistakes & lessons learned",
+   "detail": "When analyzing mistakes, ask whether the failure point was obvious front and center before the investment, not something obscure.",
+   "stocks_or_cases": [
+    "John Templeton"
+   ]
+  },
+  {
+   "idea": "Commodity businesses can have moats as durable as Coca-Cola or Geico if they are first-quartile low-cost producers.",
+   "topic": "Moats & business quality",
+   "detail": "A zinc mine producing at 40-50 cents a pound makes money in any economy while high-cost mines are mothballed. In late 2008 he bought first-quartile producers like Teck Cominco at $4-5 (down from $50 in four months) and it went back to $40-50.",
+   "stocks_or_cases": [
+    "Teck Cominco",
+    "Coca-Cola",
+    "Geico"
+   ]
+  },
+  {
+   "idea": "Shorting is a stupid bet: maximum upside is a double, maximum downside is bankruptcy, and it chains you to a quote machine.",
+   "topic": "Psychology & temperament",
+   "detail": "Buffett and Munger say they were almost always wrong on timing of short candidates; ridiculous prices like Twitter's can get more ridiculous, and every CEO goes to work to add value against you.",
+   "stocks_or_cases": [
+    "Twitter",
+    "Bill Ackman"
+   ]
+  },
+  {
+   "idea": "Students should start an auditable track record now with a real-money brokerage account traded like a $100 million portfolio, then raise money from friends, family and fools.",
+   "topic": "Career, entrepreneurship & life",
+   "detail": "After three to seven years the data will show whether you are meaningfully better than most investors; if you outperform by 3-5%, investors will swim to you in shark-infested waters.",
+   "stocks_or_cases": []
+  },
+  {
+   "idea": "His original, non-cloned Japanese net-net basket returned only about 2.5% and reinforced that his own ideas 'all suck royally'.",
+   "topic": "Mistakes & lessons learned",
+   "detail": "Per Graham, net-nets are not the ideal buy when whole markets are cheap; the Japanese market rallied from multi-decade lows but the net-nets did not, whereas a basket of Japanese blue chips would have done fantastically. Baskets are anomalies; he prefers picking the best business in an industry.",
+   "stocks_or_cases": [
+    "Ben Graham"
+   ]
+  },
+  {
+   "idea": "The human brain is optimized to specialize between ages 13 and 19, and his teenage years helping his serially-bankrupt entrepreneur father were his most important training.",
+   "topic": "Career, entrepreneurship & life",
+   "detail": "Buffett bought his first stock at 11 and Gates logged 15,000 programming hours by 19-20; Germany's tracking of kids into vocational work at 12-13 explains its manufacturing strength. US schools should let clearly directed teens specialize.",
+   "stocks_or_cases": [
+    "Warren Buffett",
+    "Bill Gates"
+   ]
+  }
+ ]
+}

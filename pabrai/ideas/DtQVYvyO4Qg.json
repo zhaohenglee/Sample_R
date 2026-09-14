@@ -1,0 +1,110 @@
+{
+  "video_id": "DtQVYvyO4Qg",
+  "date": "2023-04-25",
+  "title": "Mohnish Pabrai's Interview at the Investor’s Podcast on April 25, 2023",
+  "summary": "In his annual pre-Berkshire conversation with Stig Brodersen, Pabrai introduces his 'circle the wagons' framework: since even Buffett's hit rate is about 4%, the whole game is not selling the few great compounders, illustrated with the Nifty 50/Walmart, Rakesh Jhunjhunwala's Titan, Nick Sleep's Amazon and Naspers' Tencent. He also covers Turkey's nine-day holding periods, Shinoken's take-private and Reysas buybacks, stock-based compensation versus Constellation Software's model, cutting losses on Alibaba, avoiding mega caps, and the personal payoff of radical candor.",
+  "ideas": [
+    {
+      "idea": "Our brains were wired to survive the African savannah, not to invest, so the best we can do is be aware of biases and sidestep some pitfalls — nobody sidesteps them all.",
+      "topic": "Psychology & temperament",
+      "detail": "He recommends rereading Munger's psychology of misjudgment essay and Cialdini's book; commitment and consistency bias is part and parcel of who we are.",
+      "stocks_or_cases": ["Charlie Munger", "Robert Cialdini"]
+    },
+    {
+      "idea": "In the long run every market is a weighing machine, but Turkey's nine-day average holding period creates far wider mispricing than the US.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "Locals buy at 10 and wrap up by 2 — they are playing the market, not investing; nobody weighs companies like Reysas. It is a time warp to the 1960s-70s US or early-1990s India with high-quality businesses at single-digit multiples, and the stock market transfers wealth from the active to the inactive.",
+      "stocks_or_cases": ["Reysas", "Turkey", "Warren Buffett", "Ben Graham"]
+    },
+    {
+      "idea": "Even Warren Buffett's hit rate is about 4% — 12 decisions out of 300-plus made most of Berkshire's results in 58 years.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "Buffett's 2023 letter says Berkshire has a few truly extraordinary businesses, many pretty good and a very large number of mediocre; he bought 80-plus companies, made 10 key hires and bought at least 210 stocks. Munger says removing the top 15 decisions would make their record useless.",
+      "stocks_or_cases": ["Berkshire Hathaway", "Warren Buffett", "Charlie Munger"]
+    },
+    {
+      "idea": "If 49 of the Nifty 50 went to zero and you just held Walmart from its 1970 IPO, you would still have beaten the S&P — one held decision has outsized impact.",
+      "topic": "Compounding & long-term holding",
+      "detail": "A 2% Walmart weight alone yields ~13.3% annualized versus 10.3% for the S&P over 52 years. Even buying the Nifty 50 without Walmart at the 1972 peak and holding through the 50% crash of 1973-74 returned 10.2% versus 10.3% — but everyone had exited by 1975.",
+      "stocks_or_cases": ["Nifty Fifty", "Walmart", "McDonald's", "Coca-Cola", "Procter & Gamble", "Polaroid", "Xerox", "Kodak", "Burroughs"]
+    },
+    {
+      "idea": "Rakesh Jhunjhunwala's $3.4 million Titan bet in 2003 alone became $1.4 billion — a 400x return that would have carried him even if everything else went to zero.",
+      "topic": "Compounding & long-term holding",
+      "detail": "He started with $400 at 25 and died at 62 with $5.8 billion, all passive investing; Titan was 4% of his $85 million portfolio, a little over 5% of the company, and his widow still holds it. Nick Sleep's record is similarly ordinary without Amazon and exceptional with it.",
+      "stocks_or_cases": ["Rakesh Jhunjhunwala", "Titan", "Nick Sleep", "Amazon"]
+    },
+    {
+      "idea": "Naspers is the most extreme case: a $32 million Tencent stake in 2001 grew to $270 billion because they never sold, hedged or trimmed.",
+      "topic": "Stock case studies",
+      "detail": "A hundred-year-old South African newspaper company with a $500 million market cap put ~6% of its value into a 46% Tencent stake; it still owned 36% in 2018 worth $170 billion. Of hundreds of bets, only two things mattered — buying Tencent and, more importantly, not selling it.",
+      "stocks_or_cases": ["Naspers", "Tencent"]
+    },
+    {
+      "idea": "Circle the wagons: put your crown jewels in the center and protect them — the framework only works if you never touch the great compounders.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "Named after 19th-century frontier settlers' defensive formation. Three recognitions: we will make many mistakes, this is a very forgiving business where you can be wrong 98% of the time, but only if you buy great economics at reasonable prices and hold forever — not selling when fully priced or overpriced, only possibly when egregiously overpriced.",
+      "stocks_or_cases": ["See's Candies", "American Express", "Coca-Cola", "Berkshire Hathaway", "Naspers"]
+    },
+    {
+      "idea": "It's hard to beat the market without this framework because you'll be cutting the flowers and watering the weeds — watering weeds is fine, just don't cut the flowers.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "The index outperforms most managers because it is too dumb to sell Amazon or Alphabet. Great businesses at small multiples are rare, which is why he hangs out in Istanbul — go fishing where the fish are.",
+      "stocks_or_cases": ["Amazon", "Alphabet", "Turkey"]
+    },
+    {
+      "idea": "Founder-CEOs, even great operators, often don't understand buybacks because cash leaves the treasury with no immediate pop in the stock — it takes Henry Singleton-style faith.",
+      "topic": "Management & capital allocation",
+      "detail": "He sent Shinoken a PowerPoint in Japanese on buybacks; they only nibbled, so he sold in frustration, and a year or two later the founder took the whole company private at a spectacular discount. Reysas has woken up to the mistake of not buying the whole company at a 50% premium and has been buying back shares.",
+      "stocks_or_cases": ["Shinoken", "Reysas", "Henry Singleton"]
+    },
+    {
+      "idea": "Japan is hard to invest in because managements run businesses for employees rather than shareholders, and the population is shrinking by a million a year.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "Last year 1.6 million Japanese died and 800,000 were born; Shinoken attracted him because its founder didn't fit the typical Japanese template, and it had years of visible recurring property-management cash flows.",
+      "stocks_or_cases": ["Shinoken", "Japan"]
+    },
+    {
+      "idea": "Investing is like bridge — 15 minutes to learn, impossible to master in a lifetime — and after nearly 30 years my pattern recognition is faster and broader.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "He is as excited about the game as in 1994; more competencies and refined mental models have accumulated, and lifelong learning serves you well.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Stock-based compensation is heads they win, tails they don't lose; the better model is Constellation Software's, where managers buy shares with after-tax bonuses.",
+      "topic": "Management & capital allocation",
+      "detail": "Silicon Valley overdoses on giving equity to everyone because it's non-cash and boards don't understand its value, then hides it with adjusted EBITDA. Mark Leonard draws no salary or bonus; Berkshire managers bought stock with their own earnings; Bill Gates never granted himself options, whereas Larry Ellison's comp at Oracle was a tax on shareholders even though he'd have worked as hard anyway.",
+      "stocks_or_cases": ["Constellation Software", "Mark Leonard", "Berkshire Hathaway", "Oracle", "Larry Ellison", "Bill Gates", "Microsoft"]
+    },
+    {
+      "idea": "I'm not a fan of rollups or serial acquirers, but Constellation and Berkshire are cut from a different cloth — Constellation is the caretaker in the software funeral business.",
+      "topic": "Moats & business quality",
+      "detail": "Constellation nudges 40,000 vertical-market software companies two or three times a year; for aging founders and VCs wanting to dump flat-lined portfolio companies it is often the only buyer. Not owning Constellation may be a mistake even at its size and multiple because Leonard is a capital allocator who pulls rabbits out of hats.",
+      "stocks_or_cases": ["Constellation Software", "Mark Leonard", "Berkshire Hathaway"]
+    },
+    {
+      "idea": "Even the best investors are wrong half the time, so separate signal from noise and cut losses when the data says you were wrong — as with Alibaba.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "In a 10-stock portfolio more than half are probably mistakes, compounding at 4% instead of 15%. Chinese government actions against Alibaba destroyed value and are impossible to handicap, so it went into the too-hard pile; he moved the money to Prosus, which he thinks is a better bet on Tencent.",
+      "stocks_or_cases": ["Alibaba", "Prosus", "Tencent", "China"]
+    },
+    {
+      "idea": "Avoid mega caps — at $100-300 billion the runway is in question, so I look for much smaller businesses with room to grow.",
+      "topic": "Valuation & margin of safety",
+      "detail": "Alibaba was an exception that didn't help him; Apple going from $200 billion to $2.5 trillion happens, but such cases are few and far between and even a double from mega-cap size may not be easy.",
+      "stocks_or_cases": ["Alibaba", "Apple"]
+    },
+    {
+      "idea": "Commit to the truth and cut out even small white lies — the world runs on trust, not contracts, and the paybacks are enormous.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Inspired by David Hawkins' Power vs. Force; it feels uncomfortable at first but trust rises sharply, friends know you have their back, and you never have to remember your lies. The best contracts are the ones you never look at after signing. Candor about skipping weddings will be welcomed.",
+      "stocks_or_cases": ["David Hawkins"]
+    },
+    {
+      "idea": "People everywhere hate talking about money, but asking about net worth, income and expenses in a confidential setting is the only way to give useful advice — and people feel relieved.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Guy Spier cringes when Pabrai asks these questions, yet friends share numbers they have never told anyone; a friend deciding between retirement and two jobs got concrete advice only after revealing his finances.",
+      "stocks_or_cases": ["Guy Spier"]
+    }
+  ]
+}

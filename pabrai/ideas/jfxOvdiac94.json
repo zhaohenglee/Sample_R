@@ -1,0 +1,158 @@
+{
+  "video_id": "jfxOvdiac94",
+  "date": "2016-05-24",
+  "title": "Mohnish Pabrai Lecture at Univ. of California, Irvine (UCI), May 24, 2016",
+  "summary": "A lecture built around Berkshire's Coca-Cola investment (1988-1990), walking through the dozens of mental models Buffett and Munger used, from the See's Candies education in branding and pricing power to Coke's capital-light syrup model, its runway, and the Goizueta/Keough capital allocation era. Pabrai frames the three traits of great investors (patience, decisiveness, willingness to be different), argues that great investments don't need spreadsheets, and in Q&A covers cloning, position sizing, cash, mistakes (Delta Financial), indexing and compounding for non-professionals, his career reset rule, and Dakshana.",
+  "ideas": [
+    {
+      "idea": "Buffett and Munger succeeded because of three traits: extreme patience, extreme decisiveness when opportunity appears, and no concern about being different from the crowd.",
+      "topic": "Psychology & temperament",
+      "detail": "Pabrai channels Peter Kaufman's framing: patience must be bliss not agony (you should be happy watching paint dry), decisiveness means betting big rather than a 2% position when a rare opportunity appears, and being different is the hardest for humans. He believes these traits are largely inborn and you can't convert a high-speed trader into this model.",
+      "stocks_or_cases": ["Peter Kaufman", "Charlie Munger", "Warren Buffett"]
+    },
+    {
+      "idea": "For most investments, if you can't do the math in your head it should be an automatic pass; great investments come from overlapping mental models, not spreadsheets.",
+      "topic": "Valuation & margin of safety",
+      "detail": "No DCF or spreadsheet was ever built for the Coke investment in almost 30 years; Buffett and Munger used dozens of models whose interplay produces Munger's Lollapalooza effect where one plus one becomes eleven.",
+      "stocks_or_cases": ["Coca-Cola", "Charlie Munger", "Warren Buffett"]
+    },
+    {
+      "idea": "Berkshire's Coke purchase was a massive concentrated bet at a non-cheap price: 1.3 billion, about one fourth of Berkshire's book value, with the last shares bought at 25 times trailing earnings.",
+      "topic": "Stock case studies",
+      "detail": "Bought between 1988 and 1990, the position has not been touched for nearly 30 years and Pabrai expects it won't be even after Buffett and Munger are gone. Market cap at purchase was roughly 15-20 billion versus about 190 billion in 2016.",
+      "stocks_or_cases": ["Coca-Cola", "Berkshire Hathaway"]
+    },
+    {
+      "idea": "See's Candies was the education in brands and pricing power that made the Coke investment possible; without See's they would never have bought Coke.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "Bought in 1972 for 25 million (Buffett would have walked at 30 million) when it earned 2 million on 8 million book; by 1984 it earned 13 million on 20 million book with only about 2% annual unit growth. Buffett's only input was setting the price list every January 1st, raising prices far above inflation with no loss of sales. Munger says they were 'barely smart enough' to buy it and could have paid 100 million.",
+      "stocks_or_cases": ["See's Candies", "Coca-Cola", "Chuck Huggins"]
+    },
+    {
+      "idea": "Coke was See's on steroids because it traveled globally, had no aftertaste limiting consumption, and needed no retail space or rent.",
+      "topic": "Moats & business quality",
+      "detail": "See's could never expand beyond California despite repeated attempts, while Coke is sold everywhere except Cuba and North Korea. Unlike fudge, a person can drink five Cokes a day for life without monotony. Compare See's 65% return on invested capital with Coke's even better economics.",
+      "stocks_or_cases": ["Coca-Cola", "See's Candies", "McDonald's"]
+    },
+    {
+      "idea": "Reading a company's entire history of annual reports gives an information and synthesis edge that most investors are unwilling to earn.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "Buffett and Munger read every Coke annual report from 1919 to the late 1980s and learned that unit case volume had never fallen in a single year, through the Depression, WWII, Korea and 1970s stagflation. Pabrai himself sent Munger a Dropbox of every GM annual report since 1911 (24,000 pages) and began reading them himself, calling it fascinating.",
+      "stocks_or_cases": ["Coca-Cola", "General Motors", "American Express", "Charlie Munger"]
+    },
+    {
+      "idea": "The runway matters more than past growth: humans need 64 ounces of water a day, prefer flavored water, and Coke could plausibly capture half the flavored half, giving decades of volume growth.",
+      "topic": "Moats & business quality",
+      "detail": "Buffett and Munger looked at unit volume, number of humans, GDP growth and per-capita consumption (Mexico is highest in the world, other countries at 1/100th of that). A 1938 Fortune article said the ride was over, yet $40 invested in Coke in 1938 became 25,000 by 1993.",
+      "stocks_or_cases": ["Coca-Cola"]
+    },
+    {
+      "idea": "Ignore a security's past performance and avoid anchoring; focus only on the future.",
+      "topic": "Psychology & temperament",
+      "detail": "Pabrai admits he is guilty of anchoring on past performance. Buffett and Munger put a quarter of their capital into Coke a hundred years after it was formed without being tainted by how much it had already grown.",
+      "stocks_or_cases": ["Coca-Cola"]
+    },
+    {
+      "idea": "Coke's concentrate/syrup model is extraordinarily capital-light because the bottlers and restaurants bear the CapEx while Coke controls syrup pricing.",
+      "topic": "Moats & business quality",
+      "detail": "Of a 25 cent can, Coke gets 6-7 cents at almost no cost, spends about 10% on advertising and keeps 25-30% pretax. In the mid-1980s bottlers spent 1.3 billion a year on CapEx versus Coke's 160 million (about 12%); Coke had 17,000 employees versus half a million at bottlers. The fountain model is even better since restaurants pay 15 cents and charge 2 dollars. Microsoft's model of giving Dell one copy of Windows was even better than syrup.",
+      "stocks_or_cases": ["Coca-Cola", "Microsoft", "Dell", "McDonald's", "Burger King"]
+    },
+    {
+      "idea": "Private-label colas can never get traction against Coke because global scale leaves them no room to undercut and because the mouth is a personal space where people won't take the low bid.",
+      "topic": "Moats & business quality",
+      "detail": "Coke makes about 2 cents and the bottler a couple of cents on a 25 cent can, so a competitor with identical costs pricing at 21 cents makes nothing. Virgin Cola and Sam's Choice never worked; humans are creatures of habit and won't switch what goes in their mouths.",
+      "stocks_or_cases": ["Coca-Cola", "Virgin Cola", "Sam's Choice", "Wrigley"]
+    },
+    {
+      "idea": "Brand spending compounds across decades and is subsidized by others; Buffett said even 100 billion could not take away Coke's market leadership.",
+      "topic": "Moats & business quality",
+      "detail": "Coke has always spent under 10% of revenue on branding; the cans, red trucks, painted restaurants in rural India and China, and FIFA/Olympics/Disney sponsorships are largely paid by bottlers and exploit Munger's association tendency. What Coke spends in 2016 still has residual effect 50 years out, and red and yellow are primary colors humans are drawn to.",
+      "stocks_or_cases": ["Coca-Cola", "McDonald's", "Wells Fargo"]
+    },
+    {
+      "idea": "Great business models tend to attract dumb managers who look good anyway, so the arrival of real capital allocators at a great business is the trigger to buy.",
+      "topic": "Management & capital allocation",
+      "detail": "Coke had bought shrimp farms in Thailand and other unrelated businesses. From 1981 Roberto Goizueta (marketing plus finance) and Don Keough (operator) dumped everything non-beverage including Paramount Pictures and aggressively bought back stock; Goizueta owned 2.5% of Coke. Buffett watched seven years of this before buying in 1988. Great business plus great manager is the holy grail.",
+      "stocks_or_cases": ["Coca-Cola", "Roberto Goizueta", "Donald Keough", "Paramount Pictures"]
+    },
+    {
+      "idea": "Munger's Glotz inversion: build a 2 trillion dollar company from 2 million by 2034 via naming, cold beverages, association and social proof, fountains plus bottles, aura of secrecy, and by not losing the brand name, not creating envy, and not changing the flavor.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "The math: 7 billion humans, 64 ounces a day, half flavored, half of that to Coke at about 4 cents a serving yields roughly 117 billion in profit and a 2 trillion market cap. Coke in fact violated the inversion rules: it lost the 'Cola' half of its name, signed fixed-price syrup contracts with bottlers around 1900, drew territories by a day's horse ride, and the New Coke fiasco responded to John Sculley's Pepsi Challenge.",
+      "stocks_or_cases": ["Coca-Cola", "Pepsi", "John Sculley", "Charlie Munger"]
+    },
+    {
+      "idea": "Coke reaching 2 trillion by 2034 from 190 billion in 2016 requires about 14.5% a year, which Pabrai doubts on fundamentals, though a cyclical 30-40 multiple could get it there.",
+      "topic": "Valuation & margin of safety",
+      "detail": "Munger's 1996 speech needed only 7.5% a year from a 125 billion market cap. Coke sat at a 40 multiple in 1999, so a crazy multiple at the right time might deliver the number.",
+      "stocks_or_cases": ["Coca-Cola"]
+    },
+    {
+      "idea": "The key is to make very few, very infrequent bets, and when seven moons line up, bet big.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "Pabrai used to run a 10-stock, 10%-per-position model; during the financial crisis he found baskets of cheap businesses useful, and now sizes at 2%, 5% or 10% depending on discount to value and probability of loss. Fewer bets with deeper knowledge is better, and he suggests a concentrated real-estate investor with deep knowledge may have it more right than he does.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "When cloning, look at the highest-conviction ideas of concentrated investors; it is not too late weeks after their purchase if you can reverse-engineer the logic and it still looks cheap.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "A 50-stock portfolio with nothing above 3% reveals no conviction, whereas a 15-stock portfolio where the top three are half the pie does. By mid-1989 it was public that Buffett was buying Coke at only about 10% above his cost, and two years later it had doubled.",
+      "stocks_or_cases": ["Coca-Cola", "Warren Buffett"]
+    },
+    {
+      "idea": "His biggest mistake by dollars was Delta Financial in 2008, which went bankrupt and cost about 60 million, roughly 10% of assets; mistakes are blessings if studied.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "Earlier, his dot-com venture Digital Disruptors in 1999-2000 lost him about 2 million personally and outside investors 3 million, but those lessons helped Pabrai Funds sidestep trouble in its early years. John Templeton said you'll be wrong one third of the time; even Buffett and Munger have many mistakes such as Gen Re but were right on the large ones.",
+      "stocks_or_cases": ["Delta Financial", "Digital Disruptors", "Gen Re", "John Templeton"]
+    },
+    {
+      "idea": "Study businesses for the sake of understanding how the world works, not to decide whether to invest, because commitment bias pushes you to act after spending time.",
+      "topic": "Psychology & temperament",
+      "detail": "Reading without a transaction in mind builds wisdom rather than smartness; Munger had insights on Valeant without reading its reports that hedge funds with armies of analysts lacked. Set your life up with large chunks of reading time.",
+      "stocks_or_cases": ["Valeant", "Charlie Munger"]
+    },
+    {
+      "idea": "For most people the path to wealth is simple: spend less than you earn, put it in an S&P index, never borrow against it or spend it, and start early.",
+      "topic": "Compounding & long-term holding",
+      "detail": "He told his 18-year-old daughter that $5,000 in a Roth IRA compounding at 10% for 50 years becomes about 650,000-700,000 via rule of 72 (seven doublings); even 7% doubles every 10 years, and the S&P has done about 9% a year. Non-professional investors should index rather than try to pick managers.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Insurance is a good business because of float but has commodity attributes, and owning one taught him he would much rather own See's Candies.",
+      "topic": "Moats & business quality",
+      "detail": "Dhandho bought a Louisiana workers' comp insurer with about 60 million in premiums in five states. Buyers treat insurance like a tax and take the cheapest bid, so the economics are nothing like Coke's.",
+      "stocks_or_cases": ["Dhandho Holdings", "See's Candies"]
+    },
+    {
+      "idea": "Don't focus on being fully invested; hold cash comfortably until something intelligent shows up, and don't buy unless it is at least 50% off.",
+      "topic": "Valuation & margin of safety",
+      "detail": "Comfort with uninvested funds is part of patience. The area he wants to improve is finding non-obvious 50-cent dollars: See's was a 25-cent dollar and Coke in the late 1980s was a great bet, but neither was obvious.",
+      "stocks_or_cases": ["See's Candies", "Coca-Cola"]
+    },
+    {
+      "idea": "Buying a 50-cent dollar and selling at 90 works, but an even better model is buying and holding long-runway businesses even at 20 times earnings.",
+      "topic": "Compounding & long-term holding",
+      "detail": "At the 2008 lunch Buffett named GEICO his favorite Berkshire company because of its runway, having gone from 2% to nearly 10% market share and planning to pass State Farm on his 100th birthday. Pabrai admits the lesson to sometimes pay up has not been seared in because he is a bargain hunter.",
+      "stocks_or_cases": ["GEICO", "State Farm", "Coca-Cola"]
+    },
+    {
+      "idea": "Follow the Munger grocery-store approach: keep a list of businesses you love and wait for them to go on sale, rather than Graham's approach of buying whatever is most discounted.",
+      "topic": "Circle of competence & checklists",
+      "detail": "After feeling sheepish at Columbia for not having such a list, he built one of admired businesses covering 80-90% of likely candidates and plans a weekly check on prices. He missed buying on February 8, 2016 when indices tanked because he was in India and not paying attention.",
+      "stocks_or_cases": ["Ben Graham", "Charlie Munger"]
+    },
+    {
+      "idea": "If you are not fired up on Monday morning, don't go to work and hit the reset button; every reset has led to higher highs.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "He ran TransTech from 1990 to 1999, lost interest after discovering Buffett in 1994, and his YPO forum helped him hire a CEO and write a job application to Buffett (rejected in a week). He sold TransTech a month after the CEO joined and offered a 40-year non-compete. He also copied the Buffett partnership zero-fee, 6% hurdle structure, which nobody had replicated in 30 years, and told his first eight investors their mission was to bring in friends, family and fools.",
+      "stocks_or_cases": ["TransTech", "Pabrai Investment Funds", "Buffett Partnerships"]
+    },
+    {
+      "idea": "Large inheritances are a burden on kids, so he started giving 2% of assets a year in his early forties to have years to make mistakes and learn.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "Dakshana was set up in 2007 when net worth crossed 50 million; it prepares very poor, gifted Indian kids for the IIT entrance exam, forcing government subsidies once they get in. They bought a 110-acre campus near Pune for 10 million (8 million paid off) and half the funding now comes from outside donors.",
+      "stocks_or_cases": ["Dakshana Foundation"]
+    }
+  ]
+}

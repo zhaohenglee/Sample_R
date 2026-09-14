@@ -1,0 +1,158 @@
+{
+  "video_id": "w9oC1rPV5yQ",
+  "date": "2023-10-10",
+  "title": "Mohnish Pabrai's conversation at Schroders - The Value Perspective podcast on October 10, 2023",
+  "summary": "Pabrai discusses how his father's serial, over-levered entrepreneurship shaped his view of risk, his Chuck Feeney-inspired plan to die with zero via Dakshana, and why cloning is a powerful but under-used mental model. He explains his shift from Graham-style selling at intrinsic value toward holding great businesses, why he bought and then sold Stone Trust Insurance, how Berkshire's insurance advantages really work, and how he thinks about concentration, ergodicity and currency risk using Reysas and his other Turkish holdings. He closes by recommending Pulak Prasad's book and the changes it made to his process on leverage and projections.",
+  "ideas": [
+    {
+      "idea": "His father's businesses failed repeatedly not because the ideas were wrong but because they ran on a thin layer of equity and maximum bank leverage, so the first headwind sent them back to zero.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "His father was exceptional at spotting offering gaps with a very high hit rate, but was an eternal optimist in a hurry; with no VC or equity ecosystem in India, levered businesses 'were not built to withstand even the lightest winds.' The astrologer his father paid was 'the rope' to climb out of the well and start again.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "He aims to live up to the Chuck Feeney standard and die with zero: down to $100 on June 10, 2054, the day before he expects to leave the planet.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "Feeney gave away $8B+ anonymously, died at 92 with about $2M in a rental apartment. Pabrai runs two engines: compounding assets and Dakshana giving them away; as compounding works, the giving engine must be amped up.",
+      "stocks_or_cases": ["Chuck Feeney", "Dakshana Foundation"]
+    },
+    {
+      "idea": "Giving money away effectively is far harder than making it, which is why Dakshana was started 17 years ago rather than waiting until age 70 or 80.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "Dakshana takes over the education of brilliant kids from families earning under $100/month (some $2/day) from ages 16 to 18 and gets them into IITs and AIIMS, resetting the family's income to world standards. It spends ~$3M/year and has begun a ~$13M capex program over three years to expand capacity.",
+      "stocks_or_cases": ["Dakshana Foundation", "IIT", "AIIMS"]
+    },
+    {
+      "idea": "Cloning is a powerful mental model precisely because most humans have an inexplicable aversion to it and think it is beneath them.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "People wrongly assume that because Starbucks or SoulCycle has been done there is no room for more. Microsoft Research has produced nothing in four decades, while all of Microsoft's successes were clones: Word from WordPerfect, Excel from Lotus 1-2-3, Explorer/Edge from Netscape, Bing from Google, Windows from the Xerox PARC/Apple mouse. Walmart's first 15-20 years were entirely cloned from Kmart and Sears; Starbucks cloned Italian cafes.",
+      "stocks_or_cases": ["Microsoft", "Walmart", "Sam Walton", "Starbucks", "Howard Schultz", "Apple", "Xerox PARC"]
+    },
+    {
+      "idea": "Pabrai Investment Funds and Dakshana are both clones: the fund copies the 1956-1970 Buffett partnership structure and fee model, which no one else had cloned in the three decades after Buffett shut it down.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "He charges no management fee, copied from Warren, which attracts a demographic wanting aligned interests. Dakshana copied a model from a man who did not want to scale but was happy to help. 'I have no original ideas. I am just a shameless cloner.'",
+      "stocks_or_cases": ["Pabrai Investment Funds", "Buffett Partnership", "Dakshana Foundation"]
+    },
+    {
+      "idea": "Cloning will never become too competitive because it only works for fanatics who go all in, and very few humans are willing to do that.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "All Berkshire meetings are online at buffett.cnbc.com and millions listen, yet almost no company has cloned the Berkshire model. Sam Walton and Bill Gates were fanatics; the casual 'let me give this a go' approach fails. There are also so many greenfield areas to clone.",
+      "stocks_or_cases": ["Berkshire Hathaway", "Sam Walton", "Bill Gates"]
+    },
+    {
+      "idea": "Ben Graham's framework is bedrock, but far more money is made owning businesses that grow dramatically in value than buying static businesses at 40 cents on the dollar.",
+      "topic": "Valuation & margin of safety",
+      "detail": "A business bought at 40 cents that never grows might return 2-3x, while paying 60-70 cents for one growing 10-20% a year is vastly superior and far more tax efficient because you are not paying Uncle Sam on every sale.",
+      "stocks_or_cases": ["Ben Graham"]
+    },
+    {
+      "idea": "Giving a great business a lot of rope, holding it beyond the point where it seems to pass intrinsic value, is blasphemy to Graham but essential to true long-term wealth creation.",
+      "topic": "Compounding & long-term holding",
+      "detail": "Intrinsic value is hard to estimate and being wrong is expensive, as Phil Fisher argued. Graham himself made most of his money holding GEICO for decades, which was half his net worth at death and beat the S&P by 7-8% a year, violating his own teachings. Pabrai's big mistake for many years was buying well below intrinsic value and selling right at it.",
+      "stocks_or_cases": ["Ben Graham", "Phil Fisher", "GEICO"]
+    },
+    {
+      "idea": "A Swiss Army Knife approach is best: buy cheap, stable anomalies when no obvious great business is available, but hold great businesses with long runways for dear life.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "There are only so many great ideas one finds in a lifetime, so the rare great business must not be sold at a Graham-style intrinsic value target.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Buying Stone Trust Insurance was a mistake he reversed quickly because insurance is a commodity, price-taker business where the dumbest competitor sets the price.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "Buffett says the average insurer is a terrible business; once a carrier is A-rated the lowest bid wins. At the first board meeting he knew he did not want to be there, sold for about what he paid, and returned most capital to investors. Buyer Francis Chu, a vastly superior operator, took premiums from ~$65M to ~$50M but runs a 62% combined ratio.",
+      "stocks_or_cases": ["Stone Trust Insurance", "Francis Chu", "Warren Buffett"]
+    },
+    {
+      "idea": "Investing is a forgiving business where even the best investor is wrong about half the time; the key is recognizing mistakes and reversing them before they consume brain cells.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "He calls it putting the toothpaste back in the tube, which is not designed to happen. Seeing insurance claims at the individual level taught him how the sausage is made.",
+      "stocks_or_cases": ["Stone Trust Insurance"]
+    },
+    {
+      "idea": "Turning down Francis Chu's repeated offers to keep a 20-25% stake in Stone Trust was a case of being 'old too soon and wise too late'; a Chu-underwriting plus Pabrai-investing pairing would do very well.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "Each earn-out payment came with another offer to roll into a stake and he kept saying no because he had underestimated Chu. Chu is a classic Graham investor and great operator; Pabrai says he would take the offer today and it might still happen.",
+      "stocks_or_cases": ["Francis Chu", "Stone Trust Insurance"]
+    },
+    {
+      "idea": "Berkshire's insurance edge rests on Nebraska's superior regulatory regime, massive overcapitalization ($500 of equity per $100 of premium) and an implicit parent guarantee earned in the 1980s.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "Nebraska regulators let Berkshire invest float in equities and even treat Burlington Northern (bought for ~$40B, now worth $120-130B+) as a bond inside the insurer; Berkshire recently filed to move the railroad out. In the 1980s Berkshire voluntarily paid every claim of liquidated subsidiaries with 130-140% combined ratios, so regulators treat it like Fannie Mae/Freddie Mac with an implicit guarantee.",
+      "stocks_or_cases": ["Berkshire Hathaway", "Burlington Northern", "Fannie Mae", "Freddie Mac"]
+    },
+    {
+      "idea": "Insurance may become a small business at Berkshire in the distant future because the model only works with an Ajit Jain, just as Stone Trust only works with a Francis Chu.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "He cites Munger saying this a few years back and says it would not surprise him if Berkshire runs off the business when Ajit is no longer running things, since he has not heard of a second Ajit.",
+      "stocks_or_cases": ["Berkshire Hathaway", "Ajit Jain", "Charlie Munger"]
+    },
+    {
+      "idea": "Probabilistic thinking is essential to investing and bridge is the best way to build that muscle: 30 minutes to learn, a lifetime to master.",
+      "topic": "Psychology & temperament",
+      "detail": "He played bridge for years before investing; Buffett and Munger gained a lot from it. Studying business histories always yields a range of outcomes, and games like bridge and blackjack train you for that. He was banned for life from a Vegas casino for a blackjack system that was not card counting.",
+      "stocks_or_cases": ["Warren Buffett", "Charlie Munger"]
+    },
+    {
+      "idea": "Diversification benefits fall off fast: 4-5 positions in different industries is already diversified, 10 is significant, and going to 20-50 hurts you because you no longer know the businesses.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "Staying narrow keeps you at the epicenter of your circle of competence; not knowing businesses well is itself a risk even in a diversified portfolio.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Any number multiplied by zero is zero, so avoid ruin, but trimming a great, not-overpriced business just because it exceeds 25% of the portfolio is a big sin.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "The Waltons have held Walmart at 90-95% of their assets for decades with no Walton running it; most wealthy founders are undiversified. Great opportunities are rare; anything you replace them with triggers a tax bill and is likely inferior.",
+      "stocks_or_cases": ["Walmart", "Walton family"]
+    },
+    {
+      "idea": "He will not lighten up on Reysas even though it dominates some funds; he tells investors to get off the bus if they are uncomfortable.",
+      "topic": "Stock case studies",
+      "detail": "Reysas was bought at ~3% of liquidation value: ~$20M market cap vs $600-800M liquidation value, about a third of the company for ~$8M. It is now valued at $500-600M (recently near $800M), liquidation value is well over $1B and intrinsic value higher. After four years he treats it like a business his family owns and 'we are not going to find a Reysas every two years.'",
+      "stocks_or_cases": ["Reysas"]
+    },
+    {
+      "idea": "Nick Sleep's mistake was selling half his Amazon to buy ASOS; owning a mediocre business is a greater risk than a great one like Amazon going to zero.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "Sleep returned client money after UK regulators questioned his Amazon weighting and put a third each into Berkshire, Costco and Amazon. When Amazon grew past 50-60% he trimmed. Pabrai would leave all three alone; if Amazon became 80% 'so be it', since Amazon is multiple businesses and even one survivor keeps him out of the poorhouse.",
+      "stocks_or_cases": ["Nick Sleep", "Amazon", "ASOS", "Berkshire Hathaway", "Costco"]
+    },
+    {
+      "idea": "He does not lose sleep over permanent versus non-permanent capital; successful vehicles become permanent on their own and he would be happy managing only his own money.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Nick Sleep's vehicle is now permanent because it is his own money, and Buffett effectively became so at Berkshire. Pabrai manages ~$900M, mostly first-generation entrepreneur families, and is fine if that mix continues or ends.",
+      "stocks_or_cases": ["Pabrai Investment Funds", "Nick Sleep", "Berkshire Hathaway"]
+    },
+    {
+      "idea": "He fully expected the Turkish lira to be decimated before investing in Reysas and it had no impact on the decision, because prime Istanbul warehouses with inflation-indexed leases have global value.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "Warehouses leased to Amazon, Carrefour or IKEA, like cement and steel, carry global value. The lira went from 5 to over 28 per dollar (80%+ devaluation), yet Reysas is up 20-30x in dollars.",
+      "stocks_or_cases": ["Reysas", "Amazon", "Carrefour", "IKEA"]
+    },
+    {
+      "idea": "Markets stereotype with broad brush strokes, so when a country like Turkey is deemed uninvestible a few babies get thrown out with the bathwater; that irrational behavior is what he hunts for.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "He met 60-70 listed Turkish businesses; most would genuinely face headwinds, but a few were irrationally cheap. TAV Airports has contractual euro revenues with lira costs, so devaluation is a tailwind; the Coke bottler gets ~70% of revenue outside Turkey. All three had off-the-charts owners, management and capital allocation, better than much of the developed world. The clouds over Turkey never lifted, yet Reysas rose 20x in dollars.",
+      "stocks_or_cases": ["Reysas", "TAV Airports", "Coca-Cola Icecek"]
+    },
+    {
+      "idea": "A rational investor should accurately weigh emerging-market and currency risks rather than be paranoid about them.",
+      "topic": "Psychology & temperament",
+      "detail": "He is not concerned about overweighting emerging markets or currencies as long as the specific business risks are correctly assessed.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "After reading Pulak Prasad's 'What I Learned About Investing from Darwin' twice, he made leverage a far more important consideration: a business with no debt can play offense in bad times.",
+      "topic": "Circle of competence & checklists",
+      "detail": "Prasad's rule is zero leverage. Pabrai previously would wave through $400-500M of debt on a $5B market cap; now he asks whether the business could run without debt and why it does not eliminate dividends to pay it off. Leverage juices returns but removes resilience; 'to finish first, you must first finish.'",
+      "stocks_or_cases": ["Pulak Prasad", "Berkshire Hathaway"]
+    },
+    {
+      "idea": "He has also adopted Prasad's practice of making no earnings or cash flow projections, since stacking four or five assumptions each off by 20% produces garbage.",
+      "topic": "Valuation & margin of safety",
+      "detail": "Prasad's Nalanda buys and holds forever, treats every sale as a mistake, and publishes its entire portfolio including exits. If the holding period is forever, 'why are we messing around with DCFs?'",
+      "stocks_or_cases": ["Pulak Prasad"]
+    }
+  ]
+}

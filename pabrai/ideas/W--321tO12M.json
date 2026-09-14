@@ -1,0 +1,116 @@
+{
+  "video_id": "W--321tO12M",
+  "date": "2022-12-05",
+  "title": "Mohnish Pabrai's Talk with UNC Kenan-Flagler School's Investment Management Club on Dec 5, 2022",
+  "summary": "An 'Ask Me Anything' with UNC Kenan-Flagler MBA students moderated by Cameron Hight of Alpha Theory. Pabrai lays out what he would look for in a fund manager, his nuanced take on ESG, why he uses fundamentals rather than stock prices to instruct him, and why Turkey (85% inflation, retail float turning over every nine days) has been his best fishing ground, with the Reysas warehouse case as the centerpiece. He also explains how his checklist was built from great investors' mistakes (leverage, moat misjudgment, management), the durability problem with even Apple, his Dakshana giving plan aimed at a $100 net worth on June 10, 2054, and why growth and value are two sides of the same coin.",
+  "ideas": [
+    {
+      "idea": "The best way to learn is to teach; he does AMA sessions because he comes out wiser from the pushback and because teaching is part of the credo Graham, Buffett and Munger laid down for value investors.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "He admits an ulterior motive: comments and questions in these sessions make him feel wiser afterwards.",
+      "stocks_or_cases": ["Ben Graham", "Warren Buffett", "Charlie Munger"]
+    },
+    {
+      "idea": "Finding a good investment manager is harder than finding a good investment; look for an aligned fee structure, heavy skin in the game, a mid-40s age with a 20-year record ahead, and a plan to fish where others are not.",
+      "topic": "Management & capital allocation",
+      "detail": "His own Buffett-derived structure has no management fee, only performance fees with the first 6% a year going to investors. The US has more mutual funds and probably more ETFs than stocks, with some stocks followed by 30 analysts, so the manager needs a game plan to avoid picked-over waters, plus high integrity and a record of beating the market without taking more risk.",
+      "stocks_or_cases": ["Warren Buffett"]
+    },
+    {
+      "idea": "ESG produces strange results (screens including Exxon but excluding Tesla); he does not exclude industries but peels the onion one layer deeper on what kind of corporate citizen a company is.",
+      "topic": "Circle of competence & checklists",
+      "detail": "Exxon is essential to our quality of life. His oldest holding, owned about eight and a half years, supplies inputs to the aluminum industry with heavy gas discharge, yet spends several million dollars a year on scrubbers beyond legal requirements that competitors skip; an ESG overdose would have passed on it.",
+      "stocks_or_cases": ["Exxon", "Tesla"]
+    },
+    {
+      "idea": "Everything he buys goes down after he buys it, which is par for the course; don't let the stock price instruct you, let it serve you, and let the fundamentals decide whether to add.",
+      "topic": "Psychology & temperament",
+      "detail": "John Templeton said the best analyst is wrong one in three times, and more likely you are wrong half the time, yet a 50% error rate still allows well-above-market returns. After a decline, investigate whether there is a long-term secular issue; if it is temporary, ignore it.",
+      "stocks_or_cases": ["John Templeton"]
+    },
+    {
+      "idea": "Turkey has been his most productive fishing ground: 85% inflation, foreign investors gone, and the 20% of market cap held by locals turning over every nine days.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "80% of Turkish market cap is held by insiders or foreign institutions and hardly trades; retail investors want to buy at 10 am, make 10% and exit by 2 pm, so nobody looks at fundamentals. Quoting Buffett, the market transfers wealth from the active to the inactive. About 95% of the market is uninvestible, but he only needs a couple of ideas a year.",
+      "stocks_or_cases": ["Warren Buffett"]
+    },
+    {
+      "idea": "Inflation is generally bad for equities, but a small sliver of Turkish businesses with euro or dollar revenues or pass-through pricing benefit from or are neutral to it, and they were thrown out with the bathwater.",
+      "topic": "Markets, cycles & macro",
+      "detail": "A juice exporter (not owned) has all costs in lira and revenues in euros, so every 10% lira decline lifts profits 3-4% because wages lag inflation (as in the US with 8-9% inflation and 4-5% wage growth). His airport operator runs 15 airports in eight countries with euro revenues; his warehouse company's assets are priced off international steel, concrete and Istanbul real-estate prices with inflation-indexed leases.",
+      "stocks_or_cases": ["Turkish airport operator", "Reysas"]
+    },
+    {
+      "idea": "The US market is quite efficient and picked over; passive flows create occasional overvaluation but he sees no undervaluation mispricing that helps the active investor.",
+      "topic": "Markets, cycles & macro",
+      "detail": "On how much passive share distorts markets, he cites John Bogle's view that we are still far from the point of distortion and admits the question is above his pay grade.",
+      "stocks_or_cases": ["John Bogle"]
+    },
+    {
+      "idea": "Ignore the index; focus on individual businesses, because auction-driven markets give random stocks 52-week ranges of 50-100% even in benign years while a house across the street would move 5-10% at most.",
+      "topic": "Markets, cycles & macro",
+      "detail": "Google is the same kind of business six months ago and six months from now, so a 50-60% value swing makes no sense when value comes from discounting long-horizon cash flows. These wide ranges are why people like him can make a living.",
+      "stocks_or_cases": ["Google"]
+    },
+    {
+      "idea": "Reysas, the Turkish warehouse operator, traded at a $20 million market cap in 2019 against $800 million-plus of quickly liquidatable assets and $200 million of debt, under 4% of liquidation value.",
+      "topic": "Stock case studies",
+      "detail": "Three and a half years later it is at $270 million, about 25% of a footprint now worth $1-1.5 billion after Russian and Ukrainian inflows and debt paydown. Management are good capital allocators; he would not be surprised by a $10 billion market cap by 2040, so his plan is to talk to students and not touch the stock like Rip Van Winkle.",
+      "stocks_or_cases": ["Reysas"]
+    },
+    {
+      "idea": "When you are at the bottom of a deep well you need a rope: in 2008-09 his rope was a spreadsheet of what the businesses were worth rather than the market value.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "Pabrai Funds fell 65-67% from the 2007 peak to March 2009, from about $600 million under management to under $200 million, while his valuation showed the portfolio worth over $600 million. From March to December 2009 the funds rose about 135%. With Reysas at $20 million he did every check for fraud, visited all the warehouses and met management before concluding nothing was wrong.",
+      "stocks_or_cases": ["Pabrai Investment Funds", "Reysas"]
+    },
+    {
+      "idea": "He peeks at prices about once a day but does not fixate; with only eight or nine stocks per fund it is easy to tell what is going on.",
+      "topic": "Psychology & temperament",
+      "detail": "When traveling he may go one or more days without looking at prices or valuations at all.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "His checklist was built by using 13F filings to identify great investors' realized losses and asking what was visible at the time that they missed; leverage is the biggest category with about 30 questions, then moat misjudgment with 20-30, then management and ownership.",
+      "topic": "Circle of competence & checklists",
+      "detail": "Buffett's IBM loss came from relying heavily on IBM's honest five-year guidance on cash flows, revenues and buybacks while there were visible tread marks in the business. Unions, environment and other items rank lower. There is no secret sauce and he may publish it someday.",
+      "stocks_or_cases": ["IBM", "US Air", "Warren Buffett"]
+    },
+    {
+      "idea": "Capitalism is creative destruction, so the durability of a moat is the hardest question: Apple looks bulletproof to 2032, but he cannot say the same for 2042, and a decline by 2037 matters to an investor today.",
+      "topic": "Moats & business quality",
+      "detail": "Apple could raise prices without losing customers to Android, yet what looks stable for five or ten years is unknowable at 15 or 20; businesses that withstand constant attack for long periods are the exception.",
+      "stocks_or_cases": ["Apple"]
+    },
+    {
+      "idea": "'Alternative investment' is a big tent that says little; what matters is whether the manager is good, the assets are good and returns likely, and retail investors who leave passive must roll up their sleeves and do the work.",
+      "topic": "Management & capital allocation",
+      "detail": "Directing infrastructure or class-A office investments to retail is neither right nor wrong; regulatory checks exist. Retail investors in 100-stock mutual funds understand little of the holdings; the problem is not disclosure but that people don't do the work.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Outside the US, fraud and governance risk must be eliminated first; inside the US you protect against your own stupidity, not fraud.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "Starting in 2018 he visited only the companies his Graham-overdosed Turkish fund-manager friend already had money in, because the friend had 20 years of history on the managements; running screens in a place like Turkey would be a recipe for disaster.",
+      "stocks_or_cases": ["Reysas"]
+    },
+    {
+      "idea": "Giving money away is harder than making it, so he started at 42 committing 2% of net worth a year rather than waiting until 80 to write checks, and plans to scale toward a quarter of net worth.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "He expected to get his head handed to him in India for 10 years as tuition, but Dakshana got traction within weeks and its social ROI is 10x better than he thought possible over 15-16 years. Google and the MetLife tables say he departs June 11, 2054 (recently revised from 2044); on the Chuck Feeney plan he should have $100 left on June 10, 2054.",
+      "stocks_or_cases": ["Dakshana", "Chuck Feeney"]
+    },
+    {
+      "idea": "Growth and value are two sides of the same coin; the holy grail is a great growing business with a long runway, and a large margin of safety is the hack for not being able to see 20 years out.",
+      "topic": "Valuation & margin of safety",
+      "detail": "Walmart would have been a great investment at 50x or even 100x earnings in the 1970s with double-digit returns, but nobody could see 2000 from 1975. So he demands that even if the runway lasts only 10 years he does not lose money.",
+      "stocks_or_cases": ["Walmart", "Bill Miller", "AOL"]
+    },
+    {
+      "idea": "What excites him most about Reysas is that the father-and-son managers will not reinvest below a 25-35% return and want payback within three years, preferably one or two.",
+      "topic": "Management & capital allocation",
+      "detail": "They agonized over a $50 million rooftop solar investment returning $10 million a year (a five-year payback) but went ahead because Turkey imports all its energy and rates would rise; that asset could now be sold for $200 million, and panels last 35-70 years.",
+      "stocks_or_cases": ["Reysas"]
+    }
+  ]
+}

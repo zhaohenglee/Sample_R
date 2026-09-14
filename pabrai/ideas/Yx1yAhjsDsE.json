@@ -1,0 +1,256 @@
+{
+  "video_id": "Yx1yAhjsDsE",
+  "date": "2026-05-01",
+  "title": "Mental Models for Exceptional Capital Allocation by Mohnish Pabrai at The UNO on May 1, 2026",
+  "summary": "Pabrai presents about 30 mental models for capital allocation, built on Munger's latticework idea: take a simple idea seriously, Graham's three core principles (but do not overdose on Graham), the 20-punch card, circle of competence, the 4% of companies that produce all returns, reluctance to sell great businesses, shameless cloning, checklists, low-risk/high-uncertainty bets and 'your deepest desire is your destiny'. He illustrates with Nick Sleep, Buffett's Japanese trading companies, IPSCO and CONSOL, Turkey's Reysas, and his own 2008-09 'rope' episode, and closes with Q&A on mistakes, the Founders podcast, family-controlled companies, Dakshana, Micron and the 'too hard' pile.",
+  "ideas": [
+    {
+      "idea": "The bedrock mental model is Munger's 'take a simple idea and take it seriously'; none of the other models work unless you go all in on this one, and it is the one most people understand but fail to follow.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "Overlaying models on each other produces Munger's Lollapalooza Effect where 1 plus 1 becomes 11. People think the idea is too simple; you have to take deliberate, fanatical action, which pushes you to one extreme and can be uncomfortable.",
+      "stocks_or_cases": [
+        "Charlie Munger",
+        "Poor Charlie's Almanack"
+      ]
+    },
+    {
+      "idea": "Keep only Ben Graham's three core models (a stock is a piece of a business, Mr. Market serves you, margin of safety) and do not overdose on the rest of Graham; his biggest problem was too much Graham and too little Munger.",
+      "topic": "Valuation & margin of safety",
+      "detail": "Graham's framework came entirely from the 1930s with 25% unemployment, an extreme we have not seen since; add Poor Charlie's Almanack, Phil Fisher, Pulak Prasad's Darwin book on top of the Graham core.",
+      "stocks_or_cases": [
+        "Ben Graham",
+        "Phil Fisher",
+        "Pulak Prasad"
+      ]
+    },
+    {
+      "idea": "Use Buffett's 20-punch card: fast is slow, so make one carefully chosen bet every three to five years.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "If you could only make 20 investments in a 70-80 year lifetime you would be far more thoughtful about each; most publicly traded equities are not good investments.",
+      "stocks_or_cases": [
+        "Warren Buffett"
+      ]
+    },
+    {
+      "idea": "The size of your circle of competence is irrelevant; staying in its epicenter is what matters.",
+      "topic": "Circle of competence & checklists",
+      "detail": "John Arrillaga, Munger's friend, became a billionaire from nothing investing only in real estate within a mile of Stanford, knowing the history of every building and buying underlevered properties during distress. Within your circle, intrinsic value should be obvious; if it is not obvious you are outside your circle.",
+      "stocks_or_cases": [
+        "John Arrillaga",
+        "Marc Andreessen"
+      ]
+    },
+    {
+      "idea": "About 4% of US companies delivered all the market returns over 90 years, and even Buffett's hit rate is roughly 3-4%, so expect to be wrong more than half the time.",
+      "topic": "Compounding & long-term holding",
+      "detail": "Buffett said 12 ideas out of 300-400 investments and key hires created Berkshire Hathaway, with Ajit Jain number one. John Templeton said the best analyst is wrong one-third of the time; Pabrai thinks that is low.",
+      "stocks_or_cases": [
+        "Berkshire Hathaway",
+        "Ajit Jain",
+        "John Templeton"
+      ]
+    },
+    {
+      "idea": "Be reluctant to sell a great business when fully priced or even overpriced; only consider selling when egregiously overpriced, because holding above value is less risky than a constant gin rummy game of buying and selling.",
+      "topic": "Compounding & long-term holding",
+      "detail": "Berkshire's longest held public equity is Coca-Cola, bought in 1988, 38 years ago, when Buffett was 57 or 58; the buy-and-hold discipline on public equities came late in his life. Do not cut the flowers and do not water the weeds; a manager running money for decades should have 70-80% in the top two or three positions.",
+      "stocks_or_cases": [
+        "Coca-Cola",
+        "Berkshire Hathaway",
+        "See's Candies"
+      ]
+    },
+    {
+      "idea": "He is the shameless cloner: everything in his portfolio came from someone else, and it is dangerous to come up with investment ideas on your own.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "Value Investors Club is free and its stringent membership means above-average ideas; he reads its write-up first on any business, and has his assistant print the first two pages of all new VIC ideas every couple of months. DataRoma and SumZero are other sources; his latest cloned idea is 'Turkey's Costco'. One to three ideas a year is enough.",
+      "stocks_or_cases": [
+        "Value Investors Club",
+        "DataRoma",
+        "SumZero",
+        "Turkey's Costco"
+      ]
+    },
+    {
+      "idea": "The 1960s-80s opportunity set Buffett and Munger enjoyed no longer exists in the US, but similar price-value disparities exist elsewhere, notably Turkey.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "The Turkish stock market has many parallels to the US in the mid-70s and early 80s. In 2019 he invested in Reysas in Turkey at less than 3% of liquidation value; on his first 2018 trip with Haydar he passed on a blue-chip Turkish bank at a PE of 0.1 because of Iran sanctions violations.",
+      "stocks_or_cases": [
+        "Reysas",
+        "Haydar",
+        "Berkshire Hathaway"
+      ]
+    },
+    {
+      "idea": "If you cannot explain the thesis to a 10-year-old in four sentences and do the math in your head, take a pass.",
+      "topic": "Circle of competence & checklists",
+      "detail": "A 10-year-old will not understand an Excel spreadsheet; the four sentences should not need many numbers. The only exception is when you are in a deep well and need a rope.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "You always need a rope to get out of the deepest well; temporarily suspending reality, like Steve Jobs' reality distortion field, can be useful.",
+      "topic": "Psychology & temperament",
+      "detail": "His father, a serial entrepreneur who over-levered and went bankrupt, paid an astrologer to tell him the future was phenomenal. In 2008-09 his fund fell from $600 million to $200 million (down 65-67%), and his rope was an Excel sheet valuing the portfolio at what he thought it was worth, above $600 million, which he looked at every morning.",
+      "stocks_or_cases": [
+        "Steve Jobs",
+        "Apple"
+      ]
+    },
+    {
+      "idea": "Once you reach escape velocity it does not matter if one stock becomes 80% of the portfolio; Nick Sleep's error was forgetting this and selling half his Amazon.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "Nick Sleep and Zach returned $2.6 billion around 2014 after the UK regulator complained about concentration and put one-third each into Amazon, Costco and Berkshire; $200 million would be over $1 billion today. He sold half his Amazon to buy ASOS, which went nowhere, yet still beat everybody. The lesson of Zen and the Art of Motorcycle Maintenance is to pursue the highest quality in businesses and management.",
+      "stocks_or_cases": [
+        "Nick Sleep",
+        "Amazon",
+        "Costco",
+        "Berkshire Hathaway",
+        "ASOS"
+      ]
+    },
+    {
+      "idea": "Use a pre-investment checklist built from the mistakes of great investors; the three biggest failure causes are leverage, misjudged moats and questionable leadership or ownership.",
+      "topic": "Circle of competence & checklists",
+      "detail": "He started the checklist about 15 years ago with 70-80 questions and it now has about 213. Berkshire's Dexter Shoes, bought with 2% of Berkshire stock, went to zero because of cheap offshore manufacturing, generating the question 'could this business be hurt by cheaper offshore manufacturing?'.",
+      "stocks_or_cases": [
+        "Dexter Shoes",
+        "Berkshire Hathaway"
+      ]
+    },
+    {
+      "idea": "Be like Arjuna: when looking at a business, be singularly focused on the center of the bird's eye and see nothing else.",
+      "topic": "Psychology & temperament",
+      "detail": "In the Mahabharata story Dronacharya rejected students who saw the tree and the sky; with only 20 punches you have to go all in on each one. It is better to go an inch wide and a mile deep than a mile wide and an inch deep.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Read the footnotes and turn every page; enjoy hunting for needles in haystacks as Buffett did from the Aksarben racetrack to the Moody's Manuals to the Japan Company Handbook.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "At 12 Buffett collected discarded winning tickets at Aksarben; at 24 he found Western Insurance at $15 with $25 of earnings in Moody's (would have compounded ~19% for 70 years); in his 80s he found the five Japanese trading companies in the Japan Company Handbook, putting $5 billion in, 100% borrowed in yen at 0.5% against 8% dividends, since doubled to $10 billion with almost $1 billion a year in dividends. Seth Klarman named horses 'Read the Footnotes' and 'Margin of Safety'; Robert Caro is the best researcher and writer ever.",
+      "stocks_or_cases": [
+        "Warren Buffett",
+        "Western Insurance",
+        "Japanese trading companies",
+        "Seth Klarman",
+        "Robert Caro",
+        "Greg Abel"
+      ]
+    },
+    {
+      "idea": "Your deepest desire is your destiny: the models only work if you believe in them and go all in, and whatever you desire (PE of 1 stocks, compounders at 3% of liquidation value) you will find among 50,000 stocks.",
+      "topic": "Psychology & temperament",
+      "detail": "From the Upanishads, 2,700 years old: as is your desire so is your will, deed and destiny. He finds he can only focus on one thing at a time, and having enough time to focus on one thing produces a favorable outcome.",
+      "stocks_or_cases": [
+        "Upanishads",
+        "Reysas"
+      ]
+    },
+    {
+      "idea": "Always have someone to discuss investment ideas with, because the brain is a dangerous place.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "Charlie Munger told him it was not always Warren, but he always had someone to talk to; in 2009 Munger told him and Li Lu to meet monthly, which they did at Din Tai Fung in Arcadia. A VIC idea passes one brain filter, yours is the second, and a trusted third person is powerful.",
+      "stocks_or_cases": [
+        "Charlie Munger",
+        "Li Lu",
+        "Guy Spier",
+        "Value Investors Club"
+      ]
+    },
+    {
+      "idea": "Introduce randomness into your life: reading One Up on Wall Street by chance in 1994 and going to Omaha in 1997 changed his career.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Munger sought out new people for randomness. Pabrai listens to every Founders podcast episode backward (at 115 of about 415) precisely because he does not get to pick the books.",
+      "stocks_or_cases": [
+        "Peter Lynch",
+        "Charlie Munger",
+        "Founders podcast",
+        "David Senra"
+      ]
+    },
+    {
+      "idea": "Pay special attention to spin-offs, uber cannibals, spawners and merger arbitrage as fertile hunting grounds.",
+      "topic": "Stock case studies",
+      "detail": "Greenblatt's spin-offs; uber cannibals like NVR, AutoZone, AutoNation and one he owns now, Alpha; spawners like Amazon and Alphabet and, in his portfolio, Constellation and Reysas. Buffett made a merger bet on Dow Jones in the high $40s against a $60 Murdoch offer because he knew Murdoch would win.",
+      "stocks_or_cases": [
+        "NVR",
+        "AutoZone",
+        "AutoNation",
+        "Alpha Metallurgical",
+        "Amazon",
+        "Alphabet",
+        "Constellation Software",
+        "Reysas",
+        "Dow Jones",
+        "Rupert Murdoch",
+        "Joel Greenblatt"
+      ]
+    },
+    {
+      "idea": "Heads I win, tails I do not lose much: look for asymmetric payoffs where upside exists without downside.",
+      "topic": "Stock case studies",
+      "detail": "IPSCO in 2004 at $40 had $15 a share cash and $15 a share earnings contracted for each of the next two years with no debt; he put 10% of the fund in, it went to $90 after a third year was announced, then a Swedish buyer paid $160 and he sold immediately. Seeing a post on X comparing Einhorn's CONSOL Energy bet to IPSCO, he bought CONSOL, which forward-sells coal within a price band.",
+      "stocks_or_cases": [
+        "IPSCO",
+        "CONSOL Energy",
+        "David Einhorn"
+      ]
+    },
+    {
+      "idea": "Seek low risk combined with high uncertainty, because Wall Street hates uncertainty and misprices it.",
+      "topic": "Valuation & margin of safety",
+      "detail": "ADP has no earnings variance and gets a high multiple; an unhedged oil company is hard for markets to price. IPSCO had low risk but high uncertainty beyond year three, which is why the rewards were high.",
+      "stocks_or_cases": [
+        "ADP",
+        "IPSCO"
+      ]
+    },
+    {
+      "idea": "Do not skim off the top: if fees allow, use the Buffett partnership 0/6/25 structure and win with your investors.",
+      "topic": "Management & capital allocation",
+      "detail": "He notes his ETF must charge a fee, but most managers skim off the top.",
+      "stocks_or_cases": [
+        "Buffett partnerships"
+      ]
+    },
+    {
+      "idea": "Almost all moats disappear under capitalism, but if you own five or ten great businesses you only need to be right once.",
+      "topic": "Moats & business quality",
+      "detail": "A business doing well for 50-150 years is an anomaly; two of Nick Sleep's three could go away and it still works. Over time two or three become the ones you are left with.",
+      "stocks_or_cases": [
+        "Nick Sleep"
+      ]
+    },
+    {
+      "idea": "The mistakes that hurt most are not the zeros but the great businesses you sold and should not have; go to the pie counter rarely, load up, and do not drop the pie on the way back.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "He dropped Ferrari, Progressive and Goldman Sachs. He and a shareholder both sold Micron at a double from $30 in 2017-18; it is now near $600, but he does not count it as a regret because AI was not foreseeable. 99% of ideas, including Nvidia and Amazon if not obvious to you, belong in Buffett's 'too hard' box.",
+      "stocks_or_cases": [
+        "Ferrari",
+        "Progressive",
+        "Goldman Sachs",
+        "Micron",
+        "Nvidia",
+        "Amazon"
+      ]
+    },
+    {
+      "idea": "Small capital is an evergreen advantage because good investors are forced to abandon small ponds as their assets grow; pursue what you are most excited about, not what looks like it will be hot.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Buffett must deploy tens of billions at a time in a limited number of places. Family-controlled public companies like Walmart (family still owns over 40% after 50-plus years) are a universe that generally beats the whole market; the best course for most companies is never to go public.",
+      "stocks_or_cases": [
+        "Walmart",
+        "Warren Buffett",
+        "John Arrillaga"
+      ]
+    },
+    {
+      "idea": "Giving money away is harder than making it, and Dakshana's engine will max out at $6-7 million a year from about $3 million today.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "The remaining problems are ones many smart well-resourced people have failed to solve, and headwinds grow with size. He is skeptical of Buffett's requirement that all three children agree on gifts because committees are not good at anything.",
+      "stocks_or_cases": [
+        "Dakshana",
+        "Warren Buffett"
+      ]
+    }
+  ]
+}

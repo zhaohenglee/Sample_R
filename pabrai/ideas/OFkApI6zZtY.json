@@ -1,0 +1,158 @@
+{
+  "video_id": "OFkApI6zZtY",
+  "date": "2015-12-22",
+  "title": "Mohnish Pabrai's Presentation and Q&A at MDI, Gurgaon on December 22, 2015",
+  "summary": "Pabrai gives a talk on bubbles at MDI Gurgaon, walking through the 1920s motors bubble, the 1960s 'tronics' bubble, the dot-com bubble and the Nifty Fifty, and argues that a similar polarization exists in 2015 with Amazon, Netflix, Tesla and private unicorns. He explains why bubbles recur roughly every 40 years, why value investors can simply sidestep them, and in the Q&A covers Dakshana's cloned Super 30 model, the power of compounding, circle of competence, durable moats and position sizing.",
+  "ideas": [
+    {
+      "idea": "Investors can be completely right about a transformative macro trend and still lose their entire investment.",
+      "topic": "Markets, cycles & macro",
+      "detail": "In the 1922 motors bubble there were hundreds of car companies and nearly all 1921 investors lost everything even though auto growth was real; the same happened with the 1959 'tronics' bubble (Astron, Vulcatron, Powertron Ultrasonics) and the 1999 dot-com bubble (Boo.com, WebVan).",
+      "stocks_or_cases": ["Motors bubble 1922", "Tronics bubble 1959", "Dot-com bubble", "Boo.com", "WebVan"]
+    },
+    {
+      "idea": "Big bubbles recur roughly every 38-40 years because the generation that lived through the last one has to leave the scene.",
+      "topic": "Markets, cycles & macro",
+      "detail": "A 30-year-old in 2000 would be 70 by 2040, so nobody at the table remembers the movie; when Buffett raised the motors bubble during the dot-com era, a magazine cover asked 'What's wrong, Warren?'. Smaller bubbles, however, are building almost all the time.",
+      "stocks_or_cases": ["Warren Buffett"]
+    },
+    {
+      "idea": "When a cab driver gives you stock tips, you are at the top.",
+      "topic": "Psychology & temperament",
+      "detail": "In January 2000 a Pakistani cab driver in Chicago asked Pabrai what he thought of Cisco and said he had put money into Cisco and Yahoo — the modern equivalent of the 1929 shoeshine boy.",
+      "stocks_or_cases": ["Cisco", "Yahoo"]
+    },
+    {
+      "idea": "Mark Cuban's smartest move was hedging 100% of the Yahoo stock he received for broadcast.com.",
+      "topic": "Stock case studies",
+      "detail": "Yahoo paid $5.7 billion in stock for broadcast.com; Cuban insisted on hedging the entire position, which is why his net worth survived the crash while other deals like IAC buying Ask.com for $1.9 billion were value destroyed.",
+      "stocks_or_cases": ["Yahoo", "broadcast.com", "Mark Cuban", "IAC", "Ask.com"]
+    },
+    {
+      "idea": "The Nifty Fifty of 1972 shows that even truly great, enduring businesses can be terrible investments at 70-100 times earnings.",
+      "topic": "Valuation & margin of safety",
+      "detail": "McDonald's traded near 90x, Disney 80x, Coke 70-100x in 1971-72 while everything else traded at 'who cares'; the market crashed in slow motion in 1973-74 losing 40-50% and the Nifty Fifty were taken out back one by one even though McDonald's went on to widen its moat for 45 years.",
+      "stocks_or_cases": ["Nifty Fifty", "McDonald's", "Disney", "Coca-Cola"]
+    },
+    {
+      "idea": "In 2015 the US market shows a Nifty Fifty-like polarization with world-class companies at ridiculous valuations.",
+      "topic": "Markets, cycles & macro",
+      "detail": "Amazon at 600x earnings, Netflix at 240x, Facebook at 95x; about 80 US companies trade above 100x P/E, the only time close to the 120 seen in the dot-com era, and the top 10 Nasdaq names are ~30% of $7 trillion of value.",
+      "stocks_or_cases": ["Amazon", "Netflix", "Facebook", "SolarCity", "Uber", "Flipkart"]
+    },
+    {
+      "idea": "GM is far cheaper than Tesla and has no technological disadvantage, but GM is not sexy and Tesla is.",
+      "topic": "Stock case studies",
+      "detail": "Tesla has $4 billion revenue and loses $400 million a year, so even at BMW-like 8% margins you would pay 100x; GM has $150 billion revenue, cash flows heading to $10-14 billion, a captive finance arm earning $1-2 billion and a China business earning $2 billion, and is launching a 200-mile $30,000 electric car two years ahead of Tesla.",
+      "stocks_or_cases": ["General Motors", "Tesla", "BMW"]
+    },
+    {
+      "idea": "Netflix is a pipe whose long-term economics are unclear because content owners have the clout to capture the $10 a month.",
+      "topic": "Moats & business quality",
+      "detail": "Contrast with Micron, an oligopoly D-RAM supplier (three in the world, number two after Samsung) earning close to $4 billion while Netflix earns $240 million yet has a $50 billion market cap; the cable-versus-content battle in the US shows content providers win, per David Einhorn's letter.",
+      "stocks_or_cases": ["Netflix", "Micron", "Samsung", "David Einhorn"]
+    },
+    {
+      "idea": "You don't need exposure to every sector — when a sector goes crazy, just avoid it and be willing to look stupid in the short term.",
+      "topic": "Psychology & temperament",
+      "detail": "Pabrai Investment Funds launched in July 1999 in the frenzy of the internet bubble and was up 70% the first year by sidestepping dot-coms and buying cheap non-dotcom stocks; the day Nasdaq peaked in 2000 Berkshire hit a multi-year low.",
+      "stocks_or_cases": ["Pabrai Investment Funds", "Berkshire Hathaway"]
+    },
+    {
+      "idea": "The 2015 bubble is in both public and private markets, and it may pop one company at a time.",
+      "topic": "Markets, cycles & macro",
+      "detail": "GoPro was valued at $9 billion for a camera in a waterproof case before being taken down; Twitter lost $48 billion of value; 141 unicorns hold a combined $500 billion valuation, and VCs with participating preferences are nearly guaranteed their money back, which lets them bid valuations up.",
+      "stocks_or_cases": ["GoPro", "Twitter", "LivingSocial", "Uber"]
+    },
+    {
+      "idea": "Dakshana is a cloned model — Pabrai copied Anand Kumar's Super 30 after reading a 2006 Business Week article.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "Super 30 converted high-potential rural brains into global talent at about $700 a student; Anand declined donations but agreed to let Pabrai steal and scale the model, and seven Dakshana alumni now teach in the program.",
+      "stocks_or_cases": ["Dakshana Foundation", "Super 30", "Anand Kumar"]
+    },
+    {
+      "idea": "With limited resources, put them where the return to society is highest — a high-IQ brain given the same resources produces a dramatically different outcome.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "In a population of a billion the number of top 1-2% brains being wasted approaches infinity; 888 Dakshana scholars have been admitted to IIT out of 1,715, a 52% hit rate versus ~2% overall.",
+      "stocks_or_cases": ["Dakshana Foundation"]
+    },
+    {
+      "idea": "Large inheritances are a disservice to your children; recycle excess wealth back to society.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "Quotes Buffett: it is fine to put Jesse Owens's son on the 10-meter line but not the 15-meter line; his father said you take nothing with you, so assets beyond what you consume should go to society rather than the gene pool.",
+      "stocks_or_cases": ["Warren Buffett"]
+    },
+    {
+      "idea": "In charity, swing for the fences — sixers are the only way to move the needle.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "Pabrai was comfortable with Dakshana's outcome being zero and expected to hit his head against a brick wall for 10 years; he didn't care about the reputational impact and was willing to make bold bets.",
+      "stocks_or_cases": ["Dakshana Foundation"]
+    },
+    {
+      "idea": "Dakshana follows the UCLA/Harvard endowment model: don't lecture scholars about giving back, just tap the future millionaires on the shoulder in 10-15 years.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "The original idea of asking scholars to give 10% of lifetime earnings was dropped; alumni give back anyway, e.g. 20 Kharagpur alumni receive new Dakshana admits at the train station and mentoring networks exist at every IIT and NIT.",
+      "stocks_or_cases": ["Dakshana Foundation", "UCLA"]
+    },
+    {
+      "idea": "You can become extremely wealthy without ever predicting when a bubble will pop — 99% of things belong in the 'too hard' box.",
+      "topic": "Circle of competence & checklists",
+      "detail": "Buffett's desk has a box labeled 'too hard'; before investing Pabrai asks 'is this a no-brainer?', and since no-brainers are hard enough, there is no reason to go to areas slightly off from a no-brainer or to short Tesla.",
+      "stocks_or_cases": ["Warren Buffett", "Tesla"]
+    },
+    {
+      "idea": "What matters in a circle of competence is not its size but knowing its boundaries.",
+      "topic": "Circle of competence & checklists",
+      "detail": "Munger's friend John Arrillaga became a billionaire investing only in real estate within two miles of Stanford; Munger says owning the best apartment building, office building, McDonald's franchise and Ford dealership in a small town is enough to sit on your ass for life.",
+      "stocks_or_cases": ["John Arrillaga", "Charlie Munger"]
+    },
+    {
+      "idea": "$5,000 saved at 18 and compounded at 15% for 60 years becomes $20 million — the long runway and no heroics is all you need.",
+      "topic": "Compounding & long-term holding",
+      "detail": "He put his daughter's $4,800 summer earnings into a Roth IRA and showed that 15% doubles every five years, 4,000x over 60 years; starting at 38 instead of 18 cuts the result to a quarter. Berkshire doubles roughly every seven years — the key in life is how many doubles you get.",
+      "stocks_or_cases": ["Berkshire Hathaway"]
+    },
+    {
+      "idea": "It's better to be an inch wide and a mile deep than a mile wide and an inch deep.",
+      "topic": "Circle of competence & checklists",
+      "detail": "Keep the very long term in focus, don't try heroics like finding the next Amazon or Google, follow Buffett's two rules, and you don't need to know a lot about many things.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Long-term compounding machines matter more than entry price, so focus on durable assets rather than cheap ones.",
+      "topic": "Moats & business quality",
+      "detail": "Tom Gayner's example: buying American Express at $100 the day before the salad oil crisis versus Buffett's $60 makes almost no difference on an annualized basis today; that is why Munger pays up for Costco. Buffett admits he wasn't smart enough to hang on to Disney bought in the sixties.",
+      "stocks_or_cases": ["Tom Gayner", "American Express", "Costco", "Disney", "Walmart", "Charlie Munger"]
+    },
+    {
+      "idea": "Inactivity and patience are the core of everything in investing.",
+      "topic": "Psychology & temperament",
+      "detail": "Inactivity is a great skill; spend your time talking to students rather than trading.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Capitalism is hell-bent on destroying moats, so enduring moats are very rare and identifying them is the hard part.",
+      "topic": "Moats & business quality",
+      "detail": "If you do find a great long-duration moat you can put 10% into it and do other things with the other 90%; Pabrai does not target a market cap and historically has not invested in very large companies, ending up there only recently because that is where opportunity was.",
+      "stocks_or_cases": ["Pabrai Investment Funds"]
+    },
+    {
+      "idea": "The small investor has a huge advantage over institutions because a one-lakh bet can be meaningful and the opportunity universe is far wider.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Pabrai and Srini can't dish out capital at that rate and need businesses of a certain size; the downside for a small investor is too many things to look at, so you must hone in.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Use a 10% discount rate regardless of the rate environment and don't spend much time on macro.",
+      "topic": "Valuation & margin of safety",
+      "detail": "Keeping the hurdle at 10% is probably why he can't find anything to buy in 2015; better to understand businesses across a wide range of outcomes, though Buffett's view that rates stay low for a long time may give stocks a tailwind.",
+      "stocks_or_cases": ["Warren Buffett"]
+    },
+    {
+      "idea": "Pabrai Investment Funds never put 35% in anything — positions max out at 10% at cost and are allowed to grow.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "He has never sold down a position purely because it grew large; the key is the long runway, as the Amex example shows.",
+      "stocks_or_cases": ["Pabrai Investment Funds", "American Express"]
+    }
+  ]
+}

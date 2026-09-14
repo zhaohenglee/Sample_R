@@ -1,0 +1,104 @@
+{
+  "video_id": "QIUH0IzoV6E",
+  "date": "2021-01-27",
+  "title": "Mohnish Pabrai’s Q&A Session with Students at Clemson University - Jan 27, 2021",
+  "summary": "Speaking to students at his alma mater during the GameStop frenzy, Pabrai describes 2020 as his second-biggest year of learning: Nick Sleep's letters and Thomas Phelps's '100 to 1 in the Stock Market' pushed him from a buy-at-50-cents-sell-at-a-dollar treadmill toward owning great compounders with an entrepreneur's never-sell mindset. He explains why auction-driven markets overshoot, why shorting is a dumb asymmetric bet, why micro trumps macro, and walks through the Turkish warehouse investment (Reysas) bought at about $3 per square foot in 2019, along with his views on ESG, Bitcoin and market bubbles.",
+  "ideas": [
+    {
+      "idea": "2020 was his second-biggest year of learning after 1994-95, because Nick Sleep's partnership letters and Thomas Phelps's '100 to 1 in the Stock Market' caused him to make significant changes to how he invests.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "Sleep ran a fund from 2001 to 2014 and his 13 years of letters are 'like the Dead Sea Scrolls'; read them oldest to newest. Phelps's 1972 book is 48 years old but timeless.",
+      "stocks_or_cases": ["Nick Sleep", "Thomas Phelps"]
+    },
+    {
+      "idea": "Nick Sleep's question: if you owned Walmart in 1970 or 1980, what facts caused you to sell, and if you owned Kmart, what caused you to keep it?",
+      "topic": "Compounding & long-term holding",
+      "detail": "The Walton family has held Walmart since its 1970 IPO but almost no public investor held it even 20 years. Kmart was cheap on many metrics but in decline; Walmart looked expensive but was going from strength to strength.",
+      "stocks_or_cases": ["Walmart", "Kmart", "Nick Sleep"]
+    },
+    {
+      "idea": "Buying dollar bills for 30-50 cents and selling near a dollar turned every $1 in Pabrai Funds into about $14 after fees over 21 years, but it is an inefficient treadmill compared with holding great businesses with long runways.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "A really good business will periodically look optically overvalued, maybe for a long time, and that should not by itself prompt a sale. The shift makes life easier, improves returns and cuts taxes.",
+      "stocks_or_cases": ["Pabrai Investment Funds"]
+    },
+    {
+      "idea": "'The best investors weren't investors at all; they were entrepreneurs who never sold' (Nick Sleep): think of yourself as the founder or owning family and ignore valuation as long as the moat is widening.",
+      "topic": "Compounding & long-term holding",
+      "detail": "The exception is egregious cases: a family owning GameStop right now should have sold a while ago. He has gradually begun shifting his portfolio to this mindset.",
+      "stocks_or_cases": ["Nick Sleep", "GameStop"]
+    },
+    {
+      "idea": "Auction-driven markets overshoot and undershoot: a random NYSE stock shows at least a 2-to-1 range between its yearly low and high while an apartment building near Clemson would be quoted at nearly the same price all year.",
+      "topic": "Markets, cycles & macro",
+      "detail": "Intelligent buyer facing intelligent seller yields rational prices; faceless auction pricing does not. Ben Graham: markets are voting machines short term and weighing machines long term. Without these distortions he could not make a living.",
+      "stocks_or_cases": ["Ben Graham"]
+    },
+    {
+      "idea": "Shorting is a very dumb activity: maximum gain is a double and maximum loss is infinite, so he has never shorted a stock and will go to his grave without doing so.",
+      "topic": "Psychology & temperament",
+      "detail": "He finds many things overvalued but has no ability to predict when or how overvaluation corrects; nothing prevents an overvalued stock from becoming more overvalued. Shorting heavily shorted stocks is playing with fire; an index or basket would be safer.",
+      "stocks_or_cases": ["GameStop"]
+    },
+    {
+      "idea": "The GameStop squeeze is unprecedented: a Reddit crowd that does not know each other is not illegal collusion but has broken market mechanisms, and the SEC is torn about the right response.",
+      "topic": "Markets, cycles & macro",
+      "detail": "GameStop's short thesis was justifiable given the secular shift from physical stores to downloads. The stock was at $303 during the talk, with online chatter aiming for $1,000 to wipe out hedge funds; one argument is to let the dumb hedge funds face the music.",
+      "stocks_or_cases": ["GameStop", "BlackBerry"]
+    },
+    {
+      "idea": "In January 2021 there are bubbles in SPACs, heavily shorted stocks and 10-15 Robinhood names including Tesla, but beyond those it is not clear the broader market is overvalued if rates stay low.",
+      "topic": "Markets, cycles & macro",
+      "detail": "GameStop has gone beyond a bubble to a mega bubble; Tesla is clearly in bubble territory in his view. The rest of the market seems richly valued but justifiable under low interest rates.",
+      "stocks_or_cases": ["Tesla", "GameStop"]
+    },
+    {
+      "idea": "Separate capitalism from doing good: you cannot optimize two variables, so focus investing on returns and create impact through philanthropy.",
+      "topic": "Circle of competence & checklists",
+      "detail": "He personally would not invest in tobacco and is not eager on casinos, sports betting or lotteries, but has invested in a liquor company and in carbon-heavy car companies, and would not argue much with others who draw different lines.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Micro trumps macro: with 80% of the portfolio in six or seven positions, what matters is how those businesses perform, not who is president, which party controls Congress, or what the market does in 12 months.",
+      "topic": "Markets, cycles & macro",
+      "detail": "Buying a McDonald's in Clemson, you would look at its past cash flows and local demographics, nothing else. He has no idea what markets will do next year and does not care.",
+      "stocks_or_cases": ["McDonald's"]
+    },
+    {
+      "idea": "In July 2019 Turkey's largest warehouse operator could be bought for about $40 million, under $3.50 per square foot for 12 million square feet leased 99% long-term to blue-chip tenants, against a liquidation value of $50-60 a foot.",
+      "topic": "Stock case studies",
+      "detail": "With about $17 a foot of debt, $3 of equity per foot would return about $33 in liquidation, 11x. Tenants include Amazon, Alibaba, Carrefour and IKEA; multinational leases are in euros with 2-3% escalators, Turkish leases inflation-indexed. He spent an afternoon visiting all the warehouses to rule out fraud and now owns one-third of the company, his largest percentage ownership ever.",
+      "stocks_or_cases": ["Reysas", "Amazon", "Alibaba", "Carrefour", "IKEA"]
+    },
+    {
+      "idea": "The Turkish lira fell 40% after he invested, yet the position is up six or seven times in dollars because prime warehouses have a global value regardless of whether the local currency is seashells, dollars or lira.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "Currency instability, poor leadership and mass foreign exit were the macro backdrop in 2019, and none of it mattered. The exceptional father-son capital allocators have since done value-adding things he never had on his radar; he has no plans to sell.",
+      "stocks_or_cases": ["Reysas"]
+    },
+    {
+      "idea": "He would not hold Bitcoin: money is a medium of exchange valued by what we ascribe to it, and a Bitcoin worth $5 million defies logic, though 99% of the world he does not need to understand.",
+      "topic": "Circle of competence & checklists",
+      "detail": "He cites people losing hundreds of millions in Bitcoin to forgotten passwords and a UK hard drive with $280 million in a landfill (the owner offered $70 million to dig). He does not need to go long or short.",
+      "stocks_or_cases": ["Bitcoin"]
+    },
+    {
+      "idea": "Nick Sleep's model: when you find exceptional businesses with high returns on equity, long runways, great managers and deep moats, go all in, ideally find them small, then set it and forget it.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "In 2013 Sleep ran about $3 billion with 40% ($1.2 billion) in Amazon and 90% across Amazon, Costco and Berkshire, defying UK regulators. He compounded about 20% a year for 14 years, returned capital in 2014 with Amazon at $300 (now over $3,300), kept his own stake, and has since outperformed almost any manager while working perhaps 100 hours a year.",
+      "stocks_or_cases": ["Nick Sleep", "Amazon", "Costco", "Berkshire Hathaway"]
+    },
+    {
+      "idea": "He no longer does precise intrinsic-value calculations; he owns 4 million of Reysas's 12 million square feet through his funds and intends to keep the business for a long time rather than sell when it reaches full price.",
+      "topic": "Valuation & margin of safety",
+      "detail": "Before 2020 he viewed the Turkish investment as a temporary undervaluation to exit after a good run; now the mindset is ownership of a well-managed business.",
+      "stocks_or_cases": ["Reysas"]
+    },
+    {
+      "idea": "Repositioning the portfolio toward great compounders is like turning an aircraft carrier and will take a few years, after which the job is monitoring; his job has always been reading and thinking as a 'gentleman of leisure'.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "New positions were started in 2020 but the fund is 'pregnant with a bunch of positions' that must play out before the carrier is positioned correctly.",
+      "stocks_or_cases": []
+    }
+  ]
+}

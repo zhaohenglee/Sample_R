@@ -1,0 +1,216 @@
+{
+ "video_id": "jW-L5NdvYkU",
+ "date": "2025-06-10",
+ "title": "Mohnish Pabrai’s Session with SumZero on June 10, 2025",
+ "summary": "In his annual SumZero conversation, Pabrai discusses Berkshire under Greg Abel (a better index than the S&P), his views on each of the Mag 7 (he owns none), and the common thread in his current four positions: post-bankruptcy, debt-free, capital-intensive businesses in metallurgical coal (Warrior) and offshore drilling (Valaris, Noble) trading at roughly 10% of replacement cost. He also covers Turkey (TAV Airports, Reysas), India (IEX, NSE), tariffs and deficits, concentration via the Walton family example, and his bullishness on America.",
+ "ideas": [
+  {
+   "idea": "Berkshire today is like an index fund but a better index than the S&P 500, given its large cash position, modest valuation and relatively young leader.",
+   "topic": "Buffett & Munger lessons",
+   "detail": "Greg Abel has effectively run the wholly owned businesses for a few years and nobody noticed a difference; the public portfolio passes to him within about six months. Passive investing is now over half of US investing and produces lemming behavior into Mag 7 names regardless of fundamentals.",
+   "stocks_or_cases": [
+    "Berkshire Hathaway",
+    "Greg Abel",
+    "Warren Buffett"
+   ]
+  },
+  {
+   "idea": "Greg Abel is more hands-on than Buffett, pursuing synergies and oversight across subsidiaries, and may be more aggressive than Buffett was in crises like 2008 and 2020.",
+   "topic": "Management & capital allocation",
+   "detail": "Buffett delegated 'to the point of abdication' and never pursued synergies; Abel has CEOs interact and dives into businesses. Munger said Abel had qualities superior to Warren's. Berkshire Energy is well placed for the step-function grid investment AI data centers require, though wildfire liabilities blindsided them.",
+   "stocks_or_cases": [
+    "Berkshire Hathaway",
+    "Greg Abel",
+    "Warren Buffett",
+    "Charlie Munger",
+    "Berkshire Hathaway Energy"
+   ]
+  },
+  {
+   "idea": "Apple's innovation was singularly concentrated in Steve Jobs, so without him it may not reach the next paradigm; Bill Gates called it 'a very weird company'.",
+   "topic": "Moats & business quality",
+   "detail": "At a Munger Friday dinner three years ago Gates would not go long Apple despite Buffett's big bet. OpenAI with Jony Ive is trying to 'take the brick out of our hands', and if the brick is threatened Apple has a problem. Apple goes in the too-hard pile.",
+   "stocks_or_cases": [
+    "Apple",
+    "Bill Gates",
+    "Steve Jobs",
+    "Tim Cook",
+    "OpenAI",
+    "Jony Ive"
+   ]
+  },
+  {
+   "idea": "Microsoft is as close to bulletproof as it gets because enterprises are aircraft carriers that cannot switch products on a dime, and recurring revenue is worth paying up for.",
+   "topic": "Moats & business quality",
+   "detail": "You can decide in five minutes to never use Google search again, but not to drop Microsoft products. He accepts its 30-35x multiple as high but justified; Satya Nadella is an exceptional leader.",
+   "stocks_or_cases": [
+    "Microsoft",
+    "Satya Nadella",
+    "Google"
+   ]
+  },
+  {
+   "idea": "Google's low multiple is not a buy signal because search is threatened in a way it was not a few years ago; YouTube and Android are rocks but the whole goes in the too-hard pile.",
+   "topic": "Stock case studies",
+   "detail": "Google has woken up and will probably come out okay, but it is no longer the cinch it was.",
+   "stocks_or_cases": [
+    "Google",
+    "Alphabet",
+    "YouTube",
+    "Android"
+   ]
+  },
+  {
+   "idea": "Never count Tesla out because Elon is all in, but a 10%-sized position would be speculative; not being long Elon is probably one of his mistakes.",
+   "topic": "Mistakes & lessons learned",
+   "detail": "Quotes Munger: 'Never underestimate a man who overestimates himself.' Elon gets distracted running the government, so Tesla deserves at most a small allocation.",
+   "stocks_or_cases": [
+    "Tesla",
+    "Elon Musk",
+    "Charlie Munger"
+   ]
+  },
+  {
+   "idea": "Meta is a juggernaut with a chameleon-like learning machine in Zuckerberg and mind-blowing acquisitions; it was an easy double a few years ago but is no longer el cheapo.",
+   "topic": "Stock case studies",
+   "detail": "Only Google with YouTube rivals Meta's acquisition record. He owns no Mag 7 stocks at all, and none of them currently sit at egregious overvaluation, so holders should keep them.",
+   "stocks_or_cases": [
+    "Meta",
+    "Mark Zuckerberg",
+    "YouTube"
+   ]
+  },
+  {
+   "idea": "His four current positions share an unplanned commonality: all went through bankruptcy restructuring and emerged debt-free in capital-intensive industries, making them look like capital-light bets.",
+   "topic": "Valuation & margin of safety",
+   "detail": "A debt-free miner is an oxymoron. Offshore drillers may trade at 10% of replacement cost; assets that would cost $10-20 billion were bought for $2 billion, so return on equity is spectacular. He made the met coal bet in 2023 and the offshore drillers bet in 2025.",
+   "stocks_or_cases": [
+    "Warrior Met Coal",
+    "Valaris",
+    "Noble"
+   ]
+  },
+  {
+   "idea": "Warrior Met Coal is a debt-free, lowest-cost longwall producer of rare high-quality met coal with cheap barge and multi-railroad access to port, trading at about $2.5 billion against 40-50 years of reserves.",
+   "topic": "Stock case studies",
+   "detail": "It will produce $1-2 billion of cash flow in some years (it has done so before), $500 million in others and $300 million in bad ones, and is extremely unlikely to have a losing year; 'where do I sign?' Coal logistics matter because transport cost per ton is high, and Buffett, Munger and Gates visited the Powder River Basin because Burlington Northern was the toll bridge for coal.",
+   "stocks_or_cases": [
+    "Warrior Met Coal",
+    "Burlington Northern",
+    "Berkshire Hathaway"
+   ]
+  },
+  {
+   "idea": "Metallurgical coal sits in its own universe from thermal coal; civilization needs iron and steel and cannot recycle its way there, so met coal will still be burned 50 years from now.",
+   "topic": "Markets, cycles & macro",
+   "detail": "India, China, Indonesia, Vietnam and eventually Africa lack enough scrap steel; the US scraps roughly as many cars as the 15-17 million sold annually and exports most scrap to China, and the highest grades of steel cannot be made from scrap. Met coal is only available in about half a dozen countries.",
+   "stocks_or_cases": [
+    "Warrior Met Coal"
+   ]
+  },
+  {
+   "idea": "Coal stocks are cheap because coal is 'a four-letter word': ESG pressure means no sell-side coverage and difficulty getting banking, insurance and surety, which shrinks the pool of productive mines while demand rises.",
+   "topic": "Markets, cycles & macro",
+   "detail": "One CEO told him JPMorgan ended a 60-70 year highly profitable banking relationship citing ESG pressure; miners self-insure the first $10 million per worker yet still struggle to get required policies. Starting a new mine or restarting a closed one is so hard that supply keeps shrinking.",
+   "stocks_or_cases": [
+    "JPMorgan"
+   ]
+  },
+  {
+   "idea": "Offshore drillers Valaris and Noble own fleets that would cost about 10 times their market cap to replace, and no new drillships have been built in about 10 years because day rates do not justify them.",
+   "topic": "Stock case studies",
+   "detail": "A new $1 billion drillship needs ~$700-800k/day for a 12-14% return; current rates are in the $400s while old ships keep being scrapped, so the market is tightening. Offshore oil in Brazil costs $20-30 a barrel, about half of fracking. If rates reach $600-700 a day, Valaris and Noble would print almost their entire market cap in cash every year.",
+   "stocks_or_cases": [
+    "Valaris",
+    "Noble"
+   ]
+  },
+  {
+   "idea": "Site visits and talking to workers build domain knowledge better than management access; for most of his career he did not speak to management teams at all.",
+   "topic": "Circle of competence & checklists",
+   "detail": "He spent the last two years thousands of feet down in mines, at coal terminals, and on a trip to a large surface met coal mine in Mongolia. Coal executives take his calls because they are treated as pariahs, but access is not needed.",
+   "stocks_or_cases": [
+    "Warrior Met Coal"
+   ]
+  },
+  {
+   "idea": "'We are all too wise, too late': truly great compounders are very few, so do not get cute selling when you think one is fully priced; sell only when it is crazily, egregiously overpriced.",
+   "topic": "Compounding & long-term holding",
+   "detail": "He recalls selling positions at 3x and missing another 20x; even Bill Gates wishes he had kept his Microsoft stock. It took him a long time to learn that when you have something good, leave it alone.",
+   "stocks_or_cases": [
+    "Microsoft",
+    "Bill Gates"
+   ]
+  },
+  {
+   "idea": "He remains 'long and strong' in Turkey: TAV Airports and the Reysas warehouse business, bought at compelling valuations, are on fire and need no action.",
+   "topic": "Geographies: India, China, Turkey, Japan, US",
+   "detail": "TAV has pure operating leverage: when passenger traffic rises 5-10% costs do not, so cash flows explode. 95-96% of world airports are government-run; privately operated LaGuardia and India's BOT airports show how much better private operators do.",
+   "stocks_or_cases": [
+    "TAV Airports",
+    "Reysas",
+    "LaGuardia"
+   ]
+  },
+  {
+   "idea": "He sold Indian Energy Exchange when government rumblings about breaking its monopoly moved it to the too-hard pile, though he thinks IEX will ultimately prevail; NSE is a great business that may list in a year or two.",
+   "topic": "Geographies: India, China, Turkey, Japan, US",
+   "detail": "IEX is a beautiful business but the regulatory uncertainty became too difficult; the National Stock Exchange of India is still private.",
+   "stocks_or_cases": [
+    "Indian Energy Exchange",
+    "National Stock Exchange of India"
+   ]
+  },
+  {
+   "idea": "The tariff seesaw is playing with fire and will create huge recessionary pressures globally; trade partners now see the US as unreliable.",
+   "topic": "Markets, cycles & macro",
+   "detail": "He agrees trade should be free and fair and that the US had unfair deals, but wanted a surgeon's precision with partners one by one rather than a sledgehammer changing every few days; the administration should read Adam Smith and David Ricardo. Interest rates are relatively benign by comparison.",
+   "stocks_or_cases": [
+    "Donald Trump",
+    "Adam Smith",
+    "David Ricardo"
+   ]
+  },
+  {
+   "idea": "He is in Elon's camp on deficits: any bill that does not reduce the deficit is a bad idea because the US is pushing all the limits.",
+   "topic": "Markets, cycles & macro",
+   "detail": "Even $50 billion of expense cuts is very hard and the bill would add a few trillion; the US borrows in its own currency which gives leeway, but he yearns for the Clinton-era balanced budget.",
+   "stocks_or_cases": [
+    "Elon Musk",
+    "Bill Clinton"
+   ]
+  },
+  {
+   "idea": "He looks bottom-up at hated, unloved and discarded businesses rather than bargain hunting by country, and other things equal prefers US governance.",
+   "topic": "Circle of competence & checklists",
+   "detail": "Met coal and offshore drillers are US-governed global export powerhouses; it is hard to top what he found in Turkey, met coal and drillers, so he is not hunting in China.",
+   "stocks_or_cases": []
+  },
+  {
+   "idea": "Ideal bets are 10% each, but successful investing naturally ends with 40-80% in a single position, and that should be okay.",
+   "topic": "Portfolio concentration & selling",
+   "detail": "A Turkish stock bought at 2% of liquidation value grew to 40-50% of the portfolio and is being trimmed only because it is still undervalued. The Walton family owned about 46% of Walmart at the IPO 55 years ago and still owns 46% today, 33 years after Sam Walton died, never selling a share and building Bentonville from dividends.",
+   "stocks_or_cases": [
+    "Walmart",
+    "Walton family",
+    "Reysas"
+   ]
+  },
+  {
+   "idea": "He is always a bull on America but turning away foreign students and tourists messes with the crown jewels; education is one of America's best exports.",
+   "topic": "Geographies: India, China, Turkey, Japan, US",
+   "detail": "The US has done incredibly well attracting top talent; look at who runs the Mag 7. Bring in the best, make trade free and fair, and 'let it rip'.",
+   "stocks_or_cases": []
+  },
+  {
+   "idea": "'Buffett and Munger Unscripted', which reorganizes the Berkshire annual meeting Q&A by subject, is even better than Cunningham's essays because the meetings are unscripted.",
+   "topic": "Cloning & learning from great investors",
+   "detail": "The annual meeting transcripts are on buffett.cnbc.com; Larry Cunningham did the same subject reorganization for the annual reports.",
+   "stocks_or_cases": [
+    "Warren Buffett",
+    "Charlie Munger",
+    "Larry Cunningham"
+   ]
+  }
+ ]
+}

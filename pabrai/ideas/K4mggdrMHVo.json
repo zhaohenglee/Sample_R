@@ -1,0 +1,104 @@
+{
+  "video_id": "K4mggdrMHVo",
+  "date": "2021-05-19",
+  "title": "London Business School (LBS) MBA students Q&A with Mohnish Pabrai on May 19, 2021",
+  "summary": "In a Q&A with LBS MBA students, Pabrai opens with the pandemic-driven reconfiguration of food delivery, then covers why operating experience makes a better investor, the brain's teenage specialization window, the inner scorecard, why he historically avoided management meetings, the Graphtec exit in March 2020, position sizing, Mumbai real estate, and ignoring macro and currencies. He closes with the Nick Sleep-inspired lesson from his 1995 Indian stocks (Kotak, Blue Dart) that selling great businesses with a good destination was his biggest mistake.",
+  "ideas": [
+    {
+      "idea": "Food delivery is at an embryonic stage and will be 'Amazonized' over the next 10-20 years, and such reconfiguration of industries creates efficiencies and investment opportunities.",
+      "topic": "Markets, cycles & macro",
+      "detail": "Pizza Hut was dine-in only when he arrived in Clemson in 1983 and is now almost all delivery; DoorDash's one-to-one deliveries are 'ridiculous' compared with pooled routes, and cloud kitchens with 30-50 kitchens per warehouse, pre-positioned drivers and drones are coming.",
+      "stocks_or_cases": ["Pizza Hut", "Domino's", "DoorDash", "Chipotle"]
+    },
+    {
+      "idea": "Having met a payroll and won customers makes you a better investor; entrepreneurs do not run businesses through spreadsheets but through the three or four variables that drive 80-90% of the outcome.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "He quotes Buffett: 'I'm a better businessman because I'm an investor and a better investor because I'm a businessman', and 'talking to a fish about walking on land for a hundred years is not the same as walking on land for five minutes'.",
+      "stocks_or_cases": ["Warren Buffett"]
+    },
+    {
+      "idea": "The brain is optimized to specialize between roughly ages 11 and 20, and Western education wastes that window by forcing generalism; pursue your passion and take the job you would do for free.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Michelangelo, Bill Gates and Buffett all specialized intensely as teenagers; Germany separates kids at 13-14 and becomes a manufacturing powerhouse despite high wages. A lemonade stand at age 10 has a huge impact 20 years later.",
+      "stocks_or_cases": ["Bill Gates", "Warren Buffett"]
+    },
+    {
+      "idea": "Per Munger, you should already be independently wealthy before starting a fund, having proven you can compound your own money.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Buffett, Munger and Graham have freely shared their frameworks in letters, books and biographies; having the right framework is three-quarters of the battle.",
+      "stocks_or_cases": ["Charlie Munger", "Ben Graham"]
+    },
+    {
+      "idea": "His biggest mistake was spending too many years on Graham's discounted pies instead of Munger's growing pies, and Nick Sleep goes further: think of yourself as the founding family and hold for the long haul.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "He urges the students to get Nick Sleep, who is in their London backyard, to do a webcast.",
+      "stocks_or_cases": ["Nick Sleep", "Ben Graham", "Charlie Munger"]
+    },
+    {
+      "idea": "Live by an inner scorecard: the world often miscalibrates how good or useless you are, so set an internal true north and measure yourself against it.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "Buffett at the 2008 lunch asked whether you would rather be the best lover known as the worst or the worst known as the best; Nick Sleep's Nomad, shaped by 'Zen and the Art of Motorcycle Maintenance', cared about how well the job was done, not just turning $1 into $10, and Zach ran a $3 billion fund reading in a lazy boy without a desk.",
+      "stocks_or_cases": ["Warren Buffett", "Nick Sleep", "Nomad Investment Partnership", "Alice Schroeder"]
+    },
+    {
+      "idea": "Avoid being swayed by management meetings: CEOs are super salesmen with a huge knowledge edge, so judge them by what they said 10 years ago versus what transpired.",
+      "topic": "Management & capital allocation",
+      "detail": "Buffett said at the 2021 Berkshire meeting that a personable but incompetent CEO is an unlisted risk factor; it took Pabrai 15 months to realize one CEO was not that great, and Jeff Immelt 'checked all the boxes' yet snowed even Jack Welch (see the books 'Lights Out' and 'Hot Seat'). Lack of access can be an advantage for individual investors.",
+      "stocks_or_cases": ["Jeff Immelt", "General Electric", "Jack Welch", "Al Dunlap", "Jeff Bezos"]
+    },
+    {
+      "idea": "When the nature of a bet changes, exit even at a small profit or loss rather than watch the story unfold in slow motion.",
+      "topic": "Stock case studies",
+      "detail": "Graphtec's dominant EAF electrode position with take-or-pay contracts made cash flows knowable, bought at $7-9 and trading at $14-15 pre-pandemic; in March 2020 force majeure claims and falling steel output made the contracts questionable, so he sold at a small profit and would not change that decision even though the stock recovered.",
+      "stocks_or_cases": ["GrafTech", "Brookfield"]
+    },
+    {
+      "idea": "Do not overdose on conspiracy theories; the feared Brookfield 'take-under' of Graphtec was a low-probability event that would still have delivered a decent return.",
+      "topic": "Psychology & temperament",
+      "detail": "Brookfield's PE funds had 10-year lives and needed to sell down, which is why they IPO'd Graphtec; a take-under at $15 would have had to be around $18 against a $7-9 cost basis.",
+      "stocks_or_cases": ["GrafTech", "Brookfield", "Teekay Offshore"]
+    },
+    {
+      "idea": "He will not discuss positions he is still building, such as Alibaba, but if he is buying he must like it.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "He says Alibaba is a fascinating business worth studying and will discuss it, like Graphtec, once he no longer owns it.",
+      "stocks_or_cases": ["Alibaba"]
+    },
+    {
+      "idea": "If you know what you are doing, owning 20 or 30 stocks is insanity; four carefully selected stocks is enough, and if you do not know what you are doing, index.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "Munger's Peoria example: owning the Ford dealership, McDonald's franchise, best office building and best apartment tower would do extremely well; Buffett asks why put money in your 27th best idea instead of your third. Pabrai Funds uses a 10x10 portfolio, his personal account sometimes holds one stock, and Dakshana's $20-23 million is mostly in three positions.",
+      "stocks_or_cases": ["Charlie Munger", "Warren Buffett", "Dakshana Foundation"]
+    },
+    {
+      "idea": "In investing never swing for the fences, take singles; in philanthropy go for sixers every time because only a willingness to fail moves the needle on hard problems.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "Dakshana is very willing to fail when it spends money, while its investment portfolio of three or four well-selected stocks is not that risky.",
+      "stocks_or_cases": ["Dakshana Foundation"]
+    },
+    {
+      "idea": "80% of Mumbai is a tear-down and the city will be completely rebuilt over the long haul because the land is so valuable, in fits and starts.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "Mumbai real estate is terrible value for money; redevelopment laws protect apartment owners (rent allowances, larger replacement flats) and now require slum dwellers to be rehoused on the same site, but slum redevelopment is a dirty, political, mafia-involved business that organized developers avoid.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "He spends almost no time on macro or exchange rates because he has no competence there and, for the right businesses, those factors mostly do not matter.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "The Turkish Coke bottler, which also bottles for Pakistan and is partly owned by Coca-Cola and indirectly by 3G, can raise prices even if the currency devalues 100%; cases sold grow with GDP, and it trades far cheaper than any other Coke bottler despite nearly identical economics.",
+      "stocks_or_cases": ["Coca-Cola Icecek", "Coca-Cola", "3G Capital"]
+    },
+    {
+      "idea": "Nick Sleep's three questions: What is the destination in 10-30 years? Is the business getting better and the moat wider? Is the valuation reasonable, not egregious?",
+      "topic": "Compounding & long-term holding",
+      "detail": "Reading Sleep in 2020 added an explicit layer on lessons that were implicit in Buffett and Munger; the 10 Commandments need cutting down, as God reduced everything to 'do unto others'.",
+      "stocks_or_cases": ["Nick Sleep"]
+    },
+    {
+      "idea": "Buy great businesses run by great management and don't sweat intrinsic value; the entrepreneur is not selling, so why are you?",
+      "topic": "Mistakes & lessons learned",
+      "detail": "In 1995 he put $40,000 of his $1 million into four Indian stocks; one went up 140-160x by 2000 and he sold the other three. Kotak (bought for $2,400 because he was impressed dealing with them as his broker; banking license came eight years later) is up 500x and Blue Dart, the FedEx of India, is up 150x, requiring a 26-year hold; Skypack fell 90%.",
+      "stocks_or_cases": ["Kotak Mahindra", "Blue Dart", "Skypack", "FedEx"]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "video_id": "0qxxVBKd8CI",
+  "date": "2023-11-21",
+  "title": "Mohnish Pabrai's Q&A at Oxford University - Oxford Alpha Fund on November 21, 2023",
+  "summary": "An interview with the Oxford Alpha Fund covering Pabrai's accidental entry into investing via Peter Lynch and Buffett, the 'inch wide, mile deep' approach to circle of competence, tolerating a 50% error rate in a concentrated portfolio, assessing management by track record, and how to approach markets like Japan and Turkey. The second half is a detailed account of Dakshana's origins as a clone of Super 30, its social-return-on-invested-capital math, and the Akshaya Patra model as a future plan B.",
+  "ideas": [
+    {
+      "idea": "A 'village idiot' who follows Buffett's basic laws of investing should beat most professionals, because mutual funds with hundreds of positions and 80% turnover violate the laws of physics of investing.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "He discovered Buffett through a Peter Lynch book ~29 years ago while running an IT services firm, read the Berkshire and partnership letters, and tested the theory by putting $1M into a 10x10 portfolio in 1994-95; by early 2000 it was north of $13M, roughly 70% a year.",
+      "stocks_or_cases": ["Warren Buffett", "Peter Lynch", "Berkshire Hathaway"]
+    },
+    {
+      "idea": "Don't try to expand your circle of competence; it widens naturally by osmosis through curiosity and worldly wisdom, and the size of the circle is not correlated with investment success.",
+      "topic": "Circle of competence & checklists",
+      "detail": "Start with products and services you already consume. Successful entrepreneurs often know nothing beyond their own industry and still do very well.",
+      "stocks_or_cases": ["Charlie Munger"]
+    },
+    {
+      "idea": "It is better to be an inch wide and a mile deep than a mile wide and an inch deep; the Arrillaga model of one rich rabbit hole is the model to follow.",
+      "topic": "Circle of competence & checklists",
+      "detail": "John Arrillaga became a billionaire investing only in real estate within a mile of the Stanford campus, knowing every building's rents and value, selling in euphoria and buying back in pessimism. Nick Sleep and Qais similarly went deep into the Amazon rabbit hole after just reading annual reports.",
+      "stocks_or_cases": ["John Arrillaga", "Nick Sleep", "Amazon"]
+    },
+    {
+      "idea": "Expect to be wrong about half the time; the investing business is so forgiving that being right one in ten can work if that one is a massive home run.",
+      "topic": "Psychology & temperament",
+      "detail": "Sir John Templeton said the best analyst is wrong one in three times. A zero in a 10-stock portfolio costs 10%, not the end of the world; Valeant hit 30% of Sequoia's portfolio through run-up rather than initial sizing. Buffett's 2023 letter said 12 decisions in 58 years made Berkshire, a hit rate under 4%.",
+      "stocks_or_cases": ["John Templeton", "Valeant", "Sequoia Fund", "Warren Buffett"]
+    },
+    {
+      "idea": "Stay as close to the center of your circle of competence as possible and don't over-concentrate: eight or ten stocks is fine, three may not be.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "Because zeros will happen even with techniques to reduce them, the portfolio should be able to absorb a total loss in any one position.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Even a superb forensic accountant like Jim Chanos can be right on the facts and still lose on shorts because timing can go against you.",
+      "topic": "Markets, cycles & macro",
+      "detail": "Chanos had just shut down his shop in November 2023; the asymmetry of shorting is the wrong way around.",
+      "stocks_or_cases": ["Jim Chanos"]
+    },
+    {
+      "idea": "Assess management by track record, not by what they tell you: compare what they said they would do with what transpired, and check whether they under-promise and over-deliver.",
+      "topic": "Management & capital allocation",
+      "detail": "Exceptional management on a mediocre moat is not good enough; the ideal is an incredible moat with great management overlaid on top.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Management skin-in-the-game is a good mental model but can lead you astray: Chuck Akre passed on TransDigm because executives sold their stock as soon as it vested, yet the business kept compounding.",
+      "topic": "Management & capital allocation",
+      "detail": "TransDigm's private-equity roots normalized the pattern of shareholders cashing out. Akre is right 99% of the time and there are no called strikes; Pabrai himself passed because it was nowhere near a P/E of one, one of many things he wrongly let go because they looked optically expensive, like Amazon.",
+      "stocks_or_cases": ["TransDigm", "Chuck Akre", "Amazon", "Nick Sleep"]
+    },
+    {
+      "idea": "In Japan, look for businesses whose revenues are tied to exports and for management focused on shareholder value, because a declining population and employee-first culture are headwinds that must be handicapped.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "Buffett's 2020 purchase of the five Japanese trading companies worked because their footprint is largely outside Japan. Many Japanese firms carry twice the employees they need and see cash as belonging to employees, hurting capital providers. Japan still screens cheap after decades of flat-lining.",
+      "stocks_or_cases": ["Warren Buffett"]
+    },
+    {
+      "idea": "Don't follow the flavor of the day or the crowd; a market going up says nothing, and he prefers to walk over six-inch bars like Turkey rather than jump seven-foot bars.",
+      "topic": "Markets, cycles & macro",
+      "detail": "Turkey is shooting fish in a barrel after the water has run out; if there is no obvious value there is no need to act since there are no called strikes.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Sourcing ideas from smart investors is fine, but remember they are also wrong half the time; Alibaba had wide moats yet fell on the wrong side of the Chinese government in a way no one could forecast five years earlier.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "With Reysas he still has no idea when the market will close the discount; you place bets on hopefully conservative assumptions and move on.",
+      "stocks_or_cases": ["Alibaba", "Reysas"]
+    },
+    {
+      "idea": "Investment committees do more harm than good; the correct model is Buffett giving Todd and Ted total autonomy, even to put all $15 billion each into one stock.",
+      "topic": "Management & capital allocation",
+      "detail": "A committee would never reach consensus on Turkey and would end up owning the seven biggest S&P 500 stocks because nobody gets fired for buying IBM. Finding good investments is easier than finding good managers, who need both a track record and enough runway.",
+      "stocks_or_cases": ["Berkshire Hathaway", "Todd Combs", "Ted Weschler", "IBM"]
+    },
+    {
+      "idea": "Even a slightly above-average investor will end up with more wealth than can bring happiness through consumption, leaving only two uses: the gene pool or recycling it to society, and very large gifts to the gene pool do more harm than good.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "He gave each daughter ~$17,000 a year via UGMA accounts, invested them concentrated into a few million by age 18, and they know nothing else is coming; they have used the money to start a business and fund higher education.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Dakshana was born in 2005-06 by shamelessly cloning Anand Kumar's Super 30 after he refused outside money and refused to scale.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "Super 30 trained 30 very poor kids (household income ~$20/month) for IIT at ~$800 per student with a 90-100% success rate. Pabrai expected to fall flat for 10-15 years but got traction in weeks, largely because great leaders showed up and he left them alone.",
+      "stocks_or_cases": ["Dakshana Foundation", "Super 30", "Anand Kumar"]
+    },
+    {
+      "idea": "Dakshana's social return on invested capital is a no-brainer because the government's IIT subsidy and bank loans mean the only out-of-pocket cost is the coaching year: ~$3,000 in yields graduates earning $15,000 to over $1 million.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "An unsubsidized IIT education would cost $60-70,000; students pay ~$2-4,000 a year, fully loanable at the State Bank of India branch inside every IIT, and repay within 1-4 years. Dakshana graduates ~1,000 kids a year on ~$3M, some now at Google earning over $1M, others funded by top VCs.",
+      "stocks_or_cases": ["Dakshana Foundation", "IIT", "State Bank of India", "Google"]
+    },
+    {
+      "idea": "The biggest value he adds at Dakshana is saying no: every new initiative is compared against the core model and almost always rejected, and that focus is why it works.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "Most NGOs fund pet projects without measuring input and output; some spend 80 cents of every dollar on fundraising. The team is more passionate about Dakshana than he is, and it has worked out 100x better than expected.",
+      "stocks_or_cases": ["Dakshana Foundation"]
+    },
+    {
+      "idea": "Dakshana will max out at roughly 3,000 kids and $7-8M a year, about 10-12% of the 16,000 IIT seats, and its plan B is likely to fund Akshaya Patra's midday meal model.",
+      "topic": "Philanthropy & Dakshana",
+      "detail": "Akshaya Patra adds 50 cents to the government's 50 cents per meal, runs industrial kitchens serving 50 schools each, and has lifted rural literacy; Dakshana cloned its rice-steaming and kitchen techniques. He calls them the only two organizations in India that think in terms of social return on invested capital. Magnet-school experiments have not panned out.",
+      "stocks_or_cases": ["Akshaya Patra Foundation", "Dakshana Foundation"]
+    },
+    {
+      "idea": "Work for people you like, admire and trust rather than big brands that make people envious, find your passion as early as possible, and go an inch wide and a mile deep into it.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "He found investing as 'an old man of 30'; knowing your passion before graduating is a huge advantage, and going all in will 'blow the doors off'.",
+      "stocks_or_cases": ["Warren Buffett"]
+    }
+  ]
+}

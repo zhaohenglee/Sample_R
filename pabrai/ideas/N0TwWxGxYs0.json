@@ -1,0 +1,128 @@
+{
+  "video_id": "N0TwWxGxYs0",
+  "date": "2019-05-14",
+  "title": "Mohnish Pabrai's Webcast Q&A Session with Students at London Business School",
+  "summary": "Pabrai briefly recaps his 10 Commandments of Investment Management (in verse form sent by a fan) and then takes wide-ranging student questions. Main takeaways: keep an empty calendar and read on paper, reject stocks for the flimsiest reason as fast as possible, buy obvious no-brainers without DCFs, be a shameless cloner but do your own research, study Poor Charlie's Almanack and Cialdini for behavioral edges, and build an auditable track record before starting a fund.",
+  "ideas": [
+    {
+      "idea": "The 10 Commandments of Investment Management: no management fees, no investing team, accept being wrong a third of the time, look for hidden P/E-of-1 stocks, never use Excel, always have a rope out of the deepest well, be singularly focused like Arjuna, never short, never use leverage, and be a shameless cloner.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "He calls cloning the most important commandment: 'Don't be ashamed to copy the best. After all, it is the road to success.' On shorting he notes that what Tesla shorts forgot was the time scale, not the outcome.",
+      "stocks_or_cases": ["Tesla"]
+    },
+    {
+      "idea": "Copy Buffett's empty calendar: the most important thing money cannot buy is time, and an empty calendar is a side effect of being great at saying no.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Buffett had 80+ CEOs reporting to him and a $200B portfolio with an almost empty calendar; Pabrai takes no meetings without a compelling agenda and funnels all requests to 5:30 AM at the south entrance before the Berkshire meeting. The LBS talk was the only item on his calendar that week.",
+      "stocks_or_cases": ["Warren Buffett", "Charlie Munger"]
+    },
+    {
+      "idea": "Read only on paper, get freedom from devices, and limit email to 900 seconds a day.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "He reads the FT, WSJ and NYT in physical form daily; his assistant handles nearly all email and hands him a folder at 11:00 AM that he finishes with handwritten replies by 11:15. Munger has never used a mobile phone or computer and reads ~20 books a week.",
+      "stocks_or_cases": ["Charlie Munger"]
+    },
+    {
+      "idea": "The model is not to find investments but to find the flimsiest reason to say no as quickly as possible; circle of competence and a 60-second valuation glance kill most ideas.",
+      "topic": "Circle of competence & checklists",
+      "detail": "A pharma company is rejected on the name alone; if it is not near a P/E of 1 it is gone. Ideas that survive get 5 minutes, then 15. A tip that says a stock at 10 is worth 13 is dismissed even granting the thesis, because he wants stocks worth 60 trading at 10. Finding two or three ideas a year is enough.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "In investing there are no called strikes: you can let 95% of great ideas go by, and being right two out of three times will make you wealthy.",
+      "topic": "Psychology & temperament",
+      "detail": "Buffett's baseball analogy; there are always more balls being pitched, so be a very harsh grader on stocks.",
+      "stocks_or_cases": ["Warren Buffett"]
+    },
+    {
+      "idea": "Never pay for research, third parties or expert networks; do all your own work because that is what Buffett does and anything else is a 'Buffett violation'.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "Due diligence has ranged from three hours to three months; he hated the auto industry so much he spent three months trying to find reasons not to buy Fiat Chrysler in 2012 before capitulating, and it is up 8x since. The industry pattern of teams, management fees and diversification 'operates stupidly'.",
+      "stocks_or_cases": ["Fiat Chrysler", "Warren Buffett"]
+    },
+    {
+      "idea": "Don't fixate on discount rates or DCFs; look for obvious no-brainers that hit you over the head with a two-by-four.",
+      "topic": "Valuation & margin of safety",
+      "detail": "Fiat Chrysler had a $5B market cap in 2012 and he thought it could earn $5B a year in five or six years; that was the entire DCF. Munger says he has never seen Buffett run a discounted cash flow.",
+      "stocks_or_cases": ["Fiat Chrysler", "Charlie Munger", "Warren Buffett"]
+    },
+    {
+      "idea": "Exits are far harder than entrances and his own record on exits is terrible, usually leaving a lot of money on the table; a rough rule is to consider selling near 90% of intrinsic value.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "Growing pies beat discounted pies even when bought at a smaller discount, because intrinsic value rises over time and stays above the stock price, letting you hold for a long time.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Markets will keep vacillating between fear and greed no matter how much AI or algorithmic trading exists, because human nature does not change and valuation is part art.",
+      "topic": "Markets, cycles & macro",
+      "detail": "Bubbles are far more common than people think (he recommends Ron Insana's Trend Watching); index funds already beat 90-95% of managers after fees. Stock picking gets hard in euphoric markets and easy in depressed ones.",
+      "stocks_or_cases": ["Bitcoin"]
+    },
+    {
+      "idea": "Markets move in roughly 17-year cycles because human memory fades after 17 years: the Dow was flat at 873 from 1965 to 1981, then rose to ~12,000 by 1999.",
+      "topic": "Markets, cycles & macro",
+      "detail": "He knew when starting Pabrai Funds in 1999 that he was entering a headwind period through about 2016, and it still worked out fine. Maggie Mahar's book Bull chronicles the 1982-99 run.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Buybacks are just another investment: do them heavily when the stock is severely undervalued and never when overvalued, but most CEOs are great salespeople and lousy capital allocators.",
+      "topic": "Management & capital allocation",
+      "detail": "Coca-Cola buys back stock formulaically regardless of whether the P/E is 10 or 1,000, and MasterCard's buybacks at 2019 prices are 'very stupid'; dividends would be smarter for both. Poor allocation shows up as overpriced acquisitions and mistimed buybacks, and many CEOs outsource their personal portfolios while pumping billions into buybacks.",
+      "stocks_or_cases": ["Coca-Cola", "MasterCard"]
+    },
+    {
+      "idea": "Cloning is a starting point for research, not a buy signal; buying off Dataroma five minutes later deserves to get your head handed to you.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "The top two or three high-conviction ideas of great investors have already passed a significant filter, making them a great hunting ground, but many who cloned Buffett on IBM lost money; use it as a basis to form your own intrinsic value view.",
+      "stocks_or_cases": ["IBM", "Warren Buffett", "Dataroma"]
+    },
+    {
+      "idea": "In a crisis when ideas arrive like a fire hydrant, a basket of 2% bets makes sense; in normal times go to the 10% maximum once a great opportunity is found.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "In 2008-09 his portfolio was down ~70%; he sold Fairfax Financial (which had equity puts and CDS) and businesses at 3x earnings to buy other things at 3x earnings, and made many 2% commodity bets. No stock bought in 2009 lost money and many were 5x-plus.",
+      "stocks_or_cases": ["Fairfax Financial"]
+    },
+    {
+      "idea": "Our brains are a mishmash of ancient and modern and were never designed to pick stocks, so understanding the psychology of human misjudgment is a massive advantage in life and investing.",
+      "topic": "Psychology & temperament",
+      "detail": "Poor Charlie's Almanack is worth '10 LBS degrees'; he rereads it every year, and the final essay on the Psychology of Human Misjudgment (pages 440-498) should be read 50 times. Cialdini's Influence is the other key book.",
+      "stocks_or_cases": ["Charlie Munger", "Robert Cialdini"]
+    },
+    {
+      "idea": "Reciprocation tendency is hard-coded but uncalibrated, so a small gift creates a disproportionate sense of obligation; he exploits it deliberately in his fund's marketing.",
+      "topic": "Psychology & temperament",
+      "detail": "Prospective investors get a $20-plus box with a $25-30 Cross pen and his book; only about 1 in 200 returns it to avoid the obligation. 'I give you a $30 pen, you wire me 2 million.'",
+      "stocks_or_cases": ["Pabrai Investment Funds"]
+    },
+    {
+      "idea": "To persuade humans, focus on interest, not reason, as Ben Franklin advised; logical arguments make no headway with relatives, trade partners or North Korea.",
+      "topic": "Psychology & temperament",
+      "detail": "He switched from reason to interest in family disagreements and was shocked at the breakthroughs; the US-China trade war will be settled by interest, not reason.",
+      "stocks_or_cases": ["Ben Franklin"]
+    },
+    {
+      "idea": "Before starting a fund, prove you are a good investor with an auditable track record in a separate brokerage account; Munger's first criterion for picking a manager is that he must already be rich.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Li Lu turned ~$20,000 of student-loan float into $950,000 by graduation from Columbia and has compounded north of 20% for 20+ years, which is why Munger picked him. Pabrai himself grew $1M to over $11M from 1994 to 1999 before friends asked him to manage money.",
+      "stocks_or_cases": ["Li Lu", "Charlie Munger"]
+    },
+    {
+      "idea": "Raise capital from the three F's, friends, family and fools, and if you deliver above-average returns investors will swim to you through shark-infested waters.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Pabrai Funds started in 1999 as a hobby with eight or nine friends and $1M; 15 months in he decided to build it into a real business despite SEC limits on soliciting.",
+      "stocks_or_cases": ["Pabrai Investment Funds", "Warren Buffett"]
+    },
+    {
+      "idea": "Buffett's personal portfolio outside Berkshire was always concentrated in two or three stocks, sometimes with options or leverage, and grew from under $20M in 1970 to over $2B.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "Learned from Munger over their regular bridge lunches; he also listens to 30 minutes a day of the Berkshire annual meeting archive at buffett.cnbc.com going back to 1994, often the biggest learning of the day.",
+      "stocks_or_cases": ["Warren Buffett", "Charlie Munger", "Berkshire Hathaway"]
+    },
+    {
+      "idea": "Take the job you would do if you weren't paid, and work for people you like, admire and trust; choosing on brand name or compensation is stupid.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "Most firms violate the core principles, so the next best thing is Buffett's advice on choosing bosses and peers you respect. His own life would be almost identical with or without outside money.",
+      "stocks_or_cases": ["Warren Buffett"]
+    }
+  ]
+}

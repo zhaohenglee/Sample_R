@@ -1,0 +1,110 @@
+{
+  "video_id": "MYR0tWgstMI",
+  "date": "2022-08-17",
+  "title": "Mohnish Pabrai’s Q&A with The CFA Society of Mexico on August 17, 2022",
+  "summary": "A Q&A with the CFA Society of Mexico in which Pabrai argues that the most money is made by owning great businesses with long runways and never selling them, using Rakesh Jhunjhunwala's Titan stake and Chuck Akre's 'is the business getting better?' test to reject Ben Graham's edict of selling at intrinsic value. He also covers why 80% of active managers lag the index, why value and growth are joined at the hip, ignoring macro noise in favor of business-specific factors like Costco in China, and why hated, unloved Turkey, with euro revenues and lira costs, is where he found a warehouse company at 3% of liquidation value.",
+  "ideas": [
+    {
+      "idea": "Value investing is a huge tent that includes merger arbitrage and below-liquidation buys, but the most money is only made through partial ownership of a business with tremendous economics and a tremendous runway.",
+      "topic": "Valuation & margin of safety",
+      "detail": "Buffett bought Activision Blizzard purely as merger arbitrage on the Microsoft deal, and the Twitter/Elon Musk spread is similar; with a great business you only need to be right once or twice in a lifetime and it covers a lot of sins.",
+      "stocks_or_cases": ["Activision Blizzard", "Microsoft", "Twitter", "Elon Musk", "Warren Buffett"]
+    },
+    {
+      "idea": "Rakesh Jhunjhunwala's $4 billion fortune came mostly from never selling two great businesses, Titan and Lupin, even as he day-traded everything else and even when they looked optically overpriced.",
+      "topic": "Compounding & long-term holding",
+      "detail": "He started 40 years ago with a $25,000 loan at 18% interest secured only by his signature; Titan was 3-4% of his portfolio 20-25 years ago, compounded at 30-35% for two decades and was about $2 billion of the $4 billion at his death; Titan, backed by the trusted Tata group, is consolidating fragmented Indian jewelry and still has a 50-year runway.",
+      "stocks_or_cases": ["Rakesh Jhunjhunwala", "Titan Industries", "Lupin", "Tata"]
+    },
+    {
+      "idea": "Ben Graham did value investors a disservice with his edict never to hold a stock above intrinsic value; the right question, per Chuck Akre, is whether the business is getting better.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "There is an asymmetry between the price at which you would buy and the price at which you would sell: you would not buy Titan at 30-50x trailing earnings, but you should not sell it either if the moat deepens with every store opened.",
+      "stocks_or_cases": ["Benjamin Graham", "Chuck Akre", "Titan Industries", "Costco", "Walmart"]
+    },
+    {
+      "idea": "Hold an overvalued great business, but sell when it becomes egregious; Costco at 40-50x earnings should be held, but at 200x normalized earnings you have left the reservation.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "If a great, growing business is run by honest managers and you can see the runway, hang on for life; only egregious valuation justifies selling.",
+      "stocks_or_cases": ["Costco"]
+    },
+    {
+      "idea": "Enduring moats like Titan, Costco, Walmart or Southwest should not exist under capitalism because supernormal profits attract competitors, so they are hard to predict at the start but identifiable in hindsight, and those are the ones to focus on.",
+      "topic": "Moats & business quality",
+      "detail": "A great sushi restaurant in Polanco makes money until other chefs open next door, unless it has a secret sauce nobody can match.",
+      "stocks_or_cases": ["Titan Industries", "Costco", "Walmart", "Southwest Airlines"]
+    },
+    {
+      "idea": "Only 4-5% of companies generate almost all index returns, and the index beats stock pickers because it is too dumb to know it owns Google, Microsoft or Costco and too dumb to ever sell them.",
+      "topic": "Compounding & long-term holding",
+      "detail": "Picking one of 20 great businesses while wearing a cheapskate hat is very hard; the holy grail is that when you do own a great business, the biggest thing you must do is nothing, as Jhunjhunwala did as $25-50 million became $2 billion.",
+      "stocks_or_cases": ["Google", "Microsoft", "Costco", "Rakesh Jhunjhunwala"]
+    },
+    {
+      "idea": "Investing is a very forgiving business: Templeton said the best investor is wrong one in three times, most of us are wrong half the time, and you can still do well.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "The key is to recognize when you are in the happy position of owning a great business and then set Ben Graham aside.",
+      "stocks_or_cases": ["John Templeton"]
+    },
+    {
+      "idea": "Alibaba is a great business with strong moats and great management, but being in the crosshairs of the Chinese Communist Party is not good, and given its size and long run it would not be his top pick or even fifth or seventh.",
+      "topic": "Stock case studies",
+      "detail": "He notes many other businesses have better economics and are more attractive than Alibaba.",
+      "stocks_or_cases": ["Alibaba"]
+    },
+    {
+      "idea": "It is almost a law of physics that 80%+ of active managers lag the index after fees, and picking great managers is much harder than picking great stocks.",
+      "topic": "Markets, cycles & macro",
+      "detail": "The US has more mutual funds and ETFs than individual stocks; fund management is peculiar because 80% of the industry subtracts value yet stays in business due to stickiness, and the know-nothing investor should index.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Value and growth are joined at the hip; all intelligent investing is value investing, and the best value investments have very high returns on equity, high growth and a long runway, which describes many FAANG stocks.",
+      "topic": "Valuation & margin of safety",
+      "detail": "With a crystal ball on future cash flows, Google, Facebook or Microsoft in 2000-2002 might have been worth 100-150x trailing earnings; Buffett says See's Candies, bought for $25 million with $7-8 million of book value, would have been a great investment even at $100-150 million.",
+      "stocks_or_cases": ["FAANG", "Google", "Facebook", "Microsoft", "See's Candies", "Walmart"]
+    },
+    {
+      "idea": "Google and Facebook have incredible moats because they convert atoms into bits and, unlike all advertising before, let advertisers know exactly which half is working.",
+      "topic": "Moats & business quality",
+      "detail": "Advertising dollars have consolidated into very few hands, though technology moats can change over time so the job is judging sustainability and what you pay for future cash flows.",
+      "stocks_or_cases": ["Google", "Facebook"]
+    },
+    {
+      "idea": "His psyche will not pay up even 20x earnings for a MasterCard, so he waits for great businesses on the operating table with a temporary hiccup; in investing you can let a thousand balls go by.",
+      "topic": "Psychology & temperament",
+      "detail": "Buffett took about 40% of GEICO when bad underwriting had wiped out its surplus and fear was rampant; the market overweighs short-term factors, so patience over longer periods is the edge, and with 50,000 stocks some are always on the operating table.",
+      "stocks_or_cases": ["MasterCard", "Microsoft", "GEICO", "Warren Buffett"]
+    },
+    {
+      "idea": "Overlay macro numbers on the specific business you own and you will usually find they are noise; what matters for Costco is how many stores it will have in China in 20 years, not the Fed, oil or Ukraine.",
+      "topic": "Markets, cycles & macro",
+      "detail": "Costco's two recent China stores cannot handle the crowds and are insanely profitable; it has only 800 US stores and is in 10 countries, so if your family owned 70% of Costco you would refuse to sell. Separate signal from noise and ignore noise you cannot calibrate.",
+      "stocks_or_cases": ["Costco", "Amazon", "Titan Industries"]
+    },
+    {
+      "idea": "Munger says he and Buffett could not do today what they did then because far more brainpower now chases fewer stocks, so you must zag when others zig and go where it is hated and unloved.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "They used to shoot fish in a barrel after letting the water out; in 2022 Pabrai owns one US stock and a few in Turkey, which smart value investor friends dismiss outright because of 80%+ official inflation.",
+      "stocks_or_cases": ["Charlie Munger", "Warren Buffett", "Turkey"]
+    },
+    {
+      "idea": "In Turkey, businesses with 95-98% of revenue in euros and costs in lira turn hyperinflation into a tailwind, yet they were shot along with everything else and trade at about 3x earnings.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "Every 10% drop in the lira raises euro earnings 2-4%; a fruit juice exporter (not owned) sells 90-98% into the EU duty-free while paying Turkish farmers in declining lira. Only 2-3% of listed Turkish companies have this dynamic, and there is always a bull market somewhere among 50,000 stocks.",
+      "stocks_or_cases": ["Turkey", "Turkish fruit juice exporter"]
+    },
+    {
+      "idea": "Turkey's retail float of 20% turns over every nine days, so the market is a game of pure luck like backgammon, and the stock market transfers wealth from the active to the inactive.",
+      "topic": "Psychology & temperament",
+      "detail": "80% of the Turkish market is held statically by insiders and foreigners; a typical US stock turns over once or twice a year versus 35-40 times in Turkey, Turks say they 'play' the market, and retail investors ask CFOs for a carpet-style price on shares.",
+      "stocks_or_cases": ["Turkey", "Warren Buffett"]
+    },
+    {
+      "idea": "He bought one-third of Turkey's largest warehouse operator for $7 million when it traded at a $20 million market cap against $700-800 million of liquidation value, and its 14% lira loans are effectively grants.",
+      "topic": "Stock case studies",
+      "detail": "12 million square feet of prime warehouses with euro-denominated or inflation-indexed leases; with 80-100% inflation the company repays about 5% of what it borrows in real terms. Market cap has since risen to $120-140 million but business value has grown even more.",
+      "stocks_or_cases": ["Reysas", "Turkey"]
+    }
+  ]
+}

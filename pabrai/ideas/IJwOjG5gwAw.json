@@ -1,0 +1,122 @@
+{
+  "video_id": "IJwOjG5gwAw",
+  "date": "2023-11-13",
+  "title": "Mohnish Pabrai's Q&A at Clemson University - Wall Street South Investment Club on November 13, 2023",
+  "summary": "Speaking to his alma mater's investment club, Pabrai lays out 'anomaly-based investing': act only when auction-driven markets produce extremes that make no sense, as with Buffett's PetroChina at 3x earnings or Reysas at 2% of liquidation value. He explains where anomalies surface (Value Line lists, 13Fs, screening cheap countries), walks through funeral homes and car dealerships as misunderstood great businesses, recounts the $650,000 Buffett lunch that led to friendships with Buffett and Munger, and describes his Peoria-style concentrated portfolio with three Turkish bets at 65-70% of one fund.",
+  "ideas": [
+    {
+      "idea": "Auction-driven markets can swing to extremes in both directions, unlike negotiated sales of homes or whole businesses, and the only time to act is when pricing is so extreme it makes no sense.",
+      "topic": "Valuation & margin of safety",
+      "detail": "Euphoric bubble pricing means take a pass; extreme cheapness is when to act. If someone says Apple at $150 is worth $180-250 that is not an anomaly; if it's worth $1,000 and trades at $200, take a look.",
+      "stocks_or_cases": ["Apple"]
+    },
+    {
+      "idea": "Buffett's PetroChina bet was a no-brainer anomaly: $12 billion of earnings against a $35 billion market cap, about 3x earnings with a roughly 15% dividend yield, and the stock quickly tripled.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "Discussed at the 2005 Berkshire meeting; the $400 million investment was Buffett's first in China, with 90% government owned and the annual report stating 45% of cash flow would be paid out. He said he'd have preferred Exxon, BP or Chevron at that valuation but nothing else in the world was priced like that.",
+      "stocks_or_cases": ["PetroChina", "Warren Buffett", "Berkshire Hathaway", "Exxon", "BP", "Chevron"]
+    },
+    {
+      "idea": "Investing has a high error rate, with even the best managers wrong at least one in three times per John Templeton and more likely half the time, so focusing only on anomalies is what makes the odds interesting.",
+      "topic": "Psychology & temperament",
+      "detail": "'Wrong' means the stock flatlines or drifts rather than doing what you expected. Keep your radar up for weird things that make no sense.",
+      "stocks_or_cases": ["John Templeton"]
+    },
+    {
+      "idea": "Reysas, Turkey's largest warehouse REIT, traded at a $16 million market cap versus $800 million of liquidation value in 2019, and about $8 million bought one-third of the company.",
+      "topic": "Stock case studies",
+      "detail": "Warehouses worth about $1 billion less $200 million debt; his Turkish value-investor friend's fund already owned it and confirmed it was not a fraud. Despite the lira collapse the dollar market cap is now about $500 million against close to $1.5 billion liquidation value. When things hit you over the head with a 2x4, act.",
+      "stocks_or_cases": ["Reysas"]
+    },
+    {
+      "idea": "Turkey is a market full of gamblers where the average company cycles through its entire market cap every nine days, versus one to two years on the NYSE, which paradoxically gave him the liquidity to build a large position.",
+      "topic": "Geographies: India, China, Turkey, Japan, US",
+      "detail": "He expected Reysas to trade by appointment but found ample volume from people who buy at 10 AM and sell at 3 PM.",
+      "stocks_or_cases": ["Reysas"]
+    },
+    {
+      "idea": "US stocks failed to fall despite a dramatic rise in interest rates over the past two years, which is an anomaly in the wrong direction: if they were priced to perfection 18 months ago, they are definitely overvalued today.",
+      "topic": "Markets, cycles & macro",
+      "detail": "The last six months were 'a yawn' for a cheapskate who gets excited at 2-10% of liquidation value; almost anything he looks at in the US is fully priced or overpriced.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Tune out macro, interest rates and economic growth forecasts entirely and focus on individual businesses within your circle of competence that are anomalies in the right direction.",
+      "topic": "Circle of competence & checklists",
+      "detail": "The first question for any business is 'is it within my circle of competence?'; there is no point wasting time on questions nobody can answer.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "He moved from California to Austin nearly two years ago because state income tax was over a third of his total tax bill on long-term gains, and eliminating it while improving quality of life was itself an anomaly.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "His path: Clemson (computer engineering, foreign student) to a Chicago telecom job in 1986 that sponsored his green card, then a ten-year IT services business, then California in 2003, then Austin.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "The job description is reading and thinking, and you can sometimes proactively cause anomalies to show up, as when Turkey screened extremely cheap on P/E and price-to-book in 2018 and he went to visit his friend's portfolio companies.",
+      "topic": "Circle of competence & checklists",
+      "detail": "His Turkish friend is a hardcore Ben Graham disciple he is trying to convert toward Munger; the 2018 trip was planned as a week of great dining and learning with no intention to invest.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "Value Line's weekly lists of lowest P/Es, biggest 13-week losers, widest discounts to book and highest yields take under five minutes a week to scan and surface anomalies.",
+      "topic": "Circle of competence & checklists",
+      "detail": "Over 20 years ago it flagged two funeral services companies at a P/E of 2; he bought at $2 a share and it was $10 about a year later, in and out within 12-18 months.",
+      "stocks_or_cases": ["Value Line"]
+    },
+    {
+      "idea": "Funeral homes have the lowest failure rate of any SIC code because nobody wants to enter the business, customers don't bargain over their favorite uncle's casket, and deaths in a town are highly predictable.",
+      "topic": "Moats & business quality",
+      "detail": "Contrast with opening a bar next to Tiger Town, where you might be out of business in six months. The two roll-ups at 2x earnings had a lot of debt, but the price still made no sense after doing the work.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "13F filings of investors you admire are a form of investigative journalism: reverse-engineer why Ackman likes Chipotle or the railroads, then decide whether you agree and whether it is enough of an anomaly.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "Often he has no interest in buying or selling, he just wants to understand why that person acted.",
+      "stocks_or_cases": ["Bill Ackman", "Chipotle", "Berkshire Hathaway"]
+    },
+    {
+      "idea": "US car dealerships are near-monopolies and a great business that the market doesn't get: they trade at extremely low multiples in an overvalued market while furiously buying back shares.",
+      "topic": "Stock case studies",
+      "detail": "New cars are a loss leader earning under $500, financing/insurance/warranties and certified used cars carry real margins, and parts and service are 10-15% of revenue but nearly 40% of profits; franchise laws stop OEMs from selling direct or adding a rival dealer three miles away. AutoNation, Asbury and Lithia are buying back stock; AutoNation pays no dividend.",
+      "stocks_or_cases": ["AutoNation", "Asbury Automotive", "Lithia Motors"]
+    },
+    {
+      "idea": "Don't compete with Elon Musk; if Tesla makes a 10% EV margin, GM, Ford and Stellantis will never make a dime on EVs and would be smarter to run off their legacy business rather than invest, but they will all play and eventually cease to exist.",
+      "topic": "Moats & business quality",
+      "detail": "The EV threat to dealers' parts and service is far out, and the legacy OEMs are delaying the transition as long as possible. Car manufacturing is a terrible business; car dealerships are a great one.",
+      "stocks_or_cases": ["Tesla", "Elon Musk", "GM", "Ford", "Stellantis"]
+    },
+    {
+      "idea": "Of roughly 50,000 stocks worldwide, 99%-plus are either not understandable or too expensive, so the main job is saying no; finding one or two yeses a year is awesome.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "Even one stock a year is just fine.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "He bid for the 2007 Buffett lunch as a tuition payment: with a net worth of $84 million largely built on Buffett and Munger's intellectual property, $2 million (2.5%) seemed appropriate, and the auction capped out at $650,000.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "Guy Spier capped himself at $250,000 and wired about $200,000; the money went to GLIDE in San Francisco. The three-hour lunch unexpectedly led to friendships, and Buffett, competitively calling Charlie 'utterly boring', arranged a Munger lunch that Pabrai enjoyed even more, followed by Friday bridge at LA Country Club.",
+      "stocks_or_cases": ["Warren Buffett", "Charlie Munger", "Guy Spier", "GLIDE"]
+    },
+    {
+      "idea": "Munger's Peoria test: one-third each in the Ford dealership, the McDonald's franchise and the best apartment building in Peoria is an extremely well-diversified portfolio, and beyond about ten stocks diversification has diminishing returns.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "The 11th business will be less well understood than the second, and going from 10 to 50 stocks gains little. He caps positions at 10% of cost but never trims winners.",
+      "stocks_or_cases": ["Charlie Munger"]
+    },
+    {
+      "idea": "Three Turkish bets make up 65-70% of one of his funds: Reysas, the dominant Coke bottler in Turkey that bottles in about 12 countries, and an airport operator running about 15 airports.",
+      "topic": "Portfolio concentration & selling",
+      "detail": "The $8 million Reysas stake grew to about $150 million and remains untrimmed because liquidation value implies $400-450 million for his share; a Coke or Pepsi bottler almost anywhere is a license to print money, and the airport operator is a monopoly-type business. He views these as his three Peoria businesses.",
+      "stocks_or_cases": ["Reysas", "Coca-Cola Icecek", "TAV Airports"]
+    },
+    {
+      "idea": "One of his few big regrets is not taking up golf much earlier, since Munger played two or three times a week; 'we are old too soon and wise too late'.",
+      "topic": "Career, entrepreneurship & life",
+      "detail": "He took up golf after moving to Austin and urges Clemson students to start early and make the most of the place and its lifelong friendships.",
+      "stocks_or_cases": ["Charlie Munger"]
+    }
+  ]
+}

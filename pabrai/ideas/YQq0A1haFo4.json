@@ -1,0 +1,128 @@
+{
+  "video_id": "YQq0A1haFo4",
+  "date": "2026-07-21",
+  "title": "Mohnish Pabrai's Interview with New Money on July 21, 2026",
+  "summary": "Pabrai tells New Money's Brandon that the S&P 500 looks ridiculously overvalued and suggests Berkshire Class B shares as an alternative index, argues that size not Greg Abel is Berkshire's constraint, and puts AI, memory chips, SpaceX, Adobe and private credit in the too-hard pile. He lays out his Kaspi thesis (Kazakhstan's WeChat with a Turkey moonshot), the Upanishads' 'deepest desire is your destiny' as his method for finding ideas, non-negotiable management integrity (rejecting NVR), and his regret at overdosing on Graham versus Fisher-Munger.",
+  "ideas": [
+    {
+      "idea": "My opinion on things I don't buy is irrelevant — only the few large, infrequent bets we act on matter, and anything murky is an automatic pass.",
+      "topic": "Circle of competence & checklists",
+      "detail": "He places bets only where odds approach no-brainer territory; he is not an S&P 500 investor and thinks it is overheated, but that opinion doesn't matter because there is no bet there.",
+      "stocks_or_cases": ["S&P 500"]
+    },
+    {
+      "idea": "Instead of dollar-cost averaging into the S&P 500, which is at worst not a no-brainer and more likely ridiculously overvalued, treat Berkshire Class B shares as your index.",
+      "topic": "Valuation & margin of safety",
+      "detail": "About 40% of Berkshire's market cap is cash, 25-30% is in good public businesses, plus great wholly owned businesses; it is fairly priced or underpriced but probably not overpriced, and if there is a dislocation Greg Abel steps up. With no dislocation you take little risk; with one you might double in a few years.",
+      "stocks_or_cases": ["Berkshire Hathaway", "Greg Abel", "S&P 500"]
+    },
+    {
+      "idea": "Berkshire's constraint is size, not Greg Abel versus Warren Buffett — with a trillion dollars even Buffett has his hands tied.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "Give Greg Abel $1 billion or even $50 billion and he would be killing it; Berkshire should not distribute its $400 billion cash because a big dislocation in the next 5-10 years could absorb all of it.",
+      "stocks_or_cases": ["Berkshire Hathaway", "Greg Abel", "Warren Buffett"]
+    },
+    {
+      "idea": "Buffett's ~$30 billion Google bet makes sense because his universe is tiny — if he managed $100 billion there would be no Google bet.",
+      "topic": "Buffett & Munger lessons",
+      "detail": "Buffett has studied Google for years: GEICO paid $20 a click that cost Google under a cent, and Sergey and Larry visited him before the IPO to learn how to run a company like Berkshire. Berkshire generates $50-60 billion of cash flow a year and Google is a $4 trillion company.",
+      "stocks_or_cases": ["Google", "Alphabet", "Berkshire Hathaway", "GEICO", "Warren Buffett"]
+    },
+    {
+      "idea": "AI capex is a gold rush where two or three players win big and the rest are carcasses — we don't know which, so the whole thing goes in the too-hard pile.",
+      "topic": "Markets, cycles & macro",
+      "detail": "Google now has debt and high capex for the first time; Zuckerberg admitted he must spend without knowing if it pays off. $100 billion spent in 2027 buys what $20 billion bought five years ago because pickaxe sellers like the memory makers have raised prices 4-5x.",
+      "stocks_or_cases": ["Google", "Meta", "Mark Zuckerberg"]
+    },
+    {
+      "idea": "Even the insulated memory oligopoly is not where I want to invest — the simple Mohnish rule is to invest where nobody is interested and nobody is talking.",
+      "topic": "Circle of competence & checklists",
+      "detail": "Micron's CFO told him that even with all the patents and engineers they are not sure they could replicate a burned-down fab's throughput because part of the business is 'black magic'; the three players are on allocation and jacking prices, but where they are in three to five years is unknowable.",
+      "stocks_or_cases": ["Micron"]
+    },
+    {
+      "idea": "Kaspi, the WeChat of Kazakhstan, is heads I win, tails I win: a monopoly super app at 5-7x cash flow with a near-10% dividend yield plus a free moonshot in Turkey.",
+      "topic": "Stock case studies",
+      "detail": "A rock-star CEO owning ~40-43% turned a failing bank into a super app generating $2 billion of cash flow a year in a country of 10 million; he paused the ~$1 billion annual dividend for 12-18 months to buy a small Turkish bank and fintech, the stock collapsed, Tencent/WeChat bought a big piece and the CEO added to his stake. If Turkey fails you still make 2-3x; Turkey has eight times Kazakhstan's population and is all analog today.",
+      "stocks_or_cases": ["Kaspi", "WeChat", "Tencent", "Kazakhstan", "Turkey"]
+    },
+    {
+      "idea": "Your deepest desire is your destiny — you can have only one, and if it is to find stocks at a P/E of one among 50,000 stocks, you will find them.",
+      "topic": "Psychology & temperament",
+      "detail": "Quoting the Upanishads: buy in hook, line and sinker, have a singular focus and go all in like Bezos with the world's largest bookstore or Elon wanting to die on Mars. It is important to have the right desires and not blow it with stupid ones.",
+      "stocks_or_cases": ["Jeff Bezos", "Elon Musk", "Amazon"]
+    },
+    {
+      "idea": "I only make investments I can explain to a 10-year-old in about four sentences and that would completely convince the 10-year-old.",
+      "topic": "Circle of competence & checklists",
+      "detail": "The Kaspi thesis is simple: a real new-age tech business you are not paying much for, plus a moonshot; give the manager five years and collect 10% a year in dividends if it fails.",
+      "stocks_or_cases": ["Kaspi"]
+    },
+    {
+      "idea": "Finding ideas is easy: read every write-up on Value Investors Club until one hits you over the head with a 2x4.",
+      "topic": "Cloning & learning from great investors",
+      "detail": "VIC is free with a 60-day delay, which is irrelevant; a write-up hands you the company and the person on a platter. When someone told Buffett there are 5,000 US stocks he said 'start with the A's'. If it is your deepest desire it is not work, it is like watching World Cup highlights.",
+      "stocks_or_cases": ["Value Investors Club", "Kaspi", "Warren Buffett"]
+    },
+    {
+      "idea": "There are no called strikes in investing — never invest in Turkey or anywhere else until you are 5,000% all in; if you harbor doubts, move on.",
+      "topic": "Psychology & temperament",
+      "detail": "Buffett can let 10,000 pitches go by and swings only when the ball looks like a watermelon; you may see Kaspi as a tiny marble in the corner of your strike zone and that is fine. This is a forgiving business and you need not own what Pabrai or Buffett owns.",
+      "stocks_or_cases": ["Warren Buffett", "Kaspi", "Turkey"]
+    },
+    {
+      "idea": "Let the exuberant part of the market have its fun; with small capital you can make Mickey Mouse bets in unpopular nooks and crevices rather than Nvidia-type bets.",
+      "topic": "Markets, cycles & macro",
+      "detail": "Auction-driven markets with humans vacillating between fear and greed always have one exuberant corner; smaller capital means a larger opportunity set and larger return possibilities, but it requires discipline, staying inside the circle of competence and patience.",
+      "stocks_or_cases": ["Nvidia"]
+    },
+    {
+      "idea": "A stock like Adobe, down 63% from its 2024 highs, is only investable if you have high conviction in its minimum cash flows over 5-15 years — for me it goes in the too-hard pile.",
+      "topic": "Valuation & margin of safety",
+      "detail": "If you can't have conviction on future cash flows because of AI image models, move on; with a gun to his head he would pick Kaspi over Adobe because Kaspi's cash flows are pretty certain and may go higher. Not investing in either and turning more pages among 50,000 companies is also fine.",
+      "stocks_or_cases": ["Adobe", "Kaspi"]
+    },
+    {
+      "idea": "Elon is not human — never short a superhuman, but going long SpaceX goes in my too-hard pile despite the business being a no-brainer.",
+      "topic": "Stock case studies",
+      "detail": "Musk personally interviewed the first 3,000 SpaceX hires and runs five companies; quoting Munger, 'never underestimate someone who overestimates themselves'. SpaceX's asteroid-mining, intergalactic ambitions may happen, but Pabrai doesn't need that bet — Kaspi is easier to understand and if he loses money he knows how. He also credits the US for attracting a 'finished product' like Musk, his neighbor in Westlake Hills, Texas.",
+      "stocks_or_cases": ["SpaceX", "Elon Musk", "Starlink", "Charlie Munger"]
+    },
+    {
+      "idea": "Use the too-hard pile aggressively — it is an exercise in humility and being true to yourself, and only the anomalies escape it.",
+      "topic": "Circle of competence & checklists",
+      "detail": "Human ego says 'of course I can figure out SpaceX or Adobe'; smart people fall into wanting an opinion on everything. On the passive-investing bubble and private credit he says 'why ask the address of a home we are never going to visit?' — the important question is what happens to Kaspi.",
+      "stocks_or_cases": ["SpaceX", "Adobe", "Kaspi"]
+    },
+    {
+      "idea": "Integrity and capability of management and owners are non-negotiable — I don't want to be even slightly in bed with a greedy manager.",
+      "topic": "Management & capital allocation",
+      "detail": "NVR bought back 80-90% of its stock over two decades, but with the founder gone 40-50% of repurchased shares end up with managers, so 'we are done'; a fund-manager friend holding it as a small position because of the issue made no sense to him. He gives Elon a pass on comp because the targets are so hard.",
+      "stocks_or_cases": ["NVR", "Elon Musk"]
+    },
+    {
+      "idea": "Judge managers only by their track record over the last 5-20 years, never by what they say they will do.",
+      "topic": "Management & capital allocation",
+      "detail": "Cloned from Buffett and Munger; he has never interacted with Kaspi's CEO but studying the record gave him tremendous confidence in his integrity and capability.",
+      "stocks_or_cases": ["Kaspi", "Warren Buffett", "Charlie Munger"]
+    },
+    {
+      "idea": "Focus is the single most important mental model — be all in on one little thing and life will be amazing.",
+      "topic": "Psychology & temperament",
+      "detail": "Deepest desire is another way of describing focus; you cannot have ten desires.",
+      "stocks_or_cases": []
+    },
+    {
+      "idea": "I was overdosed on Graham and underdosed on Fisher and Munger — if starting over I would go 20% Graham, 80% Fisher-Munger.",
+      "topic": "Mistakes & lessons learned",
+      "detail": "The realization came only seven or eight years ago after 32 years of investing; for almost a quarter century he was 'wandering in the wilderness, aimlessly misdirected'.",
+      "stocks_or_cases": ["Ben Graham", "Philip Fisher", "Charlie Munger"]
+    },
+    {
+      "idea": "Moats get built accidentally in a small sliver of businesses, and when you own one — Costco, Coke, Visa, Mastercard, AmEx — don't sell unless it is egregiously overpriced.",
+      "topic": "Compounding & long-term holding",
+      "detail": "Capitalism is brutal and survival is the exception; Visa, Mastercard, FICO, Moody's, AmEx and Ferrari became moaty beyond their founders' expectations. Costco at ~50x trailing earnings has never been egregiously overpriced — 250x normalized earnings would be. Buffett attributes most of Berkshire's success to about 12 held investments.",
+      "stocks_or_cases": ["Costco", "Coca-Cola", "Visa", "Mastercard", "American Express", "FICO", "Moody's", "Ferrari", "Berkshire Hathaway"]
+    }
+  ]
+}
