@@ -1,0 +1,282 @@
+{
+  "window": "cross cutting 2006 to 2025",
+  "search_count": 30,
+  "figures": [
+    {
+      "item": "shares_outstanding",
+      "period": "FY2025",
+      "value": 21191530,
+      "unit": "common shares",
+      "source_url": "https://www.csisoftware.com/wp-content/uploads/2026/05/Q1-2026-Shareholder-Report.pdf",
+      "source_title": "Constellation Software Inc. INTERIM FINANCIAL REPORT (Q1 2026, reports 21,191,530 shares outstanding as at May 12, 2026, same count carried from year end 2025)",
+      "confidence": "company",
+      "note": "Search snippet reports 21,191,530 shares outstanding at end of 2025 and as at May 12, 2026 (no change in between). MacroTrends 'Constellation Software Shares Outstanding 2018-2026' page corroborates as third_party cross check."
+    },
+    {
+      "item": "dividends_per_share_regular",
+      "period": "FY2013",
+      "value": 4.0,
+      "unit": "USD (4 x USD 1.00 quarterly)",
+      "source_url": "https://www.globenewswire.com/news-release/2013/10/30/1474983/0/en/Constellation-Software-Inc-Announces-Results-for-the-Third-Quarter-Ended-September-30-2013-and-Declares-Quarterly-Dividend.html",
+      "source_title": "Constellation Software Inc Announces Results for the Third Quarter Ended September 30 2013 and Declares Quarterly Dividend",
+      "confidence": "company",
+      "note": "Quarterly dividend confirmed at USD 1.00 per share in this release; annual total of 4.00 assumes same rate all four quarters of FY2013 (regular rate unchanged since 2012 per company disclosure pattern)."
+    },
+    {
+      "item": "dividends_per_share_regular",
+      "period": "FY2014",
+      "value": 4.0,
+      "unit": "USD (4 x USD 1.00 quarterly)",
+      "source_url": "https://www.globenewswire.com/news-release/2014/03/06/1475011/0/en/Constellation-Software-Inc-Declares-Quarterly-Dividend.html",
+      "source_title": "Constellation Software Inc Declares Quarterly Dividend (March 6, 2014)",
+      "confidence": "company",
+      "note": "Confirmed USD 1.00 quarterly rate; second confirming release for Q1 2014 at https://www.globenewswire.com/news-release/2014/04/30/1475021/0/en/Constellation-Software-Inc-Announces-Results-for-the-First-Quarter-Ended-March-31-2014-and-Declares-Quarterly-Dividend.html"
+    },
+    {
+      "item": "dividends_per_share_regular",
+      "period": "FY2015",
+      "value": 4.0,
+      "unit": "USD (4 x USD 1.00 quarterly)",
+      "source_url": "https://www.globenewswire.com/news-release/2016/02/17/1061530/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2015-and-Declares-Quarterly-Dividend.html",
+      "source_title": "Constellation Software Inc Announces Results for the Fourth Quarter and Year Ended December 31 2015 and Declares Quarterly Dividend",
+      "confidence": "company",
+      "note": "No special dividend mentioned in this release title for FY2015."
+    },
+    {
+      "item": "dividends_per_share_regular",
+      "period": "FY2018",
+      "value": 4.0,
+      "unit": "USD (4 x USD 1.00 quarterly)",
+      "source_url": "https://www.globenewswire.com/news-release/2019/02/14/1725078/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2018-and-Declares-Quarterly-and-Special-Dividends.html",
+      "source_title": "Constellation Software Inc. Announces Results for the Fourth Quarter and Year Ended December 31, 2018 and Declares Quarterly and Special Dividends",
+      "confidence": "company",
+      "note": "Same release also declares the USD 20.00 special dividend recorded separately below under dividends_per_share_special."
+    },
+    {
+      "item": "dividends_per_share_special",
+      "period": "FY2018",
+      "value": 20.0,
+      "unit": "USD per share, one-time special dividend",
+      "source_url": "https://www.globenewswire.com/news-release/2019/02/14/1725078/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2018-and-Declares-Quarterly-and-Special-Dividends.html",
+      "source_title": "Constellation Software Inc. Announces Results for the Fourth Quarter and Year Ended December 31, 2018 and Declares Quarterly and Special Dividends",
+      "confidence": "company",
+      "note": "Declared February 14, 2019 alongside FY2018 results; USD 1.00 regular quarterly dividend and USD 20.00 special dividend both paid April 5, 2019. This is the special dividend named explicitly in the task brief."
+    },
+    {
+      "item": "dividends_per_share_regular",
+      "period": "FY2019",
+      "value": 4.0,
+      "unit": "USD (4 x USD 1.00 quarterly)",
+      "source_url": "https://www.globenewswire.com/en/news-release/2020/02/13/1984977/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2019-and-Declares-Quarterly-Dividend.html",
+      "source_title": "Constellation Software Inc. Announces Results for the Fourth Quarter and Year Ended December 31, 2019 and Declares Quarterly Dividend",
+      "confidence": "company",
+      "note": "Release title and content confirm only a regular USD 1.00 quarterly dividend for this period; no special dividend in FY2019 (the USD 20 special was declared in Feb 2019 against FY2018 results, paid April 2019, and is recorded under FY2018 above by declaration year)."
+    },
+    {
+      "item": "dividends_per_share_regular",
+      "period": "FY2020",
+      "value": 4.0,
+      "unit": "USD (4 x USD 1.00 quarterly)",
+      "source_url": "https://www.globenewswire.com/news-release/2020/11/02/2118890/0/en/Constellation-Software-Inc-Announces-Results-for-the-Third-Quarter-Ended-September-30-2020-and-Declares-Quarterly-Dividend.html",
+      "source_title": "Constellation Software Inc Announces Results for the Third Quarter Ended September 30 2020 and Declares Quarterly Dividend",
+      "confidence": "company",
+      "note": "Confirms USD 1.00 quarterly rate maintained through 2020."
+    },
+    {
+      "item": "dividends_per_share_regular",
+      "period": "FY2022",
+      "value": 4.0,
+      "unit": "USD (4 x USD 1.00 quarterly)",
+      "source_url": "https://www.globenewswire.com/news-release/2023/03/29/2637195/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2022-and-Declares-Quarterly-Dividend.html",
+      "source_title": "Constellation Software Inc. Announces Results for the Fourth Quarter and Year Ended December 31, 2022 and Declares Quarterly Dividend",
+      "confidence": "company",
+      "note": "No special dividend named in this release."
+    },
+    {
+      "item": "dividends_per_share_regular",
+      "period": "FY2023",
+      "value": 4.0,
+      "unit": "USD (4 x USD 1.00 quarterly)",
+      "source_url": "https://www.globenewswire.com/news-release/2024/3/6/2841834/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2023-and-Declares-Quarterly-Dividend.html",
+      "source_title": "Constellation Software Inc. Announces Results for the Fourth Quarter and Year Ended December 31, 2023 and Declares Quarterly Dividend",
+      "confidence": "company",
+      "note": "See also non-cash 2023 warrant dividend / debenture rights offering distribution events recorded separately; those are not counted in this cash regular-dividend figure."
+    },
+    {
+      "item": "dividends_per_share_regular",
+      "period": "FY2024",
+      "value": 4.0,
+      "unit": "USD (4 x USD 1.00 quarterly)",
+      "source_url": "https://www.globenewswire.com/news-release/2025/03/07/3039269/0/en/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2024-and-declares-quarterly-dividend.html",
+      "source_title": "Constellation Software Inc. Announces Results for the Fourth Quarter and Year Ended December 31, 2024 and Declares Quarterly Dividend",
+      "confidence": "company",
+      "note": "No special dividend named."
+    },
+    {
+      "item": "dividends_per_share_regular",
+      "period": "FY2025",
+      "value": 4.0,
+      "unit": "USD (4 x USD 1.00 quarterly)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/03/09/3251696/0/en/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2025-and-declares-quarterly-dividend.html",
+      "source_title": "Constellation Software Inc. Announces Results for the Fourth Quarter and Year Ended December 31, 2025 and Declares Quarterly Dividend",
+      "confidence": "company",
+      "note": "No special dividend named; regular rate still USD 1.00 quarterly."
+    },
+    {
+      "item": "roic_plus_organic_pct",
+      "period": "FY2016",
+      "value": null,
+      "unit": "percent, components stated but combined figure not explicitly numeric in source found",
+      "source_url": "https://bizalmanac.substack.com/p/a-better-combined-ratio",
+      "source_title": "A Better Combined Ratio - by Andy - bizalmanac",
+      "confidence": "third_party",
+      "note": "Source states organic net revenue growth was 1% in FY2016 and that ROIC was depressed because the company carried excess cash by year end (unable to invest all FCF during 2016). No single combined ROIC+OGr percent for FY2016 was given in the retrieved snippet, so the numeric value field is left null; treat as a partial/qualitative figure only, not a clean numeric data point."
+    },
+    {
+      "item": "roic_plus_organic_pct",
+      "period": "FY2017",
+      "value": 33,
+      "unit": "percent (ROIC + organic net revenue growth, company-defined combined metric)",
+      "source_url": "https://bizalmanac.substack.com/p/a-better-combined-ratio",
+      "source_title": "A Better Combined Ratio - by Andy - bizalmanac",
+      "confidence": "third_party",
+      "note": "Same source states ROIC alone was 29% in FY2017 and organic growth averaged roughly 2% around that period, with ROIC+OGr (the company's stated proxy for annual increase in shareholder value) at approximately 33% in FY2017. Source also states the company kept this combined metric at or above 30% for more than ten years, but does not give a full year-by-year table in the retrieved snippet."
+    },
+    {
+      "item": "total_return_10yr_pct",
+      "period": "10 years to 2026-05",
+      "value": 460.73,
+      "unit": "percent total return, CNSWF USD, approximate",
+      "source_url": "https://www.financecharts.com/stocks/CNSWF/performance/total-return-cagr",
+      "source_title": "Constellation Software (CNSWF) Total Return CAGR - financecharts",
+      "confidence": "third_party",
+      "note": "Recorded by Fable from a WebSearch snippet on 2026-09-14 after the intake worker found no year end prices; aggregate only."
+    },
+    {
+      "item": "total_return_15yr_pct",
+      "period": "15 years to 2026-05",
+      "value": 3597.83,
+      "unit": "percent total return, CNSWF USD, approximate",
+      "source_url": "https://www.financecharts.com/stocks/CNSWF/performance/total-return-cagr",
+      "source_title": "Constellation Software (CNSWF) Total Return CAGR - financecharts",
+      "confidence": "third_party",
+      "note": "Recorded by Fable from a WebSearch snippet on 2026-09-14."
+    },
+    {
+      "item": "annualized_return_10yr_pct",
+      "period": "10 years to 2026-09",
+      "value": 19.63,
+      "unit": "percent per year, CSU.TO CAD, approximate",
+      "source_url": "https://portfolioslab.com/symbol/CSU.TO",
+      "source_title": "Constellation Software Inc. (CSU.TO) - PortfoliosLab",
+      "confidence": "third_party",
+      "note": "Snippet also states S&P 500 averaged 13.95 percent over the same window. Recorded by Fable on 2026-09-14."
+    },
+    {
+      "item": "positive_years_count",
+      "period": "since listing to 2026",
+      "value": 17,
+      "unit": "positive calendar years (2 negative), approximate",
+      "source_url": "https://portfolioslab.com/symbol/CSU.TO",
+      "source_title": "Constellation Software Inc. (CSU.TO) - PortfoliosLab",
+      "confidence": "third_party",
+      "note": "Recorded by Fable on 2026-09-14."
+    }
+  ],
+  "events": [
+    {
+      "item": "ipo",
+      "date": "2006-05",
+      "text": "Constellation Software listed on the TSX (ticker CSU) on May 17, 2006, an IPO priced at C$17.00 per share that raised about C$80 million; shares closed their first day of trading at C$18.30. The offering reportedly raised no primary capital for the company itself and was structured mainly to give early investor TD Capital Canadian Private Equity Partners a liquidity event.",
+      "source_url": "https://www.cantechletter.com/2025/05/constellation-software-has-delivered-a-36000-return-since-its-ipo-is-it-still-a-buy/",
+      "source_title": "Constellation Software has delivered a 36,000% return since its IPO. Is it still a buy? - Cantech Letter",
+      "confidence": "third_party",
+      "note": "IPO price/date/first-day-close figures came from a synthesized web search answer drawing on multiple pages found in the same search (including this article, stockanalysis.com, and Constellation's own short-form prospectus at https://www.csisoftware.com/docs/default-source/press-releases/csi-final-prospectus-eng.pdf); the exact underlying page stating C$17.00 could not be individually confirmed since page content could not be fetched directly in this environment (WebFetch is disabled). Treat as third_party pending direct confirmation from the prospectus PDF."
+    },
+    {
+      "item": "ipo_growth_target",
+      "date": "2006",
+      "text": "At IPO, Constellation Software management stated a five-year performance objective: to grow, on average, Net Revenues per share and Adjusted EBITDA per share by 20% per annum for the period January 1, 2006 to December 31, 2010. Management noted that screening public companies with over $50 million in revenue for that growth profile over a trailing five years found fewer than 1% qualified, underscoring how ambitious the target was.",
+      "source_url": "https://www.speedwellmemos.com/p/constellation-software-business-history",
+      "source_title": "Constellation Software Business History - by Speedwell Research",
+      "confidence": "third_party",
+      "note": "Whether the 20%-per-annum target was actually met by year end 2010 could not be confirmed in the searches performed; see gaps."
+    },
+    {
+      "item": "hurdle_rate_policy",
+      "date": "2021",
+      "text": "Mark Leonard's stated capital-allocation hurdle rates for acquisitions have historically run in the 20%-30% range, tiered by deal size: roughly 30% for smaller acquisitions, 25% for mid-sized ones, and a lower rate (around 20%) for larger deals (roughly $100 million and up).",
+      "source_url": "https://inpractise.com/articles/constellation-software-competition-hurdle-rates-and-deal-flow",
+      "source_title": "Constellation Software: Competition, Hurdle Rates & Deal Flow - In Practise",
+      "confidence": "third_party",
+      "note": "Exact publication date of this interview/article was not confirmed in the search snippet; date field uses an approximate placement based on context clues (references to the 2021 hurdle-rate change) and should be verified against the article's actual publish date."
+    },
+    {
+      "item": "hurdle_rate_change",
+      "date": "2021",
+      "text": "In 2021 Mark Leonard lowered Constellation's hurdle rate specifically for large vertical-market-software (VMS) acquisitions while keeping the hurdle rate unchanged for small and medium-sized deals. Leonard's stated reasoning: over the prior five years, brokers had only invited Constellation into about 16% of large VMS sale processes, and a lower hurdle rate for large deals would let competent M&A brokers include Constellation in more auctions and let the company deploy its cash stockpile, without bidding up prices on the small/medium deals where the higher hurdle rate had been preserving returns.",
+      "source_url": "https://www.theglobeandmail.com/business/article-constellation-softwares-roll-up-wizard-ups-his-game-in-major/",
+      "source_title": "Constellation Software's next step: expansion through larger takeovers - The Globe and Mail",
+      "confidence": "third_party",
+      "note": "Corroborated in search summary by Cantech Letter, June 2021, 'I underestimated Constellation Software, this investor says' (https://www.cantechletter.com/2021/06/i-underestimated-constellation-software-this-investor-says/)."
+    },
+    {
+      "item": "president_letter_policy_change",
+      "date": "2018",
+      "text": "The 2018 President's letter was Mark Leonard's last full annual letter to shareholders. He stated he would no longer write yearly letters as a matter of course, only writing when he believed he had something new and important to communicate. Reported rationale: sharing Constellation's hard-won operating and capital-allocation tactics in public letters was seen as helping an expanding field of 'Constellation emulators' (copycat acquirers), which he judged was no longer in long-term shareholders' interest.",
+      "source_url": "https://www.eagletalonpartners.com/leadership-lens/mark-leonard-stopped-writing-to-shareholders-in-2018",
+      "source_title": "Mark Leonard Stopped Writing to Shareholders in 2018 - Eagle Talon Partners Investment Firm",
+      "confidence": "third_party",
+      "note": "A separate search result referenced an earlier (circa 2009-era) quote where Leonard said a given letter would be 'the last quarterly letter' while still planning to write annual letters; that is a distinct, earlier discontinuation of quarterly (not annual) letters and should not be conflated with the 2018 discontinuation of the annual letter."
+    },
+    {
+      "item": "strategic_review_2011",
+      "date": "2011-04",
+      "text": "On April 4, 2011 Constellation's board announced it was reviewing strategic alternatives to enhance shareholder value (internally called 'The Process' by Mark Leonard, who had flagged the possibility in his 2010 President's letter, describing it as meaning the company was likely to be sold), retaining BofA Merrill Lynch and BMO Capital Markets as advisors. During the roughly nine-month review, operating group managers were told to stop acquiring in new verticals and 2011 acquisition spending came in at less than half of 2010's level; with less capital going into newly acquired, initially unprofitable businesses, reported profit rose sharply. The process concluded without a sale, and Constellation remained a public company.",
+      "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/presidents-letter/2011_presidents_letter.pdf",
+      "source_title": "Constellation Software 2011 President's Letter",
+      "confidence": "company",
+      "note": "The narrative detail on the nine-month process, advisor names, and its conclusion without a sale is corroborated by a third_party source, https://businesscaseweekly.substack.com/p/bcw-49-constellation-software ('BCW 49: Constellation Software' - Business Case Weekly), and by the original strategic-alternatives announcement referenced in search results (title: 'CONSTELLATION SOFTWARE INC. TO EVALUATE STRATEGIC ALTERNATIVES', https://www.csisoftware.com/category/press-releases/2019/01/21/constellation-software-inc.-to-evaluate-strategic-alternatives -- note this URL's 2019 date-path appears to be a site re-indexing artifact for a 2011-dated release; the original release date is 2011, not 2019, and this should be verified directly against the release."
+    },
+    {
+      "item": "special_dividend_cessation_rationale",
+      "date": "2019",
+      "text": "After the one-time USD 20 special dividend paid in April 2019, Constellation did not declare further special dividends through the rest of the window. The company's stated reasoning for using capital for acquisitions rather than further special dividends centers on its confidence in deploying retained capital at high returns; Mark Leonard has been quoted characterizing dividends as a signal about capital deployment capacity: 'The dividend is clearly a signal about capital deployment. If we thought that we could deploy this capital at high rates of return, we would have kept it.'",
+      "source_url": "https://excelsiorcapital.substack.com/p/mark-leonards-constellation-software",
+      "source_title": "Mark Leonard's Constellation Software Inc. (CSI): The Great Serial Acquirer - Excelsior Capital",
+      "confidence": "third_party",
+      "note": "This quote and rationale were surfaced via a synthesized search answer combining several substack/investor-letter sources; the exact original primary source (which shareholder letter or interview) for the quoted sentence could not be independently pinned down in this environment. Treat as third_party and unverified as to the precise origin of the quote."
+    },
+    {
+      "item": "non_cash_special_distribution_2023",
+      "date": "2023-08",
+      "text": "In August 2023 Constellation Software announced a 'warrant dividend' (declared August 16, 2023) and separately declared a dividend and filed a final prospectus in relation to a previously announced rights offering of Series 1 Debentures (August 24, 2023). These were non-cash special distributions (warrants / debentures) rather than a cash special dividend per share, so they are recorded here as events rather than under dividends_per_share_special.",
+      "source_url": "https://www.globenewswire.com/news-release/2023/8/16/2726016/0/en/Constellation-Software-Inc-Announces-Declaration-of-Warrant-Dividend.html",
+      "source_title": "Constellation Software Inc. Announces Declaration of Warrant Dividend",
+      "confidence": "company",
+      "note": "Related release: https://www.globenewswire.com/news-release/2023/08/24/2730791/0/en/Constellation-Software-Inc-Declares-Dividend-and-Files-Final-Prospectus-in-Relation-to-Previously-Announced-Rights-Offering-of-Series-1-Debentures.html"
+    },
+    {
+      "item": "roic_plus_organic_pct_narrative",
+      "date": "2018",
+      "text": "Foreign-exchange-adjusted organic net revenue growth (excluding US Healthcare businesses) was reported at approximately 4% in each of FY2015, FY2016, FY2017 and FY2018, per a third-party synthesis of Constellation's shareholder letters; the company has described its combined ROIC-plus-organic-growth metric as a proxy for the annual increase in shareholder value and reported keeping it at or above 30% for more than a decade.",
+      "source_url": "https://bizalmanac.substack.com/p/a-better-combined-ratio",
+      "source_title": "A Better Combined Ratio - by Andy - bizalmanac",
+      "confidence": "third_party",
+      "note": "Qualitative/narrative corroboration for the roic_plus_organic_pct figures above; does not provide a full clean year-by-year numeric table for the entire 2006-2025 window."
+    }
+  ],
+  "gaps": [
+    "share_price_cad_year_end: no reliable Dec 31 closing price (in CAD) could be confirmed via WebSearch for any of FY2006 through FY2025. WebSearch returns only links and short synthesized summaries for macrotrends.net, stockanalysis.com, Yahoo Finance, Barchart, digrin.com, and companiesmarketcap.com; none of these returned an actual historical year-end price figure in the snippet text despite numerous query reformulations (queries tried included: 'macrotrends Constellation Software CSU.TO stock price history year end', 'Constellation Software CSU.TO stock price December 31 2012 2013 close', 'macrotrends Constellation Software CNSWF stock price history annual 2007 2008 2009 2010 closing price', '\"Constellation Software\" stock price 2008 low $6 financial crisis 2009 recovery', 'Constellation Software Annual Information Form market for securities high low close price range', 'Constellation Software stock price 2015 2016 2017 2018 year end close CSU.TO', 'Constellation Software all-time high stock price record CAD 2021 2022 2023 news article', 'Constellation Software stock price $2,000/$3,000/$1,000 per share CAD milestone article'). WebFetch and curl are disabled in this environment per the intake spec, so the identified pages (especially macrotrends' 'Constellation Software - 15 Year Stock Price History' and stockanalysis.com's CSU history page, and the company's own Annual Information Forms which contain a 'Market for Securities' quarterly high/low/close table) could not be opened directly to extract the table values. Nearby data points that WERE surfaced (not equivalent to a Dec 31 close, so not recorded as figures): IPO price C$17.00 and first-day close C$18.30 in May 2006 (see ipo event); all-time high closing price C$3,703.43 on May 8, 2025; a quoted 'current' closing price of C$2,278.90 as of August 28, 2026; 52-week range C$2,196.00-C$5,015.00 mentioned in a 2026-dated snippet.",
+    "IPO price (C$17.00) and first-day close (C$18.30) could not be tied to one single, individually-verified source page; recorded as an event with confidence third_party and a caveat, not as a clean sourced figure. Should be re-verified directly against Constellation's short-form IPO prospectus (https://www.csisoftware.com/docs/default-source/press-releases/csi-final-prospectus-eng.pdf) once page fetching is available.",
+    "shares_outstanding: only FY2025 (21,191,530 shares) was confirmed with a traceable source. FY2006 through FY2024 shares outstanding were not confirmed; searches ('Constellation Software shares outstanding 21,190,000 annual report', 'Constellation Software shares outstanding 2006 2008 2010 annual report 20 million common shares', 'Constellation Software shares outstanding 2015 2019 2021 annual report 21.1 million') returned only links to MacroTrends' 'Shares Outstanding 2018-2026' page and other aggregator pages without the underlying yearly figures in the snippet text.",
+    "dividends_per_share_regular: no source-backed figure found for FY2006-FY2011 (before the USD 1.00 quarterly regular dividend began in 2012, per the task brief) and no individually confirmed press release for FY2012, FY2016, FY2017, and FY2021 specifically (though the USD 1.00 quarterly rate is well evidenced as unchanged across the surrounding years 2013-2015, 2018-2020, 2022-2025, so it is very likely also 4.00 USD in these gap years, this was not separately confirmed with its own source URL for each of those years).",
+    "dividends_per_share_special: the task brief states there were special dividends before 2019 in addition to the USD 20 special declared for FY2018/paid 2019, but repeated targeted searches (queries included 'Constellation Software dividend history special dividend USD 20 2019', 'Constellation Software special dividend 2013 2016 2017 declared per share', 'Constellation Software special dividend history 2010 2012 US$ per share declared', '\"Constellation Software\" \"special dividend\" globenewswire 2013 OR 2014 OR 2016 OR 2017 declares', 'Constellation Software 2013 special dividend $1.35 OR $2.00 per share declared globenewswire', 'Constellation Software list of special dividends 2010 2013 2016 2017 2019 history summary total') did not surface the amount, declaration date, or press release for any special dividend prior to the FY2018-declared/2019-paid USD 20.00 special dividend. This is a confirmed gap, not a confirmation that no earlier special dividends existed.",
+    "ipo_growth_target outcome: could not confirm from search results whether Constellation actually met or missed its stated 2006-2010 objective of 20% per annum growth in Net Revenues per share and Adjusted EBITDA per share. One search snippet only confirmed that management viewed the target as 'challenging, but achievable' in intermediate years, without a final tally.",
+    "roic_plus_organic_pct: a full year-by-year table for FY2006-FY2025 was not found. Only FY2016 (qualitative: organic growth 1%, ROIC depressed by excess cash) and FY2017 (ROIC 29%, ROIC+OGr approximately 33%) were surfaced, both from one third-party source (bizalmanac.substack.com), which also asserts the combined metric was kept at or above 30% for 'more than ten years' without naming which specific years or giving exact percentages for each.",
+    "hurdle_rate_policy interview date: the inpractise.com article date used (2021) is an approximation inferred from context, not confirmed directly; should be re-verified against the article's actual publish date.",
+    "special_dividend_cessation_rationale: the quoted rationale attributed to Mark Leonard ('The dividend is clearly a signal about capital deployment...') could not be traced to one single, confirmed primary source (letter, interview, or transcript) within the available search results; it surfaced only in a synthesized multi-source search answer.",
+    "2011 strategic-review announcement URL: the csisoftware.com press-release URL returned by search for 'CONSTELLATION SOFTWARE INC. TO EVALUATE STRATEGIC ALTERNATIVES' carries a /2019/01/21/ date path even though the event itself occurred in April 2011; this is presumed to be a site re-platforming/re-indexing artifact and was not independently verified.",
+    "Year end CAD share prices 2006 to 2025: not retrievable in this environment. WebSearch snippets do not carry historical closes and both WebFetch and curl are blocked by the network egress proxy (tested by Fable on companiesmarketcap.com, EGRESS_BLOCKED). Total return is therefore anchored to the IPO price and aggregate third party return figures only."
+  ]
+}
