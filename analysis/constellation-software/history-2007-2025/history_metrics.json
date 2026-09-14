@@ -1,7 +1,7 @@
 {
   "company": "Constellation Software Inc.",
   "generated_from": "history_ledger.json",
-  "generated_at": "2026-09-14T12:41:42",
+  "generated_at": "2026-09-14T12:49:23",
   "annual": {
     "FY2007": {
       "revenue_growth_pct": {
@@ -2600,15 +2600,15 @@
         }
       },
       "cash_metric_per_share_cagr_pct": {
-        "value": 17.52,
+        "value": null,
         "formula": "(cash_metric_per_share[end]/cash_metric_per_share[start])^(1/n_years) - 1",
         "inputs": {
-          "cash_metric[start]": 463,
-          "cash_metric[end]": 883,
+          "start (adjusted_net_income)": 463,
+          "end (fcfa2s)": 883,
           "shares_outstanding[start]": 21.19,
-          "shares_outstanding[end]": 21.19,
-          "n_years": 4
-        }
+          "shares_outstanding[end]": 21.19
+        },
+        "note": "null: missing start and end years use different cash-metric definitions (adjusted_net_income vs fcfa2s), not a valid CAGR basis"
       },
       "avg_organic_growth_pct": {
         "value": 1.8,

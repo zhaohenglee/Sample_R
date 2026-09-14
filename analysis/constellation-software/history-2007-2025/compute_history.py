@@ -299,6 +299,12 @@ for era in ERA_DEFS:
     for key, label, v0, v1 in [("revenue_per_share_cagr_pct", "revenue", r0, r1),
                                 ("cfo_per_share_cagr_pct", "cfo", c0, c1),
                                 ("cash_metric_per_share_cagr_pct", "cash_metric", cm0, cm1)]:
+        if key == "cash_metric_per_share_cagr_pct" and cm0 and cm1 and lab0 != lab1:
+            e[key] = null_metric("(cash_metric_per_share[end]/cash_metric_per_share[start])^(1/n_years) - 1",
+                                  {f"start ({lab0})": cm0, f"end ({lab1})": cm1,
+                                   "shares_outstanding[start]": s0, "shares_outstanding[end]": s1},
+                                  f"start and end years use different cash-metric definitions ({lab0} vs {lab1}), not a valid CAGR basis")
+            continue
         if v0 and v1 and s0 and s1 and n > 0:
             ps0, ps1 = v0 / s0, v1 / s1
             e[key] = computed(round((cagr(ps0, ps1, n) or 0) * 100, 2),
