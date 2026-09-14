@@ -1,0 +1,30 @@
+{
+  "stage": "0 Scope",
+  "date": "2026-09-14",
+  "designed_by": "Fable 5.1 at the user's explicit request",
+  "company": "Constellation Software Inc.",
+  "ticker": "TSX: CSU (OTC: CNSWF)",
+  "reporting_currency": "USD",
+  "fiscal_year_end": "December 31",
+  "question": "A fundamental analysis of Constellation Software from its 2006 listing through FY2025: what the business did each year, how it performed on revenue, organic growth, profit, cash, capital deployed and per share value, how the strategy changed across eras, and what the record says about the compounding engine.",
+  "relationship_to_prior_work": "The first report (../report.md) answered the entry price question. The second (../long-term-hold/report.md) answered the ten year hold question and analysed the holding companies. This one supplies the long history both of them lacked: their company sourced FCFA2S record started at FY2018 and their organic growth record at FY2015. Reuse ../ledger.json for FY2022 to FY2025 and ../long-term-hold/holdings.json parent_long_run for what it already holds; do not recompute those.",
+  "years": ["FY2007","FY2008","FY2009","FY2010","FY2011","FY2012","FY2013","FY2014","FY2015","FY2016","FY2017","FY2018","FY2019","FY2020","FY2021","FY2022","FY2023","FY2024","FY2025"],
+  "eras": [
+    {"name": "Listing and proving the model", "years": "2006 to 2011", "questions": "IPO targets of 20 percent annual revenue and EBITDA per share growth for 2006 to 2010; were they met; early operating groups; Trapeze, Harris, Jonas, Volaris origins"},
+    {"name": "Scaling and returning capital", "years": "2012 to 2016", "questions": "Start of the regular dividend in 2012; TSS acquisition 2013 (largest to date); special dividends; the 2015 to 2016 organic slowdown; the strategic review in 2011 and its outcome"},
+    {"name": "Larger deals and looser hurdles", "years": "2017 to 2021", "questions": "Leonard stops writing letters (2018); 2019 special dividend of USD 20 and the decision to stop specials; 2021 letter on lower hurdle rates for large deals; Topicus spin out January 2021; COVID year organic growth; Allscripts announced 2022"},
+    {"name": "Big deals and succession", "years": "2022 to 2025", "questions": "Allscripts 2022, Lumine spin out and WideOrbit 2023, Black Knight Empower and Optimal Blue 2023, organic growth decline in 2024, Leonard resigns as President September 2025, Mark Miller appointed"}
+  ],
+  "metrics_per_year": ["revenue", "revenue_growth_pct", "organic_growth_pct", "organic_growth_fx_adj_pct", "maintenance_recurring_revenue", "adjusted_ebita", "adjusted_ebita_margin", "net_income_attributable", "adjusted_net_income", "diluted_eps", "cash_from_operations", "fcfa2s", "acquisitions_cash_spent", "acquisition_count", "shares_outstanding", "dividends_per_share_regular", "dividends_per_share_special", "share_price_cad_year_end", "employees", "roic_pct", "roic_plus_organic_pct"],
+  "cash_view": "Where the data allows, show for each year: net income, cash from operations, FCFA2S or adjusted net income as the company's own cash proxy, acquisitions cash spent, and the resulting cash after acquisitions. Label amortization of acquired intangibles as accounting only and acquisitions as the real reinvestment, following the three bucket framing agreed with the user.",
+  "deliverables": ["stage1/*.json intake by era", "history_ledger.json (year by metric, sourced)", "compute_history.py, history_metrics.json, history_metrics.xlsx", "findings/eras.md, findings/year_by_year.md, findings/cash_and_capital.md", "report.md and report.html with an executive summary by Fable 5.1", "review.md"],
+  "data_limitations": "WebSearch only. Annual results press releases for each year are the primary target; they state revenue, net income, adjusted EBITA, adjusted net income, cash from operations, organic growth, acquisitions spent, and dividends. FCFA2S was introduced as a reported metric in the mid 2010s; before that adjusted net income is the company's cash proxy and must be labelled as such, never mixed. Every figure carries a source URL and a confidence grade. Gaps are written as gap.",
+  "routing": {
+    "stage0": "Fable 5.1",
+    "stage1_intake": "Sonnet 5 low, five parallel sweeps (four era windows plus one events, dividends and share price sweep), 30 searches each. Sonnet rather than Haiku because Haiku failed the parent history sweep in the prior project.",
+    "stage2_3": "Sonnet 5 low, normalise and script compute",
+    "stage4": "Opus 5 xhigh, three findings files",
+    "stage5": "Sonnet 5 medium, report and html",
+    "stage6": "Fable 5.1, review and executive summary"
+  }
+}
