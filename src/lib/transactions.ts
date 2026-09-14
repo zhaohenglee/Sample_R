@@ -307,6 +307,42 @@ export type TransactionListParams = {
   to?: string;
 };
 
+// Raw query parameters as a page or a route handler receives them: Next
+// hands a page `string | string[]`, a URL hands single strings.
+export type RawListParams = Record<string, string | string[] | undefined>;
+
+const LIST_ID_RE = /^\d{1,9}$/;
+
+function firstValue(v: string | string[] | undefined): string | undefined {
+  const s = Array.isArray(v) ? v[0] : v;
+  return s === undefined || s === "" ? undefined : s;
+}
+
+// Turns raw query parameters into filters, ignoring anything malformed
+// rather than rejecting it. Two reasons this is shared rather than done at
+// each call site:
+//
+// - A bad id used to reach Number() and a bad date used to reach the date
+//   predicate, so `?account=abc` answered 500. Filters are user-typed URL
+//   text; the worst a wrong one should do is not filter.
+// - The page and the export must agree about what a URL means. When each
+//   read the parameters itself they disagreed on repeated ones
+//   (`?q=a&q=b` filtered on "a,b" in one and "a" in the other). A repeated
+//   parameter now takes its first value in both.
+export function normalizeTransactionListParams(raw: RawListParams): TransactionListParams {
+  const account = firstValue(raw.account);
+  const category = firstValue(raw.category);
+  const from = firstValue(raw.from);
+  const to = firstValue(raw.to);
+  return {
+    q: firstValue(raw.q)?.trim() || undefined,
+    account: account && LIST_ID_RE.test(account) ? account : undefined,
+    category: category === "none" || (category && LIST_ID_RE.test(category)) ? category : undefined,
+    from: from && isValidCalendarDate(from) ? from : undefined,
+    to: to && isValidCalendarDate(to) ? to : undefined,
+  };
+}
+
 // Not-removed rows on a non-hidden account, narrowed by whichever of the
 // five filters were given. Exported separately from transactionListQuery so
 // a caller that needs a differently-shaped select (or a count) can still

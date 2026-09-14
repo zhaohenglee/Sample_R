@@ -2,7 +2,7 @@ import { eq } from "drizzle-orm";
 import { requireAuthPage } from "@/lib/auth";
 import { db, schema } from "@/db";
 import { accountLabel } from "@/lib/format";
-import { transactionListQuery } from "@/lib/transactions";
+import { transactionListQuery, normalizeTransactionListParams } from "@/lib/transactions";
 import { TransactionsTable } from "@/components/TransactionsTable";
 import { ManualTransactionForm } from "@/components/ManualTransactionForm";
 
@@ -21,7 +21,10 @@ export default async function TransactionsPage({ searchParams }: { searchParams:
   // so the two can never disagree about which rows match these params, or
   // in what order -- the export just reads every matching row instead of
   // paginating.
-  const rows = await transactionListQuery(p).limit(PAGE).offset((page - 1) * PAGE);
+  // Same normalization the export route uses, so the two always agree
+  // about what a given URL means and a malformed filter is ignored.
+  const filters = normalizeTransactionListParams(p);
+  const rows = await transactionListQuery(filters).limit(PAGE).offset((page - 1) * PAGE);
 
   const accountRows = await db
     .select({ id: accounts.id, name: accounts.name, nickname: accounts.nickname, mask: accounts.mask })

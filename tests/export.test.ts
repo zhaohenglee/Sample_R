@@ -7,7 +7,9 @@ import { encrypt } from "@/lib/crypto";
 import { parseCsv } from "@/lib/csv";
 import { sessionToken } from "@/lib/auth";
 import { transactionListQuery } from "@/lib/transactions";
-import { buildBackup, transactionsToCsv, type ExportTransactionRow } from "@/lib/export";
+import { buildBackup, backupTables, BACKUP_SECRET_COLUMNS, transactionsToCsv, type BackupItemRow, type ExportTransactionRow } from "@/lib/export";
+import { getTableColumns, is } from "drizzle-orm";
+import { PgTable } from "drizzle-orm/pg-core";
 
 const { items, accounts, transactions, categories } = schema;
 
@@ -49,7 +51,7 @@ describe("transactionsToCsv", () => {
     const csv = transactionsToCsv(rows);
     const parsed = parseCsv(csv);
 
-    expect(parsed.headers).toEqual(["Date", "Description", "Account", "Category", "Amount", "Notes", "Pending", "Source"]);
+    expect(parsed.headers).toEqual(["Date", "Description", "Account", "Category", "Amount (negative = money out)", "Notes", "Pending", "Source"]);
     expect(parsed.rows).toHaveLength(1);
     const fields = parsed.rows[0].fields;
     expect(fields[0]).toBe("2026-01-05");
@@ -177,6 +179,74 @@ describe("export rows match the transactions page's filters exactly", () => {
 // Secrets never leave the database via the JSON backup
 // ---------------------------------------------------------------------------
 
+describe("shared filter guards", () => {
+  async function seed() {
+    const [item] = await db.insert(items).values({ plaidItemId: "item-guards", accessTokenEnc: encrypt("tok") }).returning();
+    const [account] = await db
+      .insert(accounts)
+      .values({ itemId: item.id, plaidAccountId: "acc-guards", name: "Checking", type: "depository", hidden: false })
+      .returning();
+    await db.insert(transactions).values([
+      { accountId: account.id, plaidTransactionId: "g-1", date: "2026-03-01", amount: "4.50", name: "Coffee Shop" },
+      { accountId: account.id, plaidTransactionId: "g-2", date: "2026-03-01", amount: "9.00", name: "Coffee Beans" },
+      { accountId: account.id, plaidTransactionId: "g-3", date: "2026-03-01", amount: "12.00", name: "Hardware Store" },
+      { accountId: account.id, plaidTransactionId: "g-4", date: "2026-02-01", amount: "20.00", name: "Grocery" },
+      // Enough same-date rows that an unspecified order matching descending
+      // id by luck is not a plausible way for this test to pass.
+      ...Array.from({ length: 20 }, (_, i) => ({
+        accountId: account.id,
+        plaidTransactionId: `g-tie-${i}`,
+        date: "2026-03-01",
+        amount: "1.00",
+        name: `Tie ${i}`,
+      })),
+    ]);
+    return account;
+  }
+
+  // Finding from validation: deleting the search filter entirely left the
+  // suite green, because the one test using `q` also passed account and
+  // category, and those alone already narrowed the fixture to one row.
+  // Without it every filtered export returns the whole ledger.
+  it("the search filter alone narrows the result", async () => {
+    await seed();
+    const all = await transactionListQuery({});
+    const searched = await transactionListQuery({ q: "coffee" });
+    expect(all).toHaveLength(24);
+    expect(searched).toHaveLength(2);
+    for (const row of searched) {
+      expect(row.name.toLowerCase()).toContain("coffee");
+    }
+  });
+
+  // Finding from validation: removing the desc(id) tie-breaker left the
+  // suite green because the ordering test's rows had distinct dates.
+  // Without it, ordering across same-date rows is unspecified, which breaks
+  // both the "same order" criterion and LIMIT/OFFSET pagination stability
+  // (rows can repeat or vanish between pages).
+  //
+  // This asserts the generated SQL rather than the returned order, on
+  // purpose. Behaviourally the tie-breaker is nearly untestable here:
+  // Postgres happens to return these rows in descending id anyway, so a
+  // result-order assertion passes with the tie-breaker deleted, even with
+  // twenty-odd same-date rows. Unspecified is not the same as wrong, and a
+  // test that cannot fail is worse than none.
+  it("orders by date then id, so same-date rows have a defined order", async () => {
+    const { sql: text } = transactionListQuery({}).toSQL();
+    const orderBy = text.slice(text.lastIndexOf("order by"));
+    expect(orderBy).toContain('"date" desc');
+    expect(orderBy).toContain('"id" desc');
+  });
+
+  it("returns same-date rows in descending id order", async () => {
+    await seed();
+    const sameDate = await transactionListQuery({ from: "2026-03-01", to: "2026-03-01" });
+    expect(sameDate).toHaveLength(23);
+    const ids = sameDate.map((r) => r.id);
+    expect(ids).toEqual([...ids].sort((a, b) => b - a));
+  });
+});
+
 describe("buildBackup", () => {
   it("never includes access_token_enc anywhere in the serialized payload", async () => {
     const encryptedToken = encrypt("plaid-access-token-should-never-leave-the-db");
@@ -189,7 +259,8 @@ describe("buildBackup", () => {
     const backup = await buildBackup();
     // Sanity check first: the item really is in the backup, so the
     // assertions below aren't vacuously true because the table was empty.
-    expect(backup.items.some((i) => i.institutionName === "Test Bank")).toBe(true);
+    const backupItems = backup.items as BackupItemRow[];
+    expect(backupItems.some((i) => i.institutionName === "Test Bank")).toBe(true);
 
     // Assert on the WHOLE serialized payload, not one field -- a future
     // column added anywhere in the schema (renamed, or on a different
@@ -199,6 +270,41 @@ describe("buildBackup", () => {
     expect(serialized).not.toContain("accessTokenEnc");
     expect(serialized).not.toContain("access_token_enc");
   });
+
+  // Finding from validation: the backup silently omitted `goals` the moment
+  // that table was added, and a user restoring from it would have lost every
+  // goal with nothing to notice. The table list is now derived from the
+  // schema; this asserts the derivation actually covers everything, so the
+  // next table cannot go missing the same way.
+  it("covers every table in the schema", async () => {
+    const backup = await buildBackup();
+    const schemaTables = Object.entries(schema)
+      .filter(([, value]) => is(value, PgTable))
+      .map(([name]) => name);
+
+    expect(schemaTables.length).toBeGreaterThan(0);
+    for (const name of schemaTables) {
+      expect(Object.keys(backup)).toContain(name);
+    }
+  });
+
+  // The secret exclusion is a denylist, which fails open for a credential
+  // column added later. This walks every column of every table and fails on
+  // any name that reads like one, so adding it forces a decision rather than
+  // quietly shipping it in a plain text backup.
+  it("no table has a credential-looking column outside the denylist", () => {
+    const suspicious = /token|secret|password|passwd|credential|apikey|api_key|private_?key/i;
+    const offenders: string[] = [];
+    for (const [tableName, table] of backupTables()) {
+      for (const column of Object.keys(getTableColumns(table))) {
+        if (suspicious.test(column) && !BACKUP_SECRET_COLUMNS.has(column)) {
+          offenders.push(`${tableName}.${column}`);
+        }
+      }
+    }
+    expect(offenders).toEqual([]);
+  });
+
 });
 
 // ---------------------------------------------------------------------------

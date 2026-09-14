@@ -88,12 +88,20 @@ export function requiredMonthlyContribution(params: {
   targetDate: string | null; // YYYY-MM-DD
   today: string; // YYYY-MM-DD
 }): number | null {
+  // Exported as a general purpose pure function, so it guards its own
+  // inputs rather than relying on validateGoalInput having run. Without
+  // this a malformed date or a non-finite amount returns NaN, which reaches
+  // a money display as "$NaN" with nothing to show where it came from.
+  if (!Number.isFinite(params.targetAmount) || !Number.isFinite(params.currentAmount)) return null;
   const remaining = round2(params.targetAmount - params.currentAmount);
   if (remaining <= 0) return 0;
   if (params.targetDate === null) return null;
 
   const [todayYear, todayMonth] = params.today.slice(0, 7).split("-").map(Number);
   const [targetYear, targetMonth] = params.targetDate.slice(0, 7).split("-").map(Number);
+  // A malformed date string yields NaN here, which would propagate into the
+  // returned figure. Refuse rather than display it.
+  if (![todayYear, todayMonth, targetYear, targetMonth].every(Number.isFinite)) return null;
   const diff = (targetYear - todayYear) * 12 + (targetMonth - todayMonth);
   const monthsRemaining = diff < 1 ? 1 : diff;
   return round2(remaining / monthsRemaining);
@@ -298,4 +306,15 @@ export async function updateGoal(id: number, input: Partial<GoalInput>): Promise
 export async function deleteGoal(id: number): Promise<Goal | null> {
   const [row] = await db.delete(goals).where(eq(goals.id, id)).returning();
   return row ?? null;
+}
+
+// The fraction of the bar to fill, 0 to 100. The bar clamps because a
+// wider-than-full bar is just a broken layout; the percentage text beside
+// it does not, because "250%" is real information about an over-funded goal
+// and rounding it down to "100%" would be a lie the user cannot see past.
+// Extracted from the component so the clamp is testable: with it living
+// only in JSX, removing it left every goals test green.
+export function progressBarWidth(percent: number): number {
+  if (!Number.isFinite(percent)) return 0;
+  return Math.max(0, Math.min(percent, 100));
 }

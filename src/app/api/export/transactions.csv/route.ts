@@ -1,6 +1,6 @@
 import { requireAuthApi } from "@/lib/auth";
 import { streamCsv, transactionsToCsv } from "@/lib/export";
-import { transactionListQuery, type TransactionListParams } from "@/lib/transactions";
+import { normalizeTransactionListParams, transactionListQuery, type RawListParams } from "@/lib/transactions";
 
 // GET /api/export/transactions.csv?q=&account=&category=&from=&to=
 //
@@ -13,16 +13,16 @@ export async function GET(req: Request) {
   const denied = await requireAuthApi();
   if (denied) return denied;
 
+  // Shared with the page so the two cannot disagree about what a URL means,
+  // and so a malformed filter is ignored rather than answering 500.
   const url = new URL(req.url);
-  const params: TransactionListParams = {
-    q: url.searchParams.get("q") ?? undefined,
-    account: url.searchParams.get("account") ?? undefined,
-    category: url.searchParams.get("category") ?? undefined,
-    from: url.searchParams.get("from") ?? undefined,
-    to: url.searchParams.get("to") ?? undefined,
-  };
+  const raw: RawListParams = {};
+  for (const key of ["q", "account", "category", "from", "to"]) {
+    const values = url.searchParams.getAll(key);
+    if (values.length > 0) raw[key] = values;
+  }
 
-  const rows = await transactionListQuery(params);
+  const rows = await transactionListQuery(normalizeTransactionListParams(raw));
   const csv = transactionsToCsv(rows);
 
   return new Response(streamCsv(csv), {

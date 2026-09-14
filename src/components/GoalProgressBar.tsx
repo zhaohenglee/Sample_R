@@ -1,9 +1,10 @@
-// Progress is capped at 100% for the bar's width and the percent label --
-// display only. The caller's underlying numbers (percent, remaining) are
-// never clamped, so an over-funded goal still reports its true amount
-// elsewhere on the page; this component only controls how it *looks*.
+// The bar's width is capped at 100%; the percentage text rendered beside it
+// by the caller is not. See progressBarWidth in src/lib/goals.ts for why,
+// and for the clamp itself, which lives there so it can be tested.
+import { progressBarWidth } from "@/lib/goals";
+
 export function GoalProgressBar({ percent }: { percent: number }) {
-  const displayPercent = Math.max(0, Math.min(percent, 100));
+  const displayPercent = progressBarWidth(percent);
   return (
     <div className="h-2 w-full overflow-hidden rounded-full bg-gray-100">
       <div

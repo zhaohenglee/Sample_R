@@ -19,6 +19,7 @@ import {
   goalsWithProgress,
   goalProgress,
   requiredMonthlyContribution,
+  progressBarWidth,
 } from "@/lib/goals";
 
 const { items, accounts, goals } = schema;
@@ -437,5 +438,24 @@ describe("goals routes, authenticated", () => {
       params: Promise.resolve({ id: "abc" }),
     });
     expect(res.status).toBe(400);
+  });
+});
+
+describe("progressBarWidth", () => {
+  // The clamp lived only in JSX, so removing it left every goals test
+  // green. It is a pure function now precisely so this can fail.
+  it("clamps the bar to 100 percent without clamping the caller's number", () => {
+    expect(progressBarWidth(250)).toBe(100);
+    expect(progressBarWidth(100)).toBe(100);
+    expect(progressBarWidth(42.5)).toBe(42.5);
+  });
+
+  it("never returns a negative width", () => {
+    expect(progressBarWidth(-30)).toBe(0);
+  });
+
+  it("returns 0 rather than a broken width for a non-finite percent", () => {
+    expect(progressBarWidth(Number.NaN)).toBe(0);
+    expect(progressBarWidth(Number.POSITIVE_INFINITY)).toBe(0);
   });
 });
