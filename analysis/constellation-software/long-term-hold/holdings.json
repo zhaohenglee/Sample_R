@@ -996,21 +996,29 @@
           }
         },
         "revenue": {
-          "Q4 2024": {
-            "value": 2703,
-            "unit": "million CAD",
-            "period": "Q4 2024",
-            "source_url": "https://velaapx.com/constellation-software-inc-announces-results-for-q4-and-year-ended-december-31-2024/",
-            "confidence": "company",
-            "note": "FLAGGED, not resolved: source is a Constellation Software Inc. parent results release, not a Vela-specific disclosure. Value and growth figures resemble Constellation's own consolidated Q4 2024 metrics rather than a Vela operating-group figure. This pattern echoes the Perseus misattribution in stage1 KNOWN_ISSUES item 1, but Vela was not listed in KNOWN_ISSUES.md, so the figure is carried as sourced rather than excluded; treat with caution."
-          },
-          "Q4 2023": {
-            "value": 2323,
-            "unit": "million CAD",
-            "period": "Q4 2023",
-            "source_url": "https://velaapx.com/constellation-software-inc-announces-results-for-q4-and-year-ended-december-31-2024/",
-            "confidence": "company",
-            "note": "Same caveat as Q4 2024 revenue: source is a Constellation Software Inc. parent results release, not confirmed Vela-specific."
+          "value": null,
+          "unit": "gap",
+          "period": null,
+          "source_url": null,
+          "confidence": "misattributed",
+          "note": "Set to gap by Fable review 2026-09-14: the stage1 Q4 2024 and Q4 2023 revenue figures (2,703 and 2,323) are Constellation parent quarterly figures sourced to a parent earnings release, not Vela disclosures. Same treatment as Perseus and as the Vela organic growth fields.",
+          "prior_entry": {
+            "Q4 2024": {
+              "value": 2703,
+              "unit": "million CAD",
+              "period": "Q4 2024",
+              "source_url": "https://velaapx.com/constellation-software-inc-announces-results-for-q4-and-year-ended-december-31-2024/",
+              "confidence": "company",
+              "note": "FLAGGED, not resolved: source is a Constellation Software Inc. parent results release, not a Vela-specific disclosure. Value and growth figures resemble Constellation's own consolidated Q4 2024 metrics rather than a Vela operating-group figure. This pattern echoes the Perseus misattribution in stage1 KNOWN_ISSUES item 1, but Vela was not listed in KNOWN_ISSUES.md, so the figure is carried as sourced rather than excluded; treat with caution."
+            },
+            "Q4 2023": {
+              "value": 2323,
+              "unit": "million CAD",
+              "period": "Q4 2023",
+              "source_url": "https://velaapx.com/constellation-software-inc-announces-results-for-q4-and-year-ended-december-31-2024/",
+              "confidence": "company",
+              "note": "Same caveat as Q4 2024 revenue: source is a Constellation Software Inc. parent results release, not confirmed Vela-specific."
+            }
           }
         },
         "organic_growth_pct": {
