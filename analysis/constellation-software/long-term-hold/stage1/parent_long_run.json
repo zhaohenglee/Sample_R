@@ -1,0 +1,580 @@
+{
+  "holding": "Constellation Software Inc. (parent)",
+  "type": "parent",
+  "search_count": 30,
+  "figures": [
+    {
+      "item": "revenue",
+      "period": "FY2016",
+      "value": 2130,
+      "unit": "USD millions",
+      "source_url": "https://www.macrotrends.net/stocks/charts/CNSWF/constellation-software/revenue",
+      "source_title": "Constellation Software Revenue 2018-2026",
+      "confidence": "third_party"
+    },
+    {
+      "item": "revenue",
+      "period": "FY2017",
+      "value": 2480,
+      "unit": "USD millions",
+      "source_url": "https://www.macrotrends.net/stocks/charts/CNSWF/constellation-software/revenue",
+      "source_title": "Constellation Software Revenue 2018-2026",
+      "confidence": "third_party"
+    },
+    {
+      "item": "revenue",
+      "period": "FY2018",
+      "value": 3060,
+      "unit": "USD millions",
+      "source_url": "https://www.macrotrends.net/stocks/charts/CNSWF/constellation-software/revenue",
+      "source_title": "Constellation Software Revenue 2018-2026",
+      "confidence": "third_party"
+    },
+    {
+      "item": "revenue",
+      "period": "FY2019",
+      "value": 3490,
+      "unit": "USD millions",
+      "source_url": "https://www.macrotrends.net/stocks/charts/CNSWF/constellation-software/revenue",
+      "source_title": "Constellation Software Revenue 2018-2026",
+      "confidence": "third_party"
+    },
+    {
+      "item": "revenue",
+      "period": "FY2020",
+      "value": 3970,
+      "unit": "USD millions",
+      "source_url": "https://www.macrotrends.net/stocks/charts/CNSWF/constellation-software/revenue",
+      "source_title": "Constellation Software Revenue 2018-2026",
+      "confidence": "third_party"
+    },
+    {
+      "item": "revenue",
+      "period": "FY2021",
+      "value": 5110,
+      "unit": "USD millions",
+      "source_url": "https://www.macrotrends.net/stocks/charts/CNSWF/constellation-software/revenue",
+      "source_title": "Constellation Software Revenue 2018-2026",
+      "confidence": "third_party"
+    },
+    {
+      "item": "revenue",
+      "period": "FY2022",
+      "value": 6622,
+      "unit": "USD millions",
+      "source_url": "https://www.globenewswire.com/news-release/2024/03/06/2841834/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2023-and-Declares-Quarterly-Dividend.html",
+      "source_title": "Constellation Software Inc. Q4 2023 Earnings",
+      "confidence": "company"
+    },
+    {
+      "item": "revenue",
+      "period": "FY2023",
+      "value": 8407,
+      "unit": "USD millions",
+      "source_url": "https://www.globenewswire.com/news-release/2024/03/06/2841834/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2023-and-Declares-Quarterly-Dividend.html",
+      "source_title": "Constellation Software Inc. Q4 2023 Earnings",
+      "confidence": "company"
+    },
+    {
+      "item": "revenue",
+      "period": "FY2024",
+      "value": 10066,
+      "unit": "USD millions",
+      "source_url": "https://www.csisoftware.com/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2024-and-declares-quarterly-dividend/",
+      "source_title": "Constellation Software Inc. Q4 2024 Earnings",
+      "confidence": "company"
+    },
+    {
+      "item": "revenue",
+      "period": "FY2025",
+      "value": 11623,
+      "unit": "USD millions",
+      "source_url": "https://www.globenewswire.com/news-release/2026/03/09/3251696/0/en/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2025-and-declares-quarterly-dividend.html",
+      "source_title": "Constellation Software Inc. Q4 2025 Earnings",
+      "confidence": "company"
+    },
+    {
+      "item": "organic_growth_pct",
+      "period": "FY2015-FY2018",
+      "value": 4,
+      "unit": "percent, FX-adjusted, excluding US Healthcare vertical",
+      "source_url": "https://seekingalpha.com/article/4255039-constellation-software-and-sustainability-of-above-average-roics",
+      "source_title": "Constellation Software: Above-Average ROICs Analysis",
+      "confidence": "third_party"
+    },
+    {
+      "item": "acquisitions_cash_spent",
+      "period": "FY2022",
+      "value": 1600,
+      "unit": "USD millions",
+      "source_url": "https://thecompoundingtortoise.substack.com/p/constellation-software-two-strong",
+      "source_title": "Constellation Software - FCF Catalysts Analysis",
+      "confidence": "third_party"
+    },
+    {
+      "item": "acquisitions_deal_count",
+      "period": "FY2012",
+      "value": 7,
+      "unit": "deals",
+      "source_url": "https://nicoper.substack.com/p/4-constellation-acquisitions-2022",
+      "source_title": "Constellation Acquisitions Analysis",
+      "confidence": "third_party"
+    },
+    {
+      "item": "acquisitions_deal_count",
+      "period": "FY2015",
+      "value": 3,
+      "unit": "deals",
+      "source_url": "https://nicoper.substack.com/p/4-constellation-acquisitions-2022",
+      "source_title": "Constellation Acquisitions Analysis",
+      "confidence": "third_party"
+    },
+    {
+      "item": "acquisitions_deal_count",
+      "period": "FY2019",
+      "value": 3,
+      "unit": "deals",
+      "source_url": "https://nicoper.substack.com/p/4-constellation-acquisitions-2022",
+      "source_title": "Constellation Acquisitions Analysis",
+      "confidence": "third_party"
+    },
+    {
+      "item": "acquisitions_average_per_year",
+      "period": "FY2020-FY2025",
+      "value": 1.2,
+      "unit": "deals per year average",
+      "source_url": "https://tracxn.com/d/acquisitions/acquisitions-by-constellation-software/__YaRluimuGqgVfqr0Xhgb2dPWiMKnmgzXPcPNPni5Ssg",
+      "source_title": "Tracxn - Constellation Software Acquisitions",
+      "confidence": "third_party"
+    },
+    {
+      "item": "roic_pct",
+      "period": "FY2010",
+      "value": 25,
+      "unit": "percent",
+      "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/presidents-letter/shareholder-letter---2010.pdf",
+      "source_title": "Constellation Software 2010 Shareholder Letter",
+      "confidence": "company"
+    },
+    {
+      "item": "roic_pct",
+      "period": "Q2 2026 (annualized)",
+      "value": 10.97,
+      "unit": "percent",
+      "source_url": "https://www.gurufocus.com/term/roic/CNSWF",
+      "source_title": "GuruFocus - Constellation Software ROIC",
+      "confidence": "third_party"
+    },
+    {
+      "item": "share_price_usd",
+      "period": "2025 year high",
+      "value": 3720.42,
+      "unit": "CAD (May 8, 2025)",
+      "source_url": "https://www.stockopedia.com/share-prices/constellation-software-TSE:CSU/",
+      "source_title": "Stockopedia - CSU Share Price",
+      "confidence": "third_party"
+    },
+    {
+      "item": "share_price_usd",
+      "period": "2025 year end (December 23)",
+      "value": 2428.01,
+      "unit": "CAD",
+      "source_url": "https://www.macrotrends.net/stocks/charts/CNSWF/constellation-software/stock-price-history",
+      "source_title": "MacroTrends - CSU Stock Price History",
+      "confidence": "third_party"
+    },
+    {
+      "item": "fcfa2s",
+      "period": "FY2018",
+      "value": 559,
+      "unit": "USD millions",
+      "source_url": "https://www.globenewswire.com/news-release/2020/02/13/1984977/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2019-and-Declares-Quarterly-Dividend.html",
+      "source_title": "Constellation Software Inc. Announces Results for the Fourth Quarter and Year Ended December 31, 2019 and Declares Quarterly Dividend",
+      "confidence": "company",
+      "note": "Stated as prior-year comparative in the FY2019 release: FCFA2S of $590M for 2019 vs $559M for 2018."
+    },
+    {
+      "item": "fcfa2s",
+      "period": "FY2019",
+      "value": 590,
+      "unit": "USD millions",
+      "source_url": "https://www.globenewswire.com/news-release/2020/02/13/1984977/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2019-and-Declares-Quarterly-Dividend.html",
+      "source_title": "Constellation Software Inc. Announces Results for the Fourth Quarter and Year Ended December 31, 2019 and Declares Quarterly Dividend",
+      "confidence": "company",
+      "note": "6% increase over FY2018 FCFA2S of $559M."
+    },
+    {
+      "item": "fcfa2s",
+      "period": "FY2020",
+      "value": 989,
+      "unit": "USD millions",
+      "source_url": "https://www.globenewswire.com/news-release/2021/02/12/2175170/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2020-and-Declares-Quarterly-Dividend.html",
+      "source_title": "Constellation Software Inc. Announces Results for the Fourth Quarter and Year Ended December 31, 2020 and Declares Quarterly Dividend",
+      "confidence": "company",
+      "note": "Increase of $399M (68%) over FY2019 FCFA2S of $590M."
+    },
+    {
+      "item": "fcfa2s",
+      "period": "FY2021",
+      "value": 883,
+      "unit": "USD millions",
+      "source_url": "https://www.globenewswire.com/news-release/2022/02/10/2383319/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2021-and-Declares-Quarterly-Dividend.html",
+      "source_title": "Constellation Software Inc. Announces Results for the Fourth Quarter and Year Ended December 31, 2021 and Declares Quarterly Dividend",
+      "confidence": "company",
+      "note": "Decrease of $106M (11%) from FY2020 FCFA2S of $989M; company attributed the decrease mainly to the TSS/IRGA membership liability revaluation charge and non-controlling interests related to the Topicus.com B.V. purchase."
+    },
+    {
+      "item": "cash_flow_from_operations",
+      "period": "FY2015",
+      "value": 395.9,
+      "unit": "USD millions",
+      "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/statutory-filings/sr_q4_2015.pdf",
+      "source_title": "Constellation Software Inc. FINANCIAL REPORT Fourth Quarter Fiscal Year 2015",
+      "confidence": "company"
+    },
+    {
+      "item": "cash_flow_from_operations",
+      "period": "FY2016",
+      "value": 490.9,
+      "unit": "USD millions",
+      "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/statutory-filings/mda_q4_2016.pdf",
+      "source_title": "Constellation Software Inc. Management's Discussion and Analysis Q4 2016",
+      "confidence": "company"
+    },
+    {
+      "item": "cash_flow_from_operations",
+      "period": "FY2018",
+      "value": 662.0,
+      "unit": "USD millions",
+      "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/statutory-filings/csi-mda-q4-2018.pdf",
+      "source_title": "Constellation Software Inc. Management's Discussion and Analysis Q4 2018",
+      "confidence": "company"
+    },
+    {
+      "item": "cash_flow_from_operations",
+      "period": "FY2019",
+      "value": 767,
+      "unit": "USD millions",
+      "source_url": "https://www.globenewswire.com/news-release/2021/02/12/2175170/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2020-and-Declares-Quarterly-Dividend.html",
+      "source_title": "Constellation Software Inc. Announces Results for the Fourth Quarter and Year Ended December 31, 2020 and Declares Quarterly Dividend",
+      "confidence": "company",
+      "note": "Stated as prior-year comparative in the FY2020 release: CFO of $1,186M for 2020 vs $767M for 2019 (55% increase)."
+    },
+    {
+      "item": "cash_flow_from_operations",
+      "period": "FY2020",
+      "value": 1186,
+      "unit": "USD millions",
+      "source_url": "https://www.globenewswire.com/news-release/2021/02/12/2175170/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2020-and-Declares-Quarterly-Dividend.html",
+      "source_title": "Constellation Software Inc. Announces Results for the Fourth Quarter and Year Ended December 31, 2020 and Declares Quarterly Dividend",
+      "confidence": "company"
+    },
+    {
+      "item": "acquisitions_cash_spent",
+      "period": "FY2015",
+      "value": 248.8,
+      "unit": "USD millions, aggregate including holdback payments on prior acquisitions",
+      "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/statutory-filings/sr_q4_2015.pdf",
+      "source_title": "Constellation Software Inc. FINANCIAL REPORT Fourth Quarter Fiscal Year 2015",
+      "confidence": "company"
+    },
+    {
+      "item": "acquisitions_cash_spent",
+      "period": "FY2016",
+      "value": 178.1,
+      "unit": "USD millions, aggregate including holdback payments on prior acquisitions",
+      "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/statutory-filings/mda_q4_2016.pdf",
+      "source_title": "Constellation Software Inc. Management's Discussion and Analysis Q4 2016",
+      "confidence": "company"
+    },
+    {
+      "item": "acquisitions_cash_spent",
+      "period": "FY2018",
+      "value": 603,
+      "unit": "USD millions",
+      "source_url": "https://www.globenewswire.com/news-release/2019/02/14/1725078/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2018-and-Declares-Quarterly-and-Special-Dividends.html",
+      "source_title": "Constellation Software Inc. Announces Results for the Fourth Quarter and Year Ended December 31, 2018 and Declares Quarterly and Special Dividends",
+      "confidence": "company"
+    },
+    {
+      "item": "acquisitions_cash_spent",
+      "period": "FY2019",
+      "value": 549,
+      "unit": "USD millions, aggregate cash consideration including acquired cash",
+      "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/statutory-filings/2019-annual-information-form---final.pdf",
+      "source_title": "Constellation Software Inc. Annual Information Form, March 27, 2020",
+      "confidence": "third_party",
+      "note": "WebSearch synthesis did not return a single confirmed primary quote; total consideration including an estimated $139M of deferred payments was reported as approximately $688M. Exact source document not independently confirmed in this session -- verify against the AIF or FY2019 MD&A directly."
+    },
+    {
+      "item": "acquisitions_cash_spent",
+      "period": "FY2020",
+      "value": 179,
+      "unit": "USD millions, aggregate cash consideration including acquired cash",
+      "source_url": "https://www.globenewswire.com/news-release/2021/02/12/2175170/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2020-and-Declares-Quarterly-Dividend.html",
+      "source_title": "Constellation Software Inc. Announces Results for the Fourth Quarter and Year Ended December 31, 2020 and Declares Quarterly Dividend",
+      "confidence": "third_party",
+      "note": "WebSearch summary attributed this figure to FY2020 disclosures but did not quote it directly from the release text; verify against the FY2020 shareholder report or MD&A."
+    },
+    {
+      "item": "acquisitions_cash_spent",
+      "period": "FY2021",
+      "value": 1337,
+      "unit": "USD millions, aggregate including holdback payments, net of $33 million additional subscription received by Ijssel related to the Topicus.com B.V. acquisition",
+      "source_url": "https://www.csisoftware.com/docs/default-source/press-releases/csi---mda-q4-2021---final.pdf?sfvrsn=9cb2f077_3/+CSI---MDA-Q4-2021---Final+.pdf",
+      "source_title": "Constellation Software Inc. Management's Discussion and Analysis Q4 2021",
+      "confidence": "company",
+      "note": "Sharp increase from FY2020 driven mainly by the Topicus.com B.V. acquisition completed January 5, 2021."
+    },
+    {
+      "item": "organic_growth_pct",
+      "period": "FY2015",
+      "value": -3,
+      "unit": "percent, full year vs. 2014",
+      "source_url": "https://www.globenewswire.com/news-release/2016/02/17/1061530/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2015-and-Declares-Quarterly-Dividend.html",
+      "source_title": "Constellation Software Inc. Announces Results for the Fourth Quarter and Year Ended December 31, 2015 and Declares Quarterly Dividend",
+      "confidence": "company",
+      "note": "Q4 2015 organic growth was 0%. US dollar appreciation reduced public sector organic growth rates by an approximate 5% (quarter) and 6% (year)."
+    },
+    {
+      "item": "organic_growth_pct",
+      "period": "FY2016",
+      "value": 0,
+      "unit": "percent, full year vs. 2015, as reported",
+      "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/statutory-filings/mda_q4_2016.pdf",
+      "source_title": "Constellation Software Inc. Management's Discussion and Analysis Q4 2016",
+      "confidence": "company",
+      "note": "1% after adjusting for FX; 3% after adjusting for both FX and a comparative-period hardware sales spike in the public sector transit vertical."
+    },
+    {
+      "item": "organic_growth_pct",
+      "period": "FY2017",
+      "value": 3,
+      "unit": "percent, full year vs. 2016, as reported and FX-adjusted",
+      "source_url": "https://www.globenewswire.com/news-release/2018/02/14/1348408/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2017-and-Declares-Quarterly-Dividend.html",
+      "source_title": "Constellation Software Inc. Announces Results for the Fourth Quarter and Year Ended December 31, 2017 and Declares Quarterly Dividend",
+      "confidence": "company",
+      "note": "Q4 2017 organic growth was 7% as reported, 5% FX-adjusted."
+    },
+    {
+      "item": "organic_growth_pct",
+      "period": "FY2019",
+      "value": -1,
+      "unit": "percent, full year vs. 2018",
+      "source_url": "https://www.globenewswire.com/news-release/2020/02/13/1984977/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2019-and-Declares-Quarterly-Dividend.html",
+      "source_title": "Constellation Software Inc. Announces Results for the Fourth Quarter and Year Ended December 31, 2019 and Declares Quarterly Dividend",
+      "confidence": "company",
+      "note": "Q4 2019 organic growth was -3%."
+    },
+    {
+      "item": "organic_growth_pct",
+      "period": "FY2020",
+      "value": -3,
+      "unit": "percent, full year vs. 2019",
+      "source_url": "https://www.globenewswire.com/news-release/2021/02/12/2175170/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2020-and-Declares-Quarterly-Dividend.html",
+      "source_title": "Constellation Software Inc. Announces Results for the Fourth Quarter and Year Ended December 31, 2020 and Declares Quarterly Dividend",
+      "confidence": "company"
+    },
+    {
+      "item": "organic_growth_pct",
+      "period": "FY2021",
+      "value": 7,
+      "unit": "percent, full year vs. 2020, as reported",
+      "source_url": "https://www.globenewswire.com/news-release/2022/02/10/2383319/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2021-and-Declares-Quarterly-Dividend.html",
+      "source_title": "Constellation Software Inc. Announces Results for the Fourth Quarter and Year Ended December 31, 2021 and Declares Quarterly Dividend",
+      "confidence": "company",
+      "note": "5% after adjusting for FX, per third-party summary of the release; not independently re-verified against the primary text in this session."
+    },
+    {
+      "item": "special_dividend_per_share",
+      "period": "declared Feb 2019 with FY2018 results, paid April 5, 2019",
+      "value": 20.0,
+      "unit": "USD per share",
+      "source_url": "https://www.globenewswire.com/news-release/2019/02/14/1725078/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2018-and-Declares-Quarterly-and-Special-Dividends.html",
+      "source_title": "Constellation Software Inc. Announces Results for the Fourth Quarter and Year Ended December 31, 2018 and Declares Quarterly and Special Dividends",
+      "confidence": "company",
+      "note": "Declared alongside the regular $1.00/share quarterly dividend, both payable April 5, 2019. Company stated it had capital in excess of its needs and should return the excess to shareholders."
+    },
+    {
+      "item": "hurdle_rate_irr_pct",
+      "period": "long-run, as characterized by third-party research",
+      "value": 25,
+      "unit": "percent, approximate midpoint of a tiered 20-30% IRR target range (approximate)",
+      "source_url": "https://www.morningstar.com/company-reports/1494769-hurdle-rate-discipline-is-a-core-strength-of-constellations-acquisition-strategy",
+      "source_title": "Hurdle Rate Discipline Is a Core Strength of Constellation's Acquisition Strategy | Morningstar",
+      "confidence": "third_party",
+      "note": "Third-party synthesis describes a tiered hurdle: acquisitions under $1M of revenue targeted at a 30% IRR, over $4M at 20% IRR, and 25% IRR in between. Also reports that CSI has changed its hurdle rate three times in twenty years (one increase, two decreases)."
+    },
+    {
+      "item": "roic_plus_organic_growth_pct",
+      "period": "unspecified year(s), per Mark Leonard shareholder letters",
+      "value": 24,
+      "unit": "percent (approximate, company-stated KPI threshold)",
+      "source_url": "https://thedutchinvestors.substack.com/p/we-read-all-constellation-software",
+      "source_title": "We Read All Constellation Software Letters; Here's What We Learned",
+      "confidence": "third_party",
+      "note": "Quotes a Leonard letter: 'Achieving even 24% ROIC+OGr is non-trivial. We believe that less than 10% of public companies have been able to achieve this level of performance for an extended period.' Exact letter year not confirmed in this session."
+    },
+    {
+      "item": "shares_outstanding",
+      "period": "as of FY2025 (and reported as essentially unchanged for at least the prior couple of years)",
+      "value": 21191530,
+      "unit": "common shares",
+      "source_url": "https://stockanalysis.com/quote/tsx/CSU/statistics/",
+      "source_title": "Constellation Software (TSX:CSU) Statistics & Valuation Metrics",
+      "confidence": "third_party",
+      "note": "The exact year the share count first reached ~21.19 million is not established in this session; recorded as a gap."
+    },
+    {
+      "item": "employees",
+      "period": "as of December 31, 2022 (approximate)",
+      "value": 45000,
+      "unit": "employees, approximate",
+      "source_url": "https://www.reveliolabs.com/companies/constellation-software/employees/",
+      "source_title": "Constellation Software Number of Employees 2026 | Employee Count & Headcount Data",
+      "confidence": "third_party",
+      "note": "Aggregator-derived figure; internal consistency of the year-over-year math in the search summary could not be verified against a primary CSI filing. Treat as low confidence."
+    },
+    {
+      "item": "employees",
+      "period": "as of fiscal year-end 2024 (approximate)",
+      "value": 64000,
+      "unit": "employees, approximate",
+      "source_url": "https://www.macrotrends.net/stocks/charts/CNSWF/constellation-software/number-of-employees",
+      "source_title": "Constellation Software: Number of Employees 2018-2026 | CNSWF | MacroTrends",
+      "confidence": "third_party",
+      "note": "Aggregator-derived figure, not cross-checked against a primary CSI filing in this session."
+    }
+  ],
+  "facts": [
+    {
+      "item": "letters_discontinued",
+      "text": "Mark Leonard stopped writing annual President letters in 2018. He stated this was because the rest of the world caught on to Constellation's playbook, and sharing their hard-won tactics with competitors simply was not in the best interest of long-term shareholders.",
+      "period": "2018",
+      "source_url": "https://www.colinkeeley.com/blog/mark-leonard-constellation-software-operating-manual",
+      "source_title": "Mark Leonard Operating Manual Analysis",
+      "confidence": "third_party"
+    },
+    {
+      "item": "initial_ipo_targets",
+      "text": "At the time of initial public offering (early 2000s), Constellation Software established an objective of generating in excess of 20% average annual revenue growth per share and EBITDA growth per share for the period January 1, 2006 through December 31, 2010.",
+      "period": "2006-2010",
+      "source_url": "https://issuu.com/reqcapital/docs/investor_letter_2021/s/14445246",
+      "source_title": "Issuu - Mark Leonard Extraordinary CEO 2021 Letter",
+      "confidence": "third_party"
+    },
+    {
+      "item": "leadership_succession_2025",
+      "text": "On September 25, 2025, Constellation Software announced that Mark Leonard resigned as President for health reasons, effective immediately. Mark Miller, the Chief Operating Officer, was appointed as the new President by the Board of Directors.",
+      "period": "2025-09-25",
+      "source_url": "https://www.csisoftware.com/category/press-releases/2025/09/25/constellation-software-inc.-announces-the-resignation-of-mark-leonard-and-appointment-of-mark-miller-as-president-of-constellation-software",
+      "source_title": "Constellation Software - Mark Leonard Resignation & Mark Miller Appointment",
+      "confidence": "company"
+    },
+    {
+      "item": "leonard_board_departure",
+      "text": "On March 27, 2026, Constellation announced that Mark Leonard would not stand for re-election to the Board of Directors. However, Leonard continued to serve as an advisor to Constellation, focusing on supporting the company's Permanent Engaged Minority Shareholder (PEMS) strategy.",
+      "period": "2026-03-27",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/constellation-software-inc-announces-mark-233100714.html",
+      "source_title": "Yahoo Finance - Mark Leonard Board Departure",
+      "confidence": "company"
+    },
+    {
+      "item": "organic_growth_note",
+      "text": "Organic growth has been flat to negative in recent periods relative to the 4% FX-adjusted growth (excluding US Healthcare) achieved in 2015-2018. This reflects the company's shift to acquisition-driven growth as a primary strategy.",
+      "period": "2015-2026",
+      "source_url": "https://www.eaglepointcap.com/blog/constellation-software-the-anti-conglomerate",
+      "source_title": "Eagle Point Capital - Constellation Software Anti-Conglomerate",
+      "confidence": "third_party"
+    },
+    {
+      "item": "2021_letter_hurdle_rate_and_dividends",
+      "text": "In his 2021 letter, Mark Leonard said Constellation would stop paying special dividends and reinvest its free cash flow, even if that meant pursuing larger acquisitions at lower expected rates of return and moving into new industries, because he believed CSI could invest capital more effectively than most of its shareholders could on their own.",
+      "period": "2021",
+      "source_url": "https://www.marketscreener.com/quote/stock/CONSTELLATION-SOFTWARE-IN-1409607/news/Constellation-Software-2021-President-s-Letter-32446976/",
+      "source_title": "Constellation Software: 2021 President's Letter | MarketScreener",
+      "confidence": "third_party"
+    },
+    {
+      "item": "2021_letter_roic_math_on_larger_deals",
+      "text": "Leonard's letter reasoning: historically CSI targeted roughly 30% ROIC on acquisitions, but a single larger acquisition earning only 20% ROIC on $600 million of capital would generate as much annual cash as eight separate $50 million acquisitions at the higher hurdle rate -- an argument for lowering the hurdle rate to deploy more capital into bigger deals.",
+      "period": "2021",
+      "source_url": "https://www.marketscreener.com/quote/stock/CONSTELLATION-SOFTWARE-IN-1409607/news/Constellation-Software-2021-President-s-Letter-32446976/",
+      "source_title": "Constellation Software: 2021 President's Letter | MarketScreener",
+      "confidence": "third_party"
+    },
+    {
+      "item": "hurdle_rate_tiered_structure",
+      "text": "Third-party research describes a tiered IRR hurdle rate at CSI: approximately 30% for acquisitions under $1 million of revenue, 20% for those over $4 million, and 25% in between. The same research states CSI has changed its overall hurdle rate three times in twenty years (one increase, two decreases), and that lowering it dragged down the expected IRR of the whole subsequent acquisition pipeline.",
+      "period": "multi-year, as characterized in 2020s research",
+      "source_url": "https://www.morningstar.com/company-reports/1494769-hurdle-rate-discipline-is-a-core-strength-of-constellations-acquisition-strategy",
+      "source_title": "Hurdle Rate Discipline Is a Core Strength of Constellation's Acquisition Strategy | Morningstar",
+      "confidence": "third_party"
+    },
+    {
+      "item": "topicus_conditional_special_dividend_2020",
+      "text": "On November 17, 2020, Constellation Software provided an update on a previously declared conditional special dividend connected to the proposed Topicus.com spin-out, indicating the dividend was contingent on conditions tied to the spin-out.",
+      "period": "2020-11-17",
+      "source_url": "https://www.globenewswire.com/news-release/2020/11/17/2128311/0/en/Constellation-Software-Inc-Provides-Update-in-Connection-with-Proposed-Topicus-com-Spin-Out-and-Previously-Declared-Conditional-Dividend.html",
+      "source_title": "Constellation Software Inc Provides Update in Connection with Proposed Topicus.com Spin Out and Previously Declared Conditional Dividend",
+      "confidence": "company"
+    },
+    {
+      "item": "roic_plus_organic_growth_kpi",
+      "text": "Constellation Software's leadership treats 'ROIC + organic growth' as the core measure of capital allocation effectiveness: the cash return earned on invested capital added to the rate at which existing businesses grow on their own, treated as the annual increase in intrinsic shareholder value. One letter states: 'Achieving even 24% ROIC+OGr is non-trivial. We believe that less than 10% of public companies have been able to achieve this level of performance for an extended period.'",
+      "period": "unspecified year, per Leonard shareholder letters",
+      "source_url": "https://thedutchinvestors.substack.com/p/we-read-all-constellation-software",
+      "source_title": "We Read All Constellation Software Letters; Here's What We Learned",
+      "confidence": "third_party"
+    }
+  ],
+  "verticals": [
+    "Healthcare (US)",
+    "Vertical software markets (multiple)"
+  ],
+  "geographies": [
+    "North America",
+    "Europe"
+  ],
+  "notable_businesses": [],
+  "leadership": [
+    {
+      "name": "Mark Leonard",
+      "role": "Founder and President (through September 2025)",
+      "since": "1995 (approx)",
+      "background": "Built Constellation Software from a single business into a $11B+ revenue conglomerate focused on vertical market software acquisitions",
+      "source_url": "https://www.csisoftware.com/category/press-releases/2025/09/25/constellation-software-inc.-announces-the-resignation-of-mark-leonard-and-appointment-of-mark-miller-as-president-of-constellation-software"
+    },
+    {
+      "name": "Mark Miller",
+      "role": "President (September 2025 onwards)",
+      "since": "2025",
+      "background": "Previously Chief Operating Officer of Constellation Software",
+      "source_url": "https://www.csisoftware.com/category/press-releases/2025/09/25/constellation-software-inc.-announces-the-resignation-of-mark-leonard-and-appointment-of-mark-miller-as-president-of-constellation-software"
+    }
+  ],
+  "gaps": [
+    "Year-end share prices for 2015 and 2020 not found",
+    "Maintenance organic growth (disclosed separately from total organic growth) not found for 2015-2021",
+    "Headcount and number of business units by year not found",
+    "Specific share count and special dividends history (2019 and earlier) not found",
+    "Specific hurdle rate or IRR target statements for the 2015-2021 period not found (2006-2010 target of 20% AAGR found, but subsequent targets not located)",
+    "Ten-year TSR calculation not available (insufficient share price data for 2015 baseline)",
+    "Price to FCFA2S or EV to EBITDA ranges for the period not found",
+    "Individual acquisitions with prices and acquisition spending by year for 2015-2021 not found (only deal counts and aggregate 2022 spending located)",
+    "Mark Leonard President letters not accessed directly (confirmed he stopped writing in 2018, prior letters referenced but content not extracted)",
+    "Mark Miller background prior to CSU not found",
+    "FCFA2S and cash flows from operations for FY2015, FY2016, FY2017 individually not found (FY2015/2016 CFO found; FY2017 CFO and all three years' FCFA2S not located).",
+    "FY2017 cash spent on acquisitions and acquisition deal counts for FY2016-FY2021 (other than FY2015 and FY2019 approximate counts) not found.",
+    "FY2018 individual-year organic growth percent not found (only a FY2015-FY2018 aggregate 4% FX-adjusted figure, excluding US Healthcare, is on file).",
+    "Maintenance organic growth (disclosed separately from total organic growth) not found for any year 2015-2021.",
+    "Year-end CAD share price for December 31, 2015 and December 31, 2020 not found; WebSearch returned only links to price-history pages, not the closing prices themselves.",
+    "Exact date/year Constellation's share count first reached approximately 21.19 million (21,191,530) shares outstanding not found; current count confirmed but history is a gap.",
+    "Headcount by year is only available as low-confidence, unverified aggregator estimates for ~2022 (45,000) and ~2024 (64,000); no year-by-year primary-source headcount series found, and no figure near the ~25,000 in 2020 suggested by the task was found.",
+    "Number of business units/operating companies by year not found for any year in the 2015-2021 window.",
+    "Earlier special dividends before the 2019-declared (FY2018) $20/share special dividend, and any single explicit company statement that special dividends 'would stop' going forward, were not located verbatim; only third-party paraphrase of the 2021 letter's intent to stop special dividends was found.",
+    "Exact acquisitions cash spent figures for FY2019 ($549M) and FY2020 ($179M) came from WebSearch synthesis without a clearly identified primary-source quote; flagged third_party pending verification against the AIF/MD&A PDFs directly.",
+    "Year of the Leonard-letter quote 'Achieving even 24% ROIC+OGr is non-trivial...' not confirmed; recorded without a specific year.",
+    "30-search budget for this pass was fully used; remaining gaps above were not pursued further."
+  ]
+}
