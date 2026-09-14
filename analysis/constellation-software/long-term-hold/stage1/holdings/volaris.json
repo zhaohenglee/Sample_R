@@ -1,0 +1,513 @@
+{
+  "holding": "Volaris Group",
+  "type": "private operating group",
+  "search_count": 30,
+  "figures": [
+    {
+      "item": "Number of standalone software companies",
+      "period": "H1 2026",
+      "value": 240,
+      "unit": "companies",
+      "source_url": "https://www.volarisgroup.com/acquired-knowledge/volaris-groups-2026-mid-year-acquisition-update/",
+      "source_title": "Volaris Group's 2026 Mid-Year Acquisition Update",
+      "confidence": "company"
+    },
+    {
+      "item": "Employee count (Volaris Group)",
+      "period": "December 2025",
+      "value": 11704,
+      "unit": "employees",
+      "source_url": "https://www.reveliolabs.com/companies/volaris-group/employees/",
+      "source_title": "Volaris Group Number of Employees 2026 | Employee Count & Headcount Data",
+      "confidence": "third_party"
+    },
+    {
+      "item": "Total employees across portfolio businesses",
+      "period": "2025",
+      "value": 17500,
+      "unit": "approximate employees",
+      "source_url": "https://www.volarisgroup.com/acquired-knowledge/volaris-groups-2025-ma-year-in-review/",
+      "source_title": "Volaris Group's 2025 M&A Year in Review",
+      "confidence": "company"
+    },
+    {
+      "item": "Revenue (Volaris Group)",
+      "period": "FY 2026",
+      "value": 3400,
+      "unit": "million USD",
+      "source_url": "https://craft.co/volaris-group",
+      "source_title": "Volaris Group Company Profile - Office Locations, Competitors, Revenue, Financials, Employees, Key People, Subsidiaries | Craft.co",
+      "confidence": "third_party"
+    },
+    {
+      "item": "Revenue (Volaris Group)",
+      "period": "FY 2024",
+      "value": 3142,
+      "unit": "million USD",
+      "source_url": "https://www.globenewswire.com/news-release/2025/02/24/3031028/0/en/Volaris-Reports-Financial-Results-for-the-Fourth-Quarter-2024-Net-Income-of-46-million.html",
+      "source_title": "Volaris Reports Financial Results for the Fourth Quarter 2024: Net Income of $46 million",
+      "confidence": "third_party"
+    },
+    {
+      "item": "Revenue (Volaris Group)",
+      "period": "FY 2025",
+      "value": 3038,
+      "unit": "million USD",
+      "source_url": "https://www.globenewswire.com/news-release/2025/02/24/3031028/0/en/Volaris-Reports-Financial-Results-for-the-Fourth-Quarter-2024-Net-Income-of-46-million.html",
+      "source_title": "Volaris Reports Financial Results for the Fourth Quarter 2024: Net Income of $46 million",
+      "confidence": "third_party"
+    },
+    {
+      "item": "Number of vertical markets served",
+      "period": "2026",
+      "value": 40,
+      "unit": "vertical markets",
+      "source_url": "https://www.volarisgroup.com/about/",
+      "source_title": "About - Volaris Group",
+      "confidence": "company"
+    },
+    {
+      "item": "Countries of operation",
+      "period": "2025",
+      "value": 60,
+      "unit": "countries",
+      "source_url": "https://www.volarisgroup.com/about/",
+      "source_title": "About - Volaris Group",
+      "confidence": "company"
+    },
+    {
+      "item": "Acquisitions completed",
+      "period": "2023",
+      "value": 28,
+      "unit": "acquisitions",
+      "source_url": "https://www.volarisgroup.com/acquired-knowledge/2023-year-end-acquisition-summary/",
+      "source_title": "2023 Year-End Acquisition Summary",
+      "confidence": "company"
+    },
+    {
+      "item": "Acquisitions completed",
+      "period": "2024",
+      "value": 40,
+      "unit": "acquisitions (40+)",
+      "source_url": "https://www.volarisgroup.com/acquired-knowledge/volaris-groups-2024-year-in-review/",
+      "source_title": "2024 Year in Review - Volaris Group",
+      "confidence": "company"
+    },
+    {
+      "item": "Acquisitions completed",
+      "period": "2025",
+      "value": 30,
+      "unit": "acquisitions",
+      "source_url": "https://www.volarisgroup.com/acquired-knowledge/volaris-groups-2025-ma-year-in-review/",
+      "source_title": "Volaris Group's 2025 M&A Year in Review",
+      "confidence": "company"
+    },
+    {
+      "item": "Acquisitions completed",
+      "period": "H1 2026",
+      "value": 14,
+      "unit": "acquisitions",
+      "source_url": "https://www.volarisgroup.com/acquired-knowledge/volaris-groups-2026-mid-year-acquisition-update/",
+      "source_title": "Volaris Group's 2026 Mid-Year Acquisition Update",
+      "confidence": "company"
+    },
+    {
+      "item": "Hurdle rate for acquisitions (small deals)",
+      "period": "ongoing",
+      "value": 30,
+      "unit": "percent IRR",
+      "source_url": "https://inpractise.com/articles/constellation-software-competition-hurdle-rates-and-deal-flow",
+      "source_title": "Constellation Software: Competition, Hurdle Rates & Deal Flow | CSI Software | Interview | In Practise",
+      "confidence": "third_party",
+      "note": "For deals under $1M revenue; applies to Constellation and Volaris. Larger deals (over $4M revenue) target 20% IRR; mid-range ($1-4M) targets 25% IRR."
+    },
+    {
+      "item": "Vencora portfolio customers",
+      "period": "2024",
+      "value": 1300,
+      "unit": "clients",
+      "source_url": "https://www.volarisgroup.com/acquired-knowledge/vencora-emerges-with-a-vision-for-financial-services/",
+      "source_title": "Vencora Emerges with a Vision for Financial Services",
+      "confidence": "company"
+    },
+    {
+      "item": "Vencora portfolio geographies",
+      "period": "2024",
+      "value": 69,
+      "unit": "geographies",
+      "source_url": "https://www.volarisgroup.com/acquired-knowledge/vencora-emerges-with-a-vision-for-financial-services/",
+      "source_title": "Vencora Emerges with a Vision for Financial Services",
+      "confidence": "company"
+    },
+    {
+      "item": "Vencora portfolio employees",
+      "period": "2024",
+      "value": 1200,
+      "unit": "team members",
+      "source_url": "https://www.volarisgroup.com/acquired-knowledge/vencora-emerges-with-a-vision-for-financial-services/",
+      "source_title": "Vencora Emerges with a Vision for Financial Services",
+      "confidence": "company"
+    },
+    {
+      "item": "Vencora portfolio offices",
+      "period": "2024",
+      "value": 24,
+      "unit": "offices worldwide",
+      "source_url": "https://www.volarisgroup.com/acquired-knowledge/vencora-emerges-with-a-vision-for-financial-services/",
+      "source_title": "Vencora Emerges with a Vision for Financial Services",
+      "confidence": "company"
+    },
+    {
+      "item": "Omegro business units",
+      "period": "2024",
+      "value": 30,
+      "unit": "business units (30+)",
+      "source_url": "https://www.globenewswire.com/news-release/2024/06/25/2903650/0/en/Introducing-Omegro-A-Global-Collective-of-Technology-Businesses-Offering-a-Permanent-and-Safe-Home-to-Provide-Long-Term-Sustainable-Growth-for-the-World-s-Most-Impactful-Software-C.html",
+      "source_title": "Introducing Omegro: A Global Collective of Technology Businesses Offering a Permanent and Safe Home to Provide Long-Term Sustainable Growth for the World's Most Impactful Software Companies",
+      "confidence": "company"
+    },
+    {
+      "item": "Omegro customers",
+      "period": "2024",
+      "value": 15000,
+      "unit": "customers",
+      "source_url": "https://www.globenewswire.com/news-release/2024/06/25/2903650/0/en/Introducing-Omegro-A-Global-Collective-of-Technology-Businesses-Offering-a-Permanent-and-Safe-Home-to-Provide-Long-Term-Sustainable-Growth-for-the-World-s-Most-Impactful-Software-C.html",
+      "source_title": "Introducing Omegro: A Global Collective of Technology Businesses Offering a Permanent and Safe Home to Provide Long-Term Sustainable Growth for the World's Most Impactful Software Companies",
+      "confidence": "company"
+    },
+    {
+      "item": "Omegro employees",
+      "period": "2024",
+      "value": 2000,
+      "unit": "employees",
+      "source_url": "https://www.globenewswire.com/news-release/2024/06/25/2903650/0/en/Introducing-Omegro-A-Global-Collective-of-Technology-Businesses-Offering-a-Permanent-and-Safe-Home-to-Provide-Long-Term-Sustainable-Growth-for-the-World-s-Most-Impactful-Software-C.html",
+      "source_title": "Introducing Omegro: A Global Collective of Technology Businesses Offering a Permanent and Safe Home to Provide Long-Term Sustainable Growth for the World's Most Impactful Software Companies",
+      "confidence": "company"
+    },
+    {
+      "item": "Omegro offices",
+      "period": "2024",
+      "value": 40,
+      "unit": "offices",
+      "source_url": "https://www.globenewswire.com/news-release/2024/06/25/2903650/0/en/Introducing-Omegro-A-Global-Collective-of-Technology-Businesses-Offering-a-Permanent-and-Safe-Home-to-Provide-Long-Term-Sustainable-Growth-for-the-World-s-Most-Impactful-Software-C.html",
+      "source_title": "Introducing Omegro: A Global Collective of Technology Businesses Offering a Permanent and Safe Home to Provide Long-Term Sustainable Growth for the World's Most Impactful Software Companies",
+      "confidence": "company"
+    },
+    {
+      "item": "Omegro geographies",
+      "period": "2024",
+      "value": 70,
+      "unit": "countries",
+      "source_url": "https://www.globenewswire.com/news-release/2024/06/25/2903650/0/en/Introducing-Omegro-A-Global-Collective-of-Technology-Businesses-Offering-a-Permanent-and-Safe-Home-to-Provide-Long-Term-Sustainable-Growth-for-the-World-s-Most-Impactful-Software-C.html",
+      "source_title": "Introducing Omegro: A Global Collective of Technology Businesses Offering a Permanent and Safe Home to Provide Long-Term Sustainable Growth for the World's Most Impactful Software Companies",
+      "confidence": "company"
+    },
+    {
+      "item": "AI Center of Excellence developers completing training",
+      "period": "end of 2025",
+      "value": 400,
+      "unit": "developers",
+      "source_url": "https://www.volarisgroup.com/acquired-knowledge/turning-ai-insights-into-action/",
+      "source_title": "Turning AI Insights into Action",
+      "confidence": "company"
+    },
+    {
+      "item": "Vencora acquisition price: CREALOGIX",
+      "period": "2024",
+      "value": 84,
+      "unit": "million CHF",
+      "source_url": "https://www.linkedin.com/posts/volaris-group_vencora-acquires-crealogix-activity-7166448233626394624-0_Ku",
+      "source_title": "Volaris Group on LinkedIn: Vencora acquires CREALOGIX",
+      "confidence": "company"
+    },
+    {
+      "item": "Lumine acquisition price: Nokia Device Management",
+      "period": "Q1 2024",
+      "value": 185,
+      "unit": "million EUR",
+      "source_url": "https://www.luminegroup.com/newsroom/constellation-software-inc-and-lumine-group-inc-complete-purchase-of-wideorbit-inc-and-lumine-group-spin-out/",
+      "source_title": "Constellation Software Inc. and Lumine Group Inc. Complete Purchase of WideOrbit Inc. and Lumine Group Spin-Out - Lumine",
+      "confidence": "company"
+    }
+  ],
+  "facts": [
+    {
+      "item": "History and founding",
+      "text": "Trapeze Group, acquired by Constellation Software in July 1995, became Constellation's first acquisition. In 2011, Trapeze Group and related companies were reorganized under the name Volaris Group to reflect their expansion beyond public transit into other vertical markets.",
+      "period": "1995-2011",
+      "source_url": "https://www.volarisgroup.com/acquired-knowledge/30-years-of-reaching-higher-with-volaris-group/",
+      "source_title": "30 Years of Reaching Higher with Volaris Group",
+      "confidence": "company"
+    },
+    {
+      "item": "Lumine Group spin-out",
+      "text": "Lumine Group, Volaris' communications and media portfolio, completed its spin-out from Constellation Software in February 2023 to become a separate publicly traded company. The spin-out coincided with Lumine's acquisition of WideOrbit, which serves as the system of record for more than 5,000 stations and cable networks worldwide.",
+      "period": "February 2023",
+      "source_url": "https://www.luminegroup.com/newsroom/constellation-software-inc-and-lumine-group-inc-complete-purchase-of-wideorbit-inc-and-lumine-group-spin-out/",
+      "source_title": "Constellation Software Inc. and Lumine Group Inc. Complete Purchase of WideOrbit Inc. and Lumine Group Spin-Out - Lumine",
+      "confidence": "company"
+    },
+    {
+      "item": "Vencora launch",
+      "text": "Volaris Group launched Vencora in November 2022 as a new global division dedicated to acquiring and growing software and technology-enabled businesses serving the banking, insurance, and financial services industries.",
+      "period": "November 2022",
+      "source_url": "https://www.volarisgroup.com/press-room/volaris-group-launches-vencora/",
+      "source_title": "Volaris Group Launches Vencora",
+      "confidence": "company"
+    },
+    {
+      "item": "Omegro launch",
+      "text": "Omegro was formally introduced on June 25, 2024, as a global organization bringing together Volaris businesses supporting customers across all aspects of the supply chain and supporting ecosystem, offering warehousing & inventory control, ERP & CRM, fleet & logistics management, and asset maintenance software applications.",
+      "period": "June 2024",
+      "source_url": "https://www.globenewswire.com/news-release/2024/06/25/2903650/0/en/Introducing-Omegro-A-Global-Collective-of-Technology-Businesses-Offering-a-Permanent-and-Safe-Home-to-Provide-Long-Term-Sustainable-Growth-for-the-World-s-Most-Impactful-Software-C.html",
+      "source_title": "Introducing Omegro: A Global Collective of Technology Businesses Offering a Permanent and Safe Home to Provide Long-Term Sustainable Growth for the World's Most Impactful Software Companies",
+      "confidence": "company"
+    },
+    {
+      "item": "Mike Dufton appointed CEO",
+      "text": "Michael (Mike) Dufton was appointed Volaris Group CEO effective January 2024. Dufton had been Managing Director of the Dufton Portfolio inside Volaris Group and continues as CEO of Vencora.",
+      "period": "January 2024",
+      "source_url": "https://www.volarisgroup.com/press-room/volaris-group-announces-executive-appointments/",
+      "source_title": "Volaris Group Announces Executive Appointments",
+      "confidence": "company"
+    },
+    {
+      "item": "Mark Miller promoted to Constellation President",
+      "text": "Mark Miller transitioned from Volaris Group CEO to Executive Chairman of Volaris Group and was appointed President of Constellation Software in late 2025. Miller co-founded Trapeze Group in 1988 and has worked with Constellation, Volaris and its subsidiaries for more than 30 years.",
+      "period": "2024-2025",
+      "source_url": "https://www.csisoftware.com/constellation-software-inc-announces-appointment-of-mark-miller-to-its-board-of-directors/",
+      "source_title": "Constellation Software Inc. Announces Appointment of Mark Miller to its Board of Directors",
+      "confidence": "company"
+    },
+    {
+      "item": "Lifetime ownership philosophy",
+      "text": "Volaris Group has never sold a business since its inception. The company's philosophy of being 'Forever Invested' emphasizes long-term commitment to helping acquired companies achieve sustainability through autonomy, best practice sharing, and access to a global ecosystem of businesses.",
+      "period": "ongoing",
+      "source_url": "https://www.volarisgroup.com/",
+      "source_title": "Forever Invested - Volaris Group",
+      "confidence": "company"
+    },
+    {
+      "item": "Portfolio diversification milestone",
+      "text": "In 2023, Volaris Group's portfolio of standalone software companies officially passed the 200 mark. The company completed its largest transactions to date in 2023 and expanded into new vertical markets through acquisitions from 13 countries.",
+      "period": "2023",
+      "source_url": "https://www.volarisgroup.com/acquired-knowledge/2023-year-end-acquisition-summary/",
+      "source_title": "2023 Year-End Acquisition Summary",
+      "confidence": "company"
+    },
+    {
+      "item": "AI Center of Excellence establishment",
+      "text": "Volaris Group established an AI Center of Excellence in late 2024 comprised of AI champions led by VP of Integration and Strategy Jeff Chow. The center provides guidance to businesses exploring AI use cases and has developed structured learning programs including developer training, hackathons, and functional working groups.",
+      "period": "late 2024",
+      "source_url": "https://www.volarisgroup.com/ai-in-vms/",
+      "source_title": "AI Disruption is Reshaping Software | Volaris Group",
+      "confidence": "company"
+    },
+    {
+      "item": "AI Accelerator program launch",
+      "text": "Volaris Group is introducing the AI Accelerator in 2026, a program designed to rapidly help businesses upskill their teams and adapt their product visions for the new realities of AI adoption.",
+      "period": "2026",
+      "source_url": "https://www.volarisgroup.com/acquired-knowledge/volaris-developer-program/",
+      "source_title": "Volaris Developer Program: Moving Businesses Toward AI Enablement",
+      "confidence": "company"
+    },
+    {
+      "item": "Organic growth through initiatives",
+      "text": "Volaris Group grows its companies through sharing best practices accumulated from hundreds of acquisitions and through organic initiatives in product development. Business units retain autonomy while benefiting from support provided by a dedicated Strategy Team and access to benchmarks and best practices across the global network.",
+      "period": "ongoing",
+      "source_url": "https://fm.volarisgroup.com/about-volaris-group/empowering-organic-growth-through-supported-autonomy/",
+      "source_title": "Volaris Strategy Team: Empowering Growth Through Supported Autonomy",
+      "confidence": "company"
+    },
+    {
+      "item": "Geographic expansion into Asia-Pacific",
+      "text": "In 2025, Volaris Group marked its first acquisition in Japan with HeartCore and expanded its presence in Australia, Hong Kong, New Zealand, and Singapore, broadening its Asia-Pacific footprint.",
+      "period": "2025",
+      "source_url": "https://www.volarisgroup.com/acquired-knowledge/volaris-groups-2025-ma-year-in-review/",
+      "source_title": "Volaris Group's 2025 M&A Year in Review",
+      "confidence": "company"
+    }
+  ],
+  "verticals": [
+    "Transit / People Transportation",
+    "Asset Management",
+    "Financial Services",
+    "Communications & Media",
+    "Agri-food",
+    "Benefits Administration",
+    "Cultural Collections Management",
+    "Library Management",
+    "Insurance",
+    "Marine",
+    "Rental Management",
+    "Justice",
+    "Technology",
+    "Marketing Management",
+    "Education",
+    "Automotive",
+    "Fleet",
+    "Foodservice and Hospitality",
+    "Enterprise Asset Management",
+    "Healthcare",
+    "MarTech",
+    "Security",
+    "Software Development",
+    "Government Administration",
+    "Retail",
+    "Curbside Management",
+    "Public Safety",
+    "Traffic Management",
+    "Aviation / Airport",
+    "Supply Chain",
+    "Logistics",
+    "Inventory Control",
+    "ERP & CRM",
+    "Process Automation",
+    "Digital Banking",
+    "Digital Asset Management",
+    "Hospitality Technology"
+  ],
+  "geographies": [
+    "Canada",
+    "United States",
+    "Brazil",
+    "Germany",
+    "France",
+    "Switzerland",
+    "United Kingdom",
+    "Sweden",
+    "Australia",
+    "Hong Kong",
+    "New Zealand",
+    "Singapore",
+    "Japan",
+    "Multiple European countries",
+    "Latin America",
+    "Africa"
+  ],
+  "notable_businesses": [
+    {
+      "name": "Lumine Group",
+      "vertical": "Communications & Media",
+      "acquired": "spun out 2023",
+      "price": "undisclosed (purchased WideOrbit for system of record processing $35B+ advertising revenue annually)",
+      "source_url": "https://www.luminegroup.com/newsroom/constellation-software-inc-and-lumine-group-inc-complete-purchase-of-wideorbit-inc-and-lumine-group-spin-out/"
+    },
+    {
+      "name": "Vencora",
+      "vertical": "Financial Services, Banking, Insurance",
+      "acquired": "launched 2022",
+      "price": "undisclosed",
+      "source_url": "https://www.volarisgroup.com/press-room/volaris-group-launches-vencora/"
+    },
+    {
+      "name": "Omegro",
+      "vertical": "Supply Chain, Logistics, Inventory, ERP & CRM, Asset Maintenance",
+      "acquired": "launched 2024",
+      "price": "undisclosed",
+      "source_url": "https://www.globenewswire.com/news-release/2024/06/25/2903650/0/en/Introducing-Omegro-A-Global-Collective-of-Technology-Businesses-Offering-a-Permanent-and-Safe-Home-to-Provide-Long-Term-Sustainable-Growth-for-the-World-s-Most-Impactful-Software-C.html"
+    },
+    {
+      "name": "Modaxo",
+      "vertical": "People Transportation",
+      "acquired": "portfolio division",
+      "price": "undisclosed",
+      "source_url": "https://www.volarisgroup.com/portfolio/"
+    },
+    {
+      "name": "CREALOGIX",
+      "vertical": "Financial Services, Digital Banking",
+      "acquired": "2024",
+      "price": "CHF 84 million",
+      "source_url": "https://www.linkedin.com/posts/volaris-group_vencora-acquires-crealogix-activity-7166448233626394624-0_Ku"
+    },
+    {
+      "name": "Trapeze Group",
+      "vertical": "Transit / People Transportation",
+      "acquired": "1995",
+      "price": "Constellation Software's first acquisition",
+      "source_url": "https://www.volarisgroup.com/acquired-knowledge/30-years-of-reaching-higher-with-volaris-group/"
+    },
+    {
+      "name": "WideOrbit",
+      "vertical": "Communications & Media",
+      "acquired": "2023",
+      "price": "part of Lumine spin-out",
+      "source_url": "https://www.luminegroup.com/newsroom/constellation-software-inc-and-lumine-group-inc-complete-purchase-of-wideorbit-inc-and-lumine-group-spin-out/"
+    },
+    {
+      "name": "Nokia Device Management business",
+      "vertical": "Communications & Media",
+      "acquired": "2024",
+      "price": "approximately EUR 185 million",
+      "source_url": "https://www.luminegroup.com/newsroom/constellation-software-inc-and-lumine-group-inc-complete-purchase-of-wideorbit-inc-and-lumine-group-spin-out/"
+    },
+    {
+      "name": "Orkis",
+      "vertical": "Digital Asset Management, Government Administration",
+      "acquired": "2024",
+      "price": "undisclosed",
+      "source_url": "https://www.globenewswire.com/news-release/2024/12/03/2990525/0/en/Volaris-Group-Acquires-Orkis.html"
+    },
+    {
+      "name": "TADERA (Civix critical infrastructure division)",
+      "vertical": "Aviation / Airport",
+      "acquired": "2023",
+      "price": "undisclosed",
+      "source_url": "https://www.volarisgroup.com/acquired-knowledge/2023-year-end-acquisition-summary/"
+    }
+  ],
+  "leadership": [
+    {
+      "name": "Mike Dufton",
+      "role": "CEO of Volaris Group",
+      "since": "2024",
+      "background": "BBA in Sales & Marketing from Wilfrid Laurier University; more than a decade with Volaris Group; founded Vencora financial services division in 2022; previously Managing Director of Dufton Portfolio; continues as CEO of Vencora",
+      "source_url": "https://www.volarisgroup.com/press-room/volaris-group-announces-executive-appointments/"
+    },
+    {
+      "name": "Mark Miller",
+      "role": "Executive Chairman of Volaris Group; President of Constellation Software",
+      "since": "2024 (Volaris); 2025 (Constellation President)",
+      "background": "Co-founded Trapeze Group in 1988; over 30 years with Constellation, Volaris and subsidiaries; promoted from Volaris CEO to Executive Chairman in January 2024; became Constellation Software President in late 2025",
+      "source_url": "https://www.volarisgroup.com/team/mark-miller/"
+    },
+    {
+      "name": "Jeff Chow",
+      "role": "VP of Integration and Strategy; Leads AI Center of Excellence",
+      "since": "unknown",
+      "background": "Leads team of AI champions providing guidance on AI use cases and adoption; oversees developer training programs, hackathons, and functional working groups",
+      "source_url": "https://www.linkedin.com/in/jeffreykchow/"
+    },
+    {
+      "name": "Kevin Bradley",
+      "role": "Co-CEO of Omegro",
+      "since": "2024",
+      "background": "unknown",
+      "source_url": "https://www.globenewswire.com/news-release/2024/06/25/2903650/0/en/Introducing-Omegro-A-Global-Collective-of-Technology-Businesses-Offering-a-Permanent-and-Safe-Home-to-Provide-Long-Term-Sustainable-Growth-for-the-World-s-Most-Impactful-Software-C.html"
+    },
+    {
+      "name": "Troy O'Connor",
+      "role": "Co-CEO of Omegro",
+      "since": "2024",
+      "background": "unknown",
+      "source_url": "https://www.globenewswire.com/news-release/2024/06/25/2903650/0/en/Introducing-Omegro-A-Global-Collective-of-Technology-Businesses-Offering-a-Permanent-and-Safe-Home-to-Provide-Long-Term-Sustainable-Growth-for-the-World-s-Most-Impactful-Software-C.html"
+    }
+  ],
+  "gaps": [
+    "Specific acquisition prices for majority of deals (most acquisitions have undisclosed pricing)",
+    "Detailed breakdown of revenue by vertical market",
+    "Detailed breakdown of revenue by geographic region",
+    "Employee count by vertical market or region",
+    "Specific organic growth rates by segment",
+    "Attrition or employee turnover rates",
+    "Customer retention rates or churn metrics",
+    "Margin or profitability metrics by vertical",
+    "Specific details on other portfolio divisions beyond Vencora, Omegro, Modaxo, and Lumine",
+    "Details on predecessor acquisitions before 2023",
+    "Capital deployment or investment commitments for upcoming years",
+    "Specific AI product launches to date",
+    "Customer concentration metrics",
+    "Cross-selling or consolidation activities between acquired companies"
+  ]
+}

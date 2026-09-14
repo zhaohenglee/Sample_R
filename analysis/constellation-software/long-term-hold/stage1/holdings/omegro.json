@@ -1,0 +1,203 @@
+{
+  "holding": "Omegro",
+  "type": "verify status",
+  "search_count": 16,
+  "figures": [
+    {
+      "item": "business units",
+      "period": "2024-06-25",
+      "value": 30,
+      "unit": "count (minimum)",
+      "source_url": "https://finance.yahoo.com/news/introducing-omegro-global-collective-technology-110000662.html",
+      "source_title": "Introducing Omegro: A Global Collective of Technology Businesses",
+      "confidence": "company",
+      "note": "Stated as 'more than 30 business units'"
+    },
+    {
+      "item": "employees",
+      "period": "2024-06-25",
+      "value": 2000,
+      "unit": "count",
+      "source_url": "https://finance.yahoo.com/news/introducing-omegro-global-collective-technology-110000662.html",
+      "source_title": "Introducing Omegro: A Global Collective of Technology Businesses",
+      "confidence": "company"
+    },
+    {
+      "item": "customers",
+      "period": "2024-06-25",
+      "value": 15000,
+      "unit": "count",
+      "source_url": "https://finance.yahoo.com/news/introducing-omegro-global-collective-technology-110000662.html",
+      "source_title": "Introducing Omegro: A Global Collective of Technology Businesses",
+      "confidence": "company"
+    },
+    {
+      "item": "offices",
+      "period": "2024-06-25",
+      "value": 40,
+      "unit": "count",
+      "source_url": "https://finance.yahoo.com/news/introducing-omegro-global-collective-technology-110000662.html",
+      "source_title": "Introducing Omegro: A Global Collective of Technology Businesses",
+      "confidence": "company"
+    },
+    {
+      "item": "countries served",
+      "period": "2024-06-25",
+      "value": 70,
+      "unit": "count (minimum)",
+      "source_url": "https://finance.yahoo.com/news/introducing-omegro-global-collective-technology-110000662.html",
+      "source_title": "Introducing Omegro: A Global Collective of Technology Businesses",
+      "confidence": "company",
+      "note": "Stated as 'more than 70 countries'"
+    }
+  ],
+  "facts": [
+    {
+      "item": "status",
+      "text": "Omegro is a branded portfolio within Volaris Group, which is an operating group of Constellation Software Inc. It was formally launched on June 25, 2024, as a global collective of technology businesses from Volaris focused on permanent ownership and long-term sustainable growth.",
+      "period": "2024-06-25",
+      "source_url": "https://www.globenewswire.com/news-release/2024/06/25/2903650/0/en/Introducing-Omegro-A-Global-Collective-of-Technology-Businesses-Offering-A-Permanent-and-Safe-Home-to-Provide-Long-Term-Sustainable-Growth-for-the-World-s-Most-Impactful-Software-C.html",
+      "source_title": "Constellation Software Inc. Introduces Omegro",
+      "confidence": "company"
+    },
+    {
+      "item": "leadership structure",
+      "text": "Kevin Bradley and Troy O'Connor were named Co-CEOs at launch. Bradley is responsible for capital generation and O'Connor for capital deployment. Katie Mansell serves as Chief Financial Officer.",
+      "period": "2024-06-25",
+      "source_url": "https://finance.yahoo.com/news/introducing-omegro-global-collective-technology-110000662.html",
+      "source_title": "Introducing Omegro: A Global Collective of Technology Businesses",
+      "confidence": "company"
+    },
+    {
+      "item": "business verticals",
+      "text": "Omegro's businesses offer warehousing and inventory control, ERP and CRM, fleet and logistics management, asset maintenance, and process automation. In January 2026, Omegro announced a refined strategic focus on Enterprise Asset Management (EAM) software businesses.",
+      "period": "2024-06-25",
+      "source_url": "https://finance.yahoo.com/news/omegro-announces-renewed-strategic-focus-142900880.html",
+      "source_title": "Omegro Announces Renewed Strategic Focus on Enterprise Asset Management",
+      "confidence": "company"
+    },
+    {
+      "item": "Kevin Bradley background",
+      "text": "Bradley has led successful software businesses across financial services, supply chain, and FMCG sectors. He joined Constellation Software over a decade ago through acquisition and has acquired and grown multiple businesses, becoming an expert on best practices for running world-class software businesses.",
+      "period": "2024-06-25",
+      "source_url": "https://finance.yahoo.com/news/introducing-omegro-global-collective-technology-110000662.html",
+      "source_title": "Introducing Omegro: A Global Collective of Technology Businesses",
+      "confidence": "company"
+    },
+    {
+      "item": "Troy O'Connor background",
+      "text": "O'Connor has over 25 years in the software industry, starting in consulting before spending 10+ years as co-founder of a software business. He joined Constellation Software in 2017 via acquisition of Smartrak, where he was CEO. Smartrak provides location-based business intelligence and fleet management software.",
+      "period": "2024-06-25",
+      "source_url": "https://finance.yahoo.com/news/introducing-omegro-global-collective-technology-110000662.html",
+      "source_title": "Introducing Omegro: A Global Collective of Technology Businesses",
+      "confidence": "company"
+    },
+    {
+      "item": "operating philosophy",
+      "text": "Omegro is a buy-and-hold acquirer that never sells businesses, providing founders and professional CEOs with a permanent and safe home where they can continue their legacy and support permanent growth repeatable over the long term.",
+      "period": "2024-06-25",
+      "source_url": "https://www.globenewswire.com/news-release/2024/06/25/2903650/0/en/Introducing-Omegro-A-Global-Collective-of-Technology-Businesses-Offering-A-Permanent-and-Safe-Home-to-Provide-Long-Term-Sustainable-Growth-for-the-World-s-Most-Impactful-Software-C.html",
+      "source_title": "Constellation Software Inc. Introduces Omegro",
+      "confidence": "company"
+    }
+  ],
+  "verticals": [
+    "Warehousing and inventory control",
+    "ERP and CRM",
+    "Fleet and logistics management",
+    "Asset maintenance",
+    "Process automation",
+    "Enterprise Asset Management"
+  ],
+  "geographies": [
+    "70+ countries",
+    "North America",
+    "United Kingdom",
+    "Europe",
+    "Australia and New Zealand region"
+  ],
+  "notable_businesses": [
+    {
+      "name": "Smartrak",
+      "vertical": "Fleet and logistics management",
+      "acquired": "2017",
+      "price": "undisclosed",
+      "source_url": "https://omegro.com/resources/smartrak"
+    },
+    {
+      "name": "4R Systems",
+      "vertical": "Retail inventory planning",
+      "acquired": "2024",
+      "price": "undisclosed",
+      "source_url": "https://www.globenewswire.com/news-release/2024/11/19/2984040/0/en/Omegro-Expands-its-Presence-in-the-Retail-Vertical-with-the-Acquisition-of-4R-Systems.html"
+    },
+    {
+      "name": "Data Consulting",
+      "vertical": "ERP and municipal software",
+      "acquired": "2025",
+      "price": "undisclosed",
+      "source_url": "https://www.globenewswire.com/news-release/2025/01/21/3012579/0/en/Omegro-Acquires-Data-Consulting.html"
+    },
+    {
+      "name": "ResRequest",
+      "vertical": "Hospitality",
+      "acquired": "2025",
+      "price": "undisclosed",
+      "source_url": "https://www.adaptit.com/omegro-expands-its-presence-in-the-hospitality-vertical-with-acquisition-of-resrequest"
+    },
+    {
+      "name": "Verilocation",
+      "vertical": "Fleet management and telematics",
+      "acquired": "2025",
+      "price": "undisclosed",
+      "source_url": "https://www.globenewswire.com/news-release/2025/08/14/3133428/0/en/Omegro-Enters-the-UK-Fleet-Management-Vertical-with-the-Acquisition-of-Verilocation.html"
+    },
+    {
+      "name": "ClarityRFID",
+      "vertical": "Retail RFID inventory solutions",
+      "acquired": "2025",
+      "price": "undisclosed",
+      "source_url": "https://www.axios.com/pro/supply-chain-deals/2025/09/10/omegro-acquires-supply-chain-rfid-software-platform-clarity"
+    },
+    {
+      "name": "Quantum Inventions",
+      "vertical": "Asset management",
+      "acquired": "2024",
+      "price": "undisclosed",
+      "source_url": "https://omegro.com/en/news/omegro-acquires-quantum-inventions/"
+    }
+  ],
+  "leadership": [
+    {
+      "name": "Kevin Bradley",
+      "role": "Co-CEO (Capital Generation)",
+      "since": "2024",
+      "background": "Led software businesses across financial services, supply chain, and FMCG; joined Constellation Software over a decade ago and has acquired and grown multiple businesses",
+      "source_url": "https://finance.yahoo.com/news/introducing-omegro-global-collective-technology-110000662.html"
+    },
+    {
+      "name": "Troy O'Connor",
+      "role": "Co-CEO (Capital Deployment)",
+      "since": "2024",
+      "background": "25+ years in software industry; co-founder of software business; joined Constellation Software in 2017 as CEO of Smartrak after its acquisition",
+      "source_url": "https://finance.yahoo.com/news/introducing-omegro-global-collective-technology-110000662.html"
+    },
+    {
+      "name": "Katie Mansell",
+      "role": "Chief Financial Officer",
+      "since": "unknown",
+      "background": "Brings experience from previous roles at Volaris Group and SpecTec; described as dynamic leader in complex environments",
+      "source_url": "https://omegro.com/about-us/team-and-culture"
+    }
+  ],
+  "gaps": [
+    "No disclosure of annual revenue or profitability",
+    "No statements on AI strategy or AI-related product development",
+    "No explicit organic growth rate statements specific to Omegro",
+    "Acquisition prices not disclosed for any 2024-2025 deals",
+    "Specific country breakdown not available (only '70+ countries' stated)",
+    "Board composition and oversight structure not detailed",
+    "Capital allocation strategy and hurdle rates not disclosed",
+    "Number of customers per business unit breakdown not available"
+  ]
+}

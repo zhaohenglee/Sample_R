@@ -1,0 +1,405 @@
+{
+  "holding": "Vela Software",
+  "type": "private operating group",
+  "search_count": 30,
+  "figures": [
+    {
+      "item": "Founded year",
+      "period": "1995",
+      "value": 1995,
+      "unit": "year",
+      "source_url": "https://pitchbook.com/profiles/company/184869-73",
+      "source_title": "Vela (Business/Productivity Software) 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+      "confidence": "third_party"
+    },
+    {
+      "item": "Employee count",
+      "period": "March 2026",
+      "value": 3809,
+      "unit": "employees",
+      "source_url": "https://www.reveliolabs.com/companies/vela-software/employees",
+      "source_title": "Vela Software Number of Employees 2026 | Employee Count & Headcount Data | Revelio Labs",
+      "confidence": "third_party"
+    },
+    {
+      "item": "Employee count",
+      "period": "2023",
+      "value": 3901,
+      "unit": "employees",
+      "source_url": "https://www.reveliolabs.com/companies/vela-software/employees",
+      "source_title": "Vela Software Number of Employees 2026 | Employee Count & Headcount Data | Revelio Labs",
+      "confidence": "third_party"
+    },
+    {
+      "item": "Revenue growth rate",
+      "period": "Q4 2024",
+      "value": 16,
+      "unit": "percent growth",
+      "source_url": "https://velaapx.com/constellation-software-inc-announces-results-for-q4-and-year-ended-december-31-2024/",
+      "source_title": "Constellation Software Inc. Announces Results for 2024",
+      "confidence": "company"
+    },
+    {
+      "item": "Organic growth rate",
+      "period": "Q4 2024",
+      "value": 1,
+      "unit": "percent organic growth",
+      "source_url": "https://velaapx.com/constellation-software-inc-announces-results-for-q4-and-year-ended-december-31-2024/",
+      "source_title": "Constellation Software Inc. Announces Results for 2024",
+      "confidence": "company"
+    },
+    {
+      "item": "Organic growth rate after FX adjustment",
+      "period": "Q4 2024",
+      "value": 2,
+      "unit": "percent organic growth",
+      "source_url": "https://velaapx.com/constellation-software-inc-announces-results-for-q4-and-year-ended-december-31-2024/",
+      "source_title": "Constellation Software Inc. Announces Results for 2024",
+      "confidence": "company"
+    },
+    {
+      "item": "Q4 2024 revenue",
+      "period": "Q4 2024",
+      "value": 2703,
+      "unit": "million CAD",
+      "source_url": "https://velaapx.com/constellation-software-inc-announces-results-for-q4-and-year-ended-december-31-2024/",
+      "source_title": "Constellation Software Inc. Announces Results for 2024",
+      "confidence": "company"
+    },
+    {
+      "item": "Q4 2023 revenue",
+      "period": "Q4 2023",
+      "value": 2323,
+      "unit": "million CAD",
+      "source_url": "https://velaapx.com/constellation-software-inc-announces-results-for-q4-and-year-ended-december-31-2024/",
+      "source_title": "Constellation Software Inc. Announces Results for 2024",
+      "confidence": "company"
+    },
+    {
+      "item": "Total acquisitions completed",
+      "period": "as of January 2026",
+      "value": 20,
+      "unit": "acquisitions",
+      "source_url": "https://tracxn.com/d/acquisitions/acquisitions-by-vela-software/__yzOZxJ6TChmh2z_ensYCYoRywlBDIYxSffe18EoGh-E",
+      "source_title": "List of 20 Acquisitions by Vela Software (Jan 2026) - Tracxn",
+      "confidence": "third_party"
+    },
+    {
+      "item": "Acquisitions in 2024",
+      "period": "2024",
+      "value": 15,
+      "unit": "countries with acquisitions",
+      "source_url": "https://velasoftwaregroup.com/newsletter-q1-25-2024-year-in-review/",
+      "source_title": "Newsletter Q1/25 & 2024 Year in Review - Vela Software Group",
+      "confidence": "company"
+    },
+    {
+      "item": "Employee concentration United States",
+      "period": "2026",
+      "value": 22.6,
+      "unit": "percent of workforce",
+      "source_url": "https://www.reveliolabs.com/companies/vela-software/employees",
+      "source_title": "Vela Software Number of Employees 2026 | Employee Count & Headcount Data | Revelio Labs",
+      "confidence": "third_party"
+    },
+    {
+      "item": "Employee concentration Croatia",
+      "period": "2026",
+      "value": 13.3,
+      "unit": "percent of workforce",
+      "source_url": "https://www.reveliolabs.com/companies/vela-software/employees",
+      "source_title": "Vela Software Number of Employees 2026 | Employee Count & Headcount Data | Revelio Labs",
+      "confidence": "third_party"
+    },
+    {
+      "item": "Employee concentration Canada",
+      "period": "2026",
+      "value": 10.1,
+      "unit": "percent of workforce",
+      "source_url": "https://www.reveliolabs.com/companies/vela-software/employees",
+      "source_title": "Vela Software Number of Employees 2026 | Employee Count & Headcount Data | Revelio Labs",
+      "confidence": "third_party"
+    }
+  ],
+  "facts": [
+    {
+      "item": "Operating structure",
+      "text": "Vela is an operating group of Constellation Software Inc. (TSX: CSU), a public company listed on the Toronto Stock Exchange with 6 operating groups that provide software for over 80 vertical markets.",
+      "period": "current",
+      "source_url": "https://www.csisoftware.com/operating-groups/",
+      "source_title": "Constellation Software Operating Groups Overview",
+      "confidence": "company"
+    },
+    {
+      "item": "Business model",
+      "text": "Vela acquires, manages, and builds mission-critical vertical market software businesses that are located throughout the world, providing vertical market software expertise, operational support, and capital to help their businesses grow organically and through acquisitions.",
+      "period": "current",
+      "source_url": "https://velasoftwaregroup.com/",
+      "source_title": "Homepage - Vela Software Group",
+      "confidence": "company"
+    },
+    {
+      "item": "CEO appointment",
+      "text": "Damian McKay was appointed as CEO of the Vela Operating Group effective September 30, 2020. He has been with Constellation Software since 2015 when he joined with CSI's acquisition of Datamine where he was the CEO.",
+      "period": "2020",
+      "source_url": "https://www.csisoftware.com/constellation-software-inc-announces-changes-to-its-management-team/",
+      "source_title": "Constellation Software Inc. Announces Changes to its Management Team | CSI Software",
+      "confidence": "company"
+    },
+    {
+      "item": "CFO background",
+      "text": "Tyler O'Hagan is the CFO of Vela Software. He has been with Constellation Software since 2013 and joined Vela in 2015. Prior to joining CSI, Tyler spent six years at PwC in their Audit, and Consulting and Deals practices, and is a CPA, CA.",
+      "period": "2015 to present",
+      "source_url": "https://ca.linkedin.com/in/tyler-o-hagan-2057a22a",
+      "source_title": "Tyler O'Hagan - Chief Financial Officer at Vela Software",
+      "confidence": "third_party"
+    },
+    {
+      "item": "Sub-group structure",
+      "text": "Juniper Group is an operating group of Vela Software that was established following the acquisition of Juniper Travel Technology by Vela Software in 2014. It is currently comprised of over 1,200 employees all over the world.",
+      "period": "established 2014",
+      "source_url": "https://juniper-group.com/about-us/",
+      "source_title": "About Us - Juniper Group",
+      "confidence": "company"
+    },
+    {
+      "item": "Geographic reach",
+      "text": "Vela's geographical markets span over 100 countries, where it caters to numerous verticals by leveraging a decentralized, stand-alone business model.",
+      "period": "current",
+      "source_url": "https://velasoftwaregroup.com/",
+      "source_title": "Homepage - Vela Software Group",
+      "confidence": "company"
+    },
+    {
+      "item": "AI strategy",
+      "text": "Over the past 12 to 14 months, Constellation directed its efforts at helping its subsidiary businesses, which include Vela Software International Inc., navigate the transition to AI, including upskilling its development teams.",
+      "period": "2024-2025",
+      "source_url": "https://inpractise.com/articles/constellation-software-operating-culture-and-ai-caution",
+      "source_title": "Constellation Software: Vela Operating Culture & AI Risk | In Practise",
+      "confidence": "third_party"
+    },
+    {
+      "item": "2024 travel acquisitions",
+      "text": "In 2024, Vela strengthened its presence in the Travel sector with the acquisition of five new companies: Dome, Hotetec, Traveltek, Alturos, and Lleego.",
+      "period": "2024",
+      "source_url": "https://velasoftwaregroup.com/newsletter-q1-25-2024-year-in-review/",
+      "source_title": "Newsletter Q1/25 & 2024 Year in Review - Vela Software Group",
+      "confidence": "company"
+    },
+    {
+      "item": "2024 oil & gas acquisitions",
+      "text": "The Oil & Gas sector saw key additions in 2024 with Ikon Science and Talus Technologies.",
+      "period": "2024",
+      "source_url": "https://velasoftwaregroup.com/newsletter-q1-25-2024-year-in-review/",
+      "source_title": "Newsletter Q1/25 & 2024 Year in Review - Vela Software Group",
+      "confidence": "company"
+    },
+    {
+      "item": "Derbysoft acquisition agreement",
+      "text": "Juniper Group (an operating group of Vela Software) entered into a definitive agreement to acquire a majority interest in Derbysoft Holdings Limited. Key executive team members will retain a minority stake and enter into a shareholders' agreement with Juniper Group.",
+      "period": "April 2026",
+      "source_url": "https://www.csisoftware.com/constellation-softwares-vela-operating-group-enters-into-agreement-to-acquire-a-majority-interest-in-derbysoft-holdings-limited/",
+      "source_title": "Constellation Software's Vela Operating Group Enters into Agreement to Acquire a majority interest in Derbysoft Holdings Limited | CSI Software",
+      "confidence": "company"
+    },
+    {
+      "item": "Coreworx acquisition",
+      "text": "Vela Software acquired Coreworx, a business providing engineering document management, interface management and contract management solutions for oil and gas, engineering and construction industries.",
+      "period": "October 2018",
+      "source_url": "https://velasoftwaregroup.com/vela-software-acquires-coreworx/",
+      "source_title": "Vela Software Acquires Coreworx - Vela Software Group",
+      "confidence": "company"
+    }
+  ],
+  "verticals": [
+    "Automotive",
+    "CPG",
+    "Education",
+    "Construction & Engineering",
+    "ERP/Horizontal",
+    "Financial Services & Insurance",
+    "Glass/Windows/Doors",
+    "Government/Public Sector",
+    "HR/Payroll & Recruiting",
+    "Healthcare",
+    "Legal Tech",
+    "Logistics/Supply Chain",
+    "Manufacturing",
+    "Metals and Mining",
+    "Nonprofit/Industry Associations",
+    "Oil & Gas",
+    "Publishing",
+    "Retail",
+    "Textile & Apparel",
+    "Travel",
+    "Wholesale/Distribution"
+  ],
+  "geographies": [
+    "United States",
+    "Canada",
+    "Croatia",
+    "Australia",
+    "United Kingdom",
+    "New Zealand",
+    "South Africa",
+    "Europe",
+    "Asia Pacific",
+    "North America",
+    "South America"
+  ],
+  "notable_businesses": [
+    {
+      "name": "Juniper Group",
+      "vertical": "Travel, Aviation, Healthcare, Finance, Banking, Insurance, Oil & Gas",
+      "acquired": "2014",
+      "price": "undisclosed",
+      "source_url": "https://juniper-group.com/about-us/"
+    },
+    {
+      "name": "Coreworx",
+      "vertical": "Oil & Gas, Engineering, Construction",
+      "acquired": "2018",
+      "price": "undisclosed",
+      "source_url": "https://velasoftwaregroup.com/vela-software-acquires-coreworx/"
+    },
+    {
+      "name": "Scenario",
+      "vertical": "Construction, Infrastructure, Power, Property Development, Resources",
+      "acquired": "2022",
+      "price": "undisclosed",
+      "source_url": "https://velasoftwaregroup.com/vela-industries-group-acquires-scenario/"
+    },
+    {
+      "name": "Geovariances",
+      "vertical": "Mining",
+      "acquired": "2022",
+      "price": "undisclosed",
+      "source_url": "https://velasoftwaregroup.com/vela-software-group-acquires-geovariances/"
+    },
+    {
+      "name": "Peakwork AG",
+      "vertical": "Travel",
+      "acquired": "2024",
+      "price": "undisclosed",
+      "source_url": "https://juniper-group.com/press-directory/vela-software-completes-acquisition-of-peakwork-ag/"
+    },
+    {
+      "name": "Dome",
+      "vertical": "Travel",
+      "acquired": "2024",
+      "price": "undisclosed",
+      "source_url": "https://velasoftwaregroup.com/newsletter-q1-25-2024-year-in-review/"
+    },
+    {
+      "name": "Hotetec",
+      "vertical": "Travel",
+      "acquired": "2024",
+      "price": "undisclosed",
+      "source_url": "https://juniper-group.com/press-directory/hotetec-joins-juniper-group"
+    },
+    {
+      "name": "Traveltek",
+      "vertical": "Travel",
+      "acquired": "2024",
+      "price": "undisclosed",
+      "source_url": "https://velasoftwaregroup.com/newsletter-q1-25-2024-year-in-review/"
+    },
+    {
+      "name": "Alturos",
+      "vertical": "Travel",
+      "acquired": "2024",
+      "price": "undisclosed",
+      "source_url": "https://velasoftwaregroup.com/newsletter-q1-25-2024-year-in-review/"
+    },
+    {
+      "name": "Lleego",
+      "vertical": "Travel",
+      "acquired": "2024",
+      "price": "undisclosed",
+      "source_url": "https://velasoftwaregroup.com/juniper-group-completes-the-acquisition-of-lleego/"
+    },
+    {
+      "name": "Ikon Science",
+      "vertical": "Oil & Gas",
+      "acquired": "2024",
+      "price": "undisclosed",
+      "source_url": "https://velasoftwaregroup.com/newsletter-q1-25-2024-year-in-review/"
+    },
+    {
+      "name": "Talus Technologies",
+      "vertical": "Oil & Gas",
+      "acquired": "2024",
+      "price": "undisclosed",
+      "source_url": "https://velasoftwaregroup.com/newsletter-q1-25-2024-year-in-review/"
+    },
+    {
+      "name": "GIFTSOFT",
+      "vertical": "Financial Services",
+      "acquired": "2024",
+      "price": "undisclosed",
+      "source_url": "https://velasoftwaregroup.com/newsletter-q1-25-2024-year-in-review/"
+    },
+    {
+      "name": "ITC Soluciones",
+      "vertical": "Financial Services",
+      "acquired": "2024",
+      "price": "undisclosed",
+      "source_url": "https://velasoftwaregroup.com/newsletter-q1-25-2024-year-in-review/"
+    },
+    {
+      "name": "Autoinfo",
+      "vertical": "Automotive",
+      "acquired": "2024",
+      "price": "undisclosed",
+      "source_url": "https://velasoftwaregroup.com/newsletter-q1-25-2024-year-in-review/"
+    },
+    {
+      "name": "Servcom",
+      "vertical": "IT Services",
+      "acquired": "2024",
+      "price": "undisclosed",
+      "source_url": "https://tracxn.com/d/acquisitions/acquisitions-by-vela-software/__yzOZxJ6TChmh2z_ensYCYoRywlBDIYxSffe18EoGh-E"
+    },
+    {
+      "name": "SAMTECH",
+      "vertical": "Technology Solutions",
+      "acquired": "2024",
+      "price": "undisclosed",
+      "source_url": "https://tracxn.com/d/acquisitions/acquisitions-by-vela-software/__yzOZxJ6TChmh2z_ensYCYoRywlBDIYxSffe18EoGh-E"
+    },
+    {
+      "name": "Derbysoft Holdings",
+      "vertical": "Travel",
+      "acquired": "2026",
+      "price": "undisclosed",
+      "source_url": "https://www.csisoftware.com/constellation-softwares-vela-operating-group-enters-into-agreement-to-acquire-a-majority-interest-in-derbysoft-holdings-limited/"
+    }
+  ],
+  "leadership": [
+    {
+      "name": "Damian McKay",
+      "role": "Chief Executive Officer",
+      "since": "2020",
+      "background": "CEO of Datamine at time of Constellation acquisition in 2015; led portfolio of acquisitions within Vela before CEO appointment",
+      "source_url": "https://www.csisoftware.com/constellation-software-inc-announces-changes-to-its-management-team/"
+    },
+    {
+      "name": "Tyler O'Hagan",
+      "role": "Chief Financial Officer",
+      "since": "2015",
+      "background": "Joined Constellation Software in 2013 from PwC where spent 6 years in Audit and Consulting; held CFO positions at two Vela portfolio groups before current role; CPA, CA",
+      "source_url": "https://ca.linkedin.com/in/tyler-o-hagan-2057a22a"
+    }
+  ],
+  "gaps": [
+    "Specific acquisition deal prices for individual deals (most announced as undisclosed)",
+    "Exact founding date of Vela as a distinct operating group within Constellation (source indicates Constellation founded 1995, but Vela's specific establishment date unclear)",
+    "Stated hurdle rate or IRR targets for capital deployment",
+    "Specific disclosed returns or performance metrics for acquired businesses",
+    "Exact count of portfolio companies/businesses owned (sources mention 30+ but no definitive current count)",
+    "Net income and free cash flow figures specific to Vela Software division",
+    "Maintenance and recurring revenue percentage for Vela",
+    "Prior leadership roles and succession events for Vela leadership 2023-2026",
+    "Specific organic growth or attrition comments unique to Vela (parent company data available but not Vela-specific)"
+  ]
+}

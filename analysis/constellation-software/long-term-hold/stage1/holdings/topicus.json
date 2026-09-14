@@ -1,0 +1,643 @@
+{
+  "holding": "Topicus.com Inc.",
+  "type": "listed subsidiary",
+  "search_count": 20,
+  "figures": [
+    {
+      "item": "Constellation ownership - preferred shares",
+      "period": "2021-01-05",
+      "value": 39412385,
+      "unit": "shares",
+      "source_url": "https://www.globenewswire.com/news-release/2021/01/05/2153464/0/en/Constellation-Software-Inc-Completes-Spin-Out-of-Topicus-com-Inc.html",
+      "source_title": "Constellation Software Inc. Completes Spin-Out of Topicus.com Inc.",
+      "confidence": "company",
+      "note": "100% of outstanding preferred shares"
+    },
+    {
+      "item": "Constellation ownership - super voting shares",
+      "period": "2021-01-05",
+      "value": 1,
+      "unit": "shares",
+      "source_url": "https://www.globenewswire.com/news-release/2021/01/05/2153464/0/en/Constellation-Software-Inc-Completes-Spin-Out-of-Topicus-com-Inc.html",
+      "source_title": "Constellation Software Inc. Completes Spin-Out of Topicus.com Inc.",
+      "confidence": "company",
+      "note": "100% of outstanding super voting shares; entitles Constellation to 50.1% of aggregate votes"
+    },
+    {
+      "item": "Constellation ownership - fully diluted basis",
+      "period": "2021-01-05",
+      "value": 30.35,
+      "unit": "percent",
+      "source_url": "https://topicus.com/news/constellation-software-inc-completes-spin-out-of-topicuscom-inc",
+      "source_title": "Constellation Software Inc. Completes Spin-Out of Topicus.com Inc. - Topicus.com",
+      "confidence": "company"
+    },
+    {
+      "item": "Revenue",
+      "period": "FY2023",
+      "value": 1125.0,
+      "unit": "EUR millions",
+      "source_url": "https://www.globenewswire.com/news-release/2025/02/26/3033400/0/en/Constellation-Software-Inc-and-Topicus-Com-Inc-Announce-Results-for-Topicus-com-Inc-for-the-Fourth-Quarter-and-Year-Ended-December-31-2024.html",
+      "source_title": "Constellation Software Inc. and Topicus.Com Inc. Announce Results for Topicus.com Inc. for the Fourth Quarter and Year Ended December 31, 2024",
+      "confidence": "company"
+    },
+    {
+      "item": "Organic growth",
+      "period": "FY2023",
+      "value": 22.72,
+      "unit": "percent",
+      "source_url": "https://finance.yahoo.com/quote/TOI.V/financials/",
+      "source_title": "Topicus.com Inc. (TOI.V) Income Statement - Yahoo Finance",
+      "confidence": "third_party"
+    },
+    {
+      "item": "Revenue",
+      "period": "FY2024",
+      "value": 1294.9,
+      "unit": "EUR millions",
+      "source_url": "https://www.globenewswire.com/news-release/2025/02/26/3033400/0/en/Constellation-Software-Inc-and-Topicus-Com-Inc-Announce-Results-for-Topicus-com-Inc-for-the-Fourth-Quarter-and-Year-Ended-December-31-2024.html",
+      "source_title": "Constellation Software Inc. and Topicus.Com Inc. Announce Results for Topicus.com Inc. for the Fourth Quarter and Year Ended December 31, 2024",
+      "confidence": "company"
+    },
+    {
+      "item": "Revenue growth",
+      "period": "FY2024",
+      "value": 15,
+      "unit": "percent",
+      "source_url": "https://www.globenewswire.com/news-release/2025/02/26/3033400/0/en/Constellation-Software-Inc-and-Topicus-Com-Inc-Announce-Results-for-Topicus-com-Inc-for-the-Fourth-Quarter-and-Year-Ended-December-31-2024.html",
+      "source_title": "Constellation Software Inc. and Topicus.Com Inc. Announce Results for Topicus.com Inc. for the Fourth Quarter and Year Ended December 31, 2024",
+      "confidence": "company"
+    },
+    {
+      "item": "Organic growth",
+      "period": "FY2024",
+      "value": 5,
+      "unit": "percent",
+      "source_url": "https://www.globenewswire.com/news-release/2025/02/26/3033400/0/en/Constellation-Software-Inc-and-Topicus-Com-Inc-Announce-Results-for-Topicus-com-Inc-for-the-Fourth-Quarter-and-Year-Ended-December-31-2024.html",
+      "source_title": "Constellation Software Inc. and Topicus.Com Inc. Announce Results for Topicus.com Inc. for the Fourth Quarter and Year Ended December 31, 2024",
+      "confidence": "company"
+    },
+    {
+      "item": "Net income",
+      "period": "FY2024",
+      "value": 149.5,
+      "unit": "EUR millions",
+      "source_url": "https://finance.yahoo.com/quote/TOI.V/financials/",
+      "source_title": "Topicus.com Inc. (TOI.V) Income Statement - Yahoo Finance",
+      "confidence": "third_party"
+    },
+    {
+      "item": "Net income growth",
+      "period": "FY2024",
+      "value": 30,
+      "unit": "percent",
+      "source_url": "https://finance.yahoo.com/quote/TOI.V/financials/",
+      "source_title": "Topicus.com Inc. (TOI.V) Income Statement - Yahoo Finance",
+      "confidence": "third_party"
+    },
+    {
+      "item": "Revenue",
+      "period": "FY2025",
+      "value": 1552.3,
+      "unit": "EUR millions",
+      "source_url": "https://finance.yahoo.com/news/constellation-software-inc-topicus-com-220400881.html",
+      "source_title": "Constellation Software Inc. and Topicus.Com Inc. Announce Results for Topicus.com Inc. for the Fourth Quarter and Year Ended December 31, 2025",
+      "confidence": "company"
+    },
+    {
+      "item": "Revenue growth",
+      "period": "FY2025",
+      "value": 20,
+      "unit": "percent",
+      "source_url": "https://finance.yahoo.com/news/constellation-software-inc-topicus-com-220400881.html",
+      "source_title": "Constellation Software Inc. and Topicus.Com Inc. Announce Results for Topicus.com Inc. for the Fourth Quarter and Year Ended December 31, 2025",
+      "confidence": "company"
+    },
+    {
+      "item": "Organic growth",
+      "period": "FY2025",
+      "value": 4,
+      "unit": "percent",
+      "source_url": "https://finance.yahoo.com/news/constellation-software-inc-topicus-com-220400881.html",
+      "source_title": "Constellation Software Inc. and Topicus.Com Inc. Announce Results for Topicus.com Inc. for the Fourth Quarter and Year Ended December 31, 2025",
+      "confidence": "company"
+    },
+    {
+      "item": "Free cash flow available to shareholders",
+      "period": "FY2024",
+      "value": 177.4,
+      "unit": "EUR millions",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/constellation-software-inc-topicus-com-210200366.html",
+      "source_title": "Constellation Software Inc. and Topicus.com Inc. Announce Results for Topicus.com Inc. for the Second Quarter Ended June 30, 2026",
+      "confidence": "company"
+    },
+    {
+      "item": "Free cash flow available to shareholders",
+      "period": "FY2025",
+      "value": 218.7,
+      "unit": "EUR millions",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/constellation-software-inc-topicus-com-210200366.html",
+      "source_title": "Constellation Software Inc. and Topicus.com Inc. Announce Results for Topicus.com Inc. for the Second Quarter Ended June 30, 2026",
+      "confidence": "company"
+    },
+    {
+      "item": "Free cash flow available to shareholders growth",
+      "period": "FY2025",
+      "value": 23,
+      "unit": "percent",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/constellation-software-inc-topicus-com-210200366.html",
+      "source_title": "Constellation Software Inc. and Topicus.com Inc. Announce Results for Topicus.com Inc. for the Second Quarter Ended June 30, 2026",
+      "confidence": "company"
+    },
+    {
+      "item": "Revenue",
+      "period": "H1 2025",
+      "value": 726.3,
+      "unit": "EUR millions",
+      "source_url": "https://topicus.com/news/constellation-software-inc-and-topicuscom-inc-announce-results-for-topicuscom-inc-for-the-second-quarter-ended-june-30-2025",
+      "source_title": "Constellation Software Inc. and Topicus.Com Inc. Announce Results for Topicus.com Inc. for the Second Quarter Ended June 30, 2025",
+      "confidence": "company"
+    },
+    {
+      "item": "Revenue",
+      "period": "Q1 2025",
+      "value": 355.6,
+      "unit": "EUR millions",
+      "source_url": "https://topicus.com/news/constellation-software-inc-and-topicuscom-inc-announce-results-for-topicuscom-inc-for-the-first-quarter-ended-march-31-2025",
+      "source_title": "Constellation Software Inc. and Topicus.Com Inc. Announce Results for Topicus.com Inc. for the First Quarter Ended March 31, 2025",
+      "confidence": "company"
+    },
+    {
+      "item": "Organic growth",
+      "period": "Q1 2025",
+      "value": 4,
+      "unit": "percent",
+      "source_url": "https://topicus.com/news/constellation-software-inc-and-topicuscom-inc-announce-results-for-topicuscom-inc-for-the-first-quarter-ended-march-31-2025",
+      "source_title": "Constellation Software Inc. and Topicus.Com Inc. Announce Results for Topicus.com Inc. for the First Quarter Ended March 31, 2025",
+      "confidence": "company"
+    },
+    {
+      "item": "Revenue",
+      "period": "Q2 2025",
+      "value": 372.0,
+      "unit": "EUR millions",
+      "source_url": "https://topicus.com/news/constellation-software-inc-and-topicuscom-inc-announce-results-for-topicuscom-inc-for-the-second-quarter-ended-june-30-2025",
+      "source_title": "Constellation Software Inc. and Topicus.Com Inc. Announce Results for Topicus.com Inc. for the Second Quarter Ended June 30, 2025",
+      "confidence": "company"
+    },
+    {
+      "item": "Organic growth",
+      "period": "Q2 2025",
+      "value": 5,
+      "unit": "percent",
+      "source_url": "https://topicus.com/news/constellation-software-inc-and-topicuscom-inc-announce-results-for-topicuscom-inc-for-the-second-quarter-ended-june-30-2025",
+      "source_title": "Constellation Software Inc. and Topicus.Com Inc. Announce Results for Topicus.com Inc. for the Second Quarter Ended June 30, 2025",
+      "confidence": "company"
+    },
+    {
+      "item": "Revenue",
+      "period": "H1 2026",
+      "value": 872.9,
+      "unit": "EUR millions",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/constellation-software-inc-topicus-com-210200366.html",
+      "source_title": "Constellation Software Inc. and Topicus.com Inc. Announce Results for Topicus.com Inc. for the Second Quarter Ended June 30, 2026",
+      "confidence": "company"
+    },
+    {
+      "item": "Revenue growth",
+      "period": "H1 2026",
+      "value": 20,
+      "unit": "percent",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/constellation-software-inc-topicus-com-210200366.html",
+      "source_title": "Constellation Software Inc. and Topicus.com Inc. Announce Results for Topicus.com Inc. for the Second Quarter Ended June 30, 2026",
+      "confidence": "company"
+    },
+    {
+      "item": "Net income",
+      "period": "H1 2026",
+      "value": 102.4,
+      "unit": "EUR millions",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/constellation-software-inc-topicus-com-210200366.html",
+      "source_title": "Constellation Software Inc. and Topicus.com Inc. Announce Results for Topicus.com Inc. for the Second Quarter Ended June 30, 2026",
+      "confidence": "company"
+    },
+    {
+      "item": "Net income growth",
+      "period": "H1 2026",
+      "value": -8,
+      "unit": "percent",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/constellation-software-inc-topicus-com-210200366.html",
+      "source_title": "Constellation Software Inc. and Topicus.com Inc. Announce Results for Topicus.com Inc. for the Second Quarter Ended June 30, 2026",
+      "confidence": "company"
+    },
+    {
+      "item": "Free cash flow available to shareholders",
+      "period": "H1 2026",
+      "value": 180.1,
+      "unit": "EUR millions",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/constellation-software-inc-topicus-com-210200366.html",
+      "source_title": "Constellation Software Inc. and Topicus.com Inc. Announce Results for Topicus.com Inc. for the Second Quarter Ended June 30, 2026",
+      "confidence": "company"
+    },
+    {
+      "item": "Free cash flow available to shareholders growth",
+      "period": "H1 2026",
+      "value": 24,
+      "unit": "percent",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/constellation-software-inc-topicus-com-210200366.html",
+      "source_title": "Constellation Software Inc. and Topicus.com Inc. Announce Results for Topicus.com Inc. for the Second Quarter Ended June 30, 2026",
+      "confidence": "company"
+    },
+    {
+      "item": "Revenue",
+      "period": "Q2 2026",
+      "value": 437.3,
+      "unit": "EUR millions",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/constellation-software-inc-topicus-com-210200366.html",
+      "source_title": "Constellation Software Inc. and Topicus.com Inc. Announce Results for Topicus.com Inc. for the Second Quarter Ended June 30, 2026",
+      "confidence": "company"
+    },
+    {
+      "item": "Revenue growth",
+      "period": "Q2 2026",
+      "value": 18,
+      "unit": "percent",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/constellation-software-inc-topicus-com-210200366.html",
+      "source_title": "Constellation Software Inc. and Topicus.com Inc. Announce Results for Topicus.com Inc. for the Second Quarter Ended June 30, 2026",
+      "confidence": "company"
+    },
+    {
+      "item": "Organic growth",
+      "period": "Q2 2026",
+      "value": 4,
+      "unit": "percent",
+      "source_url": "https://www.tipranks.com/news/company-announcements/topicus-com-lifts-q2-revenue-18-as-acquisitions-boost-cash-flow",
+      "source_title": "Topicus.com lifts Q2 revenue 18% as acquisitions boost cash flow - TipRanks.com",
+      "confidence": "third_party"
+    },
+    {
+      "item": "Net income",
+      "period": "Q2 2026",
+      "value": 47.3,
+      "unit": "EUR millions",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/constellation-software-inc-topicus-com-210200366.html",
+      "source_title": "Constellation Software Inc. and Topicus.com Inc. Announce Results for Topicus.com Inc. for the Second Quarter Ended June 30, 2026",
+      "confidence": "company"
+    },
+    {
+      "item": "Net income growth",
+      "period": "Q2 2026",
+      "value": 14,
+      "unit": "percent",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/constellation-software-inc-topicus-com-210200366.html",
+      "source_title": "Constellation Software Inc. and Topicus.com Inc. Announce Results for Topicus.com Inc. for the Second Quarter Ended June 30, 2026",
+      "confidence": "company"
+    },
+    {
+      "item": "Free cash flow available to shareholders",
+      "period": "Q2 2026",
+      "value": 14.6,
+      "unit": "EUR millions",
+      "source_url": "https://www.tipranks.com/news/company-announcements/topicus-com-lifts-q2-revenue-18-as-acquisitions-boost-cash-flow",
+      "source_title": "Topicus.com lifts Q2 revenue 18% as acquisitions boost cash flow - TipRanks.com",
+      "confidence": "third_party"
+    },
+    {
+      "item": "Acquisitions spent",
+      "period": "Q2 2026",
+      "value": 40.2,
+      "unit": "EUR millions",
+      "source_url": "https://www.tipranks.com/news/company-announcements/topicus-com-lifts-q2-revenue-18-as-acquisitions-boost-cash-flow",
+      "source_title": "Topicus.com lifts Q2 revenue 18% as acquisitions boost cash flow - TipRanks.com",
+      "confidence": "third_party"
+    },
+    {
+      "item": "Acquisitions spent",
+      "period": "FY2024",
+      "value": 54.6,
+      "unit": "EUR millions",
+      "source_url": "https://www.macrotrends.net/stocks/charts/TOITF/topicus/net-acquisitions-divestitures",
+      "source_title": "Topicus Net Acquisitions/Divestitures 2022-2026 | TOITF | MacroTrends",
+      "confidence": "third_party"
+    },
+    {
+      "item": "Acquisitions spent",
+      "period": "FY2025",
+      "value": 390.4,
+      "unit": "EUR millions",
+      "source_url": "https://www.globenewswire.com/news-release/2026/02/25/3245107/0/en/constellation-software-inc-and-topicus-com-inc-announce-results-for-topicus-com-inc-for-the-fourth-quarter-and-year-ended-december-31-2025.html",
+      "source_title": "Constellation Software Inc. and Topicus.Com Inc. Announce Results for Topicus.com Inc. for the Fourth Quarter and Year Ended December 31, 2025",
+      "confidence": "company"
+    },
+    {
+      "item": "Cash and cash equivalents",
+      "period": "Q2 2026",
+      "value": 331.17,
+      "unit": "EUR millions",
+      "source_url": "https://www.investing.com/equities/topicus.com-balance-sheet",
+      "source_title": "Topicus.com (TOI) Balance Sheet - Investing.com",
+      "confidence": "third_party"
+    },
+    {
+      "item": "Total debt",
+      "period": "Q2 2026",
+      "value": 458.47,
+      "unit": "EUR millions",
+      "source_url": "https://www.investing.com/equities/topicus.com-balance-sheet",
+      "source_title": "Topicus.com (TOI) Balance Sheet - Investing.com",
+      "confidence": "third_party"
+    },
+    {
+      "item": "Revolving credit facility",
+      "period": "May 2025",
+      "value": 700.0,
+      "unit": "EUR millions",
+      "source_url": "https://seekingwinners.substack.com/p/topicus-q2-2025-earnings-brief",
+      "source_title": "Topicus Q2 2025 Earnings Brief - Seeking Winners - Substack",
+      "confidence": "third_party"
+    },
+    {
+      "item": "Revolving credit facility maturity",
+      "period": "2029",
+      "value": 20291028,
+      "unit": "YYYYMMDD",
+      "source_url": "https://seekingwinners.substack.com/p/topicus-q2-2025-earnings-brief",
+      "source_title": "Topicus Q2 2025 Earnings Brief - Seeking Winners - Substack",
+      "confidence": "third_party",
+      "note": "October 28, 2029"
+    },
+    {
+      "item": "Shares outstanding diluted",
+      "period": "Q1 2026",
+      "value": 130,
+      "unit": "millions",
+      "source_url": "https://www.gurufocus.com/term/shares-outstanding/TSXV:TOI",
+      "source_title": "TSXV:TOI Shares Outstanding (Diluted Average): 130 Mil",
+      "confidence": "third_party"
+    },
+    {
+      "item": "Maintenance and recurring revenue percentage of total revenue",
+      "period": "FY2024-FY2025",
+      "value": 70,
+      "unit": "percent",
+      "source_url": "https://seekingwinners.substack.com/p/topicus-q1-2025-earnings-brief",
+      "source_title": "Topicus Q1 2025 Earnings Brief - Seeking Winners - Substack",
+      "confidence": "third_party"
+    },
+    {
+      "item": "Customer count",
+      "period": "2024-2026",
+      "value": 100000,
+      "unit": "customers",
+      "source_url": "https://topicus.com/about-us",
+      "source_title": "About Us - Topicus.com",
+      "confidence": "company"
+    },
+    {
+      "item": "Countries of operation",
+      "period": "2024-2026",
+      "value": 26,
+      "unit": "countries",
+      "source_url": "https://topicus.com/about-us",
+      "source_title": "About Us - Topicus.com",
+      "confidence": "company"
+    },
+    {
+      "item": "Vertical markets served",
+      "period": "2024-2026",
+      "value": 40,
+      "unit": "verticals",
+      "source_url": "https://topicus.com/about-us",
+      "source_title": "About Us - Topicus.com",
+      "confidence": "company"
+    },
+    {
+      "item": "Employees",
+      "period": "2024-2026",
+      "value": 10000,
+      "unit": "employees",
+      "source_url": "https://topicus.com/about-us",
+      "source_title": "About Us - Topicus.com",
+      "confidence": "company"
+    },
+    {
+      "item": "Netherlands revenue percentage",
+      "period": "2024-2026",
+      "value": 49,
+      "unit": "percent",
+      "source_url": "https://topicus.com/about-us",
+      "source_title": "About Us - Topicus.com",
+      "confidence": "company"
+    },
+    {
+      "item": "France revenue percentage",
+      "period": "2024-2026",
+      "value": 17,
+      "unit": "percent",
+      "source_url": "https://topicus.com/about-us",
+      "source_title": "About Us - Topicus.com",
+      "confidence": "company"
+    },
+    {
+      "item": "Spain revenue percentage",
+      "period": "2024-2026",
+      "value": 7,
+      "unit": "percent",
+      "source_url": "https://topicus.com/about-us",
+      "source_title": "About Us - Topicus.com",
+      "confidence": "company"
+    },
+    {
+      "item": "Germany revenue percentage",
+      "period": "2024-2026",
+      "value": 4,
+      "unit": "percent",
+      "source_url": "https://topicus.com/about-us",
+      "source_title": "About Us - Topicus.com",
+      "confidence": "company"
+    },
+    {
+      "item": "Asseco Poland stake - preferred equity",
+      "period": "2025-02-03",
+      "value": 384.9,
+      "unit": "EUR millions net investment",
+      "source_url": "https://topicus.com/news/joint-press-release-of-constellation-software-inc-and-topicuscom-inc-topicuscom-inc-completes-agreement-to-acquire-1484-of-treasury-shares-in-the-capital-of-asseco-poland-sa",
+      "source_title": "Topicus.com Inc. completes Agreement to acquire 14.84% of Treasury Shares in the capital of Asseco Poland S.A.",
+      "confidence": "company"
+    }
+  ],
+  "facts": [
+    {
+      "item": "Founder and first CEO background",
+      "text": "Robin van Poelje is the founder of Total Specific Solutions and served as CEO of TSS from January 2010 to 2020.",
+      "period": "2010-2020",
+      "source_url": "https://www.globenewswire.com/news-release/2021/11/25/2341279/0/en/Robin-van-Poelje-named-as-Chief-Executive-Officer-of-Topicus-com.html",
+      "source_title": "Robin van Poelje named as Chief Executive Officer of Topicus.com.",
+      "confidence": "company"
+    },
+    {
+      "item": "CEO transition",
+      "text": "Robin van Poelje, Board Chairman, was appointed CEO of Topicus.com in November 2021, replacing Daan Dijkhuizen who focused on Constellation Software's VMS Ventures fund.",
+      "period": "2021-11",
+      "source_url": "https://www.globenewswire.com/news-release/2021/11/25/2341279/0/en/Robin-van-Poelje-named-as-Chief-Executive-Officer-of-Topicus-com.html",
+      "source_title": "Robin van Poelje named as Chief Executive Officer of Topicus.com.",
+      "confidence": "company"
+    },
+    {
+      "item": "Daan Dijkhuizen background",
+      "text": "Daan Dijkhuizen has been at Topicus since 2013 and was previously a technology executive at the ING Group.",
+      "period": "2013-present",
+      "source_url": "https://www.crunchbase.com/person/daan-dijkhuizen",
+      "source_title": "Daan Dijkhuizen - Managing Partner @ Constellation VMS Ventures - Crunchbase Person Profile",
+      "confidence": "third_party"
+    },
+    {
+      "item": "Board changes 2023",
+      "text": "In May 2023, Bernard Anzarouth, Jeff Bender, Jamal Baksh, Mark Leonard, Daan Dijkhuizen, Han Knooren and Paul Noordeman did not stand for re-election to the board.",
+      "period": "2023-05",
+      "source_url": "https://www.globenewswire.com/news-release/2021/11/25/2341279/0/en/Robin-van-Poelje-named-as-Chief-Executive-Officer-of-Topicus-com.html",
+      "source_title": "Robin van Poelje named as Chief Executive Officer of Topicus.com.",
+      "confidence": "company"
+    },
+    {
+      "item": "Board composition 2023",
+      "text": "John Billowits, Jane Holden, Alex Macdonald, Donna Parr and Robin van Poelje were re-elected to the board in May 2023.",
+      "period": "2023-05",
+      "source_url": "https://topicus.com/news/topicuscom-inc-announces-re-election-of-members-of-the-board-of-the-board-of-directors",
+      "source_title": "Topicus.com Inc. Announces Re-Election of Members of the Board of Directors",
+      "confidence": "company"
+    },
+    {
+      "item": "Operating structure",
+      "text": "Topicus operates through three operating groups: TSS Blue, TSS Public, and Topicus Operating Group, serving over 100,000 customers in 40 vertical markets across 26 countries.",
+      "period": "2024-2026",
+      "source_url": "https://topicus.com/about-us",
+      "source_title": "About Us - Topicus.com",
+      "confidence": "company"
+    },
+    {
+      "item": "Sygnity acquisition",
+      "text": "Topicus.com completed the acquisition of 72.68% of Sygnity S.A. in Poland for approximately PLN 197 million through a public tender in March 2022.",
+      "period": "2022-03",
+      "source_url": "https://topicus.com/news/topicuscoms-subsidiary-total-specific-solutions-tss-acquires-majority-share-sygnity-poland",
+      "source_title": "Topicus.com's subsidiary Total Specific Solutions (TSS) acquires a majority share of Sygnity S.A. in Poland - Topicus.com",
+      "confidence": "company"
+    },
+    {
+      "item": "Asseco Poland shareholding",
+      "text": "Topicus.com and Constellation Software entered a shareholders agreement with the Adam Góral Family Foundation on February 3, 2025, and completed acquisition of 14.84% of treasury shares in Asseco Poland S.A.",
+      "period": "2025-02-03",
+      "source_url": "https://topicus.com/news/joint-press-release-of-constellation-software-inc-and-topicuscom-inc-topicuscom-inc-completes-agreement-to-acquire-1484-of-treasury-shares-in-the-capital-of-asseco-poland-sa",
+      "source_title": "Topicus.com Inc. completes Agreement to acquire 14.84% of Treasury Shares in the capital of Asseco Poland S.A.",
+      "confidence": "company"
+    },
+    {
+      "item": "Voting control structure",
+      "text": "Constellation's super voting share entitles it to 50.1% of aggregate votes on all Topicus outstanding shares, granting significant voting control despite lower economic ownership.",
+      "period": "2021-01-05",
+      "source_url": "https://topicus.com/news/constellation-software-inc-completes-spin-out-of-topicuscom-inc",
+      "source_title": "Constellation Software Inc. Completes Spin-Out of Topicus.com Inc. - Topicus.com",
+      "confidence": "company"
+    }
+  ],
+  "verticals": [
+    "Education",
+    "Healthcare",
+    "Social Services",
+    "Local Government",
+    "Central Government",
+    "Retail",
+    "Financial Services",
+    "Accountancy",
+    "Legal Services",
+    "Real Estate",
+    "Automotive",
+    "Maritime",
+    "Professional Associations"
+  ],
+  "geographies": [
+    "Netherlands",
+    "Germany",
+    "France",
+    "Belgium",
+    "Italy",
+    "Spain",
+    "United Kingdom",
+    "Denmark",
+    "Sweden",
+    "Finland",
+    "Poland",
+    "Iceland",
+    "Romania",
+    "Switzerland",
+    "Serbia",
+    "Portugal"
+  ],
+  "notable_businesses": [
+    {
+      "name": "Sygnity S.A.",
+      "vertical": "Software Solutions",
+      "acquired": "2022",
+      "price": "PLN 197 million approximately",
+      "source_url": "https://topicus.com/news/topicuscoms-subsidiary-total-specific-solutions-tss-acquires-majority-share-sygnity-poland"
+    },
+    {
+      "name": "Asseco Poland S.A. stake",
+      "vertical": "Software",
+      "acquired": "2025",
+      "price": "EUR 384.9 million net investment (14.84% of treasury shares)",
+      "source_url": "https://topicus.com/news/joint-press-release-of-constellation-software-inc-and-topicuscom-inc-topicuscom-inc-completes-agreement-to-acquire-1484-of-treasury-shares-in-the-capital-of-asseco-poland-sa"
+    }
+  ],
+  "leadership": [
+    {
+      "name": "Robin van Poelje",
+      "role": "Chief Executive Officer",
+      "since": "2021",
+      "background": "Founder of Total Specific Solutions, TSS CEO 2010-2020",
+      "source_url": "https://www.globenewswire.com/news-release/2021/11/25/2341279/0/en/Robin-van-Poelje-named-as-Chief-Executive-Officer-of-Topicus-com.html"
+    },
+    {
+      "name": "Daan Dijkhuizen",
+      "role": "Group CEO, Topicus Operating Group / Managing Partner, Constellation VMS Ventures",
+      "since": "2013",
+      "background": "Technology executive at ING Group, MSc Industrial Engineering & Management from University of Twente",
+      "source_url": "https://www.crunchbase.com/person/daan-dijkhuizen"
+    },
+    {
+      "name": "John Billowits",
+      "role": "Board Member",
+      "since": "unknown",
+      "background": "unknown",
+      "source_url": "https://topicus.com/news/topicuscom-inc-announces-re-election-of-members-of-the-board-of-the-board-of-directors"
+    },
+    {
+      "name": "Alex Macdonald",
+      "role": "Board Member",
+      "since": "unknown",
+      "background": "unknown",
+      "source_url": "https://topicus.com/news/topicuscom-inc-announces-re-election-of-members-of-the-board-of-the-board-of-directors"
+    },
+    {
+      "name": "Donna Parr",
+      "role": "Board Member",
+      "since": "unknown",
+      "background": "unknown",
+      "source_url": "https://topicus.com/news/topicuscom-inc-announces-re-election-of-members-of-the-board-of-the-board-of-directors"
+    }
+  ],
+  "gaps": [
+    "FY2023 net income attributable specific figure",
+    "FY2025 net income attributable specific figure",
+    "FX adjusted organic growth figures for all periods",
+    "Exact number of portfolio companies owned",
+    "Specific market cap and share price with exact dates for June 2026 and September 2026",
+    "Complete current board composition and tenures for all directors",
+    "Specific AI product launches or AI strategy statements from Topicus leadership",
+    "Detailed attrition rates or pricing comments related to AI",
+    "Joday group or IJssel stake information",
+    "EPS on diluted per share basis for FY2025",
+    "Q1 2026 and Q3 2026 financial results",
+    "Detailed breakdown of acquisitions by vertical for 2025-2026"
+  ]
+}

@@ -1,0 +1,353 @@
+{
+  "holding": "Jonas Software",
+  "type": "private operating group",
+  "search_count": 30,
+  "figures": [
+    {
+      "item": "total employees",
+      "period": "2024",
+      "value": 6000,
+      "unit": "headcount",
+      "source_url": "https://jonassoftware.com/about-us",
+      "source_title": "About Us - Jonas Software",
+      "confidence": "company"
+    },
+    {
+      "item": "annual revenue",
+      "period": "2024",
+      "value": 840.2,
+      "unit": "USD million",
+      "source_url": "https://www.owler.com/company/jonassoftware",
+      "source_title": "Jonas Software's Competitors, Revenue, Number of Employees, Funding, Acquisitions & News - Owler Company Profile",
+      "confidence": "third_party"
+    },
+    {
+      "item": "total customers",
+      "period": "2024",
+      "value": 80000,
+      "unit": "customer count",
+      "source_url": "https://jonassoftware.com/about-us",
+      "source_title": "About Us - Jonas Software",
+      "confidence": "company"
+    },
+    {
+      "item": "vertical markets served",
+      "period": "2024",
+      "value": 40,
+      "unit": "number of verticals",
+      "source_url": "https://jonassoftware.com/about-us",
+      "source_title": "About Us - Jonas Software",
+      "confidence": "company"
+    },
+    {
+      "item": "total acquisitions completed",
+      "period": "2026-06",
+      "value": 175,
+      "unit": "acquisitions",
+      "source_url": "https://jonassoftware.com/about-us",
+      "source_title": "About Us - Jonas Software",
+      "confidence": "company"
+    },
+    {
+      "item": "acquisitions completed in 2024",
+      "period": "2024",
+      "value": 29,
+      "unit": "acquisitions",
+      "source_url": "https://jonassoftware.com/2024-year-in-review",
+      "source_title": "2024 Year in Review - Jonas Software",
+      "confidence": "company"
+    },
+    {
+      "item": "acquisitions completed in first half of 2024",
+      "period": "2024-H1",
+      "value": 15,
+      "unit": "acquisitions",
+      "source_url": "https://jonassoftware.com/jonas-software-2024-mid-year-review",
+      "source_title": "2024 Mid-Year Review - Jonas Software",
+      "confidence": "company"
+    },
+    {
+      "item": "independently managed software brands",
+      "period": "2024",
+      "value": 185,
+      "unit": "brands",
+      "source_url": "https://jonassoftware.com/about-us",
+      "source_title": "About Us - Jonas Software",
+      "confidence": "company"
+    },
+    {
+      "item": "countries with operations",
+      "period": "2024",
+      "value": 30,
+      "unit": "countries",
+      "source_url": "https://jonassoftware.com/about-us",
+      "source_title": "About Us - Jonas Software",
+      "confidence": "company"
+    },
+    {
+      "item": "Springer-Miller Systems acquisition price (source 1)",
+      "period": "2015-11",
+      "value": 18.1,
+      "unit": "USD million",
+      "source_url": "https://www.marketscreener.com/quote/stock/PAR-TECHNOLOGY-CORPORATIO-14138/news/Gary-Jonas-Computing-Ltd-and-Jonas-Computing-UK-Ltd-acquired-substantially-all-of-the-assets-of-38199554/",
+      "source_title": "MarketScreener - Gary Jonas Computing Ltd acquisition of PAR Springer-Miller Systems",
+      "confidence": "third_party"
+    },
+    {
+      "item": "Springer-Miller Systems acquisition price (source 2)",
+      "period": "2015-11",
+      "value": 16.6,
+      "unit": "USD million",
+      "source_url": "https://www.phocuswire.com/Hotel-IT-provider-Springer-Miller-sold-to-Constellation-for-16-6-million",
+      "source_title": "Hotel IT provider Springer-Miller sold to Constellation for $16.6 million | PhocusWire",
+      "confidence": "third_party",
+      "note": "Conflict: source 1 reports $18.1M, source 2 reports $16.6M for same November 2015 acquisition"
+    },
+    {
+      "item": "acquisitions per year average",
+      "period": "2020-2025",
+      "value": 4.4,
+      "unit": "acquisitions per year",
+      "source_url": "https://jonassoftware.com/2024-year-in-review",
+      "source_title": "2024 Year in Review - Jonas Software",
+      "confidence": "company"
+    }
+  ],
+  "facts": [
+    {
+      "item": "formation and origin",
+      "text": "In June 2003, Constellation Software acquired Gary Jonas Computing Ltd., resulting in the formation of the Jonas Software operating group and its first two brands: Jonas Club Software and Jonas Construction Software.",
+      "period": "2003",
+      "source_url": "https://jonassoftware.com/20-years-of-jonas",
+      "source_title": "20 Years of Jonas Software Operating Group - Jonas Software",
+      "confidence": "company"
+    },
+    {
+      "item": "parent company relationship",
+      "text": "Jonas Software is an operating group of Constellation Software, Inc. (CSI), a public company listed on the Toronto Stock Exchange (CSU.TO).",
+      "period": "2024",
+      "source_url": "https://jonassoftware.com/about-us",
+      "source_title": "About Us - Jonas Software",
+      "confidence": "company"
+    },
+    {
+      "item": "Barry Symons tenure as CEO",
+      "text": "Barry Symons has been CEO of Jonas Software since late 2007 (specifically August 2007), and previously served as Chief Financial Officer of Constellation Software from 2004 to 2007.",
+      "period": "2007-present",
+      "source_url": "https://jonassoftware.com/our-team",
+      "source_title": "Our Team - Jonas Software",
+      "confidence": "company"
+    },
+    {
+      "item": "CORA Group launch",
+      "text": "CORA Group was launched in November 2022 to increase capacity for completing acquisitions and onboarding newly acquired software businesses, and operates over 150 independently managed software brands worldwide.",
+      "period": "2022",
+      "source_url": "https://jonassoftware.com/jonas-software-launches-cora-group",
+      "source_title": "Jonas Software Launches CORA Group - Jonas Software",
+      "confidence": "company"
+    },
+    {
+      "item": "2024 acquisitions record",
+      "text": "2024 was a record-breaking year for Jonas Software, with 29 innovative software companies acquired, of which 19 were advisor-led processes, bringing total acquisitions to over 175.",
+      "period": "2024",
+      "source_url": "https://jonassoftware.com/2024-year-in-review",
+      "source_title": "2024 Year in Review - Jonas Software",
+      "confidence": "company"
+    },
+    {
+      "item": "Springer-Miller Systems acquisition",
+      "text": "On November 4, 2015, Gary Jonas Computing Ltd. and Jonas Computing (UK) Ltd. completed the acquisition of substantially all assets of PAR Springer-Miller Systems from PAR Technology Corporation, expanding Jonas into luxury hotel and hospitality software.",
+      "period": "2015",
+      "source_url": "https://www.globenewswire.com/news-release/2015/11/04/1061517/0/en/Constellation-Software-s-Jonas-Division-Completes-Acquisition-of-PAR-Springer-Miller-Systems.html",
+      "source_title": "Constellation Software's Jonas Division Completes Acquisition of PAR Springer-Miller Systems",
+      "confidence": "company"
+    },
+    {
+      "item": "Bookassist acquisition",
+      "text": "Jonas Software announced the acquisition of Bookassist Holdings Limited on December 13, 2017, a leading provider of booking, digital marketing, and distribution management technology for the hospitality industry.",
+      "period": "2017",
+      "source_url": "https://jonassoftware.com/jonas-software-announces-the-acquisition-of-bookassist",
+      "source_title": "Jonas Software Announces the Acquisition of Bookassist Holdings Ltd.",
+      "confidence": "company"
+    },
+    {
+      "item": "Barry Symons background",
+      "text": "Barry Symons holds an Honours Business Degree and a Chartered Accountancy Designation, both received with Distinction. Prior to joining Jonas, he spent 11 years with Constellation Software starting in its infancy, culminating in his role as Chief Financial Officer.",
+      "period": "2007",
+      "source_url": "https://jonassoftware.com/our-team",
+      "source_title": "Our Team - Jonas Software",
+      "confidence": "company"
+    },
+    {
+      "item": "Constellation Software organic growth",
+      "text": "Constellation Software reported organic growth of 2% in 2024, with revenue growth overwhelmingly driven by acquisitions rather than organic expansion in mature vertical market software businesses.",
+      "period": "2024",
+      "source_url": "https://jonassoftware.com/constellation-software-results-2024",
+      "source_title": "Constellation Software Inc. Announces Results for Q4 and Year Ended December 31, 2024 - Jonas Software",
+      "confidence": "third_party"
+    },
+    {
+      "item": "Matt Otchet role",
+      "text": "Matt Otchet serves as Group CEO for Foodservice, Construction, Continuing Education, Legal Software & Retail Liquor POS at Jonas Software, and is also the CEO of CORA Group. He joined Jonas through the acquisition of Clubsystems Group in 2005.",
+      "period": "2024",
+      "source_url": "https://craft.co/jonas-software/executives",
+      "source_title": "Jonas Software CEO and Key Executive Team | Craft.co",
+      "confidence": "third_party"
+    },
+    {
+      "item": "Jim Fedigan role",
+      "text": "Jim Fedigan serves as Group CEO of Jonas Club and Hospitality Divisions, and was promoted to President of Jonas Club Software in 2011. The Club & Hospitality portfolio, originally established in 2003, has acquired 22 independently managed companies and serves 750+ employees.",
+      "period": "2024",
+      "source_url": "https://www.crunchbase.com/person/jim-fedigan",
+      "source_title": "Jim Fedigan - Group CEO - Jonas Club and Hospitality Divisions @ Jonas Software - Crunchbase Person Profile",
+      "confidence": "third_party"
+    },
+    {
+      "item": "Neil Ashizawa role",
+      "text": "Neil Ashizawa serves as Chief Strategy Officer at Jonas Software, bringing experience from previous roles including Chief Product Officer, with expertise in SaaS, Agile Methodologies, Enterprise Software, Cloud Computing, and Go-to-market Strategy.",
+      "period": "2024",
+      "source_url": "https://www.crunchbase.com/person/neil-ashizawa-8f68",
+      "source_title": "Neil Ashizawa - Chief Product Officer @ Jonas Software - Crunchbase Person Profile",
+      "confidence": "third_party"
+    },
+    {
+      "item": "2025 acquisitions announced",
+      "text": "In 2025, Jonas Software announced 10 strategic acquisitions, bringing its total acquisitions to over 185 independently managed software companies worldwide.",
+      "period": "2025",
+      "source_url": "https://jonassoftware.com/2025-year-in-review",
+      "source_title": "2025 Year in Review - Jonas Software",
+      "confidence": "company"
+    },
+    {
+      "item": "AI development commitment",
+      "text": "Jonas Fitness commits millions of dollars towards AI development, indicating artificial intelligence is a key focus area within the Jonas Software ecosystem.",
+      "period": "2025",
+      "source_url": "https://jonasfitness.com/roadmap/",
+      "source_title": "Development Roadmap - Resources - Jonas Fitness, Inc.",
+      "confidence": "company"
+    }
+  ],
+  "verticals": [
+    "construction",
+    "club management",
+    "fitness",
+    "leisure",
+    "sports",
+    "hospitality",
+    "hotels",
+    "resorts",
+    "foodservice",
+    "education",
+    "continuing education",
+    "retail",
+    "liquor and wine",
+    "attractions",
+    "marina management",
+    "metal service centers",
+    "moving and storage",
+    "salon and spa",
+    "health care",
+    "case management",
+    "legal software",
+    "loyalty programs",
+    "long-term care",
+    "food and beverage"
+  ],
+  "geographies": [
+    "Canada",
+    "United States",
+    "United Kingdom",
+    "Europe",
+    "Australia",
+    "South America",
+    "Africa"
+  ],
+  "notable_businesses": [
+    {
+      "name": "Gary Jonas Computing Ltd.",
+      "vertical": "construction, club management",
+      "acquired": "2003",
+      "price": "undisclosed",
+      "source_url": "https://jonassoftware.com/20-years-of-jonas"
+    },
+    {
+      "name": "EZ Facility",
+      "vertical": "fitness, leisure, sports",
+      "acquired": "2009",
+      "price": "undisclosed",
+      "source_url": "https://www.csisoftware.com/constellation-software-inc-acquires-the-business-assets-of-ez-facility-com-inc/"
+    },
+    {
+      "name": "Jonas Fitness (Club Solutions from Fiserv)",
+      "vertical": "fitness, leisure, sports",
+      "acquired": "2013",
+      "price": "undisclosed",
+      "source_url": "https://www.globenewswire.com/news-release/2013/03/14/1474919/0/en/Constellation-Software-Inc-Acquires-the-Business-Assets-of-Club-Solutions-from-Fiserv-Inc.html"
+    },
+    {
+      "name": "PAR Springer-Miller Systems",
+      "vertical": "hospitality, hotels, resorts, spa",
+      "acquired": "2015",
+      "price": "$18.1 million or $16.6 million (conflicting sources)",
+      "source_url": "https://www.globenewswire.com/news-release/2015/11/04/1061517/0/en/Constellation-Software-s-Jonas-Division-Completes-Acquisition-of-PAR-Springer-Miller-Systems.html"
+    },
+    {
+      "name": "Bookassist Holdings Limited",
+      "vertical": "hospitality, hotels, resorts",
+      "acquired": "2017",
+      "price": "undisclosed",
+      "source_url": "https://jonassoftware.com/jonas-software-announces-the-acquisition-of-bookassist"
+    },
+    {
+      "name": "CORA Group portfolio",
+      "vertical": "foodservice, construction, loyalty, legal, long-term care, wine/spirits, moving/storage",
+      "acquired": "2022 (group launch)",
+      "price": "undisclosed (30+ companies)",
+      "source_url": "https://jonassoftware.com/jonas-software-launches-cora-group"
+    }
+  ],
+  "leadership": [
+    {
+      "name": "Barry Symons",
+      "role": "Chief Executive Officer, Jonas Software",
+      "since": "2007",
+      "background": "Chartered Accountant with Honours Business Degree; spent 11 years at Constellation Software (1996-2007), serving as CFO (2004-2007) before joining Jonas",
+      "source_url": "https://jonassoftware.com/our-team"
+    },
+    {
+      "name": "Matt Otchet",
+      "role": "Group CEO, Foodservice, Construction, Continuing Education, Legal Software & Retail Liquor POS; CEO of CORA Group",
+      "since": "2005",
+      "background": "Joined Jonas through acquisition of Clubsystems Group in 2005; cultivated expertise across multiple brands within CORA portfolio",
+      "source_url": "https://craft.co/jonas-software/executives"
+    },
+    {
+      "name": "Jim Fedigan",
+      "role": "Group CEO, Jonas Club and Hospitality Divisions (Vertus Group)",
+      "since": "2011",
+      "background": "Promoted to President of Jonas Club Software in 2011; attended Clarion University of Pennsylvania; holds leadership positions in technology including customer service, product development, and IT",
+      "source_url": "https://www.crunchbase.com/person/jim-fedigan"
+    },
+    {
+      "name": "Neil Ashizawa",
+      "role": "Chief Strategy Officer, Jonas Software",
+      "since": "unknown",
+      "background": "Previously served as Chief Product Officer; brings expertise in SaaS, Agile Methodologies, Enterprise Software, Cloud Computing, and Go-to-market Strategy; attended San Jose State University",
+      "source_url": "https://www.crunchbase.com/person/neil-ashizawa-8f68"
+    }
+  ],
+  "gaps": [
+    "Specific organic growth percentage for Jonas Software (only parent Constellation's 2% overall reported)",
+    "Customer acquisition cost or lifetime value metrics",
+    "Employee attrition rate or turnover statistics",
+    "Detailed revenue breakdown by vertical or geography",
+    "Specific acquisition pricing for majority of deals (most prices undisclosed)",
+    "Stated hurdle rate or IRR targets specific to Jonas",
+    "Disclosed shareholder returns or cash flow metrics",
+    "Detailed narrative on employee retention or customer churn strategies",
+    "Specific AI product launches or features in Jonas portfolio",
+    "Any spin-outs, carve-outs, or transfers to other Constellation groups",
+    "Marketing and brand awareness initiatives or go-to-market strategies",
+    "Detailed organic growth versus acquisition-driven growth breakdown for Jonas"
+  ]
+}

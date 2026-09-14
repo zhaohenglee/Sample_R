@@ -1,0 +1,412 @@
+{
+  "holding": "Perseus Group",
+  "type": "private operating group",
+  "search_count": 30,
+  "figures": [
+    {
+      "item": "number of businesses",
+      "period": "2024",
+      "value": 70,
+      "unit": "businesses (70+)",
+      "source_url": "https://csiperseus.com/about/",
+      "source_title": "About | Perseus Group",
+      "confidence": "company",
+      "note": null
+    },
+    {
+      "item": "number of verticals",
+      "period": "2024",
+      "value": 12,
+      "unit": "verticals (12+)",
+      "source_url": "https://csiperseus.com/about/",
+      "source_title": "About | Perseus Group",
+      "confidence": "company",
+      "note": null
+    },
+    {
+      "item": "number of employees",
+      "period": "2024",
+      "value": 6000,
+      "unit": "employees (6,000+)",
+      "source_url": "https://zoominfo.com/c/perseus-operating-group/443384179",
+      "source_title": "Perseus Group - Overview, News & Similar companies | ZoomInfo.com",
+      "confidence": "third_party",
+      "note": "Alternative source indicates 3.9K employees; figure varies by reporting date"
+    },
+    {
+      "item": "total acquisitions completed",
+      "period": "2024",
+      "value": 1100,
+      "unit": "acquisitions (1,100+)",
+      "source_url": "https://csiperseus.com/about/",
+      "source_title": "About | Perseus Group",
+      "confidence": "company",
+      "note": "Since 1995 parent company history"
+    },
+    {
+      "item": "annual revenue",
+      "period": "FY2024",
+      "value": 10.06,
+      "unit": "billion USD",
+      "source_url": "https://csiperseus.com/wp-content/uploads/2025/12/Working-With-Perseus.pdf",
+      "source_title": "01 Working with Perseus Group",
+      "confidence": "company",
+      "note": null
+    },
+    {
+      "item": "free cash flow",
+      "period": "FY2024",
+      "value": 1.47,
+      "unit": "billion USD",
+      "source_url": "https://csiperseus.com/wp-content/uploads/2025/12/Working-With-Perseus.pdf",
+      "source_title": "01 Working with Perseus Group",
+      "confidence": "company",
+      "note": "Part of Constellation Software Inc. consolidated figures"
+    },
+    {
+      "item": "global offices",
+      "period": "2024",
+      "value": 40,
+      "unit": "offices (40+)",
+      "source_url": "https://csiperseus.com/about/",
+      "source_title": "About | Perseus Group",
+      "confidence": "company",
+      "note": null
+    },
+    {
+      "item": "Optimal Blue acquisition total consideration",
+      "period": "2023",
+      "value": 700,
+      "unit": "million USD",
+      "source_url": "https://www.csisoftware.com/category/press-releases/2023/09/15/constellation-software-s-perseus-group-completes-acquisition-of-black-knight-s-empower-and-optimal-blue-businesses",
+      "source_title": "Constellation Software's Perseus Group Completes Acquisition of Black Knight's Empower and Optimal Blue Businesses | CSI Software",
+      "confidence": "company",
+      "note": "Structured as $200M cash + $500M promissory note at 7% over 40 years"
+    },
+    {
+      "item": "Optimal Blue acquisition - cash payment",
+      "period": "2023",
+      "value": 200,
+      "unit": "million USD",
+      "source_url": "https://www.csisoftware.com/category/press-releases/2023/09/15/constellation-software-s-perseus-group-completes-acquisition-of-black-knight-s-empower-and-optimal-blue-businesses",
+      "source_title": "Constellation Software's Perseus Group Completes Acquisition of Black Knight's Empower and Optimal Blue Businesses | CSI Software",
+      "confidence": "company",
+      "note": null
+    },
+    {
+      "item": "Optimal Blue acquisition - promissory note",
+      "period": "2023",
+      "value": 500,
+      "unit": "million USD",
+      "source_url": "https://www.csisoftware.com/category/press-releases/2023/09/15/constellation-software-s-perseus-group-completes-acquisition-of-black-knight-s-empower-and-optimal-blue-businesses",
+      "source_title": "Constellation Software's Perseus Group Completes Acquisition of Black Knight's Empower and Optimal Blue Businesses | CSI Software",
+      "confidence": "company",
+      "note": "40-year promissory note at 7% interest to Black Knight (subsidiary of ICE)"
+    },
+    {
+      "item": "acquisitions in 2024",
+      "period": "2024",
+      "value": 3,
+      "unit": "acquisitions",
+      "source_url": "https://tracxn.com/d/acquisitions/acquisitions-by-perseus/__yiw8zrP-KNzZI9HfNoA6Kqw2yBtktposTboAZNjRLB8",
+      "source_title": "List of 15 Acquisitions by Perseus (Jul 2026) - Tracxn",
+      "confidence": "third_party",
+      "note": "Peak acquisition activity year in recent period"
+    },
+    {
+      "item": "acquisitions in 2023",
+      "period": "2023",
+      "value": 2,
+      "unit": "acquisitions",
+      "source_url": "https://tracxn.com/d/acquisitions/acquisitions-by-perseus/__yiw8zrP-KNzZI9HfNoA6Kqw2yBtktposTboAZNjRLB8",
+      "source_title": "List of 15 Acquisitions by Perseus (Jul 2026) - Tracxn",
+      "confidence": "third_party",
+      "note": null
+    },
+    {
+      "item": "acquisitions in 2020",
+      "period": "2020",
+      "value": 2,
+      "unit": "acquisitions",
+      "source_url": "https://tracxn.com/d/acquisitions/acquisitions-by-perseus/__yiw8zrP-KNzZI9HfNoA6Kqw2yBtktposTboAZNjRLB8",
+      "source_title": "List of 15 Acquisitions by Perseus (Jul 2026) - Tracxn",
+      "confidence": "third_party",
+      "note": null
+    },
+    {
+      "item": "Dark Matter Technology workforce",
+      "period": "2025",
+      "value": 750,
+      "unit": "employees",
+      "source_url": "https://analyticsindiamag.com/ai-news-updates/constellation-perseus-launches-darkmatter-its-gcc-in-hyderabad/",
+      "source_title": "Constellation Perseus Launches DarkMatter, its GCC in Hyderabad | AIM",
+      "confidence": "third_party",
+      "note": "Global Capability Centre in Hyderabad launched 2024, expanded to 750 by 2025 with plans to triple workforce"
+    }
+  ],
+  "facts": [
+    {
+      "item": "founding and strategy",
+      "text": "Perseus was founded in early 2004 by Dexter Salna with a 40-employee, Toronto-based acquisition. It pursues a permanent buy-and-hold acquisition strategy, never re-selling businesses that join the group.",
+      "period": "2004",
+      "source_url": "https://www.csisoftware.com/constellation-announces-the-retirement-of-dexter-salna/",
+      "source_title": "Constellation announces the retirement of Dexter Salna | CSI Software",
+      "confidence": "company"
+    },
+    {
+      "item": "parent company relationship",
+      "text": "Perseus is one of six operating groups within Constellation Software Inc. (TSX: CSU). The parent company Constellation Software has completed over 1,000 acquisitions since 1995.",
+      "period": "2024",
+      "source_url": "https://csiperseus.com/about/",
+      "source_title": "About | Perseus Group",
+      "confidence": "company"
+    },
+    {
+      "item": "Optimal Blue acquisition announcement",
+      "text": "Constellation Software's Perseus Group entered into an Equity Purchase Agreement to acquire Optimal Blue Business Division of Black Knight, Inc. for $700 million USD on July 14, 2023. The structure included $200 million in cash with the remainder financed by a $500 million USD promissory note at 7 percent interest over 40 years.",
+      "period": "2023",
+      "source_url": "https://www.csisoftware.com/category/press-releases/2023/07/17/constellation-software-s-perseus-group-enters-into-agreement-to-acquire-black-knight-s-optimal-blue-business",
+      "source_title": "Constellation Software's Perseus Group Enters into Agreement to Acquire Black Knight's Optimal Blue Business | CSI Software",
+      "confidence": "company"
+    },
+    {
+      "item": "Optimal Blue and Empower completion",
+      "text": "Perseus completed the acquisitions of Optimal Blue and the Empower loan origination system (LOS) from Black Knight, Inc. on September 15, 2023. Optimal Blue is the market leader in mortgage secondary marketing technology.",
+      "period": "2023",
+      "source_url": "https://www.csisoftware.com/category/press-releases/2023/09/15/constellation-software-s-perseus-group-completes-acquisition-of-black-knight-s-empower-and-optimal-blue-businesses",
+      "source_title": "Constellation Software's Perseus Group Completes Acquisition of Black Knight's Empower and Optimal Blue Businesses | CSI Software",
+      "confidence": "company"
+    },
+    {
+      "item": "Empower loan origination system value",
+      "text": "The Empower LOS acquisition price was not publicly disclosed. Market estimates suggested Empower could be valued around $400 million based on Black Knight's solicitation of buyers.",
+      "period": "2023",
+      "source_url": "https://www.housingwire.com/articles/black-knight-to-sell-empower-loan-origination-software-business/",
+      "source_title": "Black Knight to sell Empower loan origination software business? | HousingWire",
+      "confidence": "third_party"
+    },
+    {
+      "item": "AI strategy and Dark Matter Technology",
+      "text": "In 2025, the Perseus Group of Constellation Software launched Dark Matter Technology, a cutting-edge Global Capability Centre in Hyderabad, India focused on AI, machine learning, cloud computing, and cybersecurity. The center began in 2024 with 750 employees and plans to triple its workforce.",
+      "period": "2025",
+      "source_url": "https://analyticsindiamag.com/ai-news-updates/constellation-perseus-launches-darkmatter-its-gcc-in-hyderabad/",
+      "source_title": "Constellation Perseus Launches DarkMatter, its GCC in Hyderabad | AIM",
+      "confidence": "third_party"
+    },
+    {
+      "item": "AI integration in vertical market software",
+      "text": "Constellation Software, through Perseus and its portfolio, is actively integrating artificial intelligence into its vertical market software products to enhance functionality. AI is being leveraged to reduce loan origination time and deliver insights shaped around customers' industry requirements.",
+      "period": "2024",
+      "source_url": "https://kalkinemedia.com/ca/stocks/artificial-intelligence/constellation-software-tsxcsu-can-ai-deepen-its-advantage",
+      "source_title": "Constellation Software (TSX:CSU): Can AI Strengthen Its Software Edge?",
+      "confidence": "third_party"
+    },
+    {
+      "item": "Auto-IT acquisition",
+      "text": "Perseus completed the acquisition of Auto-IT Pty Ltd, a market leading dealer management system for franchise automotive, agriculture, trucking and construction equipment markets, on March 4, 2024. This marked Perseus' tenth acquisition in the dealership software market.",
+      "period": "2024",
+      "source_url": "https://www.businesswire.com/news/home/20240303858962/en/Perseus-Operating-Group-of-Constellation-Software-Completes-Acquisition-of-Auto-IT-Group",
+      "source_title": "Perseus Operating Group of Constellation Software Completes Acquisition of Auto-IT Group | BusinessWire",
+      "confidence": "company"
+    },
+    {
+      "item": "Valeyo acquisition",
+      "text": "In April 2024, Perseus Group Software Corp. acquired Valeyo Inc. and its loan origination software (LOS) business from Securian Canada, Inc. This acquisition amplified Perseus' mortgage technology suite.",
+      "period": "2024",
+      "source_url": "https://www.businesswire.com/news/home/20240405187531/en/Securian-Canada-Inc.-Announces-Sale-of-Valeyo-Inc.-and-Its-Loan-Origination-Software-to-Perseus-Group-Software-Corp.",
+      "source_title": "Securian Canada Inc. Announces Sale of Valeyo Inc. and Its Loan Origination Software to Perseus Group Software Corp. | BusinessWire",
+      "confidence": "company"
+    },
+    {
+      "item": "IronHQ acquisition",
+      "text": "Perseus completed the acquisition of IronHQ, a provider of end-to-end dealership solutions for the agriculture and construction equipment dealership market, in March 2026. This was Perseus' 11th acquisition within the dealer ecosystem.",
+      "period": "2026",
+      "source_url": "https://www.businesswire.com/news/home/20260323075607/en/Perseus-Operating-Group-of-Constellation-Software-Completes-Acquisition-of-IronHQ",
+      "source_title": "Perseus Operating Group of Constellation Software Completes Acquisition of IronHQ | BusinessWire",
+      "confidence": "company"
+    },
+    {
+      "item": "Starkwood acquisition",
+      "text": "Perseus completed the acquisition of Starkwood Media Group in April 2026, a leading provider of website design and digital solutions for car, van, motorbike and leisure vehicle dealers across the United Kingdom.",
+      "period": "2026",
+      "source_url": "https://www.businesswire.com/news/home/20260427919498/en/Perseus-Operating-Group-of-Constellation-Software-Acquires-Starkwood",
+      "source_title": "Perseus Operating Group of Constellation Software Acquires Starkwood | BusinessWire",
+      "confidence": "company"
+    },
+    {
+      "item": "Dexter Salna leadership and retirement",
+      "text": "Dexter Salna served as the chief executive and architect of Perseus from its founding in early 2004 until his retirement effective December 31, 2023. He became Chairman of Perseus Operating Group starting 2022 and continues in that role after his retirement as CEO.",
+      "period": "2023",
+      "source_url": "https://www.csisoftware.com/constellation-announces-the-retirement-of-dexter-salna/",
+      "source_title": "Constellation announces the retirement of Dexter Salna | CSI Software",
+      "confidence": "company"
+    },
+    {
+      "item": "Bonnie Wilhelm leadership",
+      "text": "Bonnie Wilhelm has served as Co-President of Perseus Group since 2022. She is also Chief Executive Officer of Andromeda Division and Chief Operating Officer of Perseus Operating Group. Prior to 2022, she was CFO and Vice President at Constellation HomeBuilder Systems from 2012 to 2022.",
+      "period": "2022",
+      "source_url": "https://www.linkedin.com/in/bwilhelm/",
+      "source_title": "Bonnie Wilhelm - Perseus Group, Constellation Software | LinkedIn",
+      "confidence": "third_party"
+    },
+    {
+      "item": "board composition",
+      "text": "The Perseus Group board includes Dexter Salna (Chairman), Mark Leonard (Founder and Chairman of Constellation Software), and Bernie Anzarouth (Chief Investment Officer of Constellation Software).",
+      "period": "2024",
+      "source_url": "https://www.csisoftware.com/constellation-announces-the-retirement-of-dexter-salna/",
+      "source_title": "Constellation announces the retirement of Dexter Salna | CSI Software",
+      "confidence": "company"
+    },
+    {
+      "item": "deal attrition",
+      "text": "Constellation Software has acknowledged that Perseus runs effective processes that are free of last-minute deal attrition, which is important to the company's acquisition model.",
+      "period": "2024",
+      "source_url": "https://csiperseus.com/wp-content/uploads/2025/12/Working-With-Perseus.pdf",
+      "source_title": "01 Working with Perseus Group",
+      "confidence": "company"
+    },
+    {
+      "item": "headquarters location",
+      "text": "Perseus Group is headquartered in Markham, Ontario, Canada at 8133 Warden Ave, 7th Floor, Markham, Ontario L6G 1B3.",
+      "period": "2024",
+      "source_url": "https://craft.co/perseus-group/locations",
+      "source_title": "Perseus Group Corporate Headquarters, Office Locations and Addresses | Craft.co",
+      "confidence": "third_party"
+    }
+  ],
+  "verticals": [
+    "mortgage technology",
+    "loan origination systems",
+    "dealership software",
+    "automotive",
+    "agriculture equipment",
+    "construction equipment",
+    "homebuilding",
+    "real estate",
+    "healthcare",
+    "manufacturing",
+    "finance",
+    "staffing",
+    "specialty retail",
+    "digital marketing",
+    "auto repair",
+    "associations"
+  ],
+  "geographies": [
+    "Canada (Markham, Ontario headquarters)",
+    "United States",
+    "United Kingdom",
+    "Australia",
+    "India (Hyderabad - Dark Matter Technology center)",
+    "North America",
+    "Africa",
+    "6 continents (approximate)"
+  ],
+  "notable_businesses": [
+    {
+      "name": "Optimal Blue",
+      "vertical": "mortgage technology secondary marketing",
+      "acquired": "2023",
+      "price": "$700 million USD ($200M cash + $500M promissory note at 7% over 40 years)",
+      "source_url": "https://www.csisoftware.com/category/press-releases/2023/09/15/constellation-software-s-perseus-group-completes-acquisition-of-black-knight-s-empower-and-optimal-blue-businesses"
+    },
+    {
+      "name": "Empower Loan Origination System",
+      "vertical": "mortgage technology - loan origination",
+      "acquired": "2023",
+      "price": "undisclosed (estimated ~$400M USD)",
+      "source_url": "https://www.csisoftware.com/category/press-releases/2023/09/15/constellation-software-s-perseus-group-completes-acquisition-of-black-knight-s-empower-and-optimal-blue-businesses"
+    },
+    {
+      "name": "Auto-IT",
+      "vertical": "dealership software",
+      "acquired": "2024",
+      "price": "undisclosed",
+      "source_url": "https://www.businesswire.com/news/home/20240303858962/en/Perseus-Operating-Group-of-Constellation-Software-Completes-Acquisition-of-Auto-IT-Group"
+    },
+    {
+      "name": "IronHQ",
+      "vertical": "dealership software - agriculture and construction equipment",
+      "acquired": "2026",
+      "price": "undisclosed",
+      "source_url": "https://www.businesswire.com/news/home/20260323075607/en/Perseus-Operating-Group-of-Constellation-Software-Completes-Acquisition-of-IronHQ"
+    },
+    {
+      "name": "Starkwood Media Group",
+      "vertical": "digital solutions for vehicle dealers",
+      "acquired": "2026",
+      "price": "undisclosed",
+      "source_url": "https://www.businesswire.com/news/home/20260427919498/en/Perseus-Operating-Group-of-Constellation-Software-Acquires-Starkwood"
+    },
+    {
+      "name": "Valeyo",
+      "vertical": "loan origination software",
+      "acquired": "2024",
+      "price": "undisclosed",
+      "source_url": "https://www.businesswire.com/news/home/20240405187531/en/Securian-Canada-Inc.-Announces-Sale-of-Valeyo-Inc.-and-Its-Loan-Origination-Software-to-Perseus-Group-Software-Corp."
+    },
+    {
+      "name": "Axacore",
+      "vertical": "mortgage document management and fax solutions",
+      "acquired": "2022",
+      "price": "undisclosed",
+      "source_url": "https://www.prweb.com/releases/constellation-technology-solutions-acquires-axacore-into-mortgage-solutions-group-expanding-footprint-to-new-verticals-873970293.html"
+    },
+    {
+      "name": "BuildTopia",
+      "vertical": "homebuilding software",
+      "acquired": "2010",
+      "price": "undisclosed",
+      "source_url": "https://csiperseus.com/resources/industry/homebuilding/"
+    },
+    {
+      "name": "LandDev",
+      "vertical": "real estate land development software",
+      "acquired": "2023",
+      "price": "undisclosed",
+      "source_url": "https://tracxn.com/d/acquisitions/acquisitions-by-perseus/__yiw8zrP-KNzZI9HfNoA6Kqw2yBtktposTboAZNjRLB8"
+    }
+  ],
+  "leadership": [
+    {
+      "name": "Dexter Salna",
+      "role": "Founder and Chairman (retired as CEO)",
+      "since": "2004",
+      "background": "Founded Perseus with a 40-employee Toronto-based acquisition in early 2004. Served as Chief Executive and architect of Perseus until retirement December 31, 2023. Became Chairman in 2022 and continues in that role.",
+      "source_url": "https://www.csisoftware.com/constellation-announces-the-retirement-of-dexter-salna/"
+    },
+    {
+      "name": "Bonnie Wilhelm",
+      "role": "Co-President and COO of Perseus; CEO of Andromeda Division",
+      "since": "2022",
+      "background": "Served as CFO and Vice President at Constellation HomeBuilder Systems from 2012 to 2022. Became Co-President of Perseus Group in 2022 and is Chief Operating Officer of Perseus Operating Group.",
+      "source_url": "https://www.linkedin.com/in/bwilhelm/"
+    },
+    {
+      "name": "Mark Leonard",
+      "role": "Board Member; Founder and Chairman of Constellation Software",
+      "since": "unknown",
+      "background": "Founder of Constellation Software Inc. Serves on Perseus board. Announced in 2026 that he will not stand for re-election to Constellation Software board (term concluding May 15, 2026) but will continue as advisor to the company.",
+      "source_url": "https://www.csisoftware.com/constellation-software-inc-announces-mark-leonards-decision-to-not-stand-for-re-election-to-board-of-directors/"
+    },
+    {
+      "name": "Bernie Anzarouth",
+      "role": "Board Member; Chief Investment Officer of Constellation Software",
+      "since": "unknown",
+      "background": "Joined Mark Leonard early at Constellation Software to lead investment and finance strategy. Serves on Perseus board.",
+      "source_url": "https://www.csisoftware.com/constellation-announces-the-retirement-of-dexter-salna/"
+    }
+  ],
+  "gaps": [
+    "CEO replacement after Dexter Salna's retirement in December 2023 - no successor named in public disclosures",
+    "Specific acquisition prices for majority of deals (only Optimal Blue and Empower estimates disclosed)",
+    "Earnout or contingent payment terms beyond Optimal Blue's promissory note structure",
+    "Specific organic growth rates or organic growth commentary from Perseus management",
+    "Employee attrition rates or attrition commentary specific to Perseus",
+    "IRR targets or hurdle rate disclosures",
+    "Specific details on all 70+ businesses and their individual revenues",
+    "Exact list of countries where Perseus operates (6 continents confirmed, specific country count unknown)",
+    "NOVA LOS, Reverse Vision acquisition dates and prices (mentioned as part of mortgage portfolio)",
+    "Specific performance metrics comparing 2023, 2024, 2025, 2026 results"
+  ]
+}

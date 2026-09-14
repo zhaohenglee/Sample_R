@@ -1,0 +1,291 @@
+{
+  "holding": "Harris Computer",
+  "type": "private operating group",
+  "search_count": 30,
+  "figures": [
+    {
+      "item": "Number of businesses",
+      "period": "2025",
+      "value": 200,
+      "unit": "businesses (200+)",
+      "source_url": "https://www.harriscomputer.com/news/harris-year-in-review-looking-back-on-2025",
+      "source_title": "Harris Year-In-Review | Looking Back On 2025",
+      "confidence": "company"
+    },
+    {
+      "item": "Number of verticals",
+      "period": "2025",
+      "value": 26,
+      "unit": "verticals",
+      "source_url": "https://www.harriscomputer.com/solutions",
+      "source_title": "Solutions | Explore our growing portfolio of vertical market software businesses",
+      "confidence": "company"
+    },
+    {
+      "item": "Total employees",
+      "period": "2025",
+      "value": 24714,
+      "unit": "employees",
+      "source_url": "https://www.reveliolabs.com/companies/n-harris-computer/employees",
+      "source_title": "N Harris Computer Number of Employees 2026",
+      "confidence": "third_party",
+      "note": "Company reports 15,000+ employees; Revelio Labs reports 24,714"
+    },
+    {
+      "item": "Total employees",
+      "period": "2024",
+      "value": 25607,
+      "unit": "employees",
+      "source_url": "https://www.reveliolabs.com/companies/n-harris-computer/employees",
+      "source_title": "N Harris Computer Number of Employees 2026",
+      "confidence": "third_party"
+    },
+    {
+      "item": "Annual revenue",
+      "period": "2026",
+      "value": 1400,
+      "unit": "USD millions",
+      "source_url": "https://www.owler.com/company/harriscomputer",
+      "source_title": "Harris Computer's Competitors, Revenue, Number of Employees, Funding, Acquisitions & News",
+      "confidence": "third_party"
+    },
+    {
+      "item": "Acquisitions completed",
+      "period": "2025",
+      "value": 19,
+      "unit": "acquisitions",
+      "source_url": "https://www.harriscomputer.com/news/harris-year-in-review-looking-back-on-2025",
+      "source_title": "Harris Year-In-Review | Looking Back On 2025",
+      "confidence": "company"
+    },
+    {
+      "item": "Acquisitions completed",
+      "period": "2024",
+      "value": 24,
+      "unit": "acquisitions",
+      "source_url": "https://www.harriscomputer.com/news/harris-year-in-review-2024",
+      "source_title": "Harris Year-in-Review | Looking Back on 2024",
+      "confidence": "company"
+    },
+    {
+      "item": "Acquisitions completed",
+      "period": "2020",
+      "value": 6,
+      "unit": "acquisitions",
+      "source_url": "https://tracxn.com/d/acquisitions/acquisitions-by-harris-computer/__LQqwxWRr9zlBytJV3_Wf7Uq-ybYsNJosA6fOf9LY_y0",
+      "source_title": "List of 51 Acquisitions by Harris Computer (Aug 2026)",
+      "confidence": "third_party"
+    },
+    {
+      "item": "Acquisitions completed",
+      "period": "2021",
+      "value": 5,
+      "unit": "acquisitions",
+      "source_url": "https://tracxn.com/d/acquisitions/acquisitions-by-harris-computer/__LQqwxWRr9zlBytJV3_Wf7Uq-ybYsNJosA6fOf9LY_y0",
+      "source_title": "List of 51 Acquisitions by Harris Computer (Aug 2026)",
+      "confidence": "third_party"
+    },
+    {
+      "item": "Total acquisitions since founding",
+      "period": "since 1976",
+      "value": 270,
+      "unit": "acquisitions (270+)",
+      "source_url": "https://tracxn.com/d/acquisitions/acquisitions-by-harris-computer/__LQqwxWRr9zlBytJV3_Wf7Uq-ybYsNJosA6fOf9LY_y0",
+      "source_title": "List of 51 Acquisitions by Harris Computer (Aug 2026)",
+      "confidence": "third_party"
+    },
+    {
+      "item": "Average acquisitions per year",
+      "period": "2020-2025",
+      "value": 3,
+      "unit": "acquisitions/year",
+      "source_url": "https://tracxn.com/d/acquisitions/acquisitions-by-harris-computer/__LQqwxWRr9zlBytJV3_Wf7Uq-ybYsNJosA6fOf9LY_y0",
+      "source_title": "List of 51 Acquisitions by Harris Computer (Aug 2026)",
+      "confidence": "third_party"
+    },
+    {
+      "item": "North America employees",
+      "period": "2026",
+      "value": 8000,
+      "unit": "employees (8,000+)",
+      "source_url": "https://www.highperformr.ai/company/harris-computer.",
+      "source_title": "Where is Harris Computer Located? HQ, Global Offices & Company Insights",
+      "confidence": "third_party"
+    },
+    {
+      "item": "Europe employees",
+      "period": "2026",
+      "value": 1400,
+      "unit": "employees (1,400+)",
+      "source_url": "https://www.highperformr.ai/company/harris-computer.",
+      "source_title": "Where is Harris Computer Located? HQ, Global Offices & Company Insights",
+      "confidence": "third_party"
+    },
+    {
+      "item": "Asia employees",
+      "period": "2026",
+      "value": 3300,
+      "unit": "employees (3,300+)",
+      "source_url": "https://www.highperformr.ai/company/harris-computer.",
+      "source_title": "Where is Harris Computer Located? HQ, Global Offices & Company Insights",
+      "confidence": "third_party"
+    }
+  ],
+  "facts": [
+    {
+      "item": "Operating group structure",
+      "text": "Harris Computer is a wholly-owned subsidiary of Constellation Software Inc., a publicly-traded company on the Toronto Stock Exchange.",
+      "period": "2024-2025",
+      "source_url": "https://www.harriscomputer.com/constellation-software",
+      "source_title": "Constellation Software | Learn About Our Parent Company, CSI",
+      "confidence": "company"
+    },
+    {
+      "item": "Founding",
+      "text": "In July 1976, LEBS became the N. Harris Computer Corporation, with Nigel Harris becoming its first CEO. In 1996, twenty years after the founding, Nigel sold to Constellation Software Inc.",
+      "period": "1976-1996",
+      "source_url": "https://www.harriscomputer.com/our-story",
+      "source_title": "Our Story | Explore the Story Behind Harris and How Our Organization Began",
+      "confidence": "company"
+    },
+    {
+      "item": "Leadership transition",
+      "text": "In June 2024, Jeff Bender transitioned to Executive Chairman role after leading Harris for roughly two decades, and Jean Soucy became Group CEO on June 1, 2024.",
+      "period": "2024",
+      "source_url": "https://www.tipranks.com/news/the-fly/harris-operating-group-of-constellation-software-announces-executive-changes",
+      "source_title": "Harris operating group of constellation software announces executive changes",
+      "confidence": "company"
+    },
+    {
+      "item": "Acquisition strategy",
+      "text": "Harris's growth is skewed to M&A over organic breakthroughs. External analysis indicates operational strain risk from rapid, multi-vertical acquisitions that must be integrated while maintaining customer experience across a decentralized portfolio.",
+      "period": "2024-2025",
+      "source_url": "https://btw.media/en/harris-computer-and-the-six-year-goodbye",
+      "source_title": "Harris Computer and the six-year goodbye",
+      "confidence": "third_party"
+    },
+    {
+      "item": "AI initiatives",
+      "text": "Harris focuses on enabling teams to build mindset, systems, and capabilities to thrive in an era of intelligent work where AI enhances human potential. Harris Data Integrity Solutions offers an Intelligent MPI Triage Solution leveraging AI-driven logic paired with human intelligence.",
+      "period": "2024-2025",
+      "source_url": "https://ihcx.org/publications",
+      "source_title": "Artificial Intelligence (AI) at HHS - ONC",
+      "confidence": "third_party"
+    },
+    {
+      "item": "Organic growth commentary",
+      "text": "Harris seeks mission-critical vertical software with low attrition as a core acquisition criterion. For 2026, Harris aims to sustain organic and acquired growth by nurturing relationships within their community of software users and builders.",
+      "period": "2024-2025",
+      "source_url": "https://www.harriscomputer.com/news/harris-year-in-review-looking-back-on-2025",
+      "source_title": "Harris Year-In-Review | Looking Back On 2025",
+      "confidence": "company"
+    },
+    {
+      "item": "Employee headcount trend",
+      "text": "Harris Computer had 25,607 employees in 2024, declining to 24,714 employees in 2025, a 1.8% decline year-over-year.",
+      "period": "2024-2025",
+      "source_url": "https://www.reveliolabs.com/companies/n-harris-computer/employees",
+      "source_title": "N Harris Computer Number of Employees 2026",
+      "confidence": "third_party"
+    },
+    {
+      "item": "Customer scale",
+      "text": "Harris serves over 165,300 customers across 26 verticals.",
+      "period": "2025-2026",
+      "source_url": "https://www.harriscomputer.com/solutions",
+      "source_title": "Solutions | Explore our growing portfolio of vertical market software businesses",
+      "confidence": "company"
+    }
+  ],
+  "verticals": [
+    "Public Sector",
+    "Healthcare",
+    "Utilities",
+    "Private Sector",
+    "Insurance",
+    "Government Technology",
+    "Education",
+    "Local Government",
+    "Public Safety",
+    "Staffing",
+    "Telecommunications",
+    "Retail",
+    "Payment Solutions",
+    "Enterprise Resource Planning"
+  ],
+  "geographies": [
+    "North America",
+    "Europe",
+    "Asia",
+    "Australia",
+    "South America",
+    "Africa",
+    "Canada",
+    "United States",
+    "Middle East"
+  ],
+  "notable_businesses": [
+    {
+      "name": "Altera Digital Health (formerly Allscripts Hospitals and Large Physician Practices)",
+      "vertical": "Healthcare",
+      "acquired": 2022,
+      "price": "GBP 526 million (USD 700 million) fixed GBP 503 million (USD 670 million) plus contingent consideration up to GBP 22.5 million (USD 30 million)",
+      "source_url": "https://www.alterahealth.com/newsroom/harris-completes-purchase-of-allscripts-hospitals-and-large-physician-practices-business-segment/"
+    },
+    {
+      "name": "MEDHOST, Inc.",
+      "vertical": "Healthcare",
+      "acquired": 2023,
+      "price": "undisclosed",
+      "source_url": "https://www.globenewswire.com/news-release/2023/12/22/2800858/0/en/Constellation-Software-s-Harris-Operating-Group-Acquires-MEDHOST-Inc.html"
+    },
+    {
+      "name": "Groupe PG",
+      "vertical": "Unknown",
+      "acquired": 2022,
+      "price": "undisclosed",
+      "source_url": "https://www.privsource.com/acquisitions/deal/n-harris-computer-corporation-acquires-amazing-charts-9zSkrG"
+    },
+    {
+      "name": "Agency Software, Inc.",
+      "vertical": "Insurance",
+      "acquired": "unknown",
+      "price": "undisclosed",
+      "source_url": "https://www.harriscomputer.com/insurance"
+    }
+  ],
+  "leadership": [
+    {
+      "name": "Nigel Harris",
+      "role": "Founder and First CEO",
+      "since": 1976,
+      "background": "Founded N. Harris Computer Corporation in July 1976, sold company to Constellation Software in 1996.",
+      "source_url": "https://www.harriscomputer.com/our-story"
+    },
+    {
+      "name": "Jeff Bender",
+      "role": "Executive Chairman (former CEO)",
+      "since": "unknown",
+      "background": "Held CFO and COO roles before becoming CEO. Spent 7 years at Deloitte & Touche in technology business practice. Bachelor of Commerce from Carleton University. Member of Ontario Institute of Chartered Accountants. Transitioned to Executive Chairman in June 2024.",
+      "source_url": "https://www.harriscomputer.com/leadership"
+    },
+    {
+      "name": "Jean Soucy",
+      "role": "Group CEO",
+      "since": 2024,
+      "background": "Joined Harris in 2012 as Public Sector Group President. Over 25 years software industry experience. Prior roles at DLGL, MediSolution, 20-20 Technologies, StormMaker, Nortel Networks, and RAND Worldwide. Bachelor of Mechanical Engineering from Ecole Polytechnique, MBA from Concordia University.",
+      "source_url": "https://ca.linkedin.com/in/jeanpsoucy"
+    }
+  ],
+  "gaps": [
+    "Exact start date of Jeff Bender at Harris Computer",
+    "Specific revenue figures for 2023 and 2024 (only 2026 available)",
+    "Free cash flow figures",
+    "Specific organic growth rates vs. inorganic",
+    "Number of acquisitions completed in 2022 and 2023 individually",
+    "Typical deal size range",
+    "Stated hurdle rate or IRR targets",
+    "Disclosed returns on acquisitions",
+    "Specific AI product launches beyond data integrity solutions"
+  ]
+}
