@@ -1,5 +1,6 @@
 # Long Term Hold Workflow: Constellation Software and its Holding Companies
-\nStatus: complete on 2026-09-14. Report, review and executive summary delivered; see report.md and review.md.
+
+Status: complete on 2026-09-14. Report, review and executive summary delivered; see report.md and review.md.
 
 Designed by Fable 5.1 on 2026-09-14 at the user's request. Seven stages. Model routing follows `.claude/instructions.md`: Opus by default for judgment, Fable only where the user called for it, Sonnet and Haiku for volume, scripts for arithmetic.
 
