@@ -3,7 +3,7 @@
 // survived removal with the rest of the suite green.
 import { describe, it, expect } from "vitest";
 import { parseImportBody, importErrorResponse } from "@/lib/import-request";
-import { ImportTooLargeError, MAX_IMPORT_BYTES, MAX_IMPORT_ROWS } from "@/lib/csv";
+import { ImportTooLargeError, MAX_IMPORT_BYTES, MAX_IMPORT_ROWS, parseCsvWithLimits } from "@/lib/csv";
 import { ValidationError } from "@/lib/categories";
 
 const MAPPING = {
@@ -44,6 +44,14 @@ describe("parseImportBody", () => {
     expect(justUnderInChars.length).toBeLessThan(MAX_IMPORT_BYTES);
     expect(Buffer.byteLength(justUnderInChars, "utf8")).toBeGreaterThan(MAX_IMPORT_BYTES);
     expect(() => parseImportBody(body({ csv: justUnderInChars }))).toThrow(ImportTooLargeError);
+  });
+
+  // The cap is enforced twice, before parsing and during it. Deleting
+  // either copy alone left the suite green, so each is asserted directly:
+  // this one covers the parser's own check.
+  it("the parser enforces the byte cap on its own", () => {
+    const oversize = "date,d,a\n" + "€".repeat(Math.ceil(MAX_IMPORT_BYTES / 3));
+    expect(() => parseCsvWithLimits(oversize)).toThrow(ImportTooLargeError);
   });
 
   it("rejects a file over the row cap", () => {

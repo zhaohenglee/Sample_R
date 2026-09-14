@@ -212,9 +212,12 @@ export function parseAmount(raw: string): number | null {
     s = paren[1].trim();
   }
 
-  // A leading or trailing ISO 4217 style code ("USD 4.50", "4.50 EUR") is a
-  // currency label, not part of the number, so drop it.
-  s = s.replace(/^[A-Za-z]{3}\s*/, "").replace(/\s*[A-Za-z]{3}$/, "");
+  // A short alphabetic label on either end is a currency or ledger marker,
+  // not part of the number: "USD 4.50", "4.50 EUR", "kr 1.234,50",
+  // "R$ 100,00", "1,234.56 CR". Up to three letters, because every real
+  // marker of this kind is that short and a looser rule would start eating
+  // digits' neighbours.
+  s = s.replace(/^[A-Za-z]{1,3}\s*/, "").replace(/\s*[A-Za-z]{1,3}$/, "");
   // Any other letter means this is not an amount. Stripping letters instead
   // would silently turn "1e3" into 13, which is the kind of quiet
   // mis-reading that puts a wrong number in someone's ledger. Refuse and

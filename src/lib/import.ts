@@ -9,7 +9,7 @@ import { db, schema } from "@/db";
 import { ValidationError } from "./categories";
 import { recomputeManualBalance } from "./manual";
 import { applyRulesToTransactions } from "./rules";
-import { dedupeHash, mapRows, type ColumnMapping, type CsvRecord, type RowError } from "./csv";
+import { dedupeHash, mapRows, normalizeDescription, type ColumnMapping, type CsvRecord, type RowError } from "./csv";
 
 const { accounts, transactions } = schema;
 
@@ -132,7 +132,11 @@ function splitDuplicates(
   const fresh: { row: (typeof valid)[number]; hash: string }[] = [];
   let duplicates = 0;
   for (const row of valid) {
-    const triple = `${row.date}|${row.amount.toFixed(2)}|${row.description.trim().toLowerCase()}`;
+    // Must normalize exactly as dedupeHash does. Keying the counter on a
+    // weaker normalization let two rows whose descriptions differed only in
+    // inner whitespace both take occurrence 0, collide on the hash, and
+    // drop one of them.
+    const triple = `${row.date}|${row.amount.toFixed(2)}|${normalizeDescription(row.description)}`;
     const occurrence = occurrences.get(triple) ?? 0;
     occurrences.set(triple, occurrence + 1);
     const hash = dedupeHash(row.date, row.amount, row.description, occurrence);

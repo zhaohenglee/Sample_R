@@ -154,6 +154,18 @@ describe("CSV import", () => {
     expect(await rowsFor(account.id)).toHaveLength(2);
   });
 
+  // The occurrence counter and the hash must normalize identically. When
+  // the counter used a weaker normalization, two rows differing only in
+  // inner whitespace both took occurrence 0 and one was dropped.
+  it("keeps rows whose descriptions differ only in inner whitespace", async () => {
+    const account = await seedAccount();
+    const file = ["date,description,amount", "2026-01-02,COFFEE  SHOP,4.50", "2026-01-02,COFFEE SHOP,4.50"].join("\n");
+    const result = await commitImport(account.id, MAPPING, records(file));
+    expect(result.imported).toBe(2);
+    expect(result.skippedDuplicates).toBe(0);
+    expect(await rowsFor(account.id)).toHaveLength(2);
+  });
+
   // A single INSERT binds 8 parameters per row against a 65535 cap, so an
   // unchunked import failed at 8192 rows -- inside the 10000 row allowance
   // the API advertises -- with an uncaught error and a 500.

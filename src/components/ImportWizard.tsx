@@ -114,6 +114,11 @@ export function ImportWizard({ accounts }: { accounts: Account[] }) {
         setPreview(data);
         setHeaders(data.headers);
       }
+    } catch {
+      // A dropped connection mid-upload rejects the fetch itself. Without
+      // this the spinner would clear and the user would see nothing at all.
+      setError("Could not reach the server. Check your connection and try again.");
+      setPreview(null);
     } finally {
       setBusy(false);
     }
@@ -134,6 +139,8 @@ export function ImportWizard({ accounts }: { accounts: Account[] }) {
         setFileName(null);
         router.refresh();
       }
+    } catch {
+      setError("Could not reach the server. The import may not have run; re-check the account before retrying.");
     } finally {
       setBusy(false);
     }

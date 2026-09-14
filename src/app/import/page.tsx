@@ -1,5 +1,6 @@
 import { and, eq } from "drizzle-orm";
 import { db, schema } from "@/db";
+import { requireAuthPage } from "@/lib/auth";
 import { ImportWizard } from "@/components/ImportWizard";
 
 export const dynamic = "force-dynamic";
@@ -8,6 +9,7 @@ export const dynamic = "force-dynamic";
 // the sync path, so importing into one would create duplicates the next
 // time that bank refreshed.
 export default async function ImportPage() {
+  await requireAuthPage();
   const { accounts } = schema;
   const manualAccounts = await db
     .select({ id: accounts.id, name: accounts.name, mask: accounts.mask })

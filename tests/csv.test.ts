@@ -83,6 +83,16 @@ describe("parseAmount", () => {
     expect(parseAmount("abc")).toBeNull();
   });
 
+  // Refusing an ambiguous amount is right; refusing a real one drops the
+  // row. These are labels a real bank export actually uses.
+  it("accepts short currency and ledger labels on either side", () => {
+    expect(parseAmount("kr 1.234,50")).toBe(1234.5);
+    expect(parseAmount("R$ 100,00")).toBe(100);
+    expect(parseAmount("1,234.56 CR")).toBe(1234.56);
+    expect(parseAmount("USD 4.50")).toBe(4.5);
+    expect(parseAmount("4.50 EUR")).toBe(4.5);
+  });
+
   it("treats a three digit tail as a thousands group", () => {
     expect(parseAmount("1.234")).toBe(1234);
     expect(parseAmount("1,234")).toBe(1234);
