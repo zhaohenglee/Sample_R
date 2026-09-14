@@ -1,0 +1,1886 @@
+{
+  "company": "Constellation Software Inc.",
+  "generated_from": [
+    "stage1/years_2007_2011.json",
+    "stage1/years_2012_2016.json",
+    "stage1/years_2017_2021.json",
+    "stage1/years_2022_2025.json",
+    "stage1/prices_dividends_letters.json"
+  ],
+  "reused_from": [
+    "../ledger.json (FY2022-FY2025, read only)",
+    "../long-term-hold/holdings.json parent_long_run (read only)"
+  ],
+  "years": [
+    "FY2007",
+    "FY2008",
+    "FY2009",
+    "FY2010",
+    "FY2011",
+    "FY2012",
+    "FY2013",
+    "FY2014",
+    "FY2015",
+    "FY2016",
+    "FY2017",
+    "FY2018",
+    "FY2019",
+    "FY2020",
+    "FY2021",
+    "FY2022",
+    "FY2023",
+    "FY2024",
+    "FY2025"
+  ],
+  "ledger": {
+    "revenue": {
+      "FY2007": {
+        "value": 243.02,
+        "unit": "USD millions",
+        "source_url": "https://eulerpool.com/stock/Constellation-Software-Stock-CA21037X1006/netincome",
+        "confidence": "third_party",
+        "note": "Company's own FY2007 release exists on csisoftware.com but its dollar figures were not recoverable via WebSearch; only the Eulerpool aggregator figure could be sourced."
+      },
+      "FY2008": {
+        "value": 330.53,
+        "unit": "USD millions",
+        "source_url": "https://eulerpool.com/stock/Constellation-Software-Stock-CA21037X1006/netincome",
+        "confidence": "third_party",
+        "note": "Company FY2008 release located by title but dollar figures not recoverable via WebSearch."
+      },
+      "FY2009": {
+        "value": 438,
+        "unit": "USD millions",
+        "source_url": "https://www.csisoftware.com/docs/default-source/press-releases/q4_2010_press_release.pdf",
+        "confidence": "derived",
+        "note": "Derived from the FY2010 release statement that 2010 revenue of $631M was a 44% increase over 2009 (631/1.44 = ~438). No FY2009 press release figure was directly retrieved."
+      },
+      "FY2010": {
+        "value": 631,
+        "unit": "USD millions",
+        "source_url": "https://www.csisoftware.com/docs/default-source/press-releases/q4_2010_press_release.pdf",
+        "confidence": "company",
+        "note": "Full-year FY2010 revenue, confirmed twice independently. A $171M figure also appears in the same release but is the Q4-2010-only quarterly revenue, not the annual figure -- recorded as a conflict (known issue 1)."
+      },
+      "FY2011": {
+        "value": 773,
+        "unit": "USD millions",
+        "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/financial-news/pr_q4_2012.pdf",
+        "confidence": "company",
+        "note": "FY2011 comparative stated in the FY2012 results release."
+      },
+      "FY2012": {
+        "value": 891.226,
+        "unit": "USD millions",
+        "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/financial-news/pr_q4_2012.pdf",
+        "confidence": "company",
+        "note": "Consolidated total revenue $891,226 thousand vs $773,341 thousand in FY2011."
+      },
+      "FY2013": {
+        "value": 1211,
+        "unit": "USD millions",
+        "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/financial-news/pr_q4_2013.pdf",
+        "confidence": "derived",
+        "note": "Derived as the sum of the FY2013 release's public sector ($832M) and private sector ($379M) segment revenue lines; the search only surfaced the two segment lines, not a single consolidated total line, though the arithmetic (832+379=1211) is exact."
+      },
+      "FY2014": {
+        "value": 1669,
+        "unit": "USD millions",
+        "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/statutory-filings/sr_q4_2015.pdf",
+        "confidence": "company",
+        "note": "Comparative figure in the FY2015 report: revenue grew 10% to $1,838M from $1,669M in 2014."
+      },
+      "FY2015": {
+        "value": 1838,
+        "unit": "USD millions",
+        "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/statutory-filings/sr_q4_2015.pdf",
+        "confidence": "company",
+        "note": "Revenue grew 10% to $1,838M vs $1,669M in FY2014."
+      },
+      "FY2016": {
+        "value": 2125.1,
+        "unit": "USD millions",
+        "source_url": "https://www.sedarplus.ca/csa-party/records/document.html?id=f773c6e5e3b902e73f73f4b0482df0b51868dc8494d2e5cb048ca2126cb3dd5e",
+        "confidence": "company",
+        "note": "Total revenues $2,125.1M, up 16%/$286.8M over $1,838.3M in 2015."
+      },
+      "FY2017": {
+        "value": 2479,
+        "unit": "USD millions, approximate",
+        "source_url": "https://www.macrotrends.net/stocks/charts/CNSWF/constellation-software/revenue",
+        "confidence": "third_party",
+        "note": "No company-sourced consolidated total was confirmed via WebSearch; a $790M snippet from the primary release appears to be the Private Sector segment only, not the consolidated total."
+      },
+      "FY2018": {
+        "value": 3060,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2020/02/13/1984977/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2019-and-Declares-Quarterly-Dividend.html",
+        "confidence": "company",
+        "note": "Stated as FY2019 release's prior-year comparative."
+      },
+      "FY2019": {
+        "value": 3490,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2020/02/13/1984977/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2019-and-Declares-Quarterly-Dividend.html",
+        "confidence": "company",
+        "note": "14% increase, or $430M, over 2018."
+      },
+      "FY2020": {
+        "value": 3969,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2021/02/12/2175170/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2020-and-Declares-Quarterly-Dividend.html",
+        "confidence": "company",
+        "note": "14% increase over 2019 revenue of $3,490M."
+      },
+      "FY2021": {
+        "value": 5106,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2022/02/10/2383319/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2021-and-Declares-Quarterly-Dividend.html",
+        "confidence": "company",
+        "note": "29% increase over 2020 revenue of $3,969M. A third-party aggregator (macrotrends) puts FY2021 revenue at $5,110M, a 0.08% difference -- below the 2% conflict threshold, not recorded as a conflict."
+      },
+      "FY2022": {
+        "value": 6622,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2023/03/29/2637195/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2022-and-Declares-Quarterly-Dividend.html",
+        "confidence": "company"
+      },
+      "FY2023": {
+        "value": 8407,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2024/03/06/2841834/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2023-and-Declares-Quarterly-Dividend.html",
+        "confidence": "company"
+      },
+      "FY2024": {
+        "value": 10066,
+        "unit": "USD millions",
+        "source_url": "https://www.csisoftware.com/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2024-and-declares-quarterly-dividend/",
+        "confidence": "company"
+      },
+      "FY2025": {
+        "value": 11623,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2026/03/09/3251696/0/en/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2025-and-declares-quarterly-dividend.html",
+        "confidence": "company"
+      }
+    },
+    "revenue_growth_pct": {
+      "FY2007": {
+        "value": 16,
+        "unit": "percent",
+        "source_url": "https://www.mbi-deepdives.com/content/files/2022/07/Constellation-Software-SH-Letters-Merged.pdf",
+        "confidence": "company",
+        "note": "President's letter: Net Revenues grew 16% in 2007, after 27% in 2006. Confirmed full-year figure."
+      },
+      "FY2010": {
+        "value": 44,
+        "unit": "percent",
+        "source_url": "https://www.csisoftware.com/docs/default-source/press-releases/q4_2010_press_release.pdf",
+        "confidence": "company",
+        "note": "Total revenues were $631M, an increase of 44% over 2009."
+      }
+    },
+    "organic_growth_pct": {
+      "FY2008": {
+        "value": -10,
+        "unit": "percent approximate",
+        "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/presidents-letter/shareholder-letter---2009.pdf",
+        "confidence": "company",
+        "note": "2009 letter states organic growth averaged -10% in each of 2008 and 2009 during the recession; a two-year average, not a distinct FY2008-only figure."
+      },
+      "FY2009": {
+        "value": -3,
+        "unit": "percent",
+        "source_url": "https://www.csisoftware.com/docs/default-source/press-releases/q4_2010_press_release.pdf",
+        "confidence": "company",
+        "note": "Year-specific figure from the FY2010 release comparative (excl. PTS acquisition, organic growth was nil). Preferred over the -10% two-year-average figure from the 2009 President's letter, which is recorded as a conflict."
+      },
+      "FY2010": {
+        "value": -4,
+        "unit": "percent approximate",
+        "source_url": "https://www.csisoftware.com/docs/default-source/press-releases/q4_2010_press_release.pdf",
+        "confidence": "company",
+        "note": "Organic growth from existing business estimated at approximately -4% for FY2010; increases mainly from acquisitions."
+      },
+      "FY2012": {
+        "value": 6,
+        "unit": "percent",
+        "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/financial-news/pr_q4_2012.pdf",
+        "confidence": "company",
+        "note": "Organic growth was 6% for the year ended December 31, 2012."
+      },
+      "FY2013": {
+        "value": 4,
+        "unit": "percent",
+        "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/presidents-letter/presidentletter_2013.pdf",
+        "confidence": "company",
+        "note": "2013 President's Letter: 'Organic Net Revenue Growth was 4% in 2013.' A narrower 8% figure for 'Organic Growth in Maintenance Revenue' from the same letter is a different, more specific metric and is recorded as a conflict rather than used here."
+      },
+      "FY2014": {
+        "value": 4,
+        "unit": "percent",
+        "source_url": "http://www.marketwired.com/press-release/constellation-software-inc-announces-results-fourth-quarter-year-ended-december-31-2014-tsx-csu-1995151.htm",
+        "confidence": "company",
+        "note": "Revenues increased organically by 4% for the twelve months ended December 31, 2014."
+      },
+      "FY2015": {
+        "value": -3,
+        "unit": "percent",
+        "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/statutory-filings/sr_q4_2015.pdf",
+        "confidence": "company",
+        "note": "Reported (unadjusted) organic growth was -3% for FY2015."
+      },
+      "FY2016": {
+        "value": 0,
+        "unit": "percent",
+        "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/statutory-filings/mda_q4_2016.pdf",
+        "confidence": "company",
+        "note": "Reused from long-term-hold/holdings.json parent_long_run (mda_q4_2016.pdf, the FY2016 annual MD&A): reported organic growth was 0% for FY2016. This project's own fresh intake sweep surfaced two other company-sourced pairs (-1%/+1% from a sedarplus MD&A copy, and +1%/+3% from a conference-call announcement) that could not be reconciled against this figure; both are recorded as conflicts, and the mda_q4_2016.pdf pair is used because it is the FY2016 annual release and was already vetted in the prior long-term-hold report."
+      },
+      "FY2017": {
+        "value": 3,
+        "unit": "percent",
+        "source_url": "https://www.globenewswire.com/news-release/2018/02/14/1348408/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2017-and-Declares-Quarterly-Dividend.html",
+        "confidence": "company",
+        "note": "Full year organic growth 3% as reported and FX-adjusted vs 2016; matches parent_long_run."
+      },
+      "FY2018": {
+        "value": 3,
+        "unit": "percent",
+        "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/statutory-filings/csi-mda-q4-2018.pdf",
+        "confidence": "company",
+        "note": "Organic Net Revenue growth was 3% in 2018, per the Q4 2018 MD&A."
+      },
+      "FY2019": {
+        "value": -1,
+        "unit": "percent",
+        "source_url": "https://www.globenewswire.com/news-release/2020/02/13/1984977/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2019-and-Declares-Quarterly-Dividend.html",
+        "confidence": "company",
+        "note": "Matches parent_long_run FY2019 figure."
+      },
+      "FY2020": {
+        "value": -3,
+        "unit": "percent",
+        "source_url": "https://www.globenewswire.com/news-release/2021/02/12/2175170/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2020-and-Declares-Quarterly-Dividend.html",
+        "confidence": "company",
+        "note": "Matches parent_long_run FY2020 figure. COVID-19 year."
+      },
+      "FY2021": {
+        "value": 7,
+        "unit": "percent",
+        "source_url": "https://www.globenewswire.com/news-release/2022/02/10/2383319/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2021-and-Declares-Quarterly-Dividend.html",
+        "confidence": "company",
+        "note": "Revenue grew 29% overall, 7% organic. Directly confirmed against the primary release text (parent_long_run had flagged this as not independently re-verified)."
+      },
+      "FY2022": {
+        "value": -1,
+        "unit": "percent",
+        "source_url": "https://www.globenewswire.com/news-release/2023/03/29/2637195/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2022-and-Declares-Quarterly-Dividend.html",
+        "confidence": "company",
+        "note": "Revenue grew 30% to $6,622M, with -1% organic growth (+3% after FX)."
+      },
+      "FY2023": {
+        "value": 5,
+        "unit": "percent",
+        "source_url": "https://www.globenewswire.com/news-release/2024/03/06/2841834/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2023-and-Declares-Quarterly-Dividend.html",
+        "confidence": "company"
+      },
+      "FY2024": {
+        "value": 2,
+        "unit": "percent",
+        "source_url": "https://www.globenewswire.com/news-release/2025/03/07/3039269/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2024-and-Declares-Quarterly-Dividend.html",
+        "confidence": "company"
+      },
+      "FY2025": {
+        "value": 4,
+        "unit": "percent",
+        "source_url": "https://www.globenewswire.com/news-release/2026/03/09/3251696/0/en/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2025-and-declares-quarterly-dividend.html",
+        "confidence": "company",
+        "note": "Revenue grew 15% (4% organic, 3% after FX) to $11,623M. Upgrades ledger.json's third-party substack citation to a company source."
+      }
+    },
+    "organic_growth_fx_adj_pct": {
+      "FY2014": {
+        "value": 4,
+        "unit": "percent, approximate",
+        "source_url": "http://www.marketwired.com/press-release/constellation-software-inc-announces-results-fourth-quarter-year-ended-december-31-2014-tsx-csu-1995151.htm",
+        "confidence": "company",
+        "note": "Release describes the FX impact on the full-year 2014 organic growth rate as immaterial rather than giving a distinct adjusted percentage; recorded as approximately equal to the unadjusted 4% figure."
+      },
+      "FY2015": {
+        "value": 3,
+        "unit": "percent",
+        "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/statutory-filings/sr_q4_2015.pdf",
+        "confidence": "derived",
+        "note": "Release states FX changes reduced organic growth by an approximate 6 percentage points; -3% + 6% implies approximately +3% FX-adjusted. Exact release wording for this specific line was not directly quoted in the search snippet."
+      },
+      "FY2016": {
+        "value": 1,
+        "unit": "percent",
+        "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/statutory-filings/mda_q4_2016.pdf",
+        "confidence": "company",
+        "note": "Reused from parent_long_run (mda_q4_2016.pdf): 'Positive 1% after adjusting for the impact of the net appreciation of the US dollar' (source also cites 3% after a further comparative hardware-sales adjustment, not modeled as a separate figure here). See organic_growth_pct FY2016 note and conflicts."
+      },
+      "FY2017": {
+        "value": 3,
+        "unit": "percent",
+        "source_url": "https://www.globenewswire.com/news-release/2018/02/14/1348408/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2017-and-Declares-Quarterly-Dividend.html",
+        "confidence": "company",
+        "note": "Same as reported organic growth for the full year (3%); the FX adjustment only changed the Q4-only figure."
+      },
+      "FY2018": {
+        "value": 2,
+        "unit": "percent",
+        "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/statutory-filings/csi-mda-q4-2018.pdf",
+        "confidence": "company",
+        "note": "2% after adjusting for FX; 4% ex-US-Healthcare-vertical per the same MD&A."
+      },
+      "FY2019": {
+        "value": 1,
+        "unit": "percent",
+        "source_url": "https://www.globenewswire.com/news-release/2020/02/13/1984977/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2019-and-Declares-Quarterly-Dividend.html",
+        "confidence": "company",
+        "note": "Negative 1% as reported, positive 1% after adjusting for USD valuation changes."
+      },
+      "FY2020": {
+        "value": -3,
+        "unit": "percent",
+        "source_url": "https://www.globenewswire.com/news-release/2021/02/12/2175170/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2020-and-Declares-Quarterly-Dividend.html",
+        "confidence": "company",
+        "note": "Same as reported (-3%); FX adjustment did not change the full-year figure."
+      },
+      "FY2021": {
+        "value": 5,
+        "unit": "percent",
+        "source_url": "https://www.globenewswire.com/news-release/2022/02/10/2383319/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2021-and-Declares-Quarterly-Dividend.html",
+        "confidence": "company",
+        "note": "5% after FX adjustment vs 7% as reported."
+      },
+      "FY2022": {
+        "value": 3,
+        "unit": "percent",
+        "source_url": "https://www.globenewswire.com/news-release/2023/03/29/2637195/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2022-and-Declares-Quarterly-Dividend.html",
+        "confidence": "company",
+        "note": "Positive 3% after adjusting for FX changes."
+      },
+      "FY2024": {
+        "value": 2,
+        "unit": "percent",
+        "source_url": "https://www.globenewswire.com/news-release/2025/03/07/3039269/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2024-and-Declares-Quarterly-Dividend.html",
+        "confidence": "company",
+        "note": "2% after adjusting for FX; same as reported (2%)."
+      },
+      "FY2025": {
+        "value": 3,
+        "unit": "percent",
+        "source_url": "https://www.globenewswire.com/news-release/2026/03/09/3251696/0/en/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2025-and-declares-quarterly-dividend.html",
+        "confidence": "company"
+      }
+    },
+    "maintenance_recurring_revenue": {
+      "FY2018": {
+        "value": 68,
+        "unit": "percent of total revenue, approximate",
+        "source_url": "https://seekingalpha.com/article/4255039-constellation-software-and-sustainability-of-above-average-roics",
+        "confidence": "third_party",
+        "note": "Third-party estimate, not a dollar figure. Different unit basis from the FY2023/FY2024 dollar figures below."
+      },
+      "FY2023": {
+        "value": 5985,
+        "unit": "USD millions",
+        "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/statutory-filings/q4-2023-shareholder-report.pdf?sfvrsn=91ffcfe7_3",
+        "confidence": "company"
+      },
+      "FY2024": {
+        "value": 7396,
+        "unit": "USD millions",
+        "source_url": "https://www.csisoftware.com/docs/default-source/press-releases/csi---press-release-q4-2024---final.pdf?sfvrsn=a6da3ec_3/+CSI---Press-Release-Q4-2024---Final+.pdf",
+        "confidence": "company"
+      }
+    },
+    "adjusted_ebita": {
+      "FY2009": {
+        "value": 88,
+        "unit": "USD millions",
+        "source_url": "https://www.csisoftware.com/docs/default-source/press-releases/q4_2010_press_release.pdf",
+        "confidence": "company",
+        "note": "Stated as the FY2009 comparative in the FY2010 release."
+      },
+      "FY2010": {
+        "value": 116,
+        "unit": "USD millions",
+        "source_url": "https://www.csisoftware.com/docs/default-source/press-releases/q4_2010_press_release.pdf",
+        "confidence": "company",
+        "note": "Up 32% over FY2009's $88M."
+      },
+      "FY2011": {
+        "value": 169,
+        "unit": "USD millions",
+        "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/financial-news/pr_q4_2012.pdf",
+        "confidence": "company",
+        "note": "FY2011 comparative in the FY2012 release."
+      },
+      "FY2013": {
+        "value": 233.8,
+        "unit": "USD millions",
+        "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/statutory-filings/sr_q4_2014.pdf",
+        "confidence": "company",
+        "note": "Directly quoted figure from the FY2014 report's FY2013 comparative disclosure: 'Adjusted EBITA for the fiscal year ended December 31, 2013 was $233.8 million.' Corroborated by an independently derived $233.6M (per-share x implied share count). A $178M figure from the FY2013 press release is recorded as a conflict and treated as an outlier/likely misread (known issue 4)."
+      },
+      "FY2014": {
+        "value": 348,
+        "unit": "USD millions",
+        "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/statutory-filings/sr_q4_2015.pdf",
+        "confidence": "company",
+        "note": "$348.1M, stated as the FY2015 report's FY2014 comparative."
+      },
+      "FY2015": {
+        "value": 446,
+        "unit": "USD millions",
+        "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/statutory-filings/sr_q4_2015.pdf",
+        "confidence": "company",
+        "note": "$445.5M, up $98M/28% vs FY2014."
+      },
+      "FY2017": {
+        "value": 621.2,
+        "unit": "USD millions",
+        "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/statutory-filings/q4-2018-shareholder-report.pdf",
+        "confidence": "company",
+        "note": "FY2017 comparative in the FY2018 shareholder report."
+      },
+      "FY2018": {
+        "value": 756.7,
+        "unit": "USD millions",
+        "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/statutory-filings/q4-2018-shareholder-report.pdf",
+        "confidence": "company",
+        "note": "22% increase over FY2017's $621.2M."
+      }
+    },
+    "adjusted_net_income": {
+      "FY2009": {
+        "value": 62,
+        "unit": "USD millions",
+        "source_url": "https://www.csisoftware.com/docs/default-source/press-releases/q4_2010_press_release.pdf",
+        "confidence": "company",
+        "note": "$62M ($2.95 fully diluted per share), stated as the FY2009 comparative in the FY2010 release."
+      },
+      "FY2011": {
+        "value": 140,
+        "unit": "USD millions",
+        "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/financial-news/pr_q4_2012.pdf",
+        "confidence": "company",
+        "note": "FY2011 comparative; consistent with the $6.63 diluted EPS figure."
+      },
+      "FY2012": {
+        "value": 172,
+        "unit": "USD millions",
+        "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/financial-news/pr_q4_2013.pdf",
+        "confidence": "company",
+        "note": "Increased $32M/23% over FY2011's $140M."
+      },
+      "FY2013": {
+        "value": 207,
+        "unit": "USD millions",
+        "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/financial-news/pr_q4_2013.pdf",
+        "confidence": "company",
+        "note": "Increase of 20% over FY2012's $172M. A $206.8M figure from the FY2014 report's comparative is the same figure to rounding, not a conflict."
+      },
+      "FY2014": {
+        "value": 274.3,
+        "unit": "USD millions",
+        "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/statutory-filings/sr_q4_2014.pdf",
+        "confidence": "company",
+        "note": "Increased from $206.8M in 2013, a 33% increase."
+      },
+      "FY2015": {
+        "value": 371,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2016/02/17/1061530/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2015-and-Declares-Quarterly-Dividend.html",
+        "confidence": "company",
+        "note": "Increased 35% to $371M ($17.51 diluted) from $274M ($12.94 diluted) in 2014."
+      },
+      "FY2016": {
+        "value": 395.0,
+        "unit": "USD millions",
+        "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/statutory-filings/mda_q4_2016.pdf",
+        "confidence": "company",
+        "note": "Increased to $395.0M from $371.0M in 2015 (+6%). The search excerpt did not show the words 'Adjusted Net Income' attached verbatim to this sentence, so the label is inferred from numerical continuity with the FY2015 figure rather than a directly quoted label."
+      },
+      "FY2017": {
+        "value": 463,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2018/02/14/1348408/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2017-and-Declares-Quarterly-Dividend.html",
+        "confidence": "company",
+        "note": "Increased 17% to $463M ($21.84 diluted) from $395M ($18.64 diluted) in 2016. This was the company's operative non-IFRS cash metric before FCFA2S existed; distinct from IFRS net income attributable ($222M)."
+      }
+    },
+    "net_income_attributable": {
+      "FY2007": {
+        "value": 11.11,
+        "unit": "USD millions",
+        "source_url": "https://eulerpool.com/stock/Constellation-Software-Stock-CA21037X1006/netincome",
+        "confidence": "third_party",
+        "note": "Aggregator figure; not cross-checked against the company release text."
+      },
+      "FY2008": {
+        "value": 14.99,
+        "unit": "USD millions",
+        "source_url": "https://eulerpool.com/stock/Constellation-Software-Stock-CA21037X1006/netincome",
+        "confidence": "third_party",
+        "note": "Aggregator figure, unverified against company release."
+      },
+      "FY2011": {
+        "value": 157,
+        "unit": "USD millions",
+        "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/financial-news/pr_q4_2012.pdf",
+        "confidence": "company",
+        "note": "Known issue 2: two independent retrievals of the FY2012 release pair $157M with FY2011 net income (consistent with a stated $75M FY2011 tax recovery vs an $18M FY2012 tax expense). A $63M figure is also recorded as a conflict and treated as a likely error (possibly a cross-year mixup with FY2009's $62M Adjusted Net Income)."
+      },
+      "FY2012": {
+        "value": 93,
+        "unit": "USD millions",
+        "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/financial-news/pr_q4_2013.pdf",
+        "confidence": "company",
+        "note": "FY2013 release: 'consistent with last year's net income of $93 million.'"
+      },
+      "FY2013": {
+        "value": 93,
+        "unit": "USD millions",
+        "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/financial-news/pr_q4_2013.pdf",
+        "confidence": "company"
+      },
+      "FY2014": {
+        "value": 103,
+        "unit": "USD millions",
+        "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/statutory-filings/sr_q4_2014.pdf",
+        "confidence": "company",
+        "note": "$103.1M, $4.87 diluted EPS."
+      },
+      "FY2015": {
+        "value": 177,
+        "unit": "USD millions",
+        "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/statutory-filings/sr_q4_2015.pdf",
+        "confidence": "company",
+        "note": "$177.2M, up 72% from $103M in FY2014."
+      },
+      "FY2016": {
+        "value": 206.8,
+        "unit": "USD millions",
+        "source_url": "https://www.sedarplus.ca/csa-party/records/document.html?id=f773c6e5e3b902e73f73f4b0482df0b51868dc8494d2e5cb048ca2126cb3dd5e",
+        "confidence": "company",
+        "note": "$206.8M / $9.76 diluted EPS."
+      },
+      "FY2017": {
+        "value": 222,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2018/02/14/1348408/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2017-and-Declares-Quarterly-Dividend.html",
+        "confidence": "company",
+        "note": "Increased 7% to $222M ($10.47 diluted) from $207M ($9.76 diluted) in 2016. A more precise $221.9M appears in a separate MD&A snippet of the same figure."
+      },
+      "FY2018": {
+        "value": 379.3,
+        "unit": "USD millions",
+        "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/statutory-filings/q4-2018-shareholder-report.pdf",
+        "confidence": "company",
+        "note": "$17.90 diluted EPS. The FY2019 release restates this comparative as $379M/$17.91 (rounding, <1% difference, not a conflict)."
+      },
+      "FY2019": {
+        "value": 333,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2020/02/13/1984977/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2019-and-Declares-Quarterly-Dividend.html",
+        "confidence": "company",
+        "note": "12% decrease from FY2018's $379M. $15.73 diluted EPS."
+      },
+      "FY2020": {
+        "value": 436,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2021/02/12/2175170/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2020-and-Declares-Quarterly-Dividend.html",
+        "confidence": "company",
+        "note": "31% increase over FY2019's $333M. $20.59 diluted EPS."
+      },
+      "FY2021": {
+        "value": 310,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2022/02/10/2383319/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2021-and-Declares-Quarterly-Dividend.html",
+        "confidence": "company",
+        "note": "$14.65 diluted EPS. Decrease from FY2020's $436M."
+      },
+      "FY2022": {
+        "value": 512,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2023/03/29/2637195/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2022-and-Declares-Quarterly-Dividend.html",
+        "confidence": "company",
+        "note": "Net income increased 65% to $512M."
+      },
+      "FY2023": {
+        "value": 565,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2024/03/06/2841834/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2023-and-Declares-Quarterly-Dividend.html",
+        "confidence": "company"
+      },
+      "FY2024": {
+        "value": 731,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2025/03/07/3039269/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2024-and-Declares-Quarterly-Dividend.html",
+        "confidence": "company"
+      },
+      "FY2025": {
+        "value": 512,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2026/03/09/3251696/0/en/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2025-and-declares-quarterly-dividend.html",
+        "confidence": "company"
+      }
+    },
+    "diluted_eps": {
+      "FY2009": {
+        "value": 2.95,
+        "unit": "USD per share",
+        "source_url": "https://www.csisoftware.com/docs/default-source/press-releases/q4_2010_press_release.pdf",
+        "confidence": "company",
+        "note": "FY2009 comparative fully diluted Adjusted Net Income per share; not confirmed whether GAAP or adjusted basis."
+      },
+      "FY2011": {
+        "value": 6.63,
+        "unit": "USD per share",
+        "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/financial-news/pr_q4_2012.pdf",
+        "confidence": "company"
+      },
+      "FY2012": {
+        "value": 4.37,
+        "unit": "USD per share",
+        "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/financial-news/pr_q4_2013.pdf",
+        "confidence": "company"
+      },
+      "FY2013": {
+        "value": 4.39,
+        "unit": "USD per share",
+        "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/financial-news/pr_q4_2013.pdf",
+        "confidence": "company"
+      },
+      "FY2014": {
+        "value": 4.87,
+        "unit": "USD per share",
+        "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/statutory-filings/sr_q4_2014.pdf",
+        "confidence": "company"
+      },
+      "FY2015": {
+        "value": 8.36,
+        "unit": "USD per share",
+        "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/statutory-filings/sr_q4_2015.pdf",
+        "confidence": "company"
+      },
+      "FY2016": {
+        "value": 9.76,
+        "unit": "USD per share",
+        "source_url": "https://www.sedarplus.ca/csa-party/records/document.html?id=f773c6e5e3b902e73f73f4b0482df0b51868dc8494d2e5cb048ca2126cb3dd5e",
+        "confidence": "company"
+      },
+      "FY2017": {
+        "value": 10.47,
+        "unit": "USD per share",
+        "source_url": "https://www.globenewswire.com/news-release/2018/02/14/1348408/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2017-and-Declares-Quarterly-Dividend.html",
+        "confidence": "company"
+      },
+      "FY2018": {
+        "value": 17.9,
+        "unit": "USD per share",
+        "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/statutory-filings/q4-2018-shareholder-report.pdf",
+        "confidence": "company"
+      },
+      "FY2019": {
+        "value": 15.73,
+        "unit": "USD per share",
+        "source_url": "https://www.globenewswire.com/news-release/2020/02/13/1984977/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2019-and-Declares-Quarterly-Dividend.html",
+        "confidence": "company"
+      },
+      "FY2020": {
+        "value": 20.59,
+        "unit": "USD per share",
+        "source_url": "https://www.globenewswire.com/news-release/2021/02/12/2175170/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2020-and-Declares-Quarterly-Dividend.html",
+        "confidence": "company"
+      },
+      "FY2021": {
+        "value": 14.65,
+        "unit": "USD per share",
+        "source_url": "https://www.globenewswire.com/news-release/2022/02/10/2383319/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2021-and-Declares-Quarterly-Dividend.html",
+        "confidence": "company"
+      },
+      "FY2022": {
+        "value": 24.16,
+        "unit": "USD per share",
+        "source_url": "https://finance.yahoo.com/news/constellation-software-full-2023-earnings-110310762.html",
+        "confidence": "third_party",
+        "note": "No company-stated FY2022 diluted EPS figure was located; ledger.json also carries this as third-party."
+      },
+      "FY2023": {
+        "value": 26.67,
+        "unit": "USD per share",
+        "source_url": "https://www.globenewswire.com/news-release/2024/03/06/2841834/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2023-and-Declares-Quarterly-Dividend.html",
+        "confidence": "company"
+      },
+      "FY2024": {
+        "value": 34.48,
+        "unit": "USD per share",
+        "source_url": "https://www.globenewswire.com/news-release/2025/03/07/3039269/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2024-and-Declares-Quarterly-Dividend.html",
+        "confidence": "company"
+      },
+      "FY2025": {
+        "value": 24.15,
+        "unit": "USD per share",
+        "source_url": "https://www.globenewswire.com/news-release/2026/03/09/3251696/0/en/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2025-and-declares-quarterly-dividend.html",
+        "confidence": "company"
+      }
+    },
+    "cash_from_operations": {
+      "FY2009": {
+        "value": 82,
+        "unit": "USD millions",
+        "source_url": "https://www.csisoftware.com/docs/default-source/press-releases/q4_2010_press_release.pdf",
+        "confidence": "company"
+      },
+      "FY2013": {
+        "value": 220,
+        "unit": "USD millions",
+        "source_url": "http://www.marketwired.com/press-release/constellation-software-inc-announces-results-fourth-quarter-year-ended-december-31-2014-tsx-csu-1995151.htm",
+        "confidence": "company",
+        "note": "Stated as the FY2014 release's FY2013 comparative."
+      },
+      "FY2014": {
+        "value": 341,
+        "unit": "USD millions",
+        "source_url": "http://www.marketwired.com/press-release/constellation-software-inc-announces-results-fourth-quarter-year-ended-december-31-2014-tsx-csu-1995151.htm",
+        "confidence": "company",
+        "note": "Increase of 55%/$121M over $220M in 2013."
+      },
+      "FY2015": {
+        "value": 395.9,
+        "unit": "USD millions",
+        "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/statutory-filings/sr_q4_2015.pdf",
+        "confidence": "company"
+      },
+      "FY2017": {
+        "value": 528,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2018/02/14/1348408/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2017-and-Declares-Quarterly-Dividend.html",
+        "confidence": "company",
+        "note": "Increase of 8%/$37M over $491M in 2016."
+      },
+      "FY2018": {
+        "value": 662.0,
+        "unit": "USD millions",
+        "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/statutory-filings/q4-2018-shareholder-report.pdf",
+        "confidence": "company"
+      },
+      "FY2019": {
+        "value": 708,
+        "unit": "USD millions",
+        "source_url": "https://www.csisoftware.com/docs/default-source/press-releases/q4-2019-shareholder-report.pdf",
+        "confidence": "company",
+        "note": "7%/$46M increase over FY2018's $662M; adjusted for IFRS 16 Leases (adopted Jan 1, 2019)."
+      },
+      "FY2020": {
+        "value": 1186,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2021/02/12/2175170/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2020-and-Declares-Quarterly-Dividend.html",
+        "confidence": "company"
+      },
+      "FY2021": {
+        "value": 1300,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2022/02/10/2383319/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2021-and-Declares-Quarterly-Dividend.html",
+        "confidence": "company",
+        "note": "10%/$114M increase over FY2020's $1,186M."
+      },
+      "FY2023": {
+        "value": 1779,
+        "unit": "USD millions",
+        "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/statutory-filings/q4-2023-shareholder-report.pdf?sfvrsn=91ffcfe7_3",
+        "confidence": "company"
+      },
+      "FY2024": {
+        "value": 2196,
+        "unit": "USD millions",
+        "source_url": "https://www.csisoftware.com/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2024-and-declares-quarterly-dividend/",
+        "confidence": "company"
+      },
+      "FY2025": {
+        "value": 2732,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2026/03/09/3251696/0/en/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2025-and-declares-quarterly-dividend.html",
+        "confidence": "company",
+        "note": "Up 24% from $2,196M in 2024."
+      }
+    },
+    "fcfa2s": {
+      "FY2018": {
+        "value": 559,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2020/02/13/1984977/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2019-and-Declares-Quarterly-Dividend.html",
+        "confidence": "company",
+        "note": "Reused from long-term-hold/holdings.json parent_long_run."
+      },
+      "FY2019": {
+        "value": 590,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2020/02/13/1984977/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2019-and-Declares-Quarterly-Dividend.html",
+        "confidence": "company",
+        "note": "Reused from parent_long_run. 6% increase over FY2018."
+      },
+      "FY2020": {
+        "value": 989,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2021/02/12/2175170/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2020-and-Declares-Quarterly-Dividend.html",
+        "confidence": "company",
+        "note": "Reused from parent_long_run. +68%/$399M over FY2019."
+      },
+      "FY2021": {
+        "value": 883,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2022/02/10/2383319/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2021-and-Declares-Quarterly-Dividend.html",
+        "confidence": "company",
+        "note": "Reused from parent_long_run. -11%/$106M vs FY2020, mainly the TSS/IRGA revaluation charge and Topicus.com non-controlling interests."
+      },
+      "FY2022": {
+        "value": 853,
+        "unit": "USD millions",
+        "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/statutory-filings/csi---mda-q4-2023---final.pdf?sfvrsn=47d7de81_3",
+        "confidence": "company",
+        "note": "Reused from ledger.json."
+      },
+      "FY2023": {
+        "value": 1160,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2024/03/06/2841834/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2023-and-Declares-Quarterly-Dividend.html",
+        "confidence": "company",
+        "note": "Reused from ledger.json."
+      },
+      "FY2024": {
+        "value": 1472,
+        "unit": "USD millions",
+        "source_url": "https://www.csisoftware.com/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2024-and-declares-quarterly-dividend/",
+        "confidence": "company",
+        "note": "Reused from ledger.json."
+      },
+      "FY2025": {
+        "value": 1683,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2026/03/09/3251696/0/en/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2025-and-declares-quarterly-dividend.html",
+        "confidence": "company",
+        "note": "Reused from ledger.json. +$210M/14% over FY2024's $1,472M."
+      }
+    },
+    "acquisitions_cash_spent": {
+      "FY2008": {
+        "value": 94,
+        "unit": "USD millions approximate",
+        "source_url": "https://www.mbi-deepdives.com/content/files/2022/07/Constellation-Software-SH-Letters-Merged.pdf",
+        "confidence": "company",
+        "note": "2008 President's letter: ~$94M of capital deployed/committed in 2008 (Maximus assets, 16 other businesses, VMS share purchases, pending Gladstone plc offer). This is total capital deployed/committed, not strictly cash spent on closed acquisitions."
+      },
+      "FY2013": {
+        "value": 558,
+        "unit": "USD millions",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1113678/000119312514275886/d757774dex21.htm",
+        "confidence": "company",
+        "note": "Thirty acquisitions for aggregate cash consideration of $558M (plus $27M holdbacks and $4M contingent consideration, not included). Includes the TSS acquisition, closed Dec 31, 2013."
+      },
+      "FY2014": {
+        "value": 115,
+        "unit": "USD millions",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1113678/000119312515138334/d906182dex26.htm",
+        "confidence": "company",
+        "note": "23 acquisitions for aggregate cash consideration of $115M (plus $17M holdbacks, $8M contingent consideration, not included)."
+      },
+      "FY2015": {
+        "value": 248.8,
+        "unit": "USD millions",
+        "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/statutory-filings/sr_q4_2015.pdf",
+        "confidence": "company",
+        "note": "Aggregate of $248.8M, including holdback payments on prior acquisitions -- not directly comparable line-for-line with the FY2013/FY2014 figures above."
+      },
+      "FY2016": {
+        "value": 178.1,
+        "unit": "USD millions",
+        "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/statutory-filings/mda_q4_2016.pdf",
+        "confidence": "company",
+        "note": "Reused from long-term-hold/holdings.json parent_long_run (mda_q4_2016.pdf). This project's own FY2012-2016 intake sweep did not locate this figure and recorded it as a gap; parent_long_run already held it."
+      },
+      "FY2018": {
+        "value": 603,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2019/02/14/1725078/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2018-and-Declares-Quarterly-and-Special-Dividends.html",
+        "confidence": "company"
+      },
+      "FY2019": {
+        "value": 688,
+        "unit": "USD millions, total consideration",
+        "source_url": "https://www.globenewswire.com/news-release/2020/02/13/1984977/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2019-and-Declares-Quarterly-Dividend.html",
+        "confidence": "company",
+        "note": "'Completed acquisitions totaling $688 million in consideration during 2019', directly quoted from the FY2019 release. A $549M 'aggregate cash consideration including acquired cash' figure sourced to the 2019 AIF (confidence third_party in this project's intake, and used in parent_long_run) is recorded as a conflict; the company-quoted $688M total-consideration figure is preferred."
+      },
+      "FY2020": {
+        "value": 179,
+        "unit": "USD millions, aggregate cash consideration including acquired cash",
+        "source_url": "https://www.globenewswire.com/news-release/2021/02/12/2175170/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2020-and-Declares-Quarterly-Dividend.html",
+        "confidence": "third_party",
+        "note": "WebSearch summary attributed this to FY2020 disclosures but did not quote it directly from the release text; no company-confirmed figure was found for FY2020. Matches parent_long_run and ledger.json."
+      },
+      "FY2021": {
+        "value": 1337,
+        "unit": "USD millions, aggregate including holdback payments, net of a $33M additional subscription related to Topicus.com B.V.",
+        "source_url": "https://www.csisoftware.com/docs/default-source/press-releases/csi---mda-q4-2021---final.pdf",
+        "confidence": "company",
+        "note": "Reused from parent_long_run (Q4 2021 MD&A). A separate company-sourced $1,517M 'total consideration including holdbacks, contingent consideration and amounts related to Topicus.com B.V.' figure was found independently in this project's own FY2021 release search and is recorded as a conflict (net vs. total consideration are different bases)."
+      },
+      "FY2022": {
+        "value": 1600,
+        "unit": "USD millions",
+        "source_url": "https://www.speedwellmemos.com/p/constellation-software-2022-earnings",
+        "confidence": "third_party",
+        "note": "No company-disclosed aggregate acquisition spend was found for FY2022; matches ledger.json and parent_long_run, all citing the same third-party source."
+      },
+      "FY2023": {
+        "value": 732,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2024/03/06/2841834/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2023-and-Declares-Quarterly-Dividend.html",
+        "confidence": "company"
+      },
+      "FY2024": {
+        "value": 1792,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2025/03/07/3039269/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2024-and-Declares-Quarterly-Dividend.html",
+        "confidence": "company"
+      },
+      "FY2025": {
+        "value": 1579,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2026/03/09/3251696/0/en/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2025-and-declares-quarterly-dividend.html",
+        "confidence": "company",
+        "note": "Total acquisition consideration of $1,579M including holdbacks and contingent consideration."
+      }
+    },
+    "acquisition_count": {
+      "FY2008": {
+        "value": 17,
+        "unit": "count approximate",
+        "source_url": "https://www.mbi-deepdives.com/content/files/2022/07/Constellation-Software-SH-Letters-Merged.pdf",
+        "confidence": "company",
+        "note": "2008 letter: 'bought the Maximus assets and 16 other businesses' -> 1 + 16 = 17."
+      },
+      "FY2012": {
+        "value": 35,
+        "unit": "count",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1113678/000119312515138334/d906182dex26.htm",
+        "confidence": "derived",
+        "note": "Derived from a comparative sentence in the FY2013 disclosure ('thirty acquisitions... compared to thirty-five in 2012'); no primary FY2012 release figure found."
+      },
+      "FY2013": {
+        "value": 30,
+        "unit": "count",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1113678/000119312514275886/d757774dex21.htm",
+        "confidence": "company"
+      },
+      "FY2014": {
+        "value": 23,
+        "unit": "count",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1113678/000119312515138334/d906182dex26.htm",
+        "confidence": "company",
+        "note": "Lower than FY2013's 30; the intake's 'record year' framing for FY2014 acquisitions was not corroborated on a count or cash-consideration basis."
+      },
+      "FY2015": {
+        "value": 3,
+        "unit": "count",
+        "source_url": "https://tracxn.com/d/acquisitions/acquisitions-by-constellation-software/__YaRluimuGqgVfqr0Xhgb2dPWiMKnmgzXPcPNPni5Ssg",
+        "confidence": "third_party",
+        "note": "Low-confidence third-party M&A database count; implausibly low vs. the company's typical pace elsewhere in this window. Matches parent_long_run."
+      },
+      "FY2019": {
+        "value": 3,
+        "unit": "count",
+        "source_url": "https://nicoper.substack.com/p/4-constellation-acquisitions-2022",
+        "confidence": "third_party",
+        "note": "Third-party count; matches parent_long_run."
+      },
+      "FY2021": {
+        "value": 85,
+        "unit": "count approximate, company-wide, stated as a minimum ('more than')",
+        "source_url": "https://explore.volarisgroup.com/volaris-group-blog/volaris-recognized-as-a-top-acquirer",
+        "confidence": "third_party",
+        "note": "Third-party (Volaris/Corum Group) reporting; not a Constellation-disclosed figure."
+      }
+    },
+    "shares_outstanding": {
+      "FY2023": {
+        "value": 21.19,
+        "unit": "millions",
+        "source_url": "https://www.macrotrends.net/stocks/charts/CNSWF/constellation-software/shares-outstanding",
+        "confidence": "third_party",
+        "note": "Matches ledger.json."
+      },
+      "FY2024": {
+        "value": 21.19,
+        "unit": "millions",
+        "source_url": "https://www.macrotrends.net/stocks/charts/CNSWF/constellation-software/shares-outstanding",
+        "confidence": "third_party",
+        "note": "Matches ledger.json."
+      },
+      "FY2025": {
+        "value": 21.19,
+        "unit": "millions",
+        "source_url": "https://www.globenewswire.com/news-release/2026/03/09/3251696/0/en/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2025-and-declares-quarterly-dividend.html",
+        "confidence": "company",
+        "note": "21,191,530 shares per the company's FY2025 results release."
+      },
+      "FY2006": {
+        "value": 21.19,
+        "unit": "millions of shares, approximate, carried forward",
+        "source_url": "https://thequalityinvestor.substack.com/p/constellation-software-180x-in-less",
+        "source_title": "Constellation Software: 180x in less than 20 years (The Quality Investor)",
+        "confidence": "third_party",
+        "note": "Assumption applied by Fable on 2026-09-14: the source states 21,191,530 shares outstanding, 'mostly unchanged since 2006' and 'has not grown since the IPO'; corroborated by https://www.marketscreener.com/quote/stock/CONSTELLATION-SOFTWARE-IN-1409607/news/Multibagger-Stories-Constellation-Software-44687508/. No company sourced year end count was found for FY2006. Per share figures for this year rest on this assumption and are labelled approximate."
+      },
+      "FY2007": {
+        "value": 21.19,
+        "unit": "millions of shares, approximate, carried forward",
+        "source_url": "https://thequalityinvestor.substack.com/p/constellation-software-180x-in-less",
+        "source_title": "Constellation Software: 180x in less than 20 years (The Quality Investor)",
+        "confidence": "third_party",
+        "note": "Assumption applied by Fable on 2026-09-14: the source states 21,191,530 shares outstanding, 'mostly unchanged since 2006' and 'has not grown since the IPO'; corroborated by https://www.marketscreener.com/quote/stock/CONSTELLATION-SOFTWARE-IN-1409607/news/Multibagger-Stories-Constellation-Software-44687508/. No company sourced year end count was found for FY2007. Per share figures for this year rest on this assumption and are labelled approximate."
+      },
+      "FY2008": {
+        "value": 21.19,
+        "unit": "millions of shares, approximate, carried forward",
+        "source_url": "https://thequalityinvestor.substack.com/p/constellation-software-180x-in-less",
+        "source_title": "Constellation Software: 180x in less than 20 years (The Quality Investor)",
+        "confidence": "third_party",
+        "note": "Assumption applied by Fable on 2026-09-14: the source states 21,191,530 shares outstanding, 'mostly unchanged since 2006' and 'has not grown since the IPO'; corroborated by https://www.marketscreener.com/quote/stock/CONSTELLATION-SOFTWARE-IN-1409607/news/Multibagger-Stories-Constellation-Software-44687508/. No company sourced year end count was found for FY2008. Per share figures for this year rest on this assumption and are labelled approximate."
+      },
+      "FY2009": {
+        "value": 21.19,
+        "unit": "millions of shares, approximate, carried forward",
+        "source_url": "https://thequalityinvestor.substack.com/p/constellation-software-180x-in-less",
+        "source_title": "Constellation Software: 180x in less than 20 years (The Quality Investor)",
+        "confidence": "third_party",
+        "note": "Assumption applied by Fable on 2026-09-14: the source states 21,191,530 shares outstanding, 'mostly unchanged since 2006' and 'has not grown since the IPO'; corroborated by https://www.marketscreener.com/quote/stock/CONSTELLATION-SOFTWARE-IN-1409607/news/Multibagger-Stories-Constellation-Software-44687508/. No company sourced year end count was found for FY2009. Per share figures for this year rest on this assumption and are labelled approximate."
+      },
+      "FY2010": {
+        "value": 21.19,
+        "unit": "millions of shares, approximate, carried forward",
+        "source_url": "https://thequalityinvestor.substack.com/p/constellation-software-180x-in-less",
+        "source_title": "Constellation Software: 180x in less than 20 years (The Quality Investor)",
+        "confidence": "third_party",
+        "note": "Assumption applied by Fable on 2026-09-14: the source states 21,191,530 shares outstanding, 'mostly unchanged since 2006' and 'has not grown since the IPO'; corroborated by https://www.marketscreener.com/quote/stock/CONSTELLATION-SOFTWARE-IN-1409607/news/Multibagger-Stories-Constellation-Software-44687508/. No company sourced year end count was found for FY2010. Per share figures for this year rest on this assumption and are labelled approximate."
+      },
+      "FY2011": {
+        "value": 21.19,
+        "unit": "millions of shares, approximate, carried forward",
+        "source_url": "https://thequalityinvestor.substack.com/p/constellation-software-180x-in-less",
+        "source_title": "Constellation Software: 180x in less than 20 years (The Quality Investor)",
+        "confidence": "third_party",
+        "note": "Assumption applied by Fable on 2026-09-14: the source states 21,191,530 shares outstanding, 'mostly unchanged since 2006' and 'has not grown since the IPO'; corroborated by https://www.marketscreener.com/quote/stock/CONSTELLATION-SOFTWARE-IN-1409607/news/Multibagger-Stories-Constellation-Software-44687508/. No company sourced year end count was found for FY2011. Per share figures for this year rest on this assumption and are labelled approximate."
+      },
+      "FY2012": {
+        "value": 21.19,
+        "unit": "millions of shares, approximate, carried forward",
+        "source_url": "https://thequalityinvestor.substack.com/p/constellation-software-180x-in-less",
+        "source_title": "Constellation Software: 180x in less than 20 years (The Quality Investor)",
+        "confidence": "third_party",
+        "note": "Assumption applied by Fable on 2026-09-14: the source states 21,191,530 shares outstanding, 'mostly unchanged since 2006' and 'has not grown since the IPO'; corroborated by https://www.marketscreener.com/quote/stock/CONSTELLATION-SOFTWARE-IN-1409607/news/Multibagger-Stories-Constellation-Software-44687508/. No company sourced year end count was found for FY2012. Per share figures for this year rest on this assumption and are labelled approximate."
+      },
+      "FY2013": {
+        "value": 21.19,
+        "unit": "millions of shares, approximate, carried forward",
+        "source_url": "https://thequalityinvestor.substack.com/p/constellation-software-180x-in-less",
+        "source_title": "Constellation Software: 180x in less than 20 years (The Quality Investor)",
+        "confidence": "third_party",
+        "note": "Assumption applied by Fable on 2026-09-14: the source states 21,191,530 shares outstanding, 'mostly unchanged since 2006' and 'has not grown since the IPO'; corroborated by https://www.marketscreener.com/quote/stock/CONSTELLATION-SOFTWARE-IN-1409607/news/Multibagger-Stories-Constellation-Software-44687508/. No company sourced year end count was found for FY2013. Per share figures for this year rest on this assumption and are labelled approximate."
+      },
+      "FY2014": {
+        "value": 21.19,
+        "unit": "millions of shares, approximate, carried forward",
+        "source_url": "https://thequalityinvestor.substack.com/p/constellation-software-180x-in-less",
+        "source_title": "Constellation Software: 180x in less than 20 years (The Quality Investor)",
+        "confidence": "third_party",
+        "note": "Assumption applied by Fable on 2026-09-14: the source states 21,191,530 shares outstanding, 'mostly unchanged since 2006' and 'has not grown since the IPO'; corroborated by https://www.marketscreener.com/quote/stock/CONSTELLATION-SOFTWARE-IN-1409607/news/Multibagger-Stories-Constellation-Software-44687508/. No company sourced year end count was found for FY2014. Per share figures for this year rest on this assumption and are labelled approximate."
+      },
+      "FY2015": {
+        "value": 21.19,
+        "unit": "millions of shares, approximate, carried forward",
+        "source_url": "https://thequalityinvestor.substack.com/p/constellation-software-180x-in-less",
+        "source_title": "Constellation Software: 180x in less than 20 years (The Quality Investor)",
+        "confidence": "third_party",
+        "note": "Assumption applied by Fable on 2026-09-14: the source states 21,191,530 shares outstanding, 'mostly unchanged since 2006' and 'has not grown since the IPO'; corroborated by https://www.marketscreener.com/quote/stock/CONSTELLATION-SOFTWARE-IN-1409607/news/Multibagger-Stories-Constellation-Software-44687508/. No company sourced year end count was found for FY2015. Per share figures for this year rest on this assumption and are labelled approximate."
+      },
+      "FY2016": {
+        "value": 21.19,
+        "unit": "millions of shares, approximate, carried forward",
+        "source_url": "https://thequalityinvestor.substack.com/p/constellation-software-180x-in-less",
+        "source_title": "Constellation Software: 180x in less than 20 years (The Quality Investor)",
+        "confidence": "third_party",
+        "note": "Assumption applied by Fable on 2026-09-14: the source states 21,191,530 shares outstanding, 'mostly unchanged since 2006' and 'has not grown since the IPO'; corroborated by https://www.marketscreener.com/quote/stock/CONSTELLATION-SOFTWARE-IN-1409607/news/Multibagger-Stories-Constellation-Software-44687508/. No company sourced year end count was found for FY2016. Per share figures for this year rest on this assumption and are labelled approximate."
+      },
+      "FY2017": {
+        "value": 21.19,
+        "unit": "millions of shares, approximate, carried forward",
+        "source_url": "https://thequalityinvestor.substack.com/p/constellation-software-180x-in-less",
+        "source_title": "Constellation Software: 180x in less than 20 years (The Quality Investor)",
+        "confidence": "third_party",
+        "note": "Assumption applied by Fable on 2026-09-14: the source states 21,191,530 shares outstanding, 'mostly unchanged since 2006' and 'has not grown since the IPO'; corroborated by https://www.marketscreener.com/quote/stock/CONSTELLATION-SOFTWARE-IN-1409607/news/Multibagger-Stories-Constellation-Software-44687508/. No company sourced year end count was found for FY2017. Per share figures for this year rest on this assumption and are labelled approximate."
+      },
+      "FY2018": {
+        "value": 21.19,
+        "unit": "millions of shares, approximate, carried forward",
+        "source_url": "https://thequalityinvestor.substack.com/p/constellation-software-180x-in-less",
+        "source_title": "Constellation Software: 180x in less than 20 years (The Quality Investor)",
+        "confidence": "third_party",
+        "note": "Assumption applied by Fable on 2026-09-14: the source states 21,191,530 shares outstanding, 'mostly unchanged since 2006' and 'has not grown since the IPO'; corroborated by https://www.marketscreener.com/quote/stock/CONSTELLATION-SOFTWARE-IN-1409607/news/Multibagger-Stories-Constellation-Software-44687508/. No company sourced year end count was found for FY2018. Per share figures for this year rest on this assumption and are labelled approximate."
+      },
+      "FY2019": {
+        "value": 21.19,
+        "unit": "millions of shares, approximate, carried forward",
+        "source_url": "https://thequalityinvestor.substack.com/p/constellation-software-180x-in-less",
+        "source_title": "Constellation Software: 180x in less than 20 years (The Quality Investor)",
+        "confidence": "third_party",
+        "note": "Assumption applied by Fable on 2026-09-14: the source states 21,191,530 shares outstanding, 'mostly unchanged since 2006' and 'has not grown since the IPO'; corroborated by https://www.marketscreener.com/quote/stock/CONSTELLATION-SOFTWARE-IN-1409607/news/Multibagger-Stories-Constellation-Software-44687508/. No company sourced year end count was found for FY2019. Per share figures for this year rest on this assumption and are labelled approximate."
+      },
+      "FY2020": {
+        "value": 21.19,
+        "unit": "millions of shares, approximate, carried forward",
+        "source_url": "https://thequalityinvestor.substack.com/p/constellation-software-180x-in-less",
+        "source_title": "Constellation Software: 180x in less than 20 years (The Quality Investor)",
+        "confidence": "third_party",
+        "note": "Assumption applied by Fable on 2026-09-14: the source states 21,191,530 shares outstanding, 'mostly unchanged since 2006' and 'has not grown since the IPO'; corroborated by https://www.marketscreener.com/quote/stock/CONSTELLATION-SOFTWARE-IN-1409607/news/Multibagger-Stories-Constellation-Software-44687508/. No company sourced year end count was found for FY2020. Per share figures for this year rest on this assumption and are labelled approximate."
+      },
+      "FY2021": {
+        "value": 21.19,
+        "unit": "millions of shares, approximate, carried forward",
+        "source_url": "https://thequalityinvestor.substack.com/p/constellation-software-180x-in-less",
+        "source_title": "Constellation Software: 180x in less than 20 years (The Quality Investor)",
+        "confidence": "third_party",
+        "note": "Assumption applied by Fable on 2026-09-14: the source states 21,191,530 shares outstanding, 'mostly unchanged since 2006' and 'has not grown since the IPO'; corroborated by https://www.marketscreener.com/quote/stock/CONSTELLATION-SOFTWARE-IN-1409607/news/Multibagger-Stories-Constellation-Software-44687508/. No company sourced year end count was found for FY2021. Per share figures for this year rest on this assumption and are labelled approximate."
+      },
+      "FY2022": {
+        "value": 21.19,
+        "unit": "millions of shares, approximate, carried forward",
+        "source_url": "https://thequalityinvestor.substack.com/p/constellation-software-180x-in-less",
+        "source_title": "Constellation Software: 180x in less than 20 years (The Quality Investor)",
+        "confidence": "third_party",
+        "note": "Assumption applied by Fable on 2026-09-14: the source states 21,191,530 shares outstanding, 'mostly unchanged since 2006' and 'has not grown since the IPO'; corroborated by https://www.marketscreener.com/quote/stock/CONSTELLATION-SOFTWARE-IN-1409607/news/Multibagger-Stories-Constellation-Software-44687508/. No company sourced year end count was found for FY2022. Per share figures for this year rest on this assumption and are labelled approximate."
+      }
+    },
+    "dividends_per_share_regular": {
+      "FY2010": {
+        "value": 2.0,
+        "unit": "CAD per share approximate",
+        "source_url": "https://www.csisoftware.com/docs/default-source/press-releases/q4_2010_press_release.pdf",
+        "confidence": "company",
+        "note": "Dividend declared March 2, 2011 for FY2010; currency assumed CAD (TSX-listed shares), not directly confirmed from the release text. Whether styled 'annual' or an aggregate of quarterly payments was not confirmed."
+      },
+      "FY2011": {
+        "value": 2.0,
+        "unit": "CAD per share approximate",
+        "source_url": "https://businesscaseweekly.substack.com/p/bcw-49-constellation-software",
+        "confidence": "third_party",
+        "note": "'$2 a share for 2011 in total', before the board adopted a true $1/share quarterly dividend starting Q1 2012."
+      },
+      "FY2013": {
+        "value": 4.0,
+        "unit": "USD (4 x USD 1.00 quarterly)",
+        "source_url": "https://www.globenewswire.com/news-release/2013/10/30/1474983/0/en/Constellation-Software-Inc-Announces-Results-for-the-Third-Quarter-Ended-September-30-2013-and-Declares-Quarterly-Dividend.html",
+        "confidence": "company",
+        "note": "Quarterly rate of USD 1.00 confirmed; annual total assumes the same rate held for all four quarters of FY2013 (unchanged since 2012 per company disclosure pattern)."
+      },
+      "FY2014": {
+        "value": 4.0,
+        "unit": "USD (4 x USD 1.00 quarterly)",
+        "source_url": "https://www.globenewswire.com/news-release/2014/03/06/1475011/0/en/Constellation-Software-Inc-Declares-Quarterly-Dividend.html",
+        "confidence": "company"
+      },
+      "FY2015": {
+        "value": 4.0,
+        "unit": "USD (4 x USD 1.00 quarterly)",
+        "source_url": "https://www.globenewswire.com/news-release/2016/02/17/1061530/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2015-and-Declares-Quarterly-Dividend.html",
+        "confidence": "company",
+        "note": "No special dividend named in this release for FY2015."
+      },
+      "FY2018": {
+        "value": 4.0,
+        "unit": "USD (4 x USD 1.00 quarterly)",
+        "source_url": "https://www.globenewswire.com/news-release/2019/02/14/1725078/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2018-and-Declares-Quarterly-and-Special-Dividends.html",
+        "confidence": "company",
+        "note": "Declared alongside the USD 20.00 special dividend."
+      },
+      "FY2019": {
+        "value": 4.0,
+        "unit": "USD (4 x USD 1.00 quarterly)",
+        "source_url": "https://www.globenewswire.com/news-release/2020/02/13/1984977/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2019-and-Declares-Quarterly-Dividend.html",
+        "confidence": "company"
+      },
+      "FY2020": {
+        "value": 4.0,
+        "unit": "USD (4 x USD 1.00 quarterly)",
+        "source_url": "https://www.globenewswire.com/news-release/2020/11/02/2118890/0/en/Constellation-Software-Inc-Announces-Results-for-the-Third-Quarter-Ended-September-30-2020-and-Declares-Quarterly-Dividend.html",
+        "confidence": "company"
+      },
+      "FY2022": {
+        "value": 4.0,
+        "unit": "USD (4 x USD 1.00 quarterly)",
+        "source_url": "https://www.globenewswire.com/news-release/2023/03/29/2637195/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2022-and-Declares-Quarterly-Dividend.html",
+        "confidence": "company",
+        "note": "No special dividend named in this release."
+      },
+      "FY2023": {
+        "value": 4.0,
+        "unit": "USD (4 x USD 1.00 quarterly)",
+        "source_url": "https://www.globenewswire.com/news-release/2024/3/6/2841834/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2023-and-Declares-Quarterly-Dividend.html",
+        "confidence": "company"
+      },
+      "FY2024": {
+        "value": 4.0,
+        "unit": "USD (4 x USD 1.00 quarterly)",
+        "source_url": "https://www.globenewswire.com/news-release/2025/03/07/3039269/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2024-and-Declares-Quarterly-Dividend.html",
+        "confidence": "company"
+      },
+      "FY2025": {
+        "value": 4.0,
+        "unit": "USD (4 x USD 1.00 quarterly)",
+        "source_url": "https://www.globenewswire.com/news-release/2026/03/09/3251696/0/en/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2025-and-declares-quarterly-dividend.html",
+        "confidence": "company",
+        "note": "Regular rate still USD 1.00 quarterly; no special dividend named."
+      }
+    },
+    "dividends_per_share_special": {
+      "FY2018": {
+        "value": 20.0,
+        "unit": "USD per share, one-time special dividend",
+        "source_url": "https://www.globenewswire.com/news-release/2019/02/14/1725078/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2018-and-Declares-Quarterly-and-Special-Dividends.html",
+        "confidence": "company",
+        "note": "Declared February 14, 2019 alongside FY2018 results and the regular USD 1.00 quarterly dividend, both paid April 5, 2019 to holders of record March 16, 2019. Company: 'we have capital in excess of our needs and should return the excess to shareholders.' Known issue 8: this is the only special dividend found anywhere across all five stage1 sweeps; earlier years were specifically searched and none were found -- see coverage note."
+      }
+    },
+    "employees": {
+      "FY2011": {
+        "value": 1022,
+        "unit": "count (R&D employees only, NOT total company headcount)",
+        "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/statutory-filings/csu-2011-aif.pdf",
+        "confidence": "company",
+        "note": "2011 AIF: ~1,022 employees involved in R&D for fiscal 2011. This is an R&D headcount subset; no total company-wide employee figure was found for FY2011."
+      },
+      "FY2015": {
+        "value": 9924,
+        "unit": "average full-time employees (annual average)",
+        "source_url": "https://www.csisoftware.com/wp-content/uploads/2026/04/2015-annual-information-form-final.pdf",
+        "confidence": "company",
+        "note": "2015 AIF: ~9,924 FTE average for fiscal 2015. A point-in-time figure of ~10,478 as at Dec 31, 2015 is also in the same source (different measurement basis, not a conflict)."
+      },
+      "FY2019": {
+        "value": 23000,
+        "unit": "approximate full-time employees, as at Dec 31 2019",
+        "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/statutory-filings/2019-annual-information-form---final.pdf",
+        "confidence": "company"
+      },
+      "FY2022": {
+        "value": 41000,
+        "unit": "approximate full-time employees, globally",
+        "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/2022-agm/csi-2021-mic-en.pdf",
+        "confidence": "company",
+        "note": "Known issue 7: company AIF-sourced figure of ~41,000 preferred over a third-party (macrotrends) figure of 45,000 as at Dec 31, 2022, which is recorded as a conflict."
+      },
+      "FY2023": {
+        "value": 57637,
+        "unit": "count, approximate (workforce-analytics estimate, not company-disclosed)",
+        "source_url": "https://www.reveliolabs.com/companies/constellation-software/employees/",
+        "confidence": "third_party"
+      },
+      "FY2024": {
+        "value": 57217,
+        "unit": "count, approximate (workforce-analytics estimate, not company-disclosed)",
+        "source_url": "https://www.reveliolabs.com/companies/constellation-software/employees/",
+        "confidence": "third_party"
+      },
+      "FY2025": {
+        "value": 55775,
+        "unit": "count, approximate (workforce-analytics estimate, not company-disclosed)",
+        "source_url": "https://www.reveliolabs.com/companies/constellation-software/employees/",
+        "confidence": "third_party",
+        "note": "Down 2.6%/-1,442 from FY2024 per the same aggregator."
+      }
+    },
+    "roic_pct": {
+      "FY2009": {
+        "value": 24,
+        "unit": "percent",
+        "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/presidents-letter/shareholder-letter---2009.pdf",
+        "confidence": "company",
+        "note": "2009 President's letter reported 24% ROIC for 2009."
+      },
+      "FY2010": {
+        "value": 25,
+        "unit": "percent",
+        "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/presidents-letter/shareholder-letter---2010.pdf",
+        "confidence": "company",
+        "note": "Reused from long-term-hold/holdings.json parent_long_run."
+      }
+    },
+    "roic_plus_organic_pct": {
+      "FY2017": {
+        "value": 33,
+        "unit": "percent, approximate",
+        "source_url": "https://uploads-ssl.webflow.com/60e3655ca778911eb64b2a00/60f0777ead89beba9c51c0b3_Constellation-Software-Inc.-Shareholder-Letters.pdf",
+        "confidence": "third_party",
+        "note": "ROIC+OGr 'remained relatively flat at 33%' in 2017 with shareholders' Average Invested Capital growing 29%. Corroborated by a second third-party source (bizalmanac.substack.com) citing the same 33% figure and 29% ROIC alone for FY2017."
+      }
+    },
+    "capex": {
+      "FY2023": {
+        "value": 68,
+        "unit": "USD millions, approximate",
+        "source_url": "https://www.stockopedia.com/share-prices/constellation-software-TSE:CSU/cashflow/",
+        "confidence": "third_party",
+        "note": "Aggregator-derived cash-flow-statement figure; not located in a company press release."
+      },
+      "FY2024": {
+        "value": 72,
+        "unit": "USD millions, approximate",
+        "source_url": "https://www.stockopedia.com/share-prices/constellation-software-TSE:CSU/cashflow/",
+        "confidence": "third_party",
+        "note": "Aggregator-derived cash-flow-statement figure; not located in a company press release."
+      }
+    },
+    "share_price_cad_year_end": {
+      "IPO 2006-05-17": {
+        "value": 17.0,
+        "unit": "CAD, IPO offering price (not a fiscal year-end close)",
+        "source_url": "https://www.cantechletter.com/2025/05/constellation-software-has-delivered-a-36000-return-since-its-ipo-is-it-still-a-buy/",
+        "confidence": "third_party",
+        "note": "Constellation listed on the TSX May 17, 2006 at an IPO price of C$17.00/share (first-day close C$18.30). Not independently confirmed from Constellation's own short-form prospectus (WebFetch unavailable); treated as third_party. No FY2006-FY2025 fiscal year-end closing price could be sourced via WebSearch in any of the five intake sweeps -- year end prices are gap for every one of the 19 fiscal years, per known issue 9."
+      }
+    },
+    "aggregate_returns": {
+      "total_return_10yr_pct": {
+        "value": 460.73,
+        "unit": "percent total return, CNSWF USD, approximate, 10 years to 2026-05",
+        "source_url": "https://www.financecharts.com/stocks/CNSWF/performance/total-return-cagr",
+        "confidence": "third_party"
+      },
+      "total_return_15yr_pct": {
+        "value": 3597.83,
+        "unit": "percent total return, CNSWF USD, approximate, 15 years to 2026-05",
+        "source_url": "https://www.financecharts.com/stocks/CNSWF/performance/total-return-cagr",
+        "confidence": "third_party"
+      },
+      "annualized_return_10yr_pct": {
+        "value": 19.63,
+        "unit": "percent per year, CSU.TO CAD, approximate, 10 years to 2026-09",
+        "source_url": "https://portfolioslab.com/symbol/CSU.TO",
+        "confidence": "third_party",
+        "note": "S&P 500 averaged 13.95 percent over the same window per the same source."
+      },
+      "positive_years_count": {
+        "value": 17,
+        "unit": "positive calendar years out of since-listing total (2 negative), approximate",
+        "source_url": "https://portfolioslab.com/symbol/CSU.TO",
+        "confidence": "third_party"
+      }
+    }
+  },
+  "events": [
+    {
+      "date": "2006-05-17",
+      "item": "ipo",
+      "text": "Constellation Software listed on the TSX (ticker CSU) at an IPO price of C$17.00/share, raising about C$80 million; shares closed their first day at C$18.30. The offering was structured mainly to give early investor TD Capital Canadian Private Equity Partners a liquidity event.",
+      "source_url": "https://www.cantechletter.com/2025/05/constellation-software-has-delivered-a-36000-return-since-its-ipo-is-it-still-a-buy/",
+      "confidence": "third_party"
+    },
+    {
+      "date": "2006",
+      "item": "ipo_growth_target",
+      "text": "At IPO, management set a five-year objective: average annual growth of Net Revenues per share and Adjusted EBITDA per share in excess of 20% for January 1, 2006 to December 31, 2010.",
+      "source_url": "https://www.mbi-deepdives.com/content/files/2022/07/Constellation-Software-SH-Letters-Merged.pdf",
+      "confidence": "company"
+    },
+    {
+      "date": "2007",
+      "item": "ipo_growth_target_progress",
+      "text": "After two years, Constellation reported 16% net revenue growth and 33% EBITDA growth for 2007 (following 27% and 31% in 2006), calling the 20%/year, five-year objective 'challenging, but achievable.'",
+      "source_url": "https://www.mbi-deepdives.com/content/files/2022/07/Constellation-Software-SH-Letters-Merged.pdf",
+      "confidence": "company"
+    },
+    {
+      "date": "2008-09-30",
+      "item": "acquisition",
+      "text": "Constellation completed the acquisition of MAXIMUS Inc.'s Justice, Education and Asset Solutions businesses for total consideration of US$40 million (US$35M cash at closing plus a US$5M holdback). The largest single named deal identified in the FY2007-2011 window, though below the USD 100M event threshold.",
+      "source_url": "https://www.csisoftware.com/constellation-software-inc.-finalizes-acquisition-of-maximus-justice-education-and-asset-solutions-businesses/",
+      "confidence": "company"
+    },
+    {
+      "date": "2011",
+      "item": "operating_group",
+      "text": "Volaris, which grew out of Trapeze Group (Constellation's first acquisition, 1995), was incorporated under its current name in 2011.",
+      "source_url": "https://www.volarisgroup.com/about/",
+      "confidence": "company"
+    },
+    {
+      "date": "2011-04-04",
+      "item": "strategic_review_2011",
+      "text": "Constellation's board announced a review of strategic alternatives ('The Process', flagged as a sale possibility in the 2010 President's letter), retaining BofA Merrill Lynch and BMO Capital Markets. During the roughly nine-month review, operating groups stopped acquiring in new verticals; 2011 acquisition spending came in at less than half of 2010's level.",
+      "source_url": "https://www.csisoftware.com/docs/default-source/investor-relations/presidents-letter/2011_presidents_letter.pdf",
+      "confidence": "company"
+    },
+    {
+      "date": "2012",
+      "item": "strategic_review_outcome",
+      "text": "The strategic review concluded without a sale; Constellation remained independent. The board adopted a true quarterly dividend of USD 1.00/share starting Q1 2012 (after paying $2/share in total for 2011); large holders such as OMERS obtained liquidity by selling shares in the market instead.",
+      "source_url": "https://businesscaseweekly.substack.com/p/bcw-49-constellation-software",
+      "confidence": "third_party"
+    },
+    {
+      "date": "2011-12",
+      "item": "acquisition",
+      "text": "Constellation's Friedman operating group acquired Markinson Technologies Pty Ltd.",
+      "source_url": "https://www.globenewswire.com/news-release/2011/12/14/1474721/0/en/Constellation-Software-Inc-Acquires-Markinson-Technologies-Pty-Ltd.html",
+      "confidence": "company"
+    },
+    {
+      "date": "2013-12-16",
+      "item": "acquisition_above_100m",
+      "text": "Constellation agreed to acquire 100% of Total Specific Solutions (TSS) B.V. (Netherlands) for approximately EUR 240 million -- then the company's largest deal. TSS had annual gross revenue of approximately EUR 174 million and about 1,400 employees; Constellation added a one-year US$350M term loan to fund the deal. The acquisition closed December 31, 2013.",
+      "source_url": "https://www.globenewswire.com/news-release/2013/12/16/1474994/0/en/Constellation-Software-Inc-Reaches-Agreement-to-Acquire-Total-Specific-Solutions-TSS-B-V-and-Increases-Credit-Facility.html",
+      "confidence": "company"
+    },
+    {
+      "date": "2018",
+      "item": "president_letter_policy_change",
+      "text": "The 2018 President's letter was Mark Leonard's last full annual letter; he said he would no longer write yearly letters as a matter of course. Reported rationale: sharing Constellation's operating and capital-allocation tactics publicly was seen as helping an expanding field of 'Constellation emulators'.",
+      "source_url": "https://www.eagletalonpartners.com/leadership-lens/mark-leonard-stopped-writing-to-shareholders-in-2018",
+      "confidence": "third_party"
+    },
+    {
+      "date": "2019-02-14",
+      "item": "special_dividend",
+      "text": "Alongside FY2018 results, Constellation declared a special dividend of USD 20.00/share plus the regular USD 1.00/share quarterly dividend, both paid April 5, 2019. Company: 'We are optimistic about our acquisition pace for 2019, but we feel that we have capital in excess of our needs and should return the excess to shareholders.' No further special dividend was found in any later year searched (known issue 8).",
+      "source_url": "https://www.globenewswire.com/news-release/2019/02/14/1725078/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2018-and-Declares-Quarterly-and-Special-Dividends.html",
+      "confidence": "company"
+    },
+    {
+      "date": "2019-10-31",
+      "item": "fcfa2s_introduced",
+      "text": "Constellation adopted the 'Free Cash Flow Available to Shareholders' (FCFA2S) metric starting with Q3 2019 results, per third-party commentary; prior to this the company's operative non-GAAP cash metric was 'Adjusted Net Income.'",
+      "source_url": "https://www.globenewswire.com/news-release/2019/10/31/1939194/0/en/Constellation-Software-Inc-Announces-Results-for-the-Third-Quarter-Ended-September-30-2019-and-Declares-Quarterly-Dividend.html",
+      "confidence": "third_party"
+    },
+    {
+      "date": "2021-01-05",
+      "item": "spin_out",
+      "text": "Constellation completed the spin-out of Topicus.com Inc., distributing 1.859817814 Topicus shares per Constellation common share held as of Dec 28, 2020; Topicus began trading on the TSX Venture Exchange around February 1, 2021.",
+      "source_url": "https://www.globenewswire.com/news-release/2021/01/05/2153464/0/en/Constellation-Software-Inc-Completes-Spin-Out-of-Topicus-com-Inc.html",
+      "confidence": "company"
+    },
+    {
+      "date": "2021-02",
+      "item": "hurdle_rate_change",
+      "text": "Mark Leonard's 2021 President's Letter announced Constellation would accept a lower hurdle rate on larger acquisitions to deploy the roughly $989M of excess cash generated in 2020, reasoning that brokers had only included Constellation in about 16% of large VMS sale processes over the prior five years, and a lower large-deal hurdle rate would get it included in more auctions. He also described developing 'a new circle of investing competence outside of the VMS sphere.'",
+      "source_url": "https://www.marketscreener.com/quote/stock/CONSTELLATION-SOFTWARE-IN-1409607/news/Constellation-Software-2021-President-s-Letter-32446976/",
+      "confidence": "third_party"
+    },
+    {
+      "date": "2022-03-02",
+      "item": "acquisition_above_100m",
+      "text": "Constellation's Harris Operating Group agreed to acquire Allscripts Healthcare Solutions' Hospitals and Large Physician Practices segment (Sunrise, Paragon, Allscripts TouchWorks, Allscripts Opal, dbMotion) for up to US$700 million (US$670M fixed plus up to US$30M contingent). The segment's 2021 gross revenue was US$928 million. Completed May 2, 2022; later rebranded Altera Digital Health.",
+      "source_url": "https://www.globenewswire.com/news-release/2022/03/02/2395833/0/en/Constellation-Software-s-Harris-Operating-Group-Acquires-Allscripts-Hospitals-and-Large-Physician-Practices-Business-Segment.html",
+      "confidence": "company"
+    },
+    {
+      "date": "2023-02-22",
+      "item": "spin_out",
+      "text": "Constellation and its subsidiary Lumine Group Inc. completed the purchase of WideOrbit Inc.; Lumine Group was then spun out via a dividend-in-kind (3.0003833 Lumine shares per Constellation common share, record date Feb 16, 2023), beginning to trade on the TSX Venture Exchange around March 24, 2023 as 'LMN'.",
+      "source_url": "https://www.globenewswire.com/en/news-release/2023/02/22/2613833/0/en/Constellation-Software-Inc-and-Lumine-Group-Inc-Complete-Purchase-of-WideOrbit-Inc-and-Lumine-Group-Spin-Out.html",
+      "confidence": "company"
+    },
+    {
+      "date": "2023-08",
+      "item": "non_cash_special_distribution",
+      "text": "Constellation announced a non-cash 'warrant dividend' (declared August 16, 2023) and a dividend/final prospectus tied to a previously announced rights offering of Series 1 Debentures (August 24, 2023). These are non-cash special distributions, not a cash special dividend per share.",
+      "source_url": "https://www.globenewswire.com/news-release/2023/8/16/2726016/0/en/Constellation-Software-Inc-Announces-Declaration-of-Warrant-Dividend.html",
+      "confidence": "company"
+    },
+    {
+      "date": "2023-09-15",
+      "item": "acquisition_above_100m",
+      "text": "Constellation's Perseus Operating Group completed the acquisition of Black Knight's Empower loan origination system and Optimal Blue businesses for approximately US$700 million (US$200M cash plus a US$500M promissory note), divested by Intercontinental Exchange (ICE) to help secure FTC antitrust clearance of ICE's acquisition of Black Knight.",
+      "source_url": "https://www.csisoftware.com/category/press-releases/2023/09/15/constellation-software-s-perseus-group-completes-acquisition-of-black-knight-s-empower-and-optimal-blue-businesses",
+      "confidence": "company"
+    },
+    {
+      "date": "2024-03",
+      "item": "acquisition_undisclosed_price",
+      "text": "Constellation's Perseus Operating Group completed the acquisition of Auto-IT Pty Ltd (dealer management systems). Purchase price not disclosed.",
+      "source_url": "https://www.businesswire.com/news/home/20240303858962/en/Perseus-Operating-Group-of-Constellation-Software-Completes-Acquisition-of-Auto-IT-Group",
+      "confidence": "third_party"
+    },
+    {
+      "date": "2025-09-25",
+      "item": "leadership_change",
+      "text": "Mark Leonard resigned as President, effective immediately, citing health reasons. The Board appointed Mark Miller (COO for over thirty years) as President; Leonard remained a Director. Shares fell 5.5% to C$3,910.71 on the news, erasing roughly C$4.8 billion of market cap.",
+      "source_url": "https://www.globenewswire.com/news-release/2025/09/25/3156334/0/en/Constellation-Software-Inc-Announces-the-Resignation-of-Mark-Leonard-and-Appointment-of-Mark-Miller-as-President-of-Constellation-Software.html",
+      "confidence": "company"
+    },
+    {
+      "date": "2025-11",
+      "item": "acquisition_undisclosed_price",
+      "text": "Constellation acquired TECVIA, a Munich-based provider of media and training solutions for the mobility sector. Purchase price not disclosed.",
+      "source_url": "https://www.levelheadedinvesting.com/p/constellation-software-csu-q1-2026-results-the-market-feared-ai-constellation-deployed-1-6-billion",
+      "confidence": "third_party"
+    },
+    {
+      "date": "2026-03",
+      "item": "leadership_change",
+      "text": "Constellation announced founder Mark Leonard will not stand for re-election to the Board, term ending after the May 15, 2026 AGM; he is expected to remain involved as an advisor on the Permanent Engaged Minority Shareholder strategy.",
+      "source_url": "https://www.csisoftware.com/constellation-software-inc-announces-mark-leonards-decision-to-not-stand-for-re-election-to-board-of-directors/",
+      "confidence": "company"
+    }
+  ],
+  "conflicts": [
+    {
+      "metric": "revenue",
+      "period": "FY2010",
+      "values": [
+        631,
+        171
+      ],
+      "sources": [
+        "https://www.csisoftware.com/docs/default-source/press-releases/q4_2010_press_release.pdf",
+        "https://www.csisoftware.com/docs/default-source/press-releases/q4_2010_press_release.pdf"
+      ],
+      "resolution": "picked 631 (full fiscal year total, confirmed twice independently); 171 is the Q4-2010-only quarterly revenue, a quarterly misread (known issue 1)."
+    },
+    {
+      "metric": "net_income_attributable",
+      "period": "FY2011",
+      "values": [
+        157,
+        63
+      ],
+      "sources": [
+        "https://www.csisoftware.com/docs/default-source/investor-relations/financial-news/pr_q4_2012.pdf",
+        "https://www.csisoftware.com/docs/default-source/investor-relations/financial-news/pr_q4_2012.pdf"
+      ],
+      "resolution": "picked 157 (two independent pass-2 retrievals of the FY2012 release pair 157 with FY2011, consistent with a stated $75M FY2011 tax recovery); 63 matches nothing else and is a likely error, possibly a cross-year mixup with FY2009's $62M Adjusted Net Income (known issue 2)."
+    },
+    {
+      "metric": "adjusted_ebita",
+      "period": "FY2012",
+      "values": [
+        "8.41 per diluted share (not a total)"
+      ],
+      "sources": [
+        "https://www.csisoftware.com/docs/default-source/investor-relations/financial-news/pr_q4_2013.pdf"
+      ],
+      "resolution": "kept neither as the FY2012 total; $8.41 is a per-share figure and no aggregate FY2012 Adjusted EBITA dollar figure was located anywhere. Ledger value set to gap (known issue 3)."
+    },
+    {
+      "metric": "adjusted_ebita",
+      "period": "FY2013",
+      "values": [
+        233.8,
+        233.6,
+        178
+      ],
+      "sources": [
+        "https://www.csisoftware.com/docs/default-source/investor-relations/statutory-filings/sr_q4_2014.pdf",
+        "https://www.csisoftware.com/docs/default-source/investor-relations/financial-news/pr_q4_2013.pdf",
+        "https://www.csisoftware.com/docs/default-source/investor-relations/financial-news/pr_q4_2013.pdf"
+      ],
+      "resolution": "picked 233.8 (directly quoted in the FY2014 report's comparative disclosure), corroborated by the independently derived 233.6; 178 is recorded as the outlier and treated as a likely misread (known issue 4)."
+    },
+    {
+      "metric": "organic_growth_pct",
+      "period": "FY2009",
+      "values": [
+        -3,
+        -10
+      ],
+      "sources": [
+        "https://www.csisoftware.com/docs/default-source/press-releases/q4_2010_press_release.pdf",
+        "https://www.csisoftware.com/docs/default-source/investor-relations/presidents-letter/shareholder-letter---2009.pdf"
+      ],
+      "resolution": "picked -3 (year-specific, from the FY2010 release comparative); -10 is a stated two-year (2008-2009) average from the 2009 President's letter, less precise for FY2009 alone."
+    },
+    {
+      "metric": "organic_growth_pct",
+      "period": "FY2013",
+      "values": [
+        4,
+        8
+      ],
+      "sources": [
+        "https://www.csisoftware.com/docs/default-source/investor-relations/presidents-letter/presidentletter_2013.pdf",
+        "https://www.csisoftware.com/docs/default-source/investor-relations/presidents-letter/presidentletter_2013.pdf"
+      ],
+      "resolution": "picked 4 (total company Organic Net Revenue Growth); 8 is a narrower, distinct metric -- 'Organic Growth in Maintenance Revenue' specifically -- from the same 2013 President's letter, not a genuine conflict on the same measure."
+    },
+    {
+      "metric": "organic_growth_pct",
+      "period": "FY2016",
+      "values": [
+        0,
+        -1,
+        1
+      ],
+      "sources": [
+        "https://www.csisoftware.com/docs/default-source/investor-relations/statutory-filings/mda_q4_2016.pdf",
+        "https://www.sedarplus.ca/csa-party/records/document.html?id=f773c6e5e3b902e73f73f4b0482df0b51868dc8494d2e5cb048ca2126cb3dd5e",
+        "https://www.globenewswire.com/news-release/2017/02/01/1061601/0/en/Constellation-Software-Inc-Announces-Conference-Call-to-Discuss-Fourth-Quarter-Results.html"
+      ],
+      "resolution": "set to 0 (mda_q4_2016.pdf, the FY2016 annual release, already used by long-term-hold/holdings.json parent_long_run); -1 (a sedarplus copy also titled 'MD&A FY2016') and +1 (a conference-call announcement, likely conflating a quarterly figure with the annual one) could not be reconciled and are both recorded here (known issue 6)."
+    },
+    {
+      "metric": "organic_growth_fx_adj_pct",
+      "period": "FY2016",
+      "values": [
+        1,
+        1,
+        3
+      ],
+      "sources": [
+        "https://www.csisoftware.com/docs/default-source/investor-relations/statutory-filings/mda_q4_2016.pdf",
+        "https://www.sedarplus.ca/csa-party/records/document.html?id=f773c6e5e3b902e73f73f4b0482df0b51868dc8494d2e5cb048ca2126cb3dd5e",
+        "https://www.globenewswire.com/news-release/2017/02/01/1061601/0/en/Constellation-Software-Inc-Announces-Conference-Call-to-Discuss-Fourth-Quarter-Results.html"
+      ],
+      "resolution": "set to 1 (mda_q4_2016.pdf, matches the sedarplus figure by coincidence, and is paired with the resolved 0% reported figure); the conference-call announcement's 3% could not be reconciled and is recorded here (known issue 6)."
+    },
+    {
+      "metric": "employees",
+      "period": "FY2022",
+      "values": [
+        41000,
+        45000
+      ],
+      "sources": [
+        "https://www.csisoftware.com/docs/default-source/investor-relations/2022-agm/csi-2021-mic-en.pdf",
+        "https://www.macrotrends.net/stocks/charts/CNSWF/constellation-software/number-of-employees"
+      ],
+      "resolution": "picked 41,000 (company AIF) over 45,000 (third-party aggregator) (known issue 7)."
+    },
+    {
+      "metric": "acquisitions_cash_spent",
+      "period": "FY2019",
+      "values": [
+        688,
+        549
+      ],
+      "sources": [
+        "https://www.globenewswire.com/news-release/2020/02/13/1984977/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2019-and-Declares-Quarterly-Dividend.html",
+        "https://www.csisoftware.com/docs/default-source/investor-relations/statutory-filings/2019-annual-information-form---final.pdf"
+      ],
+      "resolution": "picked 688 (directly quoted company total consideration figure); 549 is a third-party-confidence 'aggregate cash consideration including acquired cash' figure sourced to the 2019 AIF that could not be independently confirmed with a direct quote."
+    },
+    {
+      "metric": "acquisitions_cash_spent",
+      "period": "FY2021",
+      "values": [
+        1337,
+        1517
+      ],
+      "sources": [
+        "https://www.csisoftware.com/docs/default-source/press-releases/csi---mda-q4-2021---final.pdf",
+        "https://www.globenewswire.com/news-release/2022/02/10/2383319/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2021-and-Declares-Quarterly-Dividend.html"
+      ],
+      "resolution": "kept 1337 (already held by long-term-hold/holdings.json parent_long_run, from the Q4 2021 MD&A, net of a Topicus.com subscription adjustment); 1517 is a company-sourced 'total consideration including holdbacks, contingent consideration and Topicus.com amounts' figure found independently in this project's own FY2021 release search -- a different, broader basis, not reconciled."
+    },
+    {
+      "metric": "adjusted_ebita",
+      "period": "FY2022-FY2023",
+      "values": [
+        1556,
+        2043,
+        1185
+      ],
+      "sources": [
+        "https://thecompoundingtortoise.substack.com/p/constellation-software-analysis-of",
+        "https://thecompoundingtortoise.substack.com/p/constellation-software-analysis-of",
+        "https://thecompoundingtortoise.substack.com/p/constellation-software-analysis-of"
+      ],
+      "resolution": "kept neither for the ledger value (both years set to gap); all three are third-party estimates derived by applying an assumed EBITA margin to revenue, not company-disclosed dollar figures, and the two FY2023 estimates (2043 vs 1185) are themselves mutually inconsistent."
+    },
+    {
+      "metric": "shares_outstanding",
+      "period": "FY2006 to FY2022",
+      "values": [
+        21.19
+      ],
+      "sources": [
+        "https://thequalityinvestor.substack.com/p/constellation-software-180x-in-less",
+        "https://www.marketscreener.com/quote/stock/CONSTELLATION-SOFTWARE-IN-1409607/news/Multibagger-Stories-Constellation-Software-44687508/"
+      ],
+      "resolution": "Carried forward as a labelled assumption from two third party statements that the count is unchanged since the 2006 IPO; the only company sourced count is FY2025 (21,191,530). Fable, 2026-09-14."
+    }
+  ],
+  "coverage": {
+    "revenue": {
+      "years_found": 19,
+      "company_sourced": 14,
+      "third_party": 3
+    },
+    "revenue_growth_pct": {
+      "years_found": 2,
+      "company_sourced": 2,
+      "third_party": 0
+    },
+    "organic_growth_pct": {
+      "years_found": 17,
+      "company_sourced": 17,
+      "third_party": 0
+    },
+    "organic_growth_fx_adj_pct": {
+      "years_found": 11,
+      "company_sourced": 10,
+      "third_party": 0
+    },
+    "maintenance_recurring_revenue": {
+      "years_found": 3,
+      "company_sourced": 2,
+      "third_party": 1
+    },
+    "adjusted_ebita": {
+      "years_found": 8,
+      "company_sourced": 8,
+      "third_party": 0
+    },
+    "adjusted_net_income": {
+      "years_found": 8,
+      "company_sourced": 8,
+      "third_party": 0
+    },
+    "net_income_attributable": {
+      "years_found": 17,
+      "company_sourced": 15,
+      "third_party": 2
+    },
+    "diluted_eps": {
+      "years_found": 16,
+      "company_sourced": 15,
+      "third_party": 1
+    },
+    "cash_from_operations": {
+      "years_found": 12,
+      "company_sourced": 12,
+      "third_party": 0
+    },
+    "fcfa2s": {
+      "years_found": 8,
+      "company_sourced": 8,
+      "third_party": 0
+    },
+    "acquisitions_cash_spent": {
+      "years_found": 13,
+      "company_sourced": 11,
+      "third_party": 2
+    },
+    "acquisition_count": {
+      "years_found": 7,
+      "company_sourced": 3,
+      "third_party": 3
+    },
+    "shares_outstanding": {
+      "years_found": 20,
+      "company_sourced": 1,
+      "third_party": 19,
+      "note": "17 years carried forward on the unchanged since IPO assumption"
+    },
+    "dividends_per_share_regular": {
+      "years_found": 12,
+      "company_sourced": 11,
+      "third_party": 1
+    },
+    "dividends_per_share_special": {
+      "years_found": 1,
+      "company_sourced": 1,
+      "third_party": 0
+    },
+    "employees": {
+      "years_found": 7,
+      "company_sourced": 4,
+      "third_party": 3
+    },
+    "roic_pct": {
+      "years_found": 2,
+      "company_sourced": 2,
+      "third_party": 0
+    },
+    "roic_plus_organic_pct": {
+      "years_found": 1,
+      "company_sourced": 0,
+      "third_party": 1
+    },
+    "capex": {
+      "years_found": 2,
+      "company_sourced": 0,
+      "third_party": 2
+    },
+    "share_price_cad_year_end": {
+      "years_found": 0,
+      "company_sourced": 0,
+      "third_party": 0
+    }
+  },
+  "gate": {
+    "every_entry_has_source_url": {
+      "status": "PASS",
+      "detail": "All entries carry a source_url."
+    },
+    "revenue_growth_matches_stated": {
+      "status": "PASS",
+      "detail": [
+        {
+          "period": "FY2007",
+          "computed_pct": null,
+          "stated_pct": 16,
+          "within_1pt": null,
+          "note": "adjacent year revenue not in ledger, not checkable"
+        },
+        {
+          "period": "FY2010",
+          "computed_pct": 44.06,
+          "stated_pct": 44,
+          "within_1pt": true
+        }
+      ]
+    },
+    "eps_times_shares_matches_net_income": {
+      "status": "PASS",
+      "detail": [
+        {
+          "period": "FY2023",
+          "implied_ni": 565.1,
+          "stated_ni": 565,
+          "diff_pct": 0.02,
+          "within_3pct": true
+        },
+        {
+          "period": "FY2024",
+          "implied_ni": 730.6,
+          "stated_ni": 731,
+          "diff_pct": 0.05,
+          "within_3pct": true
+        },
+        {
+          "period": "FY2025",
+          "implied_ni": 511.7,
+          "stated_ni": 512,
+          "diff_pct": 0.05,
+          "within_3pct": true
+        }
+      ]
+    },
+    "no_fcfa2s_before_fy2013": {
+      "status": "PASS",
+      "detail": "No FCFA2S entries before FY2013 (earliest is FY2018)."
+    }
+  },
+  "notes": {
+    "dividends_per_share_special_coverage": "All five stage1 intake sweeps specifically searched for special dividends before the confirmed USD 20.00/share special (declared Feb 2019, for FY2018). None were found for any year FY2007-FY2025; this is recorded as a confirmed absence in coverage, not a data gap from under-searching (known issue 8).",
+    "share_price_cad_year_end_coverage": "Year end CAD closing prices are gap for all 19 fiscal years (FY2007-FY2025) despite dedicated search passes in every stage1 window; WebFetch/curl are unavailable in this environment so aggregator pages with historical tables could not be opened directly. Only the IPO offering price (synthetic key 'IPO 2006-05-17') and the third-party aggregate return figures (ledger key 'aggregate_returns') exist (known issue 9).",
+    "adjusted_ebita_and_adjusted_net_income_never_mixed": "adjusted_ebita, adjusted_net_income and fcfa2s are always kept as separate ledger keys per year; fcfa2s is only populated FY2018 onward (the metric name postdates FY2017; 'adjusted net income' was the era's term before that, per the intake spec's labeling guidance)."
+  }
+}
