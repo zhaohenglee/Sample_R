@@ -1,0 +1,999 @@
+{
+  "holding": "Lumine Group Inc.",
+  "type": "listed subsidiary",
+  "search_count": 36,
+  "figures": [
+    {
+      "item": "Constellation Software ownership - subordinate voting shares",
+      "period": "as of March 31, 2026",
+      "value": 157553539,
+      "unit": "Lumine Subordinate Voting Shares (61.40% equity interest)",
+      "source_url": "https://www.csisoftware.com/wp-content/uploads/2026/05/CSI-MDA-Q1-2026-Final.pdf",
+      "source_title": "Constellation Software Inc. Management's Discussion and Analysis Q1 2026",
+      "confidence": "company",
+      "note": "REPLACES prior erroneous entry (0.000009 / 9e-06), which was a transcription error. As at March 31, 2026, Constellation Software holds 157,553,539 Lumine Subordinate Voting Shares, an equity interest of 61.40% in Lumine (non-controlling interest 38.60%). This reflects the March 2024 mandatory conversion of Constellation's preferred and special shares into subordinate voting shares (see fact 'Mandatory conversion of preferred and special shares')."
+    },
+    {
+      "item": "Constellation Software ownership - super voting shares",
+      "period": "as of February 2023",
+      "value": 1,
+      "unit": "share (100% of outstanding super voting shares)",
+      "source_url": "https://www.luminegroup.com/statutory-filings/constellation-software-inc-files-final-prospectus-and-declares-dividend-in-connection-with-proposed-lumine-group-spin-out/",
+      "source_title": "Constellation Software Inc. Files Final Prospectus",
+      "confidence": "company"
+    },
+    {
+      "item": "Constellation Software ownership - preferred shares",
+      "period": "as of February 2023",
+      "value": 63582712,
+      "unit": "shares (100% of outstanding preferred shares)",
+      "source_url": "https://www.luminegroup.com/statutory-filings/constellation-software-inc-files-final-prospectus-and-declares-dividend-in-connection-with-proposed-lumine-group-spin-out/",
+      "source_title": "Constellation Software Inc. Files Final Prospectus",
+      "confidence": "company"
+    },
+    {
+      "item": "Constellation Software ownership - fully diluted basis",
+      "period": "as of February 2023",
+      "value": 61.05,
+      "unit": "%",
+      "source_url": "https://www.luminegroup.com/statutory-filings/constellation-software-inc-files-final-prospectus-and-declares-dividend-in-connection-with-proposed-lumine-group-spin-out/",
+      "source_title": "Constellation Software Inc. Files Final Prospectus",
+      "confidence": "company",
+      "note": "Based on 253,104,971 Lumine Shares issued and outstanding on a fully-diluted basis"
+    },
+    {
+      "item": "Dividend ratio - subordinate voting shares per Constellation share",
+      "period": "February 2023 spin-out",
+      "value": 3.0003833,
+      "unit": "Lumine subordinate voting shares per Constellation common share",
+      "source_url": "https://www.globenewswire.com/news-release/2023/02/22/2613833/0/en/Constellation-Software-Inc-and-Lumine-Group-Inc-Complete-Purchase-of-WideOrbit-Inc-and-Lumine-Group-Spin-Out.html",
+      "source_title": "Constellation Software Inc. and Lumine Group Inc. Complete Purchase of WideOrbit",
+      "confidence": "company"
+    },
+    {
+      "item": "Super voting share conversion ratio",
+      "period": "as of February 2023",
+      "value": 1,
+      "unit": "Lumine subordinate voting share per super voting share",
+      "source_url": "https://www.luminegroup.com/statutory-filings/constellation-software-inc-files-final-prospectus-and-declares-dividend-in-connection-with-proposed-lumine-group-spin-out/",
+      "source_title": "Constellation Software Inc. Files Final Prospectus",
+      "confidence": "company"
+    },
+    {
+      "item": "Preferred share conversion ratio",
+      "period": "as of February 2023",
+      "value": 2.4302106,
+      "unit": "Lumine subordinate voting shares per preferred share",
+      "source_url": "https://www.luminegroup.com/statutory-filings/constellation-software-inc-files-final-prospectus-and-declares-dividend-in-connection-with-proposed-lumine-group-spin-out/",
+      "source_title": "Constellation Software Inc. Files Final Prospectus",
+      "confidence": "company"
+    },
+    {
+      "item": "Revenue",
+      "period": "FY2024",
+      "value": 668.4,
+      "unit": "USD millions",
+      "source_url": "https://www.luminegroup.com/statutory-filings/lumine-group-inc-announces-results-for-the-three-and-twelve-months-ended-december-31-2024/",
+      "source_title": "Lumine Group Inc. Announces Results for FY2024",
+      "confidence": "company"
+    },
+    {
+      "item": "Revenue growth",
+      "period": "FY2024 vs FY2023",
+      "value": 34,
+      "unit": "%",
+      "source_url": "https://finance.yahoo.com/news/lumine-group-full-2024-earnings-120812275.html",
+      "source_title": "Lumine Group Full Year 2024 Earnings",
+      "confidence": "third_party"
+    },
+    {
+      "item": "Loss per share",
+      "period": "FY2024",
+      "value": -1.21,
+      "unit": "USD",
+      "source_url": "https://finance.yahoo.com/news/lumine-group-full-2024-earnings-120812275.html",
+      "source_title": "Lumine Group Full Year 2024 Earnings",
+      "confidence": "third_party"
+    },
+    {
+      "item": "Loss per share",
+      "period": "FY2023",
+      "value": -38.98,
+      "unit": "USD",
+      "source_url": "https://finance.yahoo.com/news/lumine-group-full-2024-earnings-120812275.html",
+      "source_title": "Lumine Group Full Year 2024 Earnings",
+      "confidence": "third_party"
+    },
+    {
+      "item": "Q4 2024 revenue",
+      "period": "Q4 2024",
+      "value": 187.1,
+      "unit": "USD millions",
+      "source_url": "https://finance.yahoo.com/news/lumine-group-full-2024-earnings-120812275.html",
+      "source_title": "Lumine Group Full Year 2024 Earnings",
+      "confidence": "third_party"
+    },
+    {
+      "item": "Q4 2024 revenue growth",
+      "period": "Q4 2024 vs Q4 2023",
+      "value": 31,
+      "unit": "%",
+      "source_url": "https://finance.yahoo.com/news/lumine-group-full-2024-earnings-120812275.html",
+      "source_title": "Lumine Group Full Year 2024 Earnings",
+      "confidence": "third_party"
+    },
+    {
+      "item": "Q4 2024 operating income",
+      "period": "Q4 2024",
+      "value": 68.7,
+      "unit": "USD millions",
+      "source_url": "https://finance.yahoo.com/news/lumine-group-full-2024-earnings-120812275.html",
+      "source_title": "Lumine Group Full Year 2024 Earnings",
+      "confidence": "third_party"
+    },
+    {
+      "item": "H1 2024 revenue",
+      "period": "six months ended June 30, 2024",
+      "value": 303.9,
+      "unit": "USD millions",
+      "source_url": "https://www.luminegroup.com/statutory-filings/lumine-group-inc-announces-results-for-the-three-and-six-months-ended-june-30-2024/",
+      "source_title": "Lumine Group Inc. Announces Results for H1 2024",
+      "confidence": "company"
+    },
+    {
+      "item": "H1 2024 revenue growth",
+      "period": "six months ended June 30, 2024 vs 2023",
+      "value": 35,
+      "unit": "%",
+      "source_url": "https://www.luminegroup.com/statutory-filings/lumine-group-inc-announces-results-for-the-three-and-six-months-ended-june-30-2024/",
+      "source_title": "Lumine Group Inc. Announces Results for H1 2024",
+      "confidence": "company"
+    },
+    {
+      "item": "H1 2024 organic growth",
+      "period": "six months ended June 30, 2024",
+      "value": -7,
+      "unit": "%",
+      "source_url": "https://www.luminegroup.com/statutory-filings/lumine-group-inc-announces-results-for-the-three-and-six-months-ended-june-30-2024/",
+      "source_title": "Lumine Group Inc. Announces Results for H1 2024",
+      "confidence": "company"
+    },
+    {
+      "item": "H1 2024 organic growth FX adjusted",
+      "period": "six months ended June 30, 2024",
+      "value": -8,
+      "unit": "%",
+      "source_url": "https://www.luminegroup.com/statutory-filings/lumine-group-inc-announces-results-for-the-three-and-six-months-ended-june-30-2024/",
+      "source_title": "Lumine Group Inc. Announces Results for H1 2024",
+      "confidence": "company",
+      "note": "After adjusting for impact of changes in US dollar valuation"
+    },
+    {
+      "item": "Q4 2024 organic growth FX adjusted",
+      "period": "Q4 2024",
+      "value": -9,
+      "unit": "%",
+      "source_url": "https://www.luminegroup.com/statutory-filings/lumine-group-inc-announces-results-for-the-three-and-twelve-months-ended-december-31-2024/",
+      "source_title": "Lumine Group Inc. Announces Results for FY2024",
+      "confidence": "company"
+    },
+    {
+      "item": "Q1 2026 revenue",
+      "period": "Q1 2026",
+      "value": 208.3,
+      "unit": "USD million",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/lumine-group-inc-announces-results-200100205.html",
+      "source_title": "Lumine Group Inc. Announces Results for Q1 2026",
+      "confidence": "third_party"
+    },
+    {
+      "item": "Q1 2026 revenue growth",
+      "period": "Q1 2026 vs Q1 2025",
+      "value": 17,
+      "unit": "%",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/lumine-group-inc-announces-results-200100205.html",
+      "source_title": "Lumine Group Inc. Announces Results for Q1 2026",
+      "confidence": "third_party"
+    },
+    {
+      "item": "Q1 2026 organic growth",
+      "period": "Q1 2026",
+      "value": 0,
+      "unit": "%",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/lumine-group-inc-announces-results-200100205.html",
+      "source_title": "Lumine Group Inc. Announces Results for Q1 2026",
+      "confidence": "third_party"
+    },
+    {
+      "item": "Q1 2026 organic growth FX adjusted",
+      "period": "Q1 2026",
+      "value": -2,
+      "unit": "%",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/lumine-group-inc-announces-results-200100205.html",
+      "source_title": "Lumine Group Inc. Announces Results for Q1 2026",
+      "confidence": "third_party"
+    },
+    {
+      "item": "Q2 2026 revenue",
+      "period": "Q2 2026",
+      "value": 235.1,
+      "unit": "USD million",
+      "source_url": "https://www.globenewswire.com/news-release/2026/08/04/3338792/0/en/Lumine-Group-Inc-Announces-Results-for-the-Second-Quarter-Ended-June-30-2026.html",
+      "source_title": "Lumine Group Inc. Announces Results for Q2 2026",
+      "confidence": "third_party"
+    },
+    {
+      "item": "Q2 2026 revenue growth",
+      "period": "Q2 2026 vs Q2 2025",
+      "value": 28,
+      "unit": "%",
+      "source_url": "https://www.globenewswire.com/news-release/2026/08/04/3338792/0/en/Lumine-Group-Inc-Announces-Results-for-the-Second-Quarter-Ended-June-30-2026.html",
+      "source_title": "Lumine Group Inc. Announces Results for Q2 2026",
+      "confidence": "third_party"
+    },
+    {
+      "item": "Q2 2026 operating income",
+      "period": "Q2 2026",
+      "value": 75.3,
+      "unit": "USD million",
+      "source_url": "https://www.globenewswire.com/news-release/2026/08/04/3338792/0/en/Lumine-Group-Inc-Announces-Results-for-the-Second-Quarter-Ended-June-30-2026.html",
+      "source_title": "Lumine Group Inc. Announces Results for Q2 2026",
+      "confidence": "third_party"
+    },
+    {
+      "item": "H1 2026 revenue",
+      "period": "six months ended June 30, 2026",
+      "value": 443.4,
+      "unit": "USD million",
+      "source_url": "https://www.globenewswire.com/news-release/2026/08/04/3338792/0/en/Lumine-Group-Inc-Announces-Results-for-the-Second-Quarter-Ended-June-30-2026.html",
+      "source_title": "Lumine Group Inc. Announces Results for Q2 2026",
+      "confidence": "third_party"
+    },
+    {
+      "item": "H1 2026 revenue growth",
+      "period": "six months ended June 30, 2026 vs 2025",
+      "value": 22,
+      "unit": "%",
+      "source_url": "https://www.globenewswire.com/news-release/2026/08/04/3338792/0/en/Lumine-Group-Inc-Announces-Results-for-the-Second-Quarter-Ended-June-30-2026.html",
+      "source_title": "Lumine Group Inc. Announces Results for Q2 2026",
+      "confidence": "third_party"
+    },
+    {
+      "item": "Revenue",
+      "period": "FY2025 (year ended December 31, 2025)",
+      "value": 765.7,
+      "unit": "USD millions",
+      "source_url": "https://www.luminegroup.com/statutory-filings/lumine-group-inc-announces-results-for-the-three-months-and-year-ended-december-31-2025/",
+      "source_title": "Lumine Group Inc. Announces Results for the Three Months And Year Ended December 31, 2025",
+      "confidence": "company"
+    },
+    {
+      "item": "Revenue growth",
+      "period": "FY2025 vs FY2024",
+      "value": 15,
+      "unit": "%",
+      "source_url": "https://www.luminegroup.com/statutory-filings/lumine-group-inc-announces-results-for-the-three-months-and-year-ended-december-31-2025/",
+      "source_title": "Lumine Group Inc. Announces Results for the Three Months And Year Ended December 31, 2025",
+      "confidence": "company"
+    },
+    {
+      "item": "Organic growth",
+      "period": "FY2025",
+      "value": 2,
+      "unit": "%",
+      "source_url": "https://www.luminegroup.com/statutory-filings/lumine-group-inc-announces-results-for-the-three-months-and-year-ended-december-31-2025/",
+      "source_title": "Lumine Group Inc. Announces Results for the Three Months And Year Ended December 31, 2025",
+      "confidence": "company"
+    },
+    {
+      "item": "Organic growth FX adjusted",
+      "period": "FY2025",
+      "value": 1,
+      "unit": "%",
+      "source_url": "https://www.luminegroup.com/statutory-filings/lumine-group-inc-announces-results-for-the-three-months-and-year-ended-december-31-2025/",
+      "source_title": "Lumine Group Inc. Announces Results for the Three Months And Year Ended December 31, 2025",
+      "confidence": "company",
+      "note": "After adjusting for impact of changes in valuation of US dollar against most major currencies in which the Company transacts business"
+    },
+    {
+      "item": "Q4 2025 revenue",
+      "period": "Q4 2025",
+      "value": 216.3,
+      "unit": "USD millions",
+      "source_url": "https://www.luminegroup.com/statutory-filings/lumine-group-inc-announces-results-for-the-three-months-and-year-ended-december-31-2025/",
+      "source_title": "Lumine Group Inc. Announces Results for the Three Months And Year Ended December 31, 2025",
+      "confidence": "company"
+    },
+    {
+      "item": "Q4 2025 revenue growth",
+      "period": "Q4 2025 vs Q4 2024",
+      "value": 16,
+      "unit": "%",
+      "source_url": "https://www.luminegroup.com/statutory-filings/lumine-group-inc-announces-results-for-the-three-months-and-year-ended-december-31-2025/",
+      "source_title": "Lumine Group Inc. Announces Results for the Three Months And Year Ended December 31, 2025",
+      "confidence": "company"
+    },
+    {
+      "item": "Q4 2025 organic growth",
+      "period": "Q4 2025",
+      "value": 3,
+      "unit": "%",
+      "source_url": "https://www.luminegroup.com/statutory-filings/lumine-group-inc-announces-results-for-the-three-months-and-year-ended-december-31-2025/",
+      "source_title": "Lumine Group Inc. Announces Results for the Three Months And Year Ended December 31, 2025",
+      "confidence": "company"
+    },
+    {
+      "item": "Q4 2025 organic growth FX adjusted",
+      "period": "Q4 2025",
+      "value": 1,
+      "unit": "%",
+      "source_url": "https://www.luminegroup.com/statutory-filings/lumine-group-inc-announces-results-for-the-three-months-and-year-ended-december-31-2025/",
+      "source_title": "Lumine Group Inc. Announces Results for the Three Months And Year Ended December 31, 2025",
+      "confidence": "company"
+    },
+    {
+      "item": "Operating income",
+      "period": "FY2025",
+      "value": 275.7,
+      "unit": "USD millions",
+      "source_url": "https://www.luminegroup.com/statutory-filings/lumine-group-inc-announces-results-for-the-three-months-and-year-ended-december-31-2025/",
+      "source_title": "Lumine Group Inc. Announces Results for the Three Months And Year Ended December 31, 2025",
+      "confidence": "company",
+      "note": "Up 31% from $210.3 million in FY2024"
+    },
+    {
+      "item": "Operating income",
+      "period": "FY2024",
+      "value": 210.3,
+      "unit": "USD millions",
+      "source_url": "https://www.luminegroup.com/statutory-filings/lumine-group-inc-announces-results-for-the-three-months-and-year-ended-december-31-2025/",
+      "source_title": "Lumine Group Inc. Announces Results for the Three Months And Year Ended December 31, 2025",
+      "confidence": "company",
+      "note": "Comparative figure disclosed in the FY2025 results release"
+    },
+    {
+      "item": "Net income",
+      "period": "FY2025",
+      "value": 118.8,
+      "unit": "USD millions",
+      "source_url": "https://www.luminegroup.com/statutory-filings/lumine-group-inc-announces-results-for-the-three-months-and-year-ended-december-31-2025/",
+      "source_title": "Lumine Group Inc. Announces Results for the Three Months And Year Ended December 31, 2025",
+      "confidence": "company"
+    },
+    {
+      "item": "Net income (loss)",
+      "period": "FY2024",
+      "value": -258.9,
+      "unit": "USD millions",
+      "source_url": "https://www.luminegroup.com/statutory-filings/lumine-group-inc-announces-results-for-the-three-months-and-year-ended-december-31-2025/",
+      "source_title": "Lumine Group Inc. Announces Results for the Three Months And Year Ended December 31, 2025",
+      "confidence": "company",
+      "note": "Comparative figure disclosed in the FY2025 results release; consistent with the loss-per-share of -1.21 USD already on file"
+    },
+    {
+      "item": "Cash flows from operations (CFO)",
+      "period": "FY2025",
+      "value": 236.5,
+      "unit": "USD millions",
+      "source_url": "https://www.luminegroup.com/statutory-filings/lumine-group-inc-announces-results-for-the-three-months-and-year-ended-december-31-2025/",
+      "source_title": "Lumine Group Inc. Announces Results for the Three Months And Year Ended December 31, 2025",
+      "confidence": "company",
+      "note": "Up 106% ($121.5 million) from $115.0 million in FY2024, mainly driven by lower non-cash operating working capital of $59.4 million and higher operating income of $65.4 million, partly offset by $8.8 million higher income taxes paid"
+    },
+    {
+      "item": "Cash flows from operations (CFO)",
+      "period": "FY2024",
+      "value": 115.0,
+      "unit": "USD millions",
+      "source_url": "https://www.luminegroup.com/statutory-filings/lumine-group-inc-announces-results-for-the-three-months-and-year-ended-december-31-2025/",
+      "source_title": "Lumine Group Inc. Announces Results for the Three Months And Year Ended December 31, 2025",
+      "confidence": "company",
+      "note": "Comparative figure disclosed in the FY2025 results release"
+    },
+    {
+      "item": "Free cash flow available to shareholders (FCFA2S)",
+      "period": "FY2025",
+      "value": 217.0,
+      "unit": "USD millions",
+      "source_url": "https://www.luminegroup.com/statutory-filings/lumine-group-inc-announces-results-for-the-three-months-and-year-ended-december-31-2025/",
+      "source_title": "Lumine Group Inc. Announces Results for the Three Months And Year Ended December 31, 2025",
+      "confidence": "company",
+      "note": "Up 153% ($131.3 million) from $85.7 million in FY2024. Definition: net cash flows from operating activities less interest paid on lease obligations, interest paid on bank debt, transaction costs on bank debt, repayments of lease obligations, interest, dividends and other proceeds received, and property and equipment purchased net of proceeds from disposal"
+    },
+    {
+      "item": "Free cash flow available to shareholders (FCFA2S)",
+      "period": "FY2024",
+      "value": 85.7,
+      "unit": "USD millions",
+      "source_url": "https://www.luminegroup.com/statutory-filings/lumine-group-inc-announces-results-for-the-three-months-and-year-ended-december-31-2025/",
+      "source_title": "Lumine Group Inc. Announces Results for the Three Months And Year Ended December 31, 2025",
+      "confidence": "company",
+      "note": "Comparative figure disclosed in the FY2025 results release"
+    },
+    {
+      "item": "Free cash flow available to shareholders (FCFA2S)",
+      "period": "Q4 2025",
+      "value": 67.1,
+      "unit": "USD millions",
+      "source_url": "https://www.luminegroup.com/statutory-filings/lumine-group-inc-announces-results-for-the-three-months-and-year-ended-december-31-2025/",
+      "source_title": "Lumine Group Inc. Announces Results for the Three Months And Year Ended December 31, 2025",
+      "confidence": "company",
+      "note": "Compared to $45.3 million in Q4 2024"
+    },
+    {
+      "item": "Cash used in acquisitions of businesses",
+      "period": "FY2025",
+      "value": 311.5,
+      "unit": "USD millions",
+      "source_url": "https://www.luminegroup.com/wp-content/uploads/2026/05/Lumine-Group-MDA-2026-Q1-Final-May-5-2026.pdf",
+      "source_title": "Lumine Group Inc. Management's Discussion and Analysis Q1 2026 (comparative FY2025 disclosure)",
+      "confidence": "company",
+      "note": "Net of cash obtained with acquired businesses of $34.3 million. Company acquired 15 companies in FY2025, most recently Synchronoss Technologies (announced Dec 4, 2025, closed Feb 13, 2026, outside this cash-flow period)"
+    },
+    {
+      "item": "Bank indebtedness (debt)",
+      "period": "as of December 31, 2025",
+      "value": 210.0,
+      "unit": "USD millions",
+      "source_url": "https://www.luminegroup.com/wp-content/uploads/2026/05/Lumine-Group-MDA-2026-Q1-Final-May-5-2026.pdf",
+      "source_title": "Lumine Group Inc. Management's Discussion and Analysis Q1 2026 (comparative FY2025 balance)",
+      "confidence": "company"
+    },
+    {
+      "item": "Cash and short-term investments",
+      "period": "as of December 31, 2025",
+      "value": 352.4,
+      "unit": "USD millions",
+      "source_url": "https://www.cbinsights.com/company/lumine-group/financials",
+      "source_title": "Lumine Group Stock Price, Funding, Valuation, Revenue & Financial Statements - CB Insights",
+      "confidence": "third_party",
+      "note": "Third-party aggregator figure; not independently verified against the audited FY2025 balance sheet"
+    },
+    {
+      "item": "Number of acquisitions",
+      "period": "FY2025",
+      "value": 15,
+      "unit": "companies acquired",
+      "source_url": "https://www.tipranks.com/news/company-announcements/lumine-group-posts-strong-2025-profit-rebound-on-acquisitions-and-cash-flow-surge",
+      "source_title": "Lumine Group Posts Strong 2025 Profit Rebound on Acquisitions and Cash Flow Surge - TipRanks",
+      "confidence": "third_party",
+      "note": "Latest FY2025 acquisition cited as Synchronoss Technologies (announced Dec 4, 2025)"
+    },
+    {
+      "item": "Net income",
+      "period": "Q1 2026",
+      "value": 19.0,
+      "unit": "USD millions",
+      "source_url": "https://www.luminegroup.com/wp-content/uploads/2026/07/Lumine_-_2026_Q1_-_press_release.pdf",
+      "source_title": "Lumine Group Inc. Announces Results for the Three Months Ended March 31, 2026",
+      "confidence": "company",
+      "note": "Down 9% from $20.8 million in Q1 2025"
+    },
+    {
+      "item": "Operating income",
+      "period": "Q1 2026",
+      "value": 57.9,
+      "unit": "USD millions",
+      "source_url": "https://www.luminegroup.com/wp-content/uploads/2026/07/Lumine_-_2026_Q1_-_press_release.pdf",
+      "source_title": "Lumine Group Inc. Announces Results for the Three Months Ended March 31, 2026",
+      "confidence": "company",
+      "note": "Down 3% from $59.5 million in Q1 2025"
+    },
+    {
+      "item": "Free cash flow available to shareholders (FCFA2S)",
+      "period": "Q1 2026",
+      "value": 15.3,
+      "unit": "USD millions",
+      "source_url": "https://www.luminegroup.com/wp-content/uploads/2026/07/Lumine_-_2026_Q1_-_press_release.pdf",
+      "source_title": "Lumine Group Inc. Announces Results for the Three Months Ended March 31, 2026",
+      "confidence": "company",
+      "note": "Down $19.7 million (-56%) from $35.0 million in Q1 2025"
+    },
+    {
+      "item": "Bank indebtedness (debt)",
+      "period": "as of March 31, 2026",
+      "value": 370.1,
+      "unit": "USD millions",
+      "source_url": "https://www.luminegroup.com/wp-content/uploads/2026/05/Lumine-Group-MDA-2026-Q1-Final-May-5-2026.pdf",
+      "source_title": "Lumine Group Inc. Management's Discussion and Analysis Q1 2026",
+      "confidence": "company",
+      "note": "Up $160.1 million from $210.0 million at Dec 31, 2025, due to a $160.0 million drawdown on the Lumine Facility"
+    },
+    {
+      "item": "Acquisition of Synchronoss Technologies (cash consideration)",
+      "period": "closed February 13, 2026",
+      "value": 309.3,
+      "unit": "USD millions",
+      "source_url": "https://www.luminegroup.com/wp-content/uploads/2026/07/Lumine_-_2026_Q1_-_press_release.pdf",
+      "source_title": "Lumine Group Inc. Announces Results for the Three Months Ended March 31, 2026",
+      "confidence": "company",
+      "note": "Acquired 100% of outstanding shares of Synchronoss Technologies, Inc. for aggregate cash consideration of $309.3 million; Lumine's first acquisition of a public company"
+    },
+    {
+      "item": "Net income",
+      "period": "Q2 2026",
+      "value": 15.4,
+      "unit": "USD millions",
+      "source_url": "https://www.globenewswire.com/news-release/2026/08/04/3338792/0/en/Lumine-Group-Inc-Announces-Results-for-the-Second-Quarter-Ended-June-30-2026.html",
+      "source_title": "Lumine Group Inc. Announces Results for the Second Quarter Ended June 30, 2026",
+      "confidence": "company",
+      "note": "Down 35% from $23.6 million in Q2 2025, primarily due to non-recurring acquisition costs, higher amortization, financing costs and tax expenses"
+    },
+    {
+      "item": "Organic growth",
+      "period": "Q2 2026",
+      "value": 1,
+      "unit": "%",
+      "source_url": "https://www.globenewswire.com/news-release/2026/08/04/3338792/0/en/Lumine-Group-Inc-Announces-Results-for-the-Second-Quarter-Ended-June-30-2026.html",
+      "source_title": "Lumine Group Inc. Announces Results for the Second Quarter Ended June 30, 2026",
+      "confidence": "company"
+    },
+    {
+      "item": "Organic growth FX adjusted",
+      "period": "Q2 2026",
+      "value": 1,
+      "unit": "%",
+      "source_url": "https://www.globenewswire.com/news-release/2026/08/04/3338792/0/en/Lumine-Group-Inc-Announces-Results-for-the-Second-Quarter-Ended-June-30-2026.html",
+      "source_title": "Lumine Group Inc. Announces Results for the Second Quarter Ended June 30, 2026",
+      "confidence": "company",
+      "note": "Reported release states organic growth of 1% for Q2 2026, or 1% after adjusting for FX impacts (identical figure both ways)"
+    },
+    {
+      "item": "Free cash flow available to shareholders (FCFA2S)",
+      "period": "Q2 2026",
+      "value": 60.4,
+      "unit": "USD millions",
+      "source_url": "https://www.globenewswire.com/news-release/2026/08/04/3338792/0/en/Lumine-Group-Inc-Announces-Results-for-the-Second-Quarter-Ended-June-30-2026.html",
+      "source_title": "Lumine Group Inc. Announces Results for the Second Quarter Ended June 30, 2026",
+      "confidence": "company",
+      "note": "Down $12.0 million (-17%) from $72.4 million in Q2 2025"
+    },
+    {
+      "item": "Net income",
+      "period": "H1 2026 (six months ended June 30, 2026)",
+      "value": 34.4,
+      "unit": "USD millions",
+      "source_url": "https://www.globenewswire.com/news-release/2026/08/04/3338792/0/en/Lumine-Group-Inc-Announces-Results-for-the-Second-Quarter-Ended-June-30-2026.html",
+      "source_title": "Lumine Group Inc. Announces Results for the Second Quarter Ended June 30, 2026",
+      "confidence": "company",
+      "note": "Down from $44.3 million in H1 2025"
+    },
+    {
+      "item": "Total debt",
+      "period": "as of June 30, 2026",
+      "value": 701,
+      "unit": "CAD millions (approximate; short-term C$21M + long-term C$680M)",
+      "source_url": "https://www.gurufocus.com/term/debt-to-equity/TSXV:LMN",
+      "source_title": "TSXV:LMN Debt-to-Equity - GuruFocus",
+      "confidence": "third_party",
+      "note": "Reported in CAD by this third-party source, unlike Lumine's own USD-denominated press releases (e.g. USD 370.1 million bank indebtedness at March 31, 2026); currency basis not reconciled. Flagged as a possible conflict/inconsistency rather than an independently confirmed USD figure"
+    },
+    {
+      "item": "Acquisition of Quortex and Imagine Communications (combined consideration)",
+      "period": "closed July 1, 2026 (subsequent to H1 2026)",
+      "value": 233.7,
+      "unit": "USD millions",
+      "source_url": "https://www.globenewswire.com/news-release/2026/08/04/3338792/0/en/Lumine-Group-Inc-Announces-Results-for-the-Second-Quarter-Ended-June-30-2026.html",
+      "source_title": "Lumine Group Inc. Announces Results for the Second Quarter Ended June 30, 2026",
+      "confidence": "company",
+      "note": "Aggregate cash consideration of $211.3 million on closing plus total estimated deferred payments of $22.4 million"
+    },
+    {
+      "item": "Total capital deployed to acquisitions",
+      "period": "2026 year-to-date (as of Q2 2026 report, August 2026)",
+      "value": 500,
+      "unit": "USD millions, approximate (company stated 'over $500M')",
+      "source_url": "https://simplywall.st/stocks/ca/software/tsxv-lmn/lumine-group-shares/news/will-acquisition-led-q2-growth-and-new-deals-change-lumine-g",
+      "source_title": "Will Acquisition-Led Q2 Growth and New Deals Change Lumine Group's (TSXV:LMN) Investment Narrative? - Simply Wall St News",
+      "confidence": "third_party",
+      "note": "Approximate figure as reported; includes Synchronoss ($309.3M) plus Quortex/Imagine Communications ($233.7M) plus other smaller 2026 deals"
+    },
+    {
+      "item": "Revenue",
+      "period": "FY2023 (year ended December 31, 2023)",
+      "value": 499.7,
+      "unit": "USD millions",
+      "source_url": "https://www.newswire.ca/news-releases/lumine-group-inc-announces-results-for-the-three-and-twelve-months-ended-december-31-2023-877174954.html",
+      "source_title": "Lumine Group Inc. Announces Results for the Three and Twelve Months Ended December 31, 2023",
+      "confidence": "company",
+      "note": "Up 95% ($243.9 million) from $255.7 million in FY2022; press release issued March 5, 2024. Resolves prior estimate in this file"
+    },
+    {
+      "item": "Organic growth FX adjusted",
+      "period": "FY2023",
+      "value": 0,
+      "unit": "%",
+      "source_url": "https://www.newswire.ca/news-releases/lumine-group-inc-announces-results-for-the-three-and-twelve-months-ended-december-31-2023-877174954.html",
+      "source_title": "Lumine Group Inc. Announces Results for the Three and Twelve Months Ended December 31, 2023",
+      "confidence": "company"
+    },
+    {
+      "item": "Net income (loss)",
+      "period": "FY2023",
+      "value": -2826.3,
+      "unit": "USD millions",
+      "source_url": "https://www.newswire.ca/news-releases/lumine-group-inc-announces-results-for-the-three-and-twelve-months-ended-december-31-2023-877174954.html",
+      "source_title": "Lumine Group Inc. Announces Results for the Three and Twelve Months Ended December 31, 2023",
+      "confidence": "company",
+      "note": "Compared to net income of $27.4 million in FY2022; the swing was primarily a non-cash $2,871.0 million expense for fair value adjustments and accrued dividends on redeemable preferred and special securities related to the spin-out, consistent with the -38.98 USD loss-per-share already on file"
+    },
+    {
+      "item": "Organic growth",
+      "period": "six months ended June 30, 2023",
+      "value": -4,
+      "unit": "%",
+      "source_url": "https://www.luminegroup.com/statutory-filings/lumine-group-inc-announces-results-for-the-three-and-six-months-ended-june-30-2023/",
+      "source_title": "Lumine Group Inc. Announces Results for the Three and Six Months Ended June 30, 2023",
+      "confidence": "company"
+    },
+    {
+      "item": "Organic growth FX adjusted",
+      "period": "six months ended June 30, 2023",
+      "value": 1,
+      "unit": "%",
+      "source_url": "https://www.luminegroup.com/statutory-filings/lumine-group-inc-announces-results-for-the-three-and-six-months-ended-june-30-2023/",
+      "source_title": "Lumine Group Inc. Announces Results for the Three and Six Months Ended June 30, 2023",
+      "confidence": "company"
+    },
+    {
+      "item": "Organic growth",
+      "period": "nine months ended September 30, 2023",
+      "value": 1,
+      "unit": "%",
+      "source_url": "https://www.globenewswire.com/news-release/2023/11/02/2772926/0/en/Lumine-Group-Inc-Announces-Results-for-the-Three-and-Nine-Months-Ended-September-30-2023.html",
+      "source_title": "Lumine Group Inc. Announces Results for the Three and Nine Months Ended September 30, 2023",
+      "confidence": "company"
+    },
+    {
+      "item": "Organic growth FX adjusted",
+      "period": "nine months ended September 30, 2023",
+      "value": 2,
+      "unit": "%",
+      "source_url": "https://www.globenewswire.com/news-release/2023/11/02/2772926/0/en/Lumine-Group-Inc-Announces-Results-for-the-Three-and-Nine-Months-Ended-September-30-2023.html",
+      "source_title": "Lumine Group Inc. Announces Results for the Three and Nine Months Ended September 30, 2023",
+      "confidence": "company"
+    },
+    {
+      "item": "Organic growth",
+      "period": "FY2024 (twelve months ended December 31, 2024)",
+      "value": -8,
+      "unit": "%",
+      "source_url": "https://www.luminegroup.com/wp-content/uploads/2025/03/Lumine-MDA-2024-Q4.pdf",
+      "source_title": "Lumine Group Inc. Management's Discussion and Analysis Q4 2024",
+      "confidence": "company"
+    },
+    {
+      "item": "Organic growth FX adjusted",
+      "period": "FY2024 (twelve months ended December 31, 2024)",
+      "value": -9,
+      "unit": "%",
+      "source_url": "https://www.luminegroup.com/wp-content/uploads/2025/03/Lumine-MDA-2024-Q4.pdf",
+      "source_title": "Lumine Group Inc. Management's Discussion and Analysis Q4 2024",
+      "confidence": "company"
+    },
+    {
+      "item": "Subordinate voting shares outstanding",
+      "period": "as of September 2026 (dated ~August 22, 2026 per source)",
+      "value": 256620389,
+      "unit": "shares",
+      "source_url": "https://stockanalysis.com/quote/tsxv/LMN/market-cap/",
+      "source_title": "Lumine Group (TSXV:LMN) Market Cap & Net Worth - StockAnalysis.com",
+      "confidence": "third_party",
+      "note": "No preferred or special shares remain outstanding; all were mandatorily converted to subordinate voting shares in March 2024 (see fact below)"
+    },
+    {
+      "item": "Share price (CAD)",
+      "period": "September 10, 2026",
+      "value": 21.93,
+      "unit": "CAD per share",
+      "source_url": "https://stockanalysis.com/quote/tsxv/LMN/market-cap/",
+      "source_title": "Lumine Group (TSXV:LMN) Market Cap & Net Worth - StockAnalysis.com",
+      "confidence": "third_party",
+      "note": "Previous close was CAD 22.10, a decline of -0.77%"
+    },
+    {
+      "item": "Market capitalization",
+      "period": "September 10, 2026",
+      "value": 5.628,
+      "unit": "CAD billions",
+      "source_url": "https://stockanalysis.com/quote/tsxv/LMN/market-cap/",
+      "source_title": "Lumine Group (TSXV:LMN) Market Cap & Net Worth - StockAnalysis.com",
+      "confidence": "third_party",
+      "note": "CONFLICT: other third-party sources quoted materially different figures for around the same period - 6.31 CAD billion and, as of September 2, 2026, 6.413 CAD billion. Not reconciled; recorded per spec rule on conflicting sources"
+    },
+    {
+      "item": "Market capitalization",
+      "period": "as of September 2, 2026",
+      "value": 6.413,
+      "unit": "CAD billions",
+      "source_url": "https://www.tipranks.com/stocks/tse:lmn/market-cap",
+      "source_title": "Lumine Group market cap - TipRanks",
+      "confidence": "third_party",
+      "note": "CONFLICTS with stockanalysis.com figure of CAD 5.628 billion for September 10, 2026; both recorded per spec rule on conflicting sources rather than picking one"
+    },
+    {
+      "item": "WideOrbit acquisition price (total consideration)",
+      "period": "closed February 22, 2023",
+      "value": 504,
+      "unit": "USD millions",
+      "source_url": "https://www.globenewswire.com/news-release/2023/02/22/2613833/0/en/Constellation-Software-Inc-and-Lumine-Group-Inc-Complete-Purchase-of-WideOrbit-Inc-and-Lumine-Group-Spin-Out.html",
+      "source_title": "Constellation Software Inc. and Lumine Group Inc. Complete Purchase of WideOrbit Inc. and Lumine Group Spin-Out",
+      "confidence": "company",
+      "note": "Comprised of $273 million cash, a $9 million holdback, and 10,204,294 Lumine Special Shares valued at $222 million issued to WideOrbit shareholders (who received 13.83% of Lumine Group shares on a fully diluted basis). Resolves the 'undisclosed' placeholder in notable_businesses"
+    },
+    {
+      "item": "Subordinate voting shares issued on mandatory conversion of preferred and special shares",
+      "period": "effective March 25, 2024",
+      "value": 192629726,
+      "unit": "shares (189,114,308 base conversion + 3,515,418 for accrued dividends)",
+      "source_url": "https://www.globenewswire.com/news-release/2024/03/25/2852033/0/en/Lumine-Group-Inc-Completes-Mandatory-Conversion-of-its-Preferred-Shares-and-Special-Shares.html",
+      "source_title": "Lumine Group Inc. Completes Mandatory Conversion of its Preferred Shares and Special Shares",
+      "confidence": "company"
+    }
+  ],
+  "facts": [
+    {
+      "item": "Spin-out from Constellation Software",
+      "text": "Constellation Software Inc. completed the spin-off of 25.1% stake in Lumine Group Inc. on February 22, 2023. All common shareholders of Constellation as of February 16, 2023 received, by way of a dividend-in-kind, 3.0003833 subordinate voting shares of Lumine Group for each common share of Constellation held.",
+      "period": "February 2023",
+      "source_url": "https://www.globenewswire.com/news-release/2023/02/22/2613833/0/en/Constellation-Software-Inc-and-Lumine-Group-Inc-Complete-Purchase-of-WideOrbit-Inc-and-Lumine-Group-Spin-Out.html",
+      "source_title": "Constellation Software Inc. and Lumine Group Inc. Complete Purchase of WideOrbit",
+      "confidence": "company"
+    },
+    {
+      "item": "Trading commencement",
+      "text": "Trading of Lumine Group subordinate voting shares on the TSX Venture Exchange began on or about March 24, 2023 under the symbol LMN.",
+      "period": "March 2023",
+      "source_url": "https://www.proactiveinvestors.com/companies/news/1010196/lumine-group-stock-higher-after-constellation-software-spinout-begins-trading-on-tsxv-1010196.html",
+      "source_title": "Lumine Group stock higher after Constellation Software spinout",
+      "confidence": "third_party"
+    },
+    {
+      "item": "WideOrbit acquisition",
+      "text": "Constellation Software Inc. and Lumine Group Inc. completed the purchase of WideOrbit Inc. in February 2023 as part of the spin-out transaction.",
+      "period": "February 2023",
+      "source_url": "https://www.globenewswire.com/news-release/2023/02/22/2613833/0/en/Constellation-Software-Inc-and-Lumine-Group-Inc-Complete-Purchase-of-WideOrbit-Inc-and-Lumine-Group-Spin-Out.html",
+      "source_title": "Constellation Software Inc. and Lumine Group Inc. Complete Purchase of WideOrbit",
+      "confidence": "company"
+    },
+    {
+      "item": "Synchronoss Technologies acquisition announcement",
+      "text": "Lumine Group announced the acquisition of Synchronoss Technologies in December 2025.",
+      "period": "December 2025",
+      "source_url": "https://www.csisoftware.com/category/press-releases/2025/12/04/lumine-group-to-acquire-synchronoss-technologies",
+      "source_title": "Lumine Group to Acquire Synchronoss Technologies",
+      "confidence": "company"
+    },
+    {
+      "item": "Synchronoss Technologies acquisition completion",
+      "text": "Lumine Group completed the acquisition of Synchronoss Technologies in February 2026.",
+      "period": "February 2026",
+      "source_url": "https://www.csisoftware.com/category/press-releases/2026/02/13/lumine-group-completes-acquisition-of-synchronoss-technologies",
+      "source_title": "Lumine Group Completes Acquisition of Synchronoss Technologies",
+      "confidence": "company"
+    },
+    {
+      "item": "FY2025 CEO commentary on capital deployment strategy",
+      "text": "The Company's objective is to invest all of its free cash flow available to shareholders (FCFA2S) in acquisitions which meet the Company's hurdle rate.",
+      "period": "FY2025",
+      "source_url": "https://www.luminegroup.com/statutory-filings/lumine-group-inc-announces-results-for-the-three-months-and-year-ended-december-31-2025/",
+      "source_title": "Lumine Group Inc. Announces Results for the Three Months And Year Ended December 31, 2025",
+      "confidence": "company"
+    },
+    {
+      "item": "Mandatory conversion of preferred and special shares",
+      "text": "All preferred shares and special shares issued by Lumine Group in connection with its 2023 spin-off were automatically converted into subordinate voting shares effective March 25, 2024, with an aggregate of 189,114,308 subordinate voting shares issued plus 3,515,418 additional shares for accrued dividends. Since then Lumine has had no outstanding preferred or special shares.",
+      "period": "March 2024",
+      "source_url": "https://www.globenewswire.com/news-release/2024/03/25/2852033/0/en/Lumine-Group-Inc-Completes-Mandatory-Conversion-of-its-Preferred-Shares-and-Special-Shares.html",
+      "source_title": "Lumine Group Inc. Completes Mandatory Conversion of its Preferred Shares and Special Shares",
+      "confidence": "company"
+    },
+    {
+      "item": "Constellation Software ownership and control of Lumine (current)",
+      "text": "As at March 31, 2026, Constellation Software holds 157,553,539 Lumine Subordinate Voting Shares, an equity interest of 61.40% in Lumine, with a non-controlling interest of 38.60%. Constellation controls Lumine and consolidates Lumine's financial position and results of operations.",
+      "period": "as of March 31, 2026",
+      "source_url": "https://www.csisoftware.com/wp-content/uploads/2026/05/CSI-MDA-Q1-2026-Final.pdf",
+      "source_title": "Constellation Software Inc. Management's Discussion and Analysis Q1 2026",
+      "confidence": "company"
+    },
+    {
+      "item": "David Nyland background and tenure",
+      "text": "David Nyland is Founder and CEO of Lumine Group. He began his career as a software developer, held COO roles at Architel Systems (now Oracle) and Syndesis (now Netcracker/NEC), and was President & CEO of NBS Technologies from 2003 to 2006 and CEO of Blueprint Software Systems. He joined Constellation's Volaris operating group in 2014 to build the communications and media business that became Lumine, and has been CEO & Director of Lumine Group since 2022; Lumine spun out of Constellation in 2023. He attended Brunel University of London.",
+      "period": "2014-present",
+      "source_url": "https://www.luminegroup.com/members/david-nyland/",
+      "source_title": "David Nyland - Lumine Group",
+      "confidence": "company"
+    },
+    {
+      "item": "Mary Anne Lavallee appointed Lumine CFO",
+      "text": "Mary Anne Lavallee was appointed Chief Financial Officer of Lumine Group, effective May 26, 2025.",
+      "period": "May 2025",
+      "source_url": "https://www.newswire.ca/news-releases/lumine-group-inc-announces-new-cfo-appointment-888706778.html",
+      "source_title": "Lumine Group Inc. Announces New CFO Appointment",
+      "confidence": "company"
+    },
+    {
+      "item": "Lumine board members tied to Constellation Software",
+      "text": "Lumine Group's board includes Mark Miller (President & COO of Constellation Software, CEO of Volaris Group, and Chairman of Lumine's board), Brian Beattie (CFO of Volaris Group, and a prior CFO of Lumine, now a director), Robin van Poelje (CEO of Topicus.com), and David Nyland (CEO of Lumine Group).",
+      "period": "as reported 2025",
+      "source_url": "https://www.csisoftware.com/leadership-team/",
+      "source_title": "Leadership Team Driving Global Software Growth - CSI Software",
+      "confidence": "company"
+    },
+    {
+      "item": "Scale and geographic footprint",
+      "text": "Lumine describes itself as a global network of 30+ companies across 50+ countries serving 1000+ communications and media customers, with 3,500+ employees; workforce is distributed roughly North America 33%, Europe excluding UK 27%, Asia Pacific 23%, and UK 9%.",
+      "period": "as reported ~2025",
+      "source_url": "https://www.luminegroup.com/our-story/",
+      "source_title": "About - Lumine Group",
+      "confidence": "company"
+    },
+    {
+      "item": "AI as a core capability (mid-2025 letter)",
+      "text": "In his 2025 mid-year letter, CEO David Nyland described AI as no longer a buzzword at Lumine but a core capability driving innovation across its ecosystem, citing concrete product innovations such as Openwave's 'AI Smart Assistant.'",
+      "period": "mid-2025",
+      "source_url": "https://www.luminegroup.com/acquire/2025-mid-year-reflection-a-message-from-david-nyland-ceo-of-lumine-group/",
+      "source_title": "Reflecting on the First Half of 2025: A Letter from David Nyland, CEO, Lumine Group",
+      "confidence": "company"
+    },
+    {
+      "item": "AI Impact CEO Summit and portfolio-wide AI use cases",
+      "text": "Lumine hosted its 3rd Impact CEO Summit focused on AI, where leaders across the portfolio identified more than 600 real-world AI augmentation use cases across portfolio companies; the first half of 2026 also deepened Lumine's view of where AI fits across the portfolio alongside three acquisitions completed in H1.",
+      "period": "H1 2026",
+      "source_url": "https://www.luminegroup.com/acquire/mid-year-message-26-from-david-nyland/",
+      "source_title": "A Mid-Year Message from David Nyland - Lumine Group",
+      "confidence": "company"
+    },
+    {
+      "item": "Highest organic growth in three years (Q1 2026, pre-FX)",
+      "text": "In Q1 2026, Lumine achieved its highest organic growth performance, pre-FX, for the past three years, according to the CEO's mid-year message.",
+      "period": "Q1 2026",
+      "source_url": "https://www.luminegroup.com/acquire/mid-year-message-26-from-david-nyland/",
+      "source_title": "A Mid-Year Message from David Nyland - Lumine Group",
+      "confidence": "company"
+    },
+    {
+      "item": "Casa Systems carve-out was Lumine's 14th",
+      "text": "Lumine Group's April 2024 agreement to acquire Casa Systems' Axyom Cloud Native 5G Core Software & RAN assets was described as marking Lumine Group's 14th corporate carve-out.",
+      "period": "April 2024",
+      "source_url": "https://www.globenewswire.com/fr/news-release/2024/04/03/2856807/0/en/Lumine-Group-Enters-into-an-Agreement-to-Acquire-Casa-Systems-Axyom-Cloud-Native-5G-Core-Software-RAN-Assets.html",
+      "source_title": "Lumine Group Enters into an Agreement to Acquire Casa Systems' Axyom Cloud Native 5G Core Software & RAN Assets",
+      "confidence": "company"
+    }
+  ],
+  "verticals": [
+    "Business Support Systems (BSS) software for communications providers",
+    "Operational Support Systems (OSS) software for communications providers",
+    "Broadcast and media software",
+    "Print software",
+    "Wireless / 5G core and RAN network software"
+  ],
+  "geographies": [
+    "North America (approx. 33% of employees)",
+    "Europe excluding UK (approx. 27% of employees)",
+    "Asia Pacific (approx. 23% of employees)",
+    "United Kingdom (approx. 9% of employees)",
+    "50+ countries overall (company-stated)"
+  ],
+  "notable_businesses": [
+    {
+      "name": "WideOrbit",
+      "vertical": "Broadcast and media (advertising sales/traffic software)",
+      "acquired": "2023",
+      "price": "USD 504 million total ($273M cash + $9M holdback + $222M in 10,204,294 Lumine Special Shares)",
+      "source_url": "https://www.globenewswire.com/news-release/2023/02/22/2613833/0/en/Constellation-Software-Inc-and-Lumine-Group-Inc-Complete-Purchase-of-WideOrbit-Inc-and-Lumine-Group-Spin-Out.html"
+    },
+    {
+      "name": "Synchronoss Technologies",
+      "vertical": "Communications software (cloud, messaging, device management for carriers)",
+      "acquired": "2026",
+      "price": "USD 309.3 million cash",
+      "source_url": "https://www.csisoftware.com/category/press-releases/2026/02/13/lumine-group-completes-acquisition-of-synchronoss-technologies"
+    },
+    {
+      "name": "Nokia device management and service management platforms",
+      "vertical": "Communications software (BSS/device management)",
+      "acquired": "2024",
+      "price": "EUR 185 million",
+      "source_url": "https://www.tipranks.com/news/the-fly/lumine-to-acquire-nokias-device-management-service-management-platform-units"
+    },
+    {
+      "name": "Casa Systems Axyom Cloud Native 5G Core Software & RAN assets",
+      "vertical": "Wireless / 5G core and RAN network software",
+      "acquired": "2024",
+      "price": "USD 32.25 million (winning bid, per Lumine vs. Skyvera auction reporting)",
+      "source_url": "https://www.lightreading.com/mobile-core/lumine-beats-skyvera-with-32-25m-bid-for-casa-s-wireless-business"
+    },
+    {
+      "name": "Titan.ium Platform",
+      "vertical": "Signaling and security software",
+      "acquired": "2024",
+      "price": "undisclosed",
+      "source_url": "https://www.luminegroup.com/insights/2024-review/"
+    },
+    {
+      "name": "Openwave / RazorFlow / SpatialNetworX (ex-Synchronoss business units)",
+      "vertical": "Communications software (BSS/device management)",
+      "acquired": "2024",
+      "price": "undisclosed",
+      "source_url": "https://www.luminegroup.com/our-companies/"
+    },
+    {
+      "name": "Quortex (formerly Synamedia Video Network Business)",
+      "vertical": "Broadcast and media software",
+      "acquired": "2026",
+      "price": "part of combined USD 233.7 million consideration with Imagine Communications; not separately disclosed",
+      "source_url": "https://www.globenewswire.com/news-release/2026/08/04/3338792/0/en/Lumine-Group-Inc-Announces-Results-for-the-Second-Quarter-Ended-June-30-2026.html"
+    },
+    {
+      "name": "Imagine Communications",
+      "vertical": "Broadcast and media software",
+      "acquired": "2026 (closed July 1, 2026)",
+      "price": "part of combined USD 233.7 million consideration with Quortex; not separately disclosed",
+      "source_url": "https://www.globenewswire.com/news-release/2026/08/04/3338792/0/en/Lumine-Group-Inc-Announces-Results-for-the-Second-Quarter-Ended-June-30-2026.html"
+    },
+    {
+      "name": "Datafusion",
+      "vertical": "unknown",
+      "acquired": "2025-2026 (exact date unclear)",
+      "price": "undisclosed",
+      "source_url": "https://www.luminegroup.com/our-companies/"
+    },
+    {
+      "name": "Vidispine",
+      "vertical": "Media asset management software",
+      "acquired": "2025-2026 (exact date unclear)",
+      "price": "undisclosed",
+      "source_url": "https://www.luminegroup.com/our-companies/"
+    }
+  ],
+  "leadership": [
+    {
+      "name": "David Nyland",
+      "role": "Founder, CEO & Director, Lumine Group",
+      "since": "2022 (CEO title); joined Volaris in 2014 to build the Lumine business",
+      "background": "Former software developer; COO of Architel Systems (TSX-listed, now Oracle) and Syndesis (now Netcracker/NEC); President & CEO of NBS Technologies 2003-2006; CEO of Blueprint Software Systems; overseen 30+ acquisitions since 2014; attended Brunel University of London",
+      "source_url": "https://www.luminegroup.com/members/david-nyland/"
+    },
+    {
+      "name": "Mary Anne Lavallee",
+      "role": "Chief Financial Officer, Lumine Group",
+      "since": "2025 (effective May 26, 2025)",
+      "background": "Detailed prior background not found in search results",
+      "source_url": "https://www.newswire.ca/news-releases/lumine-group-inc-announces-new-cfo-appointment-888706778.html"
+    },
+    {
+      "name": "Brian Beattie",
+      "role": "Director, Lumine Group; CFO, Volaris Group",
+      "since": "unknown (predates Mary Anne Lavallee's 2025 CFO appointment; previously served as Lumine CFO)",
+      "background": "CFO of Volaris Group, a Constellation Software operating group",
+      "source_url": "https://www.csisoftware.com/leadership-team/"
+    },
+    {
+      "name": "Mark Miller",
+      "role": "Chairman of the Board, Lumine Group; President & COO, Constellation Software; CEO, Volaris Group",
+      "since": "unknown",
+      "background": "Senior Constellation Software executive representing CSI's interests on the Lumine board",
+      "source_url": "https://www.csisoftware.com/leadership-team/"
+    },
+    {
+      "name": "Robin van Poelje",
+      "role": "Director, Lumine Group; CEO, Topicus.com",
+      "since": "unknown",
+      "background": "CEO of Topicus.com Inc., another Constellation Software-affiliated listed entity",
+      "source_url": "https://www.csisoftware.com/leadership-team/"
+    }
+  ],
+  "gaps": [
+    "Precise count of acquisitions completed per year for 2023 and 2024 individually (only qualitative examples found: Nokia device/service management platforms, Casa Systems Axyom assets, Titan.ium Platform, Openwave/RazorFlow/SpatialNetworX in 2024; WideOrbit in 2023); FY2025 count of 15 is sourced but per-year totals for 2023/2024/2026-to-date are not confirmed from a single authoritative source",
+    "Total current number of operating businesses owned is inconsistent across sources: 'a global network of 30+ companies' (Lumine, ~early 2025) vs. 'made 26 acquisitions' (Tracxn, April 2026); not reconciled",
+    "Organic growth (raw and FX-adjusted) for the six months ended June 30, 2026 (H1 2026) as a single blended figure was not found; only the Q1 2026 (0% / -2% FX-adj) and Q2 2026 (1% / 1% FX-adj) quarterly figures are available",
+    "Cash and cash equivalents balance at March 31, 2026 and June 30, 2026 (company-reported, USD) were not found in available search snippets; FY2025 year-end figure ($352.4M) is third-party only",
+    "Debt at June 30, 2026 only found from a third-party source in CAD (~C$701 million); no USD company figure for that date was located, and the CAD framing conflicts with Lumine's own USD reporting convention seen elsewhere (e.g., USD 370.1 million bank indebtedness at March 31, 2026)",
+    "Detailed background for CFO Mary Anne Lavallee (prior roles, career history) not found",
+    "Exact tenure start dates for board members Brian Beattie, Mark Miller, and Robin van Poelje on the Lumine board specifically (vs. their Constellation/Volaris/Topicus roles) not found",
+    "AI-related attrition or pricing commentary specific to Lumine (as distinct from general AI product/use-case commentary) not found",
+    "Individual purchase prices for Quortex and Imagine Communications (only the combined USD 233.7 million consideration for both is disclosed)",
+    "Exact acquisition dates for Datafusion and Vidispine"
+  ]
+}
