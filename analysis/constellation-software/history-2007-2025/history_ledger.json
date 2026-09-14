@@ -809,6 +809,22 @@
         "source_url": "https://www.globenewswire.com/news-release/2026/03/09/3251696/0/en/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2025-and-declares-quarterly-dividend.html",
         "confidence": "company",
         "note": "Up 24% from $2,196M in 2024."
+      },
+      "FY2016": {
+        "value": 491,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2018/02/14/1348408/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2017-and-Declares-Quarterly-Dividend.html",
+        "source_title": null,
+        "confidence": "company",
+        "note": "Comparative figure stated in the FY2017 annual release ('increase of 8%/$37M over $491M in 2016'). Added by Fable review 2026-09-14."
+      },
+      "FY2022": {
+        "value": 1297,
+        "unit": "USD millions",
+        "source_url": "https://www.globenewswire.com/news-release/2023/03/29/2637195/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2022-and-Declares-Quarterly-Dividend.html",
+        "source_title": "Constellation Software Inc. Announces Results for the Fourth Quarter and Year Ended December 31, 2022",
+        "confidence": "company",
+        "note": "Release states CFO of $1,297 million for 2022, a decrease of $2 million from $1,300 million in 2021. Added by Fable review 2026-09-14 from a WebSearch snippet."
       }
     },
     "fcfa2s": {
@@ -988,18 +1004,20 @@
         "note": "Lower than FY2013's 30; the intake's 'record year' framing for FY2014 acquisitions was not corroborated on a count or cash-consideration basis."
       },
       "FY2015": {
-        "value": 3,
+        "value": null,
         "unit": "count",
         "source_url": "https://tracxn.com/d/acquisitions/acquisitions-by-constellation-software/__YaRluimuGqgVfqr0Xhgb2dPWiMKnmgzXPcPNPni5Ssg",
-        "confidence": "third_party",
-        "note": "Low-confidence third-party M&A database count; implausibly low vs. the company's typical pace elsewhere in this window. Matches parent_long_run."
+        "confidence": "unreliable",
+        "note": "Low-confidence third-party M&A database count; implausibly low vs. the company's typical pace elsewhere in this window. Matches parent_long_run. Set to gap: counts disclosed major deals only, not the annual total.",
+        "prior_value": 3
       },
       "FY2019": {
-        "value": 3,
+        "value": null,
         "unit": "count",
         "source_url": "https://nicoper.substack.com/p/4-constellation-acquisitions-2022",
-        "confidence": "third_party",
-        "note": "Third-party count; matches parent_long_run."
+        "confidence": "unreliable",
+        "note": "Third-party count; matches parent_long_run. Set to gap: counts disclosed major deals only, not the annual total.",
+        "prior_value": 3
       },
       "FY2021": {
         "value": 85,
@@ -1247,6 +1265,38 @@
         "source_url": "https://www.globenewswire.com/news-release/2026/03/09/3251696/0/en/constellation-software-inc-announces-results-for-the-fourth-quarter-and-year-ended-december-31-2025-and-declares-quarterly-dividend.html",
         "confidence": "company",
         "note": "Regular rate still USD 1.00 quarterly; no special dividend named."
+      },
+      "FY2012": {
+        "value": 4.0,
+        "unit": "USD (4 x USD 1.00 quarterly), derived",
+        "source_url": "https://www.globenewswire.com/news-release/2019/02/14/1725078/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2018-and-Declares-Quarterly-and-Special-Dividends.html",
+        "source_title": null,
+        "confidence": "derived",
+        "note": "Not individually sourced for FY2012. The quarterly rate of USD 1.00 is company sourced for FY2013 to FY2015 and FY2018 to FY2020 and FY2022 to FY2025 with no change announced; carried as 4.00 for FY2012 by Fable review 2026-09-14 and labelled derived."
+      },
+      "FY2016": {
+        "value": 4.0,
+        "unit": "USD (4 x USD 1.00 quarterly), derived",
+        "source_url": "https://www.globenewswire.com/news-release/2019/02/14/1725078/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2018-and-Declares-Quarterly-and-Special-Dividends.html",
+        "source_title": null,
+        "confidence": "derived",
+        "note": "Not individually sourced for FY2016. The quarterly rate of USD 1.00 is company sourced for FY2013 to FY2015 and FY2018 to FY2020 and FY2022 to FY2025 with no change announced; carried as 4.00 for FY2016 by Fable review 2026-09-14 and labelled derived."
+      },
+      "FY2017": {
+        "value": 4.0,
+        "unit": "USD (4 x USD 1.00 quarterly), derived",
+        "source_url": "https://www.globenewswire.com/news-release/2019/02/14/1725078/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2018-and-Declares-Quarterly-and-Special-Dividends.html",
+        "source_title": null,
+        "confidence": "derived",
+        "note": "Not individually sourced for FY2017. The quarterly rate of USD 1.00 is company sourced for FY2013 to FY2015 and FY2018 to FY2020 and FY2022 to FY2025 with no change announced; carried as 4.00 for FY2017 by Fable review 2026-09-14 and labelled derived."
+      },
+      "FY2021": {
+        "value": 4.0,
+        "unit": "USD (4 x USD 1.00 quarterly), derived",
+        "source_url": "https://www.globenewswire.com/news-release/2019/02/14/1725078/0/en/Constellation-Software-Inc-Announces-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2018-and-Declares-Quarterly-and-Special-Dividends.html",
+        "source_title": null,
+        "confidence": "derived",
+        "note": "Not individually sourced for FY2021. The quarterly rate of USD 1.00 is company sourced for FY2013 to FY2015 and FY2018 to FY2020 and FY2022 to FY2025 with no change announced; carried as 4.00 for FY2021 by Fable review 2026-09-14 and labelled derived."
       }
     },
     "dividends_per_share_special": {
@@ -1714,6 +1764,28 @@
         "https://www.marketscreener.com/quote/stock/CONSTELLATION-SOFTWARE-IN-1409607/news/Multibagger-Stories-Constellation-Software-44687508/"
       ],
       "resolution": "Carried forward as a labelled assumption from two third party statements that the count is unchanged since the 2006 IPO; the only company sourced count is FY2025 (21,191,530). Fable, 2026-09-14."
+    },
+    {
+      "metric": "acquisition_count",
+      "period": "FY2015",
+      "values": [
+        3
+      ],
+      "sources": [
+        "https://tracxn.com/d/acquisitions/acquisitions-by-constellation-software/__YaRluimuGqgVfqr0Xhgb2dPWiMKnmgzXPcPNPni5Ssg"
+      ],
+      "resolution": "Set to gap by Fable review 2026-09-14: the figure counts publicly announced major deals, not the company's total for FY2015; Constellation closes dozens of small acquisitions a year, so 3 is not a total."
+    },
+    {
+      "metric": "acquisition_count",
+      "period": "FY2019",
+      "values": [
+        3
+      ],
+      "sources": [
+        "https://nicoper.substack.com/p/4-constellation-acquisitions-2022"
+      ],
+      "resolution": "Set to gap by Fable review 2026-09-14: the figure counts publicly announced major deals, not the company's total for FY2019; Constellation closes dozens of small acquisitions a year, so 3 is not a total."
     }
   ],
   "coverage": {
@@ -1882,5 +1954,8 @@
     "dividends_per_share_special_coverage": "All five stage1 intake sweeps specifically searched for special dividends before the confirmed USD 20.00/share special (declared Feb 2019, for FY2018). None were found for any year FY2007-FY2025; this is recorded as a confirmed absence in coverage, not a data gap from under-searching (known issue 8).",
     "share_price_cad_year_end_coverage": "Year end CAD closing prices are gap for all 19 fiscal years (FY2007-FY2025) despite dedicated search passes in every stage1 window; WebFetch/curl are unavailable in this environment so aggregator pages with historical tables could not be opened directly. Only the IPO offering price (synthetic key 'IPO 2006-05-17') and the third-party aggregate return figures (ledger key 'aggregate_returns') exist (known issue 9).",
     "adjusted_ebita_and_adjusted_net_income_never_mixed": "adjusted_ebita, adjusted_net_income and fcfa2s are always kept as separate ledger keys per year; fcfa2s is only populated FY2018 onward (the metric name postdates FY2017; 'adjusted net income' was the era's term before that, per the intake spec's labeling guidance)."
-  }
+  },
+  "gaps_review": [
+    "FY2012 cash from operations: not recoverable; the 2012 President letter states only that CFO per share rose 5 percent with a tax payment of about 38 cents per share."
+  ]
 }

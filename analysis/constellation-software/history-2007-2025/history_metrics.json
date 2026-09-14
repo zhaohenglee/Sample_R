@@ -1,7 +1,7 @@
 {
   "company": "Constellation Software Inc.",
   "generated_from": "history_ledger.json",
-  "generated_at": "2026-09-14T12:39:33",
+  "generated_at": "2026-09-14T12:41:42",
   "annual": {
     "FY2007": {
       "revenue_growth_pct": {
@@ -727,13 +727,12 @@
         "note": "cash proxy used: adjusted_net_income"
       },
       "dividends_per_share_total": {
-        "value": null,
+        "value": 4.0,
         "formula": "dividends_per_share_regular + dividends_per_share_special",
         "inputs": {
-          "dividends_per_share_regular": null,
-          "dividends_per_share_special": null
-        },
-        "note": "null: missing dividends_per_share_regular"
+          "dividends_per_share_regular": 4.0,
+          "dividends_per_share_special": 0
+        }
       },
       "cash_after_acquisitions": {
         "value": null,
@@ -749,10 +748,10 @@
         "formula": "(fcfa2s_or_adjusted_net_income) - acquisitions_cash_spent - (dividends_per_share_total * shares_outstanding)",
         "inputs": {
           "cash_after_acquisitions": null,
-          "dividends_per_share_total": null,
+          "dividends_per_share_total": 4.0,
           "shares_outstanding": 21.19
         },
-        "note": "null: missing cash_after_acquisitions and dividends_per_share_total"
+        "note": "null: missing cash_after_acquisitions"
       }
     },
     "FY2013": {
@@ -1145,13 +1144,12 @@
         }
       },
       "cfo_margin_pct": {
-        "value": null,
+        "value": 23.1,
         "formula": "cash_from_operations / revenue * 100",
         "inputs": {
-          "cash_from_operations": null,
+          "cash_from_operations": 491,
           "revenue": 2125.1
-        },
-        "note": "null: missing cash_from_operations"
+        }
       },
       "cash_metric_margin_pct": {
         "value": 18.59,
@@ -1163,22 +1161,20 @@
         "note": "cash proxy used: adjusted_net_income"
       },
       "cash_conversion_ratio": {
-        "value": null,
+        "value": 2.37,
         "formula": "cash_from_operations / net_income_attributable",
         "inputs": {
-          "cash_from_operations": null,
+          "cash_from_operations": 491,
           "net_income_attributable": 206.8
-        },
-        "note": "null: missing cash_from_operations"
+        }
       },
       "acquisitions_to_cfo_pct": {
-        "value": null,
+        "value": 36.27,
         "formula": "acquisitions_cash_spent / cash_from_operations * 100",
         "inputs": {
           "acquisitions_cash_spent": 178.1,
-          "cash_from_operations": null
-        },
-        "note": "null: missing cash_from_operations"
+          "cash_from_operations": 491
+        }
       },
       "acquisitions_to_cash_metric_pct": {
         "value": 45.09,
@@ -1198,13 +1194,12 @@
         }
       },
       "per_share_cfo": {
-        "value": null,
+        "value": 23.17,
         "formula": "cash_from_operations / shares_outstanding",
         "inputs": {
-          "cash_from_operations": null,
+          "cash_from_operations": 491,
           "shares_outstanding": 21.19
-        },
-        "note": "null: missing cash_from_operations"
+        }
       },
       "per_share_cash_metric": {
         "value": 18.64,
@@ -1216,13 +1211,12 @@
         "note": "cash proxy used: adjusted_net_income"
       },
       "dividends_per_share_total": {
-        "value": null,
+        "value": 4.0,
         "formula": "dividends_per_share_regular + dividends_per_share_special",
         "inputs": {
-          "dividends_per_share_regular": null,
-          "dividends_per_share_special": null
-        },
-        "note": "null: missing dividends_per_share_regular"
+          "dividends_per_share_regular": 4.0,
+          "dividends_per_share_special": 0
+        }
       },
       "cash_after_acquisitions": {
         "value": 216.9,
@@ -1234,14 +1228,15 @@
         "note": "cash proxy used: adjusted_net_income, USD millions"
       },
       "cash_after_acquisitions_and_dividends": {
-        "value": null,
-        "formula": "(fcfa2s_or_adjusted_net_income) - acquisitions_cash_spent - (dividends_per_share_total * shares_outstanding)",
+        "value": 132.14,
+        "formula": "adjusted_net_income - acquisitions_cash_spent - (dividends_per_share_total * shares_outstanding)",
         "inputs": {
-          "cash_after_acquisitions": 216.9,
-          "dividends_per_share_total": null,
+          "adjusted_net_income": 395.0,
+          "acquisitions_cash_spent": 178.1,
+          "dividends_per_share_total": 4.0,
           "shares_outstanding": 21.19
         },
-        "note": "null: missing dividends_per_share_total"
+        "note": "cash proxy used: adjusted_net_income, USD millions"
       }
     },
     "FY2017": {
@@ -1338,13 +1333,12 @@
         "note": "cash proxy used: adjusted_net_income"
       },
       "dividends_per_share_total": {
-        "value": null,
+        "value": 4.0,
         "formula": "dividends_per_share_regular + dividends_per_share_special",
         "inputs": {
-          "dividends_per_share_regular": null,
-          "dividends_per_share_special": null
-        },
-        "note": "null: missing dividends_per_share_regular"
+          "dividends_per_share_regular": 4.0,
+          "dividends_per_share_special": 0
+        }
       },
       "cash_after_acquisitions": {
         "value": null,
@@ -1360,10 +1354,10 @@
         "formula": "(fcfa2s_or_adjusted_net_income) - acquisitions_cash_spent - (dividends_per_share_total * shares_outstanding)",
         "inputs": {
           "cash_after_acquisitions": null,
-          "dividends_per_share_total": null,
+          "dividends_per_share_total": 4.0,
           "shares_outstanding": 21.19
         },
-        "note": "null: missing cash_after_acquisitions and dividends_per_share_total"
+        "note": "null: missing cash_after_acquisitions"
       }
     },
     "FY2018": {
@@ -1826,13 +1820,12 @@
         "note": "cash proxy used: fcfa2s"
       },
       "dividends_per_share_total": {
-        "value": null,
+        "value": 4.0,
         "formula": "dividends_per_share_regular + dividends_per_share_special",
         "inputs": {
-          "dividends_per_share_regular": null,
-          "dividends_per_share_special": null
-        },
-        "note": "null: missing dividends_per_share_regular"
+          "dividends_per_share_regular": 4.0,
+          "dividends_per_share_special": 0
+        }
       },
       "cash_after_acquisitions": {
         "value": -454,
@@ -1844,14 +1837,15 @@
         "note": "cash proxy used: fcfa2s, USD millions"
       },
       "cash_after_acquisitions_and_dividends": {
-        "value": null,
-        "formula": "(fcfa2s_or_adjusted_net_income) - acquisitions_cash_spent - (dividends_per_share_total * shares_outstanding)",
+        "value": -538.76,
+        "formula": "fcfa2s - acquisitions_cash_spent - (dividends_per_share_total * shares_outstanding)",
         "inputs": {
-          "cash_after_acquisitions": -454,
-          "dividends_per_share_total": null,
+          "fcfa2s": 883,
+          "acquisitions_cash_spent": 1337,
+          "dividends_per_share_total": 4.0,
           "shares_outstanding": 21.19
         },
-        "note": "null: missing dividends_per_share_total"
+        "note": "cash proxy used: fcfa2s, USD millions"
       }
     },
     "FY2022": {
@@ -1881,13 +1875,12 @@
         }
       },
       "cfo_margin_pct": {
-        "value": null,
+        "value": 19.59,
         "formula": "cash_from_operations / revenue * 100",
         "inputs": {
-          "cash_from_operations": null,
+          "cash_from_operations": 1297,
           "revenue": 6622
-        },
-        "note": "null: missing cash_from_operations"
+        }
       },
       "cash_metric_margin_pct": {
         "value": 12.88,
@@ -1899,22 +1892,20 @@
         "note": "cash proxy used: fcfa2s"
       },
       "cash_conversion_ratio": {
-        "value": null,
+        "value": 2.53,
         "formula": "cash_from_operations / net_income_attributable",
         "inputs": {
-          "cash_from_operations": null,
+          "cash_from_operations": 1297,
           "net_income_attributable": 512
-        },
-        "note": "null: missing cash_from_operations"
+        }
       },
       "acquisitions_to_cfo_pct": {
-        "value": null,
+        "value": 123.36,
         "formula": "acquisitions_cash_spent / cash_from_operations * 100",
         "inputs": {
           "acquisitions_cash_spent": 1600,
-          "cash_from_operations": null
-        },
-        "note": "null: missing cash_from_operations"
+          "cash_from_operations": 1297
+        }
       },
       "acquisitions_to_cash_metric_pct": {
         "value": 187.57,
@@ -1934,13 +1925,12 @@
         }
       },
       "per_share_cfo": {
-        "value": null,
+        "value": 61.21,
         "formula": "cash_from_operations / shares_outstanding",
         "inputs": {
-          "cash_from_operations": null,
+          "cash_from_operations": 1297,
           "shares_outstanding": 21.19
-        },
-        "note": "null: missing cash_from_operations"
+        }
       },
       "per_share_cash_metric": {
         "value": 40.25,
@@ -2469,7 +2459,7 @@
         "formula": "(cfo[end]/cfo[start])^(1/n_years) - 1",
         "inputs": {
           "cfo[start]": null,
-          "cfo[end]": null,
+          "cfo[end]": 491,
           "n_years": 4
         },
         "note": "null: missing cash_from_operations at era start or end year"
@@ -2500,7 +2490,7 @@
         "formula": "(cfo_per_share[end]/cfo_per_share[start])^(1/n_years) - 1",
         "inputs": {
           "cfo[start]": null,
-          "cfo[end]": null,
+          "cfo[end]": 491,
           "shares_outstanding[start]": 21.19,
           "shares_outstanding[end]": 21.19
         },
@@ -2526,10 +2516,10 @@
         }
       },
       "avg_acquisitions_to_cfo_pct": {
-        "value": 116.73,
+        "value": 96.62,
         "formula": "mean(acquisitions_to_cfo_pct for years with data in era)",
         "inputs": {
-          "years_used": 3,
+          "years_used": 4,
           "years_in_era": 5
         }
       },
@@ -2543,13 +2533,12 @@
         "note": "partial sum: only 4 of 5 era years had acquisitions_cash_spent"
       },
       "total_dividends_per_share": {
-        "value": 12.0,
+        "value": 20.0,
         "formula": "sum(dividends_per_share_total for years with data in era)",
         "inputs": {
-          "years_used": 3,
+          "years_used": 5,
           "years_in_era": 5
-        },
-        "note": "partial sum: only 3 of 5 era years had a dividend figure; currencies are not converted across years (some early years are CAD, later years USD)"
+        }
       },
       "share_price_cagr_cad_pct": {
         "value": null,
@@ -2647,13 +2636,12 @@
         "note": "partial sum: only 4 of 5 era years had acquisitions_cash_spent"
       },
       "total_dividends_per_share": {
-        "value": 32.0,
+        "value": 40.0,
         "formula": "sum(dividends_per_share_total for years with data in era)",
         "inputs": {
-          "years_used": 3,
+          "years_used": 5,
           "years_in_era": 5
-        },
-        "note": "partial sum: only 3 of 5 era years had a dividend figure; currencies are not converted across years (some early years are CAD, later years USD)"
+        }
       },
       "share_price_cagr_cad_pct": {
         "value": null,
@@ -2675,14 +2663,13 @@
         }
       },
       "cfo_cagr_pct": {
-        "value": null,
+        "value": 28.19,
         "formula": "(cfo[end]/cfo[start])^(1/n_years) - 1",
         "inputs": {
-          "cfo[start]": null,
+          "cfo[start]": 1297,
           "cfo[end]": 2732,
           "n_years": 3
-        },
-        "note": "null: missing cash_from_operations at era start or end year"
+        }
       },
       "cash_metric_cagr_pct": {
         "value": 25.42,
@@ -2706,15 +2693,15 @@
         }
       },
       "cfo_per_share_cagr_pct": {
-        "value": null,
+        "value": 28.19,
         "formula": "(cfo_per_share[end]/cfo_per_share[start])^(1/n_years) - 1",
         "inputs": {
-          "cfo[start]": null,
+          "cfo[start]": 1297,
           "cfo[end]": 2732,
           "shares_outstanding[start]": 21.19,
-          "shares_outstanding[end]": 21.19
-        },
-        "note": "null: missing cfo"
+          "shares_outstanding[end]": 21.19,
+          "n_years": 3
+        }
       },
       "cash_metric_per_share_cagr_pct": {
         "value": 25.42,
@@ -2736,10 +2723,10 @@
         }
       },
       "avg_acquisitions_to_cfo_pct": {
-        "value": 60.18,
+        "value": 75.98,
         "formula": "mean(acquisitions_to_cfo_pct for years with data in era)",
         "inputs": {
-          "years_used": 3,
+          "years_used": 4,
           "years_in_era": 4
         }
       },
@@ -2840,10 +2827,10 @@
         "note": "only 17 of 19 era years had organic_growth_pct"
       },
       "avg_acquisitions_to_cfo_pct": {
-        "value": 83.7,
+        "value": 83.05,
         "formula": "mean(acquisitions_to_cfo_pct for years with data in era)",
         "inputs": {
-          "years_used": 10,
+          "years_used": 12,
           "years_in_era": 19
         }
       },
@@ -2857,13 +2844,13 @@
         "note": "partial sum: only 13 of 19 era years had acquisitions_cash_spent"
       },
       "total_dividends_per_share": {
-        "value": 64.0,
+        "value": 80.0,
         "formula": "sum(dividends_per_share_total for years with data in era)",
         "inputs": {
-          "years_used": 12,
+          "years_used": 16,
           "years_in_era": 19
         },
-        "note": "partial sum: only 12 of 19 era years had a dividend figure; currencies are not converted across years (some early years are CAD, later years USD)"
+        "note": "partial sum: only 16 of 19 era years had a dividend figure; currencies are not converted across years (some early years are CAD, later years USD)"
       },
       "share_price_cagr_cad_pct": {
         "value": null,
@@ -3556,11 +3543,12 @@
       ]
     },
     "FY2016": {
-      "core_metrics_present": 5,
+      "core_metrics_present": 6,
       "out_of": 6,
       "present": [
         "revenue",
         "net_income_attributable",
+        "cash_from_operations",
         "acquisitions_cash_spent",
         "organic_growth_pct",
         "cash_metric (adjusted_net_income)"
@@ -3626,11 +3614,12 @@
       ]
     },
     "FY2022": {
-      "core_metrics_present": 5,
+      "core_metrics_present": 6,
       "out_of": 6,
       "present": [
         "revenue",
         "net_income_attributable",
+        "cash_from_operations",
         "acquisitions_cash_spent",
         "organic_growth_pct",
         "cash_metric (fcfa2s)"
