@@ -1,0 +1,1954 @@
+{
+  "generated_from": [
+    "holdings.json",
+    "../ledger.json",
+    "../metrics.json"
+  ],
+  "date": "2026-09-14",
+  "null_metric_count": 39,
+  "spot_checks_all_pass": true,
+  "look_through": {
+    "topicus": {
+      "economic_interest_pct": {
+        "value": 30.35,
+        "formula": "holdings.topicus.fields.csu_economic_interest_pct.value",
+        "inputs": {
+          "csu_economic_interest_pct": 30.35
+        },
+        "unit": "percent, fully diluted basis",
+        "note": "[holdings:topicus:csu_economic_interest_pct] source=https://topicus.com/news/constellation-software-inc-completes-spin-out-of-topicuscom-inc"
+      },
+      "market_cap_native": {
+        "value": 8390,
+        "formula": "holdings.topicus.fields.market_cap.value",
+        "inputs": {
+          "market_cap": 8390
+        },
+        "unit": "CAD millions",
+        "note": "[holdings:topicus:market_cap] source=https://www.gurufocus.com/term/mktcap/TSXV:TOI (sourced via ../ledger.json peers)"
+      },
+      "look_through_value_native": {
+        "value": 2546.365,
+        "formula": "csu_economic_interest_pct/100 * market_cap_native",
+        "inputs": {
+          "csu_economic_interest_pct": 30.35,
+          "market_cap_native": 8390
+        },
+        "unit": "CAD millions"
+      },
+      "usd_value": {
+        "value": null,
+        "formula": "look_through_value_native / usdcad_rate",
+        "inputs": {
+          "look_through_value_native": 2546.365
+        },
+        "note": "no usdcad/eurcad/eurusd rate is sourced in holdings.json for Topicus (stage1 intake recorded no FX rate); left null per Stage 3 spec instruction rather than importing an unsourced rate."
+      }
+    },
+    "lumine": {
+      "economic_interest_pct": {
+        "value": 61.4,
+        "formula": "holdings.lumine.fields.csu_economic_interest_pct.value",
+        "inputs": {
+          "csu_economic_interest_pct": 61.4
+        },
+        "unit": "percent, held as subordinate voting shares (post March 2024 mandatory conversion)",
+        "note": "[holdings:lumine:csu_economic_interest_pct] source=https://www.csisoftware.com/wp-content/uploads/2026/05/CSI-MDA-Q1-2026-Final.pdf"
+      },
+      "market_cap_native_low": {
+        "value": 5628.0,
+        "formula": "holdings.lumine.fields.market_cap.value_1.value * 1000 (CAD billions -> CAD millions)",
+        "inputs": {
+          "market_cap_cad_billions": 5.628
+        },
+        "unit": "CAD millions",
+        "note": "[holdings:lumine:market_cap:value_1] period=2026-09-10 source=https://stockanalysis.com/quote/tsxv/LMN/market-cap/. holdings.json records two conflicting Lumine market caps for September 2026 (see conflicts); both computed here, never averaged."
+      },
+      "market_cap_native_high": {
+        "value": 6413.0,
+        "formula": "holdings.lumine.fields.market_cap.value_2.value * 1000 (CAD billions -> CAD millions)",
+        "inputs": {
+          "market_cap_cad_billions": 6.413
+        },
+        "unit": "CAD millions",
+        "note": "[holdings:lumine:market_cap:value_2] period=2026-09-02 source=https://www.tipranks.com/stocks/tse:lmn/market-cap"
+      },
+      "look_through_value_native_low": {
+        "value": 3455.592,
+        "formula": "csu_economic_interest_pct/100 * market_cap_native_low",
+        "inputs": {
+          "csu_economic_interest_pct": 61.4,
+          "market_cap_native_low": 5628.0
+        },
+        "unit": "CAD millions"
+      },
+      "look_through_value_native_high": {
+        "value": 3937.582,
+        "formula": "csu_economic_interest_pct/100 * market_cap_native_high",
+        "inputs": {
+          "csu_economic_interest_pct": 61.4,
+          "market_cap_native_high": 6413.0
+        },
+        "unit": "CAD millions"
+      },
+      "usd_value": {
+        "value": null,
+        "formula": "look_through_value_native / usdcad_rate",
+        "inputs": {
+          "look_through_value_native_low": 3455.592,
+          "look_through_value_native_high": 3937.582
+        },
+        "note": "no usdcad/eurcad/eurusd rate is sourced in holdings.json for Lumine (stage1 intake recorded no FX rate); left null per Stage 3 spec instruction rather than importing an unsourced rate."
+      }
+    },
+    "share_of_csu_market_cap": {
+      "topicus": {
+        "share_of_csu_market_cap_reported_cad": {
+          "single": {
+            "value": 0.039065,
+            "formula": "look_through_value_native / market_cap_cad[2026-09-08]",
+            "inputs": {
+              "look_through_value_native": 2546.365,
+              "market_cap_cad.2026-09-08": 65183
+            },
+            "unit": "fraction of CSU market cap",
+            "note": "[ledger:market_cap_cad:2026-09-08] both figures are CAD; no currency conversion needed."
+          }
+        },
+        "share_of_csu_market_cap_fx_sensitivity": {
+          "value": [
+            {
+              "usdcad": 1.25,
+              "csu_market_cap_cad": 59937.5,
+              "share_single": 0.042484
+            },
+            {
+              "usdcad": 1.3,
+              "csu_market_cap_cad": 62335.0,
+              "share_single": 0.04085
+            },
+            {
+              "usdcad": 1.35,
+              "csu_market_cap_cad": 64732.5,
+              "share_single": 0.039337
+            },
+            {
+              "usdcad": 1.3594,
+              "csu_market_cap_cad": 65183.23,
+              "share_single": 0.039065
+            }
+          ],
+          "formula": "look_through_value_native / (market_cap_usd[2026-09] * usdcad_rate), for usdcad in [1.25, 1.30, 1.35, 1.3594]",
+          "inputs": {
+            "market_cap_usd.2026-09": 47950,
+            "fx_rates": [
+              1.25,
+              1.3,
+              1.35,
+              1.3594
+            ]
+          },
+          "note": "[ledger:market_cap_usd:2026-09] rates per first report's post_review.fx_sensitivity [metrics:post_review:fx_sensitivity]"
+        }
+      },
+      "lumine": {
+        "share_of_csu_market_cap_reported_cad": {
+          "low": {
+            "value": 0.053014,
+            "formula": "look_through_value_native / market_cap_cad[2026-09-08]",
+            "inputs": {
+              "look_through_value_native": 3455.592,
+              "market_cap_cad.2026-09-08": 65183
+            },
+            "unit": "fraction of CSU market cap",
+            "note": "[ledger:market_cap_cad:2026-09-08] both figures are CAD; no currency conversion needed."
+          },
+          "high": {
+            "value": 0.060408,
+            "formula": "look_through_value_native / market_cap_cad[2026-09-08]",
+            "inputs": {
+              "look_through_value_native": 3937.582,
+              "market_cap_cad.2026-09-08": 65183
+            },
+            "unit": "fraction of CSU market cap",
+            "note": "[ledger:market_cap_cad:2026-09-08] both figures are CAD; no currency conversion needed."
+          }
+        },
+        "share_of_csu_market_cap_fx_sensitivity": {
+          "value": [
+            {
+              "usdcad": 1.25,
+              "csu_market_cap_cad": 59937.5,
+              "share_low": 0.057653,
+              "share_high": 0.065695
+            },
+            {
+              "usdcad": 1.3,
+              "csu_market_cap_cad": 62335.0,
+              "share_low": 0.055436,
+              "share_high": 0.063168
+            },
+            {
+              "usdcad": 1.35,
+              "csu_market_cap_cad": 64732.5,
+              "share_low": 0.053383,
+              "share_high": 0.060829
+            },
+            {
+              "usdcad": 1.3594,
+              "csu_market_cap_cad": 65183.23,
+              "share_low": 0.053014,
+              "share_high": 0.060408
+            }
+          ],
+          "formula": "look_through_value_native / (market_cap_usd[2026-09] * usdcad_rate), for usdcad in [1.25, 1.30, 1.35, 1.3594]",
+          "inputs": {
+            "market_cap_usd.2026-09": 47950,
+            "fx_rates": [
+              1.25,
+              1.3,
+              1.35,
+              1.3594
+            ]
+          },
+          "note": "[ledger:market_cap_usd:2026-09] rates per first report's post_review.fx_sensitivity [metrics:post_review:fx_sensitivity]"
+        }
+      }
+    },
+    "implied_value_private_groups": {
+      "using_reported_cad_market_cap": {
+        "with_lumine_low": {
+          "value": 59181.043,
+          "formula": "market_cap_cad[2026-09-08] - topicus.look_through_value_native - lumine.look_through_value_native_low",
+          "inputs": {
+            "market_cap_cad.2026-09-08": 65183,
+            "topicus_look_through": 2546.365,
+            "lumine_look_through_low": 3455.592
+          },
+          "unit": "CAD millions"
+        },
+        "with_lumine_high": {
+          "value": 58699.053,
+          "formula": "market_cap_cad[2026-09-08] - topicus.look_through_value_native - lumine.look_through_value_native_high",
+          "inputs": {
+            "market_cap_cad.2026-09-08": 65183,
+            "topicus_look_through": 2546.365,
+            "lumine_look_through_high": 3937.582
+          },
+          "unit": "CAD millions"
+        }
+      },
+      "using_fx_sensitivity": {
+        "value": [
+          {
+            "usdcad": 1.25,
+            "csu_market_cap_cad": 59937.5,
+            "implied_private_groups_value_with_lumine_low": 53935.543,
+            "implied_private_groups_value_with_lumine_high": 53453.553
+          },
+          {
+            "usdcad": 1.3,
+            "csu_market_cap_cad": 62335.0,
+            "implied_private_groups_value_with_lumine_low": 56333.043,
+            "implied_private_groups_value_with_lumine_high": 55851.053
+          },
+          {
+            "usdcad": 1.35,
+            "csu_market_cap_cad": 64732.5,
+            "implied_private_groups_value_with_lumine_low": 58730.543,
+            "implied_private_groups_value_with_lumine_high": 58248.553
+          },
+          {
+            "usdcad": 1.3594,
+            "csu_market_cap_cad": 65183.23,
+            "implied_private_groups_value_with_lumine_low": 59181.273,
+            "implied_private_groups_value_with_lumine_high": 58699.283
+          }
+        ],
+        "formula": "market_cap_usd[2026-09] * usdcad_rate - topicus.look_through_value_native - lumine.look_through_value_native_{low,high}",
+        "inputs": {
+          "market_cap_usd.2026-09": 47950,
+          "fx_rates": [
+            1.25,
+            1.3,
+            1.35,
+            1.3594
+          ]
+        },
+        "unit": "CAD millions"
+      }
+    }
+  },
+  "reinvestment_grid": {
+    "label": "This is the algebraic identity g = reinvestment_rate * return_on_deployed_capital that the ten-year reinvestment case rests on. It is NOT a forecast of Constellation's future growth; it shows what combination of deployment rate and ROIC is required to produce a given FCFA2S-per-share growth rate.",
+    "formula": "g = reinvestment_rate * return_on_deployed_capital; g_total = g + organic_growth * organic_pass_through_rate",
+    "organic_pass_through_rate": 1.0,
+    "reinvestment_rate_axis": [
+      0.5,
+      0.75,
+      1.0,
+      1.25,
+      1.5
+    ],
+    "return_on_deployed_capital_axis": [
+      0.08,
+      0.1,
+      0.12,
+      0.15,
+      0.2,
+      0.25
+    ],
+    "organic_growth_axis": [
+      0.0,
+      0.02,
+      0.04
+    ],
+    "grid": [
+      {
+        "reinvestment_rate": 0.5,
+        "return_on_deployed_capital": 0.08,
+        "g": 0.04,
+        "g_total_organic_0.0": 0.04,
+        "g_total_organic_0.02": 0.06,
+        "g_total_organic_0.04": 0.08
+      },
+      {
+        "reinvestment_rate": 0.5,
+        "return_on_deployed_capital": 0.1,
+        "g": 0.05,
+        "g_total_organic_0.0": 0.05,
+        "g_total_organic_0.02": 0.07,
+        "g_total_organic_0.04": 0.09
+      },
+      {
+        "reinvestment_rate": 0.5,
+        "return_on_deployed_capital": 0.12,
+        "g": 0.06,
+        "g_total_organic_0.0": 0.06,
+        "g_total_organic_0.02": 0.08,
+        "g_total_organic_0.04": 0.1
+      },
+      {
+        "reinvestment_rate": 0.5,
+        "return_on_deployed_capital": 0.15,
+        "g": 0.075,
+        "g_total_organic_0.0": 0.075,
+        "g_total_organic_0.02": 0.095,
+        "g_total_organic_0.04": 0.115
+      },
+      {
+        "reinvestment_rate": 0.5,
+        "return_on_deployed_capital": 0.2,
+        "g": 0.1,
+        "g_total_organic_0.0": 0.1,
+        "g_total_organic_0.02": 0.12,
+        "g_total_organic_0.04": 0.14
+      },
+      {
+        "reinvestment_rate": 0.5,
+        "return_on_deployed_capital": 0.25,
+        "g": 0.125,
+        "g_total_organic_0.0": 0.125,
+        "g_total_organic_0.02": 0.145,
+        "g_total_organic_0.04": 0.165
+      },
+      {
+        "reinvestment_rate": 0.75,
+        "return_on_deployed_capital": 0.08,
+        "g": 0.06,
+        "g_total_organic_0.0": 0.06,
+        "g_total_organic_0.02": 0.08,
+        "g_total_organic_0.04": 0.1
+      },
+      {
+        "reinvestment_rate": 0.75,
+        "return_on_deployed_capital": 0.1,
+        "g": 0.075,
+        "g_total_organic_0.0": 0.075,
+        "g_total_organic_0.02": 0.095,
+        "g_total_organic_0.04": 0.115
+      },
+      {
+        "reinvestment_rate": 0.75,
+        "return_on_deployed_capital": 0.12,
+        "g": 0.09,
+        "g_total_organic_0.0": 0.09,
+        "g_total_organic_0.02": 0.11,
+        "g_total_organic_0.04": 0.13
+      },
+      {
+        "reinvestment_rate": 0.75,
+        "return_on_deployed_capital": 0.15,
+        "g": 0.1125,
+        "g_total_organic_0.0": 0.1125,
+        "g_total_organic_0.02": 0.1325,
+        "g_total_organic_0.04": 0.1525
+      },
+      {
+        "reinvestment_rate": 0.75,
+        "return_on_deployed_capital": 0.2,
+        "g": 0.15,
+        "g_total_organic_0.0": 0.15,
+        "g_total_organic_0.02": 0.17,
+        "g_total_organic_0.04": 0.19
+      },
+      {
+        "reinvestment_rate": 0.75,
+        "return_on_deployed_capital": 0.25,
+        "g": 0.1875,
+        "g_total_organic_0.0": 0.1875,
+        "g_total_organic_0.02": 0.2075,
+        "g_total_organic_0.04": 0.2275
+      },
+      {
+        "reinvestment_rate": 1.0,
+        "return_on_deployed_capital": 0.08,
+        "g": 0.08,
+        "g_total_organic_0.0": 0.08,
+        "g_total_organic_0.02": 0.1,
+        "g_total_organic_0.04": 0.12
+      },
+      {
+        "reinvestment_rate": 1.0,
+        "return_on_deployed_capital": 0.1,
+        "g": 0.1,
+        "g_total_organic_0.0": 0.1,
+        "g_total_organic_0.02": 0.12,
+        "g_total_organic_0.04": 0.14
+      },
+      {
+        "reinvestment_rate": 1.0,
+        "return_on_deployed_capital": 0.12,
+        "g": 0.12,
+        "g_total_organic_0.0": 0.12,
+        "g_total_organic_0.02": 0.14,
+        "g_total_organic_0.04": 0.16
+      },
+      {
+        "reinvestment_rate": 1.0,
+        "return_on_deployed_capital": 0.15,
+        "g": 0.15,
+        "g_total_organic_0.0": 0.15,
+        "g_total_organic_0.02": 0.17,
+        "g_total_organic_0.04": 0.19
+      },
+      {
+        "reinvestment_rate": 1.0,
+        "return_on_deployed_capital": 0.2,
+        "g": 0.2,
+        "g_total_organic_0.0": 0.2,
+        "g_total_organic_0.02": 0.22,
+        "g_total_organic_0.04": 0.24
+      },
+      {
+        "reinvestment_rate": 1.0,
+        "return_on_deployed_capital": 0.25,
+        "g": 0.25,
+        "g_total_organic_0.0": 0.25,
+        "g_total_organic_0.02": 0.27,
+        "g_total_organic_0.04": 0.29
+      },
+      {
+        "reinvestment_rate": 1.25,
+        "return_on_deployed_capital": 0.08,
+        "g": 0.1,
+        "g_total_organic_0.0": 0.1,
+        "g_total_organic_0.02": 0.12,
+        "g_total_organic_0.04": 0.14
+      },
+      {
+        "reinvestment_rate": 1.25,
+        "return_on_deployed_capital": 0.1,
+        "g": 0.125,
+        "g_total_organic_0.0": 0.125,
+        "g_total_organic_0.02": 0.145,
+        "g_total_organic_0.04": 0.165
+      },
+      {
+        "reinvestment_rate": 1.25,
+        "return_on_deployed_capital": 0.12,
+        "g": 0.15,
+        "g_total_organic_0.0": 0.15,
+        "g_total_organic_0.02": 0.17,
+        "g_total_organic_0.04": 0.19
+      },
+      {
+        "reinvestment_rate": 1.25,
+        "return_on_deployed_capital": 0.15,
+        "g": 0.1875,
+        "g_total_organic_0.0": 0.1875,
+        "g_total_organic_0.02": 0.2075,
+        "g_total_organic_0.04": 0.2275
+      },
+      {
+        "reinvestment_rate": 1.25,
+        "return_on_deployed_capital": 0.2,
+        "g": 0.25,
+        "g_total_organic_0.0": 0.25,
+        "g_total_organic_0.02": 0.27,
+        "g_total_organic_0.04": 0.29
+      },
+      {
+        "reinvestment_rate": 1.25,
+        "return_on_deployed_capital": 0.25,
+        "g": 0.3125,
+        "g_total_organic_0.0": 0.3125,
+        "g_total_organic_0.02": 0.3325,
+        "g_total_organic_0.04": 0.3525
+      },
+      {
+        "reinvestment_rate": 1.5,
+        "return_on_deployed_capital": 0.08,
+        "g": 0.12,
+        "g_total_organic_0.0": 0.12,
+        "g_total_organic_0.02": 0.14,
+        "g_total_organic_0.04": 0.16
+      },
+      {
+        "reinvestment_rate": 1.5,
+        "return_on_deployed_capital": 0.1,
+        "g": 0.15,
+        "g_total_organic_0.0": 0.15,
+        "g_total_organic_0.02": 0.17,
+        "g_total_organic_0.04": 0.19
+      },
+      {
+        "reinvestment_rate": 1.5,
+        "return_on_deployed_capital": 0.12,
+        "g": 0.18,
+        "g_total_organic_0.0": 0.18,
+        "g_total_organic_0.02": 0.2,
+        "g_total_organic_0.04": 0.22
+      },
+      {
+        "reinvestment_rate": 1.5,
+        "return_on_deployed_capital": 0.15,
+        "g": 0.225,
+        "g_total_organic_0.0": 0.225,
+        "g_total_organic_0.02": 0.245,
+        "g_total_organic_0.04": 0.265
+      },
+      {
+        "reinvestment_rate": 1.5,
+        "return_on_deployed_capital": 0.2,
+        "g": 0.3,
+        "g_total_organic_0.0": 0.3,
+        "g_total_organic_0.02": 0.32,
+        "g_total_organic_0.04": 0.34
+      },
+      {
+        "reinvestment_rate": 1.5,
+        "return_on_deployed_capital": 0.25,
+        "g": 0.375,
+        "g_total_organic_0.0": 0.375,
+        "g_total_organic_0.02": 0.395,
+        "g_total_organic_0.04": 0.415
+      }
+    ]
+  },
+  "hold_grid_10yr": {
+    "entry_usd_2262_86_first_report": {
+      "entry_price_usd": 2262.8598395469558,
+      "source_note": "[metrics:scenario_inputs:entry_price_usd] first report's headline entry price.",
+      "base_fcfa2s_per_share": 95.79990561585653,
+      "base_fcfa2s_per_share_source": "[metrics:scenario_inputs:current_fcfa2s_per_share]",
+      "dividend_per_share_per_year": 4.0,
+      "n_years": 10,
+      "formula": "entry_price = sum_{t=1..10}(dividend/(1+r)^t) + exit_value/(1+r)^10, exit_value = base_fcfa2s_per_share*(1+cagr)^10 * exit_multiple, solved for r via bisection. Dividends are held as uninvested cash (not reinvested at any assumed return) -- each is a separate cash flow at its own year, discounted individually.",
+      "cagr_axis": [
+        0,
+        0.04,
+        0.06,
+        0.08,
+        0.1,
+        0.12,
+        0.15
+      ],
+      "exit_multiple_axis": [
+        12,
+        15,
+        20,
+        25,
+        30
+      ],
+      "grid": [
+        {
+          "fcfa2s_cagr": 0,
+          "exit_multiple": 12,
+          "exit_fcfa2s_per_share": 95.7999,
+          "exit_value": 1149.6,
+          "irr_10yr": -0.06304
+        },
+        {
+          "fcfa2s_cagr": 0,
+          "exit_multiple": 15,
+          "exit_fcfa2s_per_share": 95.7999,
+          "exit_value": 1437.0,
+          "irr_10yr": -0.042207
+        },
+        {
+          "fcfa2s_cagr": 0,
+          "exit_multiple": 20,
+          "exit_fcfa2s_per_share": 95.7999,
+          "exit_value": 1916.0,
+          "irr_10yr": -0.014595
+        },
+        {
+          "fcfa2s_cagr": 0,
+          "exit_multiple": 25,
+          "exit_fcfa2s_per_share": 95.7999,
+          "exit_value": 2395.0,
+          "irr_10yr": 0.007415
+        },
+        {
+          "fcfa2s_cagr": 0,
+          "exit_multiple": 30,
+          "exit_fcfa2s_per_share": 95.7999,
+          "exit_value": 2874.0,
+          "irr_10yr": 0.025787
+        },
+        {
+          "fcfa2s_cagr": 0.04,
+          "exit_multiple": 12,
+          "exit_fcfa2s_per_share": 141.8073,
+          "exit_value": 1701.69,
+          "irr_10yr": -0.026083
+        },
+        {
+          "fcfa2s_cagr": 0.04,
+          "exit_multiple": 15,
+          "exit_fcfa2s_per_share": 141.8073,
+          "exit_value": 2127.11,
+          "irr_10yr": -0.00435
+        },
+        {
+          "fcfa2s_cagr": 0.04,
+          "exit_multiple": 20,
+          "exit_fcfa2s_per_share": 141.8073,
+          "exit_value": 2836.15,
+          "irr_10yr": 0.024439
+        },
+        {
+          "fcfa2s_cagr": 0.04,
+          "exit_multiple": 25,
+          "exit_fcfa2s_per_share": 141.8073,
+          "exit_value": 3545.18,
+          "irr_10yr": 0.047376
+        },
+        {
+          "fcfa2s_cagr": 0.04,
+          "exit_multiple": 30,
+          "exit_fcfa2s_per_share": 141.8073,
+          "exit_value": 4254.22,
+          "irr_10yr": 0.066517
+        },
+        {
+          "fcfa2s_cagr": 0.06,
+          "exit_multiple": 12,
+          "exit_fcfa2s_per_share": 171.563,
+          "exit_value": 2058.76,
+          "irr_10yr": -0.007563
+        },
+        {
+          "fcfa2s_cagr": 0.06,
+          "exit_multiple": 15,
+          "exit_fcfa2s_per_share": 171.563,
+          "exit_value": 2573.45,
+          "irr_10yr": 0.014614
+        },
+        {
+          "fcfa2s_cagr": 0.06,
+          "exit_multiple": 20,
+          "exit_fcfa2s_per_share": 171.563,
+          "exit_value": 3431.26,
+          "irr_10yr": 0.043985
+        },
+        {
+          "fcfa2s_cagr": 0.06,
+          "exit_multiple": 25,
+          "exit_fcfa2s_per_share": 171.563,
+          "exit_value": 4289.08,
+          "irr_10yr": 0.067382
+        },
+        {
+          "fcfa2s_cagr": 0.06,
+          "exit_multiple": 30,
+          "exit_fcfa2s_per_share": 171.563,
+          "exit_value": 5146.89,
+          "irr_10yr": 0.086904
+        },
+        {
+          "fcfa2s_cagr": 0.08,
+          "exit_multiple": 12,
+          "exit_fcfa2s_per_share": 206.8248,
+          "exit_value": 2481.9,
+          "irr_10yr": 0.010979
+        },
+        {
+          "fcfa2s_cagr": 0.08,
+          "exit_multiple": 15,
+          "exit_fcfa2s_per_share": 206.8248,
+          "exit_value": 3102.37,
+          "irr_10yr": 0.033597
+        },
+        {
+          "fcfa2s_cagr": 0.08,
+          "exit_multiple": 20,
+          "exit_fcfa2s_per_share": 206.8248,
+          "exit_value": 4136.5,
+          "irr_10yr": 0.063547
+        },
+        {
+          "fcfa2s_cagr": 0.08,
+          "exit_multiple": 25,
+          "exit_fcfa2s_per_share": 206.8248,
+          "exit_value": 5170.62,
+          "irr_10yr": 0.087401
+        },
+        {
+          "fcfa2s_cagr": 0.08,
+          "exit_multiple": 30,
+          "exit_fcfa2s_per_share": 206.8248,
+          "exit_value": 6204.74,
+          "irr_10yr": 0.107303
+        },
+        {
+          "fcfa2s_cagr": 0.1,
+          "exit_multiple": 12,
+          "exit_fcfa2s_per_share": 248.4803,
+          "exit_value": 2981.76,
+          "irr_10yr": 0.029539
+        },
+        {
+          "fcfa2s_cagr": 0.1,
+          "exit_multiple": 15,
+          "exit_fcfa2s_per_share": 248.4803,
+          "exit_value": 3727.2,
+          "irr_10yr": 0.052596
+        },
+        {
+          "fcfa2s_cagr": 0.1,
+          "exit_multiple": 20,
+          "exit_fcfa2s_per_share": 248.4803,
+          "exit_value": 4969.61,
+          "irr_10yr": 0.083122
+        },
+        {
+          "fcfa2s_cagr": 0.1,
+          "exit_multiple": 25,
+          "exit_fcfa2s_per_share": 248.4803,
+          "exit_value": 6212.01,
+          "irr_10yr": 0.107432
+        },
+        {
+          "fcfa2s_cagr": 0.1,
+          "exit_multiple": 30,
+          "exit_fcfa2s_per_share": 248.4803,
+          "exit_value": 7454.41,
+          "irr_10yr": 0.127711
+        },
+        {
+          "fcfa2s_cagr": 0.12,
+          "exit_multiple": 12,
+          "exit_fcfa2s_per_share": 297.54,
+          "exit_value": 3570.48,
+          "irr_10yr": 0.048116
+        },
+        {
+          "fcfa2s_cagr": 0.12,
+          "exit_multiple": 15,
+          "exit_fcfa2s_per_share": 297.54,
+          "exit_value": 4463.1,
+          "irr_10yr": 0.071609
+        },
+        {
+          "fcfa2s_cagr": 0.12,
+          "exit_multiple": 20,
+          "exit_fcfa2s_per_share": 297.54,
+          "exit_value": 5950.8,
+          "irr_10yr": 0.102708
+        },
+        {
+          "fcfa2s_cagr": 0.12,
+          "exit_multiple": 25,
+          "exit_fcfa2s_per_share": 297.54,
+          "exit_value": 7438.5,
+          "irr_10yr": 0.127472
+        },
+        {
+          "fcfa2s_cagr": 0.12,
+          "exit_multiple": 30,
+          "exit_fcfa2s_per_share": 297.54,
+          "exit_value": 8926.2,
+          "irr_10yr": 0.148129
+        },
+        {
+          "fcfa2s_cagr": 0.15,
+          "exit_multiple": 12,
+          "exit_fcfa2s_per_share": 387.564,
+          "exit_value": 4650.77,
+          "irr_10yr": 0.076005
+        },
+        {
+          "fcfa2s_cagr": 0.15,
+          "exit_multiple": 15,
+          "exit_fcfa2s_per_share": 387.564,
+          "exit_value": 5813.46,
+          "irr_10yr": 0.100149
+        },
+        {
+          "fcfa2s_cagr": 0.15,
+          "exit_multiple": 20,
+          "exit_fcfa2s_per_share": 387.564,
+          "exit_value": 7751.28,
+          "irr_10yr": 0.132105
+        },
+        {
+          "fcfa2s_cagr": 0.15,
+          "exit_multiple": 25,
+          "exit_fcfa2s_per_share": 387.564,
+          "exit_value": 9689.1,
+          "irr_10yr": 0.157547
+        },
+        {
+          "fcfa2s_cagr": 0.15,
+          "exit_multiple": 30,
+          "exit_fcfa2s_per_share": 387.564,
+          "exit_value": 11626.92,
+          "irr_10yr": 0.178769
+        }
+      ]
+    },
+    "entry_usd_2080_29_at_usdcad_1_3594": {
+      "entry_price_usd": 2080.285420038252,
+      "source_note": "[metrics:post_review:fx_sensitivity:entry_price_usd @ usdcad=1.3594] corrected-FX entry price.",
+      "base_fcfa2s_per_share": 95.79990561585653,
+      "base_fcfa2s_per_share_source": "[metrics:scenario_inputs:current_fcfa2s_per_share]",
+      "dividend_per_share_per_year": 4.0,
+      "n_years": 10,
+      "formula": "entry_price = sum_{t=1..10}(dividend/(1+r)^t) + exit_value/(1+r)^10, exit_value = base_fcfa2s_per_share*(1+cagr)^10 * exit_multiple, solved for r via bisection. Dividends are held as uninvested cash (not reinvested at any assumed return) -- each is a separate cash flow at its own year, discounted individually.",
+      "cagr_axis": [
+        0,
+        0.04,
+        0.06,
+        0.08,
+        0.1,
+        0.12,
+        0.15
+      ],
+      "exit_multiple_axis": [
+        12,
+        15,
+        20,
+        25,
+        30
+      ],
+      "grid": [
+        {
+          "fcfa2s_cagr": 0,
+          "exit_multiple": 12,
+          "exit_fcfa2s_per_share": 95.7999,
+          "exit_value": 1149.6,
+          "irr_10yr": -0.05504
+        },
+        {
+          "fcfa2s_cagr": 0,
+          "exit_multiple": 15,
+          "exit_fcfa2s_per_share": 95.7999,
+          "exit_value": 1437.0,
+          "irr_10yr": -0.034037
+        },
+        {
+          "fcfa2s_cagr": 0,
+          "exit_multiple": 20,
+          "exit_fcfa2s_per_share": 95.7999,
+          "exit_value": 1916.0,
+          "irr_10yr": -0.006197
+        },
+        {
+          "fcfa2s_cagr": 0,
+          "exit_multiple": 25,
+          "exit_fcfa2s_per_share": 95.7999,
+          "exit_value": 2395.0,
+          "irr_10yr": 0.015994
+        },
+        {
+          "fcfa2s_cagr": 0,
+          "exit_multiple": 30,
+          "exit_fcfa2s_per_share": 95.7999,
+          "exit_value": 2874.0,
+          "irr_10yr": 0.034518
+        },
+        {
+          "fcfa2s_cagr": 0.04,
+          "exit_multiple": 12,
+          "exit_fcfa2s_per_share": 141.8073,
+          "exit_value": 1701.69,
+          "irr_10yr": -0.017781
+        },
+        {
+          "fcfa2s_cagr": 0.04,
+          "exit_multiple": 15,
+          "exit_fcfa2s_per_share": 141.8073,
+          "exit_value": 2127.11,
+          "irr_10yr": 0.004132
+        },
+        {
+          "fcfa2s_cagr": 0.04,
+          "exit_multiple": 20,
+          "exit_fcfa2s_per_share": 141.8073,
+          "exit_value": 2836.15,
+          "irr_10yr": 0.033159
+        },
+        {
+          "fcfa2s_cagr": 0.04,
+          "exit_multiple": 25,
+          "exit_fcfa2s_per_share": 141.8073,
+          "exit_value": 3545.18,
+          "irr_10yr": 0.056286
+        },
+        {
+          "fcfa2s_cagr": 0.04,
+          "exit_multiple": 30,
+          "exit_fcfa2s_per_share": 141.8073,
+          "exit_value": 4254.22,
+          "irr_10yr": 0.075586
+        },
+        {
+          "fcfa2s_cagr": 0.06,
+          "exit_multiple": 12,
+          "exit_fcfa2s_per_share": 171.563,
+          "exit_value": 2058.76,
+          "irr_10yr": 0.000892
+        },
+        {
+          "fcfa2s_cagr": 0.06,
+          "exit_multiple": 15,
+          "exit_fcfa2s_per_share": 171.563,
+          "exit_value": 2573.45,
+          "irr_10yr": 0.023253
+        },
+        {
+          "fcfa2s_cagr": 0.06,
+          "exit_multiple": 20,
+          "exit_fcfa2s_per_share": 171.563,
+          "exit_value": 3431.26,
+          "irr_10yr": 0.052867
+        },
+        {
+          "fcfa2s_cagr": 0.06,
+          "exit_multiple": 25,
+          "exit_fcfa2s_per_share": 171.563,
+          "exit_value": 4289.08,
+          "irr_10yr": 0.076458
+        },
+        {
+          "fcfa2s_cagr": 0.06,
+          "exit_multiple": 30,
+          "exit_fcfa2s_per_share": 171.563,
+          "exit_value": 5146.89,
+          "irr_10yr": 0.096143
+        },
+        {
+          "fcfa2s_cagr": 0.08,
+          "exit_multiple": 12,
+          "exit_fcfa2s_per_share": 206.8248,
+          "exit_value": 2481.9,
+          "irr_10yr": 0.019587
+        },
+        {
+          "fcfa2s_cagr": 0.08,
+          "exit_multiple": 15,
+          "exit_fcfa2s_per_share": 206.8248,
+          "exit_value": 3102.37,
+          "irr_10yr": 0.042393
+        },
+        {
+          "fcfa2s_cagr": 0.08,
+          "exit_multiple": 20,
+          "exit_fcfa2s_per_share": 206.8248,
+          "exit_value": 4136.5,
+          "irr_10yr": 0.072592
+        },
+        {
+          "fcfa2s_cagr": 0.08,
+          "exit_multiple": 25,
+          "exit_fcfa2s_per_share": 206.8248,
+          "exit_value": 5170.62,
+          "irr_10yr": 0.096644
+        },
+        {
+          "fcfa2s_cagr": 0.08,
+          "exit_multiple": 30,
+          "exit_fcfa2s_per_share": 206.8248,
+          "exit_value": 6204.74,
+          "irr_10yr": 0.116712
+        },
+        {
+          "fcfa2s_cagr": 0.1,
+          "exit_multiple": 12,
+          "exit_fcfa2s_per_share": 248.4803,
+          "exit_value": 2981.76,
+          "irr_10yr": 0.038302
+        },
+        {
+          "fcfa2s_cagr": 0.1,
+          "exit_multiple": 15,
+          "exit_fcfa2s_per_share": 248.4803,
+          "exit_value": 3727.2,
+          "irr_10yr": 0.06155
+        },
+        {
+          "fcfa2s_cagr": 0.1,
+          "exit_multiple": 20,
+          "exit_fcfa2s_per_share": 248.4803,
+          "exit_value": 4969.61,
+          "irr_10yr": 0.092329
+        },
+        {
+          "fcfa2s_cagr": 0.1,
+          "exit_multiple": 25,
+          "exit_fcfa2s_per_share": 248.4803,
+          "exit_value": 6212.01,
+          "irr_10yr": 0.116842
+        },
+        {
+          "fcfa2s_cagr": 0.1,
+          "exit_multiple": 30,
+          "exit_fcfa2s_per_share": 248.4803,
+          "exit_value": 7454.41,
+          "irr_10yr": 0.137291
+        },
+        {
+          "fcfa2s_cagr": 0.12,
+          "exit_multiple": 12,
+          "exit_fcfa2s_per_share": 297.54,
+          "exit_value": 3570.48,
+          "irr_10yr": 0.057032
+        },
+        {
+          "fcfa2s_cagr": 0.12,
+          "exit_multiple": 15,
+          "exit_fcfa2s_per_share": 297.54,
+          "exit_value": 4463.1,
+          "irr_10yr": 0.080721
+        },
+        {
+          "fcfa2s_cagr": 0.12,
+          "exit_multiple": 20,
+          "exit_fcfa2s_per_share": 297.54,
+          "exit_value": 5950.8,
+          "irr_10yr": 0.112079
+        },
+        {
+          "fcfa2s_cagr": 0.12,
+          "exit_multiple": 25,
+          "exit_fcfa2s_per_share": 297.54,
+          "exit_value": 7438.5,
+          "irr_10yr": 0.137049
+        },
+        {
+          "fcfa2s_cagr": 0.12,
+          "exit_multiple": 30,
+          "exit_fcfa2s_per_share": 297.54,
+          "exit_value": 8926.2,
+          "irr_10yr": 0.157879
+        },
+        {
+          "fcfa2s_cagr": 0.15,
+          "exit_multiple": 12,
+          "exit_fcfa2s_per_share": 387.564,
+          "exit_value": 4650.77,
+          "irr_10yr": 0.085154
+        },
+        {
+          "fcfa2s_cagr": 0.15,
+          "exit_multiple": 15,
+          "exit_fcfa2s_per_share": 387.564,
+          "exit_value": 5813.46,
+          "irr_10yr": 0.109499
+        },
+        {
+          "fcfa2s_cagr": 0.15,
+          "exit_multiple": 20,
+          "exit_fcfa2s_per_share": 387.564,
+          "exit_value": 7751.28,
+          "irr_10yr": 0.141721
+        },
+        {
+          "fcfa2s_cagr": 0.15,
+          "exit_multiple": 25,
+          "exit_fcfa2s_per_share": 387.564,
+          "exit_value": 9689.1,
+          "irr_10yr": 0.167376
+        },
+        {
+          "fcfa2s_cagr": 0.15,
+          "exit_multiple": 30,
+          "exit_fcfa2s_per_share": 387.564,
+          "exit_value": 11626.92,
+          "irr_10yr": 0.188775
+        }
+      ]
+    }
+  },
+  "ten_year_history": {
+    "longest_available": {
+      "revenue_cagr": {
+        "value": 0.207486,
+        "formula": "(revenue[end]/revenue[start])^(1/n_years) - 1",
+        "inputs": {
+          "value_2016": 2130,
+          "value_2025": 11623,
+          "n_years": 9
+        }
+      },
+      "fcfa2s_cagr": {
+        "value": 0.164617,
+        "formula": "(fcfa2s[end]/fcfa2s[start])^(1/n_years) - 1",
+        "inputs": {
+          "value_2018": 559,
+          "value_2021": 883,
+          "n_years": 3
+        }
+      },
+      "fcfa2s_per_share_cagr": {
+        "value": null,
+        "formula": "(fcfa2s[end]/shares[end]) / (fcfa2s[start]/shares[start]))^(1/n_years) - 1",
+        "inputs": {
+          "shares_outstanding_years_on_file": [
+            2025
+          ]
+        },
+        "note": "fcfa2s_per_share_cagr[longest_available]: parent_long_run.shares_outstanding has only one year on file ([2025]); no historical share-count series exists to compute a per-share CAGR."
+      },
+      "average_organic_growth_pct": {
+        "value": 0.5,
+        "formula": "mean(organic_growth_pct[years in window])",
+        "inputs": {
+          "years_used": [
+            2015,
+            2016,
+            2017,
+            2019,
+            2020,
+            2021
+          ],
+          "values": [
+            -3,
+            0,
+            3,
+            -1,
+            -3,
+            7
+          ]
+        },
+        "note": "average excludes years with no parent_long_run.organic_growth_pct figure: [2018]"
+      },
+      "average_acquisitions_to_fcfa2s": {
+        "value": 0.926092,
+        "formula": "mean(acquisitions_cash_spent[y]/fcfa2s[y] for y in years where both exist)",
+        "inputs": {
+          "years_used": [
+            2018,
+            2019,
+            2020,
+            2021
+          ],
+          "ratios": [
+            1.0787,
+            0.9305,
+            0.181,
+            1.5142
+          ]
+        }
+      }
+    },
+    "2015_2020": {
+      "revenue_cagr": {
+        "value": null,
+        "formula": "(revenue[end]/revenue[start])^(1/n_years) - 1",
+        "inputs": {
+          "missing": "need both 2015 and 2020 in series; have [2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]"
+        },
+        "note": "revenue_cagr[2015_2020]: missing endpoint(s) in parent_long_run.revenue -- need both 2015 and 2020 in series; have [2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]"
+      },
+      "fcfa2s_cagr": {
+        "value": null,
+        "formula": "(fcfa2s[end]/fcfa2s[start])^(1/n_years) - 1",
+        "inputs": {
+          "missing": "need both 2015 and 2020 in series; have [2018, 2019, 2020, 2021]"
+        },
+        "note": "fcfa2s_cagr[2015_2020]: missing endpoint(s) in parent_long_run.fcfa2s (only FY2018-FY2021 on file) -- need both 2015 and 2020 in series; have [2018, 2019, 2020, 2021]"
+      },
+      "fcfa2s_per_share_cagr": {
+        "value": null,
+        "formula": "(fcfa2s[end]/shares[end]) / (fcfa2s[start]/shares[start]))^(1/n_years) - 1",
+        "inputs": {
+          "shares_outstanding_years_on_file": [
+            2025
+          ]
+        },
+        "note": "fcfa2s_per_share_cagr[2015_2020]: parent_long_run.shares_outstanding has only one year on file ([2025]); no historical share-count series exists to compute a per-share CAGR."
+      },
+      "average_organic_growth_pct": {
+        "value": -0.8,
+        "formula": "mean(organic_growth_pct[years in window])",
+        "inputs": {
+          "years_used": [
+            2015,
+            2016,
+            2017,
+            2019,
+            2020
+          ],
+          "values": [
+            -3,
+            0,
+            3,
+            -1,
+            -3
+          ]
+        },
+        "note": "average excludes years with no parent_long_run.organic_growth_pct figure: [2018]"
+      },
+      "average_acquisitions_to_fcfa2s": {
+        "value": 0.73007,
+        "formula": "mean(acquisitions_cash_spent[y]/fcfa2s[y] for y in years where both exist)",
+        "inputs": {
+          "years_used": [
+            2018,
+            2019,
+            2020
+          ],
+          "ratios": [
+            1.0787,
+            0.9305,
+            0.181
+          ]
+        }
+      }
+    },
+    "2020_2025": {
+      "revenue_cagr": {
+        "value": 0.239668,
+        "formula": "(revenue[end]/revenue[start])^(1/n_years) - 1",
+        "inputs": {
+          "value_2020": 3970,
+          "value_2025": 11623,
+          "n_years": 5
+        }
+      },
+      "fcfa2s_cagr": {
+        "value": null,
+        "formula": "(fcfa2s[end]/fcfa2s[start])^(1/n_years) - 1",
+        "inputs": {
+          "missing": "need both 2020 and 2025 in series; have [2018, 2019, 2020, 2021]"
+        },
+        "note": "fcfa2s_cagr[2020_2025]: missing endpoint(s) in parent_long_run.fcfa2s (only FY2018-FY2021 on file) -- need both 2020 and 2025 in series; have [2018, 2019, 2020, 2021]"
+      },
+      "fcfa2s_per_share_cagr": {
+        "value": null,
+        "formula": "(fcfa2s[end]/shares[end]) / (fcfa2s[start]/shares[start]))^(1/n_years) - 1",
+        "inputs": {
+          "shares_outstanding_years_on_file": [
+            2025
+          ]
+        },
+        "note": "fcfa2s_per_share_cagr[2020_2025]: parent_long_run.shares_outstanding has only one year on file ([2025]); no historical share-count series exists to compute a per-share CAGR."
+      },
+      "average_organic_growth_pct": {
+        "value": 2.0,
+        "formula": "mean(organic_growth_pct[years in window])",
+        "inputs": {
+          "years_used": [
+            2020,
+            2021
+          ],
+          "values": [
+            -3,
+            7
+          ]
+        },
+        "note": "average excludes years with no parent_long_run.organic_growth_pct figure: [2022, 2023, 2024, 2025]"
+      },
+      "average_acquisitions_to_fcfa2s": {
+        "value": 0.847574,
+        "formula": "mean(acquisitions_cash_spent[y]/fcfa2s[y] for y in years where both exist)",
+        "inputs": {
+          "years_used": [
+            2020,
+            2021
+          ],
+          "ratios": [
+            0.181,
+            1.5142
+          ]
+        }
+      }
+    }
+  },
+  "listed_subsidiaries": {
+    "topicus": {
+      "revenue_growth_yoy": {
+        "FY2023": {
+          "value": null,
+          "formula": "revenue[FY2023]/revenue[FY2022] - 1",
+          "inputs": {
+            "revenue.FY2023": 1125.0
+          },
+          "note": "topicus revenue_growth_yoy[FY2023]: no FY2022 revenue in holdings.json."
+        },
+        "FY2024": {
+          "value": 0.151022,
+          "formula": "revenue[FY2024]/revenue[FY2023] - 1",
+          "inputs": {
+            "revenue.FY2024": 1294.9,
+            "revenue.FY2023": 1125.0
+          }
+        },
+        "FY2025": {
+          "value": 0.19878,
+          "formula": "revenue[FY2025]/revenue[FY2024] - 1",
+          "inputs": {
+            "revenue.FY2025": 1552.3,
+            "revenue.FY2024": 1294.9
+          }
+        },
+        "Q1 2025": {
+          "value": null,
+          "formula": "revenue[Q1 2025]/revenue[Q1 2024] - 1",
+          "inputs": {
+            "revenue.Q1 2025": 355.6
+          },
+          "note": "topicus revenue_growth_yoy[Q1 2025]: no Q1 2024 revenue in holdings.json."
+        },
+        "Q2 2025": {
+          "value": null,
+          "formula": "revenue[Q2 2025]/revenue[Q2 2024] - 1",
+          "inputs": {
+            "revenue.Q2 2025": 372.0
+          },
+          "note": "topicus revenue_growth_yoy[Q2 2025]: no Q2 2024 revenue in holdings.json."
+        },
+        "H1 2025": {
+          "value": null,
+          "formula": "revenue[H1 2025]/revenue[H1 2024] - 1",
+          "inputs": {
+            "revenue.H1 2025": 726.3
+          },
+          "note": "topicus revenue_growth_yoy[H1 2025]: no H1 2024 revenue in holdings.json."
+        },
+        "H1 2026": {
+          "value": 0.201845,
+          "formula": "revenue[H1 2026]/revenue[H1 2025] - 1",
+          "inputs": {
+            "revenue.H1 2026": 872.9,
+            "revenue.H1 2025": 726.3
+          }
+        },
+        "Q2 2026": {
+          "value": 0.175538,
+          "formula": "revenue[Q2 2026]/revenue[Q2 2025] - 1",
+          "inputs": {
+            "revenue.Q2 2026": 437.3,
+            "revenue.Q2 2025": 372.0
+          }
+        }
+      },
+      "organic_growth_pct": {
+        "FY2024": {
+          "value": 5,
+          "formula": "holdings.<slug>.fields.organic_growth_pct.<period>.value (disclosed, not computed)",
+          "inputs": {
+            "organic_growth_pct": 5
+          },
+          "unit": "percent",
+          "note": "[holdings:topicus:organic_growth_pct:FY2024]"
+        },
+        "FY2025": {
+          "value": 4,
+          "formula": "holdings.<slug>.fields.organic_growth_pct.<period>.value (disclosed, not computed)",
+          "inputs": {
+            "organic_growth_pct": 4
+          },
+          "unit": "percent",
+          "note": "[holdings:topicus:organic_growth_pct:FY2025]"
+        },
+        "Q1 2025": {
+          "value": 4,
+          "formula": "holdings.<slug>.fields.organic_growth_pct.<period>.value (disclosed, not computed)",
+          "inputs": {
+            "organic_growth_pct": 4
+          },
+          "unit": "percent",
+          "note": "[holdings:topicus:organic_growth_pct:Q1 2025]"
+        },
+        "Q2 2025": {
+          "value": 5,
+          "formula": "holdings.<slug>.fields.organic_growth_pct.<period>.value (disclosed, not computed)",
+          "inputs": {
+            "organic_growth_pct": 5
+          },
+          "unit": "percent",
+          "note": "[holdings:topicus:organic_growth_pct:Q2 2025]"
+        },
+        "Q2 2026": {
+          "value": 4,
+          "formula": "holdings.<slug>.fields.organic_growth_pct.<period>.value (disclosed, not computed)",
+          "inputs": {
+            "organic_growth_pct": 4
+          },
+          "unit": "percent",
+          "note": "[holdings:topicus:organic_growth_pct:Q2 2026]"
+        }
+      },
+      "maintenance_share_of_revenue": {
+        "value": 70,
+        "formula": "holdings.<slug>.fields.maintenance_recurring_revenue.value (disclosed percentage, not computed)",
+        "inputs": {
+          "maintenance_recurring_revenue_pct": 70
+        },
+        "unit": "percent of total revenue (approximate)",
+        "note": "[holdings:topicus:maintenance_recurring_revenue]"
+      },
+      "fcfa2s_margin": {
+        "FY2024": {
+          "value": 0.136999,
+          "formula": "fcfa2s[FY2024]/revenue[FY2024]",
+          "inputs": {
+            "fcfa2s.FY2024": 177.4,
+            "revenue.FY2024": 1294.9
+          }
+        },
+        "FY2025": {
+          "value": 0.140888,
+          "formula": "fcfa2s[FY2025]/revenue[FY2025]",
+          "inputs": {
+            "fcfa2s.FY2025": 218.7,
+            "revenue.FY2025": 1552.3
+          }
+        },
+        "H1 2026": {
+          "value": 0.206324,
+          "formula": "fcfa2s[H1 2026]/revenue[H1 2026]",
+          "inputs": {
+            "fcfa2s.H1 2026": 180.1,
+            "revenue.H1 2026": 872.9
+          }
+        },
+        "Q2 2026": {
+          "value": 0.033387,
+          "formula": "fcfa2s[Q2 2026]/revenue[Q2 2026]",
+          "inputs": {
+            "fcfa2s.Q2 2026": 14.6,
+            "revenue.Q2 2026": 437.3
+          }
+        }
+      },
+      "acquisitions_to_fcfa2s": {
+        "FY2024": {
+          "value": 0.307779,
+          "formula": "acquisitions_cash_spent[FY2024]/fcfa2s[FY2024]",
+          "inputs": {
+            "acquisitions_cash_spent.FY2024": 54.6,
+            "fcfa2s.FY2024": 177.4
+          }
+        },
+        "FY2025": {
+          "value": 1.785094,
+          "formula": "acquisitions_cash_spent[FY2025]/fcfa2s[FY2025]",
+          "inputs": {
+            "acquisitions_cash_spent.FY2025": 390.4,
+            "fcfa2s.FY2025": 218.7
+          }
+        },
+        "Q2 2026": {
+          "value": 2.753425,
+          "formula": "acquisitions_cash_spent[Q2 2026]/fcfa2s[Q2 2026]",
+          "inputs": {
+            "acquisitions_cash_spent.Q2 2026": 40.2,
+            "fcfa2s.Q2 2026": 14.6
+          }
+        }
+      },
+      "net_debt": {
+        "Q2 2026": {
+          "value": 127.3,
+          "formula": "total_debt - cash",
+          "inputs": {
+            "total_debt": 458.47,
+            "cash": 331.17
+          },
+          "unit": "EUR millions"
+        }
+      }
+    },
+    "lumine": {
+      "revenue_growth_yoy": {
+        "FY2023": {
+          "value": null,
+          "formula": "revenue[FY2023]/revenue[FY2022] - 1",
+          "inputs": {
+            "revenue.FY2023": 499.7
+          },
+          "note": "lumine revenue_growth_yoy[FY2023]: no FY2022 revenue in holdings.json."
+        },
+        "FY2024": {
+          "value": 0.337603,
+          "formula": "revenue[FY2024]/revenue[FY2023] - 1",
+          "inputs": {
+            "revenue.FY2024": 668.4,
+            "revenue.FY2023": 499.7
+          }
+        },
+        "FY2025": {
+          "value": 0.145572,
+          "formula": "revenue[FY2025]/revenue[FY2024] - 1",
+          "inputs": {
+            "revenue.FY2025": 765.7,
+            "revenue.FY2024": 668.4
+          }
+        },
+        "Q1 2026": {
+          "value": null,
+          "formula": "revenue[Q1 2026]/revenue[Q1 2025] - 1",
+          "inputs": {
+            "revenue.Q1 2026": 208.3
+          },
+          "note": "lumine revenue_growth_yoy[Q1 2026]: no Q1 2025 revenue in holdings.json."
+        },
+        "Q2 2026": {
+          "value": null,
+          "formula": "revenue[Q2 2026]/revenue[Q2 2025] - 1",
+          "inputs": {
+            "revenue.Q2 2026": 235.1
+          },
+          "note": "lumine revenue_growth_yoy[Q2 2026]: no Q2 2025 revenue in holdings.json."
+        },
+        "H1 2026": {
+          "value": null,
+          "formula": "revenue[H1 2026]/revenue[H1 2025] - 1",
+          "inputs": {
+            "revenue.H1 2026": 443.4
+          },
+          "note": "lumine revenue_growth_yoy[H1 2026]: no H1 2025 revenue in holdings.json."
+        }
+      },
+      "organic_growth_pct": {
+        "FY2023": {
+          "value": 0,
+          "formula": "holdings.<slug>.fields.organic_growth_pct.<period>.value (disclosed, not computed)",
+          "inputs": {
+            "organic_growth_pct": 0
+          },
+          "unit": "percent (FX-adjusted)",
+          "note": "[holdings:lumine:organic_growth_pct:FY2023]"
+        },
+        "FY2024": {
+          "value": -8,
+          "formula": "holdings.<slug>.fields.organic_growth_pct.<period>.value (disclosed, not computed)",
+          "inputs": {
+            "organic_growth_pct": -8
+          },
+          "unit": "percent",
+          "note": "[holdings:lumine:organic_growth_pct:FY2024]"
+        },
+        "FY2025": {
+          "value": 2,
+          "formula": "holdings.<slug>.fields.organic_growth_pct.<period>.value (disclosed, not computed)",
+          "inputs": {
+            "organic_growth_pct": 2
+          },
+          "unit": "percent",
+          "note": "[holdings:lumine:organic_growth_pct:FY2025]"
+        },
+        "Q1 2026": {
+          "value": 0,
+          "formula": "holdings.<slug>.fields.organic_growth_pct.<period>.value (disclosed, not computed)",
+          "inputs": {
+            "organic_growth_pct": 0
+          },
+          "unit": "percent",
+          "note": "[holdings:lumine:organic_growth_pct:Q1 2026]"
+        },
+        "Q2 2026": {
+          "value": 1,
+          "formula": "holdings.<slug>.fields.organic_growth_pct.<period>.value (disclosed, not computed)",
+          "inputs": {
+            "organic_growth_pct": 1
+          },
+          "unit": "percent",
+          "note": "[holdings:lumine:organic_growth_pct:Q2 2026]"
+        }
+      },
+      "maintenance_share_of_revenue": {
+        "value": null,
+        "formula": "maintenance_recurring_revenue / revenue",
+        "inputs": {},
+        "note": "lumine: no maintenance_recurring_revenue field in holdings.json."
+      },
+      "fcfa2s_margin": {
+        "FY2024": {
+          "value": 0.128217,
+          "formula": "fcfa2s[FY2024]/revenue[FY2024]",
+          "inputs": {
+            "fcfa2s.FY2024": 85.7,
+            "revenue.FY2024": 668.4
+          }
+        },
+        "FY2025": {
+          "value": 0.283401,
+          "formula": "fcfa2s[FY2025]/revenue[FY2025]",
+          "inputs": {
+            "fcfa2s.FY2025": 217.0,
+            "revenue.FY2025": 765.7
+          }
+        },
+        "Q4 2025": {
+          "value": null,
+          "formula": "fcfa2s[Q4 2025]/revenue[Q4 2025]",
+          "inputs": {
+            "fcfa2s.Q4 2025": 67.1
+          },
+          "note": "lumine fcfa2s_margin[Q4 2025]: no revenue figure for Q4 2025 in holdings.json."
+        },
+        "Q1 2026": {
+          "value": 0.073452,
+          "formula": "fcfa2s[Q1 2026]/revenue[Q1 2026]",
+          "inputs": {
+            "fcfa2s.Q1 2026": 15.3,
+            "revenue.Q1 2026": 208.3
+          }
+        },
+        "Q2 2026": {
+          "value": 0.256912,
+          "formula": "fcfa2s[Q2 2026]/revenue[Q2 2026]",
+          "inputs": {
+            "fcfa2s.Q2 2026": 60.4,
+            "revenue.Q2 2026": 235.1
+          }
+        }
+      },
+      "acquisitions_to_fcfa2s": {
+        "FY2025": {
+          "value": 1.435484,
+          "formula": "acquisitions_cash_spent[FY2025]/fcfa2s[FY2025]",
+          "inputs": {
+            "acquisitions_cash_spent.FY2025": 311.5,
+            "fcfa2s.FY2025": 217.0
+          }
+        }
+      },
+      "net_debt": {
+        "FY2025": {
+          "value": -142.4,
+          "formula": "total_debt.value_usd_2025 - cash.FY2025",
+          "inputs": {
+            "total_debt": 210.0,
+            "cash": 352.4
+          },
+          "unit": "USD millions",
+          "note": "cash figure is third_party (CB Insights), not independently verified against the audited FY2025 balance sheet [holdings:lumine:cash:FY2025]"
+        }
+      }
+    }
+  },
+  "concentration": {
+    "revenue_share": {
+      "volaris": {
+        "FY2024": {
+          "value": 0.31214,
+          "formula": "volaris_revenue[FY2024] / parent_revenue[FY2024]",
+          "inputs": {
+            "volaris_revenue": 3142,
+            "parent_revenue": 10066
+          },
+          "note": "[volaris] this group's figures carry a conflict/flag in holdings.json (see conflicts); share computed from the sourced value as-is."
+        },
+        "FY2025": {
+          "value": 0.261378,
+          "formula": "volaris_revenue[FY2025] / parent_revenue[FY2025]",
+          "inputs": {
+            "volaris_revenue": 3038,
+            "parent_revenue": 11623
+          },
+          "note": "[volaris] this group's figures carry a conflict/flag in holdings.json (see conflicts); share computed from the sourced value as-is."
+        },
+        "FY2026": {
+          "value": null,
+          "formula": "volaris_revenue[FY2026] / parent_revenue[FY2026]",
+          "inputs": {
+            "volaris_revenue": 3400
+          },
+          "note": "volaris revenue_share[FY2026]: parent_long_run.revenue has no FY2026 figure."
+        }
+      },
+      "harris": {
+        "FY2026": {
+          "value": null,
+          "formula": "harris_revenue[FY2026] / parent_revenue[FY2026]",
+          "inputs": {
+            "harris_revenue": 1400
+          },
+          "note": "harris revenue_share[FY2026]: parent_long_run.revenue has no FY2026 figure."
+        }
+      },
+      "jonas": {
+        "FY2024": {
+          "value": 0.083469,
+          "formula": "jonas_revenue[FY2024] / parent_revenue[FY2024]",
+          "inputs": {
+            "jonas_revenue": 840.2,
+            "parent_revenue": 10066
+          }
+        }
+      },
+      "perseus": {
+        "value": null,
+        "formula": "group_revenue[year] / parent_revenue[year]",
+        "inputs": {},
+        "note": "perseus revenue_share: no revenue figure in holdings.json for this group (see gaps)."
+      },
+      "vela": {
+        "value": null,
+        "formula": "group_revenue[year] / parent_revenue[year]",
+        "inputs": {},
+        "note": "vela revenue_share: no USD-denominated revenue figure in holdings.json for this group."
+      },
+      "topicus": {
+        "value": null,
+        "formula": "group_revenue[year] / parent_revenue[year]",
+        "inputs": {},
+        "note": "topicus revenue_share: no USD-denominated revenue figure in holdings.json for this group."
+      },
+      "lumine": {
+        "FY2023": {
+          "value": 0.059439,
+          "formula": "lumine_revenue[FY2023] / parent_revenue[FY2023]",
+          "inputs": {
+            "lumine_revenue": 499.7,
+            "parent_revenue": 8407
+          }
+        },
+        "FY2024": {
+          "value": 0.066402,
+          "formula": "lumine_revenue[FY2024] / parent_revenue[FY2024]",
+          "inputs": {
+            "lumine_revenue": 668.4,
+            "parent_revenue": 10066
+          }
+        },
+        "FY2025": {
+          "value": 0.065878,
+          "formula": "lumine_revenue[FY2025] / parent_revenue[FY2025]",
+          "inputs": {
+            "lumine_revenue": 765.7,
+            "parent_revenue": 11623
+          }
+        },
+        "FY2026": {
+          "value": null,
+          "formula": "lumine_revenue[FY2026] / parent_revenue[FY2026]",
+          "inputs": {
+            "lumine_revenue": 443.4
+          },
+          "note": "lumine revenue_share[FY2026]: parent_long_run.revenue has no FY2026 figure."
+        }
+      },
+      "omegro": {
+        "value": null,
+        "formula": "group_revenue[year] / parent_revenue[year]",
+        "inputs": {},
+        "note": "omegro revenue_share: no revenue figure in holdings.json for this group (see gaps)."
+      }
+    },
+    "headcount_share": {
+      "volaris": {
+        "~2025": {
+          "value": null,
+          "formula": "volaris_headcount[~2025] / parent_headcount[~2025]",
+          "inputs": {
+            "volaris_headcount": 17500
+          },
+          "note": "volaris headcount_share[~2025]: parent_long_run.headcount has no figure for year 2025."
+        }
+      },
+      "harris": {
+        "~2025": {
+          "value": null,
+          "formula": "harris_headcount[~2025] / parent_headcount[~2025]",
+          "inputs": {
+            "harris_headcount": 24714
+          },
+          "note": "harris headcount_share[~2025]: parent_long_run.headcount has no figure for year 2025."
+        },
+        "~2024": {
+          "value": 0.400109,
+          "formula": "harris_headcount[~2024] / parent_headcount[~2024]",
+          "inputs": {
+            "harris_headcount": 25607,
+            "parent_headcount": 64000
+          },
+          "note": "parent headcount figure is a low-confidence third-party approximation [holdings:parent_long_run:headcount]"
+        }
+      },
+      "jonas": {
+        "~2024": {
+          "value": 0.09375,
+          "formula": "jonas_headcount[~2024] / parent_headcount[~2024]",
+          "inputs": {
+            "jonas_headcount": 6000,
+            "parent_headcount": 64000
+          },
+          "note": "parent headcount figure is a low-confidence third-party approximation [holdings:parent_long_run:headcount]"
+        }
+      },
+      "perseus": {
+        "~2024": {
+          "value": 0.09375,
+          "formula": "perseus_headcount[~2024] / parent_headcount[~2024]",
+          "inputs": {
+            "perseus_headcount": 6000,
+            "parent_headcount": 64000
+          },
+          "note": "parent headcount figure is a low-confidence third-party approximation [holdings:parent_long_run:headcount]"
+        }
+      },
+      "vela": {
+        "~2026": {
+          "value": null,
+          "formula": "vela_headcount[~2026] / parent_headcount[~2026]",
+          "inputs": {
+            "vela_headcount": 3809
+          },
+          "note": "vela headcount_share[~2026]: parent_long_run.headcount has no figure for year 2026."
+        },
+        "~2023": {
+          "value": null,
+          "formula": "vela_headcount[~2023] / parent_headcount[~2023]",
+          "inputs": {
+            "vela_headcount": 3901
+          },
+          "note": "vela headcount_share[~2023]: parent_long_run.headcount has no figure for year 2023."
+        }
+      },
+      "topicus": {
+        "value": null,
+        "formula": "group_headcount[year] / parent_headcount[year]",
+        "inputs": {},
+        "note": "topicus headcount_share: no employees figure in holdings.json for this group."
+      },
+      "lumine": {
+        "value": null,
+        "formula": "group_headcount[year] / parent_headcount[year]",
+        "inputs": {},
+        "note": "lumine headcount_share: no employees figure in holdings.json for this group."
+      },
+      "omegro": {
+        "~2024": {
+          "value": 0.03125,
+          "formula": "omegro_headcount[~2024] / parent_headcount[~2024]",
+          "inputs": {
+            "omegro_headcount": 2000,
+            "parent_headcount": 64000
+          },
+          "note": "parent headcount figure is a low-confidence third-party approximation [holdings:parent_long_run:headcount]"
+        }
+      }
+    },
+    "business_count_share": {
+      "volaris": {
+        "value": null,
+        "formula": "group_business_count / parent_business_unit_count",
+        "inputs": {},
+        "note": "volaris business_count_share: parent_long_run.business_unit_count is empty -- stage1 parent_long_run.json confirmed no business-unit-count-by-year figure was found for Constellation (see its own gaps list). Not estimated."
+      },
+      "harris": {
+        "value": null,
+        "formula": "group_business_count / parent_business_unit_count",
+        "inputs": {},
+        "note": "harris business_count_share: parent_long_run.business_unit_count is empty -- stage1 parent_long_run.json confirmed no business-unit-count-by-year figure was found for Constellation (see its own gaps list). Not estimated."
+      },
+      "jonas": {
+        "value": null,
+        "formula": "group_business_count / parent_business_unit_count",
+        "inputs": {},
+        "note": "jonas business_count_share: parent_long_run.business_unit_count is empty -- stage1 parent_long_run.json confirmed no business-unit-count-by-year figure was found for Constellation (see its own gaps list). Not estimated."
+      },
+      "perseus": {
+        "value": null,
+        "formula": "group_business_count / parent_business_unit_count",
+        "inputs": {},
+        "note": "perseus business_count_share: parent_long_run.business_unit_count is empty -- stage1 parent_long_run.json confirmed no business-unit-count-by-year figure was found for Constellation (see its own gaps list). Not estimated."
+      },
+      "vela": {
+        "value": null,
+        "formula": "group_business_count / parent_business_unit_count",
+        "inputs": {},
+        "note": "vela business_count_share: parent_long_run.business_unit_count is empty -- stage1 parent_long_run.json confirmed no business-unit-count-by-year figure was found for Constellation (see its own gaps list). Not estimated."
+      },
+      "topicus": {
+        "value": null,
+        "formula": "group_business_count / parent_business_unit_count",
+        "inputs": {},
+        "note": "topicus business_count_share: parent_long_run.business_unit_count is empty -- stage1 parent_long_run.json confirmed no business-unit-count-by-year figure was found for Constellation (see its own gaps list). Not estimated."
+      },
+      "lumine": {
+        "value": null,
+        "formula": "group_business_count / parent_business_unit_count",
+        "inputs": {},
+        "note": "lumine business_count_share: parent_long_run.business_unit_count is empty -- stage1 parent_long_run.json confirmed no business-unit-count-by-year figure was found for Constellation (see its own gaps list). Not estimated."
+      },
+      "omegro": {
+        "value": null,
+        "formula": "group_business_count / parent_business_unit_count",
+        "inputs": {},
+        "note": "omegro business_count_share: parent_long_run.business_unit_count is empty -- stage1 parent_long_run.json confirmed no business-unit-count-by-year figure was found for Constellation (see its own gaps list). Not estimated."
+      }
+    }
+  },
+  "spot_checks": [
+    {
+      "name": "lumine_h1_2026_revenue_reconciliation",
+      "formula": "revenue.Q1_2026 + revenue.Q2_2026 == revenue.H1_2026",
+      "inputs": {
+        "revenue.Q1 2026": 208.3,
+        "revenue.Q2 2026": 235.1,
+        "revenue.H1 2026": 443.4
+      },
+      "recomputed_value": 443.4,
+      "reported_value": 443.4,
+      "pct_diff": 0.0,
+      "tolerance_pct": 1.0,
+      "assert_equal_within_tolerance": true
+    },
+    {
+      "name": "topicus_h1_2025_revenue_reconciliation",
+      "formula": "revenue.Q1_2025 + revenue.Q2_2025 == revenue.H1_2025 (within 1%)",
+      "inputs": {
+        "revenue.Q1 2025": 355.6,
+        "revenue.Q2 2025": 372.0,
+        "revenue.H1 2025": 726.3
+      },
+      "recomputed_value": 727.6,
+      "reported_value": 726.3,
+      "pct_diff": 0.179,
+      "tolerance_pct": 1.0,
+      "assert_equal_within_tolerance": true
+    },
+    {
+      "name": "topicus_look_through_value_cross_check",
+      "formula": "csu_economic_interest_pct/100 * market_cap, recomputed independently of the look_through section",
+      "inputs": {
+        "csu_economic_interest_pct": 30.35,
+        "market_cap": 8390
+      },
+      "recomputed_value": 2546.365,
+      "reported_value": 2546.365,
+      "pct_diff": 0.0,
+      "tolerance_pct": 0.001,
+      "assert_equal_within_tolerance": true
+    }
+  ]
+}
