@@ -1,4 +1,4 @@
-import { eq, inArray } from "drizzle-orm";
+import { and, desc, eq, gte, ilike, inArray, lte, or, sql, type SQL } from "drizzle-orm";
 import { db, schema } from "@/db";
 import { ValidationError } from "./categories";
 import {
@@ -10,7 +10,7 @@ import {
   toPlaidSignedAmount,
 } from "./manual";
 
-const { transactions, categories, accounts } = schema;
+const { transactions, categories, accounts, categoryRules } = schema;
 
 export type TransactionPatchInput = {
   displayName?: string | null;
@@ -289,4 +289,76 @@ export async function bulkCategorize(input: BulkCategorizeInput): Promise<number
       throw e;
     }
   });
+}
+
+// ---------------------------------------------------------------------------
+// Shared list query -- /transactions and GET /api/export/transactions.csv
+// (src/lib/export.ts) both build on this so the two can never disagree
+// about which rows match a given set of query params, or in what order.
+// Only pagination differs: the page adds .limit/.offset, the export reads
+// every matching row.
+// ---------------------------------------------------------------------------
+
+export type TransactionListParams = {
+  q?: string;
+  account?: string;
+  category?: string;
+  from?: string;
+  to?: string;
+};
+
+// Not-removed rows on a non-hidden account, narrowed by whichever of the
+// five filters were given. Exported separately from transactionListQuery so
+// a caller that needs a differently-shaped select (or a count) can still
+// share the exact same predicates instead of re-deriving them.
+export function transactionListFilters(p: TransactionListParams): SQL[] {
+  const filters: SQL[] = [eq(transactions.isRemoved, false), eq(accounts.hidden, false)];
+  if (p.q) {
+    filters.push(
+      or(
+        ilike(transactions.name, `%${p.q}%`),
+        ilike(transactions.merchantName, `%${p.q}%`),
+        ilike(transactions.displayName, `%${p.q}%`),
+      )!,
+    );
+  }
+  if (p.account) filters.push(eq(transactions.accountId, Number(p.account)));
+  if (p.category === "none") filters.push(sql`${transactions.categoryId} is null`);
+  else if (p.category) filters.push(eq(transactions.categoryId, Number(p.category)));
+  if (p.from) filters.push(gte(transactions.date, p.from));
+  if (p.to) filters.push(lte(transactions.date, p.to));
+  return filters;
+}
+
+// The full projection both callers need: everything the transactions page
+// shows, plus the resolved category name (the page resolves that
+// client-side from the separate categories list it already fetches; the
+// CSV export has no such side channel, so it is joined in here instead).
+export function transactionListQuery(p: TransactionListParams) {
+  return db
+    .select({
+      id: transactions.id,
+      date: transactions.date,
+      name: transactions.name,
+      merchant: transactions.merchantName,
+      displayName: transactions.displayName,
+      notes: transactions.notes,
+      amount: transactions.amount,
+      pending: transactions.isPending,
+      categoryId: transactions.categoryId,
+      categoryName: categories.name,
+      plaidCategory: transactions.plaidCategoryDetailed,
+      account: accounts.name,
+      accountNickname: accounts.nickname,
+      mask: accounts.mask,
+      ruleId: transactions.ruleId,
+      ruleName: categoryRules.name,
+      source: transactions.source,
+    })
+    .from(transactions)
+    .innerJoin(accounts, eq(transactions.accountId, accounts.id))
+    .leftJoin(categoryRules, eq(transactions.ruleId, categoryRules.id))
+    .leftJoin(categories, eq(transactions.categoryId, categories.id))
+    .where(and(...transactionListFilters(p)))
+    .orderBy(desc(transactions.date), desc(transactions.id));
 }

@@ -24,7 +24,12 @@ export default async function AccountsPage() {
     <div className="space-y-6">
       <div className="flex items-center justify-between">
         <h1 className="text-xl font-semibold">Accounts</h1>
-        <LinkButton />
+        <div className="flex items-center gap-3">
+          <a href="/api/export/backup.json" className="rounded border px-3 py-1 text-sm text-gray-600 hover:bg-gray-50">
+            Download backup
+          </a>
+          <LinkButton />
+        </div>
       </div>
 
       {itemRows.length === 0 && (

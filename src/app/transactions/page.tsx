@@ -1,7 +1,8 @@
-import { and, desc, eq, gte, ilike, lte, or, sql, type SQL } from "drizzle-orm";
+import { eq } from "drizzle-orm";
 import { requireAuthPage } from "@/lib/auth";
 import { db, schema } from "@/db";
 import { accountLabel } from "@/lib/format";
+import { transactionListQuery } from "@/lib/transactions";
 import { TransactionsTable } from "@/components/TransactionsTable";
 import { ManualTransactionForm } from "@/components/ManualTransactionForm";
 
@@ -13,40 +14,14 @@ type Params = { q?: string; account?: string; category?: string; from?: string; 
 export default async function TransactionsPage({ searchParams }: { searchParams: Promise<Params> }) {
   await requireAuthPage();
   const p = await searchParams;
-  const { transactions, accounts, categories, categoryRules } = schema;
+  const { accounts, categories } = schema;
   const page = Math.max(1, Number(p.page ?? 1));
 
-  const filters: SQL[] = [eq(transactions.isRemoved, false), eq(accounts.hidden, false)];
-  if (p.q) {
-    filters.push(
-      or(
-        ilike(transactions.name, `%${p.q}%`),
-        ilike(transactions.merchantName, `%${p.q}%`),
-        ilike(transactions.displayName, `%${p.q}%`),
-      )!,
-    );
-  }
-  if (p.account) filters.push(eq(transactions.accountId, Number(p.account)));
-  if (p.category === "none") filters.push(sql`${transactions.categoryId} is null`);
-  else if (p.category) filters.push(eq(transactions.categoryId, Number(p.category)));
-  if (p.from) filters.push(gte(transactions.date, p.from));
-  if (p.to) filters.push(lte(transactions.date, p.to));
-
-  const rows = await db
-    .select({
-      id: transactions.id, date: transactions.date, name: transactions.name, merchant: transactions.merchantName,
-      displayName: transactions.displayName, notes: transactions.notes,
-      amount: transactions.amount, pending: transactions.isPending, categoryId: transactions.categoryId,
-      plaidCategory: transactions.plaidCategoryDetailed, account: accounts.name, accountNickname: accounts.nickname, mask: accounts.mask,
-      ruleId: transactions.ruleId, ruleName: categoryRules.name, source: transactions.source,
-    })
-    .from(transactions)
-    .innerJoin(accounts, eq(transactions.accountId, accounts.id))
-    .leftJoin(categoryRules, eq(transactions.ruleId, categoryRules.id))
-    .where(and(...filters))
-    .orderBy(desc(transactions.date), desc(transactions.id))
-    .limit(PAGE)
-    .offset((page - 1) * PAGE);
+  // Shared with GET /api/export/transactions.csv (src/lib/transactions.ts)
+  // so the two can never disagree about which rows match these params, or
+  // in what order -- the export just reads every matching row instead of
+  // paginating.
+  const rows = await transactionListQuery(p).limit(PAGE).offset((page - 1) * PAGE);
 
   const accountRows = await db
     .select({ id: accounts.id, name: accounts.name, nickname: accounts.nickname, mask: accounts.mask })
@@ -71,11 +46,28 @@ export default async function TransactionsPage({ searchParams }: { searchParams:
     return `?${u.toString()}`;
   };
 
+  // Same five filter fields as the page itself, minus pagination -- the
+  // export streams every matching row, not just the current page.
+  const exportHref = (() => {
+    const u = new URLSearchParams();
+    for (const key of ["q", "account", "category", "from", "to"] as const) {
+      const v = p[key];
+      if (v) u.set(key, v);
+    }
+    const query = u.toString();
+    return `/api/export/transactions.csv${query ? `?${query}` : ""}`;
+  })();
+
   return (
     <div className="space-y-4">
       <div className="flex items-center justify-between">
         <h1 className="text-xl font-semibold">Transactions</h1>
-        <ManualTransactionForm accounts={manualAccountRows} categories={categoryRows} />
+        <div className="flex items-center gap-3">
+          <a href={exportHref} className="rounded border px-3 py-1 text-sm text-gray-600 hover:bg-gray-50">
+            Export CSV
+          </a>
+          <ManualTransactionForm accounts={manualAccountRows} categories={categoryRows} />
+        </div>
       </div>
 
       <form className="flex flex-wrap gap-2 text-sm">
