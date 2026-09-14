@@ -65,3 +65,13 @@
 | Haiku 4.5 | `claude-haiku-4-5` | 1 | 5 |
 
 Effort levels available on all current models: low, medium, high, xhigh, max. Default is high.
+
+## Output Preference: Deliverables
+
+Whenever a task produces a deliverable report (an analysis, a review, a written document meant to be read or shared, not routine code or config changes):
+
+1. Save the file or files to disk in the repo or session working directory, as normal.
+2. Send the file to the user directly, so a copy lands on their device.
+3. Publish an HTML version as an Artifact and give the user the link, so they have a page they can open, share, or reopen later without hunting for a local file.
+
+Do all three for every report style deliverable, not just one. Skip step 3 only when the deliverable is not naturally a page, for example a spreadsheet or a script.
