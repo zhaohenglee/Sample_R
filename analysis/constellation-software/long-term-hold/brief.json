@@ -1,0 +1,49 @@
+{
+  "stage": "0 Scope",
+  "date": "2026-09-14",
+  "designed_by": "Fable 5.1 at the user's explicit request",
+  "company": "Constellation Software Inc.",
+  "ticker": "TSX: CSU (OTC: CNSWF)",
+  "reporting_currency": "USD",
+  "question": "Is Constellation Software a business to hold for ten years, and which of its holding companies carry that case? Deliver a Hold or Not Hold call, the function each holding company serves in the whole, and the conditions that would end the hold.",
+  "relationship_to_prior_work": "The first report (analysis/constellation-software/report.md) answered the entry price question and returned Not Buy at CAD 2,827.94. This work answers a different question: the durability of the compounding engine and of each part of it, independent of today's price. It reuses ledger.json and metrics.json where they apply and does not recompute them.",
+  "definition_of_functional_analysis": "For each holding company: what it does, what function it serves inside Constellation (capital deployer, cash generator, geographic arm, listed currency, talent bench), what it owns, how it deploys capital, where its verticals sit on the AI exposure map, who runs it, and whether that function is durable over ten years.",
+  "holding_companies": [
+    {"name": "Volaris Group", "type": "private operating group", "note": "generalist, most verticals, international; Omegro carved out of Volaris in 2023"},
+    {"name": "Harris Computer", "type": "private operating group", "note": "oldest group, public sector and healthcare, Allscripts hospital business 2022"},
+    {"name": "Jonas Software", "type": "private operating group", "note": "clubs, hospitality, construction, fitness"},
+    {"name": "Perseus Group", "type": "private operating group", "note": "homebuilding, real estate, dealer, finance; Black Knight Empower and Optimal Blue 2023"},
+    {"name": "Vela Software", "type": "private operating group", "note": "industrial, energy, engineering, education; smallest of the private groups"},
+    {"name": "Topicus.com", "type": "listed subsidiary, TSX: TOI", "note": "Europe; spun out 2021; CSU holds a minority of the shares with a larger economic interest through preferred and special shares; verify the exact percentages in intake"},
+    {"name": "Lumine Group", "type": "listed subsidiary, TSXV: LMN", "note": "communications and media; spun out 2023 with WideOrbit; CSU holds preferred and special shares; verify the exact percentages in intake"},
+    {"name": "Omegro", "type": "verify status", "note": "announced 2023 as a global collective formed from Volaris businesses; confirm whether it reports as a separate operating group or remains inside Volaris"}
+  ],
+  "hold_tests": [
+    "Reinvestment runway: can the groups deploy roughly all of FCFA2S each year for ten years at returns above the cost of capital, given target counts, deal sizes and hurdle rates?",
+    "Organic floor: does the installed base hold at or above zero real organic growth, and which groups are above and below it?",
+    "Decentralisation as moat: does the operating group structure keep producing allocators, and does each group have leadership depth beyond its founder generation?",
+    "AI exposure by vertical: which groups sit in regulated systems of record and which in thinner niches or services heavy models?",
+    "Listed subsidiaries: what CSU actually owns of Topicus and Lumine, what that is worth at market, and whether the spin out model is a source of value or of leakage?",
+    "Kill criteria: which observable numbers, over what window, would end the hold regardless of price?"
+  ],
+  "deliverables": [
+    "long-term-hold/workflow.md, the pipeline design",
+    "long-term-hold/stage1/holdings/*.json, one intake file per holding company plus parent_long_run.json",
+    "long-term-hold/holdings.json, the normalised holding company ledger",
+    "long-term-hold/compute_hold.py, hold_metrics.json, hold_metrics.xlsx",
+    "long-term-hold/findings/engine_durability.md, findings/kill_criteria.md, findings/holdings/<group>.md for each holding company",
+    "long-term-hold/report.md and report.html with an executive summary written by Fable 5.1",
+    "long-term-hold/review.md"
+  ],
+  "data_limitations": "WebSearch is the only network path. Filing PDFs and company sites cannot be fetched. The five private operating groups publish no separate financial statements; their figures come from Constellation disclosures, press releases, operating group websites as surfaced in search snippets, and third party writeups. Every figure carries a source URL and a confidence grade. Where a figure is unavailable the file says gap, never an estimate presented as a figure.",
+  "routing": {
+    "stage0_scope_and_design": "Fable 5.1",
+    "stage1_intake": "Haiku 4.5, one subagent per holding company plus one for parent history, low effort, search budget 30 queries each",
+    "stage2_normalize": "Sonnet 5 low",
+    "stage3_compute": "Python script written by Sonnet 5 low, no model arithmetic",
+    "stage4_analyze": "Opus 5 xhigh, one subagent for engine durability and kill criteria, one subagent per holding company for the functional analysis",
+    "stage5_report": "Sonnet 5 medium",
+    "stage6_review_and_executive_summary": "Fable 5.1, one pass"
+  },
+  "signed_by": "user request in session, 2026-09-14"
+}
