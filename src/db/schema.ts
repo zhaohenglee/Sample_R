@@ -167,6 +167,24 @@ export const recurring = pgTable(
   (t) => [uniqueIndex("recurring_merchant_account_idx").on(t.merchantKey, t.accountId)],
 );
 
+export const goals = pgTable("goals", {
+  id: serial("id").primaryKey(),
+  name: text("name").notNull(),
+  // Null means unlinked (progress is tracked by hand via currentAmount
+  // below). Deleting the linked account must not delete the goal -- set
+  // null at the database level so it holds however the account is removed
+  // (manual delete, or a future cascade path), not just through this app's
+  // own account-delete code path.
+  accountId: integer("account_id").references(() => accounts.id, { onDelete: "set null" }),
+  targetAmount: numeric("target_amount", { precision: 14, scale: 2 }).notNull(),
+  // Manual progress figure, read only when accountId is null. Ignored (but
+  // still stored) once an account is linked, since the account's own
+  // current_balance becomes the source of truth for progress at that point.
+  currentAmount: numeric("current_amount", { precision: 14, scale: 2 }).notNull().default("0"),
+  targetDate: date("target_date"),
+  createdAt: timestamp("created_at", { withTimezone: true }).notNull().defaultNow(),
+});
+
 export const syncLog = pgTable("sync_log", {
   id: serial("id").primaryKey(),
   itemId: integer("item_id").references(() => items.id, { onDelete: "cascade" }),

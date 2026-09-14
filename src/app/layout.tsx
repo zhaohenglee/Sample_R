@@ -17,6 +17,7 @@ export default async function RootLayout({ children }: { children: React.ReactNo
             <Link href="/categories" className="text-gray-600 hover:text-gray-900">Categories</Link>
             <Link href="/rules" className="text-gray-600 hover:text-gray-900">Rules</Link>
             <Link href="/budgets" className="text-gray-600 hover:text-gray-900">Budgets</Link>
+            <Link href="/goals" className="text-gray-600 hover:text-gray-900">Goals</Link>
             <Link href="/accounts" className="text-gray-600 hover:text-gray-900">Accounts</Link>
             <Link href="/import" className="text-gray-600 hover:text-gray-900">Import</Link>
             <Link href="/sync" className="text-gray-600 hover:text-gray-900">Sync</Link>

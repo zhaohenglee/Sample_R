@@ -14,12 +14,14 @@ import {
   spendByCategory as spendByCategoryReport,
 } from "@/lib/reports";
 import { upcomingRecurring } from "@/lib/recurring";
+import { goalsWithProgress } from "@/lib/goals";
 import { LinkButton } from "@/components/LinkButton";
 import { SyncButton } from "@/components/SyncButton";
 import { RecurringRefreshButton } from "@/components/RecurringRefreshButton";
 import { CashFlowBars } from "@/components/charts/CashFlowBars";
 import { CategoryBars } from "@/components/charts/CategoryBars";
 import { BalanceLine } from "@/components/charts/BalanceLine";
+import { GoalProgressBar } from "@/components/GoalProgressBar";
 
 export const dynamic = "force-dynamic";
 
@@ -94,6 +96,7 @@ export default async function Dashboard({ searchParams }: { searchParams: Promis
   const upcoming = await upcomingRecurring(30);
   const cashFlow = await cashFlowByMonth(monthIso, 12);
   const balanceTrend = await netBalanceTrend(90);
+  const goals = await goalsWithProgress();
 
   const netWorth = accountRows
     .filter((a) => !a.excludeFromTotals)
@@ -202,6 +205,40 @@ export default async function Dashboard({ searchParams }: { searchParams: Promis
         <h2 className="mb-2 font-medium">Spend by category ({monthStr})</h2>
         <div className="rounded-lg border bg-white p-4">
           <CategoryBars data={categoryChartData} periodLabel={periodLabel} />
+        </div>
+      </section>
+
+      <section>
+        <h2 className="mb-2 font-medium">Goals</h2>
+        <div className="rounded-lg border bg-white p-4">
+          {goals.length === 0 ? (
+            <p className="text-sm text-gray-500">
+              No goals yet. <Link href="/goals" className="underline">Add one</Link>.
+            </p>
+          ) : (
+            <div className="space-y-4">
+              {goals.map((g) => (
+                <div key={g.id}>
+                  <div className="flex items-center justify-between text-sm">
+                    <span className="font-medium">{g.name}</span>
+                    <span className="tabular-nums text-gray-500">
+                      {money(g.progress.currentAmount)} / {money(parseFloat(g.targetAmount))} ({g.progress.percent.toFixed(0)}%)
+                    </span>
+                  </div>
+                  <div className="mt-1">
+                    <GoalProgressBar percent={g.progress.percent} />
+                  </div>
+                  {g.targetDate && g.requiredMonthly !== null && (
+                    <p className="mt-1 text-xs text-gray-500">
+                      {g.requiredMonthly > 0
+                        ? `Save ${money(g.requiredMonthly)}/month to hit it by ${g.targetDate}.`
+                        : "Goal met."}
+                    </p>
+                  )}
+                </div>
+              ))}
+            </div>
+          )}
         </div>
       </section>
 
