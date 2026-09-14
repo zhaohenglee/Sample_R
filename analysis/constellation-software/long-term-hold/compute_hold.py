@@ -371,6 +371,8 @@ def year_int(period_key):
     """Extract a single 4-digit year (19xx/20xx) from a period label like 'FY2020', '~2022',
     'Q1 2026', or 'six months ended June 30, 2026'. Returns None if no such token is found,
     or if more than one distinct year token is found (ambiguous)."""
+    if not isinstance(period_key, str):
+        return None
     full_years = set(_re.findall(r"(?:19|20)\d{2}", period_key))
     if len(full_years) == 1:
         return int(next(iter(full_years)))
