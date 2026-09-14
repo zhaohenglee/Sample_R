@@ -1,0 +1,1504 @@
+  
+Page 1 of 34 
+Mohnish Pabrai’s Lecture at the University of California, 
+Irvine (UCI) on May 24, 2016 
+ 
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not inte nded 
+to be, financial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not be suitable for you, 
+do not take into account your particular investment objectives, financial situation or needs and are not intended to provide investment 
+advice or recommendations appropriate for you. Before making any investment or trade, consider whether it is suitable for you a nd 
+consider seeking advice from your own financial or investment adviser. 
+ 
+Yang: Okay. All right. Tonight, we are fortunate to have Mohnish Pabrai as a guest 
+lecturer here at UC Irvine Merage School of Business. To introduce him, I want 
+to touch on three things; First, he's the managing partner of Pabrai Investment 
+Funds, which today manages over $500 million. A $100,000 investment in 
+Pabrai Investment Funds at its inception in 1999 would be worth 889,000 at the 
+end of 2015. By comparison, the same amount invested in the Dow Jones with 
+dividends reinvested would be 234,000. Second, in 2014, he founded and raise 
+$150 million for Dhandho Holdings. Dhandho Holdings is an insurance-focused 
+holding company. Its primary strategy is to acquire private companies. Last but 
+not least, he's the founder of the Dakshana Foundation. It takes a metrics-
+driven approach to provid ing world-class educational opportunities to gifted, 
+but impoverished children worldwide. Pl ease join me in welcoming Monish 
+Pabrai. 
+Mohnish: Thank you. Well, it's a pleasure to be here and quite an honor. My family and I 
+moved to Irvine in 2003. I have a couple of lectures a year, and a couple of 
+business schools. One is in New York and the other is in Delhi. It's very nice to 
+have a shorter commute. It took 13 years to get here. But thank you Professor 
+Yang for making that happen. I'd also like to say that very few enlightened 
+business schools have anything in terms of either coursework or professors 
+who focus on value investing. From that vantage point, I think it's wonderful to 
+see that UC Irvine is in that genre. It's a very small group. I think Professor Yang 
+may have something to do with that. Let's give him a round of applause. Thank 
+you for making that happen. I haven't given this talk before so to some extent 
+you are the guinea pigs. Thank you for being the guinea pi gs. It's somewhat 
+different from a lot of other talks I've given. I've always felt that the best way 
+to learn is to teach. Quite frankly one of the big reasons I wanted to put this 
+together was to educate myself. I got quite an education in putting the talk 
+together. I think I'll get a little bit more of an education in the interaction today. 
+That'll be great. The focus of the talk is to appeal to a few different audiences. 
+One is, if you were considering a career as an investment manager or an 
+investment analyst, I think the talk would help you figure out whether that is 
+the path you ought to go down. Even if you have some assets and some savings 
+and are trying to figure out how to invest those, I think the talk will add some 
+  
+Page 2 of 34 
+value on that front as well. Most of the material I'm going to present is 
+plagiarized because I have no original ideas. You'll soon learn that. I'm going to 
+be channeling a guy named Peter Kaufman and another guy named Charlie 
+Munger, and a little bit of Warren Buffett thrown in. 
+Peter is the author of Poor Charlie's Almanack. Some of you might be familiar 
+with that. It's a wonderful book. I think it's one of my favorite books. He's very 
+close friends with Charlie Munger. I think he once told Charlie Munger, “Charlie, 
+you and Warren have been successful for three reasons. Do you know what 
+those three reasons are?” Charlie told him, “No, Peter, why don't you enlighten 
+me?” Peter said, “Well, the three reasons you guys have been so successful is 
+that first, you're willing to be extremely patient. You guys are not in a hurry to 
+do anything. The second is that you are willing to be very decisive. “When 
+opportunity presents itself, you don't hesitate to act”. 
+Munger has referred to this as a man wi th a spear standing there waiting for a 
+salmon to go by. He's got the spear re ady and he's perfectly happy waiting 
+there for hours. Then, a big juicy salm on goes by and he spears it. Extreme 
+patience coupled with extreme decisi veness. The third trait is having no 
+concerns about being different from th e crowd. Doing whatever they feel 
+makes sense regardless of how the world looks at it. They don't really care 
+about what people might say if they do something. What Peter said is that you 
+really have to kind of unpack that a litt le bit. When he says  being patient, it's 
+not about being in agony while being patient. 
+It's being in bliss while being patient. It  should be a natural trait for you to be 
+happy to watch paint dry. If you're the kind of person who loves to watch paint 
+dry then the investment business is a very good one for you. The decisiveness, 
+again, shouldn't make you break out in sweat, but when you see so often, 
+Charlie says that for each of us, the opportunities that would truly make us 
+wealthy are not going to come around every week. They'll come around so 
+often, and they come around at unpredictable times. But when they do come 
+around and when you do recognize it you need to act very significantly and very 
+quickly. That again is a second thing that many people have issues with, where 
+they'll recognize something and then make a 2% bet. 
+That is also a second trait. Then the third one about being different, this is 
+probably the hardest one for humans. Hu mans are averse to stepping away 
+from the crowd. Having no concerns about how people think about you based 
+on what actions you take is a very import ant trait as having no stress about it. 
+Each of you can evaluate that for yourself in terms of whether those are, do the 
+gloves fit, if you will, or do the gloves fit with those traits? To some extent, I 
+think there must be, at least most of it needs to be inborn. I think it would be a 
+little bit difficult to take a high-speed trader and convert them into a model like 
+that. You need to have a natural bias towards that in your personality. 
+  
+Page 3 of 34 
+Then, the other piece is, how do you m ake investments? How do you know 
+something's a great idea or not? I thought what I'd do is, I'd take the example 
+of, one investment that Warren Buffett and Charlie Munger made which was 
+the investment in Coca-Cola. I wanted to go through the models they used 
+when they made this investment. There was no spreadsheet ever created when 
+they did the Coke investment from then till today. It's been about almost 30 
+years since they made the investment. They  have no analysts or associates or 
+anyone who helps them. I don't even believe they made much in terms of notes 
+when they made the investment. But they thought very deeply about it. 
+For most investments, if you can't do the math in your head then it should be 
+an automatic pass. There was no DCF model run for Coco. There were no 
+numbers-based models. I mean, they had some numbers in their mind, but I 
+don't think they ever reduced them to paper. But they did have I think, and I 
+may be missing some of them, but there were dozens upon dozens of models 
+that they used in making the investment. What happens is that when you have 
+an overlay between models that's when  you get what Charlie Munger calls 
+Lollapalooza effects, one plus one becomes 11. It's really kind of the interplay 
+between the models that lead to kind of the aha moment and such. 
+Charlie Munger had given a speech to a group that basically elected to be 
+secret. They told him not to disclose th e name of the group that he gave that 
+speech to. After he gave the speech where part of the speech covered the Coke 
+investment, they told him it was a useless speech and they didn't appreciate it. 
+I think it's one of his mo re brilliant speeches, and it gives you a window into 
+how they think. I think it's useful. Anyway the Coke investment that Berkshire 
+Hathaway made was between 1988 and 1990, about a three-year period when 
+they bought the stock. At that time, they invested about 1.3 billion into Coke, 
+and 1.3 billion at that time was approximately one fourth of the book value of 
+Berkshire Hathaway. 
+They made a very significant bet. I mean, you'd think of an insurance company 
+taking one fourth of their equity into a single stock, and that's what they did at 
+the time. The last bit of Coke that Warren bought in 1990 was bought at about 
+25 times trailing earnings. It wasn't cheap by traditional metrics that you might 
+use. But on many fronts, they are considered a no brainer. Obviously, they've 
+now not touch that position for almost like 30 years. I don't think they're going 
+to touch that position even well after Warren and Charlie are gone from the 
+scene. I don't think the composition's go ing to get touched at Berkshire for a 
+very long time. Why do they make the investment? What went through their 
+minds to make the investment? One of the things that Warren and Charlie have 
+said is that if they had not invested in See’s Candies, they would've never, ever 
+invested in Coke. To understand the Co ke investment, we should go back to 
+the See’s Candies investment, because that'll give us some clues. In 1972, they 
+bought See’s Candies, and how many of you are customers of See’s? Have you 
+ever had See’s candies? 
+  
+Page 4 of 34 
+How many of you have never had See’s candies? We have a few unfortunate 
+humans. Maybe you can next time you're going through some airport, get some 
+peanut butter brittle, that might be a good start. But anyway, they bought See’s 
+in 72, and in 72, they bought See’s for 25 million. The deal almost didn't happen 
+because the family that was selling wa nted 30 million for the company, and 
+Warren was already choking at 25 million. He thought the $25 million price was 
+really rich. The reason why Warren thought 25 million was rich was because 
+See’s at the time was generating about 2 million a year in cash flow. They had 
+8 million in netbook value, and the purchase price was 25 million. They were 
+paying more than three times book value for the business. When the family said 
+they wanted 30 million, Warren just said that 2500000 in one cent, I'm out of 
+here. 
+You can either take the 25 million or we ’ll walk. They're very grateful that the 
+family didn't walk and sold them the business for 25 million. 12 years later, in 
+1984, See’s was earning 13 million. In 72, when they bought it, it was making 2 
+million. In 84, 12 years later, it was making 13 million. The book value had gone 
+from 8 million to 20 million. The unit volume over that 12-year period had only 
+gone up by about 2% a year on average. If you look at the See’s Candies 
+purchase from 1972 and take it all the way till today, the unit volume growth of 
+See’s has been about approximately 2%. Number of pounds of candy they sell 
+every year has gone up about 2% a year ov er the last, let's say, 45 years, or 44 
+years or so. 
+But their earnings have gone up significantly more than that. It's a private 
+company, they don't disclose the numbers. I would guess that See’s is probably 
+approaching a hundred million, maybe somewhere in the 70 to a hundred 
+million, maybe more than that in terms of earnings per year at this point. 
+California GDP from 72 till now has grown up as probably 5 or 6% a year. See’s 
+did not keep up with California GDP growth over that period from a volume 
+growth perspective. In fact, even the 2% volume growth that has come in with 
+square footage increase. Their retail space went up by approximately that 
+number which led to that growth. Warren and Charlie say that the river of cash 
+that came out of See’s funded a zillion other things at Berkshire. 
+If you asked them today, “what is th e value of See’s to Berkshire?” They 
+probably couldn't even tell you, but it would be in the tens of billions. It would 
+be very significant in terms of what it did. If you were to ask them today that, 
+Charlie says that we were barely smart enough in 1972 to buy See’s, barely smart 
+enough, because he says that, if the family didn't budge to our stupid demand 
+of 25 million, we would've walked. Ac tually, if you go backwards and think 
+about it, they could have paid a hundred million for that business, and it 
+would've been a low price based on what happened after that. It was a 
+phenomenal business. The only thing Warren did, the only input he provided to 
+management is they kept the same management. 
+  
+Page 5 of 34 
+Chuck Hogan has kept running the company. The only thing he did was, he said 
+that on January 1st of every year, I will send you the new price list. He took over 
+pricing for the company, all their peanut butter or brittle, and all their fudge 
+pricing and everything else. Beginning of the year, Warren would look at, 
+inflation is 3%, let's bump all the prices by 12%. Year after year, what he found is 
+that they could raise prices significantly above the rate of inflation, and it didn't 
+have any negative impact on sales. Sales just kept going. But they also found 
+out a few other things. They got a huge education in brands and branding, and 
+that education in brands and branding  was very fundamental to the Coke 
+purchase. See’s is a California phenomena. 
+People in California, if I had the same talk going on at Columbia University or 
+something and asked the same question, th ey'd looked at me like I was from 
+Mars. Never heard of See’s except for the few that had gone to Omaha. They 
+repeatedly tried, and Warren and Charlie occasionally would try to nudge 
+management to expand See’s into other geographies. Every time they tried to 
+expand other geographies, they would fall flat on their face. I think one time 
+they had a store in Chicago, but it never worked. They've opened stores in 
+several geographies. It's never worked. But slow expansion in California has 
+worked. They found that the brand had ce rtain brand value in California. They 
+also found that people were willing to pay a premium for See’s candies in 
+California. 
+But that same cache didn't follow through in other locations. When the Coke 
+idea came in front of them, there were a couple of things that were different 
+about Coke from See’s. The first thing was that Coke traveled really well, and 
+they could see that. They had repeatedly tried to take this brand into even the 
+neighboring states but they couldn't do that. There are only two countries 
+today in the world where you cannot get Coke. North Korea is one of them. I 
+forget what's the second? 
+Speaker: Cuba. 
+Mohnish: Pardon?  
+Speaker: Cuba. 
+Mohnish: Yeah, Cuba. That's right. Cuba and North Korea are only two countries where 
+you cannot get Coke today. But what they  noticed is that even in these two 
+countries, if Coke tomorrow started selling in these countries with no 
+advertising, it would take off in quite a significant way because that brand has 
+meaning even to people who have never drunk Coke before and never seen an 
+ad because, so much part of pop cult ure and movies and whatnot, that it's 
+entrenched. 
+Basically, what they found is that unlik e See’s, Coke traveled really well, and 
+Warren studied this phenomenon of the difficulty of traveling with See’s very 
+carefully, because he was very interested  in making See’s global. He would've 
+  
+Page 6 of 34 
+loved for See’s to become a global company. With all the brain power they had, 
+they could never do that. But here was a company that was naturally a global 
+company. The second thing he noticed that was different between See’s and 
+Coke,  he's been drinking five Cokes a day since he was six years old. Coke has 
+been a regular part of his diet for like 80 years or something. The second thing 
+he noticed was that there was a limit to the amount of fudge you could eat. As 
+you eat more fudge or See’s candies, your ability to eat more of it declines. But 
+with Coke, the lack of an aftertaste means that the ability to consume Coke was 
+quite significantly higher than the abil ity to consume candy. In fact, a person 
+couldn't consume five or six Cokes a day pretty much for their whole lives 
+without really feeling like they were having something monotonous. Many of 
+us do that. How many of you have one or more Coke products daily? 
+No one admits to having Cokes. you're having other Coke products. You just 
+don't recognize that they're made by the company. They've got like over a 
+hundred brands. The second thing they recognize was that unlike fudge and 
+peanut butter, brittle and pe anut brittle, Coke had no after taste. The volume 
+you could consume and the frequency with which you consume it was quite 
+different. In fact, even if you compare it to something like McDonald's, which is 
+a very good model, but if you were eating at McDonald's every day that could 
+probably get to you much faster than consuming Cokes every day. They noticed 
+that this particular product has this nuance of recurring consumption, not really 
+being an issue in terms of purchase. 
+These were some of the models that th ey knew about before they started to 
+research Coke. The third thing they also  recognized differently between See’s 
+and Coke was, with See’s you needed re tail space. They had to have a See’s 
+store and pay rent and all these things to celebrate. Coke got sold in all these 
+places where the company didn't pay any rent. It was just sold all over the place. 
+I'll go through a little more details about the kind of the capital light model of 
+Coke. There were a number of reasons why Coke was very far more capital 
+efficient than even See’s was. Even though See’s in 84 was producing 13 million 
+on 20 million invested capital, I mean, that's a very high return. 
+65% return on invested capital is a really good business, Coke was even better 
+than that. It was a truly remarkable bu siness. Then the second part of the 
+mental models that come in is that, Warren and Charlie like to go through long 
+histories of these companies that they study. With Coke, both of them read 
+every annual report since the company was public. They read every annual 
+report from 1919, which is when Coke went public until the late eighties, every 
+single annual report. They got some insights from reading those annual reports. 
+One of the insights they got was that from the period of 1919 to let's say 87, 
+there had never been a year when Coke's unit or cases sold was lower than the 
+previous year. 
+Through the Great Depression, through the Second World War, through the 
+Korean War, through all the stagflation of the seventies, through all of that unit 
+  
+Page 7 of 34 
+case volume, just every single year went up over the previous year, nonstop. 
+The second thing that they noticed was that Coke, which started in Rome, 
+Georgia went through this major international expansion. They were repeatedly 
+over the years they were first only in the Southern US then they kind of spread 
+out through the US and then Canada, and then they started spreading out. In 
+fact, World War II took them to all the places where the US Army went. They 
+saw the whole way Coke entered one new country after another, and what 
+happened after they entered the country. They could see that from the reading 
+of those reports. 
+What they concluded was that the runway was really long. I'll get through the 
+runway. The way they defined the runway from reading Coke is that humans 
+need to ingest water to survive, right? We need to ingest about 64 ounces of 
+water a day to survive, and humans prefer to consume flavored water over plain 
+water. At least some portion of that 64 ounces they prefer to consume flavored 
+versus plain. In fact, Warren's daughter says that she's never, ever seen her dad 
+drink water. She says she's never seen her dad drink a bottle of water or drink 
+a glass of water. That never happened. Warren, I think about 40 ounces a day is 
+coming from Coke. I don't know where the other 24 ounces are coming from, 
+but she says water is not part of the deal. 
+If you take the 64 ounces that humans have to drink, they figured that at infinity, 
+you'd probably get to something like, 50% of that volume gets consumed in one 
+way or another in a flavored format. You can take that today, where if you look 
+at something like Dasani, which is a Coke brand for water as part of that, some 
+kind of bottled kind of beverage becomes about half of it. They felt that Coke 
+could probably take 50% of the flavored portion. 16 ounces per day per person, 
+which is two servings. They just looked at the unit volume, they looked at the 
+number of servings, they looked at the number of humans, and they looked at 
+that runway, and they said that we've got a long way to go here. 
+You've got basically this distribution engine where you can pump a lot of brands 
+through it, minute maid and monster and all these things. World population 
+was growing. As world population grew, Coke consumption would grow. GDP 
+was growing in countries where GDP is very low. If you look at a country like 
+Mexico, for example, the per capita Coke consumption in Mexico is the highest 
+in the world. It's above the US. There are other countries in the world where 
+they're at 100th of Mexico's volume. Coke would grow as it went in new 
+countries, it would grow as GDP grew, it would grow as per capita consumption 
+grew. That was another part of what they learned from reading those annual 
+reports. 
+Then Warren read this Fortune article,  which was written in 1938 about Coke. 
+The writer of the Fortune article said that, this is a marvelous company in 1938, 
+has done so well. Then he said, well, of course the ride's over because the 
+company went public in 1919 at $40 a share. Now that is worth 3,300 per share 
+if you go back to the Strawbridge and all that. The writer of that article said it's 
+  
+Page 8 of 34 
+great to know that, but the ride's over . Warren says, the ride was not over 
+because if in 1938 you invested a fresh $40 into Coke, by 1993 it was 25,000. You 
+could have missed the first 20 years, and you still had runway after that. 
+Another model they used was they didn't have an anchoring bias. A lot of times 
+in investing, what happens, and in fact I'm very guilty of that, is we tend to look 
+at kind of past performance of a security. That taints the way we look at it, and 
+actually, what you really ought to do is ignore the past, just focus on the future. 
+They were really good at not having this bias about, hey, this company's been 
+growing from 1884 till a hundred plus years. Now we want to invest in it. A 
+hundred years after this company got formed, we are putting one fourth of our 
+capital in. Have we lost it? They didn't think about it that way. Some of the other 
+things they realized is that the company was currency proof. 
+It was asteroid-proof. It was thermonuclear blast-proof. It was anarchy-proof. 
+It was pretty much a bulletproof of any way you look at it. If you think about a 
+situation where you have, let's say an ea rly extension level event take place, 
+right? Let's say asteroid comes in, and let's say the asteroid takes out six and a 
+half out of the 7 billion humans. Let's say we left with a few hundred million. 
+Well, the Coca-Cola Company has the trademark, and they have the formula 
+and they will eventually start producing coke again, they will probably get back 
+into business and such. You could not say that about almost any other business 
+when you have that sort of an event take  place. Even if currencies changed or 
+got devalued or whatever happened Wa rren's perspective was that people 
+would be willing to trade two minutes of labor for a Coke. 
+The trading of labor versus Coke would be independent of currency. That was 
+another part of the model. The notion that our mouths are a very personal 
+space, right? There's a few spaces human s are very sensitive about. Mouth is 
+one of them. We are kind of sensitive about what we put into our mouths. If 
+you see a Coke and you've had it in the past, etc., you won't think twice. Even 
+if you're in a different country, you'll have no problem. But if you see some kind 
+of unknown brand, it's kind of like, you eat Wrigley’s chewing gum, and then 
+someone presents to you Glotz’s chewing gum and says, would you like some? 
+You're probably not going to take it. 
+Our mouth is a very personal space, and we are not going to be messing around. 
+We are trying to take the low bid on what goes into our mouth. They felt that 
+we are creatures of habit. Once we get these habits formed, they may not be 
+willing to change them, especially with personal spaces like our mouth. The 
+second is about humans are creatures of habit. Like we shave every day on the 
+same side of the face first, or in the ca se of ladies the same leg first. We do 
+things in a certain pattern. Again, once we get to those habits and patterns, we 
+are reluctant to make those changes. Th ey saw all these things, and they saw 
+all of this was kind of coming together from the reading of the annual reports, 
+and then they looked at the, I have already probably gone through maybe 20 
+or 30 different models they used. 
+  
+Page 9 of 34 
+We still have a lot more to go. There's a lot of more models they went through. 
+But in all the models that I've gone through with you, we haven't talked about 
+any numbers. I went through all this stuff about it being a great investment. We 
+haven't talked about numbers. Now I'll just go through some numbers, but 
+none of these numbers need a spreadsheet. They're kind of very simplistic 
+numbers. The way the Coke model works is the Coca-Cola Company produces 
+concentrate and syrup. Let's go back to the point where there's just one 
+product, which is Coca-Cola. We won't go through a hundred brands they have 
+right now, but let's say there's only one product Coca-Cola, they produce 
+concentrate and syrup, The syrup gets sold to bottlers around the world, and 
+the bottlers then produce the Coke cans and bottles that you see in 
+supermarkets and everywhere else. 
+The Coke company also sells the syrup to various fountain operators. Like 
+Burger King, McDonald's and so on, where you can buy fountain drinks. There 
+are two models, right? There's the bottling model, and then there's the fountain 
+model, and let's say a restaurant and such. The way the bottling model works 
+is, the Coca-Cola Company does not set the price of a bottle of Coke. It lets the 
+bottler do that. They can pretty much set whatever price they want. What it 
+does is, it sets the price for the syrup. Just like Warren did on January 1st with 
+See’s candies, they bumped the price of the syrup nonstop and has been doing 
+it for a hundred years. The simple economics is that if you have a can of Coke 
+on sale at Costco or wherever, you might get it for about 25 cents, 12 ounce can. 
+The 25 cents, the Coca-Cola Company gets around 6 cents, 6 or 7 cents of that 
+comes to the Coca-Cola Company for the syrup. The rest of the cents, let's say, 
+18 cents or so is shared between the retail outlet that sells it and the bottling 
+operation that produces it. The bottlers is where a large amount of the CapEx 
+is happening. Because they've got all these bottling plants, they've got all these 
+trucks, they've got drivers, they've got all the distribution going on. The Coca-
+Cola Company just needs a few plants around the world to produce syrup. The 
+number of people they need to do that. When Warren and Charlie want to make 
+the investment, the Coca-Cola Company had 17,000 employees. All the bottlers 
+had half a million, so the CapEx is on the bottlers. This is See’s candies on 
+steroids because you don't have any retail, it's kind of reminded me one time I 
+was visiting Microsoft I think this was like probably 15 years ago. 
+They used to sell their operating system to, for example, Dell. Dell would install 
+windows on all the machines. I was talking to one of the Microsoft engineers, I 
+said, “do you guys send the CDs to Dell?” When you buy the computer, you get 
+the CDs and such, they said “no”, or the floppy disc? They said “no”. He said, we 
+give them one copy and then everything else is their cost. Microsoft wasn't 
+even willing to spend the money on the disc even that they dumped on the PC 
+makers. It was even better than the syrup business. At least Coke has to provide 
+syrup. In the case of Microsoft, they just provided the bits once, and then they 
+charged you on the bits, which is why it's such a beautiful model. Mr. Gates is 
+the wealthiest person on the planet.  
+  
+Page 10 of 34 
+It's very funny, like he looked at me like I was dumb-as-a-doorknob. Like, “what 
+do you mean I'm going to send them CDs? No, I'm not going to send them CDs. 
+I'm going to give them one copy”. Then he told me that once it got to streaming, 
+we didn't even send them a copy, we ju st streamed it to them. They are not 
+going to send them a single copy. In the case of Coke, it's not like Microsoft. 
+They still had to sell the syrup, but what they did is they came up with one more 
+enhancement where they got to concentrate. The syrup patch sugar in it. What 
+they did it and it had water, and what's the point of shipping these heavy things. 
+They improve the model to just giving concentrate and telling the bottler, “Add 
+so much sugar and add so much water, and how you got the syrup”. They even 
+took it down one level further. You take the 25 cent can, the Coca-Cola 
+Company gets about 7 cents. The cost on that is basically next to nothing. It's 
+sugared water. They're not even paying for the sugar. They spend about 10% of 
+that on advertising, and approximately about 25% or 30% of that number is pre-
+tax profits. That's basically their model on the bottling side. Now, when you get 
+to the fountain side, things get even more exciting. When you go to a restaurant 
+and you ask for a Coke, they don't charge you 25 cents. What do they charge 
+you, Alex? 
+Alex: Well, because I'm a senior citizen, I might get a discount, so I will say couple of 
+bucks. 
+Mohnish: Couple of bucks. Yeah. That 8 or 12 ounce serving is now 12 bucks. The Coca-
+Cola Company is giving it to the restaurant at probably 15 cents or something. 
+They are very benevolent, and they let the restaurant make a lot of money on 
+the Cokes. What happens in that format is the restaurant loves Coke, it is the 
+highest margin product of anything they're going to sell. People want it, and 
+people ask for it by brand name, etc., like, the ones that don't offer Coke and 
+they have Pepsi, they have to ask, would you like a Pepsi instead? You kind of 
+say, “oh, okay, it's fine. I'll take the Pepsi, take a bullet for the team”. 
+The fountain sales model, if you thin k of the ecosystem, everyone makes 
+money. The restaurant makes a lot of money. The restaurant's very happy. The 
+bottler that converts the concentrate to a syrup makes money. They're very 
+happy because they deliver it. They do the last mile stuff,  and the Coca-Cola 
+Company is obviously very happy. Both these models work really well. Just to 
+give you kind of a sense of the CapEx  differential, before they made the 
+investment, these numbers have gone up quite a bit since then, but in scale, 
+they're correct. All the bottlers were sp ending in the mid-eighties, about 1.3 
+billion in CapEx every year. The Coca-Cola Company is spending 160 million, 
+approximately like 12% of what the bottlers were spending. 
+Most of the benefit of all of this went to the Coca-Cola company. Warren was 
+obsessed over the fact that there was Branson had started Virgin Cola, and then 
+there was Sam's Choice, and there were all these kind of private-label type 
+Colas, and they study there and the bottom line is that none of those ever got 
+  
+Page 11 of 34 
+any traction. Why didn't they get traction? Well, number one, the personal 
+space, the mouth, you're not quite sure about Sam's Choice, even though you 
+like Sam Walton. The second is the economics. They can't really undercut. If you 
+think about a 25 cent can, the reason it's a 25 cents is because of global scale. 
+This is a global company selling at a huge volume. 
+I mean, they're buying aluminum at a huge volume, all those things, right? You 
+try being even with whatever volumes Walmart has, and then you try to get 
+customers to not buy Coke and buy Sam's Choice. How much can you undercut 
+Coke? They've got about 2 cents that they're making on that 25 cents as profit. 
+The bottler is probably making another couple of cents. You got about 4 cents. 
+If you had the exact same cost as a Coca-Cola Company, if you were at 21 cents 
+and Coke was charging 25 cents, you would make no money. If you didn't 
+discount versus Coke, who would buy Sam's Choice? How many of you 
+consume Sam's Choice? Does it even exist anymore? I've been to Walmart 
+lately. The Sam’s Choice exists. (Alex, you haven't kept up, no, all right) But in 
+Costco, I don't remember, maybe you guys know, because I don't, does Costco 
+have a generic Cola? Do they sell? No, I don't think so, right? Do they have? 
+Mohnish: Oh, is that the store brand? 
+Speaker: Cheaper, yeah. 
+Speaker: Yeah. That's in like Albertsons.  
+Speaker: That's Albertsons. 
+Mohnish: Yeah. So, they've got some private label, but they've got the big containers.  
+Speaker: Yeah.  
+Mohnish: Okay. Who drinks refresh? Is it cheaper?  
+Speaker: No. 
+Mohnish: Do they have a Cola? 
+Speaker: I think they wanted to. 
+Mohnish: Okay, all right. You see that. What th ey found is that if a competitor tried to 
+come in and the store tried to do a priv ate label or whatever else, they really 
+couldn't undercut them because the econom ics just wouldn't allow it. This is 
+some of the things they understood about Coke when they read those annual 
+reports. Now, we get to another set of  mental models, which is the mental 
+models on branding. The Coca-Cola Comp any, basically now, the market cap 
+of Coke is about 190 billion. I'm guessing they're probably 17 times or 
+something. 
+I think they're probably making like 12 billion or 13 billion or something in after 
+tax profits. The Coca-Cola Company has always spent less than 10% of their 
+  
+Page 12 of 34 
+revenue on branding. One of the things about the branding is, when you see a 
+can of Coke, the can of Coke is branding, right? Because it's all got the Coke 
+brand and everything. Who's paid for that? It's the bottler. Is that part of the 
+10% that the Coca-Cola Company spends? No. That Coke can is completely paid 
+for by the bottler. Those red trucks you see paid by the bottler, right? That's 
+also not part of Coke branding. Those are all things that are, so every single case 
+and can and stuff the fountain displays and all that is all kind of continuous 
+branding going on without them spending a dime. Others are spending the 
+money on that.  
+When Warren invested in the Coca-Cola Company, they were spending less 
+than a billion a year on branding at the time. He said that if you gave me a 
+hundred billion and told me to take away the market leadership of Coke, I 
+would just return the hundred billion to you. It couldn't be done. Even though 
+they had spent, so it had been a hundred years, it had grown, they were 
+spending less than a billion, a decade or two before that. The unusual thing 
+about branding is that when things get etched in our brains like Coca-Cola is 
+etched in our brains, it has this kind of multiyear effect. What Coca-Cola spends 
+in 2016 on branding is not exhausted in 2016. 
+It has residual effects even 50 years from now. When you have a business that's 
+been added for a hundred years or more, that brand just keeps getting more 
+and more popular. One of the things and another of the mental models is that 
+red and yellow are primary colors for humans. We get attracted to red and 
+yellow more than anything else. That's so that when I look at logos and they 
+use a color red and yellow, like McDonald's, makes great use of red and yellow. 
+Wells Fargo does great use. Especially logos that have those primary colors, I 
+think they have more of an impact long term than the non-primary colors. 
+Basically, one of the things about Coke is that, this brand has got itself so deeply 
+etched into our psyche after all these decades and more than a century that 
+the cumulative effect of everything they've done in the last hundred years 
+exceeds what they've spent in the last a hundred years in terms of brand value. 
+It significantly exceeds that.  
+Warren felt that for a hundred billion you couldn't take away the leadership of 
+Coke. At the time they were investing in Coke the market cap was less than 20 
+billion. Actually, I think probably less than, yeah, I think they maybe 15 billion or 
+something was the market cap. They had a huge amount that they could get. 
+The other thing about Coke is that, (we'll finally turn on PowerPoint. Sorry to 
+talk so long). The other thing about Coke is that these are some scenes from 
+different restaurants in India, in the middle of nowhere, actually, they're not in 
+any cities or anything. If you see that top restaurant there, it's called Prakash 
+Dhaba that's in the middl e of nowhere in India. You see all Coke signage 
+everywhere.  
+Here's how that happens. The Coke bo ttler goes and meets the restaurant 
+owner and says, listen, do you want to paint job? You need furniture and all for 
+  
+Page 13 of 34 
+free? He says, “oh, yeah, of course, furniture's great. The furniture's going to be 
+red. You see all the red furniture; the one table is probably what they had 
+before. The second is he says, “do you want us to put your business name on 
+the top?”  He said, “yeah, sure”. What they do is, you see on the left that Prakash 
+Dhaba name is a little bit there, and the rest is all Coke, right? Here's the funny 
+thing, the restaurant owner loves that. Why does he love that? 
+He loves that because people trust him. He's got a trusted brand. Now they 
+think, “oh, you know, this place, it can’t be so bad, we can get our cokes and we 
+can get all the other food and all that”. It’s what Munger would call “the 
+association tendency”. What happens here is, the Coca-Cola Company gives 
+some matching funds to the bottler, and they tell the bottler, “listen, go paint 
+the town red”. Literally paint the town red, and we'll give you a little bit, kind of 
+a change. You see that the second picture on the left is the inside, not the same 
+restaurant, different restaurant. I think that guy's only an outdoor place. Here 
+same thing, we'll give you a paint job and, all the furniture's red and everything's 
+red, and the guy's probably very happy about it and such. 
+Basically, the thing is that these types of signs and these types of insignia you 
+would see them deep in rural China, very deep in rural China. You'd see this in 
+the middle of nowhere. I mean, the penetration is way beyond the cities and all 
+of that. It is gone deep into the hinterlands. That distribution all the way down 
+at that level is extremely powerful. When you look at this brand even though 
+the company spends less than 10%, the actu al amount of impact it has is just 
+massive. It's just huge. One time I interviewed a guy and he worked for Coke in 
+Atlanta. He had lived with them all over the world. He was originally from 
+Morocco, and he was part of the team that managed the World Cup 
+relationship for Coke with FIFA. That was his whole job, football, and not only 
+him, and probably 30 other guys at Coke.  
+I'll get into this a little bit later, but the association tendency of being at places 
+where humans are happy. The FIFA relationship with Coke and all the global 
+sponsorships, the Olympics, so these are, Disney, all of these places, 
+McDonald's where people are generally ha ppy, Coke wants to be there, right? 
+They've got the etching of this brand over the decades in all these places all 
+over the world is huge, right? Then we get to the managers. Coke had such an 
+incredible model, this is a company that just produces fountains of cash. 
+There's just gushes of cash. You just can't lose money. You just send the syrup 
+and you're getting massive. What the co mpany did over the years is generally 
+speaking, what happens is that when you have businesses with great business 
+models you end up with dumb managers  who do dumb things, because even 
+when they do dumb things, they look really good because the business is so 
+good. Coke would put their money into buying shrimp farms in Thailand and all 
+these unrelated businesses, and almost everything they bought was a far worse 
+business than the core business that they had. In 1981, two guys came on the 
+scene Roberto Goizueta became the CEO Cuban guy, and then Donald Keough 
+  
+Page 14 of 34 
+became under him the president. Ther e  w e r e  s o m e  u n u s u a l  p e o p l e  i n  t h e  
+history of Coke going by the decades but Goizueta was a very unusual guy. 
+He was really good at marketing and branding, he understood this model really 
+well. He was really good at finance, understood capital allocation really well, It’s 
+very unusual to have a number guy with a branding guy put together. Keough 
+was just a great operator. What they did in when they came on the scene in 81 
+is they started dumping all the other businesses. They got rid of everything that 
+Coke owned which was not related to beverages. The only thing they bought 
+was they bought Paramount Pictures in 81. Then they realized what, five, six 
+years later that even that was dump ed and on 87 or 80 they dumped 
+Paramount Picture. What Warren saw was from 1981 till his first purchase in 88, 
+in seven years, with these two guys, finally this was a company that had real 
+capital allocators. 
+What they were doing is aggressively buying back the stock. What the Coca-
+Cola Company started doing was they ha d  t h i s  g u s h  o f  c a s h  c o m i n g  i n ,  t h e  
+dividend was going on. It's the one of the only companies that for 50 years I 
+think more than 50 years now, has raised a dividend every single year. I think 
+there's no other company in the NYC that's done that if some that have 
+maintained it, but they've raised dividends every single year. The first thing they 
+did was they cut out and got rid of all the crappy businesses then sold them. 
+The second is, they started aggressively buying back stock. Basically, they took 
+their cash flows and Goizueta was brilliant. Warren, I think saw what was going 
+on with Roberto Goizueta and Don Keough coupled with all the other stuff I just 
+told you. 
+Now you finally had a business which had management that got it. That's why 
+they went in and Roberto Goizueta himself owned two and a half percent of 
+Coke. He had a significant economic inte rest and went from there. Now the 
+thing is, many of you are skeptical because of the whole sugar issue, right? Like, 
+if I ask you to drink Coke, most people say no, because I don't drink sugar, right? 
+They addressed that this year at the annual meeting. Warren says that, he's 86 
+years old in great health, he has been consuming five Cokes a day, Cherry Cokes 
+since he was six years old. He dismisses all these health issues people bring up 
+with sugar and whatnot. He says that he wishes he had an identical twin brother 
+who spent his whole life eating broccoli. 
+He said, “if I had this identical twin who would just drink broccoli and plain 
+water, then we'd have a test. We would see him at 86, and we'd see me at 86, 
+and we'd see who was healthier” Basically, his perspective was that. I think he 
+talked about it as a joke, but then Munger  elaborated, he said, It is very dumb 
+to discuss negatives about a product without discussing the positives. One of 
+the things we have to realize as humans is that; yes, excess sugar has problems, 
+it causes health issues and whatnot, but having a Coke at certain times will add 
+a lift to your step. That lift to your step is very difficult to quantify. I think this is 
+the reason why Warren says he wishes he has a twin brother. 
+  
+Page 15 of 34 
+Because the thing is, that guy lives such a happy life on all fronts that I think 
+science doesn't fully understand the impact of low stress and happiness on 
+health. There's an impact there, which we don't fully realize, but  I'm pretty sure 
+it's there. Yes, if you go wild and crazy and have huge amounts of sugar 
+consumption, and then that leads to health issues, there's a problem. But you 
+can be Usain Bolt drinking two Cokes a da y and be just fine, so they don't see 
+the sugar issue being a significant issue for Coke. The second issue with Coke 
+is they now have more than a hundred brands, a large number of their brands 
+including Coke, have no sugar, and a large number of them even have no 
+carbonation. 
+ 
+When you get to these places, they're not pumping Coke over there, they're 
+pumping Coke, they're pumping Dasani, they're pumping Minute Maid, they're 
+pumping all kinds of products through that distribution engine. It's not just 
+sugar being pumped through, it's a sugar. The other thing about the company 
+is just to tell you how Coke has made a lot of blunders over the years. One of 
+the blunders they made is that they never wanted the Coca-Cola product to 
+have anything but the true Coke product in it. When there was a concern about 
+sugar, and people were talking about diet  drinks, they did not want to create 
+Diet Coke, and they did not want to call it Diet Coke, and they didn't want to 
+take that beautiful bottle and the red co lor and mess with it. They didn't want 
+to do that.  
+What they did is they called that product tab, okay? How many of you heard of 
+Tab? Some of you, I see the older guys have heard of Tab, and for the longest 
+time, Tab was this stepchild, and then Ta b became Diet Coke. Eventually they 
+realized that we can put the Coke bottle with the diet without the sugar and 
+might still work, and it worked. They got to it. Then we are getting to finally the 
+part about what I call the Glotz’s section. How many of you read the Glotz’s 
+paper, I think some of the folks have re ad it, right? That was a speech which 
+Munger gave when they told him it was useless. 
+Munger kind of inverts logic. He says, “how do you create a $2 trillion company 
+with a $2 million investment?’ How do you create that? The way he does it is he 
+says, “look let's go in 150 years. He says, in 150 years, how do we take 2 million 
+to 2 trillion?” He says, 150 years, 2034 which is 150 years from when Coke is 
+formed. He says that if there are 7 billion humans and they're consuming the 64 
+ounces, and then half of it is flavored, then one half of the flavored comes to 
+Coke, and we are getting about 2 cents of serving, let's say by then, with 
+inflation, we're getting about 4 cents of serving. You run on the numbers that 
+Coca-Cola at that point is making about 117 billion a year in profit, which would 
+give you a market cap of 2 trillion. 
+He says, “that's how we get to 2 trillion”. He says that “what are the things we 
+do to create that 2 trillion?” He says, first of all, this guy Glotz, who is setting up 
+the Coca-Cola Company, doesn't want to call it Glotz’s flavored sugared water. 
+  
+Page 16 of 34 
+He wants to call it Coca-Cola because he likes that name better. He creates a 
+name, and he does a lot of stuff to promote the name. The second is, he says, 
+in 1884, consumption of sugar and caffeine is well accepted in society. We have 
+coffee, tea, lemonade. We use sugar an d caffeine because people like that. 
+Using sugar and caffeine, we're going to create this product, and not just the 
+sugar and caffeine, what we'll do is we'll give it a color, like the color of wine to 
+make it look kind of high end, and we'll give it carbonation to make it like 
+champagne. 
+We'll put the sugar, caffeine and the color of wine and carbonate it, and now 
+we've got a great product, and then we sell it really cheap so that everyone can 
+buy it. Then he said, “No, we have a choice. Do we create a beverage that's hot 
+like coffee or tea or beverage that's cold?” He said, “well, cold beverages can be 
+consumed in a much higher volume than hot beverages”. When you are kind of 
+near the aquaria and it’s really hot, you can have an almost unlimited ability to 
+consume cold beverages. He says, “it's a no brainer you go with cold”. He says, 
+you go with cold. Then he says, now we go into the mental models of the way 
+human brains are screwed up. 
+He says, the first is the association tend ency, which is, put it in places where 
+people are happy, because when people are happy and they see coke, then 
+they associate happiness with Coke. Then we finally get to our next slide, which 
+is my favorite slide, the Marilyn slide, right? The association tendency is, if 
+Marilyn's drinking it, then definitely I want to be drinking it too, right? The 
+association tendency, what Coke did in all its ads for the longest time, and even 
+now, is they associated with celebrities. In India, they'll pick some of the top 
+Bollywood actresses, and the same thing here. They'll put these people in 
+because the association tendency human’s kind of do very well with that. The 
+social proof tendency of humans is another mental model, which is, ‘monkey 
+see monkey do’, that is, when we see other people drinking coke, we want to 
+drink Coke too. 
+Show people having a good time with Coke and all of that. Then he says, do it 
+both ways. Do it with fountains and do it with bottles. Then he says, another 
+thing we would do with the Glotz beverage company is that we would basically 
+create this aura around secrecy. People think there's something unusual about 
+Coke because the formula is secret, it's in a vault in a bank. Quite frankly, the 
+secrecy means nothing, because he says  that eventually with food science 
+going where the way it was going, everyone would figure out how to make 
+something close to Coca-Cola, but by the time they figured it out, we would 
+have had brand and other things come in, which would help us kind of keep the 
+competition at bay. 
+He says, the food chemistry that helps our competitors make a product like 
+ours also helps us by reducing the unit costs. Like they went in the US from 
+sugar to fructose, which was a lot cheaper, and they just made their whole, all 
+their efficiencies in how they got there. Then he goes to Jacobi Inversion, which 
+  
+Page 17 of 34 
+is, what not to do, what are the things that you don't do to get to the 2 trillion? 
+He says, the first thing that you don't do is avoid losing half the brand name. 
+The Coca-Cola brand name has two parts the Coca and the Cola, right? He says, 
+don't lose either part of it. If anyone came up with anything called Cola, sue up 
+and take them out. He said that in an ideal world, he would have made sure 
+there was no other cola, they could call it whatever else, Glotz bottled water or 
+whatever, or carbonate water, whatever, but no cola, right? 
+That's the first thing he'd say. You wouldn't lose half your brand name. You 
+would avoid envy by basically having a standard great product at a great price, 
+which they did. Then the final thing he said is that, don't change the flavor, even 
+if someone comes up with something bette r, keep the flavor, because it's not 
+about the flavor, it's about the brand. That brings us to the Cola wars, which 
+very few of you are familiar with. How many of you are familiar with the Pepsi 
+Challenge? Yeah, that’s the usual cast of characters except you… How do you 
+know about the Pepsi challenge?  
+Speaker: I read a lot of media. 
+Mohnish: Okay, all right, good. Some of us lived through the Pepsi Challenge. Did you 
+take the Pepsi Challenge? All right, there you go. Basically, Pepsi had a problem, 
+in the mid-eighties they had a problem. They knew that people preferred Coke 
+by a huge margin and to Pepsi by like a two to one margin. They knew that their 
+brand was inferior. If Burger King offered Pepsi and not Coke, then people 
+would not think of Burger King as well. Every way they had to discount stuff 
+and all these things was really hard for them.  
+John Sculley, before he went to Apple, he became the one who went to Apple 
+and then ousted three jobs. Before he went to Apple, John Sculley was the 
+Chief Marketing Officer of Pepsi. He was brilliant. He said, how do I take out 
+Coke? He said, the way I take out Coke is I take away the brand name. The way 
+I take away the brand name is I ask consumers to do a blind taste test. In a blind 
+taste test where if you put in front of someone a Coke and a Pepsi, they'd go 
+for the Coke because of all that conditioning for the decades.  
+But now, if you take with a brand and you just give those tasting cups and then 
+have them taste it, well, Pepsi is sweeter . It's taste better, right? In the blind 
+taste test, people will say, oh, I prefer this one. Then they show you that it was 
+Pepsi, right? They started taking market  share, and Coke got rattled. Goizueta 
+and Keough, who were part of Coke at that time got freaked out. They said, 
+basically these guys have figured out that our product is inferior. What they did 
+is they came out with new Coke, and new Coke was sweeter, and it was better 
+than Pepsi. There was a major uproar. All the die-hard Coke guys were horrified 
+that how can you change the formula? I mean, it's all about the formula. I want 
+Coke. I don't want new Coke. There was this huge fiasco that now they had 
+messed with the family crown jewels. They took away the one thing that was 
+there, which was that secret formula and all the things about the secret 
+  
+Page 18 of 34 
+formula. In reality, Coke had changed its formula many times, but they never 
+told the public that they changed the formula. They just did it quietly. This was 
+very visible. They called it new Coke, and there was a huge backlash. The the 
+Coca-Cola Company realized that they  screwed up. Then they introduced 
+classic Coke and then there was new Coke and classic coke. You remember 
+that? We had both, right? This was even more confusing.  
+Then they finally realized, we got to kill this whole thing, go back to just Coke. 
+That's what they did. They went back to only Coke, and they survived that. What 
+Munger says is that, look, this essay I wrote about taking 2 million to 2 trillion, 
+he said, in reality, the company started in 1884, and by 1896, 12 years after they 
+started, they had no earnings, and they had 150,000 in total assets. Much less 
+than 2 million they started with. He says they lost half their brand name. They 
+were not able to protect the Cola part of the brand name. They lost that, and 
+they also screwed up with the envy of Pepsi, and they went to New Coke and 
+all of that.  They did all these mistakes, and they also had what they did, I think 
+in 1900, they didn't think bottling was going to be that big. They thought 
+bottling is kind of a side show.  
+They signed these agreements with th ese bottlers, which fixed the price of 
+syrup permanently into the future. Like in 1900, they said, we’ll give you syrup 
+at whatever cents per pound for the next 100 years fixed price. It completely 
+destroys the model because then sugar we nt sky high and they started losing 
+money. Then they are telling the bottlers, we can't give it to you. They said, no, 
+you have a contract. They had to battle the bottlers, and finally, they got some 
+l e e w a y  fr o m  t h a t .  T h e y  m a d e  t h a t  m i s take. Then what they had done is the 
+bottling rights, what they had done originally, when they gave bottling right, it 
+was a day's horse ride. The way they set it up was that they looked at how far a 
+horse could go in a day and a back, and that's how they defined the territory of 
+a bottler. Okay. That didn't make sense once you got to automobiles. First, they 
+had very big territories because Coke started expanding. They wanted to 
+reduce those territories; the bottlers didn't want to give that up.  
+The second is that they ha d  m a n y  u s e l e s s  b o t t l e r s ,  r i g h t ?  I  m e a n ,  t h i s  i s  t h e  
+license to print money. You got a monopoly in an area, you got the Coke 
+product, and it's going to sell. You don't need to be that great a businessman. 
+They had to really kind of go through a lot of work where they brought back a 
+lot of bottlers and did all kinds of things to get their model back. But despite all 
+that, Coke from 1884 till now with all the dividends they've given out, their 
+market cap is huge, which Munger too gave in his speech that the market cap 
+was 125 million in 1996. He said, If Coke's market value grows by about seven 
+and a half percent a year, you will get to 2 trillion from 96 to 2034. If you go 
+today, of course 96, I think it was inflated multiple. If you go to today, Coke is 
+at 190 billion to get to 2 trillion in about 2034, you would need to be at about 14 
+and a half percent a year. I am not sure about that. But the other thing that 
+could happen by that time is since we get these cycles in stock markets, you 
+might have a 30 multiple on the company. Coke was sitting at a 40 multiple in 
+  
+Page 19 of 34 
+1999. There is a chance you might get some crazy multiple at that time and that 
+might get you to the 2 trillion. Basically what I wanted to just say is that you can 
+see the work that Warren and Charlie did. Usually, the thing is, One, they get a 
+little bit of information e dge because they are willing to dig deep. They are 
+willing to read a lot and whatnot which most people aren't willing to do. The 
+second where they get a lot of advantag e is the synthesis. When they read, 
+what are they kind of extracting out that model? The third is that they 
+understand that when you have multiple models into playing with each other, 
+I mean, when you put a great manager like Goizueta on top of a great business 
+you just get phenomenal returns. I mean, those are just exceptional in terms of 
+what ends up happening is great business with a great manager. Then when 
+you get to some of these other nuances about personal space and all these 
+other things about brand and such you get to kind of these [inaudible][1:14:04] 
+effects. In the investment business, I think that this is the holy grail, this is kind 
+of when you get to this level of analysis on a business you got it, and then you 
+got it there. The key is to make very few bets and make very infrequent bets. 
+When seven moons line up, you bet big and sergeant rest of time don't do 
+much. With that, we will open up for any questions or comments you guys have. 
+Student: I will ask the first question, thanks very much for talking about the Coke 
+example. One of the things I was wondering about those, you talked about how 
+Coke is great business, right? You talked about a lot of the qualities that make 
+the product very good and also the structure of the company. How do we think 
+about how much the company is worth though? Even the great business is not 
+worth infinite? How do we go from what is a good business to whether that is 
+a good stock to purchase. 
+Mohnish: Right, Munger gives us the answer. He  says in 1996 going forward, 38 years that 
+the value of the business is 16 times the current value plus all the dividends. He 
+tells you that the way they got to the value of the business was they just looked 
+at, unit volume and humans and market share and did some math on that. Then, 
+the question you ask yourself is how real is that and the reality is quite frankly, 
+from the point he made the speech till now, it is quite real. I mean, the sense 
+that the unit volumes have continued to go up. Coke has continued to increase 
+and expand its brands. They have got a lot of stuff now, which is non-sugar, 
+non-carbonated, using that distribution engine and the distribution engine is 
+very expensive to recreate. If someone comes up with a drink like Monster, for 
+example for them to replicate what Coke has is very uphill. I mean, it is a huge 
+undertaking. You are better off selling to a Coke, even at a high multiple. For a 
+Coke, even if they pay 50 times multiple for a company that they think has 
+global potential, they will get that very quickly because the volume growth, 
+pumping it through their system. Having that distribution channel gives them 
+a huge edge. You would have to have some change along the lines of humans 
+not consuming liquids or something along those lines, which I mean, all 
+businesses have issues. You can't get to Bulletproof, but I would say Coke, I 
+  
+Page 20 of 34 
+think gets as close to Bulletproof as you can get. It is probably one of the… and 
+I think that is why Warren put a quarter of the pie into it. 
+Student: I know that you mentioned as a value investor, you make very infrequent bets. 
+When you really go in big, could you give us a little insight into what is your 
+daily life like? Obviously you are not buying and selling every day, do you 
+constantly just think about stuff, analyze new companies. What do you do on a 
+daily basis kind of as a value investor? 
+Mohnish: Well, I think you would do well as a value investor if you enjoy reading and enjoy 
+spending time with yourself. Those are good traits. While human contact is 
+good, I enjoy those things. A few years back, I was having dinner with Charlie 
+Munger and he had mentioned that he would love to see long histories of 
+General Motors, and he said he thought that would be a great class to teach, I 
+said, well, you can, you can see long histories of the business in something like 
+value Line. He said, “No, that is not what I am talking about”. He said, “I want a 
+hundred year history of GM, and I want a hundred years of numbers for GM, so 
+where can I get that?” I wasn't sure wh ere he can get that. but recently some 
+kids at Boston University I was talking to them. I was doing analysis of American 
+Express, and they said, Oh, yeah, they had annual reports from 1950 on Amex. I 
+just asked them, Hey can you get old reports of General Motors and they said, 
+yeah, we can get all the reports from the beginning. They sent me a Dropbox 
+file which had every GM annual report, I think from like 1911 onwards. I emailed 
+Charlie's assistant. I said, “hey, you know, Charlie mentioned this to me a few 
+years ago. I have the reports if you want some, I will send you the link to them”. 
+She said he is very excited to receiv e them. Then I sent her the Dropbox link 
+and then she wrote back, this was just before the Berkshire meeting, and then 
+she wrote back saying that I have been instructed to finish printing them before 
+we leave Omaha. It was like 24,000 pages, it is a lot of pages. She said, “I am 
+busy printing”, and this was on a Tuesday, I think normally Charlie leaves Omaha 
+on a Thursday, and I saw him in Omaha on Friday. When I saw him on Friday, I 
+said did you start reading the GM reports? Then he goes into this whole thing 
+about the nature of the company and all the things in the early years and this 
+and that, and he was plowing through them. Then I met him again after that. 
+He was picking up insights into GM. I don't think they are looking at making 
+investment GM or anything like that. I think this is pure curiosity to understand 
+how the world works, right and so I said, Okay, let us do this myself. Let us start 
+m y s e l f  r e a d i n g  G M  r e p o r t s  f r o m  1 9 1 1  t o  s e e  i f  w h a t  i n s i g h t s  c a n  b e  g l e a n e d  
+because I had never done that. I have never picked up the 1919 Coke report, for 
+example. I started reading General Motors, and I got through to the fifties. Now, 
+I have gone through from 1911 to the early fifties, and my God, it was fascinating 
+because I think the thing is that it is like asteroids coming in, but they don't 
+know it because it is like 1928 and everything looks great, and then, the crash 
+comes, and even that crash is nothing be cause in 1932, from 1929, 1932 really 
+crash, and then even that is nothing because all through the thirties you are 
+going through really tough times. Then like in 1941, 1942, the companies were 
+  
+Page 21 of 34 
+informed by the US government not to produce any passenger cars. From 1942 
+to end of the war, GM is producing zero cars. They are producing airplanes and 
+all kinds of things of the military, but no cars. Then you get to 1946, and the 
+country has not had a single new automobile produced for like four years. This 
+is just an amazing history. Of course, you can see the revenues and the cash 
+flows and the brands are being built and all the different, they introduce the 
+automatic transmission and all of that. I gained a lot of appreciation that you 
+get a much deeper, richer insight into these businesses with some of that 
+reading, you can also get some of the same insights from reading biographies 
+or autobiographies. Like I am sure Warren and Charlie read Goizueta’s book, I 
+would love to buy a World of Coke and then the previous guys at Coke had 
+written several books on Coke. You could go back and look at the history of the 
+company through those biographies and such as well. I think that if you can set 
+your life up in a manner which gives you large chunks of time to do reading, but 
+reading not from the context of, I am going to make an investment reading 
+from the context of just getting better at knowing how the world works. Then 
+I think what I find with Charlie is that, when you look at recently, like the Valiant 
+Saga, some of you might be familiar with Valiant, and I don't think Charlie's ever 
+read annual report by Valiant. I mean, he sits on a board of a hospital, but a lot 
+of people sit on hospital boards of access to different aspects of the healthcare 
+industry. But he had insights about Valiant that a lot of hedge fund guys didn't 
+have. They had armies of people doing research on it. You get to wisdom, which 
+is different from just being smart. I think that is what it gives you, it gives you a 
+certain wisdom. If you are starting at your age and sounds like you have already 
+started, which is good then you can start building up some advantage over your 
+peers over the years.  
+Student: Hello. My question is what is your biggest mistake as an investor? 
+Mohnish: There are a lot of mistakes. I th ink the mistakes are kind of part of the 
+landscape, and hopefully they teach us a few things. I am trying to figure out 
+exactly how to answer your question in terms of, if I think about it in terms of 
+percentage of net worth that got lost or net worth of the funds and such, I 
+would say probably the biggest mistake  was in 2008 or so where we had 
+investment in a mortgage company, Delta Financial, and it went bankrupt. We 
+lost 60 odd million which is about 10% of what we managed. It is expensive, but 
+you learn lessons from that. I think that is a big one. I think that in the late 
+nineties, 99 early 2000, I had started a private company. It was called Digital 
+Disruptor that we did some partnerships  with brick-and-mortar companies to 
+bring out kind of dot com variance of  those companies. That didn't go 
+anywhere, I personally lost about 2 million, which was quite a bit of the net 
+worth at the time. I had outside investors that lost about 3 million. But we did 
+really well. That mistake took place in late 99 and early 2000. But those 
+mistakes at that time helped us do really well in Pabrai Investment funds in the 
+early years because we were able to side step a lot of stuff just because of the 
+learning. I think every time, what I have found is that when there are mistakes 
+  
+Page 22 of 34 
+if you just look at them carefully they are blessings because they are going to 
+make you better and help you get better. John Templeton, great investor, used 
+to say that you are going to be wrong in investing one out of three times, one 
+third of the time you are going to be wrong. I think he is right. Sometimes you 
+could be wrong where you don't lose money, you might flatline and such, 
+sometimes you might even make money when you are wrong. But usually that 
+is the case. I think even in the case of Warren and Charlie, if you look at their 
+record they have large numbers of mist akes in their record , even though you 
+can see how bright they are, what has happened with them, which has been 
+really good is that they have been right on the large ones. But if you look at the 
+sheer number of investments, there would be a large number of investments 
+they have made, which didn't go the way they wanted to go. Some large ones 
+they were able to save like Gen Re was a mistake. They were able to kind of 
+salvage that. I think the thing is, it is very difficult in the investment business to 
+avoid mistakes. I think you are going to make mistakes. The key is to keep 
+learning and getting better. Over time , even with the one third error rate, 
+because one third won't mean that you are going to go south on one third, you 
+might lose something there. You will end up with probably a better than 
+average record if you keep at it.  
+Student: Yeah, thank you for the talk. We can see that you learn a lot from Warren Buffett 
+and Charlie Munger and it is not easy to build up the business humans 
+throughout the years. My question is if  you are going to decide whether to 
+invest in company that is totally new to you, what will be the first features you 
+will look? 
+Mohnish: Well, I would say that it is a very good idea to consider indexing. One of the 
+things or one of the reasons I wanted to give this talk is that I think it is not easy 
+to be a weekend investor. If you think about, for example, the work that they 
+did on Coke. It is a lot of work. It is a lot of work to read a hundred years of 
+annual reports. For the large number of investors index investing will do quite 
+well for them. There is nothing wrong with  that. That is perfectly fine. I think 
+that if it is a good idea to study a business for the sake of studying it, it is not a 
+good idea to study the business of, just  purely from the perspective was, do I 
+want to invest in this or not and one of the things that happens is that there is, 
+humans have commitment bias. What happens is that when we spend a lot of 
+time on something, we feel we should get some return for that time and so it 
+is a little bit of, I would say, a danger if you say that I am going to research a 
+company and then decide whether I want to invest or not. I think you are better 
+off just researching the company with no such preconceived notion because as 
+you go deeper into the business you are spending more time and then you are 
+feeling like, Well, if I don't do anything, what is the point and so on. I think that 
+maintaining the objectivity is important and just not being compelled to act. 
+My younger daughter's in the room, I will repeat a story I told her one time. I 
+picked her up, she goes to school in New York, and so she is usually coming in 
+these late-night flights. I picked her up one time at, I think one in the morning 
+  
+Page 23 of 34 
+from LAX, and we were driving back. I think it was December last year we were 
+driving back home from LAX to Irvine. She had worked in the summer as an 18-
+year-old, and she had made a little less than $5,000 over the summer. The IRA 
+rules allow you to put up to $5500 into an IRA, or if you make less than 5500 
+the amount you earned. If you made 4,000, for example, you could put 4,000 
+to an IRA. I had asked her to open a Roth IRA and then we had put the $5,000 
+or so into that Roth IRA. She is in the car almost falling asleep and I was saying, 
+you’re 18 years old let us fast forward to when you are 68 years old which is 50 
+years from now. Let us say that, that $5,000 is growing at something like, let’s 
+say 10% a year or something, for example. I said that, “what would it be when 
+you are 68 years old?” If you are compounding at 10% rule of 72 every seven 
+years, and money is going to double. You could take 49 years due to the power 
+seven. What is due to the power seven is that 128. You take the 5,000 and you 
+are at about something like 700,000 or something like 650,000 or something 
+at that rate. That is at the age of 18. If she does another internship at the age of 
+19 with something similar, and then eventually at maybe 22 or 23 enters the 
+workforce. Let us say when she enters the workforce, she gets a $60,000 job 
+or something. At that point, you are maybe hopefully saving 15%, 401k and 
+reducing your income by 10% or something. I mean the key to getting wealthy 
+is to spend less than you earn. Once I told her that she was going to have like 
+650,000, she was wide awake and she said, what? how did that happen? I 
+explained how it happened, and then I said, but that was at 18. I said, Then at 
+19, you do another internship that becomes another 600,000 or 20, you do 
+another internship, and eventually you enter the workforce and eventually your 
+thirties, you are making probably six fi gures and so on. If you keep spending 
+less than you earn, what happens when you are 70. Eventually she gave up, she 
+said, the number is too big, right and the thing with that is that doing no stock 
+picking, to your point, no reading, just party all the time, right? But just make 
+sure that 15% gets saved. The thing is that the key to getting wealthy is very 
+simple. Number one, spend less than you earn. Number two, put it into 
+something consistent, some kind of S&P index or something like that. Then 
+number three, don't take loans against it, and don't use it to go on vacation or 
+down payment for your house or any of that. Do all that somewhere else, and 
+just let this go. It is amazing what those numbers will end up being at that time. 
+That is a good way to go and it is not a tragedy if she doesn't get 10%, even 7% 
+will double every 10 years. The key is to start early and have a long runway, and 
+then you end up doing just fine.  
+Student: Hello. I read that you have an insurance focus company and this is kind of similar 
+to what Warren Buffett has done with his insurance companies. I was 
+wondering what kind of insurance activities you involved or operations you do 
+and how this might relate with your investment fund? 
+Mohnish: Yeah, We bought an insurance company. It is based in Louisiana. It does 
+workers comp insurance in five states around the south and it does 60 odd 
+million in premiums. It is a nice business. But one of the reasons I wanted to 
+  
+Page 24 of 34 
+buy the company is that I felt that I would really learn the insurance business. I 
+am getting a big education on the insurance business, and quite frankly, I think 
+I would rather own See’s Candies. That is what I learned, I would rather own 
+See’s Candy than the insurance business. One of the reasons I did a talk is to 
+get my head focused on Coke and not insurance. Insurance is good business 
+because, obviously you get other people's money to hold but also it has 
+attributes of a commodity business because whenever our insurance company 
+is trying to sell a policy, the people who are buying a policy, think of it like a tax 
+not, no one thinks they are ever going to file a claim. They want a low price, and 
+they take the cheapest bid. The ec onomics are very different from the 
+economics of Coke. One of the things I learned from owning the insurance 
+company is that I really want See’s. That is what I am going do, focus more on 
+See’s, less on insurance. That is what I would recommend to you as well. 
+Student: My question is about cloning. Charlie talks about how you got to look at what 
+other great investors are doing. In particular, when you look at 13 apps you are 
+kind of looking back in time. How do you personally, when you look at these 
+things, decide or separate the good de cisions from the bad decision? What is 
+your yard stake for this? 
+Mohnish: Well, I think that when you are cloning, there is a couple of things to look at. 
+One is you want to look at the ideas that are the greatest conviction ideas that 
+where people have put the most money. If someone is for example, an investor 
+who has a 50-stock portfolio and nothing is more than 3% of the portfolio, I 
+think there is no point cloning them because you just can't see where they have 
+conviction. But if someone is running a 15-stock portfolio, and the top three 
+stocks make up half the pie, for example, then you know that they have got 
+conviction on those. If you understand something about the way their brains 
+work and their past records and so on, then cloning their best ideas, or at least 
+looking at their best ideas of the starting point for research is a very good thing 
+to do. I would just say that, like in th e Coke example, by middle of 89, it was 
+public that Warren was buying Coke. In fact, when the annual report came out, 
+the price was about 10% higher than thei r cost price. Two years later it had 
+doubled. There was a lot of time for anyone to replicate that if they wanted to. 
+For example, I think typically it is not at all too late to look at something a few 
+weeks after someone has bought it. Because typically, if you are cloning people 
+who are value investors, they are making kind of a longer-term bet and they 
+are looking at relatively large discounts. If you can reverse engineer their logic, 
+and if you can reverse engineer their reasons and still looks cheap and runway 
+still looks good, then that gives you some basis to do something. Yeah.  
+Student: Can you share with us a little bit about your thoughts as it relates to opportunity 
+cost? Also, when you are weighing up a decision to make an investment, how 
+large of a position are you willing to put into a certain investment as it relates 
+to your entire portfolio? 
+  
+Page 25 of 34 
+Mohnish: Yeah, that is a great question. Well, I think that, I used to run Pabrai Investment 
+funds with a very simple model that if we would make a bet, we would make it 
+10% of assets, kind of a 10-stock portfolio, 10, 12 stocks made kind of sense to 
+me. What I found is that during the fina ncial crisis, we were  finding lots of 
+companies where they were kind of enti re classes of businesses that were 
+really cheap. We could get some diversification by buying a basket. I also found 
+sometimes it was better to not always do 10, sometimes a smaller bet was 
+justified. Now what I do is I will either do a 2% or a 5% or 10% just depending on 
+what it looks like. If I get to the point where you are seeing very high discounts 
+to underlying value, at the same time very low probability of a loss, then you 
+can step up and otherwise you can pull back. But I would say that the less bets 
+the better. The more you know about the business and the greater the 
+conviction, the better. Jeff is in the real estate business, he does very well. 
+Specifically in single family homes renting and flipping both. The thing is, if you 
+ask someone like Jeff, you might question what he is doing because everything 
+is in one asset class. It is in almost one geography, maybe a couple of 
+geographies. You might say there is a lo t of concentration there, but at the 
+same time the degree of knowledge is very deep. I sense they know what they 
+are doing. In fact, looking at the two of us, I would think that I am maybe too 
+diversified and you might have it right, because you are very close to what you 
+are doing, you know what you are doing, and you have been in that space for a 
+long time. There is a lot to be said for the depth of knowledge and such. So, 
+yeah. 
+Student: I have a question, and it is why did you decide to sell your initial company, 
+TransTech? 
+Mohnish: Oh because I lost interest in it. I have a rule I followed, actually, I followed that 
+almost from the beginning of my career, that if on Monday morning I am not 
+fired up to go to work, then I do two things. Number one, I don't go to work 
+and number two, I hit the reset button. In the past, before I had my own 
+business hitting the reset button was easy  because I could just go to my boss 
+and resign which is what I did. I did it twice where once I moved from one part 
+of a company to another part because I just was not excited on Monday 
+morning. The second time I did that was when I quit to start my business 
+TransTech and I ran TransTech from about 1990 till 99, about 10 years. At about 
+94 or so, I heard about Warren Buffett for the first time, and I started to learn 
+about investing and was quite intrigued by that model and approach. I found 
+that from 94 to 99, I got more and more interested in investing and less and less 
+interested in the IT business to the point that I got to a point in, I remember the 
+date it is in early February, in 99, where I was not excited to go to work. It was 
+a very strange feeling because, at the time, the company had about 170 people 
+who thought I was excited to be there and I couldn't fake it. I was very confused 
+because I said, there is no one to resign to, there is nobody for me to hand my 
+resignation and do something else. I was part of a group called YPO and I met 
+my fellow president and I explained to them the way I was feeling. We had a 
+  
+Page 26 of 34 
+discussion and they made it pretty cl ear and easy for me. They said, you can 
+own the business without running it. Just find somebody else to run the 
+business and you can go do whatever else you want to do, right? I thought 
+about it, I said, Yeah, that is it, why didn't I think about that? That sounds like a 
+good, easy decision. They said, look, it will take you six months, maybe eight 
+months to find someone. I couldn't think of someone in the company who I 
+could think is obvious to run the business. They said, just do a search and look 
+for someone, and then when you find someone, you can leave the arena and 
+they said that since you know that you have a finite time, six months, put a 
+smile on your face and go to work every day, because it is coming to an end. 
+That is what I did. They asked me another question. They said that what do you 
+want to do after this new guy comes in and is going to run the business and I 
+told them that ideally what I want to do is I want to go work for Warren Buffett. 
+That is really what I want to do. I don't want to run the IT business. I want to go 
+run work for Warren. They helped me write a letter to Warren applying for a job. 
+Of course, in a week he wrote back saying, “Thanks, but no thanks”. Actually, in 
+just about five or six months after that the new CEO came on board and in fact 
+after Warren said no, the same group told me, why don't you just set up a 
+partnership like the Buffett partnerships? I didn't think that was such a bright 
+idea because I said I am not sure how it would scale or whatever else. Anyway, 
+I set up a partnership, but I treated it more like a hobby. Then this guy came on 
+board in like a third quarter of 99, and he took over. A month later, he called me 
+and said, someone wants to buy the business. He had just moved from Texas 
+to Chicago, so I didn't want to pull the rug out from under him. I asked him what 
+he preferred, whether he preferred that we keep the business or we sell it and 
+he said, sell it. I think the reason he said we should sell it is because all his 
+options, everything vested right away one month after he arrived. The people 
+who wanted to buy the business were going to give him a new deal and a new 
+set of options. He didn’t even take two seconds to tell me to sell it. That is what 
+we did. The good news was that because this person was already on board they 
+weren't looking at me to run the business, because I already left the scene. Then 
+when we were kind of doing the paperwo rk for the deal, they still wanted a 
+non-compete on me, and they wanted like a four year non-compete. They said, 
+“for four years, you will not enter the IT business”. I told them, I said, “can we 
+make it 40 years instead of four and just add a couple of million to the purchase 
+price?” Because I was absolutely sure I was never going to go back into that 
+business. They said, “No, we are not doing that. We just want four years”. That 
+was that. Sorry for the wrong long answer. 
+Student: I want to ask a follow up to this. You sold your IT business and then you moved 
+into investing and of course, Pabrai Investment Funds has been successful. I 
+was wondering what you found to be an unexpected challenge that you 
+wouldn't have expected before you became a professional investor? 
+Mohnish: I didn't really find it challenging. What I found very interesting was that couple 
+of things. One is that, when I started the funds in 1999 Buffett had ended his 
+  
+Page 27 of 34 
+partnerships in 1969, 1970, almost 30 years. The best that I could tell in 30 years, 
+I didn't know of anyone who had set up a model, just like the Buffett 
+partnerships in running, like with zero fees and one for was 6% and all of that. I 
+thought that was kind of strange because I thought that that is a good way to 
+get a competitive advantage because you are basically not telling people, the 
+industry works on just asset gathering an d fees and all of that, and it doesn't 
+take into account the interest of the investor. I thought that focusing on giving 
+the investors a good deal would be very good. What ended up happening. First 
+I thought about the funds as a hobby. I didn't even think about trying to scale 
+it. Then when the business  got sold, and I started running it, there was about 
+two and a half million, we started with 1 million, we had about two and a half 
+million a year later. I said, “why do I treat this like a stepchild?” Why don't I focus 
+on building this business the way Warren built the business? Of course, there 
+are some issues because the SEC doesn't allow you to advertise or solicit and 
+all that. I was always concerned about how am I going to get more investors 
+and such, but then that problem also I figured out a solution. When we first 
+started, we had eight investors when we started with 1 million, and a year later 
+we had 17 investors. Of course now it is a few hundred, but so when we had 
+those eight investors, and I remember we had our first annual meeting, which 
+was around a conference table and then we went for dinner in my old office in 
+the IT firm. I told these guys, because that time I decided that we want to scale 
+this fund, but I don't know how to scale it. I said, look you have been put on 
+Earth for one reason, and the reason you been put on earth is to bring investors 
+to Pabrai Investment funds; that is your mission. Talk to friends, family, and 
+fools and bring them in, have them contact me, because if Jeff contacts his 
+friend and contacts me, that is fine. I just can't contact them directly, right? 
+What I learned about humans is that, humans are looking for direction. They 
+n e e d  t o  b e  t o l d  w h a t  t o  d o ,  o r  l i k e  B i l l  G a t e s  s a y s  t h a t  e v e n  i f  y o u  a r e  a  
+monopoly, you have to ask for the order. What I found is that these investors 
+were quite happy, and then they starte d introducing me to some of their 
+friends and family and so on. We started growing and scaling from there. I didn't 
+really see much of an issue. It was a lot of fun to try to in effect. I was reliving 
+the Buffett partnerships about 30 years later. The real first storm we faced was 
+really about nine years after that when we hit the financial crisis. That is when 
+we had Delta Financial go to Zero and so on, and then had to work through that. 
+But I founded a very blissful existence. It was really extremely different from 
+the IT firm. I just left with the 170 people because I had just myself an assistant 
+working 10 hours, and that was it. It was afternoon naps and everything else 
+was great, so nothing to complain about. 
+Student: Hi. I read that you have a foundation, Dakshana foundation I hope I am saying 
+it right. Can you explain what it means, how you thought of it, how you formed 
+it, and how you decided how we would operate? 
+Mohnish: Sure. My wife and I set up Dakshana I think in 2007. In 2007, our net worth went 
+over 50 million. I have always felt that large inheritance is a burden on your kids. 
+  
+Page 28 of 34 
+They are not really helpful to them. Actually, my kids are both here. I think they 
+would endorse that idea, especially now that my younger daughter knows that 
+she is going to have more money than what she knows how to do without any 
+help from dad. Basically, once we crossed 50 million, I said I was in the early 
+forties that I did not want to start with  a give back when I was really old, 
+because then I wouldn't be able to do much. I would just be able to write a 
+cheque. I knew that giving money away is more difficult than making it. I 
+wanted to have many years of ability to make mistakes, learn and then get 
+better. What we did is we set up the foundation in 2007 and decided we will 
+give away 2% of our assets every year. That would give us over a million dollars 
+a year, and million gave me enough money to do some experimentation, and 
+the idea was to lose, hopefully lose and learn. In 10 years, we would figure out 
+some model that worked. What ended up happening is that we didn't lose any 
+money because in the first few weeks we got traction. I wanted to focus on 
+education. I wanted to focus on underpriv ileged in India. The idea was, if you 
+give a man a fish, you feed him for a day, you teach a man to fish, you feed him 
+for a lifetime. I wanted to teach fishing to very poor kids. We found a model 
+where we identified very poor and gifted kids, and we prepared them for the 
+IIT entrance exam. That model basically forced the Indian government to give 
+large subsidies to these kids once they got in. It worked really well. I mean the 
+wonderful thing about Dakshana is that all of the operations and work is in 
+India. I only go there a couple of times, and usually when I go to India, I never 
+spend any time in the Dakshana office. I think half the time, I have never been 
+stepped in there. I am usually going to either the schools where we run a 
+program or to the homes or the scholars in different rural areas. The team in 
+India, actually, I was very lucky that  we got a great partnership with the 
+government of India. We got really good  people, have a great CEO, and really 
+they treated it as their baby and built it and such. It worked out really well. Now 
+I think we just bought 110-acre campus near Pune and that was a large bet for 
+us. It was a 10 million bet. We have almost paid it off. We have paid off 8 million 
+so far and that gives us the ability long term to host a few thousand kids there 
+over time. It worked out far better than I thought. We didn't have any issues in 
+terms of traction. The model worked well. In fact, a lot of other people have 
+stepped in and become a donor's to Dakshana. I think now half the money 
+comes from my family and half comes from outside. It worked out really well. 
+But it is a good team that helped us do that, so that was great. 
+Student: Sorry. How do you weigh your focus, kind of value investing versus the desire 
+to diversify your fund? I guess in a way, if you only have five to 10 stocks at a 
+certain time, do you still have the desire to diversify across many industries? 
+Mohnish: Yeah, I don't think about it that way. I just think about it from the point of view 
+that, what can I find that is worth investing in which I can understand, which is 
+undervalued. Then if I can get more diversification in the portfolio without 
+giving up much upside, then I am all for that. Sure, no problem. It just depends 
+on what shows up and such. There's not a lot of activity, there is not a lot of 
+  
+Page 29 of 34 
+changes, we tend to keep things for a while and so I keep reading stuff and 
+looking at things, and every once in a while things make sense and then we can 
+pull the trigger.  
+Student: Okay. To take advantage of these buying opportunities, you need cash. Given 
+the fact that you aren't ready to sell something at that exact time and having 
+cash on hand means you are not making money, how do you decide how much 
+cash to keep on hand at a given time? 
+Mohnish: Yeah, I think one of the things about the Buffett, Munger model is that you don't 
+focus on being fully invested. You just focus on putting money to work if it 
+makes sense to put it to work. If it doesn't make sense to put it to work, let it 
+sit in cash. The ability to be comfortable with uninvested funds is part of that 
+patience. There is nothing wrong with keeping cash if you don't have anything 
+intelligent to do with it. That is perfectly fine. 
+Student: Nice to have you here. I am a PhD student in Palmarsh school. I have two 
+questions. The first one is that we are doing research on mutual fund and hedge 
+fund, so I am just wondering whether yo u are following their, like academic 
+research, if you do, do you find it useful to look at those researchers? If you 
+don't, do you feel that your research is more advanced than researching 
+academic field? The second question is like the opposite to the previous 
+question. If you have any cash on hand, does it ever worries you that you cannot 
+come up with a better idea than the previous one to invest in? Thank you 
+Mohnish: Yeah. So those are good questions. We ll, I didn't fully get the research question 
+you are saying is do you think my research is better than the mutual fund and 
+hedge fund? 
+Student: I mean there are a lot accounting research like here. Do you find it is useful or I 
+do think that their research is like more advanced or you think you are better at 
+like reading numbers, reading accounting numbers than these professors. 
+Mohnish: Well, I think like you saw in the Coke example, it is not about the numbers, 
+right? I think that the issue is that for most investments, the factors that will 
+drive long term success don't have much to do with spreadsheets. They have 
+to do with other kind of either understanding human nature or understanding 
+nuances about certain aspects of how things work rather than running 
+spreadsheets. I think you are better off kind of running it from the vantage point 
+of running spreadsheets. The second  is regarding the cash versus 
+opportunities. One of the simple approaches I use is that, we really don't want 
+to buy anything until it is at least half off (50% off). If I were, let us say a hundred 
+percent cash and I am just starting a fund, then that is what I would do. I would 
+look for opportunities where there is a significant mispricing. Of course one of 
+the reasons I gave the talk I gave today is, sometimes the 50 cent dollar bills 
+are not obvious. For example, See’s Candies was a 25-cent dollar bill or less, but 
+it wasn't obvious. Coke in the late eighties also was a great bet, but it wasn't 
+obvious. The area I would like to get better at is the non-obvious 50 cent dollars 
+  
+Page 30 of 34 
+lying all around us. That is what I would, and the thing is that, there is two ways 
+you can invest. One is, what I have done historically is look for a 50 cent dollar, 
+let it get to 90 cents and then sell it; bu y it 50, sell it 90, and hopefully in the 
+period when I own it, the value grows. It is not exactly 50 to 90, the dollar 
+becomes maybe a dollar 20 or a dollar 50, and so I can buy it 50 cents and sell 
+it a dollar 35. That sort of thing. But I think that what is probably an even better 
+model than that is buying and holding onto these long runway positions. When 
+we met Warren Buffett for lunch in 2008, one of my daughters asked him which 
+of the Berkshire companies, (they owned 70 companies), was his favorite 
+company. He didn't even hesitate for tw o seconds. He said, it is GEICO. The 
+reason I think he said is GEICO is because it has got the ultimate long runway. 
+Coke has a long runway. I think GEICO’s runway possibly, maybe even longer 
+than Coke. I mean, unless we get to a world of self-driven cars across the board 
+at that point, the model has gone. But we are at least a decade or more away 
+from there. He felt that that GEICO's model had, I mean he was most excited 
+about owning GEICO because they used to have 2% market share. Now they 
+are approaching 10%. He said that Warren said that on his hundred birthday they 
+will pass State Farm. He has already planned out the next 14 years of them going 
+pass State Farm. I would say that look fo r the 50 cent dollar bills, sometimes 
+you find something cheap that is pretty good. But I think getting something 
+that got more of a runway built in an d getting those cheap. Sometimes, the 
+funny thing about the investing business is that sometimes you can buy 
+something at 20 times earnings and it  can be really cheap depending on the 
+nature of the moat and the runway. Alright. 
+Student: Hi thank you for the talk today. I am also a PhD student here. My question is 
+how long does it take for you to terminate a position or more in general, how 
+long does it take for you to realize you made a mistake? 
+Mohnish: Sometimes a very long time, so metimes too long. I mean, once I know 
+something is a mistake, I will act on obviously then, exiting or whatever else we 
+need to do on that front. But you know, sometimes we don't know things that 
+are mistake till they have gone into CC. That has happened a couple of times to 
+me. The mistakes usually become apparent. Sometimes they become apparent 
+while we own the position. Sometimes we find out and we can get out of the 
+profit, which we are very happy to do. But sometimes we may find out that 
+there is some error we made and that’s possibly a loss, but then we will act on 
+that, take the loss and move on. 
+Student: Final question I want to ask, but I wanted to see if were there any other 
+questions from the audience if you wanted? Yeah 
+Student: How many stocks is the fund currently watching at any given time? Prices keep 
+fluctuating every day and you are kind of watching you want them to hit your 
+value, I assume how many stocks are on the radar at any given time? 
+  
+Page 31 of 34 
+Mohnish: That is not how I run my life. The funny thing is that I always say this story that 
+Ben Graham would go into a grocery store and he would look for what was the 
+biggest discounted item. Then he would buy that and come out and Charlie 
+Munger will go into a grocery store and he will look for what he loves, and then 
+he will keep going back every day till what he loves is on sale. Then he will buy 
+it and come out. Clearly the Munger approach is, I think, is superior and when I 
+mentioned this a few months back at Columbia Business School, one of the 
+students asked me exactly what you asked me, somewhat differently than you, 
+But he asked me, “Do you have a thing, list of things that you love that you are 
+watching?” I felt very sheepish in telling him that I didn't have such a list. Then 
+what I did after I came back is I said , You know what? I am going to prepare 
+such a list because such a list is a very good idea. I put together, it is not finished 
+yet, I put together a list of businesses that I truly admire, really great businesses. 
+Now, they may not likely be at prices that I am interested in. I am at the stage 
+where I have got, I would say probably, I think that list will be a living breathing 
+list, but I probably have 80, 90% of what might come into it in the next year or 
+two, for example, already on that list. I haven't gone through the motion of 
+going through it versus present prices. Wh at I was going to do is one of those 
+things either automated with like a capital IQ feed or something where I can 
+pull triggers in which is not my normal modus operandi or the second is that 
+when there is dislocations then go in  and I missed one. For example, February 
+8th, I was in India on February 8th, bu t February 8th was a great day to buy a 
+few things because there was just for a couple of days when the indices really 
+tanked and a lot of things tanked a decent amount. looking back, there were 
+things at that point at prices that I would like to buy now, but they are not at 
+those prices anymore. I missed it. Part  of the reason I missed it is because I 
+wasn't paying as close in attention as I should. We will get what you are 
+suggesting, but it is not my temperament to spend my days looking at screens. 
+What I would prefer is to have that se t up and maybe kind of once a week or 
+something just take a quick look at how far off things are from being more 
+interesting in terms of buys and so on. The second thing that I want to get 
+better at, which is part of the reason for the Coke presentation, is that there are 
+these businesses where they are fantasti c businesses when they get paired 
+with fantastic managers. If the runways are big, even at not an obviously cheap 
+price those can be great things to buy. That is a lesson that has not been seared 
+in because I am a bargain hunter. I need to sear in the lesson that you pay up 
+sometimes and then take it from there.  
+Student: You keep mentioning this runway thing and you mentioned Goizueta, he is the 
+wealthiest Hispanic in America now billionaire.  
+Mohnish: Well he had passed away, he got lung cancer. He was a chain smoker 
+throughout his life. Then 30 days after being diagnosed, he died. Basically, I 
+think this was in the nineties, and Coke went to a lot of turmoil after that 
+because his appointed successor wasn't Goizueta, I mean, wasn't as good. They 
+  
+Page 32 of 34 
+had a lot of issues, but yeah, Roberto passed away a while back. He passed 
+away in pretty young, like sixties. 
+Student: In terms of that runway, I think he… 
+Mohnish: His runway got truncated 
+Student: Oh, the family, I think they had… 
+Mohnish: I am talking about the runway of th e company. Oh, Coke is an example, Coca 
+Cola company has a very big runway, and it had a fantastic runway when 
+Goizueta was in there because you had a great business, on top of it you had a 
+great manager. The amazing thing about Coke is that. Then a few years later, 
+the great manager was gone, a bunch of Yoyos came in to run the business. I 
+still think it is run by Yoyos. Still the business has done well, and part of the 
+reason the business did well was Warre n was on the board, they brought him 
+on the board. He is no longer on the board, but I think in the years on the decade 
+plus that he was on the board, he pre tty much, I think, ingrained in them the 
+culture of how to allocate capital. Coke has got, I would say at this point, 
+straight and narrow marching orders of how to run the business and that is 
+what they do. 
+Student: Oh, okay. Thanks. I think so. 
+Mohnish: God has told them what to do.  
+Student: All right. I think the family has a brand of food products, the Goizueta family. 
+Mohnish: Yeah. I am not sure what the, well, the school of business, I think Emory's, 
+Emory University School of Business is named after him. But I am not sure what 
+happened to the Coke stake or what the family did and such, I haven't kept up 
+with that. But that would be a lot of money. I mean, if they kept the two and a 
+half billion, two and a half percent stake, it would be not of four or 5 billion 
+today. It is a significant amount.  
+Student: Yeah. Thanks for it. 
+Student: I kept thinking after you said the phrase that “if you don't wake up with energy 
+every morning, you should rethink what you are doing”. 
+Mohnish: Are you excited about your life? 
+Student: Yeah, I am fully excited 
+Mohnish: Okay. Just checking. 
+Student: But would you recommend that idea also to, for example me as an undergrad, 
+I still have long way to go. Would you re recommend that idea to me, even 
+though I don't have like a worth like yours? 
+  
+Page 33 of 34 
+Mohnish: Oh, yeah. I think that it is not a matter of net worth. I mean, I followed this edict 
+when I had no money. I have followed the edict and I think Warren also says 
+that you should go to work for business for people that you like, admire and 
+trust. It doesn't matter. The money is irrelevant. I mean, quite frankly you are in 
+a country, my father-in-law jokes that the US is one of the only countries where 
+the poor people are fat. You are in a country where even if you don't have 
+money, you are not going to starve. Basically, there is plenty of safety nets in 
+this country. The good news is there is a bottom below which you can't go 
+unless you have got other mental, mental issues or other things going on. If you 
+have your facilities about you, you don't have much of a downside and what 
+you ought to do, because you are well educated, and you have got lots of skills 
+in a society that values those skills that you focus on working with people that 
+you enjoy working with  and doing work that you enjoy doing. If those factors 
+are not being met, hit the reset button. Pretty simple. I think what will end up 
+happening is that if you truly do what you love doing, then you will do it well, 
+and you will do well in your career. It has a payoff, every time I hit the reset 
+button, it is led to higher highs. The reset button, at least for me, has never hurt 
+me, even though when I hit the reset button, I am going into an unknown. But 
+it has been fine. The unknown has been fine. 
+Student: Other questions. Okay, I figured this  would be an appropriate question to end 
+on, which is, the class has a variety of students, some want to do science as a 
+career, some more or less, just they don't want to spend a lot of time, but 
+everyone always wants more investment return. I was curious what you regard 
+as the biggest mistake for each of that group. You touched on right, that to 
+some extent, but I think we make it crisp for the last question, what you regard 
+as the biggest mistake for people who want to be professional investors and 
+people who you have other priorities in their life. 
+Mohnish: Yeah. I think the professional investor, that is what I was trying to get across in 
+this talk, I think investing is one of the most interesting disciplines because it 
+crosses boundaries. I mean, you saw in this talk the range of issues that come 
+up in making an investment. It goes ac ross disciplines, across all kinds of 
+understanding human nuances and so on. I think of investing as being one of 
+the broadest disciplines. If you are a person who enjoys that, who enjoys 
+waiting across different disciplines, reading, learning, understanding how 
+humanity works, and how the world works then this may be the right place for 
+you. Also then look at those three factors. Patience, decisiveness, and then 
+willingness to drift different - if those are you, then it makes sense. For the 
+crowd that doesn't want to be in this field, there is nothing wrong with that. 
+There is a hundred different ways to live your life. Investing is just one of them.  
+Student: What you regard is like the biggest mistake in their investment, like the biggest 
+landmine to avoid. This is like the inversion thing where you want to try and 
+avoid a big mistake. For the non-professional investors, what would you advise 
+regardless? 
+  
+Page 34 of 34 
+Mohnish: Well, the non-professional investor, I would say indexing is a very good way to 
+go. I would say that even if you are trying to pick investment managers, I think 
+that is a very difficult exercise to embark on. It is not the subject of the talk we 
+went to today, but I would say that if you are a no nothing investor or investor 
+who doesn't do this full time and such, then certainly taking an index approach 
+is a very good way to avoid a lot of pitf alls. The key is like I told you with the 
+example of compounding, Einstein called it the “eighth wonder of the world”. 
+The key is that if you are spending less than you earn and you just sock it away, 
+and with the ups and downs of the stoc k market, I mean the S&P will last a 
+hundred years, still done 9% a year. You will still end up at a decent place. 
+Student: Okay. I want to do two things, first a round of applause for Mr. Pabrai. 
+Mohnish: Thank you. 
+Student: We have two things for you. One is a UC Irvine Cap. 
+Mohnish: Oh good. 
+Student: We will have you decked out in UCI here and the second thing is last year, 2015, 
+was the university's 50th anniversary and they produced this book and there 
+are a lot of great pictures from 1965. 
+Mohnish: Oh, great 
+Student: When the University first started, I had a lot of fun when I was looking at the 
+bookstore.  
+Mohnish: That is great. 
+Student: Yeah, so those are for you. 
+Mohnish: Well, thank you very much. 
+Student:  Thank you again for coming to talk to the class and thanks to everyone for 
+coming as well. 
+Mohnish: Thank you. Okay that is great 
+Student: Thank you. 
+  
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not inte nded 
+to be, financial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not be suitable for you, 
+do not take into account your particular investment objectives, financial situation or needs and are not intended to provide investment 
+advice or recommendations appropriate for you. Before making any investment or trade, consider whether it is suitable for you a nd 
+consider seeking advice from your own financial or investment adviser. 

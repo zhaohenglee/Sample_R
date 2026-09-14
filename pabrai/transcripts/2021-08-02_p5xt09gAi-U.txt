@@ -1,0 +1,560 @@
+Page 1 of 13 
+Mohnish Pabrai’s Q&A Session at the Brown University - 
+Value Investing Speaker Series on August 2, 2021 
+ 
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not inte nded 
+to be, financial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not be suitable for you, 
+do not take into account your particular investment objectives, financial situation or needs and are not intended to provide investment 
+advice or recommendations appropriate for you. Before making any investment or trade, consider whether it is suitable for you a nd 
+consider seeking advice from your own financial or investment adviser. 
+ 
+Itai: We're absolutely honored to have Mohnish Pabrai here with us today. In 1991, 
+Mohnish Pabrai, Fund his own IT consulting and systems integration company 
+TransTech with a hundred thousand dollars. He went on to sell the company in 
+2000 for 20 million. In 1999, Mohnish pr ovides for his own hedge fund Pabrai 
+Investment Funds with 1 million. Today he has over 500 million of assets under 
+management, he has successfully employed a market-beating value global 
+i n v e s t i n g  a p p r o a c h  f o r  o v e r  2 0  y e a r s .  M r .  P a b r a i  i s  a l s o  t h e  a u t h o r  o f  t h e  
+Dhandho Investor and Mosaic Perspectiv e s  o n  I n v e s t i n g ,  b o t h  o f  w h i c h  a r e  
+must-read for any value investor. Mr. Pabrai is also famous for paying $650,000 
+along with his good friend, Guy Spier for an invaluable lunch with Warren 
+Buffett. Mohnish Pabrai is also incredibly generous, giving away approximately 
+2% of his wealth every year to Dakshana. The Foundation provides services to 
+some of the least privileged members of Indian Society, which enables them to 
+attend elite institutions of higher learning. Thank you for joining us today, Mr. 
+Pabrai. 
+Mohnish: Itai, it's a pleasure to be with you. Looking forward. 
+Itai: Excellent. Thank you so much. Let's start with the questions. Once studying the 
+selection of spawners stocks in your portfolio, are students found to common 
+mechanical filter? Thread one was that, as you mentioned in previous 
+interviews, there was a maximum market cap. There were sort of looking full of 
+responders and the other trend that we saw was that there was a lot of high 
+insider ownership within these compan ies. Is there any other sort of 
+mechanical factors that are used to narrow down your selection when looking 
+for multi-bagger using platforms like Capital IQ, for example? 
+Mohnish: Yeah, actually anytime you mention to me mechanical filters, I cringe. In 
+general, it’s probably not a good approach to investing because the real world 
+is messy and individual bu sinesses are messy. But one of the things that are 
+very powerful about that is, I can give you an example. I own a portion of a 
+company in India called Indian Energy  Exchange (IEX). IEX basically is 
+effectively, a monopoly business and it allows the trading of electricity 
+between generators and the discount of the distribution companies. They 
+collect an approximately 1.5% fee of the amount transacted. When we invested, 
+approximately less than 3% of India's total electricity usage was going through 
+Page 2 of 13 
+IEX, and now it's over six and a half percent. So in terms of the percent of the 
+increase in the last three, four years, quite significantly, but also per 
+consumption of electric going up at all. So the business has many wins. They 
+also started another business called In dian Gas Exchange . That business 
+basically produces 80% operating margins. If they take a hundred dollars in 
+revenue, something like $80 is pre-tax profit. Then after you pay maybe 25% 
+taxes on that, you still have like 60% after tax. It's an extremely profitable 
+business, and as it scales, that profitability only increases. They have no real 
+good way to use that money that's coming in. They only, for the most part, have 
+two choices. Either they can dividend out to shareholders or buy back their 
+shares. On the other hand, if you look at a business like let's say Tencent in 
+China. Tencent basically is also a business that generates very high returns of 
+equity and it's not as good as IEX in terms of 80% operating margins across. But 
+it's very healthy and they generate tens of billions a year in free cash flow every 
+year. But inside Tencent is what I would call Sequoia Fund on steroids. If they 
+make 15 billion in a year, free cash flow, they have a biz dev arm that is going to 
+take that 15 billion and deploy it into mostly private deals. They're also very 
+thoughtful about it. They're not sprinkling money around to early state 
+businesses, et cetera. They focus on bu sinesses that have achieved certain 
+milestones and certain traction, and then they'll come in. 
+They also tend not to want to have large takes because they want to leave 
+incentives for teams. They are engine, which feeds this wisdom arm has been 
+very successful. They've invested in what  have later turned into more than I 
+think 15 or 20 unicorns. They've done really well. What I'm saying is they have 
+an engine which takes their cash flow and puts it into other businesses, and 
+that track record of that engine can go up against the best venture capitalists. 
+It's extremely good. There's no carry, so  it's even better for investors. The 
+engine that Tencent has is extremely rare. Most companies that are even really 
+good businesses like IEX do not have the ability to redeploy the money that's 
+coming in into other businesses. If you look at a business like Berkshire 
+Hathaway, for most of its history, Berkshire from 1965 till now has never issued 
+a dividend. I think the record indicates that Buffett one time issued a dividend 
+of Tencent. Buffett said that he must have gone to the bathroom while the 
+board made that decision. But he said he's never after that, ever stepped to the 
+bathroom during a board meeting. Ther e's been no dividends other than the 
+Tencent dividend on what is more than a $400,000 stock today. But from 1965 
+until very recently, maybe in the last few years, not only that Berkshire did not 
+issue a dividend, but they did not buy back their shares. The buybacks have 
+started more recently because even in an amazing capital allocation engine, 
+Berkshire has not been able to find enough opportunities to redeploy the 
+capital which worked extremely well for more than 40 years. If you have a great 
+business that's spinning off lots of cash, I mean, Berkshire for example, had 
+made a very early investment when they bought See’s Candy and See’s Candy 
+has been nothing but a money spender, but it has no ability to use the cash that 
+it generated. But the Berkshire engine was such that they didn't need See’s to 
+Page 3 of 13 
+use the cash. They took the cash flow from See’s and they bought a hundred 
+other businesses and they were really good at that. That type of promise of 
+redeployment of cash is rare. Coming to Spawner, so if you take a business-like 
+IEX, IEX actually is a spawner. The fi rst spawn they've created is Indian Gas 
+Exchange, which they're trying to grow and scale, but by its very nature, Indian 
+Gas Exchange hardly needs any capital. It's like Indian Energy Exchange that 
+also hardly needs any capital. Even if it's really successful, it'll not be able to use 
+the capital. Even though there's spoil, they really can't do much with it. The 
+differences between, let's say a Berkshire Hathaway and let's say an Amazon is, 
+in the case of Amazon, the redeployment of the cash generated is mostly done 
+with internal projects. They basicall y are spawning new enterprises, new 
+adventures, and so on. In the case of Berkshire, a lot of it acquisitions is not that 
+much coming from internal. They do have some amazing businesses that are 
+redeploying internally, but for the most part they've got to go externally. If you 
+look at the kind of the hierarchy, the absolute best way to use capital is if you 
+have a spawning engine internally that has a high hit rate and is spawning 
+businesses that generate high returns in equity, that's mecca, you hit the top 
+spot there. The second is, if you can't do that and you can buy or invest in other 
+businesses or assets at valuations that would give you high returns in equity, 
+that's also excellent. The third would be either dividends or buybacks and 
+buybacks actually can be extremely po werful if they are done at modest 
+valuations. If you look at a business like MasterCard, MasterCard does a lot of 
+acquisitions. They have very high net income versus revenues, fantastic 
+business, but they still end up with lots of cash. Even though the business 
+trades at a very high multiple, they still need to buy back share because they've 
+got no other option. It's way better to buy back MasterCard stock at 10 times 
+earnings than 40 times earnings. But even at 40 it still works, but it's not that 
+great. Sowers are basically sitting pretty much at the apex of the pyramid and 
+which is why we like them so much. 
+Itai: We have questions discussing some of the other factors that go into Spawners. 
+For example, Tencent, despite the Chinese government having a lot of antitrust 
+policies, they did manage in some of its departments to have a monopoly. 
+Tencent's music had exclusive lice nse agreements. Now the Chinese 
+government is really cracking down on those. How do you evaluate that aspect 
+or how do you evaluate, for example, real estate companies in Japan that may 
+be spawners who banks. There are some r ecent events of some frauds in that 
+area that banks are more hesitant to lend to them now. 
+Mohnish: Yeah, I'll sidestep stuff which goes into current portfolio holdings. I think that 
+just gets in the area I prefer not to go into. There's a blogger I follow in China, I 
+think she was saying that (hope I can reme mber this correctly), in China it is 
+innovation and then regulation and in  Europe it's regulation and then no 
+innovation. In the US it's innovation and no regulation. You've got these 
+different, I think this is kind of a wide paint brush, but the bottom line is I think 
+that there are very few things that I have noticed that have happened in China 
+Page 4 of 13 
+recently that I would be scratching my head about. For example, in my non-
+profit adventures with Dakshana foundat ion, I have spent 14 years examining 
+the four profit sectors of education in India very closely. We even had them as 
+vendors and paid them to provide services to our students. We had a very long 
+history with the Indian, let's say, tutori ng industry, which is the industry exact 
+same industry that the Chinese government cracked on the phone. The Indian 
+government also is extremely upset at this industry and from my point of view, 
+I don't think of the players in that industry by any stretch of the imagination as 
+being high quality. I think they're rootless  capitalists.  I'm going to use that as 
+an example to just go to the others. If you have a situation where a set of 
+universities or university has 10,000 seats and there are 1 million people aspiring 
+to get those seats, which is somewhat similar to the situation with the IITs in 
+India, 10, 15,000 seats and north of half a million to a million kids interested in 
+those seats, there's a basic problem of a large number of students in interested 
+in a very small number of seats. Anytime you have that situation, capitalism is 
+going to lead to enterprises that come up with trying to find ways where they'll 
+say that if you give me “X”, I can increase your odds of getting that seat. In an 
+unregulated world, that type  of capitalism endeavors is going to go bananas, 
+which it did in China. What ended up happening in China is that every Chinese 
+parent wants their kids to go to the best schools. All these for-profit education 
+companies come up and say, “Look, if you want to go to Peking university or 
+Tsinghua, whatever, we are the toll bridge that you have to pass through”. The 
+toll bridge has two costs. It has a dollar or RMB cost, and it has a lot of effort 
+cost. The end result of all of that is, that Chinese couples come to the 
+conclusion that they really can't have very many kids because it's so expensive, 
+so draining and so complex. I think the government has its heart in the right 
+place when it says we don't want this  kind of a system because it reduces 
+people's interest in having reasonable  size families which goes against the 
+country's things. But on the other side, the problem that this type of situation 
+has is, there's no easy hands time. Unless you increase those 10,000 seats to a 
+hundred thousand seats or you give people other avenues which the CCP is 
+trying to do, it leads to a quandary. There was a joke I think on Twitter that these 
+for-profit education companies in China have converted their facilities into high 
+end cafes where you go into have a coffee and then you sit down at a table with 
+a very high price tutor who, in effectively can tutor you, but you just pay for the 
+coffee and the coffee instrumenting $5 is $5 00. You kind of sidestep it's just a 
+coffee shop, so it's kind of funny. But anyway, I think that on many fronts in 
+China, it is actually healthy for the country to have a robust competitive 
+environment. I think in the case of th e large players in Chinese tech, they're 
+pretty high-quality players, but in many cases the rules were not defined. In a 
+wild-west scenario, you're not really breaking any laws, you're just proceeding 
+with what's acceptable in the wild-west. I think Chinese government coming 
+down and saying, hey, wait a minute, I think some of these things, if we tweak 
+it, somewhat at the end of the day, we end up with a better ecosystem. I think 
+that's what they're driving towards. That's my two senses on that. 
+Page 5 of 13 
+Itai: Okay, Thank you. Really appreciate th at and that feedback. Another question 
+is, how effective of a method do you think that it is to try and find MasterCard 
+and Visa, where they have a great busine ss model in the US and in a lot of 
+countries, but there are some countries like China for example or some other 
+countries where those companies aren't there. What investing strategy do you 
+think we can use to find those types of companies in those other countries and 
+try and analyze those? 
+Mohnish: Yeah, I think first of all, just to digress a little bit, payment systems in the US are 
+way behind payment systems in almost any other part of the world. Payment 
+systems in China are extremely advanced. Korea is very advanced, and actually 
+in many ways the US payment system is very archaic, and it has an extremely 
+high frictional cost. One of the issues that come up is that, if I'm a small 
+merchant doing some small E-Commerce site online selling to consumers, I 
+have to pay the Visa MasterCard ecosystem, 2 to 3% of my top one, which is a 
+ridiculously high charge for enabling payments. If I were to use my bank or if I 
+were to use other avenues, it would drop it by more than 95%. One of the things 
+that we've seen is that companies have come up, and others are basically trying 
+to sidestep the visa MasterCard by let' s spreads or now is gone. The 2% or 3% 
+that they're taking, in some ways, it does come back to the consumers because 
+most of us have an IV drip of airline miles coming to us through the credit cards, 
+and there are arms raise on that front in  terms of, I'll give you more and more. 
+There is some kickback in effect coming  to the consumers, but in general, in 
+the US because of the moat of these companies and because of the kickback 
+mechanisms that have been put in place, it makes it really hard to disrupt them 
+in other countries like China. They weren't there to begin with. Merchants 
+weren't interested in suddenly saying, “Oh yeah, please take 2%, and I'm really 
+happy about that”. I think payment systems in general are an area of rapid 
+change globally. Some of the moats in the US are pretty strong, but they're 
+going through a lot of changes all around the world. When you're investing in 
+payment systems, you have to be aware that it's a moving target and, 
+sometimes you can end up with very deep enduring moats like the way Visa 
+MasterCard did. To some extent you ca n say Alipay, and Tencent pay, they've 
+also developed great moats, but it can sh ift those industries with rapid chain, 
+so one has to be a little careful. 
+Itai: Yeah, absolutely. Thank you for that. Th at's very helpful. Students saw that we 
+read Nick Sleep letters and we saw about scaled economy shared and how 
+powerful business model that is. Then you also bring up a lot like a recycling 
+slash funeral services business model. Are there any other business models that 
+you think are very powerful? 
+Mohnish: I think it's in the eye of the beholder, and I think what is very useful is to just 
+take a step back. When you look at different businesses, just take a step back 
+on the nature and quality of the busine ss. Buffett says that there are some 
+businesses that are so easy to run and that you could have an idiot running 
+those businesses and they would just keep doing well. I mean, if you are a Coke 
+Page 6 of 13 
+Bottler, for example, you have a monopoly territory given to you by the Coca-
+Cola company, you will compete with a Pepsi bottler, but you will not compete 
+with another Coke bottler. The joke with  the Coke bottlers was that, as the 
+owner was dying on his deathbed, he would call his kids, and as he's taking his 
+last breaths, he would tell them, “Whatever you do, don't let them change the 
+contract”. Then he would die. Okay? Then when the kids are dying, they would 
+tell their kids, “Whatever you do, don't let them change the contract”, then they 
+would die. Because the bottom line was that, they heard it was great because, 
+they bought syrup concentrate from the Coca-Cola Company and Coca-Cola 
+Company made good bit of money on this concentrate, that's like a software 
+business if you really think about it. But then they control the rest of it, right? 
+The distribution and the pricing and all of that. Because of the brand, you're not 
+going to buy Glotz Cola and such. You are going to do quite well with it. I think 
+the thing is that, when you look at the business, it's a very wide spectrum of 
+companies. Some businesses are in this very favored situation where the moat 
+is widened deep and can endure for a very long time, and it generates high 
+returns and equity. Most capitalism is not like that. Most of capitalism is dog 
+eat dog. It's really tough. It's difficult. I mean, if I wanted to, for example, have 
+the windows of my home, I would go on Yelp and have a few window guys give 
+me quotes. I mean, they must be very competitive. If they've got a really good 
+reputation, they might be able to get a little bit of a premium for that. But it 
+wouldn't be much. There are lots and lots of businesses, which is the bread and 
+butter of capitalism where you're just going to have to be amazing at execution 
+and amazing at everything. Whereas a co-butler can be extremely poorly 
+managed as long as the plant is running okay, and you're not putting poison in 
+the coke bottler, life is goin g to go on and it's going to do well. It may not be 
+doing as well as it could do with great management, but it'll still do well. In fact, 
+I would guess that most Coke and Peps i bottlers are undermanaged, in fact, 
+one of the other things that come up in capitalism is the businesses that need 
+to be extremely well managed to survive do end up being well managed 
+because otherwise they're gone. The businesses that can deal with lot of slack 
+and still stay alive are generally going to have Slack. 
+Itai: That's very interesting. Thank you for sharing that. Then you discuss a lot how 
+investors with small amounts of capital should be able, if they're very talented, 
+to generate 40, 50% IRS. Our students want to know what really, they should 
+focus on. You've mentioned NAVs in th e past, for example, when there are 
+plenty of those in Japan that don't rerate or take a long time to rerate. Should 
+it be net-nets with a near-term special situation rating catalyst? Should they 
+focus more on real estate discounts to Net NAVs rather than cash discounts 
+look for future one XPE cheap earnings and discount to NAV, et cetera. Do you 
+have any more guidance in that regard? 
+Mohnish: Yeah, all of the above. I think what you want to do is really useful. It was really 
+useful for me to set an absolute target. Let's say your absolute target is that “I 
+have a very small amount of capital and I want to double it every three years”. 
+Page 7 of 13 
+For example, what that means is you n eed to be generating about 26% a year 
+or something. This means that you really can't buy a business at 80% of intrinsic 
+value because even with some growth an d stuff, it would be hard to get a 
+double in two or three years. But if you are able to buy an asset, which is worth 
+a dollar, but you are able to buy it for 30 cents, that may lend itself to something 
+like that. The range of assets that can give you that outcome can vary a lot. It 
+could be distressed bond. It could be high yield bond where the annualized 
+return till maturity exceeds 30% a year. Now most bonds where your coupon is 
+30% a year are there for a very good reason. You're likely not to get the coupon 
+and probably not get your money back. Good luck with that. But sometimes 
+things get mispriced. For example, Charlie Munger made an investment, I think 
+in 2002 in Tenneco. It was very distressed. He bought the common and he also 
+bought the bonds. The bonds were at 20, 30 cents on the dollar. Even the 
+common was really clobbered and it worked out. I think in about three or four 
+years after that he was the 10 million with 80 million. That worked well. I think 
+the high returns with low amounts of capital is definitely there. One of the 
+things that Joel Greenblatt points out is, let's say I am extremely good at 
+identifying opportunities where I can get a 50% analyst return with my million 
+dollars, let's say I have a million dollars, and I'm really good at finding things 
+which will give me 50% a year. Well, if I am successful at that for any period of 
+time, in a few years, I'll have 10 million. Then I'll be looking for opportunities to 
+put the 10 million to work. I may no longer be able to get 15% a year, but I'll be 
+probably might be happy with 30% or 20%, right? What that means is that I have 
+left the arena of the 1 million, 50% compounders because they cannot move the 
+needle for me. When the 10 goes to 30 , it really cannot move the needle. I 
+manage like 750 million or something. When I look at a business sometimes 
+where the total capital I can put in is 2 million and it has a very high return. I 
+don't spend my time looking at that business. It's going to take effort to figure 
+it out. It's just not worth the amount of capital I can put in. Whatever I can put 
+in is just not worth it. Even though I may like that hunt and all of that, I have 
+moved on. Now when I started out, I was running a million, I'd be all over that, 
+right? What happens is, as investors get more and more successful, they move 
+up the chain and they leave the low end to new entrants. The low end is always 
+there for a young enterprising person, Okay? I want to tell you a story which I 
+think you guys might relate to. One of the things about human nature and our 
+psychology and who we are is, after the age of five, it never changes. From the 
+age of five to the age of 95, who you are and what your likes and dislikes and 
+traits are hard coded. To lead the best possible life, you want to have your 
+behavior patterns align with what your  inbound traits ar e. Because inbound 
+traits are frozen, if your behavior doesn't align with the inbound traits, you will 
+have suboptimal results. When Warren Buffett was a kid, he used to go to Ak-
+sar-ben Racetrack in Nebraska, Ak-sar-ben is Nebraska spelled backwards. In 
+fact, one year, I think I went to the Berkshire meeting in the late nineties or early 
+two, the meeting was at the track. Th e track had closed down, it become a 
+meeting venue. He used to go to the racetrack, and he had a number of 
+different interests in the hospital, I think. But one of the things he is very 
+Page 8 of 13 
+interested in. At the end of the races, he would pick up all the tickets that 
+people had thrown on the ground, and he would gather up and then one by 
+one, he'd go through each one to see if some drunk had thrown a winning 
+ticket. There's a lot of alcohol consumed at the Ak-sar-ben racetrack with either 
+people who are drunk or just don't pay attention. Every time he would find 
+some tickets that actually had money in them. Because he was under 18 and he 
+was illegal for him to do betting, he used to send his Aunt Alice to the window 
+to collect on the tickets. He'd collect al l the tickets, then he'd send Aunt Alice 
+to collect the money. He did that through high school. Then when he became 
+a value investor, and when he started his own fund, he sat down with the 
+Moody's Manual. I bought some on eBay as well, nostalgia says, but the 
+Moody's manuals are pretty thick. They'r e like encyclopedias and they're very 
+fine print, and they have like three or four companies with a lot of detail in one 
+page. Mostly it is the quantitative data of these companies, kind of revenues, 
+cash flows, assets, liability, the income statement, balance sheet, that sort of 
+thing. There were tens of thousands of companies in these Moody’s manual. 
+Buffett went through every single company two times through all the manual. 
+It's a lot of work. I mean, he literally from 7:00 AM to 11:00 PM other than for 
+meals, that's what he was doing. For him, it was exactly the same as the Ak-
+sar-ben exercise. What he was looking for is something weird that people had 
+missed. He would find, for example, some insurance company where the 
+market cap was 15,000,00 1 year's earnings  were 25 million, right? These were 
+the winning tickets that people had thrown away. He would find these 
+companies. Then once he found weird things, he would research it and it was 
+real. Then he'd start buying the stock, et cetera. Even after he got influenced 
+by Charlie Munger and he started buying better businesses, probably 10, 12 
+years ago, I was in his office with my friend Guy Spier and I had lunch with him 
+in 2008, and setting up the lunch and all that, I got to know his assistant quite 
+well Debbie, Guy and I asked Debbie if we could take her to lunch before the 
+Berkshire annual meeting and she said, “Oh, yeah, that'd be great”. She said, I 
+said, she said, "the meetings on Saturday, Fridays are really busy because all 
+these people coming into town, I can go for lunch on Thursday”. For several 
+years,  Guy, me, and Debbie used to go for lunch on Thursday. To me, the 
+lunches with Debbie were way better than the lunches with Warren. I mean, we 
+really got the low down on what was happening from Debbie. Buffett has a 
+veneer of diplomacy, but Debbie was aw esome. Anyway, I think we'd go to 
+Berkshire headquarters to pick Debbie up. Then one year I think Buffett was, 
+we were really surprised. We went up the elevator and when the elevator came 
+up to the 14th floor, he was there at the entrance waiting for us. I thought, 
+maybe he's waiting for the elevator to go down, but he said, “would you like a 
+tour of headquarters?” We said, “Oh, yeah, sure”. If you're twiddling your 
+thumbs and you want to give us tours, we are all in for tours. He took us all over 
+showing us all the memorabilia and all of that. Then we went to his office, and 
+I noticed he had Japan Company handbook in his office. The Japan Company 
+Handbook is the same as the Moody’s Manual, except it's like value line with 
+one half a page for each Japanese co mpany. He was going through it. Now 
+Page 9 of 13 
+Warren was 80 years old, and Ak-sar-ben  was an exercise he was doing when 
+he was 12 years old. The Moody's Manual was something he was doing when 
+he was 25 years old. All three exercises are exactly the same, okay? The amazing 
+thing is, when he's 80 years old and he's managing hundreds of billions of 
+dollars, he knew he can find nothing in there that can move the needle for 
+Berkshire Hathaway. I told you the million-dollar guys have to move up. They 
+can't stay there, they got to move up. But the thing is, he loved the hunt so 
+much that he couldn't help himself. Probably if he found something in there 
+that Berkshire couldn't buy, he probably could buy it for his own account. He 
+did that with Korean stocks a few years ago, where again, it was the exact same 
+thing. It was quantitatively cheap, and he  couldn't help himself, right? That is 
+the nature of this investing game, there will always be winning Ak-sar-ben 
+tickets on the ground. The only question it, will you bend and make some effort 
+to pick them up and analyze them? We have these ancient Indian texts, the 
+Upanishads they're spiritual, but I think they're very heavily philosophical. And 
+I think there's a quote, let me see if I can remember it. They say, as is your wish, 
+so is your will, as is your will, so is your deed, as is your deed, so is your destiny”. 
+Then the punchline is, “your deepest de sire is your destiny”. Buffett really 
+wanted to find every single winning ticket that anyone had ever thrown away, 
+and he went all in on that, right? If you're  willing to go all in and search in the 
+nooks and crannies of the markets, you will find lots of treasures. But you've 
+got to be very passionate about it. I've talked about it in some of my past videos 
+that in 2019, I was visiting Turkey and I visited this company where the market 
+cap was 20 million and liquidation value was like 5, 600 million. Hallelujah. We 
+are at the Ak-sar-ben racetrack, and exce pt that in this case, there's millions 
+and millions of dollars on the ground. Nobody wants to pick it up. The entire 
+country of Turkey, 80 million people have no interest in picking up these Ak-
+sar-ben tickets. The guy from Bandra in Mumbai in India has to go there and do 
+the job for them. It's okay, I'm happy to do the job. Then in 2015, there was my 
+PEO Quan, this company, Rain industry that I found, and no one was interested. 
+We've got 1.3 billion people in India, they're not interested, and it's okay, I'll help 
+them out. They're there in plain daylig ht, but you've got to be focused on the 
+hunt, and it can show up in many different shapes and forms. But if you're 
+focused on that, it'll happen. 
+Itai: When you find one of those that are either, let's say just a very low earnings 
+power multiple or something that's at a huge, discounted book value, how 
+important is it to have a near term tangible catalyst for the stock to rerate? Or 
+do you just feel like the discount is major enough where it'll just rerate anyways 
+if you've made the correct choice? 
+Mohnish: Yeah. I was telling you that in the quantitative stuff, you got to be a little careful 
+about book value. If a company's trading well below book value, it doesn't 
+mean it's worth book value. It could be worth well above book value, or it could 
+always be worth well below book valu e. We cannot just use quantitative 
+screens alone. Or if some companies that are low PE, it may deserve to be a low 
+Page 10 of 13 
+PE cause three years it might be gone. It deserves to be a PE of two because in 
+year three it's not there. I think what we have to do is that, when we find things 
+that are statistically cheap, it's only the beginning of the hunt when something 
+is statistically cheap and it can be cheap in a number of different ways, we then 
+have to roll up our sleeves. The first question we're going to ask ourselves is 
+“what I'm looking at, is it within my circle of competence?” "Can I figure this 
+out?” If the answer is yes, then I could go further to the next question and so 
+on. When Buffett started with the Moody's manuals, he was looking for things 
+that were statistically cheap, but here  an awesome business analyst mind. He 
+could then go from there to looking at, how real is this? What's going on here? 
+and all these things. 
+Itai: Thank you for that. We really appreciate it. A lot of students were interested in 
+gangs and advice for you on how to sort of fund in the future. How do you 
+initially raise capital for the fund, apar t from the 0 25 fee structure that you 
+highly recommend if you do not have, let's say, relatively rich friends and family 
+to raise it from? How much capital do you believe that investor would need to 
+sort a hedge fund today or to their money full time in the US. 
+Mohnish: Yeah, I would say that before we get to raising a fund question, what should 
+happen before that is 10 years of 50% a year. If you, for example, had very 
+modest amounts of cap, 50,000, 25,000, 10,000, at 50% a year, it becomes a 
+significant number. If you have $10,000 and you haven't been able to do 30, 40, 
+50% a year for a long time, then I don't think you should even think about a fund 
+or anything. The second is that, if you got an engine which is getting you those 
+high weights in return, the power of compounding is such that if you never 
+raised the fund, you would still be enormously wealthy. I think the first criteria 
+to getting into the fund business is, you should already be independently 
+wealthy. If you are not already there, it means that something's happened in 
+the past where it hasn't been proven that you can do this. Now, if you're already 
+wealthy, then I think you focus on the friends', family, and foods, especially the 
+foods. Buffett says that if you have a great track record, they will swim to you 
+in the middle of the Atlantic in shark-infested waters to invest with you. If you 
+have done well, people will find you. You don't need to be great at raising 
+capital. You need to be great at pounding out great returns. If you pound out 
+the great returns, everyone 's looking for those manage rs and they are trying 
+hard to find you, and they will find you. When I started my fund, I had a million 
+dollars from eight investors who actually asked me to manage money for them 
+because I actually give them stock tips. They had done well with that. But then 
+after I got the fund going, and the SCC puts a lot of restrictions, you cannot 
+solicit, advertise all these things, but they don't stop me from talking to my 
+existing investors. I can talk to my existing investors about anything. I 
+remember the first annual meeting we had, which was like eight brave people 
+around a conference table. We met and then we went for dinner. I told my 
+investor at a time that, “do you know why you have been put on Planet Earth? 
+Do you know your mission in life?” They said, “no, why don't you tell us?” I said, 
+Page 11 of 13 
+“ y o u  w i l l  p u t  o n  P l a n e t  E a r t h  s o  t h a t you might bring in assets to Pabrai 
+Investment funds”. That is your mission in life. One thing to understand about 
+humans is, most humans have no idea why they're looking for a mission, so just 
+give them the mission. I said, “please go to your closest friend and family and 
+tell them about me and ask them to contact me. Then I can talk to them”. 
+Because once people contact me, then I can talk to them. It's just that, I can't 
+speed dial all the dentists in North Carolina and say, “Please invest with me”. 
+SCC wouldn't like that too much. I just told them that was their mission in life, 
+and they went out and executed on that mission. We went from eight investors 
+to 17 investors to 25 investors, and we just kept going from there. Then when 
+those new investors came in, I also had to educate them on their mission in life, 
+and we just kept going from there. 
+Itai: Yeah. Thank you for that. That's very helpful. In the past, you've talked a lot 
+about both Fiat Chrysler and about Ferra ri. Stellantis today owns Ferrari and 
+Fiat Chrysler, and then Exor has a stake in Ferrari. Do you have any thoughts on 
+either Stellantis or Exor? 
+Mohnish: Yeah, John Elkann, who's the chairman, is a good friend of mine. I know him 
+quite well. Once I had a ownership stake in Fiat Chrysler. Anyway, I think one of 
+my deep regrets is that I used to own like more than 1.3 or 1.4% of Fiat Chrysler 
+when that first invested with a 5 billion market cap, put in about 70 million or 
+so. Then they spun out Ferrari and I got 1.3 million shares of Ferrari that spin out. 
+Again, my ownership of Ferrari was over 1%. Amazing! Every hundred Ferrari 
+sold was for the benefit of Pabrai Investment fund investors. How utopian is 
+that? Then in my infinite wisdom, overly focused on the PO ones Ferrari trading 
+at 30, 40 times earning, I sold it. I think we made like a hundred million on 
+Ferrari, but if I had done nothing, we would have like 300 million of Ferrari stock 
+today, which would be very nice. I think Exor is a good allocator of capital. I 
+think they've done some very good things with the way they've approached 
+things. I think John is young, and I think he has a long runway ahead. He has a 
+good team. I would expect that he will make good decisions and I think they 
+will do well in the future. Yes, absolutely. 
+Itai: Yeah. Interesting. Thank you for sharing your thoughts on those. We haven't 
+had enough updates in a while on the contest between you and Guy Spier 
+centric realty versus MasterCard. How are you feeling about your position? I 
+know it's still in the early innings, but how are you feeling right now about that? 
+Mohnish: I think I haven't looked at the numbers lately, but I would guess MasterCard is 
+probably ahead. I have to go back and lo ok at that, but I think it's a long and 
+San Tech is actually just beginning to get hit its stride right now. There's a lot of 
+tailwinds coming in. Their business has gone very capitalized. The night is 
+young, and we shall have to see what happens in the next five or seven years. I 
+think that I was much more biased toward the PO ones and all of that when I 
+made that bet. I'm more biased towards the compounders now. I don't know if 
+Page 12 of 13 
+I would place that bet today, but I coul dn't tell you which one's going to win 
+right now. We'll love to see. 
+Itai: Okay, that's very interesting. Thank you for that. Then people are wondering if 
+you've read a book that's mixed sleep rates really highly, it's called Zen and the 
+Art of Motorcycle Maintenance. If so, what are your thoughts on that book? 
+Mohnish: Have you read that book, Itai? 
+Itai: I have not read it yet personally, but it's in my plan for the next one that I read 
+probably. 
+Mohnish: Ok. Yeah. I did read Zen and the Auto Motorcycle Maintenance. I also found it 
+difficult to read and I could not get out of what Nick Sleep got. Nick Sleep of 
+that particular book had transformational value for him in a number of different 
+ways. It did not have the same, I think towards the end of the book I started to 
+understand more of it. I would definitely say that it's worth picking up the book 
+and reading it, just to see if it is something that resonates. I couldn't get to 
+Nirvana with Zen, but there have been other books which have resonated a lot 
+with me and have helped me a lot. I think each one of us, our receptors are 
+d i f f e r e n t  a t  d i f f e r e n t  t i m e s ,  a n d  w e  a r e  a b l e  t o  p i c k  u p  d i f f e r e n t  t h i n g s  a t  
+different times and then that can work. But the book was very successful. It got 
+translated to many languages. I think the author was turned down by 50 
+publishers or something before anyone took a chance on him. Then it became 
+a wrong way best seller. What I did find easier is, I switched from reading it to 
+listening to it on Audible, and that definitely went better for me. The reading 
+was going very slow, but I think it's worth reading. Sure. 
+Itai: Excellent. Thank you. Excited to check it out. For our concluding question 
+today, what would you say your favorite books about either start up founders 
+or former CEOs of companies? 
+Mohnish: Yeah, I would say Sam Walton's book is a really good book. Business 
+biographies and business autobiograph ies is probably my favorite genre 
+because I just loved them so much. For example, recently I read a book which 
+was written by Sole Prices son. Price was the founder of Price Club, and Jim 
+Senegal at Costco used to work at Price Club, then he started Costco, and then 
+eventually he bought Price Club. They asked Jim Sinegal, I think a few years 
+back, “what did you learn from Sole Price?” He said, “it's the wrong question, 
+there's nothing I know that did not come from Sole Price, everything I know is 
+from Sole Price”. I think when you go through business biographies and 
+autobiography, there's a wide range. I really enjoyed the making of American 
+Capitalist by Roger Lowenstein, but I think that there's so many biographies 
+and autobiographies that have come out over the years that I think can help 
+you along quite a way. I'm reading right now, this one Invent and Wander, this 
+is the Bezos writing, but also the Intro by Isaac’s son is really amazing. I think 
+whatever you can do to read about autobiographies of founders or biographies 
+of entrepreneurs, I think that's, it's tr emendous because you get to see things 
+Page 13 of 13 
+from the lens that they're looking at, and you can see them in so many different 
+industries. Those are wonderful. 
+Itai: Absolutely. Thank you so much. Really appreciate it. We really appreciate you 
+taking the time and your schedule to meet with us today. This was an extremely 
+helpful session and this student really value it. 
+Mohnish: Well Itai, I'm happy and I think it was a fun session. It sounds like you did your 
+homework and I think I enjoyed the inte raction, and I enjoyed the question. 
+Thank you very much. 
+ 
+  
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not inte nded 
+to be, financial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not be suitable for you, 
+do not take into account your particular investment objectives, financial situation or needs and are not intended to provide investment 
+advice or recommendations appropriate for you. Before making any investment or trade, consider whether it is suitable for you a nd 
+consider seeking advice from your own financial or investment adviser. 
+ 
+ 
+ 
+ 

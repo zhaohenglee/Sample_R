@@ -1,0 +1,1408 @@
+  
+Page 1 of 28 
+Mohnish Pabrai’s Q&A Session with Francis Chou at Harvard 
+University on April 7, 2020 
+ 
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not inte nded to be, 
+financial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not be suitable for y ou, do not take 
+into account your particular investment ob jectives, financial situation or needs and are not intended to provide investment adv ice or 
+recommendations appropriate for you. Before making any investment or trade, consider whether it is suitable for you and consider seeking 
+advice from your own financial or investment adviser. 
+ 
+Andrew Sandoe:  Welcome back everybody. Can you hear me? 
+Interviewee:   Yes. 
+Andrew Sandoe: Wonderful. All right. We've got a real treat in store for you tonight, and I hope 
+that as you made your way through reading both Dhandho Investor and the 
+Stonetrust yellow books. You started to get a sense of how Mr. Mohnish 
+Pabrai approaches capital allocation and approaches value investing, and 
+you'll see common themes with what we've talked about so far this 
+semester, and you may see how he approaches it in slightly different ways 
+than we have up to this point. Tonight, he's going to join us, as is Mr. Francis 
+Chou, who was part of this Stonetrust acquisition. We'll go through kind of 
+an orientation for tonight in just a moment, but they'll walk us through from 
+start to finish what they saw in Stonetrust, what they were looking at before 
+the acquisition, how it took place, and then how it has been since then. With 
+that, I'm going to give you brief introductions to Mr. Pabrai and Mr. Chou, 
+both of them are proceeded by their reputations. Mr. Pabrai was born in 
+India and came to the US in 1983. He worked at Tellabs from 1986 to 1991 in 
+their high-speed data networking grou p, and then international marketing 
+and sales. He started TransTech, an IT consulting and systems integration 
+company with 30,000 from his retirement savings and 70,000 in credit card 
+debt. He sold it in 2000 for 20 million. Then started Pabrai Investment Funds, 
+which he continues to run till today. Mr. Chou was raised in India, began his 
+career as a Bell Telephone technician. He started investing with six 
+colleagues and has a CAGR across his career of over 13%. With a high school 
+diploma, he took the CFA exams and passed in 1985, earning his CFA 
+designation. Barrons has called him one of the world's best investors, and 
+there's a wonderful collecti on of articles about him on his website. I've 
+provided the link there because you'll have access to the slides after this 
+class and it would be worthwhile for all of you if you haven't seen the articles 
+yet to go and explore those. With that, I'm going to turn it over to Mr. Pabrai 
+and Mr. Chou, let me stop sharing the screen. If you could take us through 
+Stonetrust and what led you to it, why it was a meritorious idea at the time 
+of acquisition, how the acquisition went and how it's done subsequently, 
+and then we go from there into the Q and A. I'll turn it over to you. 
+Mohnish Pabrai:  Sure. I'll get started first if that's okay Francis. Professor Sandoe, thank you 
+very much for having Francis and me join your class. When we had set this up 
+many moons ago, it wasn't set up to happen with such an interesting 
+backdrop. We thought it'd be a more sedate environment, but here we are. I 
+think it's kind of interesting and fun to do this with all the events and things 
+taking place around us. We truly live in unprecedented times. I hope I don't 
+re-live these times ever before I leave planet earth and probably that's likely 
+  
+Page 2 of 28 
+and probably likely for all of you as we ll. Anyway, it's great to be here. I 
+accidentally heard about Warren Buffett reading a book by Peter Lynch, this 
+was maybe 26 years ago. I'm an engineer by training and I was just very 
+intrigued once I heard about Warren Buffett and his approach to investing. 
+That eventually led me to abandon tech and engineering and move into 
+investing and compounding and so on. It's been a fun quarter century over 
+trying to practice that. I cloned many aspects of what Buffett did. I like to say 
+that I'm the shameless cloner and cloning is one of the best mental models 
+you can adapt. It's very powerful. A lot of people have figured out a lot of 
+smart stuff and you can just lift and take that you don't need to invent 
+everything yourself. Cloning is good for your financial health and probably for 
+your wellbeing in many other ways. I had always been intrigued with the 
+Berkshire Hathaway model and always been intrigued with Buffett's use of 
+float and so on. In the 2014 timeframe, I got to know that there was privately 
+held insurance company in Baton Rouge, Louisiana, which focused on 
+worker's comp that possibly might be available for sale. I thought it would be 
+interesting to have a vehicle, an insurance vehicle with float, et cetera, and to 
+try to clone that aspect of what Warren Buffett did. I set up another entity 
+called Dhandho Holdings, separate from Pabrai Investment Funds. I raised 
+about 150 million from several invest ors, and the idea was to acquire 
+Stonetrust and also to, maybe, possibly acquire other private businesses. The 
+funds I run; Pabrai Investment Funds are focused on public equity markets. 
+They're not set up to do these kinds of private acquisitions and so on. I was 
+setting up a second vehicle, which basically would give me the wherewithal 
+t o ,  i n  e f f e c t ,  b e  a b l e  t o  i n v e s t  i n  a  b r o a d e r  r a n g e  o f  a s s e t s .  W e  r a i s e d  t h e  
+money and we bought Stonetrust for 65 million. I think before the ink was 
+dry, I was beginning to understand that maybe I made a mistake. One of the 
+things about investing is that you understand a business only after you own 
+it. If you run some paper portfolio and buy and sell stocks or spreadsheet 
+without real money involved, the learning is not going to sink in as well as 
+when you make real investments with real money and you end up losing 
+some of it. That's when the learning kicks in. There's no way to avoid that 
+tuition bill in terms of learning. Once I was realizing that maybe it wasn't the 
+brightest idea, I ever came up with to buy an insurance company, I was then 
+confronted with either living with the decision or be honest with myself and 
+be honest with my investors and try to reverse the decision. We will all make 
+mistakes. Mistakes are par for the course, but we also need to consider what 
+we do once we know those mistakes  have been made. I realized that 
+Stonetrust had many aspects to the business that were good, but I also 
+realized it had some aspects of the business that were not so good. I 
+concluded that I did not want to own and run that insurance company from 
+a board level because it would be an opportunity cost of what else I could do 
+and what else my investors could do with those assets. I consider it high. If 
+you have studied John Shackleton, when  he embarked on getting to the 
+south pole, that was his primary objective for that mission, get to the south 
+pole. But once his ship got trapped in ice and started breaking apart, he knew 
+there was no way in hell he was going to get to the south pole. He changed 
+his mission, and his mission was now to get his men back to safety. I realized 
+that Stonetrust was a mistake, not where I wanted to be. My primary 
+objective was to get my investors' capital back to them and ideally get them 
+back a hundred cents on the dollar, even if they didn't make a return. If you 
+have a mistake in investing and you get back all your money, that's a good 
+place to be. The insurance business, and of course, Francis is, on the other 
+  
+Page 3 of 28 
+side, an owner of the business. I know he loves Stonetrust, and I know they're 
+doing extremely well actually under his leadership, which is wonderful. The 
+insurance business has several great attributes. One of the biggest attributes 
+is that it is a business where your customers give you money today, and they 
+may ne ver eve r c ome bac k to t ake  that m on ey from yo u. The y ma y n ever 
+have a claim and such as life to get the time value of that money over time. 
+The second is that there is a recurrence to that revenue. If I'm into a business, 
+if I'm running a barber shop, I need to have business insurance. I need to have 
+workers' comp insurance. I need to have a variety of different insurance 
+coverages required by law. Workers' comp for example, is required by law in 
+all states. It's a mandatory requirement like auto insurance. If you've written 
+a policy for that barbershop, the odds are high that when the time comes to 
+renew, a good portion of the business will be sticky. It'll come back year after 
+year. The recurring revenue is one of the most beautiful aspects of any 
+business you can own. Getting into businesses where you don't have 
+recurring revenue can be quite uphill. There are a variety of business models 
+that work well, but in general, recurring revenue is good. Insurance has some 
+good aspects. It has a recurrence to it. It has other people giving you money 
+today. Now, if I just compare that to lending, in my opinion, lending is one of 
+the worst businesses to be in because when you make a sale, the money 
+leaves your kitty, and you hope and pray it comes back. In the time of Corona, 
+who knows how much is coming back. I think lending is the opposite of 
+insurance in the sense that when you make a sale, it's terrible that you make 
+a sale and money leaves the door. At least in insurance, you make a sale and 
+money comes in, but you have to make sure the policy and the price are 
+correct many times. One of the things I learned after buying Stonetrust and 
+one of the things I did not like about the business was, you make a sale, but 
+you don't know your cost of goods for that sale many times for several years 
+in the future. I've sold an item where I don't know what my cost of goods is. I 
+may have models that will help me estimate it, but those models may or may 
+not work. It just depends on the way things unfold and such. Francis can 
+probably tell you about the nature of their claims that they're seeing today in 
+the business, in the time of Corona versus what they were seeing maybe six 
+months ago, it has changed quite a bit. Once I decided to sell the business, 
+the Stonetrust was doing reasonably well. It was a business in good shape, 
+which I said, okay, maybe this is a good time to sell it. I decided let's try to 
+unwind a transaction and if we can get around 65 million, which we paid for 
+it, maybe even a little bit less or a little bit more, that's fine, we'll go ahead. 
+We hired bankers and we started the sale process. I think maybe Francis can 
+correct me if my recollection is wrong. But he called me after we had started 
+the process and he was almost offended. He said, “Mohnish, I heard you're 
+selling your insurance company, and you did not call me to offer it to me”, 
+and I said, "I didn't call you to offer it to you because you are a friend of mine. 
+I'm selling a business that I'm not very happy with”. I like Francis a lot. I value 
+our friendship a lot. I don't want to do a transaction where I'm trying to exit 
+with someone like you, because you're too near and dear to me. He said, “no, 
+I would love to buy the business”. I tried hard to convince Francis not to buy 
+the business. I tried hard, just like I' m telling you all the negatives of the 
+business and it fell on deaf ears. I told Francis, “Please, please, don't buy the 
+business”. Francis would say to me, “Mohnish, please, please only sell the 
+business to me”. Here we are, and now, I think it's been more than a couple 
+of years since we closed the deal. It was very important to me, no matter who 
+the buyer was, that anytime I'm doing any kind of transaction or deal with 
+  
+Page 4 of 28 
+anyone, they should get a good result, not just I should get a good result. I 
+always think that one has to think about the greater good and not just think 
+about transaction. Hey, I did well and that sucker got left holding the bag, 
+that's a very bad way to live your life. If you lived your life that way, life is not 
+going to turn out so well for you. It's always been very important to me that 
+whoever is the people in my orbit, my investors or my vendors, or when I'm a 
+customer to somebody else, et cetera, all of those relationships, we win 
+relationships as far as possible. Francis had been a very close friend. He's a 
+very high-quality human being. I did not want our friendship or our 
+relationship to be negatively affected, which is why I tried hard not to sell the 
+business to him, but he insisted, and here we are. With that, maybe Francis, 
+I'll pass the floor to you and let's hear your perspective on this. 
+Francis Chou: Thank you, Pabrai. No, I heard about Mohnish selling the business on one of 
+the chat boards. I phoned Mohnish and asked him whether it was for sale, I 
+was surprised how quickly we came to the price. We had some, a bit of 
+concern about reserves and so on and so forth, but Mohnish was quick and 
+proposed the term and I accepted it within 48 hours. It was quick, and he was 
+teaching me how to buy a business. Mohnish told me, “first thing you should 
+consider is the person selling the business to you”. He said, “it's me selling to 
+you; therefore, you should do no due diligence”. You should trust the person. 
+If you know the story, I hardly did any due diligence based on what Mohnish 
+was telling me and that is how it happened. There were a few things that are 
+important when you buy an insurance company. 
+Mohnish Pabrai:  In fact, if I can just interrupt Francis for a second. It was four months after he 
+bought the business that he showed up to see it for the first time.  He said it 
+was kind of nice to see that it actually existed. 
+Francis Chou: What Mohnish is saying is quite true, I did not even visit the office. I had a 
+chance to meet the executives, not in Baton Rouge, where it was based, but 
+in New York by accident. We had a nice dinner, and I had a chance to talk to 
+the executives like; the president and the CFO and the actuary. I kind of had 
+a good understanding that a lot of thin gs that Mohnish had done previously 
+was something that I would've done, and therefore I don't have to do it. Let's 
+look at a few things that Mohnish said. First, he moved to Nebraska, where 
+we report to the Nebraska commissioner instead of Louisiana. Now, Nebraska 
+is important because of what we call it, the investment rules. It's much laxer. 
+Some states have investment rules where you can only put 5% of your capital 
+into equities. Whereas Nebraska had far more liberal rules. You can put 
+almost close to one. That is important in an insurance company, because if 
+you cannot invest in equities, insurance as a rule just lousy business and you 
+don't make an adequate return. When I was looking at the business, so 
+reserves come first thing in mind, you can play reserves. How do you evaluate 
+reserves? I was fortunate enough that I've been involved with Fairfax since 
+1995. I've been in the insurance atmosphere for a long time. The first thing I 
+looked at was like, when you look at workers comp, one of the biggest danger 
+in workers comp is how many claims you have. Now if more than 90% of the 
+claims are not resolved within two years, it can spiral. That is the biggest 
+danger in workers comp. Like if you don't settle it in two years, what happens 
+is that, two years can become 10 years. You're still paying the claims over 10 
+years. In Stonetrust case, 90% of their claims were resolved in two years. I 
+think it was around 91%. But that gave me a great comfort factor. A second 
+one was the number of claims count. It was less than 300. I thought if it goes 
+  
+Page 5 of 28 
+over 500, they were not doing their job. 300 meant they were doing a 
+fabulous job and looking after claims. The second one claims are extremely 
+dangerous, when you go into insurance, you don't know your costs as 
+Mohnish had said it earlier. Sometimes your pricing is something that you 
+don't know, like 20 years later, what th e price should be, but in Stonetrust's 
+case, the duration of an average reserve was only three years. If I am off, I 
+mean by pricing, I'm only off by three years. These were factors that came 
+into it in terms of understanding whether I should do a total due diligence. 
+They all came in like they were lined up and knowing Mohnish, I knew it was 
+a well-run company.  The next part that becomes difficult is: how do you 
+make a deal? As you know, when you make a deal, it can become 
+acrimonious. But in our case, Mohnish and I, we struck a deal in less than 48 
+hours after I saw the numbers. There were a few things I was a little bit 
+concerned about and Mohnish said, “why don't we do it like this?” and I 
+agreed right away. Over the six-month period before closing the deal, there 
+were minor issues here and there. We hardly ever went to any type of long 
+negotiation. We just picked up the phone and we just resolved it over the 
+phone. We didn't have lawyers battling each other, his lawyers and my 
+lawyers battling. We just talked on the phone and we just resolved it 
+ourselves. That's how it went from my side. In the end, it turned out well. I go 
+i n t o  S t o n e t r u s t  f o u r  m o n t h s  l a t e r ,  a n d  I  t h o u g h t ,  I ' l l  b e  s e e i n g  a  l o t  o f  
+cockroaches, lot of stuff Mohnish did not tell me, nope, it could be hiding in 
+one cupboard, maybe in several cupboard s. But I went there, it was truly, 
+clean. Everything that Mohnish told me was true. You can see, like Mohnish 
+s a i d  i n  b u s i n e s s e s  k n o w i n g  t h e  p e r s o n  i s  i m p o r t a n t ,  k n o w i n g  t h a t  g u y  i s  
+honorable, is important. That saved us I think most likely in a small deal like 
+Stonetrust about 70 million dollars. That  must be 2 to 5 million in legal fees 
+and professional fees. 
+Mohnish Pabrai:  Yeah. One of the things that I've always felt, which is a very good saying to 
+keep in mind is, you cannot write a good contract with a bad person. You can 
+never expect a contract to protect you if the ethics of the person who's 
+signing the contract, your counterparty is in question. The most important 
+thing you've got to figure out and I think this is the most important thing in 
+life in general is all the people in your orbit, all the people you do business 
+with, the people you work with, they all need to be high quality individuals. It 
+is not worth it to try to go through li fe without that basic edict. When we 
+closed the Stonetrust transaction, on closing, Dhandho received 45 million, 
+and we had notes receivable from Fran cis for 26 million. I would've been 
+unwilling to have even a small fraction of  that receivable with anyone if it 
+wasn't Francis, because a lot of that receivable was subject to adjustment 
+based on what happened with reserves. We gave Francis a warranty and I 
+knew that. What we said is, okay, look if the reserves actually proved to be 
+inadequate, then you can take some portio n of all of 16 million out of the 26 
+million and adjust the purchase price in  the future. If we offer that to any 
+buyer in insurance, they can fudge the future reserve numbers and say, hey, 
+we are 3 million short or we are 5 mi llion short or whatever and then the 
+mechanisms should I resolve that, aren't the easiest. Because I had complete 
+trust in Francis, in fact, what happened is we were supposed to every year, 
+each pay an actuary to do an analysis on the reserves and then take a middle 
+of those two. My actuary was like his. Every year we have both waived the 
+actuary coming in to do that. Which means we both save a hundred thousand 
+or something in cost because we've, like he said, he found it's a clean 
+  
+Page 6 of 28 
+company and there were no misrepresentations I made to him. On the flip 
+side, Francis has been an extremely honorable buyer where we've gone, I 
+think more than two years now, there have been no purchase price 
+adjustments. The purchase price is where it's been because the reserves have 
+proven to be accurate and such. I think these lessons are not related to 
+insurance. They're not even related to M and A transactions. I think the 
+lessons relate to how you should live your life in terms of who you go to work 
+for, who your business partners are, just every facet of your life, you want the 
+highest quality human beings all around you. Once you have that, everything 
+else goes simply after that. 
+Francis Chou: With regard to the reserve adjustments, we had two years, one was last year, 
+and then the other one was this year. I would phone Mohnish sometime in 
+September and October and say, forget getting your actuary to do a reserve 
+analysis. It's been two years now. There's two more years to go, but you can 
+see companies clean and it doesn't make sense playing with numbers. 
+Mohnish Pabrai:  Maybe what we'll do is we'll open up to questions. If you want to ask 
+questions on Stonetrust, that's perfectly fine. If you want to ask on other 
+subjects that's also fine. Anything other than what we are buying right now, I 
+think is fair game, so, please feel free. 
+Andrew Sandoe: You had a question, didn't you? 
+Interviewer 1:  Yes. Can you hear me? 
+Mohnish Pabrai: Yep, absolutely. 
+Interviewer 1: Awesome. Thank you, Mr Pabrai an d Mr Chou for taking the time to come talk 
+to us. I have a couple of questions. The first one would be about insurance 
+and the second one would be about your foundation. I guess I'll start with the 
+insurance one. How do you value an insurance company?  Is it based on the 
+amount of reserve they have or do you value it based on book value? 
+Francis Chou: Okay. I can go. You always start not with the book value, but the adequacy of 
+the reserve. Once you establish that the adequacy of reserve is fine, then you 
+go to book value. That's where you start. If they rated companies higher, then 
+you pay a premium to book. But for most companies it's somewhere around 
+book plus 20% or book plus 10%, and during good times, it can go to like book 
+plus 30%. But that is where you are most of the time. 
+Interviewer 1: My second question is about Mr. Chou's fund. You've had a lot of good years 
+and couple of down years, how do your clients take that? Do they stay with 
+you to the good and the bad or? 
+Francis Chou: It depends on your investors. I have not marketed my funds and I just have 
+one employee with me. Most of them have come in through word of mouth 
+and by knowing about how I invest. Wh at I don't have is something called 
+“hot money”. We have not done well in the last four or five years, and some 
+of them could be because value has not done well. The other side is also, 
+some of the stocks we picked were not the greatest. We made a few 
+mistakes, a few assumptions that were wrong. We did not properly estimate 
+how low, let's say, the price of oil an d gas would be and how long they'd be 
+at such a low price. The same thing with commodity businesses. We also 
+made a lot of mistakes on the other side, good companies that we thought 
+were overvalued, but when you look back on it now, let's say after 10 years, 
+  
+Page 7 of 28 
+most probably they were undervalued because we did not accurately 
+calculate how fast they were growing. Part of the intrinsic value is the growth 
+of the company. We all, as value inve stors, we tend to underestimate that. 
+Value investing is, you make mistakes and best thing is face them up and 
+acknowledge them because if you don't face them up and acknowledge 
+them, you will keep repeating it. 
+Interviewer 2: I have a question regarding the trust, it's amazing how you were able to do 
+big transactions with such good friendship and stuff. But what if it's not 
+available like for us or these days, it could be hard to trust another investor or 
+another potential partner, again, how do you trust the employees as well? I 
+would love to hear your feedback on that. 
+Mohnish Pabrai:  Maybe I'll go first. Maybe Francis can join. I think that's a really, good question. 
+When I had lunch with Warren Buffett in 2008, it was a slightly expensive 
+lunch, but now in hindsight it looks cheap. But anyway, one of the questions, 
+actually, I made a comment to him. I said, “Warren, how come you are such a 
+good judge of human nature? How are you able to figure out people so well?” 
+He said, “actually, Mohnish, I'm not good at judging people.” He said, “if you 
+put me in a cocktail party, hundred people in a room, and I got a chance to 
+spend a few minutes with each person I could probably tell you that, four 
+people are exceptionally good and I could probably tell you that, four people 
+are exceptionally bad and the other 92, I wouldn’t be able to make any 
+judgment on”. He says that the way he lives his life is by being a harsh grader. 
+He said “I only let in the four people into my life who are exceptionally good 
+and I don't give benefit of doubt to the 92, who we don't know whether 
+they're good or not”. We definitely have no interest in the ones who are the 
+bottom 4% if you will. The thing is th at as we go through life and as we 
+encounter people, there will be data points that will make it clear relatively 
+quickly, in some cases that some in dividuals are exceptional and there will 
+also be some data points would tell us that some individuals are just not 
+worth bothering with. It might be the way they treat server at a restaurant or 
+their perspective on different things in life. There could be a subtle clue of 
+that. The key which I've taken to heart from Buffett is; be a harsh grader. 
+When you pick up some signals, even though they may be relatively weak 
+about some people, Charlie Munger says there are enough nice people in this 
+world that you don't need to make exceptions or accommodation. It is not 
+natural in human nature to be a harsh grader with various humans. That's a 
+v e r y ,  a l m o s t  i n h u m a n e  t h i n g  t o  s a y ,  b u t  i t  i s  e x t r e m e l y  g o o d  t o  h a v e  a n  
+exceptional life. Because one of the th ings about humans is that there's a 
+gravitational effect. If we hang out with people who are better than us, we 
+are going to get better and if we hang out with people who are worse than 
+us, we're going to get wors e. Our quest should always be to hang out with 
+people that we like, admire, and trust and to minimize or get rid of the 
+relationships where we have question ma rks. One of the things that Buffett 
+says to students, he says, “let's say you are in a class with 40 other students, 
+and you know these 40 people quite well”. He says, “let's say you could offer 
+a deal to any student in the class where you would give that person half of 
+your lifetime income and in return, you would get half of their lifetime 
+income; a swap. The question  he asks is who would you do that deal with? 
+The answer that's going to come out usually is it's not going to be the 
+brightest person. It may not even be the hardest working person, but it's 
+going to be a combination of integrit y, intelligence, and energy. Someone 
+  
+Page 8 of 28 
+who's got very high ethics, someone who's smart and works hard. That kind 
+of combination. Generally speaking, when you strive to identify those types 
+of traits, it's not that hard to be able to figure out the lazy ones and take them 
+out. It's also not that hard to start figuring out people who are cutting corners 
+in different ways to take them out. J ust be a harsh grader, look at the way 
+things are, and you can start getting better over time. The advantages I can 
+just tell you that, when I look at the friends I have, I look at the people I spend 
+time with. It's a very blessed life because I've deliberately been doing for 
+decades, culling, it's harsh, but culling is very important so that you have the 
+time for the highest quality humans in your life. 
+Francis Chou: Yeah. When I was young, coming out of Bell Canada as a technician, and I was 
+looking to get into the investment field, I was just looking for a person I could 
+work with for a long time. I was fortunate enough that in 1984, 1985, I met 
+Prem Watsa, as you know, Prem Watsa is famous for having guided Fairfax 
+Financial to what it is today. It's im portant to go with good people, good 
+integrity and long term, but it'll make a big difference. 
+Interviewer 3: If I could just thank you for having a momentary lapse and spending some 
+time with the 92%, you're not sure about, we certainly appreciate it this 
+evening. I wanted to ask how you go about defining your circle of 
+competence. When we have these, this is such a unique environment for me 
+as an investor where markets moved so quickly, that the speed of the 
+reaction and the opportunity that presented itself was on a scale I hadn't seen 
+before. I think it's important to have to understand what your circle of 
+competence is, but also when these opportunities are presented in front of 
+you, how you go about evaluating, well, maybe this is an opportunity, or it's 
+close enough to this area that maybe it's an adjacency I could venture into. 
+How do you deal with setting hard boundaries and then when do you relax 
+them? 
+Mohnish Pabrai:  Well, maybe Francis, I'll go first and then maybe you can share your thoughts 
+after that. First of all, we don't have the 92%, we have the 100% in the class. 
+There's always the quest for the 4%. It's not an entirely lost cause to hang out 
+guys, there are a few diamonds in the mix. I hope we have the smarts to figure 
+that out. I think circle of competence, Charlie Munger says to ask the question 
+is to answer it. If you have to ask your self, if a particular company is in your 
+circle of competence, you have already answered it and the answer is it is not 
+in your circle of competence. It's a simple test. The second thing I think, which 
+is useful in this environment just to k eep in mind is, I think when Bill Gates 
+and Warren Buffett were asked the single most important trait that has been 
+most important to their success in life, they both say it's focus. The thing is 
+that as I look at what's happening with us, we see the human tragedy is 
+terrible, and of course we have all our lives disrupted. But when we look at 
+the markets, quite frankly, we were at relatively elevated levels before all of 
+this. I don't find that many things that are obviously cheap based on what's 
+happened in the last few weeks. I have found one business so far that I am 
+quite excited about, and I've been buying and there possibly, maybe another 
+one. But when I look back at 2008 or 2009, I mean, at that point it was an 
+avalanche of incredible deals. Literally, you could throw darts and it was so 
+hard to keep up with the amount of stuff coming at me. I was doing basket 
+bets because there were so many companies that look so good. I said, okay, 
+ensure making a 10% bet, I'm going to make five, 2% bets on all of them 
+because they all look so cheap, and I don't know which one does the best. All 
+  
+Page 9 of 28 
+of them went up five, six times or 10 times, whatever. In fact, at that time in 
+2008 or 2009, I don't think there was any business I invested in, which was 
+not a winner. We are nowhere near those levels today. I hope we don't get to 
+those levels because that would mean that there's a lot of other things going 
+on which are quite ugly. I think in this environment also, even though we were 
+not medically ready for COVID, fiscal and monetary response, especially in 
+the United States has been remarkably fast and remarkably furious. I think 
+part of it is the lessons that these guys  learned in the financial crisis. I think 
+that end of it is actually working better. This is a much deeper dive than we 
+went through. We already passed 10% unemployment. It took us 15 months 
+to get to 10% unemployment in 2008 and 2009. Yeah, I think circle of 
+competence is very fundamental. It should be obvious to you that you 
+understand how the business works and many businesses are relatively 
+straightforward to figure out. If you look at MasterCard, it's not that hard to 
+figure out that business. American Express, not that hard to figure out. 
+Carnival Cruise lines, not that hard to figure out. But there could be many 
+businesses which are hard to figure out. You have to take a pass very quickly 
+on the ones where you're scratching your head and hone on the ones that 
+you think you can get your arms around. Francis? 
+Francis Chou: When you're looking in the mark et, like there's 30,000 stocks or maybe more, 
+and you only need like 10 or 15 of them. If you miss something, you can always 
+go to the next one. If you look at my career going back, like almost 40 years 
+ago, I was just coming from Bell Canada as a technician. I concentrated on 
+something called financial bargain. I was much closer to what Benjamin 
+Graham was doing at buying net-nets and so on. When you buy net-nets, they 
+are cheap on an asset side. But in 1981, 1982, you had another big benefit, not 
+only these companies that were net-nets, but they were also good 
+companies. You had the best of both worlds. That is what I was doing when I 
+started my career. As my knowledge grew, I went into higher quality 
+companies that was willing to pay up, but you can see even in Stonetrust, I 
+did not wear off my line. I went into something that I was quite familiar with. 
+I dealt with workers comp when I was at Fairfax in 2001 and 2002. I knew 
+what I was getting into. The key thing is, ‘know what you're getting into and 
+into the fields that you're in’. Just don't go adjacent to it. Like, even if you play 
+a racket sport and if you're good in racket sport, and if you're good at tennis, 
+stick to tennis, but don't go to squash or badminton. That is what I mean, 
+sticking to a circle of confidence. That is what I do.  Let's say because of the 
+COVID crisis, I don't have confidence in terms of understanding how the stock 
+will work out, but a lot of the bonds have been beaten up like by 50%, like 
+something, a bond that is worth a hundred cents on a dollar, lot of them, you 
+can buy them at 50 cents on a dollar. That is way, way, cheaper and way safer 
+than buying equities. You can see that you have options, and you can look at 
+it. Another way is to buy fixed income install, which is an easier way to play 
+and safer way to play and you're getting almost the same kind of returns at 
+stocks. 
+Interviewer 4: Again, thank you guys for being here. Mr. Pabrai I know that you have the 
+ability to have lunch with Warren Buffett, so any other key insights into that 
+would be great, but I guess thinking to your acquisition of Stonetrust, is 
+Warren Buffett's history in insurance, do you think that swayed you to think 
+that would be a great route for you to do in your investments? And were you 
+thinking about buying any furniture marts in Nebraska? 
+  
+Page 10 of 28 
+Mohnish Pabrai:  Well, thank you for the question. I think on the insurance side, yeah, I was 
+swayed by Buffett, but one of the things that I think most people don't 
+understand about Berkshire Hathaway and even I didn't understand this until 
+recently is, at the highest level when you look at a property casualty insurance 
+company, what the regulat ors and rating agencies want you to do is they, 
+generally speaking, want you to take the money that has been set aside to 
+pay future claims, the reserves, and invest that in a very low risk manner. If 
+you're going to do it in bonds, they ideally want those bonds maturities, 
+which are matching your liabilities. Then your surplus or book value, generally 
+speaking that with some restrictions, they allow you to go into equities. All 
+the different states and countries have different regulations like Francis 
+mentioned, Nebraska is more favorable, no surprise because Buffett is there 
+and probably part of his influenc e, but the one advantage Berkshire 
+Hathaway has, which almost no other insurance company has, is Berkshire 
+has almost no restriction that their float needs to be in fixed income. Because 
+of their AAA rating and they're such  heavily over capitalized insurance 
+companies, they put a railroad insi de the insurance company, and those 
+regulators love that railroad being inside that insurance company. They treat 
+that railroad like it's a bond instrument. Okay. Just to give you an example, 
+Buffett spent 30 billion on that railroad. It's worth over a hundred billion now. 
+The regulators are treating that like a bond. No bond has done that since he 
+bought the railroad. In fact, with Corona, if you held bond, you would've 
+actually had not such a great ride on many of them. But of course, I think from 
+now on that ride is good. I think that I came to a conclusion that insurance is 
+a business that's good from far, but far from good. I think Francis and his 
+team, I think at Stronetrust, they will  do okay because it's an exceptional 
+team. There's an exceptional investment manager on that team and there's 
+an exceptional set of executives on the underwriting side. It does take some 
+incredible powers to make their engi ne work. Whereas if you owned a Coke 
+bottler, your idiot nephew could run it and it would make money. You cannot 
+have your idiot nephew run Stonetrust. It would get in trouble in no time. 
+When we had lunch with Warren Buffett, that lunch went for like more than 
+three hours. In fact, I think one of the first thing Buffett said is that “I got 
+nothing going on all afternoon, when you get sick and tired of me, you let me 
+know and I'll leave. I'm here till you kick me out” and he actually stuck to that. 
+He actually just was totally laid back. I think between us we probably had 
+more than 50 questions for him and many of the questions by themselves 
+were worth the price of the lunch and then some, but for example, I asked 
+him a question about Rick Guerin, who was one of the three musketeers with 
+Warren and Charlie in the sixties. I hadn't heard of Rick Guerin in a long time. 
+I said, “are you in touch with Rick because he kind of fell off the face of the 
+earth.” Of course now, Rick is a good friend of mine. I've reconnected with 
+him. But at the time of the lunch, which was about 11 to 12 years ago, I didn't 
+know that, so Warren said, "Yeah, I'm very much in touch with him." In fact, 
+he plays bridge with Rick regularly. When the 1973 and 1974 crisis hit, there 
+was a very intense drop in stock prices . Rick was levered and he got margin 
+calls and he ended up selling a large portion of his Berkshire Hathaway shares 
+to Warren Buffett at 40 dollars a share, the things that were recently priced 
+at 300,000, was sold at that time for 40. Of course, Rick has done very well 
+since then. He's not suffering. But Warren said that if you are even a slightly 
+above average investor, over a lifetime, if you spend less than you earn, you 
+cannot get rich. All of you in profes sor Sandoe's class with your past 
+education and the degree you're getting now, you are definitely significantly 
+  
+Page 11 of 28 
+above average in annual income versus the rest of the population, if not now, 
+definitely in the near future. You can just run the math yourself. If you're 
+maxing your 401k, maxing your IRA, and spending less than you earn, even if 
+you have a single-digit return on the money maybe 5% to 10%, over time that's 
+going to build up, especially with employer matches and everything. Einstein 
+used to say, compounding is the eighth wonder of the world.  There are three 
+variables. You need to get fluency in compounding. We are not going to go 
+there too much in this class, but there are three variables that control 
+compounding: your starting capital or the capital you're contributing every 
+year; the length of the runway; and your average analyze rate of return. If you 
+think of those three variables, I have some videos you can look at, I think I 
+gave a talk one time at University of  Puerto Rico, which goes into it. I 
+recommend you maybe hear that talk, but basically the bottom line is that if 
+the runway is long, even with very small amounts of capital and even with not 
+such a high rate of return, you will end up with spectacular sums or if your 
+runway is short, you need a higher return to end up with the same results. 
+They're interchangeable. If you look at someone like Warren Buffett, so far, 
+his runway is 70 years old. He starte d at the age of 20 with 10,000 and now 
+he's 90 and he's been compounding for 70 years, and he's continuing to go 
+and look at the opportunity which the market has served up to him now. The 
+most important thing for all of you is to  start early. One of the problems is, I 
+asked Professor Sandoe before we did this, "What's the average age of 
+students?" I was so disappointed when he said, you guys are in your thirties 
+because I wish I was talking to you when you were 17. Even 17 is a little late, 
+because if you had part-time jobs when you were 14, the IRA laws allow you 
+to open an IRA even when you're three years old. There's no minimum age to 
+open an IRA. You can put hundred percent of your earnings in the IRA as long 
+as less than 5000 or 6000. Those early starts are extremely important, but all 
+is not lost. Even though you are in your thirties, all is not lost because you will 
+live a lot longer than Francis and me. Your runway end date will be a lot 
+further out than our runway end date. You still have probably, I would guess 
+maybe six decades or something of compounding ahead of you, get on with 
+the task. 
+Francis Chou: What Mohnish is saying about starting as early as possible, it's not just that 
+runway, but as we all know, we are human beings and earlier you start, what 
+you'll have is that you' re going to make mistakes. When you make mistakes 
+when you're young, it's much easier to bounce back and say, okay, what I'm 
+thinking, I was thinking this way, and I thought I would make a lot of money, 
+but it proved I was wrong. Therefore, you can start early. If you start at 25 
+versus 50, at 50 if you make that same mistake, you would consider yourself 
+an idiot. But at 20 and 25, just start again. You have that benefit when you're 
+younger. You can make mistakes and you can bounce back. I was fortunate I 
+started investing at a young age and I've made a lot of mistakes, and I was 
+able to bounce back without not hurting myself. You have to allow something 
+for mistakes. Even we as portfolio managers, we are only right most probably 
+only 60% of the time, 40% of the time we  are just either making mistakes or 
+they're not right decisions. Those are the bating ratio to give you a rough idea. 
+Andrew Sandoe:  Do you want to go ahead and ask? 
+Interviewer 5: Yes, Mr Pabrai and Mr. Chou, th anks for joining us. I'm interested in hearing 
+when you first started your career, both of you have incredible stories and 
+you took a different path than most people who were continuing to work 
+  
+Page 12 of 28 
+from company. I'd like to hear what was it that gave you the initiative to do 
+that or to say it another way, if you have a son or a daughter, what type of 
+advice are you giving them? 
+Mohnish Pabrai:  Maybe, I'll go first. I think one of the negatives you run into when you have 
+these advanced degrees from elite institutions is that, the opportunity cost 
+for you to do something else is high. What I mean by that is that, if you are an 
+MBA from Harvard, the market place re cognizes that and is willing to pay 
+good sum for that. If you were to say, okay, I'll ignore that and I'll go on my 
+own. What you're giving up in terms of lost income for a flyer is quite high, 
+right? Because the opportunity cost is so high. Generally speaking, we don't 
+end up with a lot of Harvard MBAs doing non-venture back startups because 
+it's the risk factors for them and the risk reward doesn't appear palatable. But 
+there's a way around it and what I've always told young people and my kids 
+is that, and it's the same with my experience is when I was leaving my first 
+job to start my first business, what I did was I actually ran my business while 
+working for nine months because let somebody else pay the rent, let 
+somebody else pay for the groceries, don't start any burn because my 
+employer needs 40 hours a week. I used to put in a lot more hours, but once 
+I started my own business, I went down to exactly 40 hours. I was no longer 
+concerned with great reviews. I was only concerned about slightly about 
+firing level. Like the New York governor wants to keep the shutdown, slightly 
+under the number of ventilators and ICU beds, he just doesn't want to blow 
+past that number. Every day he gives us all the data on how he's just under 
+that thing. My take was, just do enough so you don't get fired. Okay, focus all 
+the energies on the business. I was trying to get my business part-time off 
+the ground. I used to go to work and evenings, weekends, I would work on 
+the business. After nine months of doing that, I had a few clients. I had 
+revenue and cash flow. I was dying to go full time because I was putting in 
+probably a hundred hours a week. I went in to resign to my boss and his boss. 
+They both talked to me and now it all makes sense because I told them I had 
+started this company which was not comparative with what they were doing. 
+They were very supportive, but they said we had many discussions over the 
+year that your performance had dropped off, but it hadn’t dropped off so 
+much that we wanted to fire you. But we were just concerned, it had dropped 
+off. I said, exactly, that was my point is to make sure you never get to a point 
+where you're terminating me, because then the plan doesn’t work. When I 
+was leaving, my employer told me, “You can come back anytime, you'll get a 
+raise, you'll get a higher position”. I thought, wow, there's no risk because one 
+is I've got a business that's already got some revenue. It's got some traction. 
+I was single at the time. I took 70,000 in credit cards and emptied my 401K. 
+My perspective was at 25 I had a clean shot; I didn't have a wife and kids and 
+if I failed, I could go back to work an d I would've given it one solid shot. The 
+opportunity cost was low and it worked. The earlier you do it, the easier it is. 
+If in this environment, with the way technology is, a lot of ideas that you can 
+come up with for businesses don't re quire capital. They require what's 
+between your ears. There’s a lot of intellectual capital required. There's not a 
+lot of capital required which is great. What that means is, you don't need a lot 
+of money to get these businesses off the ground. You can still have somebody 
+paying your rent and everything else. Then when the business has some 
+traction and you can actually see some runway, at that point, you can make 
+the switch and the cost is low. Francis? 
+  
+Page 13 of 28 
+Francis Chou: You have a good question. I could let you know what I was thinking in 1976 
+when I first came to Canada. I was working for Bell Canada like a technician, 
+like a repair man or an installer that you see. I was getting restless. I was 
+wondering what I should do with my life. I said, okay, if I go into engineering, 
+most likely, I would just be kind of maybe average or above average and if I 
+go and become a doctor, most likely I'll be an average doctor, maybe above 
+average. The reason for going into engi neering, let's say being a doctor is 
+because of peer pressure. Parents expect you to go into those lines, it has 
+some prestige. For oriental that's a perfect job, but I was not comfortable with 
+that. I was hunting around, looking around, what field should I go, what field 
+that I have a competitive advantage just based on my lifestyle and my DNA. 
+All my life, as and when you live in India, you're basically shopping, like you're 
+going to a bazaar. It's not like you go to a Walmart where all the prices are 
+marked. You go and you haggle, you have to check the prices of any goods 
+you buy, any vegetable you buy, and then you haggle. Then I read about 
+Benjamin Graham in 1979 and I figured out that what he was saying is that; if 
+you can estimate, value a company, if it is hundred, if you can buy it for 60 or 
+70% of that hundred, then you got to bargain. Then I suddenly realized, this is 
+my field, this is what I've been doing all my life. I'm a notorious cheapskate, 
+born like that. That is the feel why I picked. When I go to the stock market, 
+I'm just looking for something that's marked down and has worked for me for 
+40 years. The key thing is, realize just the way you are, your DNA, the way you 
+are as a person, the way you train yo urself, and figure out you have a 
+competitive advantage and then go to that field. But the second question is 
+that if you decide to go to a certain field, you should have conviction. A lot of 
+people say you cannot do it, you don't have a degree, and so on. But that is 
+big confidence in yourself. Confidence that if you work hard, you can break 
+through. That was the second thing I did, which was important at that time. 
+Mohnish Pabrai:  In case you guys haven't picked it up, Francis is not Chinese. He's like a fake 
+Chinese. He grew up in India and actually when he talks to me in Hindi, there 
+are more cuss words in a sentence than I can utter over here, not allowed to 
+utter them, but I'm just saying that he's got an extensive vocabulary of salty 
+Hindi. He's a fake Chinese grew up in Allahabad in India. 
+Francis Chou: That is quite correct. I can speak the Indian language, I can read and write 
+once upon a time, maybe not now. 
+Mohnish Pabrai:  Now he only remembers the bad words. 
+Francis Chou: I can tell you if you shop a lot in India, it's a perfect training ground for you to 
+be a good value investor. 
+Andrew Sandoe:  Team, go ahead. 
+Interviewer 6: Yeah. Thank you both for your time. I was wondering about your investment 
+process when you are analyzing and making investment decisions. Do you 
+rely on the opinion and the analysis of  all the analysis, or do you only and 
+solely rely on your own opinion to make your investment decisions? 
+Francis Chou: Well, okay, Mohnish, maybe I'll go first. Basically, you have to rely on yourself. 
+Early on in my career, because I was working in Bell Canada, and I didn't have 
+too much experience with companies, I kind of had the security blanket, kind 
+of looking for financial bargains, things are really, cheap. But as you know, 
+once you get into business, you understand the quality of business matters. 
+  
+Page 14 of 28 
+Now there's more emphasis on what the company could be worth 5 years 
+down the road, what the company could be worth 10 years down the road. 
+The analysis that you see on Wall Str eet is basically like short term, the 
+earnings next quarter, earnings six months down the road, and those are kind 
+of meaningless. In our cases, more valuation of company, what they're worth 
+based on your valuation, and you go with that. 
+Mohnish Pabrai: I have nothing to add. 
+Francis Chou:  Sounds like your buddy Munger. 
+Interviewer 6:  Thank you. 
+Interviewer 7: Hi, this is Deblina, thanks sir. Thank you again, both of you, for coming and 
+addressing us today. I've been following your website, chaiwithpabrai.com 
+and the free lunch portfolio that you ha ve very carefully put together there. 
+You also show us the Uber Cannibals and the Shameless Cloning companies, 
+and I know you have been speaking about cloning these well-known 
+portfolios like yours. Now for us amateur investors to even think about 
+cloning, such high-profile portfolios, what key factors do you think we should 
+keep in mind? 
+Mohnish Pabrai:  Well, I think the chaiwithpabrai free lunch portfolios, those are designed to 
+be kind of like index investing. I think that stock picking with all the discount 
+brokers and now, zero commissions and all of that appears to be very easy 
+and very simple, but in reality, figuring out what a business is worth and what 
+its value is a few years into the future  is extremely complicated. For most 
+humans, they are not going to have the time or the inclinations to be able to 
+figure that out. I think the best thing for most investors to do is to index. You 
+can index with the S and P 500, that's a perfectly good way to go. You can 
+also index with the free lunch portfolio, which is a mix of Cannibals, Spinoffs 
+and Cloned ideas. We run our back tests and we update that portfolio 
+annually. Yeah, that's a good way to go, but it's kind of like watching paint 
+dry. If you are the kind of person who gets entertained watching paint dry, 
+then the freelance portfolio or ind exing will work well for you. If you need 
+more action, then it's not going to work well for you. 
+Interviewer 8: Well, first I wanted to thank Mr. Pabrai and Mr. Chou for the presentation 
+tonight. It's very enlightening to me because my background is in engineering 
+too and halfway through my career, I decided to move to the finance sector. 
+That's part of the reason why I'm pursuing this graduate degree, so I can start 
+investing on my own. I guess my question is when you're starting off, how did 
+you increase your circle of competence in investing in financial instruments? 
+Francis Chou: I was kind of fortunate to start my investing career in that period of 1978 to 
+1981. The Dow had not gone anywhere from 1960 to 1981. It was 1000 in 1962. 
+In 1981 it was at 1000, but during the recession of 1981 and 1982 went down to 
+600. The Dow was selling below book value, it was at six times earnings on 
+average and a lot of them were at 6% dividend yield. I came in at a good time. 
+I started with financial bargain. But slowly, you cannot do it within six months 
+or a year or two years. You started something comfortable like financial 
+bargains, and then you go into specializing into certain industries. But you 
+have to give yourself time, you cannot rush. You're going to make some 
+mistakes. You're going to go to some kind of a dead-end decision. Then, it's 
+a mistake and you start again. Go initially with something you're secure with, 
+  
+Page 15 of 28 
+and then increase your circle of competence. But you have to test yourself 
+where you're most comfortable with, like what is your engineering line. If it is 
+in let's say airlines or engines, then you can start from there because you 
+already have a background in what you're studying. 
+Mohnish Pabrai:  Yeah. I think what I would add is that it should not be an objective to broaden 
+your circle of competence. I think what should be your objective is to make 
+sure that, so I always give the example of one of Charlie Munger's friends John 
+Arriaga. John Arriaga is a billionaire. He  lives in Palo Alto and throughout his 
+life, he's only invested in real estate within one mile of the Stanford campus. 
+His circle of competence is not real esta te, It’s not California real estate, it's 
+not even Northern California real estate. It's a very, very small geography. But 
+in that geography, I'm sure if I'm just walking with him on Palo Alto and I look 
+at a random building, he could probably tell me everything about that 
+building. He could probably tell me what the rents are, what it would sell for 
+everything about it. He is operating in the epicenter of his circle of 
+competence and with him having such a narrow circle of competence, it did 
+not prohibit him from becoming extremely wealthy. One does not need to 
+know everything about everything to do well. In this business, being an inch 
+wide and a mile deep is much better than being a mile wide and an inch deep. 
+The key is, first of all, there are areas and businesses today that you 
+understand well, focus on those and the second is to have a curious mind and 
+to read a lot. Buffett reads a lot of business biographies and business 
+biographies are just a good way to learn about different businesses and just 
+how those founders or owners or managers thought about their business. 
+Like recently a few months ago, I read a book called Plain Talk, and Plain Talk 
+is written by Kenneth Iverson who was the CEO of Nucor. Nucor did well in 
+many mills and circles around all the integrated steel co mpanies and all of 
+that in a tough business. That book is an easy read and teaches you a lot about 
+the minimal business. It also teaches you a lot about great management and 
+business principles. I think that being curious about businesses and just being 
+wanting to understand why things work a certain way. Like for example, I 
+think Professor Sandoe brought up Carnival Cruise Lines, and I have never 
+looked at Carnival Cruise Lines. But there are a few things that bother me 
+about the business. One of the things that bothers me about the business is 
+that probably not an insignificant portion of the revenue come from 
+gambling. They've got captive casinos in all their boats, and once you get past 
+12 miles, the table's open. The second is that all the cruise ship companies 
+from my vantage points, skirt the labor laws. Because they are not subject to 
+the labor laws of any country, when you look at the cruise on the cruise ships 
+and what they are paid on a monthly basis and the hours they have to work, 
+that would not pass muster with the US Department of Labor. It would not 
+pass muster with most countries. Those individuals have to provide that 
+service because if they went back to their home countries, they wouldn't 
+have even those opportunities. The thing is that, to me, some of these aspects 
+of this business bother me. Now it may be rational or irrational to be bothered 
+by these factors, but the way I look at it is that I don't need to spend any more 
+time on the cruise ship business, because I see a couple of things that bother 
+me. I could be completely off; it could be a straight 10 bagger very easily. My 
+reservations may have no strong basis for. But the thing is that this is a 
+business, so there's no call strikes. If Carnival ends up being a great 
+investment and I don't make that investment; I have no tears I'm ever going 
+to shed in the future about it because I'm not interested in going there. But if 
+  
+Page 16 of 28 
+a business is well understood by me, I look at it and I study it and I see they 
+can do well. Then, I just graze in my naval and never pull the trigger on a trade. 
+I absolutely would regret that later because I should have pulled the trigger 
+and I didn't. I think that being a student of business over time the circle will 
+expand, but one doesn't need a large circle to do well. 
+Francis Chou: There's a lot of truth to what Mohnish is saying. I know that Davis family, 
+they're worth a billion dollars and they just made it in insurance. There was 
+another person I was talking to that only invest in small banks and he made a 
+fortune out of it. You don't need to go into many different fields. You can see 
+it also in sports. If you're outstanding, let's say in baseball, you don't need to 
+be outstanding in tennis or volleyball or basketball, and that's where you can 
+make your fortune. 
+Mohnish Pabrai:  It's the same with entrepreneurs, the entrepreneurs we like admire and 
+respect so much. They have such narrow circle of competence, right? I mean, 
+they just know everything about this much and it's the only way they can 
+succeed. They cannot succeed by being a jack of all trades. The keys to 
+success like Buffett and Gates, they're focus is narrow your scope, not 
+broaden your scope, just hone in very narrowly on a few things that you 
+understand well, and that's more than enough. 
+Robert: I've been writing a list. I won't give yo u guys the full list, but I'll start with this 
+one. Of the mistakes that you've made in investing, which one have you 
+learned the most from over your careers? 
+Mohnish Pabrai:  Well, Robert, I liked my library until I saw your library. Thank you for making 
+me feel great. Well, I'll go first I think I had a couple of companies, well, one 
+went to zero during the financial crisis, Delta Financial, and another one was 
+almost a zero. Because I run a concentrated portfolio, zeros hit you and 
+they're not that easy to recover from, but the thing is that those mistakes get 
+seared in. After that, I developed the checklist and I studied why and what 
+were the kinds of mistakes that most investors made. The number one reason 
+why many investments don't work out is leverage, it's number one reason 
+why businesses fail. It became obvious when I looked at the failures of other 
+investors and my own. It gave me a lot of pause on making investment in 
+leveraged institutions. I seriously cut back my interest in going into leveraged 
+institutions because I came to the conclusion that if you're a good business, 
+Google or Amazon or Microsoft, you don't need leverage to make money. You 
+would have very high returns on capital and you don't need to increase. We 
+didn't even get a good look at him, man. 
+Robert:  It's bedtime here. 
+Mohnish Pabrai:  But the joys of COVID 19 anyway , so I think that for me the number one thing 
+that I learned was leverage and to avoid it and to minimize it and to look at 
+businesses which have the ability to make great returns without the use of 
+leverage. Francis? 
+Francis Chou: Yeah. But Mohnish, you made a good point, leverage is something that will 
+hurt you, especially, you can see just as a prime example, like last one month 
+how the market has gone. But the second thing that I think can cause 
+investors and definitely me a lot of grief is, let's say I go into a stock and I think 
+it's worth hundred, but it was a mistake in my valuation. The stock goes down 
+to 50, but instead of just admitting that I made a mistake in my valuation, I 
+  
+Page 17 of 28 
+double up, it's just your emotions get in the way, your pride gets in the way. 
+The proper thing to do is to just admit it  and either sell it or just stay put or 
+try to get out as soon as possible. But the worst thing to do is just to go and 
+double your bet hoping to make back the money on that particular stock. You 
+can always make back your money on something else, but does not have to 
+be on that particular stock. 
+Robert: If I can ask a follow up because, so you have a checklist Mohnish, can you 
+share substantially what it is like roughly? 
+Mohnish Pabrai:  Yeah, the checklist is proprietary. I haven't shared it, but I'll just tell you kind 
+of how I went about building it. It isn't rocket science. The premise was that, 
+if some great investor had an investment that ended up with a negative 
+return, which is relatively easy to figure out from 13F filings. I could, for 
+example, take someone like Bill Ackman or David Einhorn or Warren Buffett, 
+Charlie Munger. I can go back and look at all the investments they made. Then 
+I can also look at which ones made money and which one didn't. I look at the 
+ones where they lost money and I ask myself the question that, “would it have 
+been obvious before the investment was made by these extremely good 
+investors, not to make the investment? Was there some data point available 
+that would've told you that this is probably not going to work out? Like, for 
+example, Buffett investing in US Airways. They were not the low-cost 
+providers, Southwest Airlines came in, clobbered them, etc. and then it went 
+south. Then you can say, okay, are you the low-cost provider, like that 
+becomes a checklist item, right? Because it was the lack of them being a low-
+cost operator. I went through probably, and I had a couple of good interns 
+helping me when I was doing this. I went through, probably, hundreds of 
+businesses, maybe a dozen or 15 to 20 investors and all the failures. The 
+surprising thing was in most cases it was obvious before the investment was 
+made, that, there was a relatively easy week link to figure out. In my case, I 
+used to look at these leveraged institutions and yeah, it looks great on the 
+upside, but then on the downside, your equity leveraged 221 and you're just 
+gone. You can't even take a gentle breez e, forget a storm. The thing is that, 
+the checklist basically got built from post mortems on a number of good 
+investors. Then what I did is I sorted  the checklist by category. The biggest 
+area of leverage was the one that caused the most issue, most hard ones. The 
+number two area was related to moats, either misunderstanding or not 
+figuring out the nuances of the moat. There were other things too like, let's 
+say some company failed because of labor relation, that was small or 
+environmental factors, small, but there were the big ones, the leverage, 
+quality of management and moat, probably the three biggest one. Why do 
+you need a checklist to tell you that, it should be obvious to us before we 
+even run into look at a checklist, I mean, yeah. And so, one of the things that 
+we, it's never too late to grow up when the financial prices was going on in 
+2008 and 2009, I was finding all these bargains and I was just interested. I set 
+a threshold that I want at least a 5X, if I'm going to make an investment, it has 
+to be a 5X. I wasn't concerned whether they were great businesses or not. All 
+I wanted was the pie is discounted enough that I can get a 5 bagger, that did 
+happen in the sense that the investments I made eventually most of them 
+became 5X or more. This time around I said, I'm not interested in discounted 
+pies. I'm interested in growing pies. Okay. Mohnish has grown up a little bit 11 
+years. Okay. I said, number one, I want growing pies. I don't want cheap 
+discounted pies that are not going to grow. Number two, 5X is for losers. 
+  
+Page 18 of 28 
+Okay. I'm going for 10X. I said, I want growing pies and I want that pie to be a 
+10X in five years. Once you set that benchmark; life becomes simple because 
+most things don't make that cut. Then you can plan accordingly. In 2019, I 
+made three investments, even in the age of Corona, I'm happy with two of 
+them. The third one, I think we'll still do okay on, even with Corona and all 
+that. In 2020, I made one investment, I'm happy with, nice straight 10X in five 
+years, nice moat. The thing is, investment s fall to me and this is my learning 
+in 11 years, Mohnish has finally figured out that investments fall into three 
+categories. One discounted pies. I'm ta lking about value investments, right? 
+We're not talking about, these moon-shot things trading at a hundred times 
+earnings. But one thing is, the pie is heavily discounted. It's not going to grow 
+much or may not grow at all, but you're getting a discounted pie. The second 
+is obviously great businesses growin g pies, but the whole planet knows 
+they're glowing. Google, Amazon, Microsoft, Salesforce, et cetera. The 
+problem with the growing pies, which Francis and I, I'm Mohnish Pabrai and 
+I'm an alcoholic. I'll say for Francis, I'm Francis Chou and I'm an alcoholic. The 
+problem Francis and I have is we are so cheap that we can never invest in 
+those businesses. We know that those businesses are good and we know 10 
+years from now, we look at them, we'll say you dummy, of course it was a 
+great business. Why didn't you buy it? Well, we cannot buy those. We cannot 
+buy. I mean, the day I see Microsoft in Francis' portfolio, I'll jump out of my 
+chair. I'm not going to see Salesforce in his portfolio. I'm not going to see 
+Microsoft in his portfolio and I'm definitely not going to see Amazon in his 
+portfolio. You can just take that to the bank in happening even though they're 
+phenomenal businesses. There's a third category. The third category is where 
+we can actually make some A and those are the hidden moats. We cannot go 
+after the obvious moats because the whole planet knows about them. The 
+cats out of the bag, we're host. It's the hidden moats where the action is and 
+11 years ago, I didn't understand this. I just focused on discounted pies. Now 
+I said, I don't want any discounted pies. I've had enough pie to last me a 
+lifetime, which is discounted pies. I want growing pies and I want deep moats, 
+but I want those moats where no human can understand that there's a moat 
+or very few humans can understand it, and so we can go play there. Maybe 
+sometime if we do another session, if professor Sandoe has us back, we'll go 
+deep into the hidden moats. Francis? 
+Francis Chou: Let me, if I put into numbers, what Mohnish is saying between we investing 
+in companies that have no growth versus the company that have growth. You 
+can just take a simple number, a company growing at, let's say 15% a year, 
+that 15% a year, that company is doubling every five years, so in 10 years, it 
+has gone up four times. Think about it like this. You buy a company, let's say 
+worth hundred in your estimation, you pay 50% of that. You're buying it at 50 
+cents on a dollar and you buy another company that is growing at 15% a year. 
+Even if you pay let's say hundred cents on a dollar, let's say you pay a hundred, 
+but in 10 years, that is worth 400. Bu t if you go into a company that is not 
+growing in 10 years, it is still stuck at 100 dollars. Which is a better buy? 100 
+cents on a dollar? or 50 cents on a dollar that has no growth? This is kind of a 
+thing that we as value investors will always face. We always want something 
+cheap today, but we don't put enough em phasis on what it'll be worth let's 
+say 10 years down the road. We learned from experience just like Buffett had 
+learned from experience that it makes more sense to go with companies that 
+are growing rather than with companies that are not growing even if you get 
+a big bargain. 
+  
+Page 19 of 28 
+Mohnish Pabrai:  Francis, have you bought Salesforce yet? 
+Francis Chou:  No, I bought Apple. 
+Mohnish Pabrai:  You bought Apple? Oh, my God, he paid a double-digit PE. 
+Francis Chou:  Yeah, no, I bought it at 160 bucks. 
+Mohnish Pabrai:  Oh, that's great Francis. Why didn't you call me? 
+Francis Chou:  Last year when it went down. 
+Mohnish Pabrai:  Next time, Francis, call me collect. Okay. 
+Francis Chou:  Okay. 
+Mohnish Pabrai:  Yeah, call me collect. I know that from Toronto, it's an expensive call, so call 
+collect. 
+Francis Chou: Okay. We do have that in the portfolio and the stuff you bought for 
+Stonetrust, you bought Google at 500, I still kept it and went with it. 
+Mohnish Pabrai:  That's right. I left hi m Google. It's good that he kept it. 
+Francis Chou: It was growing rapidly, so, it made sense to do it. Most probably I would've 
+sold it 20 years ago, but as you know, with the experience you learn a little 
+bit. 
+Mohnish Pabrai:  See there's even some hope for Francis and me. We are still learning. 
+Francis Chou: The key part is, you have to reassess how you have done and where you have 
+been successful. A lot of times, your failures are not the mistakes you made 
+by buying the wrong stock, a lot of mistakes are made by not buying the stock 
+that you should have bought, which is much harder to analyze. Second area 
+that I would want students to be careful of is, sometimes, you're going to 
+crappy companies where you can get seduced by financial bargain, let's say 
+a financial deal. For example, Buffett knew airlines were bad when he bought 
+US air, but he got seduced by a big fat dividend that he got. He knew based 
+on his experience that it's a lousy industry, I shouldn't be in it. He just got a 
+little bit two to three points more in dividend and he got seduced by it. In a 
+sense, what I'm trying to say is that look at the company itself, not at the deal 
+that gets you into it. I had my fair share of that by the way. 
+Robert:  Thank you so much. 
+Andrew Sandoe:  Okay. Alex, why don't you go ahead. 
+Alex: Hey, thank you guys for being here, Mr. Chou and Mr. Pabrai. Mr. Pabrai, I 
+have my whole afternoon out so nothing to do. If you want to go into those 
+hidden notes I'll be here as long as you need me to be. I was going to ask you 
+though and I'll ask you about the Kelly formula in terms of how much to 
+allocate your portfolio. I mean, it's tough to like, even if you're a hundred 
+percent sure to bet that much, like how much do you take the Kelly formula 
+into your real-life experience. Do you at all? or is it just kinda an interesting 
+thing to think about, or for both of you guys, and is that something, how do 
+you take that and then practically use it? 
+Mohnish Pabrai:  The Kelly formula is actually the mistake in my book, and if I were to do a 
+second edition, I would basically say that I would take it out completely. The 
+  
+Page 20 of 28 
+Kelly formula does not apply to investing as we do it and the reason is that it 
+works well if you get to place a zillion sequential bet. For example, if the odds 
+of heads was 51% and the odds of tails was 49%, and you got to do this 2000 
+times, then you can come up with a formula for what is the optimal bet sizing 
+based on your bank roll and those odds. But in investing, what happens is we 
+get a one-off opportunity. We'll get one bet where heads is 70%, tails is 30% 
+or heads is 90%, tails is 10%, but we don't get to do that repeatedly. The 
+formula actually doesn't apply to the format that we find ourselves in. I would 
+just ignore Kelly completely. 
+Alex: Thank you. How would you go about al locating, I mean, if you have a bet that 
+you think is a 100%, you're like, oh, I can't wait to invest in this and you have 
+10,000 or 100,000 thousand million. 
+Mohnish Pabrai:  Well, I think an error rate is guaranteed for every one of us. Anything you buy 
+can go to zero. It’s probably not a good idea to be single stock, no matter 
+what your conviction levels are. But I also feel that having 20 stocks is also 
+not bright. It's very hard to understand 20 businesses and 20 different 
+industries well. Very few of us can do that and to find all of them being heavily 
+m i s p r i c e d .  I n  m y  p o r t f o l i o ,  I ' v e  a l w a y s  t a r g e t e d  k i n d  o f  a  1 0 %  u p p e r  l i m i t ,  
+that's in the funds I manage. Personally, I've been willing, like, I had set up 
+UGMA accounts for my daughters when they were very young, we'd put in 
+15,000 a year, my wife and I into those accounts. There was such a long 
+runway on those, some three-year-old, I'm putting 30,000 in, it's a very long 
+runway. Those counts, I was willing to go down to two or three investments, 
+the highest conviction ideas, because even if it didn't work, I mean, there was 
+a lot of leeway to come back and do things, but I wanted to make sure that, 
+and actually it's ended up being signif icant sum of money for them at this 
+point. It's worked out very well. I'd sa y that’s probably not worth looking at 
+more than one 10th allocation, unless you just bouncing off the walls of 
+conviction, can't see a downside, et cetera. Francis? 
+Francis Chou: Known from my experience, th e Kelly formula is extremely dangerous and 
+part of it is something; called self-a ssessment. You may go into a situation 
+and say, on this particular stock I had, that's a 90% confident it'll do well, but 
+that is your assessment. But think about it like this, if that same stock, the 
+same company that you have 90% confident, and I gave it to someone who's 
+also equally confident, let's say someone who knows that equally well, let's 
+say Buffett. He may say on that stock, I only have about 10% confident. There's 
+a reality check between someone who has been in the field for a long time 
+and knows the company, and based on this analysis, the success maybe just 
+10 or 20%, but based on your analysis could be 100% or 90%. You just have to 
+be careful with that, where your level of confidence. When I was younger 
+sometimes, I would go into certain situations and I think I would, 90% 
+confident, I’m so confident I would put so much money into it. But when I 
+look back on it now, that 90% confidence was not justified by my experience 
+and the knowledge of that company and that industry, but at the moment of 
+making it where you feel like so super confident. You have to sometimes be 
+aware of that human element there. Now Munger can say it, Buffett can say 
+it, but they're saying with so much mo re experience and knowledge in that 
+given field, and therefore they can go into three or four stocks, that may not 
+make sense for a lot of us. Your confidence should be equal to how 
+knowledgeable, how solid, and how good you are in that given field. 
+  
+Page 21 of 28 
+Alex:  Thank you very much 
+Andrew Sandoe:  Moe, why don't you go ahead. 
+Moe: Thank you, gentlemen, Mr. Pabrai and Mr. Chou, thank you so much for 
+coming. Great presentation. I have a two-part question. Once upon a time, 
+there existed a company called Enron,  that great organization, by all 
+accounts, looking at the financial statements, the company looked great 
+investment community, everybody was saying it was a great company, one 
+of the seven greatest companies in America, and we all know what 
+happened. Would you have invested in the company first of all, and if not, 
+why? Before they went down-before everybody knew what transpired. The 
+second part of my question was, how long did it take for your portfolios to 
+bounce back after the 2007, 2008 financial debacle? 
+Mohnish Pabrai:  Yeah, regarding Enron, I never invested in the business and I never even 
+seriously looked at it. I think a lot of st uff in energy is outside my circle of 
+competence. I like to understand how a business makes money, and I think 
+that's what, so I'll give you an example of Amazon. One of the things that I've 
+never understood about Amazon, I mean, I think it's a phenomenal business 
+to understand so well is they've got Amazon prime and we all are Amazon 
+prime members. I know for a fact, with  all the gazillion things I order from 
+Amazon, that they lose money on shipping. There's no way they can ship me 
+all the stuff I'm buying for a hundred  bucks a year or whatever they're 
+charging right now. When I look at Amazon's retail operations, in my head I 
+cannot figure out how it makes money, right? I can understand that when 
+they have the marketplace, third-pa rty sellers and they provide all the 
+services or whatever the charging fees, I can understand that part. But when 
+Amazon is selling stuff themselves, they  have warehouses. They're bringing 
+stuff to the warehouses. They're shipping it to me in two days. All this stuff, I 
+mean, I send a FedEx package from, a FedEx letter from Irvine to San 
+Francisco, it's 25 to 30 bucks, this is a little letter that I sent. The way I look at 
+it is that it somehow works for them. It  must work for them because clearly, 
+now Amazon web services, I understand it clearly, right? Google is a different 
+business, so, I can understand those. Apple, I can understand. It doesn't, I'm 
+not in any way implying there's any issues with Amazon's financials or 
+anything like that. But what I am saying is I don't understand it. I don't need 
+to go there. I don't need to understand. There are 30,000 other stocks to look 
+at. 
+Francis Chou: Well, you have a good answer there that you don't need to go into Enron. But 
+one of the big problems with Enron was a lot of their revenues were 
+derivative accounting which is extremely dangerous. You come to a point 
+where revenues were not real, but they were kind of derived, estimated. 
+When you have something that is estimated or derived out to derivatives, you 
+just have to be extremely careful. They were not like real revenues, nor real 
+earnings. You can always play with numbers. GE got into some kind of trouble 
+too, like the last two or three years, they were making deals going into 60 
+years and then trying to get revenues into it because they wanted to show 
+some growth. Be very careful with accounting when you're looking at 
+companies. What was your second question? I missed it. 
+Moe: The second part of the question was how long did it take your portfolio to 
+bounce back after the 2007, 2008 financial tobacco? 
+  
+Page 22 of 28 
+Francis Chou: Normally you should bounce back within two years, roughly. There's a big 
+bounce in 2009, 2010, and it comes back super-fast. In almost every 
+downturn, like I said 1973, 1974, 1981, or 1982, the bounce back is fairly quick. 
+Mohnish Pabrai:  Yeah. I think Moe, in my case, I have a deal by investors where I don't charge 
+management fees, I just get paid one-fourth above 6%, but I have to hit high 
+water marks. We were down 65 to 70% in the financial crisis, a lot more than 
+the indices. For me to earn a fee, first I had to get back to a hundred cents 
+and like say from 35 cents to 100 cents. Then I had to make up the 6% a year 
+from the middle of 2007 when the pr evious high-water mark was. I came 
+back to the 100 cents relatively quickly because I think in the first year, in 
+2009, we were up like 110%, for example, in 2010 also we were up a lot. To 
+Francis' point, yeah, in two or three ye ars, we are back, but it took me from 
+2007 to 2017, before I earned a fee on one of my funds, it took 10 years, but I 
+was able to live very comfortably on fresh air and water for 10 years, as you 
+can see it had no impact on my health. The thing is that the fees are in this 
+business, the leverage is so extreme. I mean, I think in 2007, my fees were like 
+30 million or something and in 2017, they were like more than 50 or 60 million. 
+Life is great. If every 10 years I get 50 million, I can manage, I can make it work. 
+Moah:  Thank you very much. 
+Andrew Sandoe:  All right. I want to be respectful of your time gentlemen. We have three 
+questions that remain, but I want to be respectful. If either of you have to 
+drop off or want to drop off. 
+Mohnish Pabrai:  Actually, Francis and I have no  issues, Francis is here till midnight. No 
+problem. 
+Francis Chou:  Yeah, I'm fine with that. 
+Mohnish Pabrai:  Yeah. He doesn't go to bed. He's bored. He's happy to be here. Whenever you 
+get bored of us, we'll leave. 
+Andrew Sandoe:  I take it away. Any of the three of you can? 
+Interviewer 9:  Can I jump in? Can you hear me? 
+Andrew Sandoe:  Yes. Go ahead. 
+Francis Chou:  I can hear you. 
+Interviewer 9: Thank you. Yeah, first I'd like to thank both Francis and Mohnish for sharing 
+your knowledge and experience. It's an inspiration to me because both of you 
+were like immigrant, but ended up with a very successful investment career. 
+I also particularly like to thank Mohnish for your book, the Dhandho Investor. 
+I read it completely. I think it's a book that's worth repeating. Also it resonates 
+with me that book, because you have some experience that kind of match 
+my experience. You mentioned that you work for Tellabs. I also work for 
+Tellabs and I wish I had met you there, as you said, you better start early. If I 
+started earlier there with you, then you think about it, the compounding 
+knowledge, right. That's great. I thin k this is serendip itous. I think one 
+question I have is about the Kelly formula because it seems to be a repeating 
+thing in that book, but of course, as you guys just mentioned earlier, it 
+seemed that this is the same that is out of date. I think Francis said that 
+probably the reason it is not so good is because the estimate of the 
+confidence for the outcomes, and actually when I was reading the scenarios 
+  
+Page 23 of 28 
+that you wrote, I had similar question too, because I think, how do you 
+estimate? And I'm just wondering, given that we know that's a limitation and 
+is there any way for us to kind of get a more accurate estimate of the 
+probability of the different outcomes, so that's kind my question? 
+Mohnish Pabrai:  Francis? 
+Francis Chou: Oh, you have a difficult one, as mentioned valuation is as sometimes, just go 
+range. You can say it's worth somewh ere between 80 to 120 and you say, 
+okay, on average, it's hundred, so it's not a precise number and you want lot 
+of safety. 
+Mohnish Pabrai:  Francis, he's asking for the probability, like, let's say stocks at 50, what's the 
+probability it's worth a hundred? 
+Interviewer 9: Yeah. Upside or downside, th e probability upside or  multiple outcomes, 
+something like that. 
+Francis Chou: Oh, okay. Basically, the old-fashioned ways, if we just took retain earnings 
+and how much it's growing, something like that? 
+Interviewer 9:  Retain earnings  and how much it's growing. 
+Francis Chou: Whatever they make, it's retaining to the business, right? Indirectly you get 
+an idea of the growth rate. Let's say if the ROE is 20% and the company has 
+done as well as it has done in the past, most probably it'll be growing at 20% 
+a year, as long as they can deploy that 20% earnings into the same kind of 
+growth as they have in their original business, this a rough way of doing it. 
+The other way is much harder. You can say, I'm going into technology, I'm 
+going to something new, like internet and it's exploding at 30% a year, but 
+that is far harder to do, like I missed out on a lot of great buys last 10 years. I 
+never expected, for example, let's say Google to grow at like 25% a year in 
+spite of being, 10 years ago was still a big company. Same thing like Amazon 
+has been growing at a fast rate in terms of revenues, not in terms of profits. 
+The same thing with Netflix and few other companies, 30% a year means 
+revenues are doubling every two and a half  years and in 10 years means, it's 
+gone up like seven, eight times. It's hard to imagine something that could 
+grow that rapidly for a long time. Yo u can think about it like for a small 
+company, but not for some giants. At some point, that numbers will come 
+into play, like there will be diminishing returns. 
+Mohnish Pabrai:  I would say that it depends on the nature of the business. For example, let's 
+say I'm looking at a funeral services operator. I don't know who will die in 
+Cedar Rapids, Iowa next year, but I know how many will die in Cedar Rapids, 
+Iowa next year. A business like the funeral services business, the number of 
+people dying in a given year is somewhat predictable. If I look at a casino in 
+Vegas, for example, let's say the Wynn Las Vegas or the Wynn Boston, for 
+example, Encore Boston, right? What are their revenues in 2021? Well, the 
+certainty on that is much different than the certainty on the funeral services 
+business or Carnival's business in the future. Each business has a different 
+certainty of likelihood of those revenues and profits coming in and it varies a 
+lot. The other thing to keep in mind is , capitalism is very brutal. Everyone's 
+out to take everyone out, dog eat dog. It's a very competitive landscape, 
+creative disruption. It's what makes our economy work. The only defence we 
+have against all of these factors is to have a number of bets. We cannot have, 
+like Francis said, a high degree of conviction on our own, even, I mean, I could 
+  
+Page 24 of 28 
+have never, no one could have said th at Vegas would go to zero customers 
+for several weeks in a row. Who would' ve ever imagined that, right? Who 
+would've ever imagined that, like the other day, there's an airplane that flew 
+with one passenger. I mean, the things we are seeing happening in the world 
+would not have shown up in any projection you would've made. The only 
+defence you have against that because, my friend, Guy Spier, I was talking to 
+him earlier today, he says, he's come to the conclusion that 100-year events 
+happen every 10 years and 50-year events happen every seven years. His 
+perspective is, there's no such thing as a 100-year events happening every 
+100 years. He thought, once he wrote out the financial crisis, 2008 or 2009, 
+he could safely go to his grave and he'd never see another blimp again. Now, 
+he's resigned to the fact that every 5 or 10 years, he's going to see some earth 
+shovelling event come thro ugh, which you can't imag ine. I think the best 
+thing that we can do is make sure we make investments where knowingly we 
+know the odds of us making money are high and the odds of us losing money 
+are really, low. That's even more important than the making money part and 
+making a few diversified bets. Don't buy three REITs and say you're 
+diversified, don't buy three casinos and say you're diversified, right? Make a 
+few diversified bets within your circle of competence, hopefully, 8 or 10 bets, 
+don't sweat is it 90% or 80% or 70% because we don't know. We just aren't 
+that good as humans to see the future. 
+Interviewer 9: That's great. Another quick question, what will be your maximum bets like 
+the optimal number of bets you would like to make? 
+Mohnish Pabrai:  I don't put more than 10% of the fund into anything. 
+Interviewer 9:  I mean, how many bets, how many, like? 
+Mohnish Pabrai:  Ideally, it will be 10 bets. 
+Interviewer 9:  Okay. Got it. Like 10 times 10, 100%, that's great. 
+Mohnish Pabrai:  What about you Francis? 
+Francis Chou: I'm between 10 and 15, and some times they're going to make mistakes in 
+those 10 and 15 stocks, but sometimes you can get whacked from left field. I 
+know recently we were in airlines, and you can see what happened to airlines, 
+and most probably the intrinsic value of what has happened recently, most 
+probably you can take 20 to 30% off its intrinsic value. If I thought it was worth 
+hundred on some of these airlines, right now, I think it's between 70 and 80. 
+It has not destroyed that industry but has impacted the intrinsic value. Those 
+are the things you must take into consideration. It can come from left field. 
+Mohnish Pabrai:  The government doesn't care about the situation with the equity holder of 
+airlines. They just care about airlines flying. The airlines are going to be 
+around, but what happens to the equity investor is a different question. 
+Francis Chou: You can see the same thing happening with small banks, zero interest rates, 
+and they cannot make any money on it. They don't have any other avenue. 
+Small banks and rural studies are suffering. The measures that the 
+government has taken are, there are a lot of pain there, a lot of people don't 
+see it, and as business people and investors taken a big hit, especially those 
+who have borrowed money and have been on margin. 
+Interviewer 9:  Yeah. Thank you. Both are perfect answers. Thank you so much. 
+  
+Page 25 of 28 
+Shimone: Hi, my name is Shimone. Thank yo u so much both of you for joining us and 
+thank you so much for sharing your knowledge with us. I appreciate it, and 
+appreciate reading your book as well,  the Dhandho Invest or. I know that 
+Warren Buffett invests in businesses where he can go and see how the 
+business is doing. Aside from the trusted business partners that you are, how 
+important is it for each of you to see what you're investing in, to go and see 
+how the business is doing? Go touch, feel, et cetera. 
+Mohnish Pabrai:  I'll go first Francis, I used  to have a perspective probably coming from 
+Benjamin Graham that if you went an d met the CEOs of the business, et 
+cetera, the number one skill they all have in common is they're great sales 
+guys. That's how they got that job. Your judgment would get swayed quite a 
+bit negatively if you met those super salesmen. But on the other hand, if you 
+read Philip Fisher's book, Common Stocks and Uncommon Profits, which is a 
+terrific read, the scuttlebutt is good, which is, to poke around in different 
+areas of the business to try to understand if that's good. I am probably guilty 
+of doing very little scuttlebutt or things in terms of kicking the tires for most 
+of my career than an investor, I used to just be an armchair investor if you will. 
+When I started investing internationally, I had to eliminate fraud risk. I had to 
+get an airplane and go kick the tires and so on. That, I found to be very 
+invigorating. It was good. I think my perspective was flawed. I think that the 
+more you can do Philip Fisher type scuttlebutt, the better you can understand 
+the business and you can get like, Philip Fisher is like doing a 360 talk to ex-
+employees, talk to customer s, talk to vendors, just get a full view of what's 
+going on in the business, that's going to help you a lot. Francis? 
+Francis Chou: Mohnish, what you're saying makes a lot of sense. Like I don't mind meeting 
+the CEOs, but what I try to do is to know the company first. I would go 
+through, let's say last 10 years of th eir numbers, look at capital allocation 
+decisions, how it has gone and how they have made money and where 
+they're allocating all those retain earnings. After I have a good idea and I have 
+made some kind of sense to myself, how good the company is, how good the 
+management is, then I'm quite willing to  meet them. But sometimes, I just 
+take it literally. Mohnish told me when I was buying Stonetrust, listen to me, 
+when you buy a company, you need to know the man. I have Mohnish Pabrai, 
+right. You don't need to do any due diligence. I took his word for it. I didn't 
+even do any, I didn't even see the company until, like I didn't go to Baton 
+Rouge until four months after I bought the company. 
+Interviewee:  It looks like it worked out well. 
+Francis Chou:  Yeah, it worked out well, in this case, yes. 
+Rayne: Thank you very much for both of you for staying late with us tonight. I know 
+your time is valuable, so, I'll keep my answer short. From your practice 
+experience, even though you alre ady find a company within your 
+competence circle and when you do th e evaluation for the company, what 
+are the signals that can trigger you to sense the dangers, the risks or make 
+you to be more cautious besides the legal issues, besides the tons of data, 
+besides the longer in the account receivable that you cannot collect? 
+Mohnish Pabrai:  That's a great question Rayne. I think one of the best pieces of advice I got 
+from Charlie Munger is, he told me that it's very important to have somebody 
+to talk to about your investments. He told me, I've always had somebody to 
+talk to about my investments. I said, “oh, you mean like Warren Buffett?” He 
+  
+Page 26 of 28 
+said, “well, it wasn't always Buffett, but it's very important to have somebody 
+you can bounce things off”. Because the thing is that, when we look at a 
+business, we are buyers based on all our past learning and experience. We 
+may not see something that is obvious to someone else. If you can get 
+different perspectives on the business from different people, it's going to 
+help you understand the business better. Many times, we are not going to be 
+able to get to the promised land just by looking at the data. I think the thing 
+is that what Munger calls, the Latticework of Mental Models. The number of 
+things that affect the future of a business is so many things, it could be the 
+CEO, could be the team, could be the environment, could be competitive 
+sources. There's a zillion things going on that affect the future of a business. 
+The better you can get at understanding that, the better you're going to be 
+as an investor. I think bouncing things off others can be powerful. Buffett and 
+Munger complained, they said it many times that the two of them think so 
+similarly that they are very concerned that  if it gets passed one filter, it'll go 
+through the second filter too. To the extent that you can have someone who 
+is a person you can trust and has different life experiences than you and looks 
+at things differently, that's a very big advantage. Francis? 
+Francis Chou: Yeah. Mohnish, you have a good point. When I was working in Fairfax and so 
+we would come up, let's say we like this stock, blah, blah, blah, and all that 
+stuff. We would appoint someone senior among ourselves to look at all the 
+negatives and tell us what's wrong with the investments. We didn't take a 
+junior guy because the junior guy, sometimes in organization will always 
+differ to someone that is senior and th at may not want to make a noise, but 
+we would always get someone senior to go and check if there's any fallacy, 
+the way we are thinking and the way we're executing it or something that we 
+missed. But the Charlie Munger and Bu ffett relationship is also special 
+because Munger is not afraid to tell Buffett that you are an idiot. That worked 
+well too. You need someone like Munger, who is frank, open and just tell 
+Buffett that you're making a mistake. Lot of people in the position of Munger 
+most probably will differ to what Buffett is doing. Like in my case, when run 
+my mutual funds, you need sometimes like checks and balances because I 
+run it by myself. In my case, I just punished myself, like last in 2019, I did badly 
+for my bond fund. I gave back 1.5 billion in fees as I rebated four years of fees 
+as a punishment, that sharpens you up quick. 
+Mohnish Pabrai:  But generally speaking, that  relationship shouldn't be a master slave 
+relationship, it should be a peer relati onship. I think in investment shop, it 
+shouldn't be someone reporting to you like, I've had a lot of great 
+conversations with Guy Spier. I've had several great conversations with other 
+people who don't work for me, but that gives them the freedom to be very 
+objective. 
+Rayne:  That's a great advice. Thank you so much. 
+Interviewer 10:  Gentlemen thank you very m uch for spending the time you have with us. 
+These have been wonderful insights. I'm not going to ask about anything 
+you're buying now, but I am curious about what your view of the world is at 
+this point in terms of where earnings could go, the macro picture in general, 
+which I know is different than how you allocate investments, but that would 
+be very helpful just to get your view of  what's going on and how unique it is 
+and what your expectations are. 
+  
+Page 27 of 28 
+Francis Chou: Okay. I can go first., my view is a little bit philosophical, a little bit, political. 
+We live like in a free enterprise country, right? It's extremely resilient and it's 
+a type of a system where most likely you can have events like the great 
+depression, the great recession of 2008. You can have second world war, the 
+first world war. In time every generation or every 10 years, things will be 
+better than what it has been in the past. So, if you ask me, I will say, even 5 
+years from now or 10 years from now,  we'll have, a higher GDP, a high 
+standard of living and the stock market should be much higher just because 
+of the type of systems we have and the type of government we have here. 
+Mohnish Pabrai:  What I would say is that man is a very clever animal. Even as we observe, like 
+look at the US, you can say fumbled, stumbled response to COVID. This is a 
+super athlete. The super athlete got on its knees and he's standing up very 
+quickly. As I see things, like the othe r day I was listening to I think a PBS 
+podcast where they had the CEO of Vintech making the ventilators and 
+Vintech makes 150 ventilators a month. Obviously, you got all kinds of calls 
+and they said, we can max it to a thousand a month with all our infrastructure. 
+It's a max we can do. GM got paid up with them and about four days later, the 
+guy is saying we will produce 20,000 a month. They went from 150 to 20,000 
+because the guy said that GM is not an auto parts company, it's this incredible 
+global supply chain manager, GM through 800 of its people, it's supply chain 
+engine onto Vintech went after the entire supply base, which makes auto 
+parts. Those guys are taking pistons that went into cars and miniaturizing 
+them and making pistons that go into ventilators. I think the human response 
+is a superhuman response, and we are seeing that response on vaccines, we 
+are seeing that response on antivirals, on every single facet of what's going 
+on. I would be very surprised if we are not in a very different situation in 
+maybe four to eight weeks. I think it'd be a very different ball game. Almost 
+every day we are hearing what breakthroughs, breakthroughs and testing, 
+breakthroughs in different aspects. It would surprise me if eight weeks from 
+now, this athlete is not sprinting. The second thing is that it's a very intense 
+shock to the system, businesses by th en very nature are extremely fragile. 
+Most businesses cannot survive if you take away their revenue for two or 
+three months. That's, I mean a lot of small businesses, small restaurants out 
+of business, a lot of small businesses with all the help the government is 
+giving will not make it. A lot of large businesses will have equities impaired 
+in, like airlines, for example, I think they'll make it, but what those equity 
+returns end up being is a different question. But I would say this and I would 
+say that when you fast forward a few years, we would not even be able to 
+look back and say, oh, we can see th e scars of what happened. We cannot 
+see the scars of what happened in the financial crisis very easily today. Those 
+are the deep scars, and we learned a lot of lessons. In fact, the banks are in 
+such good shape because of all the lessons we learned then.  I wouldn't ever 
+count America out. I wouldn't count the World out. I wouldn't count humans 
+out. I think we will prevail. I think we will not be having sessions like this too 
+far into the future. Thank you. 
+Andrew Sandoe:  This is great. Thank you for being willing to stick around and answer 
+questions, enthusiastically respond, and also responding from your training, 
+but also responding from your personality and your philosophy. I think this is 
+exceeded expectations. 
+Mohnish Pabrai:  All right, great. It was a fun afternoon. 
+  
+Page 28 of 28 
+Francis Chou:  Thank you, Professor. 
+Andrew Sandoe:  Okay. Thank you so much and take care. 
+ 
+  
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not inte nded to be, 
+financial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not be suitable for y ou, do not take 
+into account your particular investment ob jectives, financial situation or needs and are not intended to provide investment adv ice or 
+recommendations appropriate for you. Before making any investment or trade, consider whether it is suitable for you and consider seeking 
+advice from your own financial or investment adviser. 
+ 
+ 

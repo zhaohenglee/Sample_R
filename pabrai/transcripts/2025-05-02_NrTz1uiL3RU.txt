@@ -1,0 +1,1198 @@
+  
+Pg. 1 of 27 
+Mohnish Pabrai’s Sessions at the University of Nebraska 
+Omaha on May 2, 2025, and Heilbrunn Center for Graham and 
+Dodd Investing on March 25, 2025 
+ 
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not intended 
+to be financial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not be suitable for you, 
+do not take into account your particular investment objectives, financial situation, or needs, and are not intended to provide 
+investment advice or recommendations appropriate for you. Before making any investment or trade, consider whether it is suitable 
+for you and consider seeking advice from your own financial or investment adviser. 
+ 
+Jane Liu: Good morning, everyone, and welcome to the University of Nebraska Omaha 
+College of Business. I am Jane Liu from the Economics Department. We are 
+honored to host Mohnish Pabrai, an internationally respected investor and 
+thought leader. Please join me in welcoming our Dean of the College of 
+Business, Dr. Steve Shultz. 
+Dr. Shultz: Thank you, Dr. Liu. I want to thank everybody who is here today.  
+Jane Liu: Thank you, Dean Shultz. It is now my privilege to introduce our key speaker, 
+Mohnish Pabrai. Many of you know him as a renowned value investor and the 
+founder of Pabrai Investment Funds. Please join me in welcoming Mohnish 
+Pabrai. 
+Mohnish: Thank you. It is a pleasure to be here, and thank you to the university for hosting 
+us. I am always very happy to be on the campus. It is a wonderful business 
+school and campus. This time, we had set up a live stream, and they ran out of 
+our licenses for the live stream. Then they were gracious enough to increase 
+those. We have about a thousand people joining us online, which is wonderful. 
+The best way for me to learn is to teach. I have an ulterior motive for doing this, 
+which is that I am just trying to teach myself, so you guys are along for the ride, 
+which is just fine. The talk I am giving today is new.  
+You only need to get rich once, you do not need to get rich multiple times. I just 
+wanted to remind myself of that. I will go through a few slides, and then I am 
+more interested in what you guys want to talk about, whether it is part of what 
+I talked about or something else.  
+Some of you might know that in the late 1960s and early 70s, there was the 
+concept of the Nifty 50, which is different from the Nifty 50 that exists in India 
+right now. The idea was that you bought 50 of these blue chip stocks in equal 
+denominations, 2% each. You did not care about valuations or anything. You 
+just bought these dominant businesses and then set them and forget them. It 
+was supposed to do extremely well. It took off. Nifty 50 became extremely 
+popular. Then we had the big downturn in 1973 and 74, which was a big crash 
+in slow motion. Over two years, markets were down more than 50%. The Nifty 
+50 got taken out back and shot. By the time we got around to 1975, nobody was 
+  
+Pg. 2 of 27 
+invested in the Nifty 50. That was kind of over. There is some controversy, 
+whether Walmart was part of the Nifty 50 or not. Walmart went public in 1970. 
+To make my talk more interesting, I am going to assume that Walmart was part 
+of the Nifty 50. If you think about Walmart being part of the Nifty 50 and being 
+2% of the Nifty 50, then if you had invested a hundred dollars, $2 would have 
+been invested in Walmart. The Nifty 50 had many stocks that went to zero, like 
+Xerox, Polaroid, Kodak, a whole bunch of companies that were high flyers that 
+eventually went nowhere. But if we make an extreme assumption, 49 of the 50 
+stocks went to zero. Let us say everything except Walmart disappears to 
+nothing, even though there were companies like Coca-Cola, American Express, 
+ADP, a lot of very strong businesses that are with us even today. But if we just 
+assume everything is gone, the 2% left in the Nifty 50 blew out the S&P 500 
+over the last 55 years. The S&P did very well; it is around a 320X since then. It is 
+up to 32,000. But Walmart alone at the $2 blows out the S&P, and it is around a 
+64,000 X return effect if you will. There are several lessons here in the sense 
+that we know that there are power laws in investing, and we know that most 
+stock market returns come from a sliver of a few small businesses. It is 
+important to be in those businesses for the long term.  
+If we just switch gears a little bit and we look at Berkshire Hathaway, (which is 
+why we are here this weekend; this is the 60th anniversary of Berkshire), two 
+years back in the annual letter to shareholders, Warren said, “In 58 years of 
+Berkshire management, most of my capital allocation decisions have been no 
+better than, so-so. Our satisfactory results have been the result of about a 
+dozen truly good decisions that would be one every five years.”  
+If we look at Berkshire in terms of the last 60 years, and we try to examine how 
+many important decisions Warren has made in the last six decades, we know 
+they bought more than 80 businesses, and they have invested in 300 or 400 
+stocks. Then, key hires by Buffett would probably be more than 10, but let us 
+say here at least 10 key hires. In reality, he probably had 400 or 500 important 
+decisions that he made over the last six decades. The hit rate for someone like 
+Warren would have been 2 to 4%. In other words, 2 to 4% of the decisions that 
+he made have led to all of our interest in Berkshire. The remaining 96 or 98% did 
+not matter, just like the Nifty 50, where the 98% did not matter. It was just a 2% 
+that moved the needle. I do not know whether these are the 12 decisions he 
+was talking about. I took a stab at it. I know that Ajit Jain is one of the 12. Charlie 
+used to talk about how the best return Berkshire ever got on any investment 
+was the search fee they paid on hiring Ajit Jain. Ajit alone has created north of 
+a hundred billion in value for Berkshire from scratch. See’s Candies, Coke, 
+Apple, National Indemnity, and Mid-American would be in there. It has been 
+just a few decisions that have led to this outcome. It was not the decision to 
+buy them that was important. The important thing about the 12 decisions was 
+that the decision was to hold them. The whole decision was more important 
+than the buy decision. It is the same thing with Walmart. Walmart being part of 
+  
+Pg. 3 of 27 
+the Nifty 50 was not that important. It was not doing anything with it for a long 
+time, which was very critical.  
+My friend Nick Sleep in the UK with his partner in crime, Qais Zakaria, ran the 
+Nomad Fund from 2001 to 2013. They had compounded at 18+ percent a year 
+over that period. They had about $3 billion in management when they decided 
+to return everyone's money and close the funds. They did that because Amazon 
+was a bet they had made earlier, and it had become a large portion of the fund 
+because it had appreciated so much. The UK regulator was giving them a lot of 
+grief about the lack of diversification and the high degree of risk with so much 
+in one position, which, of course, they did not agree with. I am estimating that 
+they probably had a net worth at that time of about 400 million (about 200 
+million each), and they probably looked at each other and just said, “We never 
+expected to be this wealthy. Why do we need to manage anyone else's money? 
+If we have just managed our own money, no one can tell us what to allocate.” 
+They decided to return everyone's capital. Nick wrote to his investors a letter 
+saying, “I am taking my money and I am putting one third into Berkshire, one 
+third into Costco, and one third into Amazon. You can do the same, and you do 
+not need to pay us any fees. At least for 10 years, you do not need to do anything 
+with it. You can just keep it that way.” I got a panicked call from a large 
+university endowment in the US who have received that letter. They said, “Oh, 
+Mohnish, did you see that Nick is shutting down his fund and returning our 
+money? It is terrible.” I said, “Yes, but he told you what to do, and now you can 
+do that without paying any fees to anyone.” He then tells me, “Yes, but we are 
+not allowed to buy stocks directly ourselves.” I said, “Do you want me to set up 
+a fund and buy those three stocks? I can set up a two-and-20 structure, and 
+then everything will be okay.” He said, “Yes, that would work.” That is just the 
+way the world works. 
+Audience: Did you do that? 
+Mohnish: I did not do that. I do not know if I would be able to sleep at night, but it is just 
+the weirdness of the way the world works. But Nick put one-third of his money 
+in these three stocks. Amazon kept going up after that. It became 70 80% of 
+the portfolio, and he was concerned. He decided to cut the Amazon stake in 
+half, and he put that in what I consider a loser company, ASOS. It is a company 
+in the UK that used to be run by a guy who was the former head of Amazon in 
+the UK. ASOS did not go anywhere; it did not do anything. We know that is 
+going to happen because we know the hit rates are so small. If Nick had done 
+nothing at all, his portfolio today would be about 1.7 billion. Even with the ASOS 
+misstep, it is 1.4 billion. If he had just put in the S&P, it would be less than 800 
+million. It worked out extremely well for Nick, even with the adventures with 
+ASOS.  
+The other thing is that Nick pretty much trounced everyone after 2014 while 
+doing no work. He likes to race on racetracks. He has a few cars, and he likes to 
+go bike riding across China. He has a lot of different eclectic activities and 
+  
+Pg. 4 of 27 
+hobbies, and he fully pursued those while the portfolio kept doing its thing and 
+worked out just fine. I do not think he has had any regrets about any of it.  
+Then you look at me. That is why I am giving this talk: to educate myself. In 
+2014, we owned about 14 million shares of Fiat Chrysler. Within that, 14 million 
+shares were 90% of Ferrari. When Fiat Chrysler spun out Ferrari, they gave all 
+the shareholders one share of Ferrari for every 10 shares of Fiat Chrysler. At that 
+time, Pabrai Investment Funds owned around 0.7% of Ferrari; two-thirds of 1%, 
+approximately. In my infinite wisdom, I thought Ferrari was too expensive, 
+overvalued, and they were IPOing it. The whole adventure with Fiat Christ and 
+Ferrari was very profitable for Pabrai Investment Funds. We invested about 70 
+million, and we collected about 260 million. Out of that 260 million, a hundred 
+million came from Ferrari. But if I just kept Ferrari, that alone would be about 
+640 million now, and it is not the only one. There is a long list of these. There’s 
+a shipping company, Frontline, that I had put 10% of the portfolio on. We got a 
+double, and then it went up 350 X. We had a few of these bloopers along the 
+way. I try to understand how to avoid these things. The first thing is that great 
+investment ideas are very rare. If God, also known as Mr. Buffett, finds 12 of 
+them in 60 years, then what hope is there for the rest of us? One of the first 
+things I realized was that it is dumb to sell a business purely because it is 
+overvalued. The reason that is dumb is that we do not know whether a business 
+is overvalued or not. We are trying to figure it out, but we may not understand 
+the business well enough to know whether it is overvalued or not. What I find 
+interesting about Nick Sleep's example is because he was going to go on 
+autopilot to the portfolio, if you think of his portfolio when you are rich and you 
+want to stay rich, and I am sure there was a consideration Nick had, when you 
+look at the three bets he made, which was Amazon, Costco, and Berkshire, I 
+would say that the most resilient of the three in my way of thinking would be 
+Berkshire just because it is so diversified. Warren and Charlie focused on 
+downside protection and all of that. The other two bets are also extremely 
+good. They are very good businesses. We have not seen any decline in any of 
+these three businesses in the last 10 years. I would be surprised if we see 
+declines in these businesses in the next 10 or 20 years. All three bets are 
+extremely good. But Berkshire is especially interesting because it is almost like 
+an index in the sense that it is very diversified; lots of different income streams. 
+One can take a lot of comfort in that situation. The other thing is that when you 
+think about Nick's situation, let us say for example, the one third allocations 
+become 80% Amazon and 10% Berkshire, 10% Costco, which is approximately 
+where he was, at that point, it still should not have mattered to him because 
+the 10% of the pie that is in Berkshire would still be more money than he could 
+use in a lifetime. Once you are rich, the concept of optimizing after you are rich 
+is likely to hurt more than help. Because there was the anchor of Berkshire, one 
+could, in effect, let it ride.  
+I will give you another example which will maybe illustrate this point. We talked 
+about Walmart and the Walton family. Sam Walton had transferred ownership 
+  
+Pg. 5 of 27 
+of Walmart to his kids when Walmart was a very small private company. When 
+he passed away, there was no estate tax because the shares were already 
+owned by the next generation. The Walton family today, 55 years after the IPO 
+and 33 years after Sam Walton's passing, still owns 46% of Walmart. It has not 
+changed that much from the time of the IPO. In 55 years of being a public 
+company, the Waltons would have been approached by a lot of helpers. We 
+have a lot of helpers around, and the helpers would have come up with all kinds 
+of diversification schemes and whatever else for them. They, for whatever 
+reason, decided that they do not need helpers; they are good. They kept it. This 
+approach that the Walton family took is somewhat risky compared to the 
+approach that Nick Sleep took in the sense that Nick had the Berkshire 
+Hathaway anchor. Walmart is a single company. It is a retailer, one of the most 
+competitive in the different industry codes. But they understood some things 
+about Walmart, and they said, “Okay, we can put all eggs in one basket and go 
+for it.” They are the richest family in America now.  
+I mentioned already that you do not sell a business because it is overvalued. In 
+late 99, early 2000, Microsoft's valuation went crazy. It was one of the three 
+most valuable businesses on the planet, 600 billion market cap against single-
+digit billion cash flows. It was incredibly overvalued at that time. I used to think 
+at that time (around 2000) that it was dumb to own Microsoft because it was 
+so overvalued. That was correct because for the next 15 years, the returns were 
+zero. When Microsoft went public, Bill Gates owned 45% of Microsoft. Do you 
+know how much he owns today? It is less than 1%. No one knows Microsoft 
+better than Bill Gates. In many ways, my middle name is Forrest Gump. In 1995, 
+30 years ago, I was running an IT system integrator that I had founded in 
+Chicago, and we were a Microsoft solution provider. Bill Gates was coming into 
+town, and they had invited some of us solution providers to have lunch with 
+Bill. I said, “Okay, where do I sign?” There were about 10 of us, and we had a nice 
+lunch with Bill Gates. I asked him about what he thought the durability of 
+Microsoft was. I asked him where he thought the company might be in 10, 20, 
+and 30 years. He was extremely bearish. He told me that almost all dominant 
+businesses go into decline. The likely end result is that Microsoft will go into 
+decline. When Bill became extremely wealthy, he started a program of 
+automatic selling of Microsoft stock so that no matter whether he knew the 
+information or not, he could continue selling. They kept selling and buying a 
+diversified set of other businesses. Those have done reasonably well, but they 
+have not done as well as Microsoft has done. Then we have Steve Ballmer. 
+When I bring up Steve Ballmer to some of the professional fund managers, they 
+do not have pleasant things to say about him. It is not his fault. He gets an 
+overvalued stock, and then what is he going to do? Microsoft's cash flows went 
+up a lot, but it was facing a big headwind.  
+When Steve first joined Microsoft, he dropped out of Stanford Business School, 
+and Bill Gates convinced him to come on board at Microsoft. The deal he had 
+was a $50,000 base salary and 10% of all incremental profits generated by the 
+  
+Pg. 6 of 27 
+company after that. In a few years, the 10% of profits was a massive number. 
+Bill sat down with Steve and said, “This is not sustainable. We cannot do this. 
+We have to cut a different deal.” The deal they cut was that he would no longer 
+get a percentage of profits, and he would get 8% of Microsoft. That is what 
+happened. He was given 8% of Microsoft. Ballmer, even though he is sitting with 
+Bill, and even though I am sure they had the same discussion about the 
+durability of the Microsoft franchise, he never sells any shares. Microsoft issued 
+a lot of stock for stock options and all that. Ballmer’s stake in Microsoft today is 
+4%; it is more than four times what Bill's is. Now, he is wealthier than Bill. A hired 
+gun is wealthier than the founder. What I find interesting about Ballmer is that 
+he made the best decisions of all these guys. He made better decisions than 
+Nick Sleep. He made better decisions than the Walton family. He made better 
+decisions than Bill Gates. What he did was collect about a billion plus in 
+dividends every year, just coming in. Those have gone into the S&P 500 index. 
+Ballmer now has about 25 billion or something sitting in the S&P, and he has 
+120, 130 billion sitting in Microsoft. Whatever you think happens to Microsoft, 
+even if the S&P is overvalued, tens of billions are still going to be there. It takes 
+away all the concern he might have about going to the poor house or becoming 
+not wealthy again, or any of that. He could let it ride because he has the anchor 
+of the S&P. Then, what happens after that was a total outlay where he brings in 
+Satya, and of course, Satya hits it out of the park. It has been great, but it is 
+interesting to see Microsoft in the context of these different leaders and 
+different owners and how they dealt with their stake.  
+If you look at Coca-Cola, which is a large position for Berkshire, it went through 
+the same situation; it went through 12 years of no returns. If you go back and 
+look at the transcripts of the discussions Warren and Charlie had, especially 
+what Warren was saying about Coke in the late nineties as the PE was rising, he 
+just felt with an impregnable moat; it was the ultimate. A few years later, I was 
+surprised he said that it might have been better to sell because, again, Coke 
+was sitting at such a euphoric valuation that, as the business continued to do 
+well, just like Microsoft, we went through 12 years. But again, going back to the 
+maxim of not selling a business, when it is overvalued in the longer fullness of 
+time, it still works out okay. In the longer fullness of time, Berkshire has still 
+done perfectly fine. Even though they suffered through those 12 years with 
+Coke and such. Those were some of the thoughts I wanted to share with you. I 
+wanted to share because I wanted to hear them myself and try to understand 
+a few things about the way the world works. Thank you so much. We can now 
+move to your questions. 
+Jane Liu: Thank you, Mohnish, for such an insightful and thought-provoking 
+presentation. Next, I will do a 30-minute interview with Mohnish, followed by 
+a 30-minute Q&A session. Mohnish is here for the third time at UNO. We have 
+been starting this since 2022, and over the years we have gotten bigger and 
+have a bigger audience. This year, we have all of you guys here, and also a 
+thousand people online. I guess most of you here are investors. I am sure many 
+  
+Pg. 7 of 27 
+of you follow Mohnish on Twitter. Many of you identify yourself as a value 
+investor. We will start with questions about value investing and investment 
+philosophy. In your book, Mohnish, you emphasized the power of a low-risk, 
+high-return strategy. How has that approach evolved over time, especially in 
+today's fast-moving and tech-saturated markets? 
+Mohnish: That is a good question. Because there are 50,000 stocks or so around the 
+world, there are large numbers of them that are mispriced at any given time. 
+They can be mispriced as being too cheap or too expensive. If we focus on the 
+ones that are mispriced on the right side of the scale, then that is what makes 
+this interesting because we get a free lunch, where we can, once in a while, get 
+a chance to make investments and buy assets well below what they are worth. 
+Usually, we are not able to do this if markets are not auction-driven. We are 
+looking at negotiated transactions and things like that, so you do not have as 
+much of an opportunity. But auction-driven markets tend to overshoot and 
+undershoot a lot, so we can take advantage. 
+Jane Liu: Yes, nice. You have championed the idea of a rigorous investment checklist. 
+What are a few items that remain critical for you today? Can you share how this 
+framework has helped you avoid major mistakes? 
+Mohnish: Yes, the checklist is a very useful tool, and it has helped us in aviation a lot, 
+where air travel has become extremely safe, mainly because of the use of 
+checklists by pilots before they take off and before they land. I had applied the 
+same concept. The aviation checklist came about from examining failures. 
+When a plane crashed, the FAA would always go in and try to figure out why 
+the crash happened. Then the FAA takes a pragmatic view of reality. They have 
+a definition of what a human life is worth. I have not kept up, but it used to be 
+around $10 million a few years back. When they see a plane crash and they see 
+that so many lives were lost, they try to figure out that if nothing is done, how 
+many lives will be lost over the next 5, 10, 20 years. Then they multiply it by that 
+10 million number, and they now know, for example, “Okay, we would have a 
+$4 billion loss in dollar terms if we did nothing.” Then they would look and ask, 
+“If we ask industry to make changes to aircraft design or whatever else, what is 
+the cost of that?” They will only make those changes if the cost is less than 4 
+billion. It is a very pragmatic approach because you do not want air travel to be 
+so expensive that we cannot get on an airplane, and you do not want it to be 
+planes crashing all the time, because that also does not work. They have chosen 
+this middle path, which has worked well. I did the same thing when I developed 
+the pre-investment checklist. I looked at the great minds of investing who had 
+had investments they made that did not work, but the reason why the 
+investment would not work may have been obvious before the investment was 
+made. For example, Berkshire is buying Dexter shoes. The concept that low-
+cost foreign manufacturing may impact the moat should have been visible to 
+Warren and Charlie. It was not that hard to think about that. Then I would add 
+that as a question to the checklist as whether this product was manufactured 
+in another country, could that affect the moat? Could that affect the 
+  
+Pg. 8 of 27 
+profitability? I looked at many investments that had failed by great minds, and 
+then I re-categorized them into different buckets. It was interesting because 
+the number one reason for business failure was leverage. The single greatest 
+reason why investments failed was that the businesses were leveraged. The 
+second reason why the investments did not work was a misunderstanding of 
+the nature of the moat. There were other issues, trade unions and different 
+things, but these were the two big ones; either the moat was not properly 
+understood, or the leverage was what did the company in. 
+Jane Liu: My next question is about staying within the circle. The circle of competence is 
+a core principle in your investing style. How do you define that circle today, and 
+what practices helped you stay within it, especially as new industries and 
+trends emerge? 
+Mohnish: The circle of competence is a wonderful tool that Graham, Buffett, and Munger 
+have emphasized for a long time. There are a few interesting things about the 
+circle of competence. The first is, if you ask the question, if something is within 
+your circle of competence or not, you have already answered it. To ask the 
+question is to answer it. The fact that you are questioning that is that there is 
+something in my circle of competence means it is not in your circle of 
+competence. The second issue with the circle of competence is that we do not 
+pay much of a penalty if we have a very narrow circle of competence. People 
+are always trying to broaden their circle of competence, but quite frankly, you 
+could always have a narrow circle of competence and do extremely well. The 
+most important part of the circle of competence is not the size of the circle; it 
+is staying in the epicenter of the circle. If we look at most entrepreneurs, they 
+have a very narrow circle of competence. They are an inch wide and a mile 
+deep, and if they were not that way, they would not be able to build successful 
+companies. Most entrepreneurs do not know a lot about many things, but they 
+can do extremely well because they know a lot about what they are focused 
+on, and that works out well. Staying within the circle, being in the center, it is a 
+natural process in investing that over a lifetime, the circle will expand. If you are 
+reading, thinking, and experiencing different things over time, you will 
+understand more things about how the world works, and so the circle will 
+expand. We do not need to have some deliberate endeavor to expand the 
+circle. It will expand naturally. We also need to be very clear on saying “no” very 
+quickly when something is outside a circle. It is a big exercise in humility. 
+Buffett has this too-hard pile box on his desk. It is a physical box that says “too 
+hard.” He says that 99% of stuff should go into it. Most things that we encounter 
+from my investing perspective should go into the too-hard pile. They should be 
+outside the circle of competence, and we should not be trying to figure 
+everything out. 
+Jane Liu: Great. Our next set of questions is about global markets and the 
+macroeconomic forces. You have invested in countries like India and South 
+Korea. What makes emerging markets attractive to you, and what unique 
+challenges or risks do you watch out for now? 
+  
+Pg. 9 of 27 
+Mohnish: We made several investments in South Korea. None of them worked. 
+Thankfully, in most cases, we got most of our money back. We had a similar 
+situation in India; most of the things I did in India did not work. A few things 
+worked, but most did not. It goes back to the same issue of the 4% hit rate 
+Warren Buffett has, or the Nifty 50. In investing, we are doing well if our error 
+rate is 50%. John Templeton says, “The best investment analyst is going to be 
+wrong one out of three times.” Most of us are going to be wrong, more than 
+one out of three times, maybe even half the time or more. It is not to say that 
+you cannot do well in South Korea or India. I could not do well there and found 
+other places where we could do well. 
+Jane Liu: The next question is about volatility as a long-term advantage. You said 
+volatility is the friend of a long-term investor. Could you expand on how you 
+have used the volatility as an opportunity, especially during the times of panic 
+or uncertainty, and maybe the past few weeks? 
+Mohnish: If we look at stocks as businesses that have an intrinsic value, whatever causes 
+that value to go down is an advantage for us long term if it is within the circle 
+of competence. Volatility is always our friend. The reason why we are all 
+interested in auction-driven markets is that they will undershoot and 
+overshoot. Some news comes out, and Coke will go down in price. Did their 
+long-term cash flows go down from some particular news? When you try to 
+overlay news events that are moving markets, and then you overlay them on a 
+particular business, you may find that the correlation is very weak. When you 
+find those weak correlations, that usually is a sign that there could be an 
+opportunity there, in the sense that something is being mispriced, then. 
+Jane Liu: The next question is about macro and the micros striking a balance. How do 
+you balance macroeconomic forces like inflation, trade wars, and global 
+instability with deep company-level research? Have recent global events 
+changed your weight of macro in your decision-making? 
+Mohnish: For most investments that we would make, the micro would trump the macro. 
+For most companies, the internal decisions that they are making and their 
+competitors are making are going to drive most of the outcome. Usually, it is 
+hard enough to try to figure out what a business is going to look like five or 10 
+years from now just by looking at those factors; the internal and market forces 
+around that business. If we start to try to overlay macro things on top of that, 
+we are going to get lost for the most part, because I do not think it becomes 
+very hard to handicap. We want to try to look at things where the thesis is very 
+simple and well understood from an internal perspective.  
+If you look at a company like Saudi Aramco, it is now publicly traded. The 
+market cap used to be 3 trillion when Saudi Aramco produced oil. Their cost 
+used to be around $2 a barrel to bring the oil up. Now, it might be around 10 
+bucks a barrel. It is an insanely profitable company in almost any environment. 
+Does it matter if you are a Saudi Aramco investor now? Investing in Saudi 
+  
+Pg. 10 of 27 
+Aramco has issues because the state takes a lot of the upside, but if it was just 
+a normal business where you have a $10 an hour and a barrel cost of bringing 
+oil up, how does it matter whether the oil price is 30, 50, 70, a 100, 150 or 300 
+in all those price environments? You would make money. The only question us 
+you would whether you would make a lot of money or a little money? But you 
+would make money. If you were buying Saudi Aramco stock, where the thesis 
+would work for you in terms of returns and cash flows, if the oil price was more 
+than 30, for example, you could ignore the macro. You could ignore everything 
+because it is unlikely that oil would go below 30. 80% of production would be 
+shut down globally if that happened. We are unlikely to get there. We want to 
+look at bets like that where we can focus on the micro situation within the 
+company.  
+If I look at a business like Ferrari, for example, they have a car that they sell for 
+2 million. Ferrari will announce a car for 2 or $3 million, and they have a list of 
+owners of Ferraris around the world ordered by the number of Ferraris they 
+own. Some have 50, some have 30, etc. They go down the list from their most 
+preferred customer to the least preferred. They will just make calls to the top 
+500 customers saying, “We are coming out with this car in 18 months. It is 3 
+million. Do you want it?” The first 500 calls they make, they will all say “yes,” 
+because they all know that one day, after they get the car, they could flip it for 
+6 million. But they also know that if they flip it for 6 million, Ferrari will not call 
+them the next time. Those cars are gone before they are produced. Ferrari's 
+cost on that two or $3 million car is around 85% margins, maybe 90% margins. 
+How do tariffs affect Ferrari? It is not relevant to the whole scheme of things 
+because, mostly, Ferrari buyers are rich men, and they have very few ways to 
+express their wealth. That is all you need to understand. You understand Saudi 
+Aramco, you understand Ferrari, who cares about the tariffs? 
+Jane Liu: Moving to the next part is a wisdom from Buffett, Munger, and the cloning 
+mindset. You have often credited Warren Buffett and Charlie Munger as guiding 
+lights. What are some of the most enduring lessons you have applied from them 
+in your own investing journey?  
+Mohnish: Like I said, my middle name is Forrest Gump, and we are not supposed to be 
+able to touch these guys. They both became friends because I am Forrest 
+Gump. I got to see them up close. I got to see Charlie more up close than 
+Warren. But it was not necessary to see them up close. The body of work they 
+have produced is so awesome. The best things about both of them have 
+nothing to do with investing; they have to do with leading a great life. I used to 
+meet Charlie four or five times a year for dinner at his place. Whenever I would 
+meet Charlie for dinner, he was always sitting in the same chair, always reading 
+something. I learned a lot from those dinners, not because of what he said. I 
+just observed the way he was interacting with his grandkids, daughter-in-law, 
+sons, his daughters, manservant, or other visitors. I observed how he was living 
+his life; his habits with eating and dessert, and things. Observing him, in a way, 
+taught me a lot. For all of us, both of these guys put so much in the public 
+  
+Pg. 11 of 27 
+domain. We have so much to learn from them from that. If we learn only the 
+investing side, we miss most of it. 
+Jane Liu: I will ask one last question, and then it is your turn. The last one is more 
+personal. When we recently chatted, you mentioned your golf game and how 
+you approach it with the same intensity and presence as investing, doing 
+everything with a hundred percent. How has that mindset influenced the way 
+you make decisions, not just in business, but in life? 
+Mohnish: I am a new golfer. I do not have too many regrets in life, but one of my regrets 
+in life is that I should have started in my thirties. That would have been better. 
+But the way I am programmed is that I usually go all in. If I get excited about 
+something, I go all in. I have always found that if you go all in on something, you 
+are going to get good at it. We should think about what we are passionate 
+about, what we are excited about, and try to overdose on those. I got interested 
+in golf. I found that it is a way more complicated game than I thought. It is way 
+more interesting. My club is nine minutes away. I was reading a quote the other 
+day, “The more you mess with your portfolio, the lower your returns.” I said, 
+“Okay, everything I own, I do not need to do anything with it,” especially when 
+you look at the talk today. We just need one hit, and we are good. The 
+investments are in good shape. I still spend time looking at things, but I do not 
+need to. If we find no new ideas for the next five or 10 years, it is okay. Not a 
+big deal. I said, “Okay, we will go deeper into golf,” and that is what we are 
+doing. It is fun. 
+Jane Liu: Cool. Now we will start our Q&A session. 
+Speaker 1: Thank you, Mohnish and Jane. This was a very inspiring presentation. I want to 
+roll back a little bit, and have Mohnish elaborate a little bit on how we find all 
+those critical decisions like the good business or the long lasting mediocre 
+business because I remember in your YouTube channel, you mentioned once 
+that when Warren Buffett was young, he used to pick up old betting tickets at 
+the racetrack and check if any were winners that people throw away by 
+mistake. It seems that Warren Buffett already had this kind of talent when he 
+was young, but for other investors, how do we find our opportunities? I also 
+want to know, in this AI era, do you have other ways to find your options? Thank 
+you. 
+Mohnish: That is a great question. It is a question that Warren was asked at an annual 
+meeting, and his answer was to start with the “As.” What he was saying is that 
+there is no shortcut. When he was collecting those racetrack tickets from the 
+ground, maybe only one in 200 tickets was useful. 199 are loser tickets. But he 
+did not mind going through 200 tickets to find one. Later, when he was going 
+through the Moody's Manuals, he did the same thing. Moody's Manual is very 
+fine print; the font size might be six or something, and it is 1500 pages. There 
+are six or seven of them. He went through all those manuals several times, and 
+again, he was doing the same thing as he was doing on the racetrack. He was 
+  
+Pg. 12 of 27 
+going through them one by one. One direct example I can give you is that a few 
+years back, Buffett made the Japan bets; the five conglomerates of Japan that 
+he bought. He has been a reader of the Japan Company Handbook  for many 
+years. Japan Company Handbook , probably more than 10, 15 years old, is like 
+Value Line for Japan. It is in English and has two companies per page. It is very 
+similar to the Moody’s Manual. I remember that I was visiting his office in 2012, 
+and I saw the Japan Company Handbook on his desk. I was going through the 
+handbook at the same time. I said, “Warren, there are some companies I already 
+know are good in there that you can take a look at.” Without waiting for him to 
+answer, I took his book and dog-eared some pages. I went ahead and took the 
+liberty of dog-earing Warren Buffett's copy of the handbook. I told him a lot of 
+the stuff is at the back of the book. He said, “Yes, all the good stuff is usually at 
+the back.” I had then found that you could do the same thing as flipping through 
+the Japan Company Handbook, one page at a time, with Capital IQ. Capital IQ 
+is a subscription for around $10,000. The handbook is 50 or 100 bucks. But with 
+Capital IQ , you could set up any screen, and in two minutes, you get a 
+condensed version. I tried to convince him, and I worked with Tracy Britt to 
+switch from the handbook to Capital IQ. =Tracy told me, “He will never spend 
+the 10,000. He will never do it this way.” I said, “But Tracy, I want you to know 
+it so you can do it for him.” I trained Tracy on how to use Capital IQ to do that. 
+After training, she said, “I know how to do this. He is not going to be interested.” 
+At the end of the day, what ended up happening is Warren stuck to his old 
+method, no AI, no nothing, no technology, flipping one page at a time. He found 
+those five bets. I did not find them. It took him more than 10 years to find those 
+bets. But in investing, we have infinite time. Those five Japanese bets are pure 
+genius because of the way he did those bets. First of all, he found these 
+companies that have an 8% dividend yield. At the time he finds them, he 
+borrows the whole thing in yen at half a percent. He never puts up any of 
+Berkshire's capital, even though they are drowning in cash; a seven-and-a-half 
+percent instant yield delta of no money that he has put up. Then all those stocks 
+double, the dividends doubled. Now he has around 16%, coming on the half 
+percent, and then they have gone beyond that. He was forced to do five 
+because of the size of Berkshire. If it were smaller, he would have picked one 
+and gone for that one. I learned a lot of lessons from that. First, I learned that 
+“less is more.” The second lesson I learned is “fast is slow.”  
+I have a friend from China who is the founder of Oppo and Vivo. His name is 
+Duan Yongping. All the Chinese people here know him. He plays more golf than 
+me. Oppo and Vivo are both private companies. He lives in San Francisco. Every 
+year, he goes to meet his management team running these dominant 
+businesses in China. He tells me that there is a big conference table with all his 
+managers. He says, “I am there for 10 minutes and then I am done for a year. I 
+will meet them after a year for 10 minutes. The last time I met them, I only said 
+three words, and I walked out.” I said, “What were the three words you told 
+them?” He said, I gave them these three words, and then a year later they 
+tripled the profits.” I said, “What were the three words, Ping?” He said, “Fast is 
+  
+Pg. 13 of 27 
+slow.” If you want to email Ping, his email ID is fast is slow@yahoo.com. Do not 
+inundate his inbox. Has anyone seen the movie Being There? It is before your 
+time. Go back and see the movie called Being There with Peter Sellers, and then 
+you will understand where this is going. Ping said, “After I left the room, they 
+spent two months trying to figure out what those three words meant. They 
+finally figured it out, and they killed the competition.” Fast is slow. Warren did 
+the same thing. 
+Speaker 2: Thank you for inviting us here today. I wanted to ask a question in terms of your 
+thoughts. Last year, when we were at the meeting, it had just been announced 
+that Warren had reduced his Apple position. At that time, if I am not mistaken, 
+it was about a 10% reduction in his total stake in holdings. At the beginning of 
+the shareholder meeting, he implied some tax-favored consequences as to the 
+reason why he was doing that. The stake had grown to 186 to $190 billion. He 
+has reduced his stake by two-thirds. I wanted to get your thoughts as to what 
+you think and what the reasons may be. How do you view that reduction in that 
+position, considering how publicly he has adored and admired Apple as a core 
+holding in his portfolio? 
+Mohnish: Well, that is why he is Warren Buffett. Look how awesome that decision looks 
+now. Berkshire is sitting on a huge pile of cash, where a lot of things have been 
+brought down in price. The Apple situation is interesting because he is in effect 
+destroying one of his best-loved ideas, which he wants to hold forever. At the 
+same time, he alluded to the fact that tax rates could be higher, but he might 
+have also alluded to the fact that “Is it fully priced or do I want to have more 
+firepower for things that may come up in the future?” I do not know exactly 
+what his thinking was, but I would say so far that thinking seems fantastic.  
+Speaker 3: Thank you, Mohnish Pabrai. I appreciate your time. This has been fantastic. I am 
+a shameless copier of you, more so than Warren Buffett and Charlie Munger in 
+aggregate. The one thing I quote a lot is “Heads I win; tails I do not lose much.” 
+Specifically, I am looking at the economic moats. When I am looking at 
+economic moats, I am looking at the company I am looking at, and then all the 
+competitors, and how they are going to encroach on these moats. But I have 
+been right and occasionally wrong. How do you see economic moats and, more 
+importantly, the durability specifically with the company you are looking at and 
+the competitors who want to encroach? Thank you.  
+Mohnish: That is a good question. It is hard to answer in generality, but I would just say 
+that when I am looking at a business, if I cannot get to very high conviction and 
+I cannot get to the point where I could describe it to a 10-year-old in about four 
+sentences, then I am usually not interested. At the end of the day, the thesis 
+needs to be very simple, and it needs to be a very impregnable one. Even when 
+we have a simple, impregnable thesis, we are still going to have a higher error 
+rate, but it is going to be even higher if we do not have that. I always want any 
+business I invest in, I should be able to, in my head, know very quickly why that 
+investment makes all the sense in the world and why it is going to work. Most 
+  
+Pg. 14 of 27 
+companies do not lend themselves to that type of clarity, but we do not need 
+to invest in most companies. Once in a while, you can find something that is a 
+simple situation and that can work. 
+Speaker 4: Hi, Mr. Pabrai. Thanks for having us here. It is a pleasure being here. This is a 
+question about debt, as everyone knows Berkshire Hathaway has grown 
+throughout the last few decades without debt. Warren Buffett, in one of his 
+letters, said, “Debt creates unnecessary stress for shareholders.” But as we all 
+know, in the early days of the Buffett Partnership, he did use debt. When he 
+applied his cigar butt investing strategy, as he shifted to buying great 
+companies, he started to stay away from debt. What are your thoughts on that? 
+Because the argument there, from what I understand, is that debt creates 
+volatility in stock prices and in company performance. But if investors of 
+Berkshire are long-term investors, does that matter anyway? 
+Mohnish: That is a great question. Many of you probably listen to the Founder's podcast. 
+I like that podcast, and I overdose on it. One of his episodes is on IKEA and its 
+founder. IKEA is a private company, and the founder of IKEA was hell-bent on 
+never having any debt. When he looked at the business, he looked at it with a 
+lens of IKEA being around 500 years from now, a thousand years from now. He 
+looked way past his lifetime, and he tried to instill a bunch of principles into the 
+company. For example, one of his principles is that any store they open should 
+not look like all the previous stores. It has to have some innovation that was not 
+there in the previous stores. While we think of retailers as cookie-cutter going 
+through, he is looking at every store becoming better than the previous one. 
+When I studied the checklist, the number one reason for business failure is 
+debt. Warren and Charlie have said that they could have generated higher 
+returns for Berkshire without even taking that much leverage, with some 
+leverage, and it would not have moved them that much over the risk curve, but 
+they did not want to go there. They wanted to have this Fort Knox absolute 
+engine. It is a very good idea for a company like Berkshire to be conservative. 
+They effectively have leverage through insurance float. It is quite benign from 
+that perspective, but it has helped them a lot. Not going down the path of 
+having leverage is a very good thing for all of our shareholders. It is wonderful. 
+Speaker 5: Thanks for hosting us. When it comes to investing, I always have this question 
+that all these mega companies (like the Magnificent Seven companies) have a 
+massive growth in terms of revenues. Yesterday, there were Amazon's 
+earnings, and they are planning to do like 1 trillion in revenue by 2029. I always 
+have this thought, do you think we will see a time in the future, where this 
+company will continue to expand to a point where we will see that they will 
+rival national power? Or will the government try to stop them from growing this 
+big?  
+Mohnish: I would say that there’s always an entrepreneur somewhere who is going to 
+one-up the dominant player. Is that your question? 
+  
+Pg. 15 of 27 
+Speaker 5: Amazon, for example, is doing close to 600 billion in revenue. Let us say I am 
+thinking of investing in the company, but I always have this thought that they 
+will keep on growing like this.  
+Mohnish: In capitalism, we have created destruction. Even for a dominant company like 
+Amazon, there are a lot of things they cannot do. They will fail at a lot of 
+opportunities outside of that. I am not concerned with that. The nature of 
+capitalism would keep them on their toes, even though they get dominance, 
+and they get some deep and wide moats in some areas. It is okay. No problem. 
+Speaker 6: Thank you, Mr. Pabrai. Thank you for your great talk. I came from South Korea, 
+and I am an undergraduate student. I am a big fan of investment gurus like 
+Buffett, Munger, you, and Nomad Investments, but I am also a passionate 
+scientist in immunology. My concern is that many emerging industries today, 
+such as drug development or deep tech, involve long timelines, heavy 
+regulation, and binary outcomes. My question is, how can we apply the lessons 
+from value investments like expanding moat or qualities to the rising industries 
+like new drug, innovative drug development, or deep tech companies? 
+Mohnish: Industries with rapid change are the enemy of the investor. In general, one of 
+the things we look for when we are trying to get into value investing and so on 
+is that we need to have some idea of what the future cash flows are, and then 
+we can discount those back. As you get more into tech-centered or innovative 
+businesses, that becomes difficult. One of the most brilliant things that Nick 
+Sleep and Qais Zakaria did was that when they went to their office, they would 
+spend the whole day reading. They would read annual reports. Qais did not 
+have a desk to work on. He has a lazy boy chair. He would just sit in that chair 
+all day reading. They sat and read hundreds and hundreds of annual reports. Of 
+course, when they came to the Amazon annual report, it jumped out at them.  
+One of the things about Amazon for the longest period was that there was no 
+cash flow. It was reporting losses for a long time. The adjustment both these 
+guys had made is that they were able to figure out effectively how much was 
+being pumped into growth versus the existing business. There was a somewhat 
+a leap of faith that what Bezos was putting into growth was, in aggregate, going 
+to produce very high returns. They were able to apply value principles to a 
+business like Amazon, with spectacular results eventually. It can be done if you 
+understand the way the mousetrap works. One of the critical things about Jeff 
+Bezos was that he made many bets, but they were all small. He threw a lot of 
+stuff against the wall. He assumed that if those bets did not work, it would not 
+matter because the few that did work, the returns were so much higher. AWS 
+is a good example of something they stumbled onto that they had never 
+planned on. One of the things about Amazon is that a trademark of their 
+approach is that they convert cost line items into new businesses. For example, 
+we have UPS and FedEx. We do not yet have Amazon providing parcel services 
+where I can go and just have Amazon deliver something to my aunt, for 
+example. But they could enter that business now because they have everything 
+  
+Pg. 16 of 27 
+in place to enter that business. My prediction would be that they will enter that 
+business. My prediction also would be that if they enter that business, their cost 
+structure would be much lower than UPS or FedEx. They would create havoc 
+for them. They are already creating havoc for them. The Amazon analysis that 
+Qais and Nick did was not a cash-flow analysis. What they were doing was they 
+said, “This is a very smart guy. He is a fanatic. He is very efficient in how capital 
+is used, and he is going to have some of these that are going to work, and those 
+are going to be extreme outlier returns.” It worked, and Amazon is still doing 
+that. From that point of view, it is exceptional. Bottom line is that yes, you can 
+do it, but you can do it in a very small sliver of companies like that. 
+Chloe: Thank you so much, Mohnish and Jane, for organizing this for us. We appreciate 
+it. I am Chloe from Singapore. In one of the YouTube videos, you mentioned 
+that index investing is probably 4 to 6% ahead. Correct me if I am wrong, but 
+what is your take on this for long-term investment, especially since Buffett has 
+already laid out his will that 90% of his money for his wife will go into a low-cost 
+index fund. What is your take on that? Thank you. 
+Mohnish: If you go back and look at the presentation I made, when you are very rich, you 
+do not need to optimize. An investment in the S&P may not be the best 
+investment, but it does not need to be. The important thing is that 500 
+companies cannot sink at the same time. These are 500 dominant companies. 
+What he is looking for her to have is not to have any issues with cash or cash 
+flow, or anything, for the rest of her life. That is easily going to be accomplished 
+by doing the S&P 500. He also does not want her to be involved with buying or 
+selling Berkshire or any of that; he just keeps it separate and simple. It is a very 
+sound decision for the same reasons that Steve Ballmer’s investment in the S&P 
+500 is, because, like I said, it gives him the freedom to have a huge Microsoft 
+position and not worry about it. Having something like a Berkshire in your 
+portfolio or having a S&P 500 in your portfolio when you are wealthy is a very 
+comforting place to be. 
+Arya: Hello, I am Arya. I traveled from San Francisco. Mohnish, I learn a great deal 
+from watching your videos, just hearing you implement certain strategies. My 
+question is, how do you deal with psychology? Let us say that your investment 
+is not performing for 10 plus years. You gave the example of Microsoft, which 
+did nothing for 15+ years. As an investor, what would you be looking for that 
+would distinguish Microsoft in that instance from the next IBM or Walmart from 
+the next Kmart or Sears? How do you think about that, and psychologically, are 
+there any hacks that you have developed that helped you? 
+Mohnish: In the case of Microsoft, it was simple. The business never went into secular 
+decline. It has had a very strong moat while the stock price was going down 
+because it was overvalued. It was very clear with Microsoft that there was no 
+issue with the business itself. The issue with the price at which it was trading 
+was the issue that happened with many companies. Cisco had the same issue. 
+It was trading at a very high valuation. Today, we have a similar situation where 
+  
+Pg. 17 of 27 
+many companies are very dominant, but they are trading at very high multiples. 
+It is relatively simple to separate the ones that are overvalued from the ones 
+that are in decline. Once you can make that separation, then the second piece 
+is, do you take a Steve Ballmer approach to Microsoft, or do you take a Bill Gates 
+approach? I have an investment in Turkey, Reysas, which I have talked about a 
+few times. It used to be very undervalued, and it is still undervalued. From my 
+point of view, it is the easiest position to hold, and the reason for that is that it 
+trades below liquidation value, and there is nothing I can see that suggests the 
+business is in decline. My decision will become more complicated once it gets 
+past the liquidation value. If it gets past reasonable valuations, beyond 
+liquidation value, at that point, the question I would have is, “Since it is a good 
+business, should I keep holding it or should I do something else?” My biases 
+right now would be that if the business itself is not in decline, just leave it alone 
+and let it go. Usually, you can separate the signal from the noise if you just give 
+it some time. Microsoft did have an issue where they had euphoric revenues 
+coming from all the dot-coms that disappeared, but their core business was 
+pretty intact. If I look at the business today, I see a business with some very 
+solid moats. They are just going from strength to strength in their business. 
+Going back to my Forrest Gump story, two or three years back, every Friday 
+night, there used to be a dinner that Charlie Munger hosted. One time, his 
+daughter-in-law pulled me aside and said, “Mohnish, I do not want you to freak 
+out, but I seated you next to Bill Gates for dinner because I know you will not 
+ask him for anything.” I said, “Yes, that is the furthest thing from my mind. I am 
+not going to ask him for it.” Forrest Gump got seated next to Bill for two and a 
+half hours. I said, “Bill, can we play a game? I will name a stock and you tell me 
+whether you are going long, short, or neutral.” He said, “Yes, sure.” I rattled off 
+a whole bunch of tech names, and he was very quickly going through, giving 
+me his perspective on what he would do. I came to Apple, and he went into this 
+long narrative where he thought Apple was a very peculiar company. He did 
+not say he would go long; he just said it is a peculiar company because they are, 
+unlike other businesses, which have a lot of resilience. He said everything was 
+one guy. It all emanated from one guy, and the guy is gone. Nothing is 
+emanating since that guy is gone, because they are still running on Steve Jobs’ 
+vision. In the end, he said, “I would not go long with Apple.” The issue is that 
+when you compare a business like Microsoft to a business like Apple, I would 
+tend to go with Microsoft. The lock they have on us, in my opinion, is much 
+stronger than the lock Apple has. People may disagree with that, but the 
+Microsoft lock is much stronger. That is what makes this a market.  
+Speaker 7: First of all, thank you so much for coming, especially in person. We really 
+appreciate it. You essentially just talked a lot about how selling is very difficult 
+and how we should not sell too soon but is there any framework in which you 
+decide when to actually exit a business or is there any position where you have 
+had for very long and you regretted not selling it early? 
+  
+Pg. 18 of 27 
+Mohnish: Well, my history has been all selling too soon. If I look at my portfolio, the 
+longest I have held something was probably 8 years which is low. It should be 
+more. We still hopefully have a few more decades of compounding ahead so 
+the idea would be to try to extend it, but I would say that if you look at what I 
+was trying to communicate is that holding something for too long is not what 
+going to hurt you even if you end up with a suboptimal result of when you sell. 
+For example, something goes from 10 to 100 and you keep it and it eventually 
+gets to 30 and you sell it and you say, “Oh, I could have sold 100.” But that is not 
+where the game is at. The game is that if something goes from 10 to 500, you 
+keep it. The part that is interesting here is that we can do very well without 
+optimizing and we can do very well while being sloppy. As long as the 
+sloppiness is on the side of inactivity. 
+Speaker 8: You said you should not sell a great business because it is overvalued. So 
+following up on that, how do you think about the transition from what can 
+cause a great business to become not so great? 
+Mohnish: There are two parts to that question. The first part is let us say a business is 
+extremely good. There is fair value; overvalued, egregious overvaluation. Let us 
+calibrate a little bit. I am sure we could calibrate more, but let us say there are 
+those three. Fair value, we are perfectly OK, no issues. All are valued also, and 
+we have no issues. The issue that only comes up is egregious. That is the only 
+time when you really need to think about it. My general sense from what I have 
+understood so far, I do not know whether this is the right answer or not is to 
+have a pretty high bar on egregious.  
+ I will give you an example. This company in Turkey does not have an investor 
+deck. They really do not explain their business and they have gone into so many 
+new businesses. I was looking at their history. They go into a new business in 
+which they have no competence and in 5 or 7 years, they are #1 or #2 in the 
+country in that space. Then they are going to do something else that they have 
+no competence in, and they again end up with #1 and #2. I do not know 
+whether I fully understood why that is, but in observing them, what I realized is 
+what I would call an energizer bunny. Buffett says this about Greg Abel and 
+David Sokol. He says “What Greg does, gets done by 10 a.m. I cannot get that 
+done the whole day.” He used to say the same thing about David Sokol. What 
+Sokol got done by 9 or 10 in the morning, Warren would say, “I would not get 
+done for the whole day.” We do not have these linear relationships with 
+different humans. You see some humans who are so off the charts. We have 
+someone among us who is not even human, Elon. You guys think he is human, 
+but he is not. He is not part of our species. How can someone from our species 
+operate like that? These things are off the curve. Elon is a great example of what 
+is the edge of his competency. I would not want to bet on what the edge of his 
+competency is. That does not exist. This notion of egregious or evaluation may 
+not apply to managers like Elon. Just because of what they are able to do, which 
+we cannot even comprehend. That bar in my mind needs to be high. We will 
+get tested on this.  
+  
+Pg. 19 of 27 
+ I noticed how that Reysas guy goes about it and the way he steps on the 
+accelerator. It gets way more done than what most other people would get 
+done. I do not know how to quantify that. I also do not know enough to know 
+what the boundaries of that are. My take is that the good news right now is that 
+I do not have to worry about it, as is undervalued, easy. When it gets to fair 
+value, that is also easy. Gets overvalued, that is also easy. If it goes to the 20 
+billion market cap or something, way before that, I would be getting uneasy. I 
+would be thinking, “What is going on here.” If we do not have a business decline, 
+we need to be careful about trying to really understand all we can about the 
+manager and the business and all of that now. We also have to understand, like 
+Gates was saying, “In the end, everything is a zero.” It is just the nature of things 
+that everything ends up going to zero. If there is a business decline, and with a 
+business decline, we have to separate the signal from the noise. It is very 
+important to separate signals from noise, but if it is, secular business decline, 
+you have to get off the bus as soon as possible. You have to watch that 
+carefully, but it is a tough thing because, on the one hand, you cannot have it 
+on a hair trigger. And on the other hand, you have to have clarity about what is 
+signal and what is noise.  
+Speaker 9: One of the notable things about your presentation was, I guess, how many of 
+the structural winners were American thoughts, and then you talk about racism 
+at the end, and I was wondering whether you thought anything about the fact 
+that it is in Turkey and whether there is something about the American system 
+that contributes to companies becoming successful. It gives you pause about 
+investing internationally. 
+Mohnish: You would find great winners everywhere. That is an easy thing to even test for. 
+You can go into different markets, and you can go back in history and say which 
+ones have been 100 eggs or 200 eggs or 300 eggs in 1020 years and you would 
+find them. There are lots of examples of that in India, for example, HDFC Bank, 
+Asian Paints, and a lot of companies that have done extremely well. Those exist 
+everywhere. The US is a very deep market; one of the largest markets, and free 
+market capitalism. There are a lot of things that are going for it, but you can 
+find those examples everywhere. That was not by design. I did not spend a lot 
+of thought trying to be politically correct about being inclusive. I just went 
+through and picked a few examples. 
+Speaker 10: Thank you very much for being here. One thing that I thought was notable from 
+some of the pre-reading I did was your kind of thought on specializing within a 
+sector and saying, “Oh, I do not want to necessarily know what the greatest 
+businesses within the sector are.” I just want to know about what the greatest 
+businesses are, and I am curious about how that informs your idea generation 
+process. If it really brings certain themes that you find interesting in the 
+moment or what ends up getting expressed. 
+Mohnish: That is a great question. When we all start, we have a small circle of 
+competence; just the nature of our life experiences, and when we are young, 
+  
+Pg. 20 of 27 
+we are not going to know a lot about a lot of things. Buffett also says that we 
+do not need to have some kind of structured program to expand our circle. The 
+Charlie Munger quote you use, is, “You are reading everything in sight. Over 
+time, your circle of competence is going to grow, especially when you make 
+mistakes. That will make it grow very fast.” The circle is going to expand over 
+time. But I also feel that it is important to understand that the most successful 
+humans have very narrow circles. We go past investing and we look at 
+entrepreneurs, they tend to be very narrow. The founder of Zara, for example, 
+has got LVMH and so on. They are very good at what they do, but they are not 
+everything about everything. As investors, it is always better to have the focus 
+to be an inch wide and 1-mile-deep than to be a mile wide and 1 inch deep. Our 
+focus should be to get really good at what we know. There is a lot of peripheral 
+stuff that we do not know, but over time that will come in.  
+ Charlie used to talk about his friend, John Arrillaga who is a multibillionaire who 
+passed away. His daughter is married to Mark Anderson. John Arrillaga in his 
+whole life only invested in real estate within 2 miles of the Stanford campus. He 
+never did anything else. If you walked with him around Stanford, he could tell 
+you the history of every building. He could tell you what the rents were, what 
+they could be bought for. He was sitting very under-leveraged, and when the 
+downturns came, he picked up a bunch of stuff and then sat there and then 
+again very under-leveraged next downturn picked up more stuff and just kept 
+going at it. He had a very narrow circle of competence. It was not even real 
+estate. It was not even California real estate. It was not even Northern California 
+real estate. It was just very narrow, but he was very successful and in investing, 
+that type of depth can be really useful. I am always interested in going deeper 
+versus wider. That is the way I would suggest. 
+Speaker 11: I want to go back to the Turkey example. You are new to this concept, let us 
+say doing business within Turkey. You have different experiences. You are 
+meeting this wonderful company that has such a big gap between 
+fundamentals and marketing. If I were you, tons of red flags would come up 
+and I would say that it does not make sense, but you continue to push forward 
+instead with the management, and I am happy with that. Why were you doing 
+that? Can you take us to the mental model? I do not understand fully, but I am 
+willing to continue because a lot of people probably will step back in that case. 
+Mohnish: There were a couple of things. One is, I could not put much in. It was going to 
+be 1, 1.5% of what I was managing. First of all, even if I wanted to, this was not 
+going to be a big bet because of the size of the bet. The second is that when I 
+went through the list of things, what I was going through in my head was one 
+of the things that was very important to me in Turkey I wanted to make bets 
+where the currency and the inflation were irrelevant. Every bet I looked at in 
+Turkey, I said, “If inflation is 1,000% a year, the currency declined by 95% a year, 
+what happens to my bank?” There were a few bets that I could have made 
+where if those were true, we would still do very well. A warehouse is a land, 
+cement, steel, and concrete. That is what a warehouse is. All of those are 
+  
+Pg. 21 of 27 
+inflation indexes. If we have crazy inflation, then the price of steel, land, and 
+rents are going to go up. In fact, in the last 6 years, we saw crazy inflation; crazy 
+everything actually. Their contracts were inflation-indexed, and the contracts 
+are not even that great because they get indexed based on the official rate 
+which is understated. They are not able to increase rents even at the rate of 
+inflation. The bet has still worked. The entire portfolio is sitting at below-market 
+rents. If they were to release the whole thing today, the income would almost 
+double. Even with that lag, it still worked because these factors were more 
+relevant. There is another bet we made in Turkey which in the end we will end 
+up making more money because I could make a full bet there.  
+ We were able to put 100 million in the other bet which is airports; TAV airports. 
+Almost all their revenues are in euros or dollars. The top line is not coming in 
+lira. They pay their employees in lira, so they actually are a huge beneficiary. 
+The employees get poorer every year because the wages are not going up at 
+the same rate of inflation. They actually have a tailwind. Airports were sitting 
+very cheap, so we were able to put more capital. At the end of the day, just in 
+terms of raw dollars, we probably make more there. What I was clearly seeing 
+in Turkey was extreme panic and I remember that when we were buying Razer 
+Templeton funds, there was a mass exodus happening. The foreign investors 
+were all leaving. The door was not big enough for them to leave. Templeton 
+Funds had a 5% position in Razer, which they sold to me for $1 million. They 
+probably knew better than me what that position was worth, but some guy in 
+New York said they should exit Turkey. That is what they were doing. It did not 
+matter what the evaluations were. I did not see a lot of issues with that 
+investment, partially because of the bet size and also because of the simple 
+nature of the bet. 
+Speaker 12: Thanks for your time making this. My question is what is your filter process? 
+Which ideas do you want to spend more time on, specifically the coal mining 
+industry? How do you figure out that you want to spend more time in this 
+industry and then decide to concentrate on investing in this industry? 
+Mohnish: I like your approach, which is to forget all the nonsense about the past. Can we 
+talk about stock tips? Is that where we want to go here? Well, actually the thing 
+is I am opportunistic. I do not know what I will be investing in. A year from now 
+or 2 years from now I would not have forecasted that I would have made a bet 
+in the coal industry two years ago. I would not have guessed that, but things 
+show up on the radar. They sometimes make sense. The thing is that you try to 
+do things where things hit you on the head like a 2 by 4 where it seems very 
+obvious. Even when it seems very obvious, you will still not be right many times. 
+The good news about this business like you saw with Buffett's example of 4%, 
+is it is a very forgiving business. We also saw with the Nifty 50, l98% error rate 
+but you still do OK. We do not need to always be right about everything and we 
+are not going to always be right. Just because when we are looking at 
+businesses, we are looking at where they will be in 1, 2, 5, 7 years from now. 
+  
+Pg. 22 of 27 
+That can get very murky. There are too many variables that can come in that 
+can affect it.  
+ The thinking I had on the coal business was relatively straightforward. In order 
+to have a civilization, humans need iron and steel. We cannot really have a 
+civilization without iron and steel. The way iron and steel are made, most of it 
+needs to be made in a blast furnace. If you make iron and steel in an electric 
+furnace, that is usually made out of recycled steel and usually you will not get 
+the highest quality of steel coming out of that. You also need a lot of recycled 
+steel, which, places like India, do not have because they are just growing so 
+much. The one assumption is that it is difficult to change some of these 
+processes. It is difficult to change how iron and steel are made. If it is correct 
+that 30 years from now or 50 years from now iron and steel will still be 
+produced in blast furnaces, then for every ton of steel produced, you need 0.7 
+tons of metallurgical coal. Metallurgical coal only exists in very few places 
+around the planet; just a few geographies. Coal is a four-letter word, nobody 
+wants to open a coal mine and when one gets closed, it is difficult to get it 
+restarted. We had a situation in 2023 where we had a bunch of coal companies, 
+metallurgical coal companies which had no debt. A mining company with no 
+debt is an oxymoron. That just does not exist, but they had made so much 
+money in 2022 with the Ukraine war; supernormal profits that they wiped out 
+all the debt on the balance sheets and became debt-free. We have these debt-
+free companies. If you have a business that is going to produce cash flow for 
+let us say 50 years that cash flow will vary between maybe 0 to 100 million a 
+year on the low end to maybe a couple of billion a year on the high end. The 
+market cap is 2 billion. Where do I sign? That is the bet. If we buy a business for 
+2 billion and we just sit and go to sleep, let us wake up in 20 years and see what 
+happens. 
+Speaker 13: The stats you showed on Buffett's 4%, that is really interesting. My takeaway 
+from that is, it is really hard to know what your great decisions are. Knowing 
+that, how do you think about just sizing those decisions that you make in your 
+portfolio?  
+Mohnish: Warren only knew Ajit was great 20 years later. You are not going to know that 
+either. If God does not know that, then we are not going to know that for sure. 
+But, that is why we have a portfolio. We do not need to have 2 of everything 
+like Noah, but what we can do is, if you have 10 or 15 bets, what is going to 
+happen is that if you have done the work and you have got maybe 1 or 2 
+winners, it is going to become obvious. You only learn a business after you own 
+it. You may do all the work you want, but you are really going to get your 
+education on business after you own it, and you get a really good education 
+when it drops 50%. That is when you truly understand the business. The bottom 
+line is we make these bets, we think they are all great, and then we realize they 
+are not all great. Some of them are great, and then we try to hang on to those. 
+If it makes sense. That is the way it is. There is no easy way to improve on that. 
+If you look at a business like Amazon, Bezos’s approach has been a lot of small 
+  
+Pg. 23 of 27 
+bets; a lot of stuff thrown up against the wall. Very high failure rate and very 
+rapid innovation. That works, because if a bet does not work, it is irrelevant; it 
+does not matter. It is the ones that work that cannot drive it. 
+Speaker 14: One of your main points during the presentation was that you should never sell 
+a high-quality business because it is overvalued even if it is 95% of your part. If 
+you take the longer approach of converting that, why wouldn't you today be 
+finding the highest quality business you can and then investing 95% of your net 
+worth into it regardless of the evaluation? That does not seem a low risk, an 
+appropriately risked approach. But isn't that the same as deciding the inverse? 
+Mohnish: Well, the one issue is that if you bought something and it was 5% of your 
+portfolio and then it became 95%, you are now rich. But if you just start with 
+the 95% in the best business, how are we going to get rich? We just talked about 
+how we cannot tell in advance which ones are going to do well. What you are 
+doing is you are taking yesterday's winner. You are putting everything into 
+yesterday's winner and saying that yesterday's winner is going to be 
+tomorrow's winner. That is effectively what you are saying. What I am saying is 
+we know that Amazon is great and we put everything into Amazon today. It 
+could work. The way I am wired, I would not be able to make that bet because 
+I would not be able to get the conviction. It would be easier for someone like 
+me with my wiring to go and make 10 or 15 bets where each one looks 
+undervalued, looks like a good business, and looks like all the pieces are in 
+place. And then let it play out. 
+Speaker 14: But even if you are saying why to have that conviction and you built your wealth 
+with that one position, does it still make sense to follow that approach? Take 
+the example that Frank invested $100,000 into Amazon 20 years ago and now 
+he has $10 million and I am investing in Amazon today and I have $10 million. 
+We are both kind of at a single point in time putting $10 million into Amazon. 
+He is saying that would be an optimal strategy for Frank because he has the 
+conviction.  
+Mohnish: Well, I prefer the Nick Sleep approach where I do not have one bet. The Walton 
+family took the approach of one bet. Nick took the approach of three bets, and 
+one of those three bets effectively is an index kind of bet. For example, 
+Berkshire is an S&P-type bet. It is very difficult to see something like Berkshire, 
+but if let us say Frank has 10 million and let us say Frank has 5 million in the S&P 
+500 and 5 million on Amazon, and he goes to sleep, that is fine. He is not going 
+to go back to zero. Like Munger says, “I do not want to go back to go again.” I 
+have been a go. I know what go feels like. I do not want to go back to go again. 
+In his case, the 5 million each is a very comfortable situation to be in because 
+no matter what happens, he is fine. He has still got the 2nd 5 million if 
+something happens to Amazon. Now I need to have a lot of conviction in 
+Amazon, whereas he does not. Whatever happens to Amazon is irrelevant to 
+him, but it will be very relevant to you. What I would say is that having all the 
+eggs in one basket is a little extreme; for me, at least. The Waltons have done 
+  
+Pg. 24 of 27 
+that. Many people have done that. Elon is doing that to some extent though he 
+is trying to spread it out a little bit. If you just change it from one bet to maybe 
+2 bets, where the second bet is a little bit more resilient like a book or an S&P, 
+then you can totally relax. But some people can be totally relaxed like the 
+Walton family with a single bet because they maybe have an understanding of 
+Walmart that goes way beyond what I can understand. But these are valid 
+questions. I am not sure I am giving you the right answer, but just telling you 
+what I can process. 
+Speaker 15: Another way of putting that question is that Frank puts $100,000 in that stock. 
+Amazon is one of them. He sleeps for 30 years. It is now 95% of the portfolio. 
+Shouldn't he look for another 10 stocks and sleep for another 20 years? 
+Mohnish: Rebalance the portfolio. The title of the presentation was “ We only need to get 
+rich once .” We are already rich. He does not want to work anymore. He just 
+wants to lay back and relax. I am just playing devil's advocate. What I am just 
+trying to say is that if I look at Berkshire or any of these successful 
+entrepreneurs, in the end, you end up concentrated. What you are saying is let 
+us now restart. We have run this thing through. Let us redo it. Let us play the 
+game for another 20 years. With new bets that can be very valued that can work 
+out, but we also have a couple of things to keep in mind. One is we have finite 
+lifetimes. At some point we pass away or whatever else it may take you 20, 30, 
+40 years to get to that point. If you are focused on staying rich, then I do not 
+know how much sense it would make to take the whole thing and make 10 
+more bets. If you buy into the law 95% of what you think is going to do 
+extremely well is not going to do well, and you already have one goose that is 
+laying a lot of golden eggs. Why kill the goose? The next goose may not lay any 
+eggs. But, nothing ventured, nothing gained. How do you work? How do you 
+not get bored? We need to be really good and happy watching the paint dry. 
+Can you be excited about watching paint dry for 20 years that is a beautiful skill 
+to have. A couple of weeks back I was at the Bridge National Championships in 
+Memphis, where all these nutcase bridge players are going all in for points. It is 
+not even dollars for points, I do not know why they get excited about points, 
+but they are all super excited about points. We can find other ways to use the 
+brain power. Munger says that it is a really good thing that Buffett played bridge 
+because if he had put that time into Berkshire, it would have had a negative 
+impact. One of the issues with investing is everyone in this room except me has 
+too much brain power. Like Warren says, “You can give away 50 IQ points and 
+your results are not going to change. They might even get better.” It is a very 
+important skill to build. As Pascal said, “All man's miseries stem from his 
+inability to sit alone in a room and do nothing.” Actually, Pascal misspoke. What 
+he actually meant was all investor miseries stem from the inability to sit quietly 
+in a room and do nothing. You have to be able to go through several decades 
+of no activity. Can you do that? 
+Speaker 15: No, I cannot do that. It is the most important thing to learn. 
+  
+Pg. 25 of 27 
+Mohnish: There is a very easy hack which is just to find something else you are excited 
+about that does not involve dollars or money or investing or anything. You can 
+become a bridge player, you can become a golf player, you can go race F1 cars, 
+whatever. Find something else; a second activity that is going to suck up all the 
+time so that you will live an exciting life with the portfolio not being touched. 
+Nick Sleep actually is in Nirvana. That is where we have to get you to. We have 
+to get you to nirvana before you enter the real world.  
+Speaker 16: Thank you so much for sharing, I really appreciate the humor inside your speech 
+and also the wisdom shared. I found the Coca-Cola charts very intriguing. Coca-
+Cola is a quality business, but some part of the stock growth is also attributed 
+to the series of QEs the market experienced after the financial crisis. With the 
+current economic condition and at that level, the next QE probably is not on 
+the near horizon. Do you think it is a change of foundation of the market 
+conditions and how do you suggest us to navigate this new environment? 
+Mohnish: Coke is a very complicated business. It looks simple. But it is actually very 
+complicated. There is a talk Charlie Munger gave on Coke. The way to think 
+about Coke is the percentage market share. We need around 64 ounces of fluids 
+per day to stay alive and some portion of that needs to be flavored so that we 
+do not get bored. If you have only water, that would not last more than 2 days, 
+so some portion needs to be flavored. Then the thing is that there is a 
+distribution engine that Coke has that gets that flavored drinks to several billion 
+humans at a cost that almost no other company can do. When we think of Coke, 
+we immediately go to sugar and those sorts of things, but it is really a flavored 
+water delivery mechanism. Flavored water delivery mechanisms do not need 
+to be unhealthy. It can be anything. You can pump anything through that pipe. 
+Rebuilding that pipe by somebody else is very hard, very expensive, and 
+unlikely to happen. What Coke can do is they just can look around and say, “Oh, 
+Gatorade looks good. Let us just buy Gatorade and send it through the pipe.” 
+They do not need to actually come up with the stuff that needs to go through 
+the pipe.  
+ The point is, a business like Coke to me is more resilient than a business like 
+Microsoft for that reason because of that pipe and because unless humans stop 
+needing that amount of liquid, that equation stays. Even though you have got 
+other players, there are only 2 or 3 players in the world that have enough 
+bandwidth and enough cost advantage on that pipe. The way I look at it with 
+Warren and Charlie is that in the late 80s, they cracked the fundamentals of 
+what Coke was and of course, they had a huge run-up. They made a lot of 
+money in the next 10, to 12 years on Coke, and they did not make so much 
+money for a while, but again you only need to get rich once. If you have 
+something like that in your portfolio, do not try to optimize. There is a podcast 
+called The Founders Podcast . I do not know if you guys listen to it. I tend to 
+overdose on it. I have listened to more than 100 episodes so far, but he keeps 
+putting out more. I was listening to the one with Harriet Green. Her father was 
+very successful and wealthy. He did not want a daughter. He wanted a son. He 
+  
+Pg. 26 of 27 
+wanted to transfer his business acumen to a son, but Harriet lived maybe more 
+than 100 years ago. Anyway, he ended up with Harriet being his only heir, so he 
+was forced to teach her business. He explained to her how to do well. But when 
+he passed away, she was really pissed off when he passed away. Even though 
+she was super smart and ended up being 10x better than the father ever was, 
+in his will he said he gave the entire family fortune to her, but he put it in a trust. 
+He made the trustees a few men, not her, who would control how the trust was 
+invested and all Harriet was getting was the income from the trust. If he left her 
+10 million, she was getting like $500,000-600,000 a year. From that stream of 
+the little bit of money coming out, she blew past the principal by a huge factor; 
+she really went way beyond. The idea is that you can have Coke and you can 
+think like Harriet. For your benefit, we can give you the dividend of Coke to go 
+have fun with. How is that? Then we can do it like Harriet. You can go all out on 
+the dividend, and leave the principal, and that can work too because Harriet 
+proved it can be done. She is so rich now. 
+Speaker 17: My Amazon position, you said never to sell a great business just on valuation. I 
+thought about hedging it. It is at 50 times and maybe keeps on going, even 
+better than it can, so let me buy some bets and then I would rather lose X 
+amount of bets than sell the stock and have it keep going up.  
+Mohnish: Yes, it is possible. The issue with hedging is that hedges are not perfect. They 
+can be expensive. They expire and you have to redo it. If it were me, I would 
+focus more on using that resource and horsepower for something else, but it 
+could work and that might be OK. But like I said, my next sleep is a gold 
+standard, no hedging, no nothing. He has 3 of them. He has 200 million; it is 60, 
+70 million in each one. He does not need more than 10,20 million to have a good 
+life. He is giving it all to charity anyway. Why try to get cute? All this falls into 
+the cuteness category, like buying ASOS, which was getting cute. 
+Speaker 18: I guess with coal like you went top down, you like the sector and then you pick 
+the companies you wanted. With Turkey, you like the country you pick what 
+you want. Do you ever go bottom up or are you just like a top down? 
+Mohnish: I am not top down. I usually started the business. Coal has been interesting 
+because in 2 years, as my understanding grew, I spent 15 days in the coal mines 
+last year. It was an orgasmic experience. Coal miners are the best people to 
+hang out with; they are awesome people. But as my competency grew in coal, 
+I found myself shifting (which company to which) and I finally got it nailed. It 
+took a couple of years to get that kind of head screwed on right about which 
+one. But in general, if you are investing in a commodity business, if you are 
+investing in a mining company, for example, the low-cost producer is going to 
+win, so you have to make sure there is no leverage because then you get to play 
+your hand out. You have to make sure that you are the best management team 
+and lowest cost, and the lowest cost producer will always be. It is not that hard 
+to figure out which ones those are and then go to sleep.  
+  
+Pg. 27 of 27 
+Speaker 19: You spoke about yesterday's winners and you said that you are wired to not bet 
+on them. Going back to the Walmart example, from 1970 to 1990, I am assuming 
+at 1990 it looked like yesterday's winner, but even if you invested in 1990 and 
+you rolled it forward to 2025, how do you sort of take a bet on the durability of 
+a great business? 
+Mohnish: You have a very valid point, and he has a very valid point in the sense that 
+Amazon could very well be in its infancy today. We may look back in 30 years 
+and say, “Oh, this was a bargain even in 2025.” That is entirely possible, in fact, 
+likely. Not even possible. It is likely just because of the way that that business 
+is run. 
+ 
+ 
+ 
+ 
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not intended 
+to be financial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not be suitable for you, 
+do not take into account your particular investment objectives, financial situation, or needs, and are not intended to provide 
+investment advice or recommendations appropriate for you. Before making any investment or trade, consider whether it is suitable 
+for you and consider seeking advice from your own financial or investment adviser. 
+ 

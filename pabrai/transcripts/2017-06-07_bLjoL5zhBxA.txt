@@ -1,0 +1,1375 @@
+  
+Page 1 of 30 
+Mohnish Pabrai’s Lecture at the University of California, 
+Irvine (UCI) on June 7, 2017 
+ 
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not inte nded 
+to be, financial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not be suitable for you, 
+do not take into account your particular investment objectives, financial situation or needs and are not intended to provide investment 
+advice or recommendations appropriate for you. Before making any investment or trade, consider whether it is suitable for you a nd 
+consider seeking advice from your own financial or investment adviser. 
+ 
+Yang: All right. Welcome everyone. Today, we're very fortunate to have Mohnish here 
+with us at UC Irvine. He is the Managing Partner of Pabrai Investment Funds, 
+which manages 535 million. If you had invested a hundred thousand dollars in 
+Pabrai Investment Funds in 1999 when they  started, it would be worth a little 
+over $1.1 million today. That's in contrast to if you had invested in the market, 
+you'd have about $285,000. In 2014 Mohnish founded and raised $150 million 
+for Dhandho Holdings, which is an insurance-focused holding company. Last 
+but not least, he is the founder of Dakshana Foundation which provides 
+educational opportunities to impoverish ed but talented children worldwide. 
+Please join me in welcoming our guest for today, Mohnish Pabrai. 
+Mohnish: Thank you, Professor Yang. Well, it's great to be back. Just maybe a quick show 
+of hands. I'm not sure how many of you were here last year. Maybe just raise 
+your hand. We've got a brand-new audience. Good. We can reuse the same 
+jokes. That's great. Some of you migh t have seen the talk on YouTube where 
+we focused on coke last year. This year  we'll try to go further from there 
+because the Coke Investment at Berksh ire Hathaway came from some of the 
+lessons they learned from See’s Candies. The Purpose of See’s Candies in 72. 
+But we'll go further back from there into the mid late sixties, and then kind of 
+take it from there. There are several rich  lessons in some of the journeys that 
+some of these folks took over the years. I think that can be applied to the likes 
+of you as you embark on your careers, whether you become full-time investors. 
+I think it's always good to understand a few things about investing in allocating 
+capital. I'll go back to the forties, fifties, sixties, there was a company called S & 
+H Green Stamps. Most of you probably were not born when the S & H Green 
+Stamps were thriving. Maybe not even your parents were users of them, cause 
+of quite a way back. But the S & H green stamps were really the precursor to, 
+what today, we think of as airline mile s. It was a kickback mechanism to get 
+loyalty into merchants. For example, if you went to a grocery store and you 
+spent $50, they would give you one of those stamps for every 10 cents that you 
+spent, and then you’d stick these stamps in these books, and then you could 
+redeem them at various stamp centres for a variety of things; toasters, tennis, 
+rackets or whatever. A wide range of things you would buy. With humans, 
+kickbacks work and they worked in the fi fties, sixties, and seventies, and they 
+worked today. I mean a lot of the way I decide which credit cards I use and so 
+on and so forth, is determined by the miles and the deals that we get probably 
+  
+Page 2 of 30 
+similar to most of you. But Green Stam ps had a policy that in a particular 
+geographic area, let's say, for example,  Irvine, if one drugstore offered green 
+stamps, they wouldn't allow competing drug stores to offer it. They kind of 
+created some exclusivity, and it also tended to direct business towards the drug 
+store that carried and offered these st amps. The drug stores or the grocery 
+stores were not happy about this. What they did in response, because they 
+understood that the loyalty programs boosted sales in California, nine different 
+grocers got together and created some thing called Blue Chip Stamps. Blue 
+Chip stamps basically said we are goin g to allow anyone who wants to offer 
+these stamps, to offer them any mercha nt. We are not going to have these 
+exclusive type deals. These nine gro cers basically owned Blue Chip stamps. 
+There were a lot of small merchants who felt like they were kind of shut out of 
+the profit streams that came out of the ownership of Blue Chip. They felt like, 
+“Hey, we want to own the mothership. We don't want to be giving you money 
+every time we get a bunch of stamps to give to our customers”. They sued Blue 
+Chip for basically saying, this is kind of antitrust and it's kind of collusion, all 
+these things. In the early sixties, that kind of lawsuit wound its way through the 
+court system. By 1966, the court agreed with the plaintiffs that they were right 
+and that Blue Chip should be more equitably held by all the merchants who 
+offered it. What they forced the company to do was to offer ownership shares 
+of Blue Chip stamps to all the merchants who were kind of purveyors of these 
+stamps, if you will. They gave it to them in proportion of their volume in the last 
+year. There was a market created for Blue Chip stamps. As a result of that 
+market being created, Blue Chip stamps started trading on the OTC exchange, 
+you could kind of buy or sell shares of Blue Chip. There's a gentleman, Rick 
+Guerin, who was an early partner of Charlie Munger and Warren Buffett, he kind 
+of, (in LA when he was reading the newspapers), noticed that all this stuff was 
+happening with Blue Chip. He looked at the stock price. Rick is a very good 
+value investor, and he thought that the price that the stock was being offered 
+was quite compelling. He brought it to the attention of Warren Buffett and 
+Charlie Munger, and they looked at it as well. But one of the nuances about Blue 
+Chip is that every time the merchants ga ve these stamps to various buyers of 
+groceries or drugs, whatever else, a certain percentage never got redeemed. 
+They kind of go to the back of the dr awer, or people just forget about them, 
+and so on, and so forth. The Blue-Chip business was very much like the 
+insurance business in the sense that with insurance, you collect premium 
+bought dollars today, and then the claims come in sometime in the future. 
+Sometimes, you can be playing claims even 20, 30 years after you’ve taken the 
+premium in. But in the case of Blue Chip , it was kind of like traveler’s checks 
+where people gave you the money today.  Sometimes those travelers’ checks 
+may not be cashed for a year or two years, three years, or never, because they 
+get lost. People never claim them, and so on and so forth. Blue Chip had float, 
+just like insurance companies have float. But one of the things about the Blue 
+Chip float was, there was a portion of the float that I would call permanent float. 
+If you look at the kind of chart behind me, you see how the revenue of Blue 
+Chip is going down because it peaked current towards the late sixties, and then 
+  
+Page 3 of 30 
+after that, it kind of started losing its appeal. But you can see the float is 
+multiples of the revenue. The reason for that is that, a certain percentage of the 
+float is permanent in the sense that I don't have the exact number, but I would 
+guess something like 5% of the Blue Chip stamps that were issued never, ever 
+came back for redemption. In fact, my friend Alex, is sitting there with a whole 
+bunch of these blue chip stamps that never came back from redemption. As a 
+gift for you guys coming today, he's going to give you some stamps. Keep one 
+packet for yourself, and then pass it on to your neighbor, if you will. There’s 
+approximately $50 or $60 million of these stamps which are now gradually 
+making their way through Etsy and eBay which never got redeemed, Okay? In 
+6 7 ,  w h e n  R i c k  G u e r i n  l o o k e d  a t  t h i s  c o m p a n y ,  t h e  c o m p a n y  h a d  a b o u t  5 0  
+million in equity which was like the book value of the company, the stock was 
+trading at 40 million, and they had approximately a hundred million of OPM 
+other people's money that they were holding, which was the float of Blue Chip. 
+Out of that hundred million, my estimate is something like 50 million of that 
+was never when we redeemed. That was kind of like, found money. Basically, 
+you were able to buy a company with a do llar of assets for 40 cents. It was 
+available very cheap. When Rick Guerin  brought it to the attention of Warren 
+Buffett and Charlie Munger, and they looked at it, they said, Yeah, this is great. 
+But they also noticed that the way th e Blue Chip float and equities were 
+invested was useless. The people, these grocers who were on the board didn't 
+have a clue about investing. They knew that they had to basically in effect take 
+control of the company and then get control of the investing. What they did is, 
+from 1967 to 1970, over three year period a number of different entities like the 
+Buffett partnerships, Warre n Buffett, Berkshire Hathaway, Wheeler, Munger 
+Partners, Rick Guerin, and th en an entity called Diversified Retailing. All these 
+entities together invested about 24 million, and they got 60% ownership of Blue 
+Chip, and they got control of the company. First Charlie Munger went on the 
+board, then Rick Guerin went on the board, and then Warren Buffett. There 
+were all three of them on the board. Then they took control of the investment 
+committee and sold everything that these guys owned and started to kind of 
+redo everything. One of the things that happened when they took control was 
+one of the entities, they bought about six and a half million, about 
+approximately a little more than 25, 27% of the 60% was a company called 
+Diversified Retailing. What happened is that Warren Buffett, a guy named 
+Sandy Gottesman, was on the board of Berkshire Hathaway now, and Charlie 
+Munger formed this company called Diversified Retailing. 80% was owned by 
+Buffett and the workshop, the Buffett partnerships, 10% by Gottesman and 10% 
+by the wheel among the partnership. They had raised five and a half million 
+debt with the help of Goldman Sachs to buy retail operations. They bought a 
+department store in Baltimore. What ended up happening with the department 
+store is they realized it was a mistake, and they were very lucky about two or 
+three years later to be able to sell it for what they bought it for. But then they 
+had raised this debt, the debt didn't ha ve to make confidence, and they took 
+the six and a half million that originally was meant to go to the department 
+store, and they put that into Blue Chip as well. Basically, there was about 18 and 
+  
+Page 4 of 30 
+a half million of equity, and about five and a half million of debt that went in. It 
+became the 60% of Blue Chip they controlled, and Blue Chip with this 24 million 
+they invested had over a hundred million of float. It had another 40, 50 million 
+of equity, that’s a lot of assets that they got a control of without spending that 
+much money. Then what they did was that in 72, See’s Candies came up for 
+sale, and they took 25 million of Blue Chips float, and they bought See’s candies. 
+I told you about 50, 60 million of the floats was never going to be called back 
+because people were never going to. This was kind of the free money. They had 
+about 50, 60 million of free money. They took 25 million of the free money, 
+bought these candies. Then a year later, there was a savings and loan that was 
+trading well below liquidation value. We’re sitting at half a book value, Wesco 
+Financial where they again invested about 25 million, eventually bought about 
+80% of Wesco again, using the float money from Blue Chip. Then in 1977, the 
+Buffalo Evening News, which was a newspa per in Buffalo, came up for sale. 
+That was bought for about 33 and a half million. From like 72 to 77 See’s Candies 
+generated quite significant retained earnings about four 5 million a year. They 
+used the retain earnings of See’s Candies plus some more float from Blue Chip, 
+and they bought the Buffalo News, and then the Buffalo News ran into a lot of 
+trouble. They had five or six years of losses. I think they lost about 12 or 13 
+million. All of that got covered with the earnings from See’s Candies. They had 
+a lot of union problems. They had strikes, then they got their competitors sued 
+them because they started a Sunday paper to compete with the other paper in 
+Buffalo. They went through a lot of turmoil for five or six years of the Buffalo 
+News, but by 1982, everything had settled down. The competitor had gone out 
+of business, and in 82, their earnings were 19 million pre-tax. On a business they 
+bought for 33 million five- or six-years data, you were making almost half of 
+that. In a few years, the Buffalo News wa s making 50 million a year pre-tax. It 
+became a nice home run. When you look at what happened with Blue Chip 
+stamps with these three companies, with See’s Candies, Wesco Financial, and 
+then the Buffalo News, you had about the original 24 million in effect gave you 
+all these three businesses. Then in 19 83, they merged these businesses into 
+Berkshire Hathaway, and that's how Charlie Munger got to own one and a half 
+percent of Berkshire Hathaway. Sandy Gottesman also got a significant portion 
+and so on. Every 13 shares of Blue Chip  in 83 gave you one share of Berkshire 
+Hathaway, which is now around a quarter million or so. The 60% of Blue Chip 
+that costs about 24 million is today sitting at about 60 billion. It was a very 
+significant increase. But when you look, I told you that about five and a half 
+million was debt when they raised from Diversified retailing. The group that put 
+the money in from diversified retailing so  every dollar you put into Blue Chip 
+between 67 and 70 today is worth $2,500. But every dollar you put in through 
+diversified retailing is worth $18,000. Which is why we got a bunch of 
+billionaires out of all of this. That was basically the interesting saga with Blue 
+Chip and the original business, Blue Chip, itself went to almost immediate 
+decline. It had revenues of about not a hundred million in the late sixties. By the 
+late seventies, those revenues were down to about 20 million. Further down, I 
+think in the eighties, it was down to 10 or 20,000 before they basically shut 
+  
+Page 5 of 30 
+down the company and such. Then all we have are the remnants, the stamps 
+that all of you've got. But another interesting thing that happened then was 
+that they bought Wesco Financial as a very cheap asset for 25 million. It was 
+probably worth 40, 50 million in 73. Almost nothing they did with Wesco moved 
+the needle that much. It wasn't such a great investment. But in 1988, 14, 15 years 
+after they bought Wesco, the government had set up Freddie Mac, and they 
+were going to allow public ownershi p of Freddie Mac shares. Fannie and 
+Freddie were up and running, but they on ly allowed SNL to save the loans to 
+buy Freddie Mac shares. You had to be an SNL to buy Freddie Mac shares, and 
+any SNL could buy savings alone, they could buy up to 4% of the Freddie Mac 
+shares outstanding. Wesco owned mutual savings, which was the savings 
+alone, and they maxed the 4%. They invested 71 million into Freddie Mac shares. 
+You make this investment in 73, you do a few things, and nothing really moves 
+the needle much. 88, you make a single investment, 71 million. In the year 2000, 
+they sold the Freddie Mac investment. They sold it for 1.4 billion, which went up 
+20 x plus, they had another 600 million in dividends, so it became 2 billion. Then 
+that money in 2000, if you moved it to Berkshire at around that time, you would 
+have something like a four x on that. 70 million becomes something like 8 
+billion. The key lesson with all of these stories, if you think about it from the late 
+sixties to the late eighties for the most  part with these different investments, 
+they made five decisions. There we re five meaningful decisions, so 
+approximately a decision every four or five years. The five decisions were taking 
+control of Blue Chip, buying See’s Candies, buying Wesco Financial, buying 
+Buffalo News, and finally, the investment in Freddie Mac. Few bids big bets and 
+very infrequent bets. If you think about what transpired with all these different 
+bets is, there's a wonderful quote by Ch arlie Munger, which encapsulates this 
+well. I'll just read it. It says “a few major opportunities clearly recognizable as 
+such will usually come to one who continuously searches and waits with a 
+curious mind, loving diagnosis involving multiple variables”. Then all that is 
+required is a willingness to bet heavily when the odds are extremely favorable 
+using resources available because of prudence and patients in the past. The key 
+mantra is this few bets, big bets, and infr equent bets. That’s I think, is one of 
+the very core tenants of value investin g. But there's anothe r aspect to this, 
+which shouldn't get lost in the middle of all this which is none of this came 
+painlessly. In fact, it came with a lot of pain or as I would say, no pain, no gain. 
+Charlie ran the Wheeler Munger partnership, which was like a hedge fund at 
+the time. In 1972, 94% of the fund was in two stocks. 61% of the fund was in Blue 
+Chip, and 23% was in something known as the New America Fund. Let me just 
+describe the New America Fund for a second, because you understand what's 
+in Blue Chip, because in 72, Blue Chip basically had a market cap of well under 
+a hundred million. But it had all these assets with the float and such. The New 
+America Fund which was a closed end fund  was originally called the Fund of 
+Letters. A bunch of flamboyant businessmen with the help of some brokers 
+raised about 60 million. The brokers took about 10% of that to raise the money. 
+Off the bat, the investors lost 10%. There was 54 million left in the fund, and then 
+they started to invest it and they didn't do a very good job of investing it. What 
+  
+Page 6 of 30 
+began as $10 a unit and then because th e quality of investments are so bad, 
+that fund started trading at a significant discount to underlying intrinsic value. 
+If you look at, I don't know if you've discussed closed end funds. If you open 
+Barron’s, or even just go Google closed end funds, you'll see the thousands of 
+these funds where unlike typical mutual funds or ETFs they've raised a fixed 
+amount of money. After that, they trade like stocks. Sometimes you get a 
+variance between the assets in the fund  and the trading price. It can either 
+sometimes trade at a premium, or sometimes you can trade a discount, and 
+sometimes the discounts can get wide. One can build a nice little career out of, 
+in effect buying closed funds and waiting for them to kind of get back on track. 
+But the Fund of Letters had dropped quite a bit in value and was well below the 
+underlying assets. Charlie Munger and Rick Guerin bought enough of the units 
+to get on the board and then take control of the fund. Again, they got control 
+of 60 million or 50 million in assets with just a few million dollars invested. Once 
+they got control of the fund, again, they liquidated the investments and started 
+redeploying the money more intelligently. In 72, they renamed it the New 
+America Fund. In 72, The New America Fund had had a net asset value of $9 
+and 18 cents. By the end of 74, it had a value of $9 and 28 cents actually went 
+up. But the price it was trading at was $3 and 75 cents. It dropped a lot because 
+72, 74 was when we had the Nixon impe achment. All these price controls, we 
+had a lot of the oil embargoes inside. There was a lot of ugliness going on at 
+that time in the US economy, and the stock market had crashed. Blue Chip 
+stamps, which had a market gap of not of 80 million in 72 by the end of 74, was 
+trading at a market gap of 27 million. If you just think about Blue Chip stamps 
+at the end of 74, it already owned See’s Candies, which they had bought for 25 
+million, and it also owned Wesco Financial that they had bought for also 25 
+million, both seriously undervalued even then the market was not willing to 
+recognize that these were great asse ts. The Wheeler Munger partnership 
+reported over two years about a 53% drop in return. It a huge drop, and a lot of 
+pain, in fact, Charlie Munger recalls that time is a very painful time. What he did 
+is, in 1975, I think 1975, the fund was up about 75%. But if you're down 50% and 
+then up 75%, you're still not back up to zero. If you're down 50%, you need to 
+be up a hundred percent. What he did was liquidate the partnership. But what 
+he also did when he liquidated was, he distributed Blue Chip stamps and New 
+America Fund to all the investors. Instead of giving them cash, he gave them 
+these stocks and he just gave them instructions that, Listen, just hold onto 
+these stocks. Eventually the New Americ a Fund was liquidated in 1986 for a 
+hundred dollars per unit. What was trading at less than $4 a unit went up 25 
+times. One of the companies they boug ht inside New America was the Daily 
+Journal. They bought the Daily Journal for $2 million from the New America 
+Fund. Then in 86, when they liquidated New America Fund, a Daily Journal 
+started trading over the counter now trades on New York Stock Exchange. That 
+$2 million in the Daily Journal is today worth almost 300 million. That's also 
+done quite well. But the thing is, while these assets did well, we had a period 
+of serious pain where you had huge declines. If you think about it, his 
+investments were the most sensible investments he could make because he 
+  
+Page 7 of 30 
+was buying, he had 94% of his investments in two companies in which he had 
+control, knew the businesses really well, and they were trading at a huge 
+discount. Even then he had a lot of pain. The other facet that one has to keep 
+in mind is that none of these things come that easily. Some of you might think 
+that these are stories which are so far back, different times these times don't 
+exist today. How can we take advantage of these things today? In 2002, Charlie 
+Munger made an investment that he read about in Barron’s. Barron is a weekly 
+magazine, and he had been reading Barron’s for almost half a century. Every 
+issue of Barron’s probably had at least 10 stock tips. If you're going to read them 
+for half a century or something that's about 2,500 issues or about 25,000 stock 
+tips. After 50 years of reading Barron’s, he made one investment, and that 
+investment was in 2002, where he invested 10 million in Tenneco, and Tenneco 
+invested in the stock as well as their bonds were 35 cents on the dollar, and 
+then they converted to stocks as well. He sold Tenneco a couple of years later. 
+The 10 million had become, what, 80 million was what? Eight x 2004, 2005. Then 
+he turned around, he'd met a promising young Asian manager, Li Lu, and he 
+gave the 80 million to Li Lu to invest in a new fund lead who was starting to 
+invest in Asia primarily. That 80 million, I don't know the exact number, but it's 
+something like 500 million today, it's gone up six or seven times since then. If 
+you think about it, you have one action in 2002 to buy Tenneco. You have a 
+second action in 2005 or 2006 to give that the proceeds to Li Lu, and the 10 
+million becomes 500,000,050 x in the last 15 years. These are 15 years, and we 
+were all alive. We could have done the same thing. I certainly didn't do the same 
+thing, which is why here I am talking to you instead of being up there on the 
+slide. But the thing is that it again demonstrates the importance of making bets 
+when the odds are heavily in your favor. Charlie was sure, because Tenneco had 
+all these very dominant brands with Mo nroe struts and mufflers and breaks, 
+which are all now waning, but at that time, they were quite prominent. In fact, 
+if he had held on, he was buying the stock for $50 $75, it eventually went to $55 
+a share. Even if he just held on some more, he would've made even more than 
+what he did. The interesting thing is that you go through a multi-decade period 
+of listening to one pitch after another and do nothing. Then you step in and 
+make one investment, and then you step in, make another investment. In 
+Charlie's words, the 500 million with Li Lu pretty much came out of nothing. If 
+you think about it, in 2002 I think Charlie was a billionaire by then. 10 million 
+that he put in would kind of been like 1% of his net worth. Rick Guerin `likes to 
+say that it's always good to keep 10 million in checking in case something shows 
+up. I would kind of rephrase that by saying that it's always good to have maybe 
+one, two or 5% or some single digit percent of your net-worth sitting there 
+waiting to be deployed. When you have extreme odds in your favor with very 
+high return possibilities, they will show up from time to time, they show up 
+infrequently, and one has to be prepared to act in size when that happens. 
+These were some of the thoughts I really wanted to share with you, the core is, 
+the few bets, big bets, infrequent bets, the ability to take pain and the ability to 
+be decisive at the points when you're  encountering no brainers. With that 
+Professor Yang, you can maybe open for questions and such. 
+  
+Page 8 of 30 
+Yang: Regarding your point about the ability to take pain, right? That's very closely 
+related to this idea of the limits to arbitrage, right? When you purchase an 
+investment, you have to be financed appropriately because the investment can 
+go the wrong way before it goes the right way. I'm wondering, in your position, 
+you run a fund, Pabrai Investment Funds, you also run an insurance focused 
+holding company; Dhandho Holdings. In your investment fund, there is the 
+ability of investors to redeem once a year. Whereas in your insurance company, 
+you have locked up capital sort of cl oser to the fund example you gave. I'm 
+wondering what you think about investments. Do you think these two pools of 
+money have different maturity in terms of  their liability stru cture? The Pabrai 
+Investment Funds sort of a one-year period and insurance company longer, 
+period. How do you think about, which types of investments go in, which pool 
+of money to deal with this ability to take pain problem you mentioned? 
+Mohnish: Sure. I think that's a good question. Well, I think that Dhandho Holdings (you’re 
+correct), it's like a closed end fund, if  you will. Inside Dhandho, we can own 
+private assets. For example, our insurance company is wholly owned. It's a 
+private company, and we have a couple of other private assets like that. We 
+cannot do that in Pabrai Investment Funds because it's subject to annual 
+redemptions. But other than that difference, I mean, I think there's a couple of 
+differences. I think the Pabrai Investment  funds is purely public equities that 
+are liquid and such. If people are redeeming capital, they must give us some 
+notice and, we can kind of get ready and arrange for that. Not a problem. In the 
+case of Dhandho, we've got a couple of  layers. We've got investments inside 
+the insurance company, and that is very highly regulated capital. We are 
+regulated by the state insurance regulato rs, and we also have rating agencies 
+that have various kinds of mandates and suggestions in terms of how we might 
+want to structure things. There are, rightfully, a lot of restrictions on what and 
+how we can invest inside the insurance company. Pabrai Investment funds has 
+a lot fewer restrictions, but the biggest restriction would be that it needs to be 
+all liquid. There are different rules, but certain things can only happen in one 
+vehicle, some can happen in both vehicles, and I just kind of play with it as it 
+comes if you will. 
+Kevin: My name is Kevin. I am currently a full-time MBA student here at the Palm 
+Mirage School of Business. One of the biggest takeaways I got from your 
+presentation is that it takes an inordinate amount of patience in order to find 
+out what are the good investments to undertake as by your example of the 
+individual who looked through 50 years and made one investment within those 
+50 years. For millennials such as myself who are used to the generation of 
+smartphones and digital apps who mayb e don't necessarily possess that type 
+of patience, which is probably something that may be developed, I'm not really 
+sure. What are some tips or what are some words of wisdom that you would 
+have for those within the millennial generation who would like to adopt this 
+type of approach? 
+  
+Page 9 of 30 
+Mohnish: Sure. All right. That's a good question. What I would say is, I think investing is a 
+great activity for a gentleman or lady of leisure, if you will. You should have 
+something else that is your primary vocation if you will. This becomes 
+secondary. I think it works really well when you don't have to think about, Oh, I 
+haven't done anything last week or the week before, and what am I doing? One 
+way you can skin that is you can get all the hyperactivity out of your system by 
+being involved in fast moving start-ups, for example. You could have a day job 
+that satisfies those cravings of lots of action and activity. But in your investing 
+world I think there is no way around the fact  that patience is almost a, is like a 
+law physics in investing. It's unlikely that one can develop a great track record 
+as an investor if one is hyperactive. I think the two kinds of don't jive with each 
+other. There are periods of time when lots of investments become available or 
+certain sectors become attractive and such, and there are many periods of time 
+when there's not much to do. Investing is a great activity. If you have something 
+else that takes away all your cravings for action and I think it's a very important 
+thing that if you are… it's also an activity that to some extent is probably there's 
+some genetic predisposition. If your ge netic predisposition is a hyperactive 
+trader you're probably not going to have an easy time sitting there like Charlie 
+Munger just reading without doing anything. But if you're predisposed to just 
+being a thoughtful person who doesn't particularly crave action then I think it 
+can be a huge positive. It's not easy to  be on this path. One of the reasons I 
+wanted to give this talk is I wanted to pound these ideas into my head to get 
+to being more patient than I am because I think that I have not practiced this 
+degree of patients in my career, and I th ink if I were to be more patient, the 
+results would be better. I don't have an easy answer for you. I would just say 
+split your time into two buckets, the hyperactive bucket to get all that hyper 
+out of the picture, and then have this second thing on the side, which is reading 
+and waiting. Sure. 
+Student 1: The question is, you talked about a few bats, big bets in frequent bats, and as 
+you know, today, the markets are, if you consider one side, they're saying it's 
+extremely bullish. Where we are today, we  are at the top, and maybe there is 
+still some growth left, but I mean, are th ere opportunities like that in today's 
+marketplace? If there are, where would let's say the students or the ones with 
+mayor means, I'm talking about a thousand dollars, $5,000 invest. Where would 
+they put that money? 
+Mohnish: Sure, Yeah, that's a great question. I hate to quote Jim Cramer but Jim Cramer 
+has a great quote. There's always a bull  market somewhere. Even if you just 
+look at publicly traded equities, there are probably a hundred thousand stocks 
+around the globe that are publicly traded. There are probably several thousand 
+of them, or maybe at least several hundred of them that are one way or another 
+trading significantly below intrinsic value. In many ways, it's a pleasure hunt. 
+Like Munger would say, why should it be easy to get rich? But I think that if one 
+were intensely focused on that one would get there. I'll just give you a story 
+from Warren Buffett's childhood when he was a teenager. When he was a 
+  
+Page 10 of 30 
+teenager in Omaha, he used to go to  the horse racetrack. It was called a 
+Aksarben racetrack. It's Nebraska spelled backwards. He'd go after all the races 
+had finished, and he'd collect all the tickets that people had left on the ground, 
+which were all the losing tickets, and he'd collect them all. Then he'd carefully 
+go through each one to see if some drunk had discarded a winning ticket. Once 
+in a while, he'd usually find 1, 2, 3, or a few tickets that were actual winning 
+tickets that have been tossed. Then because he was underage, he sent his Aunt 
+Alice to the window to collect. Then, he put that money away. Then next 
+Sunday, he was again there to collect his winning tickets. Those were free 
+lunches, right? I mean, there was some effort involved, but for a kid it was a 
+free lunch, if you will. When he was about 21 years old, Buffett went through 
+something known as the Moody’s Manual. Moody’s manuals covered a number 
+of different industries. They were about 20,000 pages in all, and they came out 
+every year. He said that in 1951, he went through all 20,000 pages in these 
+manuals twice. In a year let's say 2000 working hours, probably for Warren 
+4,000 working hours he'd gone through 20,000 pages now, or 40,000 pages. 
+Now, if you're going through 40,000 pa ges how many pages is that per day? 
+Let's say you have 400 days. What would be like a thousand? No, be a hundred 
+pages a day, right? Be approximately a hundred pages a day. Not that much. 
+You can do it, a hundred pages is not that much. What he was doing, even a 
+hundred pages a day, you're going fast. He was going fast. He was going 
+through those hundred pages a day, the exact same way he went through the 
+Aksarben tickets. You can take the kid out of Aksarben. You cannot take 
+Aksarben out of the kid. Okay? What was he looking for? Well, for example, he 
+found I think he was saying page 1433 Western Insurance. Two years back they 
+made $22 a share. Then last year they made $29 a share. The stock was between 
+three and 13 was a range for the last 52 weeks and they had $135 in book value. 
+For him, Western Insurance was identical to the Aksarben ticket that the drunk 
+had tossed. It shouldn't be there, right? Western Insurance should not be 
+trading at a range of three to 13. Then he said he saw Western Insurance, he 
+stopped, he's flipping pages, stops, pulls up the AM best manual, which is the 
+insurance manual for insurance companies and looks at it. He says, “There's 
+nothing wrong with it. Talk to a couple of insurance brokers. They said the 
+company's fine.” He puts some money into Western Insurance. He said 10 pages 
+later, he finds another insurance, North American something security or, or 
+casualty or something. Again, very similar numbers and such. Then he says, “the 
+book really got hot and heavy towards th e end. There were all these exciting 
+things going on.” In 2011, this was 19 51, right? Then the Aksarben escapades 
+were taking place probably around 1943 or something, when he was 13, 14 years 
+old. 2011, my friend Guy Spier and I were  visiting Warren, and we were in his 
+office, in his private office. I noticed th ere was a book on his desk, and it was 
+called The Japan Company Handbook. I was very familiar with the Japan 
+Company Handbook. Cause at that time, Guy Spier and I were leafing through 
+that book looking for Japanese net nets, very cheap Japanese stocks. The 
+problem is that when you find it, and it's  in English, which is great. When you 
+find those stocks, you'd be lucky to get half a million dollars into it or a hundred 
+  
+Page 11 of 30 
+thousand dollars into it. I mean these are small, thinly traded Japanese 
+companies. But the thing is, the Japanese company handbook with about 600 
+pages, two stocks per page. I saw it on  his desk, and I said, Warren, what are 
+you doing fooling around with the Japan Company Handbook. I mean, 
+Berkshire Hathaway, you're deploying hund reds of billions of  dollars. There's 
+nothing in that book that's going to help Berkshire Hathaway, okay? Because 
+this is Mickey Mouse stuff. Of course, he's a poker player. His expression doesn't 
+give away anything. Then I picked up th e book, and I took it to some pages, 
+which I knew the stocks that I had found that were, I said, Warren, let me make 
+this faster for you. Here's some Mihi car, whatever else. Without asking him, my 
+dog-eared a bunch of his pages in his book, mutilated his book, and gave it 
+back to him. Again, he has a poker face, he doesn’t say anything. But what he 
+was doing is he was probably going through that more for his personal account, 
+and more importantly, the reason he was going through it. Because you can’t 
+get Aksarben out of the kid. He still loves treasure hunts, okay? He can put 
+money into those things, but he loves the hunt. In 2006, he told MBA students, 
+he did the same thing with a booklet. Someone sent him City Corporate put his 
+booklet together of Korean stocks. He found he made 20 investments off of 
+companies in that book. On one Sunday afternoon, he put a hundred million off 
+his personal funds into 20 stocks from that book. For example, one of the 
+companies he invested in was Dahan Flower. Dahan Flower in Korea got one 
+fourth of the flower market, people have to eat. It was trading for 35000 won 
+the last three years, earnings were like between 18 and 25000 won, and it had 
+a hundred thousand won in cash and investments and no debt. It's at one third 
+liquidation value. There's no business. On top of that, there's a business, right? 
+Coming back to your question about what do I do with 5,000? Well, quite 
+frankly, 5,000 is a huge advantage. Buffett has a disadvantage at 400 billion. 
+That's a problem. 5,000 is not a problem. The question is, are you willing to be 
+like the kid at Aksarben? Are you willing to flip through 40,000 pages looking 
+at six numbers per page to see whether you should flip the page or wait? With 
+a hundred thousand stocks in the world and auction driven markets there are 
+always mispriced securities. Not only ar e they mispriced, in some cases they 
+are extremely mispriced. Two years back someone sent me a stock tip. One of 
+the good things is that every day when I come into work usually my assistant 
+hands me a folder. There are usually two or  three stock tips in there, okay? It's 
+great. My email address is mp@pabraifunds.com, please feel free. Okay? Every 
+day I come into work, I look at my folder, and there are two or three stocks I've 
+never heard of that people have sent in. I just look at two numbers, and then it 
+goes in the garbage. But before I send the garbage, thanks a lot I appreciate 
+you sending it. But I look at two numbers. I look at the price the stock is trading 
+at, which is normally mentioned in there, and the price the person is saying it 
+should be trading at, right? If those two numbers are not apart by at least a 
+factor of five or 10, I'm done. Unfortunately, every day when I come in, this is 
+what happens. Some guy has sent me a 15-page elegant write-up 
+immaculately, done a lot of charts, et cetera. I'm just looking for these two 
+numbers. The stocks at 13, and after 10 pages, it says it's worth 18. What do you 
+  
+Page 12 of 30 
+think I do, Sanjay, Thank you very much . Warm regards. Bu t don't let that 
+persuade you all. I want to say to you, please don't send it to me unless it's at 
+least a five x and preferably a 10 x and ideally a hundred x delta between those 
+two numbers, because we need to get to Tenneco, right? But the thing is, 
+almost exactly two years ago, some person I had never interacted with said this 
+10 page, very well written report, I lo oked at two numbers. The two numbers 
+were part by a 10 x. I said, Lo and behold, someone has sent this in, right? I said, 
+this is great. I have like Acorns easy chair in my office. Lynn knows my office, 
+the Acorns. I left my desk, I went to my Acorns easy chair, put my feet up and 
+started to read the report. Because now I was into an orgasmic experience. I 
+wanted to make sure I fully enjoy the experience. I read the report and I couldn't 
+find anything wrong with it. I mean, everything, I'd never heard of this 
+company, but assuming everything he was saying was accurate, because I 
+didn't know whether it was accurate or not, all I knew was he was describing 
+some company and blah, blah, blah, whatev er else. Then there was this factor 
+of 10 Delta. I said, Okay, the fairy tale looks awesome. Now let's see if the fairy 
+tale is true. All I did was I spent about two hours just checking every number. I 
+just opened up Google Finance and opened up a few other websites, and I just 
+went through the company's website, and I just checked, okay, he's saying, 
+debt is so much, Is the debt so much? It's non-recourse, is a non-recourse, blah, 
+blah, blah. I just went through the checks and after two hours I looked and said, 
+I'm done. Everything is there. There's no thing more to do. I put 20 million of 
+Pabrai Investment funds into the company. It's now at, I think north of 50 
+million. I think we probably will get a hundred, maybe north of a hundred, might 
+even get 200 million out of it. We'll see. The guy who sent it, I still haven't met 
+him, I did thank him, and I said, please keep them coming. I haven't seen 
+anything else from him, but if I see something from him, I'll go back to my icon 
+share to read what else he has to say. The bottom line is that, if one were to be 
+unreasonable and say, I only want 10 baggers or five baggers, or whatever else 
+they're going to show up, if as long as  they're willing to be patient and be 
+unreasonable about it. But the thing is what it takes, it takes the insert intensity 
+of the person at Aksarben. That’s a very unusual teenager who’s doing that and 
+that’s a very unusual 21-year-old who’s doing that? I don’t know any investment 
+analyst who pound through 40,000 pages. Maybe they do, but I don’t know 
+them, and who are going through the intensity that Buffett went through. One 
+of the things Einstein used to say is that compounding is the eighth wonder of 
+the world. The reason he said that is that Sanjay, if you have a thousand dollars 
+and you find one of these five baggers let’s say even every 10 years, right? You 
+start at the age of 20, and you’re dead at the age of 80, for example, so you’ve 
+got six decades, right? Every decade your money multiplies five x. 5,000 
+becomes 25,000. When you’re 30, it becomes 125,000 when you’re 40, and it 
+becomes 625,000. When you’re 50, it becomes a little over 3 million. When 
+you’re 60, it becomes 15 million when you’re 70 and you’ve got 75 million when 
+you’re 80 and dead. That’s a thousand dollars or $5,000, right? We don’t need, 
+this is the magic of compounding, you find one five bagger every 10 years. 
+You’ve got at least 20,000 hours in 10 years, if you just work 40 hours a week to 
+  
+Page 13 of 30 
+find one should be able to find one. That’s the name of the game. Other 
+questions? 
+Student 2: If the students assess the work involved in the Japan example where you were 
+looking at very cheaply priced Japanese stocks, I imagine you must have looked 
+at a bunch of, perhaps other countries or elsewhere in the Japanese market. 
+How many pages or how many hours of work would you say went into for every 
+one idea that came out to be? 
+Mohnish: Well, I was interested in looking at Japan because at the time, if you just looked 
+a little bit of the Nikai and what had happened to it, I mean, it’s gone to a long 
+period of doing nothing, and Japanese companies have governance issues. 
+They sell a lot of cash; they don’t give  it out. There are negatives there, but 
+cheapness gets over a lot of negatives. There are faster ways to do that. I could 
+do exactly what I was doing with the Japan Company Handbook with Capital 
+IQ. That’s, I think is 18,000 a year or something. But if I used Capital IQ which is 
+how I actually got to the company that marked Warren’s book, I’d actually taken 
+a shortcut. Then I tried to get Warren to get interested in capital. Like you, he 
+had no interest. I think the reason he had no interest is, he just loved treasure 
+hunts and such, so it didn’t take that long. This is the funny thing about the 
+market. Those bargains should not exist. You have some portion of your time in 
+the class that goes on efficient markets,  If markets are fully efficient, these 
+things just shouldn’t exist. It’s a classic, like the University of Chicago, the 
+professors walking his student points out there, the hundred-dollar bill on the 
+ground, he says that’s not a real hundred-dollar bill because the real hundred-
+dollar bill wouldn’t be on the ground. Markets are almost fully efficient, but 
+they’re not fully efficient. There’s a huge gap between those two statements 
+and Buffett has a saying that “I’d be a bomb on the street with a tin cup if 
+markets were efficient”. It is not so much I don’t think it would take that much 
+time. I think it’s a question of whether one has the fortitude to buy because 
+you’re going to be buying things that you’ve never heard of, companies you’ve 
+never heard of, whose stock prices have moved in a long time. You would have 
+to sit there and watch the paint dry for many years. Are you the kind of person 
+who loves to watch paint Dry? How many people love to watch paint dry? 
+Please raise your hand. Alex loves you. He’s in the real estate business. He paints 
+the wall and just sits ther e and watches it. That’s what you do, Alex? All right. 
+Okay. If you love to watch Paint Dry, which the millennials I take are not too 
+keen on, but if you love to watch paint Dry, this is the field for you, because 
+that’s what you got to do. You’ve got to make your bets and then spend your 
+time talking to students so that the time is spent and you don’t do 
+counterproductive activities. Other questions? Yeah. 
+Student 3: I’m from UCI and am currently an investment banker. I have been a big fan of 
+Mohnish since I was doing my CFA. It ’s great to see you speak here. The 
+business I am in, we spend a lot of time looking at the product and technology 
+and where it’s going, and we don’t get to see as much past financials and find 
+those things, right? When you gave th ese wonderful examples, I loved it, the 
+  
+Page 14 of 30 
+Blue Chip and Tenneco and those, an d even the Moody’s manual and Japan 
+company book, and how you kind of pin it down to a couple of financial ratios 
+or multiples and figure that one out. But when like Charlie figured out Tenneco 
+or they figure out, Buffett and team Blue Chip, and when you do your work, 
+once you find that five bagger or 10 bagger, how much work goes into, like, 
+looking at the product or the business itself besides just the financials, right? 
+Because you look across so many sectors, unlike me, you can’t, one cannot be 
+expert of all the sectors. Right? What role does that play, if at all? Or is it purely 
+a financial decision? 
+Mohnish: No, that’s a great question. The answer  is, there’s a wide variance, in some cases 
+the time spent is very short. I would say that with the tip that the individual sent 
+me, it didn’t take much time. One of the reasons it didn’t take much time was 
+that the quality of that report was extr emely high. Actually what I discovered, 
+because I was really blown aw a y  w i t h  t h e  h i g h  q u a l i t y  o f  t h a t  r e p o r t ,  s o  I ’ l l  
+answer your question, but just to give you a little bit of a kind of backdrop. I 
+never talked to that company or interacted with them in any way. When I 
+bought the position very recently, I went, and I was in the same city as the 
+company. I said, “Let’s go meet them , let’s see what’s happening, right?” I 
+arranged a meeting, and the CEO wasn’t  there, but the CFO was there. This 
+was… 
+Student 3: This was after you made the investment? 
+Mohnish: A couple of years after I made the investment. I go in and we own close to 10% 
+of the company. We are one of the largest owners of stock outside of the family 
+that controls it. I am th e CFO for the first time. He says, “Mohnish, all these 
+years, all these people have been badgering me about why you invested in our 
+stock. I kept trying to explain to them, I’ve never interacted with this guy. I’ve 
+never had any interaction, but they don’t believe me. They don’t believe that 
+someone will take a 10% position in that company without ever having met 
+them. They think I’m kind of lying to them, but I told them there’s nothing 
+there”. I explained to him that I had received this very well-written thing. What 
+ended up happening is that he gave me some data that completed the picture. 
+There was an Italian analyst, this is a company based in Hyderabad in India. This 
+Italian analyst has also never met or visited the CEO and CFO in Hyderabad 
+probably four times over two or three years, doing a very detailed drilldown on 
+the business. He was rea lly going back several ye ars before I bought the 
+company. Then he put together a write-up. I haven't seen that write-up till 
+later. Then this other individual took that write-up and then built on it, right? By 
+the time I got involved, I had these two great unpaid analysts who done a 
+phenomenal job. It worked out well. In  that case, because so many of the 
+piece’s kind of put in place for me, there wasn't much. I didn't spend much time; 
+others had spent hundreds of hours on it to make it easier for me. Thank you 
+very much. But I would say about five years ago, I was looking at the auto 
+industry, which I have always hated. In that case, it took me, I think probably 
+about two months of staying up till three or four in the morning reading to 
+  
+Page 15 of 30 
+finally get to the point that I was ready to make an investment. In that case, it 
+took a significant amount of time probably the most time they get to hundreds 
+of hundreds of hours to get to where we need to get to. There's a range. If you 
+were going to build a basket of Japanese net nests, that probably wouldn't take 
+you that much time. You probably wouldn't need to spend even more than 30 
+minutes on a company. Also, you would probably make the bed size small, and 
+you'd make a bet with 10, 15, or 20 companies you'd kind of make a basket bet 
+and you could do that. Even today, for example, the South Korean market, the 
+South Korean market today is probably one of the cheapest markets in the 
+world, according to me. I think the sm aller cap Indian market and the South 
+Korean markets are relatively cheap. But South Korea has these preferred and 
+there are lots of them. They trade choose discounts to the common, the only 
+difference in the wording ri ghts, which really don't matter. In some cases, the 
+preferred are trading at one third of the common when economically they're 
+identical. This is 2017 when it shouldn't be happening, but it is happening, and 
+it's happening right now.  I would say that there's a range. Sometimes it takes 
+a lot of time, sometimes it takes little time, and it's just wherever it falls. That's 
+perfectly fine.  
+Wally: Hi there. My name is Wally Splain. I'm an undergraduate here. I was wondering 
+if you could speak to the value of your philanthropic efforts and why it was 
+important for you to form the Dakshana foundation. 
+Mohnish: Okay, great. Well, I think it was just because there was no other choice. I think 
+that if you are even a slightly above average investor spending less than you 
+earn or a lifetime, you're going to end up with probably more assets than you 
+could spend. I could see that, that was happening and probably likely to 
+continue to happen in my family's case. If you're going to end up with more 
+assets than you are consuming then there're only two choices left, right? You 
+can either pass it on to your gene pool or you can in some way recycle it back 
+to society. Those are pretty much the only things you can do. Large inheritances 
+are a disservice to my kids, if you will the next generation, if you will. I think that 
+if I were to give my kids large inheri tances, they would probably have less 
+interesting lives than they might otherwise. It is a bad idea to be thinking about 
+passing on large inheritances. If large in heritances are not an option, then the 
+only option you have left is to recycle back to society. One of the things I 
+realized from reading Warren Buffett's perspectives is that, giving money away 
+effectively is more difficult than making it because the types of things, if I'm 
+going to make an investment, I can look at a hundred thousand stocks and find 
+something that's kind of weird and no one likes whatever else and make that 
+investment. But if I'm going to try to improve society, the kinds of things I must 
+work on are things like poverty or environment or health. These are problems 
+and issues that have been intractable in  getting solved, even  with trillions of 
+dollars being spent by various entities, governments, and such. These are tough 
+problems. Understanding that giving money away is more difficult than making 
+it, I didn't want to wait till I was very old before starting to kind of figure it out, 
+  
+Page 16 of 30 
+if you will. We started the Dakshana; my wife and I started Dakshana about 11 
+years ago. I was in my early forties then. The reason to start then was to really 
+have at least 10 years where we could fail but learn from those failures and then 
+start getting better. That was the idea, we started giving away 2% of our net 
+worth, I think, about 10 years ago. It was a small number that wouldn't affect us 
+if it didn't work, but it gave us enough money to have meaningful 
+experimentation. What ended up happening was that we didn't really have any 
+meaningful period of not having traction. It took off right away. We were very 
+lucky. We got a great partnership with the government of India, got a great 
+team, and it took off quite well. Now it's way past a start-up. It's getting to scale 
+and such. We had opened it in the middle to others to contribute. I think 
+Dakshana now, for example, has a annual budget of a little over $3 million. 
+About half of that comes from my family. The other half is coming from other 
+folks. That number will keep growing. It's created meaningful change for a 
+significant number of people, so it's worked out. That was the kind of thinking 
+that there was really no choice. Now I think the goal will be over time to 
+gradually kind of increase the percenta ges of the numbers and so on. But the 
+thing is that what I've always assumed with philanthropy is, be very willing to 
+fail. In many ways, it's the opposite of investing. What one ought to be doing 
+with philanthropy is to swing hard at the fences, swing for the fences even if 
+the odds are that you'll miss because it 's really the only way you can kind of 
+bend the trajectory. If you look at, for example, the Bill and Melinda Gates 
+Foundation, they're trying to swing for these things like the vaccines from 
+malaria or hundreds of millions of toilets and so on in India. They're trying to go 
+after major things with some significant innovations, knowing that there's a 
+high chance of failure. But the good news is that if you succeed then you move 
+the trajectory, which is great. That was the kind of thinking behind it. 
+Student 4: One of the takeaways that I got from your presentation regarding the blue 
+chips where about 50% of people don't ever redeem their tickets, was that 
+that's one of the habits that people have. By going through that experience and 
+within the industry, you can sort of define that as like a core element and a core 
+result of the business. I sort of take that back to when I think about learning 
+about value investing in my class in my classroom setting, which is before 
+undertaking any type of investment you have to like really to know the business 
+inside out, like the core about how it operates, how does it generate and 
+maintain profitability, so on and so forth. I was wondering from your point of 
+view, how does that approach really take  place when we look at a diversified 
+business or like a conglomerate like take for example, GE as a large company 
+that really diversifies into many vert icals. How would you really take the 
+principles of value investing and put it onto a large company with that kind of 
+diversification? 
+Mohnish: Sure. That's a great question. Firs t, for Blue Chip, the percentage is not 
+redeemed, I think it was closer to 5%. Half of humanity was not out to lunch. 
+Just about a few percentages, 4, 5%. Now those 4, 5% are selling it on eBay and 
+  
+Page 17 of 30 
+trying to make up for it. It's okay. But you know Buffett has a box on his desk 
+which says too hard on it. He says that probably 98% of stuff he encounters 
+goes into the too hard pile, which means it's something he cannot figure out. 
+He's a very smart guy. The thing is we  don't need to know everything about 
+everything. For example, the gentleman here mentioned venture capital and 
+early-stage investments and all of that. You can get a lot of moon shots with 
+that approach. You can also get a lot of zeros, right? It’s not an easy game. For 
+me I would just take that whole thing and put it into two hard piles for me. For 
+him, it's not the case because he's got some competence inside. This varies by 
+individual. If I look at GE, here's the reasons why I would just not even spend 
+two seconds on it. Number one, it's prob ably followed by two dozen analysts 
+who spend a lot of time on GE. I can look at any of their reports and I can see 
+that there's no factor of five or 10 between the current share price and what the 
+share price is. In fact, I would say that's probably the case of the thousand 
+largest businesses in the US. Forget about them. If the companies in the 
+Fortune 500 or the s and p 500, whatever else we're done, the beautiful part is 
+we just finished 500 businesses in two seconds. It's awesome. You like my 
+speed? I have great speed. I'm faster than Buffett can flip pages. We don't need 
+to understand everything about everything. We can just focus on it, Munger 
+says go fishing where the fish are. Are there fish in the Fortune 500? Maybe if I 
+spent 10 years, I might find a couple of fish dead and I might have missed some. 
+But let's keep it simple and just say no and move on. Basically, focus on where 
+the fish are, focus on sectors that pe ople hate, unloved countries that are 
+unloved, things that would cause distress . For example, Qatar has been in the 
+news lately. Have you looked at stocks in Qatar? Maybe if you're doing nothing 
+tonight, the stock market is tanking. I haven't looked at the Q stock market. I 
+don't know what kind of company are in there, but let me put it this way, that's 
+high higher property of finding value there than in GE. That's the name of the 
+game is basically go to wh ere the fish are, where y ou think the fish are, and 
+then the patience and the discipline to look for it, kiss a lot of frog before you 
+get to a prince. 
+Francisco: Hi. My name is Francisco, and I had a question regarding that diversification. I 
+know your strategy's more of kind of like equity, long value investing but within 
+like an ever-changing world where in dustry trends might change or 
+competitive advantages might disappear what's your opinion on 
+diversification? Like how many stocks is enough for your portfolio, for example? 
+Mohnish: Yeah, I think it depends. It depends on your degree of conviction. I mean, I 
+would say very few of us can get to Munger's degree of conviction where two 
+stocks are 94%. But Charlie Munger says that “if you owned a small town in 
+America the McDonald's franchise and the Ford dealership and the best office 
+building in town and the best apartment building in town, let's say those are 
+the four assets you had, and you could own fractions of them. You may not be 
+rich enough to own all four completely, but you could own 5% of McDonald's, 
+or 7% of a Ford dealer or something like that”. His perspective was the portfolio 
+  
+Page 18 of 30 
+which had those four assets in a place like let's say Peoria, Illinois, middle of 
+nowhere would be enough to make you quite wealthy over lifetime. If some 
+person looked at that portfolio, they would say there's extreme geographic risk 
+because everything is in one town, right? But if you meet any entrepreneur in 
+Irvine let's say some Chinese couple running a small Chinese restaurant nearly 
+all of that network is in one asset not even four assets in one time, right? That's 
+probably even more risky than what Munger suggested, Peoria, et cetera. I 
+think the answer on how many stocks or how many positions is a function of 
+how well the companies are and how durable those modes are, and you are 
+right that over time almost all modes erode, almost all companies lose their 
+competitive advantage. I mean the Ford  dealership I don't know what that 
+looks like in 20 years. Maybe 10 years it's okay, but 20, 25 years it may be fine. I 
+can't tell. McDonald’s might still be there, but again, we don't know, food is an 
+area where if you get to things like wh at happened with the pork lay you can 
+hit some brick walls. I would say for the mere models like us not the Mungers 
+of the world, I think if you got to probably something like 10 stocks that you 
+understood well in a few different industries that's plenty. I don't think you 
+should get up to 50 stocks in a portfolio. I think that's not going to help you. But 
+something like 10, 15 or eight or something is probably a good number. 
+Elizabeth: Hi. My name is Elizabeth and I'm an undergraduate here at Paul Mirage. My 
+question was simply, what is the most valuable piece of advice you have 
+received over the course of your career? 
+Mohnish: Well, that's a loaded question. Let me think about that. Because there's a lot of 
+different kinds of things that I have come across in my career. But I'll get back 
+to your question maybe after the next question. In the meantime, I'll give it 
+some thought or I not rambling off something that just comes off to the top of 
+my head. 
+Student 5: My question is, it seems like investin g really takes up a lot of your time and just 
+like running your foundation and everything you do, how do you manage to 
+balance your life in terms of family, personal time and everything else? 
+Mohnish: Okay, well, that's an easy one. My wife isn't here, but if she were here, she 
+would say he doesn't work at all. If you asked him what he does, she would say 
+he does nothing. Because her perspectiv e is she really sees me do nothing, 
+quite frankly, and my daughter is at the back. What do I do? How do I spend my 
+time? I sleep. There you go. In fact, ju st before I came here, I finished my 
+afternoon nap. Afternoon naps are a good thing. I'm wide eyed and very cheery 
+for all of you. Yeah. Investing is an activi ty that at least, (as defined by Buffett 
+and Munger and such) is not an act, is not something that has a lot of 
+hyperactivities about it. It's an activity that requires a lot of reading and 
+thinking, which is fine. I enjoy that. I don't even think of it as work. I think of it 
+as fun, just trying to understand th e way things work and the way the world 
+works and so on. I think that if you focus on doing things that you love to do, 
+then you won't work a day in your life. I think that should be the objective. I 
+  
+Page 19 of 30 
+think the objective all of you should have is to focus on now. For some of us, it's 
+hard to figure out what we are excited about, right? I mean sometimes that's 
+n o t  c l e a r .  I t  m a y  n o t  b e  c l e a r  a t  y o u r  a g e s  w h a t  y o u ' r e  e x c i t e d  a b o u t ,  b u t  
+increase time on activities that energize you and decrease time on activities 
+that don't energize you. For example, one of the things that Buffett and Munger 
+say is that if you spend time with people who are better than you, you will get 
+better. If you spend time with people who are worse than you, you will get 
+worse as a magnetic pool both ways. One simple thing to look at is, if you look 
+at your kind of close friends and who you spend time with, just ask the question. 
+Are these people I really admire and lo ok up to? Or are they someone who's 
+kind of pulling me down or has got some negative attributes and such? If you 
+change your social networks to be more in terms of a crowd that is kind of 
+interesting and ones that you look up to that's going to be helpful. I think these 
+are just things that you've got to feel  out and figure out what you're excited 
+about, what you love doing, and then take it from there. To answer your 
+question, I don't know whether it is advice, but I would say that there are what 
+I would say the important thing for me is certain mental models. Some of them 
+came about from people, some of them I read about and different things. These 
+m e n t a l  m o d e l s  h a v e  b e e n  v e r y  i m p o r tant. For example, one of the mental 
+models that I think might be useful to this group is that there are there are 168 
+hours in a week, and when you start working full time your employer is 
+expecting you to show up for around 40 or 50 hours or something like that. If 
+you live close to where you work, then you won't have much time with 
+commutes and such. Even if you take out time for everything else, eating, 
+sleeping, and et cetera, there's probably at least another 40 hours available to 
+you for other activities. You can spend a number of different ways. One way 
+that the second 40 hours can be spent is, it can be spent on your passions, if 
+you will. It could be spent on getting a start-up off the ground. It could be spent 
+on, in Sanjay's case, investing that 5,000. In 10 years it becomes 25,000, right? 
+There is a chunk of time all of us have. In my case, I only had one employer, but 
+when I knew I wanted to do a start-up and leave I didn't just leave because I 
+didn't have any money. I used this me ntal model. What I did is I basically 
+reduced my intensity of work for the empl oyer to be just above firing level. I 
+was no longer interested in being em ployee of the month, employee of the 
+year, or anything like that. I wanted to take it down where I was just above that 
+he's not so bad at going to fire him, but that's about all we are going to get out 
+of him. I spent all the time, early morning before I went to work, in the evenings 
+when I came back, and weekends on getting my start-up off the ground, right? 
+I put all my energy there, and it took about nine months of running this kind of 
+dual life by which time the start-up had some revenue. I had two, three months 
+of visibility, and I resigned. When I resi gned, my boss said, we couldn't figure 
+out what happened to you in the last six or eight months. I said, Yeah, exactly. 
+I said, my point was to just focus. He said, Yeah, it wasn't so bad that he wanted 
+to fire you, but you were just gone. This is something I said. I said, that was 
+exactly the point I wanted to be, just about firing level. The mental model that 
+you can do two things at one time within the same week is an important one. 
+  
+Page 20 of 30 
+The mental model of understanding that compounding is the eighth wonder of 
+the world is an important one. There are a few of these models which basically 
+become important. Another mental model I probably got late in life, probably 
+when I was in my mid-thirties, is that humans, humans want the truth. They 
+don't particularly care what it is. For example, let's say I did something 
+untoward or negative, or I had some results that were not that great. If I am 
+absolutely candid about owning up to those, generally speaking, as humans, 
+we know that we are subject to screw-ups. Something that I didn't understand 
+was that people don't particularly care that you screw up. What they care about 
+is that you're candid about the screw up. What I found is that when you have 
+candor around screw-ups, you strengthen relationships, and you deepen trust. 
+All those things have huge positive im pacts in the long term. What I learned 
+from Charlie is to be a collector of mental models. One of the reasons why these 
+mental models become important, is because our brains are kind of very 
+screwy in terms of how we process things. There are a lot of kinds of glitches 
+in it. These mental models help us get around a lot of these glitches. That's kind 
+of what I would say is some of the things to think about. Yeah, go ahead. 
+Student 6: I actually was going to ask a si milar question like she did. Because as an 
+entrepreneur, it's really hard to balance the work and life, but I think you already 
+gave the perfect answer for that one. An other question I have is that did you 
+like have any investment in China's Jamaki, and how do you think about that? 
+Mohnish: I think we have one investment in China, I think one investment in Hong Kong. 
+I mean, the Hong Kong one was easier because everything was in English, it 
+was easy to kind of go through it. The Chinese one, I got some hand holding 
+from some benevolent Chinese people, which is great. But no, my biggest 
+handicap with those markets is to a large extent, it falls into hard pile. I would 
+say you would probably have a serious advantage over me on the Chinese 
+market and such. The important thing I think in investing is to always stay within 
+the circle of competence and always focus on things that you really 
+understand. Munger gives the example of one of his friends with a billionaire, 
+John Arriaga. John Arriaga only invested throughout his career in real estate 
+within a few blocks of the Stanford campus. In his whole career, all he did was 
+make investments around us. Usually, he was buying when things were 
+pessimistic, and he was selling when th ey were euphoric and those sorts of 
+things. He never levered and over time, those investments did really well. If you 
+think about circle of competence of a person like John Arriaga, well, it's not 
+even real estate, It's not even California real estate, It's not even Northern 
+California real estate. It's not even bay area real estate, it's real estate just 
+around Stanford. A person who just understood real estate around Stanford 
+from a standing start becomes a billionaire, right? The nature of the world is 
+that, specialization is a huge advantage. Even something like the Chinese 
+markets is too broad, I think the narro wer you can get and the more intensity 
+you can bring to it the better off you're going to be. That's the key within circle 
+of competence and depth of knowledge in there. 
+  
+Page 21 of 30 
+Lisa: Okay. Hi, my name is Lisa. I'm also an undergrad here. I noticed that one of your 
+investing principles is to invest in high uncertainty companies and I notice that 
+in the markets, people often interpret high uncertainty as high risk. I'm just 
+wondering how would you differentiate or how you interpret the idea of high 
+uncertainty and high risk? 
+Mohnish: Sure. Well, that's a good question. Risk and uncertainty are two different things. 
+Markets many times get confused betw een the two things. For example if I 
+were to let's say, look at a funeral services company, a company focus on either 
+Cremating or burying the dead. Let's sa y they're in certain geographies we 
+don't know who's going to die in Peoria Illinois next year, but we know how 
+many are going to die, okay? If you want a predictable business, there is 
+probably no more predictable business than a funeral services business in 
+Peoria. I can tell you 10 years from now what the cash flows are going to be, 
+even 20 years from now, what the cash flows are going to be, right? A business 
+like that exhibits no uncertainty, right? It's a very low uncertainty business. 
+Generally speaking, businesses with low uncertainty tend to be fully priced. 
+They almost become like bonds, I mean, if you have a real estate investment 
+trust, it has a set of class, properties in prime locations, 95% leased, the 
+economy is doing well, you can see those cash flows for a while and it's got a 
+lot of stability to them. On the other hand, there are businesses which by their 
+very nature are subject to very high uncertainty. For example, let's say they 
+were an oil company, right? Where the revenues and cash flows are very 
+dependent on the price of oil. They haven't hedged anything, or let's say the 
+shipping company which got this entire fleet on daily charters, if you will. Again 
+in some cases though, charters can vary so much that you can get very high 
+deltas in what the cash flows can be. One of the queues in investing is that one 
+should look for situations where you get the combination of the two, where 
+you get a combination of very low risk and very high uncertainty. When you see 
+an example of the two together the odds are very high that you can make a lot 
+of money. I'll give you an example. I think this was in 2000 or 2001, there was a 
+company I invested in, it was called Frontline. It was a shipping company. What 
+they did is, they transported crude oil.  They had these VLCC (very large crude 
+carriers), which are transporting oil between, let's say, say, Saudi Arabia and the 
+US and so on. These crude carriers are huge ships,  at that time, they cost about 
+70, 80 million apiece. They're two ways that people use these ships. They either 
+do leases, kind of time chargers, or they 're on the spot market. In the case of 
+Frontline, they had something like 40% of the global fleet of VLCCs, and they 
+were all on the spot market. In the sp ot market, VLCCs range of daily rates 
+varies from something like $10,000 a day to a quarter million dollars a day. It's 
+a huge variance. The Break-even price for these ships was at that time, about 
+there to make at least 20 or 25,000 a day to break even. What happened I think 
+in 2001, 2002 when I was looking at Frontline, is there was a glut of ships too 
+many ships and not enough crew being shipped around. As a result, shipping 
+rates had collapsed. At that time, shipping rates were around 10 or 12,000 a day. 
+Frontline's fleet was losing money, and the stock price went down to 
+  
+Page 22 of 30 
+something like $3 a share. These ships also have active market of being bought 
+and sold. For example, Clarkson’s was a publication. I could look at what the 
+distressed selling price of these ships was at that time, and if the entire 
+company just sold everything at a dist ressed price, they would get something 
+like $11 a share. It was trading at huge, 60, 70% discount or liquidation value, 
+mainly because there was fear, right? I mean, there's the kind of the midnight 
+of the oil shipping business, if you will. Now the other nuance, we talked about 
+mental models since we have some time, I'll just make this a little bit more 
+detailed. There's a friend of mine who is in the real estate business. He was 
+telling me that class A office towers in major urban areas normally take three 
+to five years from the time someone thinks about them to the time they're 
+ready, it takes a long time. Usually what happens in the real estate business is 
+that when occupancy gets really high an d vacancy is very low in these class A 
+towers, everyone and their brother plans to build them. But the thing is, it takes 
+three to five years to build it. By the time they get built, they all hit the market 
+at the same time, and then everything collapses. Iin these real estate towers, 
+you have this boom and burst cycle going on because they're like lemmings, 
+when everything's jamming, everyone in their brother is building and they all 
+come on the market at the same time. The VLCCs are very similar in the sense 
+that it takes a couple of years, two years, three years to get a VLCC built in a 
+Korean shipyard. Usually, when the ra tes are really high, 80,000, a hundred 
+thousand a day, everyone in their brother places orders. What happens is that 
+on a $70 million VLCC, you can place an order by giving them 2 million or a 
+million. You don't have to put up a lot of money, just, it's like ordering a model. 
+$ 3 , 0 0 0  g e t s  y o u  m o d e l  t h r e e .  O n  t h e  o t h e r  s i d e  w h e n  r a t e s  g o  t o  1 0 , 0 0 0 ,  
+nobody wants to place orders, there no what is being placed just like there no 
+towers being built. What happened in the VLCC market is when these rates go 
+to like 10,000 scrapping in creases because they can scrap the ships, the old 
+ships, and get a lot of instant cash from the steel value. What happens in the 
+VLCC market is that when these ships,  there's lot of these ships, there's 
+excessive scrapping taking place, but when those ships get scrapped and then 
+the demand comes back up, you cannot instantly have more ships. The only 
+thing that happens is the price changes. I bought Frontline, I just wanted to 
+capture the liquidation value spread. I boug ht it at three, $4. It eventually got 
+up to, as the rate started going up, it got up to eight or $9, it was still built 
+liquidation value. I sold the stock. I think in six months I doubled my money or 
+whatever else. But then, the second part, which I missed, came to bear, which 
+is there weren't enough ships rates went to a quarter million, they're sitting 
+there with 40 ships, and eventually the stock was a 200 to one. If I had been 
+like Sanjay and I just put 5,000 there an d just, gone away, that would've been 
+the thing to do and such, so I think that that was a case of very low risk and very 
+high uncertainty because of those dynamics. If one is kind of a student of these 
+things you can find these kinds of weird things in different industries and it's a 
+fun hunt when you find them to look at them and such. That's what I would 
+suggest we had. Yeah, go ahead. 
+  
+Page 23 of 30 
+Michael: I’m Michael, an undergrad here at Palm Mirage. You've been talking about this 
+for the past hour but you've been stressing a lot about the importance of 
+patients even when the market is do wn. But in your experience, have you 
+witnessed like any historical indications that continue to repeat during your 
+career that prompt you to not exercise patients, to actually act? 
+Mohnish: Well, I think this is a business where you have to combine extreme patience 
+with extreme decisiveness. It's kind of a weird combo, but what you need is an 
+ability to sit there long period, do nothing, and then when the opportunity is 
+there and it's obvious, you act in size. You really have to have the two together. 
+I think that's why, to some extent, I think that it may be difficult depending on 
+genetic makeup to completely reprogram someone. To some extent someone 
+has to be predisposed to some of these traits. Then I think you can build on it 
+from there. That's what I would say that you just need a combination of the 
+two. One of the reasons I even like to give talks like this is that it helps reinforce 
+me the importance of patients as I'm saying it to you, it helps me get better at 
+that. Patience and decisiveness need to go together. It's not easy. I mean, I 
+think the thing is that you've got to have this, extreme action at one point in 
+time with no action for long periods of time. That's just a difficult combination 
+to put together. But that's what is required. 
+Keio: Hi, I'm Keio Beverly MBA student at  the Palm Mirage School. I was really 
+intrigued by hearing that every day you receive a few tips sometimes from 
+people you've never had interactions with, as someone who's not employed in 
+the investment industry and someone who's just starting to kind of begin their 
+career with personal investment. I was wondering if you had any tips for a way 
+to kind of broaden my network to meet people who are investing to kind of get 
+more information and kind of bounce ideas off of people? 
+Mohnish: Well yeah. I think one way you could do that is you could reach out to people 
+with perhaps your write up of your best idea and say, Hey, if you find this of 
+interest, we could chat, et cetera, and take it from there. But I mean, I think that 
+some ways to broaden the network might be to go to places where some of 
+the like-minded folks hang out. I don't know if you've been to the Berkshire 
+Hathaway annual meeting in Omaha, I would say that's a good place to go and 
+get early in line, because usually the people around you, or even in the airplane, 
+I think most of the people will be heading there, or Professor Yang attends the 
+Daily Journal meeting in February. Usually that's another good place to go that's 
+local. I'd say that there's a few places  where the groupies hang out. There are 
+some message boards, and I think some of the message boards also have 
+people who meet up. I think there's one called the corner of Berkshire and 
+Fairfax is a message board, and so sometimes people on the message board 
+will meet. Yeah, I think that in this day and age, you've got a lot of digital tools 
+at your disposal that can get you to some groups online, and then you can take 
+that further from there.  
+  
+Page 24 of 30 
+Ken: Hi my name's Ken. I'm undergraduate student at Palm Mirage. I just have a 
+quick question about which you keep the same investing strategy and the 
+president Donald Trump’s administration, and how would you adjust that? 
+Mohnish: Yeah, that's a great question. Actually, the good news with the US is our 
+presidents have very little power. In th e entire history of the United States 
+we've had a lot of pathetic presidents. We probably had more pathetic 
+presidents than great presidents because you think back yourself, who are the 
+great presidents? You probably might not even get to all the fingers on two 
+hands. I'm not necessarily convinced President Trump is not going to be a good 
+president. Time will tell. But I would just say that I don't make investment 
+decisions. I don't think I've ever made any investment decision based on who's 
+in office. I think quite frankly where Dahan flower is trading in Korea has nothing 
+to do with who's in power. It has no relevance or where frontline is trading or 
+any of these other dynamics. It has really got nothing to do with who's in power. 
+I've never made investment decisions, and I think it's a stupid idea to make 
+investment decisions based on who's in power, especially I think given our US 
+system of those strong checks and bala nces, I mean, there's natural tendency 
+to inaction unless a lot of parties agree. We've seen that over eight years in the 
+Obama administration. We are seeing some of that right now, and some of that 
+is a negative way sometimes we do need action. But the remarkable thing 
+about the US is that, at specific points in time when everyone needs to come 
+together, like during the financial prices and different things and stimulus and 
+all that, they magically happen to actual ly agree and do a few things, which is 
+great. I would say it's generally a mistake to spend time. Actually, one of these 
+kind of peculiar human traits is that everyone seems to spend too much time 
+on the nuances of President Trump. It's probably entertaining to spend that 
+time but quite frankly that is not going to help your net worth. 
+Student 7: I heard you mentioned the passing about the one word over lever or leverage, 
+and I know that's a very dangerous word when it comes to investments. Can 
+you share a little more on that and whether it's ever a good idea to use leverage 
+to invest? 
+Mohnish: Yeah, I would say the short answer is probably a good idea to avoid it. I do know 
+that, even someone like probably Charlie Munger used leverage in the very 
+early days probably has no desire to use it at this point, or even for the last 
+several decades. I think the simple answer is that, it's probably best I mean, 
+they can be situations where leverage may make sense but I would say that if 
+one never used leverage, that would keep you out of a lot of trouble. I think 
+generally speaking, the thing about the power of compounding is, there are 
+really three elements that  control what your end number ends up being. One 
+is; the amount of money you start with, the second is your rate of return, and 
+the third is the length of the runway, right? The combinat ion of those three 
+elements gets you to the end result. Th e most controllable one of those three 
+is the length of the runway. Because the thing is, especially for most of you in 
+the room, if you are in your early twenties, you have probably a 60 or 70 or 80 
+  
+Page 25 of 30 
+on your runway and the important mental model there would be spend less 
+than you are. Even if you didn't get spectacular rates return, if you use the entire 
+runway length, you're going to get a spectacular end result. For example, this 
+was I think maybe a year ago, maybe 18 months ago, I had picked up my 
+younger daughter. She goes to school at NYU, and it was late at night, about 
+two o'clock in the morning, we were driving back from lax. I thought this was a 
+good time to explain the magic of co mpounding to her. She had just done 
+internship the previous summer, and she had made $5,000 that summer. The 
+IRA laws allow you to put all of that into an IRA, which I had asked her to do 
+and we had done. (Then I told her, I said, the thing is that your’e 20 for example 
+and actually she did that, I'm sorry, that internship was when she was 18). I said, 
+“you're 18, you got this 5,000. What is the value of this 5,000 when you are, for 
+example, 60, 65 or 70 years old, for example?”. I said, “let's say for example the 
+returns are decent. Let's say you're doing about 15% a year, for example. One of 
+the mental models is rule of 72 which is if you're doing 15% every five years of 
+money's going to double. If you go from 18 to 68 that's 50 years. If you're 
+doubling every five years, it's true to the power of 10”. My daughter's falling 
+asleep while I'm doing all this math for her. Two to the power 10 is 1024. You 
+throw away the 24 the 5,000 becomes 5 million tax deferred. At this point, she 
+was wide awake. I said, “ that 5,000 at 18 at 68 becomes 5 million. But at 19 you'll 
+do another internship, maybe make another five, 6,000, and at 20 you'll do 
+another one, and at 21 another one, and then at some point you'll graduate and 
+you might have some savings that migh t be even maybe more than 5,000”. I 
+said, “All of this is getting saved and invested. What is the net worth at 68?” She 
+said, It's too large. I can’t do the math. It's too large. The reality is that most 
+humans don't get there. Most humans don't get to these huge numbers at 
+those ages. Why don't they get there? Right? One is, when they leave their job, 
+they take the 401k and go on vacation. One of the 11th commandments, thou 
+shall not take the 401K and not roll it over. It’s very important. You can't screw 
+up the compounding engine. The actions required to get to very significant 
+sums without even earning that much m oney over a lifetime are very simple. 
+The first action is that you consistently spend less than you earn. The second 
+action is, even if you don't know investing, just put it in an index one and forget 
+about it. Even if you're not compounding at 15%, I mean, you can take the same 
+number and say, let's say a double comes in 10 years even that is, that is fine. In 
+a 50 year period, you'll get five doubles due to the five power of five which is 
+32. Again, when you start doing that every year with, with all the numbers, it'll 
+get too big number. That is the key, you don't need leverage. You need to be 
+aware of the fact that there are magical properties to compounding and there 
+are negative magical properties to compounding if you borrow at high interest 
+rates. If you have credit card debt, then the whole process is working in reverse, 
+which is terrible. Don't have credit card debt, pay off the credit cards, always 
+spend less than you earn and start very early. If you lose in your twenties and 
+you start compounding in your thirties, that's a massive loss. That's a lot of lost 
+opportunity. I think you really want to get started very early. 
+  
+Page 26 of 30 
+Student 8: I have a really quick question. You're saying that we shouldn't leverage, but let's 
+just say we are a college student and we're just starting off investing, You 
+probably start off with like 10 grand, less than a hundred grand when you start. 
+The problem is if you want to trade, let' s just say three times on a daily basis, 
+you probably get hit with a T 90 and you can't trade after that. Then if you want 
+to do options, you can't do options because you have to open a margin account 
+and then you can't provide safety. When we can't lever, because we don't have 
+enough money, then how can we really invest if we have to wait for stock at 
+the lowest price in order to see it rise up to the top? Like you were talking about 
+frontline communications at $5, it amplified all up to 200, and then you have 
+straight through comp or Straight Path communications, the same exact thing, 
+$5 that also I guess, amplified to $200 over the Verizon trade. I'm just kind of 
+curious for people who don't have as much cash flow, how do you go about 
+investing when you have so many constraints that block, I guess small value 
+investors? 
+Mohnish: Right? Well, I don't know where to begin with your question, because we can't 
+have an option account, we can't have a margin account. We got to get all that 
+vocabulary out of our system. I mean, I would say if you invert, Munger says 
+many problems get solved by inversion.  How many rapid traders are there in 
+the Billionaire Club? What percentage of Rapid traders made it to the Billionaire 
+Club? The flip side is how many people who concentrated or did kind of one 
+thing for a long time made it to that club, for example. I think that the important 
+thing is that to be patient and not be in a hurry I mean, I just pointed out that 
+my daughter has 5,000, she makes nothing more for the whole life, earns 15% a 
+year, which is every five years is doubling. She ends up at 5 million. If you had 
+10,000, you don't need heroics to get to great numbers, you need patients. 
+What I would suggest is that, take the patient route and that might be the way, 
+but definitely I think that some of the path that you might be contemplating 
+the problem with those paths is that, you have high probabilities of blow ups if 
+you're levered or you're using options and all of that. The returns look great but 
+so is the risk. What you really want is low risk and high returns that kind of gets 
+to high risk and high return. Probably best to look at another way of doing that. 
+Dave: Hi Mohnish, this is Dave Mine. I have two part questions for you. An owner 
+operator of insurance companies and the age of autonomy autonomous 
+vehicles is dawning, if you are an owner operator of insurance company, would 
+you start an insurance business? Number one. Number two, as a shareholder of 
+auto companies, at what point do you consider exiting the positions of your 
+auto company considering that there's ride sharing platforms coming of age 
+and so forth? Thank you. 
+Mohnish: Yeah, I didn't get the question about the insurance company. 
+Dave: The first one was, if you were to start an insurance company, would you start 
+an auto insurance company? Oh yeah, sure. Of the autonomous vehicle? 
+  
+Page 27 of 30 
+Mohnish: Sure. Yeah. I think the auto insura nce well, that'll be a pretty competitive 
+market to try to go into with all the players out there. We'd have to have some 
+mousetrap that has some advantage. I'm not contemplating starting auto 
+insurance companies. I think that'd be difficult one, unless you came up with 
+probably something, like pet insurance has a better runway than auto insurance 
+is my guess. But I would say that the autonomous driving and all the different 
+facets of ride sharing and such one of the things that happens with all of those 
+different formats of transport is that miles driven or miles travelled per human 
+are going up because of the flexibility and ease of the different options. For 
+example, when I was an undergraduate student, you had a bicycle and options 
+for transport, very limited. But today, if you're a student, you have relatively 
+cheap options of Uber ride share, you can rent in general, miles traveled 
+increases. As long as the cost of mobility drops, miles traveled increases, it 
+becomes, so all of these I think, are tailwinds for auto companies because the 
+miles traveled increase, then eventually  you have more usage of automobiles 
+or more frequency of purchases where auto companies, I think face disruption 
+is when you get to autonomous where there's no driver which is the definition, 
+the industry definition would be level five driving, which is I get in my car, say, 
+take me to granny's house, and it takes me to granny's house and I don't do 
+anything. My best guess on that is that the vehicles that will eventually get 
+there are unlikely to be dual mode. Th ey may not have the ability to have 
+passengers or drivers and autonomous driving all in the same car, maybe 
+separate technologies that do that. The second is that there's a huge difference 
+between almost getting to full autonomy and full autonomy. For example, let's 
+say self-driving trucks, I think self-d riving trucks can happen very quickly 
+because I can get a truck to a highway with a driver and then get the driver out 
+of the truck in California and program it to go to New York, and it's all highway 
+driving. It's really be easy to write the code in the software and get the 
+autonomy on that. At the New York, at the last interstate, and again, a driver 
+can meet the truck and take it down to where it needs to be. The last mile on 
+both ends can be human and the rest of it can be automated. In trucking, it 
+makes sense because you have hundreds of hours in the middle, which is 
+autonomy. You can take a lot of cost out of trucking if you do it that way. The 
+ability to do that is imminent. That can happen. I think that when you're talking 
+about all the different multitude of last mile nuances that we face, for example 
+I'm in Michigan, I'm in the middle of a snowstorm, I can't see the lane markings, 
+I can't see anything and I don't know how much confidence I'm going to have 
+in sitting in the back seat of an autonomous car that is going to get me to 
+nirvana. I mean, you are starting to get to some issues. I think that in controlled 
+environments, we may get to autonomy without a driver maybe in five or 10 
+years in anything, to anything going anywhere, to anywhere, sitting in the back 
+seat of the car with no driver I think it's  very far away. I don't know if we'll get 
+t h a t  e v e n  i n  1 0 ,  1 5 ,  2 0  y e a r s ,  w e  h ave to see, because there are a lot of 
+challenges. Getting to 99% or 99.5% work ing is a big difference between that 
+and getting hundred percent. That last one or 2% is a difficult proposition. But 
+I'm not a techie. This is my best guess at what's happening. In the time scale 
+  
+Page 28 of 30 
+that we own auto companies none of these are relevant. What I mean by that 
+is, I have an investment in a company called Fiat Chrysler, and we invested in it 
+at a point in time where in a year or two, their earnings in a single year will 
+exceed what we paid for the stock. If I'm sitting on a cost basis of a P of one on 
+2018 or 2019 earnings, I really don't care  what happens in 2025 or 2030. I think 
+that from my vantage point, it may actually in the end, we don't know how it 
+shakes out, but in the end, all these different mobility options may end up being 
+tailwinds for the auto companies because they may end up increasing the fleet 
+usage on a global, I mean, if I look at my own usage, I use Uber, but I also use 
+my car. There are times when my car is more convenient than Uber. Sometimes, 
+when I'm in New York City, I use via, wh ich is great, sometimes Uber pool, et 
+cetera. It depends on the circumstance. I think that the fact that when people 
+say, none of us are going to own cars and we are just going to call cars when 
+we need them, we are ignoring habit and cultural aspects. The automobile is an 
+entrenched part of our culture. We eat in our automobiles, women put up 
+makeup in the automobiles, we do a lot of things in automobiles, and we've 
+been doing a lot of those things for a century, and it's a very personal space 
+that we are used to. I think that I find it unlikely that even in a world where every 
+car is autonomous, that humans will cease to own cars I think we still might 
+want that personal space and we might want to sometimes drive the car and 
+we might want it to be to drive us at times. We may see different combinations 
+of that. But it's very clear that if I take  an Uber from Irvine to LAX today, for 
+example, Uber X, it's like 60 odd dollar s. For example, if that same car didn't 
+have a driver, it might be 10 or $15 in cost, it would take the cost down a lot 
+because you'd be basically just gas and maintenance and amortized costs over 
+income. You would drop the cost a lot. If you made trips from Irvine to LAX be 
+very convenient at $10 door to door, you would increase usage quite 
+significantly. Demand would go up. As we drop the price of mobility so, how 
+did mobility prices drop in the past? We  had public transport, right? I mean 
+buses and commuter trains and all of that. That has some convenience, it has 
+some negatives. As you get these wide range of different options, ride sharing 
+cars by the hour and pooling and autonomous and such I think that miles driven 
+by humans with skyrocket. One way to play that, which is probably better than 
+the auto companies is the no brainer way to play that is the tire companies. No 
+matter what happens with the trajectory that we are on from 2017 to 2035, 
+there is no question that every year from  now there'll be more tires sold than 
+the previous year because miles driven ar e going to go up and especially with 
+let's say electric cars, electric cars always trying to reduce their weight. They 
+make the tires really thin because they  w a n t  t o  m a x i m i z e  t h e  d i s t a n c e .  T h e  
+electric car tires burn out much faster than the normal tires. That's even better 
+for the tire companies. The way to play this, in my opinion, is the tire companies. 
+Then, I found just like the person who sent me the idea, which was 10 x, another 
+very nice human sent me a tire comp any and God bless him. This entire 
+company was at two and a half times ea rnings. I didn't have to think much 
+because at two and a half times earnings in a market that's growing, we love 
+that. The problem is, it trades by appointment. It's very thin volumes obscure 
+  
+Page 29 of 30 
+company, you guys have probably heard of it. But the thing is that, in a 560-
+million-dollar fund, I sometimes get a thousand dollars of the stock. Sometimes 
+I get $2,000 in a day, sometimes I get zero. But I've been nibbling, I'll just 
+continue to nibble. Now I think we've got about $4 million so far, but we just 
+keep nibbling at it and see where we can get. I'm excited about that one. 
+Yang: We’ll take the last question over there. 
+Speaker: Hi I'm an MBA student from South Korea, and then you talked about South 
+Korea to South Korea. The stock market is relatively cheap now. 
+Mohnish: You have a huge advantage. 
+Student 9: Yeah, and highly discounted now. What do you think the main reason is for 
+that? Then do you think someday it's going to be recovered from that 
+discounted price? 
+Mohnish: I thought maybe you would educate me on that. 
+Student 9: I just want to know what you’re thinking. 
+Mohnish: Well, I'm not an expert on the South Korean market. I think the one part which 
+I think is kind of an irrati onal part of the market is  the Korean preferred. The 
+Korean preferred basically are economically like the normal common stock. The 
+only difference is the voting rights are not, I mean, according to what we have 
+little or no voting rights, but usually for many of them, the economics are the 
+same, but in many cases, they are trading at half or a third of the equivalent 
+common. One simple thing to look at is perhaps a basket of the Korean 
+preferred Korean. Korean preferred stocks , like let's say for example, Hyundai 
+Motors, so you can buy the Hyundai Motors common stock, but you can also 
+buy the Hyundai Motors preferred stock. If you pull up the stock prices and 
+charts on the two of them, there's a huge difference. The difference should not 
+exist, or the difference should be very small, because the only difference is 
+voting rights. In an efficient market, I mean let me take the example of Google. 
+Google has two classes of stock, one close at 990 or something today, and the 
+other one closed at 970 or something. One has more voting rights than the 
+other. The difference is 2%, for example in this case, the difference is huge. One 
+of the reasons the difference is huge, I think, is because the Korean people kind 
+of look at the preferred with some disdain because they came out during the 
+crisis, and it was part of the bailout s inside. There's a taint to them. My 
+understanding is in the taint to them when the local Korean population looks 
+at those preferred. I think you may be in a better position to understand why 
+Korea trades where it does. Part of it is, there's a transformation going on right 
+now with the tables and the power, and I mean there was a lot of abuse in the 
+past, some of that getting cleaned up. Pa rt of it may be the person 40 miles 
+north of Seoul, there are some issues there. But I would say that's a good 
+hunting round. I'd say South Korea, especially amongst the preferred, the small 
+caps and such. I think there's some very  good value there. I find the South 
+  
+Page 30 of 30 
+Korean situation kind of peculiar because when I look at… I was recently in Seoul 
+when I looked at the price of the real estate and it's ridiculous. I don't know of 
+any place in the world that is as expensive as, like I was looking at that piece of 
+land Gun Gangnam that Hyundai bought. I mean that's incredible. On the one 
+hand, you have one particular asset that is very highly priced which is also 
+sitting 40 miles from the DMZ. But other assets in that same area are mispriced 
+in my opinion. It's kind of interesting to see that, but I think that you have some 
+advantages. I would focus on your backyard.  
+Speaker: Okay, thanks.  
+Mohnish: All right. Okay, well thank you very much.  
+Yang: Round of applause.  
+Mohnish: Thank you. Hang on to these, they might have some value in the future because 
+this was what happened to those 60 million that never got cash. 
+Yang: Okay. Thank you all for coming. 
+ 
+  
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not inte nded 
+to be, financial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not be suitable for you, 
+do not take into account your particular investment objectives, financial situation or needs and are not intended to provide investment 
+advice or recommendations appropriate for you. Before making any investment or trade, consider whether it is suitable for you a nd 
+consider seeking advice from your own financial or investment adviser. 

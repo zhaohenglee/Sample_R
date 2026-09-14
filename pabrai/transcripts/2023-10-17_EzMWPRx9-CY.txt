@@ -1,0 +1,612 @@
+  
+Pg 1 of 14 
+Mohnish Pabrai’s Talk at the YPO Waterloo Austin  
+on October 17, 2023 
+ 
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not intended 
+to be financial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not be suitable for you, 
+do not take into account your particular investment objectives, financial situation, or needs, and are not intended to provide 
+investment advice or recommendations appropriate for you. Before making any investment or trade, consider whether it is suitable 
+for you and consider seeking advice from your own financial or investment adviser. 
+ 
+Pradeep: We have a special guest, Mr. Mohnish Pabrai, to kick off our LDR this year. 
+Mohnish is a highly respected value investor. He's an author. We have his books 
+here. He's a philanthropist (I'll talk about that in a bit) and the founder of Pabrai 
+Investment Funds. Mohnish is a YPO gold member in Austin. He's originally 
+from California. He transferred when he moved to Austin in 2021. He started his 
+entrepreneurship journey in 1991, when he borrowed heavily on his credit card 
+debt, almost $75,000, and completely borrowed from his 401 K to start his first 
+IT consulting business. He grew that to 20 million and sold it in 2001 during the 
+dot-com bubble to a company called Salmon Associates. He’s a hustler. He's a 
+salesman. He’s a founder. Today, he’s a managing partner at Pabrai Investment 
+Funds. He modeled it on the Berkshire Hathaway and Buffett partnership model 
+of 1960, which he shut down in 1970 if my memory serves me right. However, 
+the most meaningful thing about Mohnish is he's a philanthropist. In 2005, he 
+started the Dakshana Foundation. Without much further ado, let's welcome 
+Mohnish Pabrai. 
+Mohnish: It’s so great to be here and thank you for having me. It's always a pleasure for 
+me to speak to YPOers. This is my 27th year in YPO. I used to have a head full of 
+hair when I first started, and gradually that all went away. As many of you 
+probably know, the more you are engaged with YPO, the more exponential, and 
+the payback. It changed my life in more ways than I can count. It's been a great 
+organization and a great journey for me with tremendous lifelong friendships.  
+I'd like to start with a story. We'll talk about two or three stories and then we'll 
+see what you guys want to talk about after that. In 1626, there were some Dutch 
+settlers on what we know today as the island of Manhattan. The Indian name 
+for it is Manahata. They kind of tweaked it to Manhattan. The Dutch wanted to 
+buy the island from the Native Americans. They had a guy, their negotiator, 
+Peter Minuit. They sent Peter to make a deal with the Indians, and the deal was 
+done for 60 Gilders which was about $24 at the time. For $24, the Indians 
+handed over the rights to the island of Manhattan to the Dutch. When people 
+hear that, they say, “Well, the Indians kind of got taken,” because it was very 
+prime land and great natural harbors and all of that. But, if the Indians had a 
+trust officer or investment manager who was going to take this $24 and invest 
+for the benefit of the tribe, and let's say the guy wasn't that great, but could do 
+maybe 7% a year. We have something known as the rule of 72. Some of you 
+  
+Pg 2 of 14 
+might be familiar with it. The rule of 72 is a very easy mental way to understand 
+how long it takes for money to double. If I have a 7% rate of return, I can just do 
+72, divided by seven, it's approximately 10. You would just say it's 10 years. If I 
+was, for example, getting a 10% return, if I do 72 divided by 10, it's seven. It 
+works well for a pretty large range of percentages. It's a good back-of-the-
+envelope way to understand what different interest rates will do in terms of 
+building wealth over time. If the Indians were getting a 7% rate of return every 
+10 years, that money would double. In 1636, it'd be $48, and in 1646 it'd be $96, 
+and we'd keep going. Now, if you do 10 doubles, that's two to the power of 10, 
+so 10 doubles would take a hundred years. Every 10 years we are doubling. If 
+you go for a hundred years, that becomes two to the power of 10, and two to 
+the power of 10 is 1024. Because we want to keep the math simple, just throw 
+away the 24. Ten doubles at 7% means that whatever you started with, you 
+would have a thousand times that. If you start with $24 in 1626, then by 1726 it's 
+24,000; it's 1000X because of that 7%. In 1826 it's 24 million and in 1926 it's 24 
+billion, and in 2026 it's 24 trillion. Now we are 2023, not 2026, so I'd say take 
+about 23% off; maybe around 20 billion. Twenty trillion is where if the Indians 
+had invested it, they would have about 19 or 20 trillion. Then, you ask, “Would 
+the 19 or 20 trillion be more than undeveloped land in Manhattan?” The entire 
+wealth of the United States, every man, woman, and child, everything we have 
+is about 150 trillion. It's unlikely that just undeveloped land in Manhattan would 
+be one-eighth of that. That's not likely. We've got plenty of other things in the 
+country.  
+There's another way to kind of do this. Manhattan is about 626 square miles. 
+Convert that to square feet. Today, if you were buying prime land in Manhattan, 
+you'd pay about a thousand dollars a square foot for it. This works out to 
+something like 32,000 a square foot. The Indians got overpaid at $24. The 
+screw-up was that they didn't invest it properly.  
+One of the things about compounding is that Einstein called it the eighth 
+wonder of the world. The reason it's the eighth wonder of the world is that we 
+are not used to thinking exponentially. We are used to thinking linearly, but 
+compounding doesn't work linearly. It works in a kind of a log scale. It's a simple 
+concept, but it takes some thinking to get around it.  
+If I take another story when Columbus sailed for America. In 1491, it was 
+rumored that Queen Isabella was a great venture capitalist. She funded him 
+with $30,000 for the voyage. If we leave inside the psychic benefits of finding 
+a new hemisphere, people will say, “Well, that was a tremendous return on the 
+30,000 that found the Americans.” But if we take an even lower rate of return 
+than the 7%, let's say that 30,000 was on a 5% rate of return. If we take the rule 
+of 72, 72 divided by five is approximately 15, so the money would double every 
+15 years. From 1491 to 2023 is 532 years. If we divide that by 15, it's approximately 
+35. What that means is that we had 35 periods where the money would double. 
+You start in 1491 with 30,000, and in 1506 you would have 60,000, and then in 
+1521, you'd have 120,000. You keep going. Two to the power of 35 is two to the 
+  
+Pg 3 of 14 
+power of 10, 10 to the power of 10,10 to the power of 10 times to the power of 
+five, right? If it's split up, that's a thousand times, a thousand times, a thousand 
+times 32. That's 32 billion. If you started with a dollar in 1491, you would have 32 
+billion today, but she gave him 30,000 and 30,000 at the 5% compounded. 
+That's about a thousand trillion. The entire wealth of planet Earth is 500 trillion. 
+Even Queen Elizabeth Isabella didn't get a great deal. She gave Columbus too 
+much money, and even though he found the Americas, he couldn't make it 
+happen.  
+There was a newspaper article a few years back where they said that there was 
+a janitor who worked at a college all his life with a very basic salary. People were 
+surprised that when he passed away, he had given $4 million to the college as 
+a gift. They all reported that it was a huge gift. This guy never ran a business or 
+did anything. The 4 million, because the journalists are not mathematically 
+astute, is not a big number. The number should have been much higher 
+because he lived a modest lifestyle.  
+When my younger daughter was 18, she got a summer job just before she 
+started college, and she saved about 5,000 from working in the summer. I told 
+her, “Listen, the law allows you to put the entire 5,000 in an IRA, and if you trust 
+me and you give me a power of attorney on that IRA, I can do some things with 
+it.” She agreed, so we opened an IRA, and she gave me power of attorney on 
+that, to manage that account. I told her, “Listen because you're so young, we 
+can concentrate very intensely. I could put it in one stock, for example.” She 
+went to school at NYU, so I used to pick her up in California, at one or two in 
+the morning and usually drive home 40 miles from LAX. I thought this was a 
+good time to teach her lessons on compounding. I told her, “That 5,000 that 
+you gave me. Rule of 72, you would double every five years and you're 18. What 
+would that money be at the age of 68?” I pull all these numbers out to make all 
+the math easy for me, from 18 to 68 is 50 years, and lo and behold, it's 10 
+doubles. Lo and behold, we know 10 doubles is 1000.  Then I tell her, “You start 
+with 5,000 and you're at 5 million at 68.” Suddenly she's wide awake and says, 
+“Whoa, how did that happen?”  I repeated everything for her, and I said, “But 
+you are going to be 19 and you're going to have another summer job. We hope 
+you'll also save some money and we'll put it in that IRA again, and at 69 there'll 
+be another 5 million, and now you're at 10 million. At some point, you're going 
+to graduate, and get off my payroll. That might happen when you're around 22 
+or something, and you might save 10,000 in a year, not 5,000. Maybe at some 
+point, you're saving 20,000.” Then I asked her, “When you are 70, how much 
+money are you going to have?” She said, “My head is about to explode. It’s too 
+big a number.” The janitor at the 4 million, we shouldn't be surprised. When you 
+look at the statistics of how much people have on average in IRAs when they 
+turn 65 or 70, or how much they have in 401 Ks, it's a pathetically small number. 
+For the country, if you look at the averages, The IRA average is maybe 150,000 
+or something. It's a small number for someone who's been putting money away 
+for their whole life.  
+  
+Pg 4 of 14 
+The reason for that is, if we go back to these dynamics of these rates of returns 
+and these runways, Buffett was asked one time, “Look, if a genie shows up and 
+the genie says, ‘Mr. Buffett, you're such a good guy, I want to give you any wish 
+you want,’ What would you say?  Warren says, “I only want one wish.” He says, 
+“When they look at my corpse when I'm dead, they should say, ‘Man, he was 
+old.’ He doesn't want to live a long time because he likes to hang out with us. 
+He just wants a very long runway of compounding, and that's all he cares about. 
+So in his case, his compounding journey started at the age of 11. By 12 or 13, he 
+had figured out the rule of 72 and compounding and all of that. He was born in 
+1930 and he just turned 93. He's been running that compounding engine for 82 
+years. He ended up the richest person in the world quite a while back, but he's 
+been giving away a lot of his money; he gives away 5% of the total for quite a 
+few years that's been going on. If Warren had not given away any money and 
+just kept everything until today, he'd be the wealthiest guy today by quite a 
+distance even ahead of Elon and the LVMH guy. With compounding, three 
+variables come in, and that matters: the starting amount, the length of the 
+runway, and the rate of return. These three are interchangeable. What I mean 
+by that is that if I had 10 years and a 7% return, or if I had seven years and a 10% 
+return, the end number is the same in both cases because of the rule of 72. You 
+can interchange the rate of return with the duration, and you can get back and 
+forth on that. We have a lot of entrepreneurs here who've done very well and 
+are very successful. It's important to take something. I wish this event was not 
+with you guys. The problem is half your runways are gone. I'm talking to you at 
+the wrong time. It needed to be a YMG event. The YMG guys I can do something 
+with them. When you have a YMG event, let's have me back. 
+Crowd: Absolutely. 
+Mohnish: Because of this crowd, I already lost so much of the runway; it's useless. But the 
+YMG crowd, they're all going to live to over a hundred and maybe over 110 or 
+120; a hundred-year runway. What could be more orgasmic than that? That's 
+the ultimate situation. If you have a very long runway, like Queen Isabella or the 
+Indian, then obviously very small amounts to start with, and even relatively 
+small rates of return end up with a large number. But if you take a normal 
+human lifetime, our lifetimes, we start at let's say 18 or 20 or 22, and we go till 
+80 or 90 or a hundred. You get a 60 to 80-year runway that's a good size 
+because if you take the S&P, which is done about 9% a year for the last hundred 
+years, 72 divided by nine is eight. In the S&P, we are doubling every eight years, 
+and what that means is if you have a 60-year runway, it's like seven and a half 
+doubles. It's all about the number of doubles. That's all that matters here. So 
+seven doubles is 128, and eight doubles is 256, so seven and a half, maybe like 
+150. Whatever you start with, you have 150X where you end it. But since you're 
+adding to your savings every year, that number keeps increasing. It would 
+dwarf in many cases what might be a great exit at some point in your business 
+because the exit might come when you're 50 or something reduced runway 
+time whereas the savings have been going on for 30 years. Why people don’t 
+  
+Pg 5 of 14 
+end up ultra-wealthy is they get in their way. Charlie Munger, Warren Buffett's 
+partner, one of his best quotes is “Never interrupt compounding unnecessarily.” 
+What that means is, if you are in an index, we don't care about the market, we 
+just dollar cost average every month, the savings are going in and it's irrelevant 
+what's happening to the market or economy or whatever. We just keep on that 
+program. Most humans are not like the janitor. They're not able to stay with the 
+program. They are too smart for their good. Another thing about investing is it's 
+a very strange industry in the sense that the people who pay the lowest 
+frictional costs win. Rich people like to think that they have got some exclusive 
+guy, some fund manager, and some hedge fund guy. Very bad idea. That guy 
+will get rich skimming off the top. If you bought the Vanguard, you know, S&P 
+ETF, your frictional costs are five basis points, a year 0.05%. If you're at some 
+hedge fund or something, it's one and 22 and 20 or something. Most of them 
+after fees are going to be behind the S&P. Even a 1%, 2% or 3% delta in returns, 
+if the 9% goes to 7% or 6% over a few decades, will be a massive delta.  
+It's an interesting field in the sense that Joe Public has an advantage over the 
+YPOers because Joe Public has no access to hedge funds, and Joe Public is 
+forced to go to Vanguard and buy the S&P, and then Joe Public ends up ahead. 
+Please be like Joe Public. But the other thing is that don't be like Joe Public, 
+where Joe Public leaves his job and goes to Hawaii on a vacation with the 401 
+K before starting the next job. Don't do that. Never interrupt compounding 
+unnecessarily. When I started my first business, I was 25 and I pulled 30,000 for 
+my 401 k. That worked out in the sense that, in the end, the exits and all were 
+fine, but taking those tax-deferred assets into consumption is not a good idea. 
+Not to mention the penalties and all of that. My message to you is to keep it 
+simple; Vanguard S&P and a modest lifestyle, max the savings, and try to stay 
+healthy. The runway is long, but since you guys are mostly over the hill, focus 
+on getting this message to your kids. They still can be salvaged. We can do stuff 
+with them and maybe get them to get jobs when they're like 13 or 14 because 
+the IRA has no minimum age. You can start the IRA when you are three months 
+old, if you make the money. You must make sure they make the money. It must 
+be earnings from wages. Try to figure out some gig that they can work on when 
+they're like two years old and get the compounding started early. Let’s talk 
+about what you guys want to talk about. Thank you. 
+Pradeep: Thank you, Mohnish. Your speech reminds me of Charlie Munger’s saying,” Take 
+a simple idea and take it seriously.” Most of us forget the “taking seriously” part. 
+Having said that, we will start with the Q&A. I have one question, to begin with. 
+Why do we have to delay gratification to make our grandkids rich when we have 
+only one life? And why do we have to think about the scale where we are 
+making our grandkids trust kids when we can live and have a meaningful life 
+and a rich life where it's not just about wealth, but it's also about experiences, 
+relationships, and friendships? 
+Mohnish: Well, the good news is that since you're YPOs, you can walk and chew gum at 
+the same time. You don't need to delay gratification. You can gratify yourself 
+  
+Pg 6 of 14 
+all you want and still have a compounding engine running at the same time. 
+You don't have to make a choice. The other piece we didn't talk about here is 
+that large inheritances do more harm than good. One of the best exercises I 
+had in YPO and forum, around 20 years ago, is a eulogy exercise. Have you guys 
+done the eulogy exercise? You guys might be too young for that, but it's 
+coming. The eulogy exercise is coming. The exercise was, that we were on a 
+400 retreat, some beach in Mexico, and we were supposed to prepare this 
+before we left. The exercise was that yesterday you died and your best friend's 
+going to deliver your eulogy at your memorial service. Write the eulogy as if 
+you're your best friend and assume that you were one day shy of your 80th 
+birthday when you died. I did the eulogy exercise a few times, but at that time 
+I was 40. I knew what happened in the first 40 years. I had no idea what would 
+happen in the next 40 years. I had to kind of extrapolate and think, how many 
+grandkids do I have? What's going on and where am I living? We all sat around 
+a fire on a beach in Mexico, and we had about five or seven minutes each. We 
+each read out our eulogy with no processing in between, and then we all went 
+for dinner. The second part of the exercise was that if something didn't make it 
+into your eulogy, why are you spending time on it? This forces you to think 
+about what's important and what’s not important. We spend our time on so 
+many unimportant things. That was a powerful kind of message. One of the 
+things I took away from that exercise, I got from a guy who passed away 
+recently. Have you guys heard of Chuck Freeney? There's a book, which is a 
+good book to read. It's called The Billionaire Who Wasn't , and it's his story. 
+Chuck Freeney was a very successful entrepreneur. His first business was in the 
+duty-free shops. Those are like the 90% margin business. He made a few billion 
+dollars on that. Then he started General Atlantic Partners, which is a top-flight 
+venture capitalist fund. Chuck's objective was that when he passed away, he 
+wanted to pass away with zero. Over his lifetime, he gave away about 9 billion. 
+He also tried hard to give it away anonymously. In many places when he gave 
+money, they had no idea who the donor was. In most cases, like if he gave a lot 
+of money to Cornell, that was his alma mater, he made them sign contracts. 
+They couldn't disclose it was him and so on. Most of the giving was anonymous 
+in the end. He passed away about a month ago. In the end, he moved to San 
+Francisco with his wife. He had a rented apartment, and about six years ago, he 
+was left with 2 million. He was winding that down. I don't think he died more 
+than a few hundred thousand. Chuck's my hero. I like Chuck. I talked with my 
+kids a while back and I said, “The large inheritances are just not going to be 
+helpful to you.” Both are completely on board with it. They're not looking for 
+anything. I got divorced about four years ago, but what my ex-wife and I had 
+done is every year we used to max the gift to the kids, the UGMA accounts, and 
+the maximum gift you can give them, 17,000, whatever. Of course, I used to 
+invest in that and was very concentrated. They got a few million dollars when 
+they turned 18. The good thing with a UGMA is that you've got no lawyers; it's 
+an act of Congress, but the kids get full control at 18. I wanted them to have full 
+control at 18, because my perspective was that if my wife and I had not 
+transferred values till they were 18, trying to say, “You're going to get so much 
+  
+Pg 7 of 14 
+at 30 and so much at 40,” and all of that is nonsense. At 13 or 14, I told them that 
+when you get this money at 18, you can buy Ferraris, you can buy drugs, you 
+can do whatever you want, you have full control. In both cases, what they did 
+was at 18, they just turned it over to me to manage; they didn't touch it. My idea 
+was that this would take care of their college, but we were doing well, and we 
+could take care of their college, so the money never got touched. They're now 
+using it. My daughter's using it because she's an entrepreneur. The other one 
+didn't want us to support her. She wanted to pursue a PhD. She used that for 
+some of her beyond the normal graduate-level standard of living. They did 
+better than I thought they would do. I said, “Okay, you got the money, and then 
+what's left?” I like to play math games. I play bridge. I play blackjack. I play 
+compounding games. There are two games I'm playing. There's one game, 
+which is compounding money. I have about 900 million of other people's 
+money that I get overrides on, but I nicely get overrides. I have no management 
+fee. one-fourth, over 6% comes to me. My investor and I are on the same page. 
+They all like that. The thing is that there's a compounding engine, which I am 
+focused on, and then there's a giving engine. So far Dakshana, we've given 
+away about 30 million. I'm going to die on June 11th, 2054, and my objective is 
+to be down to a hundred dollars. We'll see if we succeed, but we're going to try. 
+There's one game of growing it and another game of giving it away. Also, I don't 
+want to give it to the Red Cross. I don't want stupid things happening with 
+money. One of the things about the giving has been, which worked out better 
+than I thought, is that it has very high social returns on invested capital. It works 
+well both ways. To answer your question, you can walk and chew gum. You can 
+enjoy life but don't plan on large sums. It's not a good idea. Next question. 
+Question: I'd love to hear more about your story, your background and how you got to 
+where you're now. 
+Mohnish: One of the things I've always tried to follow in life is that if on Monday morning 
+I'm not excited to go to work I do two things. Number one, I don't go to work. 
+And number two, I hit the reset button. That happened three times in my life 
+when I had to hit the reset button. Each time was going into the abyss, but it 
+led to greater growth. I was an engineer working at a tech company and getting 
+very bored. We had shipped the product, and they didn't have much for us to 
+do. I switched from engineering to international marketing within that business 
+company, a lot of learning and growth. Then again, a couple of years after that, 
+it was kind of plateauing out and I left to start my own business. That was the 
+second reset.  I heard about Warren Buffett accidentally in 94. I was 30 years 
+old at the time. When I read about him, I said there were a couple of big 
+epiphanies for me. I had never gone to business school or invested or bought a 
+stock or any of that. What surprised me about Buffett when I read about him in 
+94, because the first couple of biographies on him had just come out, is that, 
+the framework he was using to make investments is the same framework we 
+use as entrepreneurs. The framework for making investments in the stock 
+market and the framework I would use, for example, when I was running my IT 
+  
+Pg 8 of 14 
+business to figure out, where I want to invest the extra excess capital. I'm 
+looking at the highest return and lowest risk possibilities in the business. That's 
+what all of you are doing. Buffett has a quote, “I'm a better businessman 
+because I'm an investor and I'm a better investor because I'm a businessman.” 
+He had this very business approach to investing, which made a lot of sense to 
+me. At the same time, what I noticed was that I didn't know there was a hedge 
+fund industry, but I knew there was a mutual fund industry. When I looked at 
+the mutual fund industry, I saw that these mutual funds had hundreds of stocks. 
+They had like 80% annual turnover, and they were violating all these basic 
+framework rules of Ben Graham and Warren Buffett. It's strange, you kind of 
+have people who say, ‘I don't believe in gravity.’ Whether you believe in gravity 
+or not, it's going to affect you. I had a theory at that time that if someone who 
+had no investing experience applied Buffett's framework to investing that 
+person should do better than 90% of yoyos running funds. I had sold a small 
+portion of my business at that time. I had a million dollars after taxes and 
+everything. I said, “Okay, I'll take the million. I'll invest it in the public markets, 
+and I want to see what happens. I want to see what I can do.” It went well. In 
+five years, the million was 13 million. It was north of 70% of the year. I said, “Well 
+done, Mohnish. I knew you could do this.” I was more and more interested in 
+investing and compounding, less and less interested in running an IT business 
+with 170 people. My job turned into herding cats and so I said, “I don't want to 
+herd cats. I'm done with herding cats. I just want to sit in my room with zero 
+employees and just invest.” And so I called our forum moderate. I said, “My head 
+is all screwed up. I don't want to go to work on Monday. There's nobody to 
+resign to. I don't know what I'm supposed to do because I'm ready to hit the 
+reset button.” I had a nice session with my forum, and they said something 
+simple to me. They said, “You can own the business without running it.” I said, 
+“Oh, why didn't about that? That's a great idea.” They said, “Look put a smile on 
+your face. Go back to work for six months. Start a search for a CEO. In six 
+months or less, you'll find the guy. Hand over the reins and then go do whatever 
+the hell you want to do.” That's what I did. I left the business, a new CEO came 
+in and then about four or five weeks after that, he called me and said someone 
+wanted to buy the company. He had relocated from Dallas. My business was in 
+Chicago. I didn’t want to pull the rug out from under him, so I said, “I don't want 
+to do anything here that is disruptive to you. What do you want to do? What 
+would you like me to do?” He said, “Sell it.” All his options, everything was going 
+to west on change of control, instantaneous after four weeks of work. The other 
+beautiful thing was that the buyers wanted to lock him up. They wanted 
+nothing to do with me. They were going to give him a new deal, so he rang the 
+register after four weeks and got a new deal. Of course, he's saying, “Sell it,” so 
+we sold the business and the only thing they asked of me is they want to non-
+compete. They wanted to make sure that I was not going to enter the IT 
+business for around four years. I said, “Look, can we make it like 40 years and 
+we can add a few more million to the purchase price.” They said, “No, we just 
+want four years.” I tried to get some more money for them, but I knew I wasn't 
+going back to herding cats. That's the story. That's great. 
+  
+Pg 9 of 14 
+Question: How did you get a 13X of the million dollars in five years?  
+Mohnish: You saw the video, The Circle of the Wagons . Buffett had a quote this year, a 
+few sentences in his annual report. He said, “In 58 years of running Berkshire 
+Hathaway, most of my investing decisions have been no better than so-so. 
+They've only been 12 spectacular decisions.” If I look at the 58-year history of 
+Berkshire Hathaway, Warren Buffett, and Charlie Munger, these guys are like 
+the Gods of investing. They're good at what they do. The Gods of investing are 
+saying that they probably made more than 300 different investments over that 
+almost 60-year period. Out of those 300, only 12 mattered. It was like a 4% hit 
+rate. The other 296 were not losers. They perhaps flat-lined or did a little bit but 
+didn't move the needle much. Investing has this trait of where you see this new 
+business, you can get outsized returns. But the outsized returns are not going 
+to happen to every investment you make. If I look at Warren and Charlie, they're 
+so good at what they do. Four percent is a shockingly low number to do well 
+at, but the ones that they did well on those 12 decisions that moved the needle, 
+were just so spectacular. In that period when I had that 13X, there were 200 
+baggers, two stocks that went up 100X. In one case I had put a hundred 
+thousand and it became nine or 10 million. The other one was much smaller. 
+There was an overseas investment I'd made. It was only about 10,000, but that 
+was a 150X that became a million and a half. If you take out those two, it's just 
+ho-hum. One million becomes around 2, 3 million, or something. But if you put 
+those in, it changes. That has happened a few times. 
+Question: People who are running their businesses and betting on themselves every day, 
+one of the things that I remember Buffett saying a long time ago is, that he 
+knows what he is, but he does so much research, and wherever he is putting 
+his money, he more than any of us could ever spend that time or chosen to 
+spend time doing that. Your family members and we all had businesses that 
+were doing well and giving us outsized returns compared to the market, at 
+what kind of a ratio would you say, “Hey, you should take this percentage of 
+your net worth and just leave. Put it in S&P and just don't even think about it. 
+Then the rest of this, keep pouring it back into your business. 
+Mohnish: Well, usually the issue you're going to run into your business cannot absorb the 
+cash it generates at high rates that it's already generating. What I'm saying is 
+the invested capital that you have and the cash flows that are generating are 
+spectacular for many of you. If you were to put another 10 million in, you would 
+not get a return on that because the business cannot absorb it. In your case, 
+you're not in a capital-intensive business. Even putting a million in is hard. What 
+are you going to do? It's just difficult to spend the money in your case, or many 
+cases in my business, there isn't a choice of putting it in the business because 
+you're going to naturally see that. A simple rule I would use is if I'm not getting 
+a 20, 30, or 40% annual return by putting it into my business with a very low 
+risk, I'm not interested. Whatever the business can absorb at those types of 
+returns, it should take that. The rest index the rest, and you're done.  
+  
+Pg 10 of 14 
+Question: What was the hardest shift moving from operator to investor? Did you find it as 
+exciting, as rewarding? What was the hardest skill or discipline to develop? 
+Mohnish: Well, my forum in Chicago, there was an amazing retreat we had where we had 
+these two industrial psychologists who had come in and they interviewed us 
+all. They interviewed our spouses, our employees, and our friends, and did a full 
+360 on us. They gave us what I call our owner's manual. They cracked our heads 
+open and said, “This is who you are.” When they did that for me, they said to me 
+that they had no idea. That time I was still running the IT business. I was about 
+to leave the business. They said, “We don't even have any idea how you function 
+every day with all those people and all of that. You like to play games; you like 
+to play math games. You like to play single-player games. They said, “You're not 
+the kind of guy who is happy being in a soccer team where you are one of the 
+guys, and the outcome depends on the team.” I like to play games where the 
+outcome depends on me. They said, “The company you're running is just a 
+ridiculous mismatch.” When I described to them what I was just about to start, 
+a Pabrai Fund, they said, “This is perfect.” This was 24 years ago. One of them 
+became one of my original investors. I was telling him, “Listen, man, I haven't 
+done this before. You don't want to do this.” He said, “No, no, no, we'll do fine. 
+I looked in your head and I knew what was going on. It's okay.” When COVID hit 
+and we had to work from home, I found that I was more productive working 
+from home. I'm happy when I have no human interaction. I can deal with 
+humans in very small doses. After something like this, I need a long period with 
+no humans, to kind of get back to square one. For each of us, the answer is 
+different. But for me, I found working from home is better. I have an office in 
+Austin, I stopped going to work and it's so much better. I'm more productive. 
+Everything is great and all the tools are there now that we can do everything 
+remotely. From my point of view, I don't miss it at all. It's great. I don't want to 
+do anything else. It's good. 
+Question: One of the things you mentioned was this 4% success rate on big wins, a lot of 
+times we make investments in our businesses, and we must cut our losses. How 
+did you go about thinking about when you picked a stock or an investment 
+strategy? You say it's in 96%, not the 4%. How much time did you give it? What 
+was the thought process? 
+Mohnish: That's a great question. The best answer I can give is when it's obvious. You 
+don't want to be trigger-happy, but I would say in two or three years, the 
+writing should be on the wall. Once you own a stock, that's when you start 
+learning about a business. You don't know much about a business before you 
+buy it. It's only after you buy it. When it drops 50%, you become an expert at it. 
+You know it well. It is obvious because you would know. I don't think you want 
+to use the stock price to guide your decisions. But it would over time become 
+clear what the real economics and realities of the business are, and then you 
+can just take it from there. It's important. One of the things I try to do before I 
+buy anything is I want to be able to explain it to a nine-year-old in four 
+sentences. What's the thesis here? It can't be a spreadsheet. It needs to be four 
+  
+Pg 11 of 14 
+or five sentences that a nine-year-old is going to understand. I have a very 
+simple thesis. If as time goes on, those sentences are no longer applicable, 
+there's something flawed in the analysis I had done, then we need to move on. 
+But it needs to be clear before you go in. You have clarity when you are running 
+your business, you're investing, and some CapEx, you have a lot of clarity about 
+what you're expecting that to do, and you need to have the same clarity on the 
+investing side.  
+Question: I love everything you're saying and it's so true. One of the things that you've 
+been touching on, whether it's sort of in your stories about your daughters or 
+you personally, has been sort of the golden cuffs, you're able to put around 
+either your compounding strategy or sort of taking the emotion out of like, I've 
+got to walk away from the SUSAR, or I'm okay doubling down and 
+concentrating and taking this much risk. I think that's one of the nuances that 
+just cannot get lost in the points that you're making. Like the janitor, I love that 
+story. You could have had more, you're right, but it was because he was able to 
+put that money away and not go to Hawaii. 
+Mohnish: Yes. 
+Question: What you articulated, what do you think about kind of the behavioral, and 
+financial aspects, you can cut your emotion away from the palpitations that 
+sometimes happen. What do you think about that? 
+Mohnish: For most of us, the answer is to just index. When you make the transition from 
+index to picking stocks, that is a huge leap. That comes with a lot of bells and 
+whistles and caveats and, thinking and whatnot. I would say that the amazing 
+thing about investing is that a know-nothing investor who just index spends 
+less than they earn, will end up winning the race. There's a reason why the index 
+works. If you look at the S&P, it has 500 stocks and 500 companies. When you 
+look at the individual names of these companies, they're very successful. That's 
+how they got on that list. They made some changes to the index. A couple of 
+companies might go in a year and a couple will come in, but for the most part, 
+it stays static. What happens is that the index is too dumb to know that it owns 
+Apple. It's too dumb to sell Apple. It's too dumb to sell Microsoft. It's too dumb 
+to do anything. What ends up happening, if you think about the 4% situation, is 
+there are a lot of companies in the S&P that will not do well, but those don't 
+matter. The thing is, it's got some that will do exceptionally well. It has NVIDIA 
+in there. It's going to have the full run of NVIDIA, which nobody else is going to 
+have. Everyone else will join that bandwagon after it's a trillion-dollar market 
+cap, but it was in there in the S&P at 20 billion or 10 billion. It just had that entire 
+run in the index. The index is very powerful because you have ownership of 
+some of the best businesses on the planet, and they're running and they're 
+doing their thing, and you don't think about it, and it is tax efficient and 
+everything. Like I said, there are three variables. One variable that you just put 
+away, the other variable is, spending less than you earn, you have more control 
+over that, and the runway starts as early as you can. That's it.  
+  
+Pg 12 of 14 
+Question: When you talk about the hundred, 200X investments, can you describe the 
+asset class that those were in? I say that because I'm typically the person that 
+people invest in to try to get a hundred, 200X. I'm just thinking about those 
+startups for those ventures, what type of investment has that profile?  
+Mohnish: I don't take risks. I'm not a risk guy. The things I invest in if I were in real-time 
+to tell my investors what I was doing, they would throw up all over the place. 
+Since you are not my investors, I don't think you're going to throw up, so I can 
+tell you. For example, five years ago, I started going to Turkey. I had a good 
+friend there who is a hardcore deep-value investor running a small fund there. 
+Turkey had had a lot of dislocation. It still has a lot of dislocation with currency 
+that's very unstable and mass exodus of foreign investors. I told my friend 
+Hyder, “I want to come to Istanbul, and I just want to visit the companies that 
+you have in your fund. Don't take me to any companies that you think are great 
+and this and that. If you don't have your money in those companies, I don't want 
+to see them.” I went to Istanbul, and I've been going every year since other than 
+the COVID year, but in the second trip I made in 2019, he took me to see this 
+company where the market cap was $16 million. As we were driving over, he 
+told me, “Mohnish, the liquidation value of the businesses is somewhere 
+between 600 to 800 million.” I said, “Is it a fraud? What's going on here? What 
+kind of people are running the place?” He said, “No. I have money in it. It's 
+simple. It's a REIT.” They rent warehouse space out and they're the largest 
+warehouse operator in Turkey. There are 12 million square feet of class-A 
+warehouses. Their clients are Amazon, IKEA, Carrefour, Mercedes, and Toyota. 
+Ninety-nine percent lease inflation, index leases, all of that. I met with these 
+guys, the father and son who run it. They looked perfectly fine, honorable 
+people to me. I went and visited the warehouses, they looked exceptional, 
+great locations. I thought that it'd be hard to get the stock because it's like such 
+a nano cap. Turkey is an interesting place because the local investors in Turkey 
+have a complete gambler approach to investing. Their approach to investing is 
+to buy a stock at 10 o'clock, sell it at three o'clock, and make 10%. That's their 
+model. Good luck with that. Buffett has a quote, “The stock market is a 
+mechanism to transfer wealth from the active to the inactive.” Like he said, it's 
+like playing bridge with someone who doesn't look at the cards. I thought, “If 
+I'm going to be buying companies from these types of people, this will be a very 
+fun experience.” I was very surprised. For $8 million, I was able to get one-third 
+of the company. The trading volumes are high in Turkey because of this. If you 
+take out what the insiders own and what the foreigners own, the floating stock 
+cycles every nine days; the entire company’s market cap cycles every nine days. 
+In the US it might be like one and a half times a year or something for most 
+companies or two times a year at the most. Every nine days is very hyperactive. 
+Anyway, we bought one-third of the company. For the last few years, I have 
+been visiting them and know them well. That 600, 800 million liquidation value 
+is now approaching about 2 billion. It's been about four years since we bought 
+it. The currencies collapsed. When I bought it, it was 5 liras to the dollar, it is 28 
+liras to the dollar. In dollars, the market cap now is 600 million. It’s still sitting 
+  
+Pg 13 of 14 
+at one-third of where it needs to be, but in Lira, it's an infinite return. From my 
+point of view, the father and son who run this are smart. They're very astute 
+capital allocators. We have no plans to sell that. Of course, the issue I run into 
+is that it's become such a large portion of some of my funds that I must keep 
+giving disclaimers to all my investors that, this is not the only investment we 
+have in Turkey. We had this type of situation in Turkey because there was just 
+a mass exodus going on, people leaving, and then the local market and all that. 
+I own the Coke bottler in Turkey, which bottles in about 12 countries. They also 
+own the number one beer business in Turkey, 55% market share. They have the 
+number one and number two market share in about 12 countries in beer, 
+including Ukraine and Russia. I paid nothing for those businesses. What I'm 
+saying is I'm looking for no-brainers. I'm looking for places where there is a lot 
+of irrational hatred and irrational behavior. Then we hone in on things that I can 
+explain in three sentences. So that's what we do. 
+Question: How much weight do you put on the macro? 
+Mohnish: Zero. 
+Question: Does the outside influence like the Vanguards and BlackRock’s on the S&P 
+concern you at all? 
+Mohnish: No, because the amount that's indexed relative to the side of the market is still 
+small. There are concerns with them about how they vote and things like that. 
+They have some influence, but I don't think it matters in terms of how the 
+investor's going to do. If you look at the total amount in the S&P versus the total 
+market cap, the S&P index versus the market cap of the 500 companies is a 
+huge delta. So, it's okay. If that number starts to converge, which I don't think 
+can happen, and it would take several decades to happen, then it would 
+become an issue. But not an issue right now.  
+Question: How much of your investment, if any, has been in private companies versus 
+public sectors? 
+Mohnish: It's all public because I cannot get these deals in negotiated transactions. 
+Private equity is a huge industry in the US, and it has a lot of headwinds, mainly 
+because there's too much money chasing. All of you will see that, anytime you 
+are looking to put your company for sale, it goes into an auction and then it 
+gets bought. Who's in the title business? You're in the title business, right? You 
+were talking about how at the peak, all these guys sold, right? At peak 
+valuations. That's when the sellers are going to sell. They can see the peak, but 
+the idiot PE guys can't, and it's other people's money that they're playing with 
+collecting fees. What do they care? I don't like to deal with private anything 
+because usually, I'm not dealing with someone stupid on the other side. I like 
+to deal with stupid people on the other side. 
+Question: We’ve got some good to take home. 
+  
+Pg 14 of 14 
+Mohnish: Thank you very much.  
+Pradeep: Mohnish has written a book called The Dhandho Investor . We bought a copy 
+for everyone. On the way home grab one, and get an autographic signature 
+from him. Another thing is we are donating to his cause Dakshana Foundation 
+from the YPO. Mark Schillinger $5,000 to be donated. 
+Mohnish: Oh, thank you very much. 
+Pradeep: Thank you so much. 
+ 
+  
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not intended 
+to be financial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not be suitable for you, 
+do not take into account your particular investment objectives, financial situation, or needs, and are not intended to provide 
+investment advice or recommendations appropriate for you. Before making any investment or trade, consider whether it is suitable 
+for you and consider seeking advice from your own financial or investment adviser. 

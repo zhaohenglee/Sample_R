@@ -1,0 +1,1273 @@
+Pg. 1 of 26 
+Mohnish Pabrai’s Talk at My First Million on March 27, 2025 
+ 
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not 
+intended to be financial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not be 
+suitable for you, do not take into account your particular investment objectives, financial situation, or needs, and are not intended 
+to provide investment advice or recommendations appropriate for you. Before making any investment or trade, consider whether 
+it is suitable for you and consider seeking advice from your own financial or investment adviser. 
+ 
+Shaan: Mohnish, welcome back for round two. 
+Mohnish: Shaan, it is always a pleasure. 
+Shaan: I want to start with something that I was reading in your book, and it is it 
+has kind of smacked me in the face. It said, “In investing, the small guy has 
+the advantage.” I love that because in everything else in life, it feels like the 
+big guy always has the advantage. Why does the small guy have an 
+advantage in investing? 
+Mohnish: Yes, if you think about it, a small guy is an exceptional investor. Picking 
+through weird anomalies, arbitrage, and other opportunities that are tiny, 
+they would compound capital at a very high rate. Very soon, they could not 
+play in that arena because that arena can maybe take a hundred thousand 
+or a million of capital. Once they get past a hundred thousand, a million, or 
+5 million, they have to seek out larger pastures, and they have to move up. 
+Because if you have a hundred million dollars of capital, you cannot put it 
+out 10,000 at a time. That is not going to work. But if you had a hundred 
+thousand, you could put out 10,000 at a time. When they go from a hundred 
+thousand to a million, five or 10 million, they have to leave the small space. 
+The small space now becomes open for the next generation, and the best 
+of the next generation come in and again, kind of hit it out of the park, and 
+then they leave it for the next generation. The very tiny opportunities are 
+always a fertile hunting ground. Buffett says that if he were running a million 
+dollars or $10 million, he would do 50% a year. 
+Shaan: 50, yes, and he did right at the beginning. 
+Mohnish: Yes, he was killing it. But when you start getting from 1 million to 10 million, 
+it changes a lot. From 10 million to a hundred million, it changes even more. 
+When you are looking at sums below a hundred thousand, that is the most 
+orgasmic space to play in because the entire universe is available to you, 
+and there are many opportunities where the returns are very high, but the 
+amount of capital that can go in is extremely tiny. Those would be the nooks 
+and crevices that the small guy would play in. 
+Shaan: Let us play a game. Let us say you are my investing coach, and I have 
+$10,000 that I want to turn into a million. The podcast is called “My First 
+Million.” That is a hundred x or a hundred bagger in your terms. What would 
+you be advising me? How would you coach me to think about that? How 
+would I take 10K and turn it into a million? 
+Mohnish: I would make some tweaks to your thinking first about the 10K. I would say 
+that the 10K is a good starting point, but what I also want you to do 
+separately from that is have a day job. I want you to spend less than your 
+Pg. 2 of 26 
+earnings. I want you to take the 10K, and I also want you to take your annual 
+savings. Maybe that is five, 10,000 a year or whatever it is. Normally, I would 
+say put it into an index. The index, like the S&P, is overheated. We cannot go 
+there right now, circa 2025. Maybe in 2035 we can, but not in 2025. What I 
+would do is I would treat Berkshire Hathaway as the index because they 
+have such a huge portion of the market cap in cash. 
+Shaan: What makes you say the S&P is overheated? 
+Mohnish: If you look at the MAG7 in terms of just trailing PEs and all of that, it is way 
+above the S&P long-term average. But even if you ignore the MAG7, look at 
+the 493 other stocks; they are also trading significantly higher than historic 
+averages. It is not just that. The tech portion, or the large techs, are 
+exceptional businesses, and they may well continue to do exceptionally well 
+for a while. But the thing is that when the multiples become high, it 
+becomes difficult. You hit a brick wall, and this is not the first time we have 
+seen this story play out. For example, in early 2000, three stocks were over 
+a 600 billion market cap. On the whole planet, there were only three stocks 
+over 600 billion. They were Cisco Systems, Microsoft, and GE, and we know 
+how that story ended. Cisco never saw that market cap again from 2000 to 
+2025. The company has done well, it has grown, and all of that, but it was 
+just too euphoric. Microsoft has also done exceptionally well. But from 2000 
+to 2015, 15 years, zero returns. It was not just zero returns; it went from a 
+600 billion market cap to a 200 billion market cap before coming back to 
+600. It was not pleasant. If you look at GE, we do not need to talk about that. 
+That just imploded; it never came back. In general, investing in the largest 
+market caps in a time of euphoria is not a great recipe for success. I would 
+not want to be all in on the MAG7 and say that is where I am going to be. 
+That may be pushing it, but I would say that compared to even the 
+remaining 493, I would take Berkshire with a 493 in the S&P. I would just say 
+the default currently is you put it, dollar cost average, into the Berkshire 
+class B shares, and you keep doing that day in, day out. The thing about 
+investing is that opportunities are not going to show up just because you 
+have the cash. There is a mismatch between when you are ready to make 
+an investment versus when the opportunity is there. Our plan A is just to 
+keep putting money into Berkshire. If we did that, the math is simple. Even 
+if we were doing 10% a year, which is pretty reasonable for Berkshire, 
+following the rule of 72, we would double every seven years. Life is all about 
+doubles. If we are doubling every year, and let us say we are a 20-something 
+guy with 10,000, and go for 50 years or 49 years, it is seven doubles, which 
+is 128. It is 128 times your money. I gave you more than a hundred x. I gave 
+you 128 x in 49 years without doing anything. This is just plan B, where we 
+put the 10,000 in, it becomes more than a million; 1.33 million with no taxes 
+paid, there is no dividend, there are no taxes, there is nothing. We have not 
+even gone to plan A yet. This is just sitting there. The other thing is that every 
+once in a while, there will be opportunities that show up. What we are 
+looking for is something that hits you in the head with a two-by-four. The 
+best investments are ones that make no sense. You cannot make sense of 
+the numbers. It is too good to be true. It is just weird when these kinds of 
+unusual things come together where things do not make sense, that is when 
+we want to dive in. 
+Pg. 3 of 26 
+Shaan: Give me a simple example (either from your own investing, a Buffett 
+investment, or a case study) of a great investment that does not make any 
+sense. The numbers just seem wrong.  
+Mohnish: I will give you one example where it was a money maker for me, but I did 
+not make even 3% of the money I should have. It was given to me on a 
+platter, and I blew it. I still made money, but I want to explain how the best 
+ideas, when you finally figure that out, are very simple. Around 2001 or 2002, 
+I encountered the shipping company called Frontline. It was a company that 
+owned a fleet of about 75 VLCCs, very large crude carriers. These are giant 
+ships that transport crude from countries like Saudi Arabia to the US. The 
+entire global fleet at that time was 300 VLCCs, and 75 of them were owned 
+by Frontline; 25% of the market. The guy who ran and was the founder of 
+Frontline, John Fredriksen, had put the entire fleet on the spot market. 
+There are two ways he could have dealt with his fleet. He could have done 
+one-year time charters, three three-year deals, where he is guaranteed cash 
+flows per day. Or be a gambler, put it on the spot market, and play it. He had 
+put the entire fleet on the spot market. These VLCCs have a cost with the 
+crews and all of that of around $15,000 per day to break even. At that time, 
+we had the Iraq War and different things going on, so oil demand fell a lot, 
+and there was not enough need for VLCCs. The shipping rates collapsed to 
+the point they went to 7,000 per day, so now you have Frontline losing 
+8,000 per day x 75 ships, and they are levered. The stock got taken out back 
+and shot around a 90% drop. Most of it was valid because when we are 
+making investments or when equity markets look at a company, they want 
+to see consistency of cash flows. They reward consistency of cash flows. 
+Here, what we were seeing was the consistency of losses. No one could tell 
+you when these losses abate. The stock was down to around $3 per share. 
+When I looked at it, I noticed two things. The first thing is that all that debt 
+was non-recourse. That debt was tied to individual ships. There was no debt 
+with the parent. If they defaulted on the debt of a ship, the bank could just 
+take the ship. They could not take the company; they could just take that 
+ship, like a car loan. The second thing I noticed was that there is a somewhat 
+liquid market to buy and sell these ships. Even when the rates went to 7,000 
+per day, the ships had dropped in price; a 25-30% drop from where they 
+used to be. What I realized is that if Frontline got into a crunch where they 
+were having cash problems, they could just sell three ships. If they sold three 
+ships, paid off the debt, they would have enough cash left over to keep 
+sustaining operations for six to nine months. They could sell three more 
+ships after that. I felt like there was no way the company was a candidate 
+for bankruptcy. The other thing is, I could look at the entire company and 
+say, “Okay, what if they sold all the ships?” If they sold all the ships, paid off 
+all the debt, you would end up with nine or $10 a share (you are at three 
+bucks), so you make three times your money if they just liquidated the 
+whole business. They were the arbitrage between the price of the stock and 
+the net price of the assets in a distressed scenario. I said, “Okay, we cannot 
+lose money here, and we are going to go buy Frontline. I put 10% of my funds 
+into Frontline because I just could not see a way that we could lose money. 
+Now, when these rates were at 7,000, what happened is that the scrapping 
+of ships skyrocketed. There are Greek ship owners who have one or two 
+VLCCs. They are 25- 30-year-old rust buckets. They send them to 
+Bangladesh, India, to be broken up, sold for scrap, get 10, 15 million out, and 
+go do something else with the money. The old ships stop getting rented 
+Pg. 4 of 26 
+because they are single-hulled. After Exxon Valdez, everyone wants double-
+hull ships. When the market goes weak, everyone wants to rent the double-
+hull ship because the prices are about the same, so all the single-hull ships 
+are getting scrapped. Now the fleet went from 300 ships to about 250 ships. 
+After a few months, the rates start improving, the oil demand starts coming 
+back up, the rates go to 15,000, then they go to 20,000; the stock is at 10 
+bucks. I sell my shares and tell myself, “Well done, Mohnish.” In eight months 
+or something. This was exactly what I thought. Rates then go to 300,000 a 
+day. At 300,000 a day, they are making something like 285,000 a day, times 
+75 ships. That number is like infinity. 
+Shaan: Yes. I was trying to do the math. 
+Mohnish: Just assume it is infinity, the stock goes up in the next three years, 80 x, and 
+here is stupid Mohnish. Patting himself on the back with the double. I did 
+not even get a double; I got around 80% return on my money, and that was 
+that. That was an example of where I did first-order thinking, but I did not 
+do second-order thinking. Buffett always says that the most important 
+question to ask in investing is, “And then what?” Whatever you think, then 
+ask, “and then what?” You keep asking that “and then what?” If I had been 
+so smart as to ask the question, and then what? You see that the rates are 
+terrible. You see the scrapping; you see that the fleet is going to shrink. Even 
+if oil demand does not come back the way it was, it is going to come into 
+balance eventually, and those losses are going to go away. Then you do the 
+next thing, which is that when oil demand comes back, it takes three to four 
+years to build one of these things. When the rates went to 30,000 or 50,000, 
+and all these guys can see that this is a great business now, well, when you 
+go to the Korean shipyards, who are now inundated with orders, they are 
+going to say, “Go to the back of the queue. I will give you a ship in five years, 
+and by the way, the ship is no longer 70 million, the new price is 120.” 
+Because they got more orders than they can handle. We had this dynamic, 
+if I had thought about it, that once the demand became tight, you could not 
+increase supply for at least three or four years. What is 285,000 times 75 
+times 1000 days? That is the minimum number of times, and that price is 
+not going to come down. It is only after three or four more years that ships 
+start getting delivered, and you start getting more balance and all of that. 
+But that is an insane amount of cash flow. As our friend Jim Cramer says, 
+“There is always a bull market somewhere.” If we are plan A Berkshire 
+Hathaway, plan B looking for anomalies, every so often (not very often), you 
+will find something weird. We have all the time in the world. We can 
+research something for three months. It turns out it is not that great, let it 
+go. We have Berkshire shell cracking. If you look at Warren Buffett, in his 
+2022 letter, he said that in 58 years of running Berkshire, there have been 12 
+decisions that have moved the needle for Berkshire stock. In 58 years, he 
+made more than 300-400 purchase decisions for stocks and businesses. 
+Out of 300 (if I take a conservative number, it is more than that), only 12 were 
+exceptional. He said there was one good idea on average every five years. 
+This is Warren Buffett, with a 4% hit rate. Great investment ideas are rare. 
+We are not going to run into them every week or every month, or every year. 
+Plan A, stick it in the index, plan B, keep running a Geiger counter over 
+everything, looking at different things. When something does not make 
+sense, drill down, and every so often, you are going to hit the mother lode. 
+When you find something that is a mother lode, you peel off 10, 15% of what 
+Pg. 5 of 26 
+you have in Berkshire, put it into that, let it play out, then put it back into 
+Berkshire. Just you keep doing that, and now your hundred x is going to 
+show up in half the time or less. 
+Shaan: I like that story. I have heard all these examples of whether it is Buffett, 
+Munger, or your investments that you have made that are interesting. But 
+what I do not know is the process. You tell me the story about these ships, 
+and when you explain it, I can see it just like you see it, “Oh, that is the 
+opportunity.” But the thing I do not get is why you are looking at crude oil 
+ships? How do I even know where to look? What is that process for you? Do 
+you pick one industry and look at a hundred companies in it? Do you read 
+books on 50 industries? Do you look at what other investors are doing and 
+try to reverse engineer? Where do you even know where to look? 
+Mohnish: I am going to lay it out for you. It is going to be so easy, but it takes a certain 
+temperament. First, I want to talk about the temperament. If we go back to 
+Warren Buffett, when he was a teenager, he used to go to the race track in 
+Omaha, Aksarben. He used to go to the race track, and one of the things he 
+did was, after all the races were done, he would pick up all the tickets that 
+people had left lying on the ground. These are mostly losing tickets. They 
+just toss them in the garbage cans. He would pull them all out, then he 
+would go home and, one by one, look at every ticket he would find. 
+Sometimes a horse would come in second, and the ticket was for win or 
+place. It was a winning ticket, but they did not understand that because they 
+were drunk or whatever. He would always find a bunch of tickets, which 
+were in the money, but they had been discarded. He was underage, so he 
+could not go to the counter to collect the money. He gave them all to his 
+Aunt Alice, his favorite aunt. She used to go to the counter, collect the 
+money, and give it to him. When Warren became older, let us say 24 or 25 
+years old, he went through the Moody's Manual. I have one with me here. 
+Let me show you while I tell you the story. For nostalgia, I bought it on eBay. 
+There were a number of these that came out. This, for example, was in 1953. 
+It was about railroads, airlines, and shipping. If I open the Moody's Manual 
+to any random page, what it is doing is it has got two or three companies 
+per page. The print is very fine; you need a magnifying glass. It gives you a 
+summary of every company. This is just one of them in 1953. There were 
+probably about seven or eight of these books that came out in 53. Similar 
+numbers in 54, 55, so on. You are talking about a big stack of these. He went 
+through these books two or three times. What he did was read each one, 
+page by page, and he was looking for anomalies. He used to host these MBA 
+students, and he brought them printouts from the Moody's Manual to the 
+ones that he made an investment in. He would find something like Western 
+Insurance, for example, where the stock price was 15 and the earnings last 
+year were 25. The stock is $15 a share, earnings are $25 a share, and book 
+value is $80 a share. That is what we call an anomaly. Hitting you by a head 
+with a two by four, makes no sense. He would make a list of all these 
+companies that made no sense in the positive direction. Then he would 
+study them, and make investments. In order for Warren to find Western 
+Insurance, he might have had to spend 14 hours a day nonstop reading these 
+for three months before he finds one or two of them, but he only needs very 
+few of them. Warren is a prodigy. His mind was programmed to have intense 
+work; the work never bothered him. Just like no other teenagers were going 
+and collecting all those tickets on the floor and then going through each one 
+Pg. 6 of 26 
+with the optimism that I am going to find something that is a free lunch. He 
+went through Moody's Manual  and started finding these anomalies. Then 
+started making investments in them and did well. Now we have a shortcut 
+because I know that your listeners are not going to do what Buffet did. I 
+cannot do what Buffett did. Even though I am I like what he does and I want 
+to do what he does. I do not have the wherewithal and the ferocious 
+intensity that Warren does. Almost no one does. He is just extreme anomaly 
+on that front. For example, there is a website called Value Investors Club. If 
+you go to Value Investors Club, it is free. You do not have to pay anything. If 
+you give them your email, you can see all ideas that are 60 days or older, 
+and if you do not give them your email, you can see all ideas that are 120 
+days and older. It does not matter because there is ideas and values versus 
+clubs that are 10 years old, 15 years old; it is very difficult to become a 
+member of Value Investors Club posting ideas. It is a curated website. The 
+members have to submit two ideas a year, which get a decent rating in 
+order to keep their membership. What I have found is the Value Investors 
+Club has a lot of brain power. It has brain power coming out of their years 
+and it is all free. All someone has to do is sit down and read the write-ups 
+on Value Investors Club. There are maybe 500 write-ups in a year. Each 
+write-up may be around 10, 15 pages max. Then there are comments. It is 
+much easier than the Moody's Manual  because someone is digesting the 
+information for you. It would be easy for someone without putting too much 
+work into it to read four or five ideas a day. They could have a full-time job 
+and easily do that. That is not a difficult thing to do. You do not need to read 
+the whole idea. What I would say is you read the first few paragraphs and 
+see if this is something that is interesting to you or not, or something that is 
+grabbing you or not. What I do is I look at every idea that is posted. I do not 
+care to look at them right when they are posted because those ideas will 
+work even five years from now. For example, recently, I started investing in 
+a company where the original write-up was in 2021. It is 2025 and it is still 
+valid. There is a lot of history of comments and I can look at what happened 
+to the business last few years. What I am saying is that the Value Investors 
+Club is a very good shortcut. What you still have to do is you should use it 
+only as an input to ideas. Just like the Moody's Manual is not telling you what 
+to buy and sell. Once you see the idea, you do all your own work, do your 
+research, do everything, make sure it is something you understand well, 
+make sure it is within your circle of competence, whether you buy into the 
+idea or not. There is a wide range of businesses, sometimes the same 
+business because Value Investors Club has now been around for more than 
+two and a half decades. Sometimes the same idea has been written up 
+seven, eight times. You can go and look at all of them. It shows you the 
+whole history of what has been happening with that business. If someone 
+is a student and wants to be like Buffett was in the Aksarben race track, the 
+Value Investors Club is a great tool. Buffett is still doing this. There is another 
+book called the Japan Company Handbook, let me bring it and show you.  
+Shaan: Okay. Sounds good. I am excited about this because you hear a lot about 
+Buffett's See’s Candies, Coke, Geico; those well-known Buffett's best bets. 
+Mohnish: Yes. 
+Shaan: But as I understand it, Buffett made some incredible investments in Japan. 
+Pg. 7 of 26 
+Mohnish: Well, the most recent letter he wrote, there was more than a page on Japan. 
+This book, Japan Company Handbook, the good news is it is in English. It is 
+like the Moody's Manual , except that it is two companies in a page; there 
+are four companies on two pages. The other thing is that it updates every 
+quarter. They publish this every quarter. It is on the Amazon website. Very 
+simple. You can go on the Amazon website or the Amazon Japan website 
+and just place an order and they will send it to you. Unlike Moody's Manual, 
+which is no longer published, this is something you can buy anytime you 
+want. Again, you do not need it every quarter. You could buy one of these 
+maybe every five years or something. What Buffett did with this is exactly 
+what he did at Aksarben. He just flipped through page after page. It was 
+maybe 12 or 13 years ago, Guy Spier and I were visiting Warren Buffett in his 
+office. We were not visiting Buffett; we were there to have lunch with his 
+assistant. Guy and I got to know his assistant Debbie well when we were 
+setting up the lunch with Warren Buffett. Debbie is awesome I told Debbie, 
+“Listen, it would be great if Guy and I could take you for lunch.” She said, 
+“Look, when you come to the Berkshire meeting, Fridays are crazy in the 
+office. All these celebrities are coming in. I cannot leave the office on Friday, 
+but if you come on Thursday, I can go to lunch with you guys on Thursday.” 
+I said, “We got nothing to do. We can be there on Thursday. No problem.” 
+We started going to Omaha. We would get there Wednesday night and then 
+Thursday we would meet Debbie for lunch. This went on for several years. 
+What I realized after a few of these was lunch with Debbie turned out to be 
+better than lunch with Warren because I would tell Debbie, “Debbie, 
+between us girls can we talk?” She would say, “What do you want to know 
+Mohnish, ask me anything.” I would get the most peculiar habits that Warren 
+had, like how he goes through his mail, how he does this and that; all these 
+different things. She would tell me exactly how they did things. One year 
+we were going to have lunch with Debbie and we go to Omaha, to the 
+Berkshire headquarters on Thursday. When Guy and I get off the elevator on 
+the 14th floor, Warren is standing there. I thought maybe he is going out 
+somewhere, but he had come to meet us. Think about a Fortune 10 CEO 
+coming out to the elevator to meet a couple of yo-yos, he does not even 
+have an appointment with. He tells me, “Would you guys like a tour of 
+Berkshire headquarters?” We were surprised. We said, “Warren, if you want 
+to waste your time giving us a tour, we are all in.” He takes us around, shows 
+us his coke fountain, and all the different stocks on the board and a lot of 
+paraphernalia there that he is going through, explaining a lot of history. Then 
+he takes us into his private office, and I see the Japan Company Handbook, 
+on his desk. I knew before I went there that Warren was into the Japan 
+Company Handbook, and I had just gone through it. I said, “Warren, I have 
+been going through this as well. Can I mark some of the ones that I believe 
+you can just go straight to instead of flipping every page?” He is very 
+skeptical of the whole thing, but he says, “Go ahead, Mohnish. Do whatever 
+you want.” I took his copy of that handbook and dog eared the pages that I 
+thought he should look at. I told him, “Warren, it just turns out that most of 
+the good stuff is at the back.” He said, “That is always the case. All the good 
+stuff is always in the back.” We went through that and I marked the Japan 
+Company Handbook. It was 2019, I believe, when he was starting to buy the 
+five Japanese trading companies. 
+Shaan: Do you know why he did that? Is he normally looking at different countries? 
+Pg. 8 of 26 
+Mohnish: Let me explain the total no-brainer nature of that bet. These five Japanese 
+trading companies had 8% dividend yield. They were paying an 8% dividend. 
+It was very cheap. Japan’s index has not gone anywhere for almost 30 years. 
+Warren got insane return on these. What he did is he borrowed the entire 
+amount in yen at half a percent a year. 
+Shaan: It was not a small amount. It was like 5 billion. 
+Mohnish: Yes. He put 5 billion, but he borrowed the 5 billion at half a percent in yen. 
+Now he has bought a Japanese company in yen, that is paying dividends in 
+yen. The dividend coverage is 16 times his interest payment. He put no 
+equity, and he is instantly making 7.5% on 5 billion, which is about 350, 400 
+million out of nothing. It is just coming to him. Now what happens is, 
+because these companies are sourced cheap, in about three or four years, 
+they all doubled in price. Now the 5 billion has become 10 billion. The equity 
+that went in is nothing, so it is infinite return. They all raised the dividend. 
+The dividend based on the original purchase price is about 15% and then 
+after that, what he did is he increased the bet. He was under 5% of all of 
+them. He is now approaching 10% on all of them. He met the companies and 
+said, “Look, I am obviously not an activist or going to take over the business 
+or any of that. Are you okay if I buy more?” They said, “It would be an honor 
+to have you as an investor.” He flew to Japan to Tokyo with Greg Abel, and 
+he is in a penthouse suite in a hotel in Tokyo. He is very old, past 90. They 
+came to see him in his room. They came one by one and he met all five 
+companies and then he flew back. What I am saying is that that bet is the 
+same as the Aksarben bet. It is the same as those bets with the Moody's 
+Manual, and he found it in here. 
+Shaan: Your core philosophy is, “heads I win tails I do not lose much.” 
+Mohnish: Yes. What I am saying is anyone could have looked at the Moody's Manual, 
+or the Japan Company Handbook . He viewed these companies as 
+companies like Berkshire, which they are. These are, Mitsubishi, Marubeni 
+and all these guys. They have been around for decades. They are very 
+exceptional businesses, great capital allocation, smart people, and pro-
+shareholder. Warren found mother lode where he could put 10 billion. This 
+is not even like something where you could put 10,000 or a hundred 
+thousand. This could accommodate 10 billion at spectacularly high returns. 
+It is a matter of how hungry are you? It is the same as any entrepreneur. 
+Anyone who starts a business, whatever, they got to go all in; intense 
+passion, 18 hours a day, all in very strong belief. It is the same thing here. If 
+you truly are focused on it, you can do very well. The universe is going to 
+conspire to help you with whatever your passion is. It is just a matter of 
+whether you want it. 
+Shaan: One of the things I find interesting is: Munger has this philosophy of 
+inversion. Instead of “Here is why we should invest in this,” you have said 
+before, he was looking for the 62nd answer of why not to invest in a 
+company. 
+Mohnish: Yes. 
+Shaan: I believe that if I am here today and I want to be a better investor, instead 
+of saying, “Here are all the things I need to do,” I should find what are the 
+things I need to not do? You have a list of some of these. For example, one 
+Pg. 9 of 26 
+of the do nots is, “Thou shall not use Excel.” This surprised me because I 
+thought it is a lot of modeling and advanced financial analysis, but you think 
+it is not that. 
+Mohnish: Let us look at Buffett's Japan investments. He has not turned on a computer 
+for investments ever. 
+Shaan: Did Debbie tell you that? By the way, does he use Excel? 
+Mohnish: He does not use Excel for sure. He uses his computer for Google and all that, 
+but he uses his computer mainly to play Bridge. Warren would not be caught 
+dead using Excel. The thing is that he is looking for things that hit you in the 
+head with a two by four. When he is going through a Japan Company 
+Handbook or the Moody's Manual, there is no Excel needed. What will Excel 
+help you with? When the earnings are $25 a share and the stock is $15, you 
+do not need Excel. When dividend deal is 8% and you are borrowing at half 
+percent, you do not need Excel. In fact, if you need Excel, it is an automatic 
+pass because it means that there is something complicated there, which is 
+not fitting in. Did I need Excel for Frontline? No, I did not need Excel for 
+Frontline. I look up the liquidation prices, the ships, and where the ships are 
+at. All these things are very basic numbers. You do not need Excel for it. 
+Recently I was talking to a friend of mine and we were looking at some 
+international stock exchange. This international stock exchange trades at a 
+trailing PE of around 30. It is growing at 15, 20% a year; very rapid growth. 
+60% of revenue is profit, and as they grow, that 60% might become 70% 
+because they have got operating leverage. If you just forward two or three 
+years, the PE becomes less than 10. There is no need for Excel. You can just 
+do it all in your head. It has got $10 of earnings today. It is going to have $12 
+a year from now, 14, $15 two years from now, maybe 17 or $18 three years 
+from now, stocks at 300. Now when you are at 18, you are already at a 15 
+multiple. You already cut it in half, but it is growing by that time. It should 
+be trading at even more than 30 times earnings. The stock may be at six or 
+700 by then. What I am saying is that if you cannot do the math in your head, 
+it is an automatic pass because that means there is something complicated. 
+Another important thing is you should be able to explain your thesis of a 
+stock in about four or five sentences to a 10-year-old. If you cannot do that, 
+it is a pass. You cannot sit down with a 10-year-old with an Excel 
+spreadsheet. They are not going to like you and they are not going to be 
+interested. Einstein used to say, “There are four levels of intelligence: smart, 
+intelligent, genius, simple. The highest level of intellect is simplicity. The 
+other thing about investing is that you have to have conviction. It is very 
+difficult to have conviction if you keep needing to go back and look at your 
+Excel model. You need to do it in your head. Buffett never needs to go 
+anywhere. It is in his head. He knows what the dividend yield is, he knows 
+what he paid, he knows what the yen is, he knows all of that. It is pre-
+programmed; you do not need to think about it. 
+Shaan: I have another one. In the “do not” pile, we have “do not use Excel” and “do 
+not overcomplicate.” It is what that means. The second is leverage. Do not 
+over leverage. Can you tell us that story about Rick? 
+Mohnish: Yes, Rick Guerin. 
+Shaan: What happened to Rick? What have you learnt from Rick? 
+Pg. 10 of 26 
+Mohnish: Warren, Charlie, and Rick Guerin used to do deals together. They were all 
+independent doing their thing, but they used to share ideas and sometimes 
+they would go in together. Rick Guerin was based in LA and he was good 
+friends with Charlie. We later became good friends with Warren. Rick found 
+blue chip stamps for them, and he also might have been the guy See’s 
+Candies contacted. After the early seventies, we never heard about Rick. He 
+kind of fell off the radar. When I met Warren for lunch, I asked him just a very 
+innocent question. I said, “Warren, what happened to Rick? It should be 
+three of you, and then we never heard from him after that.” Warren said, 
+“Charlie and I knew that we would get very rich and we were not in a hurry. 
+Rick was in a hurry.” Rick was always using some leverage. Then when the 
+73, 74 downturn came, that was very intense; it was a crash in slow motion. 
+Over a two-year period, the stocks went down more than 40, 50%. It was a 
+big draw down. Rick got margin calls. Warren said, “When he got the margin 
+calls, I bought his Berkshire Hathaway for $40 a share.” The stock that is now 
+700,000. Rick was forced to sell it at a time when it was probably the worst 
+time to sell. Warren went one step further because he is always trying to 
+add value of these lunches. He says to me and Guy, “If you are even a slightly 
+above average investor, spend less than you earn, and use no leverage, you 
+cannot help but get rich in a lifetime.” The same thing we went through 
+when we started at 10,000 to a million. We are not using leverage. We do 
+not even need to be above average. You do not need to be a genius, and if 
+something shows up on the radar like the Japanese bets or Frontline or 
+something else, you can make that bet, and that would hopefully help your 
+returns. But if you did not do any of that, you would still end up okay. What 
+happened later, which was funny, is that in 2009 I became friends with 
+Charlie and then I started playing bridge with him. Rick was his bridge 
+partner. We used to play bridge at the LA Country Club. Those are some 
+great years. We would always meet and have lunch in the dining room and 
+then we would go play bridge in the bridge room. I was sitting and the other 
+two guys had not shown up. I was sitting on a small table for four, and 
+Charlie and Rick were in front of me. I said, “You guys think this is just some 
+lunch. This is an iconic moment.” These two guys are amused. Some Indian 
+guy is a big fan of theirs. I said, “I cannot even imagine that this is true, that 
+I have Rick Guerin who I thought disappeared and he was such a fantastic 
+guy. I also have Charlie. You guys did all these deals together. Is there some 
+deal that you did that stands out; something interesting? Tell me about 
+some of the good times in the sixties when you were shooting fish in the 
+barrel after the water had been run out. They look at each other and Rick 
+tells Charlie, “Why don’t you tell him about the nurse?” Charlie says that Rick 
+found that there was a business where the owner had died. He was a kind 
+of crazy maverick entrepreneur. What this guy had done is he had invented 
+an additive fluid that you could put into your engine in your car, and it would 
+plug any leaks. You just put it in your engine, and if there was an oil leak or 
+something it would just seal it  up and it would not  interfere with anything 
+else. What the guy used to do is he would go to auto repair shops with his 
+gun, shoot a hole in his engine in front of them with his gun, then he would 
+pour his thing.  
+Shaan: Wow. What a salesman.  
+Mohnish: Yes, he was great. Crazy maverick. That is how he built sales. Then he has a 
+heart attack and dies. This guy was a great inventor, but the business was 
+Pg. 11 of 26 
+all upside down with a lever, this and that, a lot of issues. Rick told Charlie, 
+“We should take control of this company. If we take control of the debt with 
+the banks, we will own the business because equity is not worth any.” They 
+bought up all the bank debt at pennies on the dollar, but then there was a 
+twist. The guy had a mistress. The mistress was his nurse and his wife found 
+out after he passed away because he made the mistress the executor of his 
+will, and the wife was going to inherit the business. But the two women 
+were very upset with each other. The nurse, as Charlie was describing her 
+to me, was a blonde, large breasted woman. The guy had borrowed about 
+$80,000 from the wife's aunt in his business. What Charlie told the widow 
+is, “Look, we want to be fair to everyone. We want to pay your aunt the 
+80,000 full face value of the loan,” even though they are buying everything 
+at less. He continued, “We would like to have your blessings to move the 
+business to us so that no one is upset about it.” The issue was that the two 
+women were not interested in doing anything to help the other one, so 
+Charlie decided to meet the nurse at the California Club, which is a very blue 
+blooded place. He used to always go there for lunch and have his table. That 
+is where I met Charlie the first time. It is kind of a lunch club. He invited the 
+nurse to meet him for lunch so he could calm her down, smooth the 
+feathers, and get the deal done. She came straight from work, in a nurse's 
+uniform, which was about three sizes too small. Charlie said when he was 
+having lunch with her (a blonde in a nurse's uniform), the rest of the 
+members in that club thought that Charlie is meeting a porn star. They could 
+not believe Mr. Munger, one of their most distinguished members is having 
+lunch with a porn star. Anyway, Charlie said that he was able to smooth 
+things over, regardless of what all the members were talking about. He was 
+able to get the deal done. That was one of the funny stories. But these guys, 
+they had a blast together. 
+Shaan: What ended up happening to Rick? He did not get back into Berkshire, or he 
+did later? 
+Mohnish: He did later. Rick was an extremely good investor. Of course he had suffered 
+a big draw down and taking two steps back in 73, 74. But when he passed 
+away a few years ago, he owned most of the Daily Journal. I would guess 
+Rick was worth hundreds of millions of dollars. He was doing fine. 
+Shaan: One of the other “do nots” that I like is, you say something like, “Do not cut 
+your flowers and water your weeds,” which I believe is about diversification 
+and growing up. Diversification is the smart way to invest. Can you please 
+explain that? 
+Mohnish: If we go back to the comment that Buffett made in 2022 in the annual 
+report, that he had one good idea every five years, which is a total of 12 ideas 
+in his whole 58 years running Berkshire, the flowers are rare and the weeds 
+are caught. 
+Shaan: By the way, is he just being self-deprecating or is that real?  
+Mohnish: That is real. He has not had losers. He has not had many investments that 
+have gone to zero. There have been a few that have gone to zero. The one 
+that pains him the most is Dexter shoes. But for the most part, when he has 
+not done well, it has flatlined or done low returns. But these dozen positions 
+have been out of the park. They have been spectacular. We know that the 
+flowers are rare and the weeds are plentiful. That is just the nature of 
+Pg. 12 of 26 
+investing. What was very important for Berkshire, is not to cut those 12 
+flowers. This is one of the mistakes I have made through most of my career. 
+I have repeatedly sold good businesses, because they appeared expensive, 
+and I was always wrong in how expensive they were. They were far less 
+expensive than I thought they were. It is almost always a mistake to sell a 
+great business just because it looks fully priced or overpriced. Focus more 
+on the quality of the business than the valuation. If you find yourself in a 
+situation where you have ownership of a very good business, leave it alone. 
+Let it do its thing for you. 
+Shaan: Last time when we did the episode, my favorite story was the Seinfeld story, 
+so we brought you a little gift. This is a portrait of what a great investor looks 
+like. Elaine's blueprint. You can watch paint dry. I got this for your wall.  
+Mohnish: Thank you so much. This is very beautiful. Like the breakup at the end of the 
+flight out of nothing.  
+Shaan: Exactly. Munger has this great quote where he says, “If you have so 
+happened to find yourself in ownership of a wonderful business, go find 
+something else to do.” Like your job is to stop inactivity and that is what gets 
+rewarded.  
+Mohnish: Yes.  
+Shaan: Whereas as an entrepreneur, activity always got rewarded. That is a big 
+mindset shift I have tried to make, as I think about investing versus 
+operating. 
+Mohnish: Every time I would meet Charlie for dinner (which was probably every two, 
+three months), and I would play bridge with him, almost at every single 
+meal, one common area of discussion was Costco. Costco came up at 
+almost every meeting of mine with his, and we would spend at least 30 
+minutes on some nuance of Costco.  
+Shaan: It is like the meme of guys nowadays, once a week they think of the Roman 
+Empire.  
+Mohnish: Yes.  
+Shaan: Charlie's Roman Empire was Costco. He is just thinking about Costco all the 
+time.  
+Mohnish:  I love going to Costco. In fact, my partner and I, we have a date night at 
+Costco probably once every two, three weeks. It is hot dogs with a free drink 
+that is a dollar 50 each, and then one slice of pizza for about six bucks and 
+we are done. We are happy. When I am sitting in the food court with her, I 
+look at the store where we have the register and we see the whole store 
+behind us. I especially see all these loaded carts and these very happy 
+people, walking through, and getting to the exit. I also see a lot of Indians 
+who have like fully loaded because Costco sells the Indian yogurt Dahi. They 
+sell the Indian clarified butter ghee. They sell the basmati rice. If I were to 
+go to Edison, New Jersey, Costco, it would be all Indian food or Indian stuff. 
+But even in Austin, which is not an Indian centric community, they have 
+nailed it so well. Every time I go there, I marvel at the incredibleness of the 
+moat, where they are doing public service. That is why Costco does so well; 
+so much of the benefit goes to the members. That is why Charlie was always 
+in love with it. 
+Pg. 13 of 26 
+Shaan: Speaking of Value Investors Club, there is a viral PowerPoint doc called The 
+Resilience of Costco. Did you ever see this going around?  
+Mohnish: I have not seen that. 
+Shaan: It is one of the best docs I have ever seen. It is created by an anonymous 
+guy who analyzes companies. In this doc, his argument is that retail has 
+been going down, and Amazon is going this way, so and so is going that 
+way, but one company has been incredibly resilient. He points out the 
+beauty of the Costco model where they are selling the goods for 10 or 15% 
+above the cost.  
+Mohnish: Yes, they have a maximum markup of 15%. I will give you one story as an 
+example. There were these Levi's jeans that normally are for $30-40 apiece. 
+They kind of came across a very large lot that they could buy; tens of 
+thousands of jeans for $9 apiece. Costco bought the entire lot, and some of 
+the managers were telling the senior management, “Even at 25, it is a great 
+deal for our customers. If we priced them at 25, they would all fly out.” Jim 
+Sinegal told them that it is not going to be priced above 15% of what they 
+paid. They priced them at 10 bucks and in two days they were all gone. They 
+left a lot of money on the table, but it is trust that they built because of 
+actions like that. People have this incredible loyalty and love for Costco. 
+Shaan: You mentioned the dollar 50 hotdog. He is sort of maniacal about not raising 
+the price. Is that symbolic or what do you make of that?  
+Mohnish: If you study the dollar 50 hotdog, they backward integrate. They used to 
+have a vendor, they built their own plant, they manufacture themselves. 
+They have tried to take out all the costs they could possibly take out. Now 
+it probably could be losing money. But, how much can they lose on that? 
+Jim Sinegal said, “That is a sacred cow. We are not going to change the price 
+on that.” The members appreciate it. In fact, Costco raises its membership 
+fee every five years. The last time they did not raise it for like seven years; 
+they did not need to do that. They said, “We are making enough money, we 
+do not need to do that.” On so many levels, and to a large extent, it is 
+because Charlie was on the board. Charlie would not even say it to me, but 
+he improved that business and they would not even have realized that he is 
+improving it. He is not an activist, but, he would have given them small 
+suggestions here and there, and over time, that just kind of cascades on 
+itself.  
+Shaan: What is his style? You knew him, and when you know somebody, it is very 
+different than reading or hearing about somebody or hearing what they say 
+publicly. You pick up more just observing somebody in their day-to-day 
+interactions. Was he very blunt in his suggestions? Was he very good at 
+getting people to think it is their idea? What was his style in terms of 
+influence? 
+Mohnish: Charlie comes across as having a lot of rough edges; a very blunt person. 
+But what surprised me (both with Warren and Charlie) is they have very 
+warm and tender hearts. They are beautiful people when you get past the 
+exterior. To some extent, to protect themselves, they have this kind of 
+exterior. But if you get into the inner circle where you can get past that, they 
+are wonderful people. Charlie, at the same time called a spade a spade. But 
+when they are interacting with CEOs or people who are running businesses 
+Pg. 14 of 26 
+for them, they understand well that the person needs to have the freedom 
+to build the sandcastle they want to build, and they give them that freedom. 
+They do not second guess when they think they are making a mistake. But 
+if they are asked for different inputs, they will in a very careful way give you 
+the path that they might want to go down, and take it from there. The 
+managers are very motivated because they are very empowered. They do 
+not feel that someone is looking over their shoulders. To a large extent, the 
+managers do well because they do not want to let these guys down.  
+Shaan: Tell me about the difference between risk and uncertainty? 
+Mohnish: That is an important concept to understand because Wall Street gets 
+confused between the two. In fact, when Wall Street gets confused 
+between the two is where the greatest opportunities lie. We talked about 
+Frontline. Frontline was an example of a situation where uncertainty was 
+extremely high and risk was very low. What Wall Street is looking for is 
+certainty. If we look at a company like ADP, the process payroll, they have 
+had around 50 years of nonstop growth because you are running payroll 
+which is going to keep going up. Your cash flow is going to go up. It is all in 
+a straight line and that is beautiful. Wall Street will reward you extremely 
+well for that. Whereas if you look at a company like Frontline, it will be priced 
+for euphoria. It will be overpriced because they love that. That is what they 
+are looking for. That is music to the ears. On the other hand, if a company 
+exhibits high uncertainty, it will be taken out back and shot, and that is 
+where opportunity is. One of the cues to look for is whether this is a business 
+with low risk and high uncertainty. Something to keep at the back of your 
+mind is, “Is this a high uncertainty business? Is this a low risk business? A 
+combination of the two?” When you get to the combination of the two (low 
+risk plus high uncertainty), that equals high rewards. That is a deep vein to 
+look into. 
+Shaan: I was looking at your portfolio, and you have a company in Turkey that you 
+invested in. It is a Coke bottling company. Would you say that is a good 
+example of risk and uncertainty mismatch? Or how would you describe that 
+one? Because once I heard the story, I thought, “That makes a lot of sense; 
+that clicks.” What was the clue that that sort of tipped you off? Or what 
+concept would that fall under? 
+Mohnish: We made money on it, but we exited. The reason I exited is that the Coke 
+bottler had a parent company, which was the dominant beer bottler in 
+Turkey and several other countries. Their largest operations were in Russia, 
+where they have number one market share, 50/50 joint venture with AB 
+InBev. Russia has effectively nationalized that business. They did it because 
+they were somewhat upset with Erdogan about his support for Ukraine or 
+something. When that happened, it went in the too-hard pile for us.  
+Shaan: Explain the too-hard pile, please. That is something I stole from you.  
+Mohnish: It is a Warren thing. We will get to that in a second. It was something I could 
+not handicap. We were sitting at a game and we have this event take place. 
+I get to get my bet back with some added return, and we close it. I said, 
+“Where do I sign?” I can go find something else to play with. But the too-
+hard pile is a physical box on Warren's desk. If you Google Warren Buffett 
+too-hard, and look for images, that image will probably pop up. He has a 
+box on his desk, which he calls too-hard, and he says that 99% or more of 
+Pg. 15 of 26 
+investment ideas that you encounter should go into that box because we 
+are not going to be able to figure it out. One of the things to understand is 
+that if there are 50,000 stocks in the world, we are not going to understand 
+more than a few hundreds of them at the most after quite a while of 
+studying them. Most companies that we would encounter should go into 
+that box. One of the important things in investing is humility to understand. 
+Warren has no issues with the humility to know that he does not know most 
+things and that most things are not going to be able to be figured out or 
+handicapped or any of that. We do not need to. If you can understand a very 
+small sliver of things, and when those things get overpriced and 
+underpriced, that is all you need. You do not need anything else. 
+Shaan: There is a guy who owns a bunch of real estate, in a very small area. 
+Mohnish: Yes, that is John Arrillaga. 
+Shaan: Yes, what is his story, because it sounds like it is a good example of this? A 
+very thin full circle of competence, but he knew the pricing. 
+Mohnish: John Arrillaga was a billionaire. He passed away two, three years ago. His 
+daughter is married to Mark Andreesen. That is billionaire to the power of 
+billionaire. John Arrillaga had a very narrow circle of competence. He did not 
+understand most things, but he only invested in real estate within two miles 
+of the Stanford campus. That is all. If you walked with him around the 
+campus, he could tell you the full history of every single building; when it 
+was built, what the current value was, what the rents were, who the owners 
+were, and what the history was. He knew that about every building. He was 
+an inch wide and a mile deep, and that is a good trait for an investor: to be 
+very narrowly focused. What John Arrillaga did was he ran, generally 
+speaking, a very unlevered portfolio. His portfolio always not a little debt. 
+When the downturns came, he aggressively bought all these distressed 
+properties around. This is the most prime real estate you can think of (other 
+than Park Avenue). He would just buy these things up. Everyone was getting 
+foreclosed and bankrupt, and he went to the banks and bought them from 
+them. He then gets them all leased and fair value. Again, take the leverage 
+down, and again, next down cycle, the same thing, and he stuck to that. He 
+did not wander into other areas like Mountain View or Wynn California and 
+do it. He did not do all that. He did not invest in tech or something. He did 
+not do any of that. He stuck to real estate. That is all he did, did it extremely 
+well, and died a billionaire. One of the important things about that story is 
+that we do not need to know many things about many things. We need to 
+know a lot about a little. That is the important thing. For example, if I am 
+looking at Frontline, I should learn everything I can about shipping. I should 
+learn everything I can about oil shipping, about tankers, about the history, 
+who makes them, and every nuance about them. The deeper I go, the better 
+it is going to be for me. I should not be spending time next week on 
+airplanes. I was talking the other day to an older gentleman, a 70-plus 
+investor. He is a good investor, and he was telling me that he has had an 
+investment for a long time in this aircraft leasing company called AerCap. 
+That is a very good business. Again, if you spend time in that industry and 
+business, you would understand the nuances and take it from there. But it 
+is very important to be willing to go deep. That is why the Value Investors 
+Club can get you going. You can read the annual reports and the history, and 
+just keep going deeper. 
+Pg. 16 of 26 
+Shaan: Right. Why do you think most people do not do that? Because when I hear 
+that, I think, “Ah, there is a blueprint.” You are not going to do exactly what 
+he did. That was a one-off move. But the blueprint is there. He was smart 
+enough to see it and think, “Hey, this area in California near Stanford is going 
+to be a good place for me to be in.” Generally, I pick a good wave and then 
+do not overlever. When everybody is fearful, they get greedy. When 
+everybody is greedy, be fearful. He did that, and to just say, “I am going to 
+go deep. In this two-mile radius, I need to become super knowledgeable. I 
+do not need to get distracted by everything else, and I will hold forever,” 
+that is a blueprint. 
+Mohnish: Nick Sleep has a quote which is, “The best investors are entrepreneurs who 
+never sold.” If you think about entrepreneurs, that is what they are. They are 
+John Arrillaga. If I look at Sam Walton, Sam Walton is John Arrillaga. All he 
+did was retail. All he did was visit competitive stores. He never bothered 
+about anything else. 
+Shaan: Sam Walton, the founder of Walmart? What do you mean? Tell me more 
+about him. 
+Mohnish: Sam Walton said, “There is no human who has ever lived or ever will live, 
+who has spent more time in competitor stores than me.” Whenever he 
+would go on vacation with his family and they were passing a retail store, 
+he would tell them that he would be back in 20 minutes, and he would go. 
+Shaan: What was he doing in there? What did he do? 
+Mohnish: He used to like to visit all his stores and all that, but if he saw a competitor 
+store sometime, he would go in with three or four of his managers. One 
+time, he went into the store and his manager told him, “That was such a 
+badly run operation.” Sam replies, “Yes, but did you see the candle display? 
+Did you see how fantastic that candle display was?” His perspective was, “I 
+can learn from losers. I want to learn the spark that is there in something 
+that is a total loser.” One time in Brazil, in a retail store, they found this older 
+guy flat on the ground. They call the paramedics. It turns out it was Sam 
+Walton. What he was doing is he was measuring the space between the 
+aisles, and he did not have a tape measure with his body. The space 
+between the aisles is a very important data point for a retailer, because you 
+are going to either waste square footage or be too narrow, and the people 
+want to enjoy the experience. You have to get that right. He was in Brazil 
+saying, “How are they doing it? Am I three inches too wide in Walmart? Am 
+I three inches too narrow?” This was a game of inches. That is who Sam 
+Walton was. In fact, Walmart has not innovated at all. At least for the first 
+20, 25 years that Walmart ran, everything came from somebody else who 
+was already a competitor. They took a lot from Sears and Kmart, and then 
+they killed them. They kept learning from one competitor after another. 
+Sam Walton used to say, “I am not the smartest tool in the toolbox. I am not 
+a smart guy, but I am a learning machine. I am going to keep at this.” It is 
+very funny. He goes and visits Sol Price, the founder of Price Club, which 
+eventually leads to Costco. He looks at Price Club and he says, “This is 
+fantastic,” and he creates Sam's Club. Costco was also taken from Price 
+Club. Both Sam's Club and Costco would not have existed. 
+Shaan: Sam's Club is Sam Walton?  
+Pg. 17 of 26 
+Mohnish: Oh yes.  
+Shaan: I did not know that. 
+Mohnish: It is part of Walmart. 
+Shaan: Oh, I did not even know that.  
+Mohnish: It was completely cloned from Price Club, which was a predecessor to 
+Costco. Sol Price was an incredible entrepreneur. No one has had more 
+impact on retailing than Sol Price, because he influenced Sam Walton and 
+Jim Sinegal, the founder of Costco, in a major way. These are the pillars, and 
+then these two companies influenced Amazon. It is all coming from Sol 
+Price. Someone told Sol Price, “You are like the father of retailing in the US 
+and globally. What do you think of that?” He said, “I wish. I would want a 
+condom.” 
+Shaan: Too good. That is amazing.  
+Mohnish: Yes. It is amazing. In fact, he was amazing. It is in his son's book. But this is 
+a very good book, and it is out of print. It is hard to find, but it is one of the 
+best books on retailing. For example, some of those things that Costco does, 
+Costco pays 50% more than Walmart pays its employees. The entry-level 
+people are making 50% more, and that has not hurt the profitability. In fact, 
+Sol Price's view was similar to Henry Ford's view that “I want the people who 
+work in my stores to be able to shop in my stores.” Just like Henry Ford said, 
+“I want my workers to be able to buy my cars.” At that time, automobiles 
+were for the rich, and Henry Ford said, “No, I want them for everyone.” He 
+wanted to drop the price. At Costco, the lowest wage is 20 an hour. Then, 
+they have tuition reimbursement, all kinds of other things, and they get a lot 
+of productivity out of their people because of that. 
+Shaan: How many books do you think you have in your library? A thousand books? 
+Mohnish: A few thousand. 
+Shaan: We are surrounded by a cave of books on every topic. I see some business 
+books over here. I see investing books. You just brought a retail book about 
+Sol Price, the founder of Price Club, from over there. There is science on that 
+wall.  
+Mohnish: Yes.  
+Shaan: What does this door go to? What is this?  
+Mohnish: That is my bedroom.  
+Shaan: That is a bedroom. You live in the library essentially, and you nap every day.  
+Mohnish: Absolutely.  
+Shaan: We are both nappers.  
+Mohnish: Napping is a great thing. 
+Shaan: Massively underrated.  
+Mohnish: Yes.  
+Shaan: What is your case for napping? I have mine. What is yours? 
+Pg. 18 of 26 
+Mohnish: Well, I just get tired in the afternoon. 
+Shaan: It is pretty simple. 
+Mohnish: I have been so used to napping that if I do not nap, my productivity goes 
+down. I do not like to work if I am not productive. What I find is that even if 
+I lie down for half an hour, 45 minutes, I am re-energized. For the work I do, 
+I need to be all in. I cannot do this work if I am tired. 
+Shaan: Yes. There is an athlete, Conor McGregor, who was once asked about his 
+training schedule, and he said, “One of the big mistakes I made is that I was 
+always trying to train all the time. I wanted to come to the gym three times 
+four times a day. I thought that was how you win.” His coach was saying, 
+“You are a light that is always just dimly flickering, because you never turn 
+off and therefore you can never turn on and be as bright and as effective as 
+you could be. This flickering, dim light is not doing you any justice.” I have 
+used that in my own model. I would ask myself, “Where is my light right 
+now?” If I need to just shut it down briefly, 30 minutes, an hour, whatever it 
+is to come back full brightness, that is the move. 
+Mohnish: Jeff Bezos said all important decisions should be made in the morning. He 
+is very particular; he needs a solid eight hours at night. He leaves work at a 
+normal time, but he says that they do not make the important decisions in 
+the afternoon. It is the first thing in the morning, because he wants the 
+highest energy levels. In fact, I find my best work is in the morning as well. 
+Shaan: I am curious about your style, because I came over to your house once, and 
+you were very calm. It did not seem like you were on the clock. You were 
+moving from one meeting to the next. There was not a big bustling team of 
+analysts and junior people. You seem like you keep a pretty clear calendar. 
+Is that intentional? Is that just what you like, or is that effective?  
+Mohnish: In the business I am in, if I can find a couple of things to buy in a year, in the 
+case of Buffett, one thing to buy every five years, I am doing well. This is a 
+case where you are taking in a lot of information, but there is not much 
+action. You are trying to improve your mental models and understand more 
+about the businesses that you already own. I am going through Value 
+Investors Club and some zero, and that sort of thing, and just looking at 
+what else is there. Sometimes I find amazing ideas, then there is a deep dive, 
+and that might take a while. 
+Shaan: I was reading something interesting. In our first episode, we talked about 
+how you got started. You were an entrepreneur first. You said this great 
+thing, “I realized that as an entrepreneur, maybe 3 to 5% of my brain power 
+was on strategic decisions, clear thinking, coming up with the right answer, 
+and then 95% of my time was blocking and tackling.” You also said, “As an 
+investor, it is great, because that 3% becomes 95%. It is just about clear 
+thinking and making the right strategic move. I do not have to busy myself.” 
+But one thing I thought was cool is that I read that you took some 
+personality test, or you got some analysis done on you that helped you. They 
+sort of told you your temperament is for single-player games. What is this? 
+I did not understand what you did. 
+Mohnish: This was kind of accidental, but it turned out to be one of those great things 
+that happened in my life. In 1999, I was at a crossroads where it was very 
+clear to me that the business that I had built, my IT business, I had lost 
+Pg. 19 of 26 
+interest in. I had become a lot more interested in investing. It was a difficult 
+time because I had around 170 people in the company who thought I was 
+motivated, and I could not fake it. Accidentally, I was with two industrial 
+psychologists, and they did a 360 on me. They had me take a bunch of tests. 
+They talked to me, my friends, family, and spouse, and they built a kind of 
+360 view of who I was. Then they gave me what I call my “owner's manual.” 
+Everyone should have their owner's manual. 
+Shaan: Like the one that comes with an appliance you buy. 
+Mohnish: Yes. We show up, but we do not have an owner's manual. Each one of us is 
+programmed differently. What they said is that the way a human is—their 
+traits, likes, dislikes, and what passions they are—is hardcoded at the age of 
+five, and that is not going to change from the age of five to the age of 95. 
+You can try to change behaviors, but you cannot change traits. Traits are 
+between your genetics in the first five years of life, hard-coded. The good 
+news is, once we figure a person out, even after 20 years, they will not 
+change. In fact, the people I went to high school with (all pre-Facebook), 
+and I lost touch with (they were in India and the Middle East), I found them 
+when Facebook showed up. At the time, they were in their forties and fifties. 
+I have not had any interaction with them for like 20, 25 years, but there was 
+no change. The guy at 18 and 48 is the same because the traits are so hard-
+coded. That makes it easy for us because once we figure a person out, we 
+do not have to figure them out again. It is one and done. The problem most 
+humans have, which I had, is that we do not know what those traits are. 
+What most of us try to do is we do what they call mirroring. We look at what 
+the world considers acceptable and we adapt our behaviors so that we fit 
+in, but that can be a big disservice. What they were able to tell me is: “When 
+we look at the company you are running and we look at who you are, we do 
+not even know how you are functioning.” I was in a lot of pain. The thing was 
+that I loved that business when it was just me. I loved the business as it was 
+growing until we got to the first 10, 15 people. Then, as it started growing 
+beyond that, my life and my job description became HR. I am just herding 
+cats. I am not a cat herder. That is not who I am. What they said is, “That 
+business that you have, you need to get rid of it in some way as soon as you 
+can.” This was in March or April of 1999. I was thinking of starting Pabrai 
+Investment Funds. They looked at it and they said, “This is perfect for you. 
+This is going to work extremely well for you.” In fact, one of them invested. 
+He is one of the first investors who came in.  
+Shaan: He put his skin in the game. He believed in this.  
+Mohnish: Yes. I told him, “Listen, I am paying you guys 2000 to do this, and you are 
+giving me a hundred thousand. I do not want to lose your money.” He said, 
+“I do not have any doubts, Mohnish. You are going to do very well. I do not 
+see any risk here.” He did extremely well. They were right because now it 
+has been 26 years since I have been running it, and I have not gotten bored.  
+Shaan: What did your owner's manual say?  
+Mohnish: First of all, they said that I had very high horsepower and that I was one of 
+the smartest guys they had come across, which was great. But they also 
+said, “You are a guy who likes to play single-player games. You are not the 
+kind of guy who would be happy being in a soccer team, for example, where 
+you are one of the forwards, and your performance depends on the team. 
+Pg. 20 of 26 
+You seek single-player games where you think you have some edge, and 
+when you think you have some edge and it is that sort of game, you will kill 
+it.” I got banned in Vegas playing blackjack because I figured out a system 
+that beat them.  
+Shaan: Counting cards? What were you doing? 
+Mohnish: I did it without counting cards. In fact, it took the casino almost a year of 
+watching me. I used to go every six weeks or something, and they played 
+those tapes over and over, because the markers that they looked for were 
+not there. What I am saying is that the games I like are games like blackjack, 
+bridge, investing, and even Dakshana. Dakshana Foundation is also a game. 
+Shaan: That is your philanthropy.  
+Mohnish: Yes. But they are all mathematical games. Even Dakshana is a mathematical 
+game because what I am looking at are output ratios. People think I am 
+doing all this good in the world and all that. What they do not understand is 
+that I am a game player. What I am trying to do with Dakshana is to 
+determine how much money is going in and what is coming out. That is the 
+only thing I am focused on is what is going in. What ended up happening 
+with the entity like Dakshana is that Warren Buffett wrote me a letter saying 
+that this is the best. He took the time to write the letter. He had never done 
+that for any philanthropy that he had looked at. He did that because there 
+is no nonprofit I know of that does it better than Dakshana. The reason is 
+that there is a game player who is not focused on the name and lights or a 
+bunch of fancy pictures in the annual report. We have no pictures in the 
+annual report, and it is just like the Berkshire report. It is about honest input 
+and pro-output. Our focus has always been, “This year needs to be better 
+than last year.” It is the same as the way Sam Walton ran Walmart. He wants 
+next year to be better than this year. If you take a step back and say, “I want 
+to give money away to make the world a better place,” the natural second 
+step you would get to with that is “I want very high returns on the money I 
+am putting out.” Social return on invested capital should be extremely high. 
+Most nonprofits do not even think this way. They all think, “There is a 
+homeless guy. Let me help the guy.” They do not analyze what is going in 
+and what is coming out. In 2006, I ran into this model, where a guy was 
+taking 30 kids who were very poor in India, in Bihar. Most of these kids were 
+coming from illiterate parents, but they have very high IQs. He prepped 
+them for about 10 months, and he had them take the IIT entrance exam. The 
+IITs are the best technical institutes in the world. The thing about the IITs is 
+that about 1.3 million kids are applying for 16,000 seats. It is about a 1.3% 
+admit rate. Princeton is about a 5% admit rate. Harvard is about 5 or 6%. This 
+is 1.3%. If you get into the IITs, it is free to attend. The government subsidizes 
+it. If you are a very poor person and you get into the IITs, Microsoft will hire 
+you, Google will hire you, and anyone will hire you. But getting in is 
+expensive because the coaching is expensive. What this guy had done was 
+he had made the coaching free for these very poor kids. What was 
+happening is you had a family that was making $60 a month, let us say, the 
+kid graduates and Google hires them for 120,000 a year. In five years, the 
+guy is making 300,000 a year. All he was spending was $800 per kid, all 
+inclusive. You spend $800, and you take a family from $60 a month to 
+$10,000 a month. What is the ROI on that? You are going to do that for this 
+whole lifetime, and you are going to reset the extended family and all of 
+Pg. 21 of 26 
+that. The ROI is off the charts. When I saw that, I said, “Wow, this is the holy 
+grail.” I went to the guy and I said, “I would like to fund you.” He said, “I do 
+not want to scale. I do 30 kids. I do not want even 31 kids. I do not want to 
+take outside money.” I am the shameless cloner, so I told him, “Do you mind 
+if I clone your model?” He said, “No, this is a very good thing. You should 
+clone it. It would be great. I will help you in any way I can.” I took his model, 
+and that is what Dakshana is. He was doing 30 kids a year. We are now doing 
+a thousand kids a year. We are doing it at scale, and it will be about 2,500 
+kids in a few years. He was doing it at $800 a kid because his mom was 
+cooking for them. I have chefs cooking for these guys. I am at $3000 a kid. 
+We have much better infrastructure and all of that, but it does not matter. 
+You are taking a 60, 80, 100-dollar-a-month family, and making them part 
+of the global economy, hired by Microsoft and whoever else. It is a zero-to-
+hero story. The ROI on that is hard to measure. Dakshana spends about 3 or 
+$4 million a year. Just imagine what the output of that is when you look at 
+it from each family. We have been doing it for 17 years. What we get out of 
+$3 million a year, a lot of other nonprofits would not get out of even a 100 
+million a year. We have a footprint that is much larger than what it should 
+be in terms of impact, but to take it back, it is a math game. We had two or 
+three important things, and that is how I looked at this. The first was the 
+yield, so the IITs accept 1.3% of the kids who apply, and they accept 70% of 
+our kids. That 70%, in the first year we started, was 8%. We had a lot of 
+mistakes in how we were doing things back then. All I said is, “I am at 8%, it 
+is going to be more than 8% next year. I know what the issues are and I am 
+going to fix them.” We went up to 15, 20%. Then every year we looked at 
+what was happening, how we could tweak it, how we could reduce our 
+costs or increase them, and we kept chugging at it. We have been chugging 
+at it for 17 years. It is just like Walmart, Amazon, or any of those companies, 
+where you want excellence, and excellence is not going to come in a day. 
+But you just keep going every day. 
+Shaan: That is amazing. I love that model, and I love how you took the skill set from 
+A and applied it to B. 
+Mohnish: Now, what I am doing is I have a game that puts two models together. One 
+day before I die, I want to have $10,000 left. Inheritance does not do much. 
+My kids already have, and they are doing well. 
+Shaan: What is your philosophy on that? 
+Mohnish: In general, large inheritances are going to do more harm than good. You do 
+not want a person to be on an IV drip for their whole life. That is the worst 
+thing you can do to someone. One of Buffett’s great quotes is, “I want to 
+give my kids enough money for them to do anything they want, but not 
+enough to do nothing.” Because I am investing for a living and we have 
+compounding going, I am going to end up with more than I need. I do not 
+need to spend any more than I am spending. I could not increase happiness 
+by spending more. There is no point in spending more. I am very happy with 
+the lifestyle I have. Everything else needs to get recycled, but it needs to get 
+recycled at high returns. On one hand, I have a compounding engine and a 
+net worth that is growing. On the other hand, I have to give it away. God 
+Google told me that on June 11th, 2054, I will be leaving Planet Earth. 
+Shaan: You asked AI? What did you do? Average life expectancy? 
+Pg. 22 of 26 
+Mohnish: If you go to God Google and just say, “Hey, I am 52 years old. Tell me when I 
+am going to die,” he will tell you. Now that I have the date, and my birthday 
+is June 12th, just to make it poetic, I made it June 11th. We have an exact 
+number; 2054 means I have got 29 years and change left. At any kind of 
+compounding rate, it is a ridiculous amount of assets that get built over 
+time. But I want to end on June 10th with $10,000. There is one game, which 
+is to give it away, and the other game is to make it, and we need the two 
+curves to be where the giving away becomes, probably in the next few 
+years, much more dominant. The 3 million a year needs to go to 5, 10, 15, 
+eventually, and so on. For me, it is the same as playing blackjack. It is just a 
+math game. These are both math games. There are a lot of families getting 
+helped, and my investors are happy, and that is fine. 
+Shaan: What was your blackjack system? I am skeptical. 
+Mohnish: I do not want to destroy the casino. They would have to either change the 
+game or something. But, I will give you some pointers of kind of what is 
+going on here. There is a publication called BJ21. If you go to BJ21.com and 
+you give them a hundred bucks, they are going to give you a PDF, and you 
+get a one-year subscription. You can update it every month. It gives you the 
+odds of every blackjack table in North America. For example, if I go to the 
+Wynn Las Vegas, which has a bunch of different blackjack games, single 
+deck, double deck, six decks, every single one of those gives you the odds 
+if you play perfect blackjack. These odds vary depending on how 
+competitive. If I am going to some board in Indiana, I am not going to get 
+the same odds as Vegas. The Vegas strip is going to be more efficient 
+because it is more competitive. Usually, the house will end up with 
+something like 0.3, 0.4% all the way to like 2% edge over the bet, which 
+means if you make a hundred-dollar bet, every bet you are making, you are 
+losing your 50 cents or whatever, and such. There is a casino in Vegas called 
+the El Cortez. It is a small casino. It was started by Bugsy Siegel, who made 
+the flamingo before World War II. The El Cortez is in downtown, not on the 
+strip, but it is a little away from the action of downtown. To induce people 
+to come, they improve the odds. Still in their favor, but the single deck game 
+at the El Cortez has the thinnest house edge of any blackjack table on the 
+planet. The house edge is 0.18%. If you look at BJ21, they have the edges of 
+every table. This one is the lowest. What threw them off, which took them 
+a long time to figure out, is that they play single-deck blackjack. But they 
+only deal half the deck. The reason they deal half the deck is that they can 
+make it difficult for the counters. As you may be counting cards, the deck 
+becomes very favorable, but then they shuffle. High cards at the back but 
+they never get dealt, so the counters get screwed. I had a system that relied 
+on the fact that blackjack occasionally has streaks, where you may win six, 
+seven, or eight hands in a row or lose them in a row. What I did in the betting 
+was that when I was losing, it was always the minimum bet, and when I was 
+winning, the bets were increasing. With the variance of that, what happened 
+is I was able to overcome the 0.18. I do not want to go more into that, 
+because that gives enough to get going. 
+Shaan:  I have tried to use a Martingale strategy on the system. 
+Mohnish:  With Martingale, you are going to go bankrupt. What confused them 
+(because they had never dealt with that before) is that, normally, what the 
+counters do is, on a brand new shoe, it is a low bet. In my case, there was a 
+Pg. 23 of 26 
+brand new shoe, and there was a high bet. They said, “We just shuffled. The 
+whole deck is there. There is no odd edge he has on the deck because the 
+entire deck is there. He has a high bet.”  
+Shaan: Did they ever figure it out? 
+Mohnish: They figured it out. What happened is that I am playing blackjack. The 
+general manager, who is very friendly to me, comes and sits down next to 
+me and tells the dealer, “Stop dealing.” She is in the middle of a hand, so she 
+continues dealing. He screams at her, “Stop dealing now.” She never heard 
+that before. Literally, in the middle of the deck. He said, “Shuffle, we are not 
+dealing anymore.” Then he tells me, “Mr. Pabrai, I like you. I read your book, 
+I watch your videos, and you have a system that we cannot beat.” I told him, 
+“I am not counting cards.” He said, “That is what threw us off. We know you 
+are not counting cards, and that you will beat us. You can come to this 
+casino anytime you want, but you cannot sit down at a blackjack table.” 
+Then I am thinking, “Why would I come here? Why would I come to El Cortez 
+if I am not going to play blackjack?” But whenever I go to a place to talk, and 
+they introduce me, I always tell them, “Listen, just say that I have a lifetime 
+ban in Vegas,” because I do not care about everything else on my CV. That 
+is irrelevant.  
+Shaan: That is impressive. You are a Harvard dropout. That is a higher status symbol. 
+You are good at blackjack and have made money with blackjack. “ I was 
+banned from a casino.” That is the highest status symbol. 
+Mohnish: Yes. I took them for a 150,000 or something. This was a very low table limit. 
+The table limit was only 2,000. But at 2,000 I took them, so they said, “We 
+are done.” 
+Shaan:  I love it. I will call out some names, and you can say, “pass” like I do not know 
+them, or “I have a story about them.” 
+Mohnish:  Sure. 
+Shaan: That is because your stories are so amazing. I can listen to your stories all 
+day. Michael Burry. My favorite movie is The Big Short. Michael Burry is the 
+mysterious character. Did you ever meet him? 
+Mohnish: When we finish this conversation, you will know that my middle name is 
+Forrest Gump. That is where we are going to end up. I always tell people 
+that God loves me. He loves me more than other people. I will explain why. 
+In 2008, when the financial crisis had not yet happened, in March or April of 
+2008, things started getting topsy-turvy. I was visiting San Jose for 
+something else, and I knew Michael Burry had an office there. I did not know 
+him, but I sent him an email telling him, “Mr. Burry, I like you, admire you, 
+and would love to visit you.” 
+Shaan:  He was well-known? 
+Mohnish: He was not very well-known. But he was posting on the Value Investors 
+Club; he was there a little bit. I liked the way he thought. He said, “Yes, stop 
+by.” I go to his office in San Jose. A few analysts were sitting outside. It 
+looked like a very depressing place. It was a little dark, and there were a few 
+analysts there. Then I go into his office. There were huge piles of paper 
+everywhere, and he immediately launched into CDSs. He says, “I want to tell 
+you something about something that is going to make you extremely 
+Pg. 24 of 26 
+wealthy.” He then downloads to me at 1 million miles an hour. I have never 
+heard of a CDS. He is talking about the housing crash, the coming implosion, 
+and all this stuff. Housing never crashed in the US. None of that. 80-90% 
+went straight over my head. He just gave me a full core dump in half an hour. 
+My sub-human intelligence could not handle it. I come out of the meeting, 
+my head is spinning, and I say, “Well, that was interesting.” Then, of course, 
+he rides off into the sunset. Then the movie comes out. What you see in the 
+movie is exactly how he is. I felt like God, who loves me so much, took me 
+to the epicenter of the epicenter of what would have been the best place 
+to be. The best teacher to have, and Mohnish blew it. But that is the way it 
+is. 
+Shaan: Where does that rank in terms of the best calls or foresight that you have 
+seen in your career? 
+Mohnish: This has happened to me a lot, in the sense that, like I said, we put 98-99% 
+in the too-hard pile. Even now, I believe it was right of me not to do anything 
+with it, because I could not understand it. Even after the financial crisis, it 
+took me a while to understand the CDSs. All these tranches and how they 
+were doing all this stuff. It took me a while to get my arms around that. Even 
+after knowing about that, I would have been skeptical about making that 
+bet. Hats off to him. He figured it out, and a few people figured it out. 
+Shaan: Tell me about the greatest investor from India. Who is the greatest investor 
+from India? 
+Mohnish: The greatest investor from India would be Rakesh Jhunjhunwala. I never 
+met Rakesh. I know his friends quite well. Guy Spier went to his office and 
+met him. He was a wonderful guy who died relatively young, a few years 
+back. But, Rakesh was a very interesting, kind of split brain in a sense that 
+he would have 3-4 Bloomberg screens in front of him, and he had all these 
+charts and everything going on, rapid fire trading going on. But on the other 
+hand, he had these 2-3 stocks that he never touched. I do not know anyone 
+like that. He was great at both, but the ones that he never touched, they just 
+went through the roof.  
+ There is a company in India called Titan Industries. It is a branded jeweler. A 
+branded jeweler did not exist in India. There was a trust deficit. In India, you 
+have 22K gold. You are buying gold, you do not know whether it is half gold, 
+80% gold, or what else is going on. The jeweler knows, but you do not know. 
+That Titan brand is owned by the Tatas, who have very high integrity. They 
+were able to take a sector that had a huge trust deficiency. Titan is still in its 
+infancy. Rakesh, compounded at a rate of 40% a year for several decades. 
+He started with $10,000 borrowed. He did not even have that of his own. 
+Someone lent him the money. 
+Shaan:  What made him great? Was he a brilliant mathematical mind? What was the 
+trait that helped him? 
+Mohnish: He was a trained CPA. In India, CPAs are Chartered Accountants. He 
+understood numbers well. But he was smart about understanding business, 
+and about a few things that he thought would do extremely well.  
+Just before he died, he had figured out about Indigo, which is a low-cost 
+carrier in India. They have something like a 70% market share, growing very 
+rapidly. It might become the largest airline in the world. They have got a 
+Pg. 25 of 26 
+1000-plane order. They are growing very fast. He had done well as an 
+investor in Indigo. But then he took the next step. He set up a clone of 
+Indigo. Just think about the guts you need to set up an airline from being a 
+passive investor. While he was dying (he was in bad shape in the hospital), 
+that airline was up and running and cranking. It was doing great. If he had 
+lived longer, he would have gone not just as an investor but also shown that 
+he could have been an operator. When I was in India in the last month, in 
+February, I met one of the guys who worked for him. Just very impressive 
+and down-to-earth people.  
+Shaan: You said something like if he had lived longer, this idea of runway and how 
+early you start, matters a ton. Even Buffett, you have said that, had he not 
+been giving away so much money, he would have been the wealthiest guy 
+in the world right now. When you talk to people, do you tell them you should 
+have started 30 years ago?  
+Mohnish: The important thing is that if a young person is listening, they must start. 
+The funny thing is that if you look at the rules for an IRA or a ROTH IRA, there 
+is no minimum age. You could be 6 months old and have an IRA. The only 
+rule is that you can only put in wages that you earn. I was just reading in the 
+Wall Street Journal, there is an entrepreneur who has hired his 4 and 6-year-
+old kids to do different things in the business because he is putting $6000-
+$7000 into their ROTH IRAs, which is equal to their W2 earnings. Probably 
+stretching the limits of what he can get away with. That is beautiful. But 
+even if you are not doing that, and start earning at 22, the important thing 
+is that a small amount saved is more important than a larger amount saved 
+at 32. Because you get started earlier. It is important to spend less than you 
+earn and put it into Berkshire. Set it and forget it. Because if you are 22 today 
+and you start, you could live over 100 or 110 because of all the advances 
+taking place. A 90-year runway is something. If you are talking about a 10% 
+return, we are only going to look at doubles. Every 7 years, that is 2^13. 2^10 
+is 1000. So 2^13 is 8000x. The first $10,000 you invested is at $8 million. The 
+second $10,000 is another $8 million. It is a mind-blowing amount of money 
+if you start early. The length of the runway is important. 
+Shaan: Do you pay attention to the macro? Because my head just starts spinning. 
+There are interest rates, wars, and all these different factors that you could 
+pay attention to, and there are some people who have paid attention to 
+that. Do you pay attention to the macro? 
+Mohnish: No, because I cannot handicap, and I would not know what to do with the 
+information. I always try to keep the bet simple. I need to be able to explain 
+to a 10-year-old in 5 sentences. I am not going to be able to figure out the 
+macro. That is why I could not make that CDS bet. It was so much; housing 
+is going to crash, and this and that are going to happen. I just could not get 
+my arms around it. 
+Shaan: Buffett famously missed a lot of the techwaves that happened in the last 30 
+years. I know he owns Apple among other things, but largely internet was 
+not his zone of genius. Do you think about AI? In my world, everybody is 
+talking about AI. Everybody is thinking about AI. You cannot make a move 
+unless you factor in AI. Do you think about AI? 
+Mohnish: The problem is; I bring nothing to that party. I am probably going to get my 
+head handed to me if I try to participate, so it is not in the no-brainer 
+Pg. 26 of 26 
+category. It is not something where I have an edge. Of course, I do believe 
+that it is transformational. But I knew the internet was transformational. We 
+know that electricity is transformational. We have known the App Store was 
+transformational. But in investing, you can do extremely well, without 
+understanding all these things. Go back to John Arrillaga. Do not understand 
+any of these things. Or even Warren Buffett. Apple is in the rearview mirror. 
+He has sold most of it. They might have sold all of it by now. That was a one-
+and-done. We do not need to understand the flavor of the day. We do not 
+need to understand NVIDIA or AI. If you understand it, then more power to 
+you. That is awesome. If you know how to leverage your understanding into 
+dollars you make, that is even better. But that is not me. We all have to play 
+to our strengths. 
+Shaan: Well, Mohnish, this has been an incredible Part II, and I am happy with it. I 
+asked you in the beginning, “Is this like one of the Hollywood sequels, where 
+the first one was incredible and the second one like they just did it?” But no, 
+I believe we did a good job. The sequel, if not better, was at least as good as 
+the first. 
+Mohnish: You have got some material. You can cut and paste. It was fun, I enjoyed it. 
+It was awesome. 
+Shaan: Awesome. Thanks for doing it. 
+Mohnish: Thank you! 
+ 
+ 
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not 
+intended to be financial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not be 
+suitable for you, do not take into account your particular investment objectives, financial situation, or needs, and are not intended 
+to provide investment advice or recommendations appropriate for you. Before making any investment or trade, consider whether 
+it is suitable for you and consider seeking advice from your own financial or investment adviser. 
+ 

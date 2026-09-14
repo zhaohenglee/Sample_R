@@ -1,0 +1,978 @@
+Page 1 of 22 
+Mohnish Pabrai’s Presentation and Q&A with students at the 
+Indian School of Business on July 13, 2013 
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not intended to be, 
+financial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not be suitable for you, do not take into 
+account your particular investment objectives, financial situation or needs and are not intended to provide investment advice or 
+recommendations appropriate for you. Before making any investment or trade, consider whether it is suitable for you and consider seeking 
+advice from your own financial or investment adviser. 
+Organizer: 
+Mohnish: 
+First off, thank all of you for turning up on this Saturday afternoon and on behalf of 
+the CFI team and everyone else who helped organize this event. Thank you for 
+showing up.  
+I'd just like to introduce Mohnish to all of you. Mohnish began his schedule with Tell 
+Labs before he founded his own IT consulting firm. He later sold to Kurt Salmon 
+Associates. That’s when he made the switch to money management. He founded 
+Pabrai Investment Funds in 1999. He's perhaps the best known for winning the bet 
+of $650,000 for a charity lunch with Warren Buffett. He's adopted Warren Buffett's 
+value-based investing approach for his own funds. He's even authored two books 
+on the same approach to investing today.  
+He works with the Dakshana Foundation, which he helped found in 2005. 
+Dakshana Foundation focuses on eliminating poverty by helping to tutor 
+underprivileged children and enabling them to attend some of the country’s best 
+institutes of high learning. I'd like to give you Mohnish Pabrai. 
+That was a warm introduction. It is great to be back at ISB. Thanks for having me 
+back. Last time I was here I was kind of winging it. This time, I thought I'd do a little 
+more prep. I think before I launch into compounding, investing, and so on I just 
+want to share a little bit of couple of thoughts I had on ISB (before there was an 
+ISB).  
+I used to live in Chicago in the 1990s, in the early to mid-‘90s. Some of the professors 
+at Northwestern University Tel School, Rajat Gupta, and such would talk about this 
+Indian School of Business, much of it was in their heads. I think one-time I had 
+broken bread with Rajat Gupta, I have known him for a few years. Of course, here 
+we are today, we have an amazing institution that's thriving and doing well.  
+I just wanted to spend a minute or two on Rajat because I think that even if you 
+don't get any value from the presentation I'm making, I think there's a Shakespeare 
+value in some of the events that have transpired. My heroes Warren Buffett and 
+Charlie Munger say that envy is one of the worst human vices that you can have. 
+In fact, many other human vices, envy, if you have envy towards anybody all that's 
+going to happen is you're going to feel bad. In the case of Rajat, he was off the chart 
+successful, but his downfall was led by two things, basic human traits and envy. He 
+was envious of a person who was much more successful than him at least on paper, 
+Page 2 of 22 
+and much less capable than him, which is probably true. The second is envy and 
+this is a very bad human trait. Also, ego is nothing but a false sense of self. All of us 
+are ashes and dust. We came from ashes and dust, and we will be ashes and dust. 
+It's useful to remember that.  
+A good friend of mine always says, “Everyone works in farms.” Basically, if you were to 
+eliminate envy in your life, and if you were to eliminate as much as you can of ego, 
+you are very far along the path of doing quite well.  
+I'll go ahead and get started; we can start PowerPoint. I'm going to just talk about a 
+very old Indian thing, most of us probably grew up with. It's a tale about the 
+invention of the game of chess. The game of chess was invented about 1,400 years 
+ago, 70 score and four years ago. The guy who invented the game, when he showed 
+it to the king, the king immediately became a big chess fan and was playing all the 
+time. He told the inventor of the game that he could ask for a reward, and it would 
+be his. The investor says, “I want you to put one grain of rice on the first square of 
+the chess board I want you to put two grains of rice on the second board of the 
+chess board, I want you to put four grains on the third board and keep doubling 
+the rice on every square. When you get to the 64th square, then that is the amount of 
+rice I'd like/ That’s all I want.” Of course, the king thought that was a stupid request. 
+He said, “I wanted to give you such a big reward, and this is all you want, a bunch of 
+rice?” He told his treasurer, “Measure out the rice that this guy needs and get him 
+out of my Court.” About a week went by and the guy hadn't figured it out yet. He 
+called the treasurer back in and said, “Why are you taking so much time?” He said, 
+“Well, it took me a while to run the calculation. It turns out that we don't have rice. 
+Not only do we not have it in our granary, but we also don’t have it in the kingdom. 
+Not only do we not have it in the kingdom, but it also doesn’t exist on planet earth.” 
+That is the power of compounding. You took the amount of rice, which is going 
+from 1, 2, 4, 8, 16, and so on. We have a bunch of people who are going to IIT soon. 
+How many grains of rice on their chess board? Anyone raise their hands over here? 
+No accidental raising, anyone with a hand, anyone? Go ahead.  One to the power 64 
+minus one. I won't ask you to lay out the whole number. If you calculate that 
+amount of rice in terms of present rice prices, it works out to $300 trillion. $300 
+trillion is a big number. The entire net worth of every man, woman, and child in the 
+United States is $70 trillion. The entire net worth of every man, woman, and child 
+on the entire planet is just about $300 trillion. Basically, what the guy asked for 
+would be pretty much the entire wealth of the planet, and that is the power of 
+compounding. That is why Einstein calls it the eighth wonder of the world.  
+This story of chess that I told you is something I'm sure most of you have already 
+heard before. In fact, I heard about it when I was a kid. In 1994, I was 30 years old, 
+and I heard about Warren Buffett for the first time. When I heard of Warren, I had 
+really no knowledge of investments or capital allocation or any of those things. I was 
+lucky in 1994 there were a couple of biographies of Warren Buffett that had just 
+come out. I could look at this track record that Warren Buffett had from 1950 to 
+1993. It was a 44-year track record. Over that 44-year period, he had compounded 
+P
+age 3 of 22 
+money at 31% a year. If you are compounding at 31% a year, you will double your 
+money in a little less than three years, maybe two and a half years, or 2.6 years, or 
+something. Warren Buffett had 44-years which compounded at 31%. He was already 
+on the 18th square of the chess board when I first heard about him because he had 
+compounded.  
+I thought back to the story about chess and rice and so on. I talked about Warren, 
+and I said, “Wow, this guy is actually playing out that chess board story.” That story is 
+very powerful because if you keep doing it, he keeps doing it, he’s going to be the 
+wealthiest person on the planet. He became the wealthiest person on the planet. It 
+works.  
+Basically, in the investing world, hardly anyone followed Warren Buffett and his 
+approach to investing in 1994 and even today. Hardly anyone had the returns that 
+he had. The investing professionals did not follow Warren's approach to investing 
+and did not have the results that Warren Buffett had. I thought those two facts will 
+cause an effect. I thought that the Buffett approach was the approach to high rates 
+of compounding. If you didn't follow that approach, you were basically not going to 
+go anywhere. I had these thoughts, these things are related, and no one was 
+replicating. I said, “I like this compounding. I like this 26% or 31% a year. Why don’t I 
+give it a try?”  
+ How many of you have seen the movie, Forest Gump? We get answers in the 
+extreme front of the room and extreme back of the room. How many people in 
+black shirts have seen the movie, Forest Gump? When you go to IIT, on YouTube 
+download the movie, and watch the movie. You will appreciate it. It actually won 
+an Academy Award. It’s a great movie. I’m going to play for you about one minute of 
+the movie right now. 
+Forest Gump is my hero. I like Forest Gump. After I decided to do this, trying to 
+replicate Warren Buffett's compounding, I changed my license plate. I might have 
+mentioned this to some of the Dakshana scholars last time. But maybe for the 
+people who are not in black shirts, what does my license plate mean? Maybe the 
+ISB crowd can take a guess. That’s my real California license plate that is on my real 
+6 Series BMV convertible. What does the plate mean? How do you come up with 
+that? What does it mean?  
+The LB means pound. It's an abbreviation for pound, so compound 26. That's my 
+license plate. I make sure I look at it every day. In 1994, I was 30 years old, I had just 
+sold some assets in this business I was running. I still had the business, just sold a 
+small portion of it and basically ended up at $1 million in the bank. I really had no 
+use for that money, it was the first time I had any kind of money in the bank. At the 
+same time, I read these Buffett biographies and the chess overlaid with his 18 
+squares. I said, “Hey, why don't we focus on a very simple formula, 1.26Q equals two. I 
+can handle that math even though I didn't go to IIT. I decided to play a 30-year 
+game. The 30-year game I decided to play was that if you compound at 26% a year, 
+your money is going to double every three years. If it doubles every three years, then 
+P
+age 4 of 22 
+in 30 years, it’s two to the power of 10. What is two to the power of 10? 1,024. Forget 
+the 24, let’s round to 1,000.  
+I had a million dollars; the plan was to compound at 26%. In 30 years, I should add 
+three zeros to that because it's 1,000 times whatever you had. It becomes a billion, 
+which is a better number than a million. I said, “Let's go for the billion.” My thought 
+was that even if I failed by 90% or 95%, or even 97%, it's still okay. All those numbers 
+are okay. 
+I decided I would play this game, and of course my hero told me, just like I tell all 
+Dakshana scholars, just take up one idea, make that idea your life. Think about it, 
+dream of it. Live on that idea. Let every part of your body be full of that idea and just 
+leave every other idea that is the way to success.  
+I think Swamiji, said that for my benefit to compound money, that's my take on him. 
+Anyway, this is what happened. In 1995, I started putting those million dollars into 
+work. For the next four and a half years, from 1995 middle of June or to the middle 
+of the year in 1999, it grew at 43.4%, way above the 26%.  The $1 million became $5.1 
+million. I said, “All right, man. I knew this could be done. We got it done.” Then, you 
+know, I had all these friends. I would tell them the different stocks they should buy, 
+and they used to make a lot of money with all the stock I would give them. They 
+came to me and said, “Listen, this stock tip business is very random. We want you to 
+manage some money for us, you do what you want. We can have some benefit of 
+that.” July 1st of 1999, I set up Pabrai Investment Funds. It started with $1 million from 
+eight friends of mine. I also put in a $100,000. From 1999 to 2007, middle of 2007, 
+eight years, Pabrai Investment Funds compounded before fees at 37.2% a year. 
+Of course, I get paid outrageous fees. After fees, it was 29.4%. Both numbers are 
+perfectly fine. More than 12 years have passed since I started this. Things were 
+working, going well. Again, pat myself in the back, I was doing well, and then all hell 
+broke loose. For the next 21 months, we compounded at -47.1%. I can just tell you, if 
+you compound -47.1%, the car starts going in reverse. This happens fast. Thankfully 
+that came to an end in 2009. The last four and a quarter year, we've been 
+compounding back again at about 32.8%. Now it's been 18 and a half years, we have 
+this slide wrong. It’s 18.5-years and it’s 25.8%. We undershot by 0.2%. We still have 11 
+and a half years to go. Maybe I can make that up. We'll see. It's close.  
+The good news with investing, unlike tennis, is the more you play the game and the 
+older you get, the better you get. This is a game where over time you get better. 
+That's great. All knowledge is accumulated, that's also good. Of course, the things 
+that you own, your portfolio is very undervalued. I think it'll do well in the future. I'm 
+excited to see how the next eleven and a half years unfold.  
+How does one compound at 26%? Well, you cannot compound, you cannot beat 
+the index by trying to beat the index, you must try to do something different from 
+what the index is doing. Basically, you make very few bets. You make very big bets 
+and make infrequent bets. You make bets when the odds are heavily in your favor. 
+In this business, you can be wrong a lot and still be okay. If you look at my record, I 
+Page 5 of 22 
+Student 1: 
+Mohnish: 
+had that 21-month period where we actually had several investments go to zero, 
+and we still look fine after that period.  
+Of course, this is going somewhat off topic in the sense that we could do a separate 
+presentation on each of these things. If you focus on things like cannibals, 
+companies that are buying, own stock, or spinoffs, or clone what other people are 
+doing, what great investors are doing, which is what I do, a lot of things become a 
+lot easier. Basically, the other thing is that I don't make investments unless we have 
+at least the prospects of double or a triple of the money in two or three years. As 
+that amount of money, the portfolio goes down, that number keeps going up. For 
+example, with the last 5% of assets, the last 10% of assets we need at least 5x or 
+more. That just makes sure that the money goes out during the most distressed 
+times. Of course, after 2009 and 2008 when I got whipsawed if you will, I made 
+some changes. One of the things I came up with was this pre-investment checklist, 
+which has been wonderful. In fact, our error rate is almost zero since 2009. We have 
+hardly had any loss of capital and that makes a big difference. The second is that I 
+started having conversations with the fellow fund manager. That was actually on 
+investment advice I got from Charlie Munger who said that he always had 
+somebody to talk to. Until 2008, actually, I never talked to anyone about my 
+investments. Now I always talk to this one person who is exceptional. It's worked out 
+very well and we don't always agree. In fact, we disagree a lot of the time, but the 
+conversations are still very helpful. That's pretty much the song and dance. You just 
+need to take a simple idea, take it seriously, and compound it as the eighth wonder 
+of the world.  
+You want to be a cloner. I have no original ideas, basically. Many, many ways, copying 
+Warren Buffett. Of course, you must come up with your own license plate.  
+I'm going to now play a five-minute Bollywood video for you, to put you in a better 
+mood. We’ll play the mp4 at maximum volume and take the lights down. Thank 
+you. We’ll answer your questions.  
+We'll take your questions and I think we have a couple of mics. Maybe if someone 
+can just take the mics around, we can all hear the question. You can ask things that 
+are in the presentation, and I hope you ask things that are not in the presentation. 
+Pretty much you can ask anything you want other than what I'm buying right now. 
+My question is, you said its replica. The theory of replica if it is that easy why is 
+everyone not doing it? Another thing, how do you do that? For example, you said 
+like 50 to 75% of the fund is invested in the industry, which would become two 
+weeks, two to three years. But how do you decide that? 
+Let me start with your first question. That’s a very deep question. I said it's not 
+replicable, but no one is replicating. It took me a long time to figure this out, and 
+I'm just about getting close to figuring it out. There is something strange in the 
+human genome, something strange that makes people. The good news is we 
+sometimes can give you an expanded answer that makes people very much 
+opposed to being intense copycats. Most humans do not want to do cloning 
+Page 6 of 22 
+because they can consider it beneath themselves. Of course, low life people like 
+me, do not consider cloning to be beneath me. I'm willing to do it. To give you 
+an example, if you look at a company like Microsoft, Microsoft isn't even that great of 
+a cloner because anything they work on takes them three or five or seven versions 
+to get it right.  
+Sorry, Ashok, maybe you can make it better for them. It takes them a long time. But 
+the bottom line is that most of Microsoft's revenue comes from Windows, which 
+was cloned. It comes from the office. PowerPoint was bought from another 
+company. Word was from Word Perfect. Excel was from Lotus, and so on and so 
+forth. Even SQL Server was lifted from Oracle, and it just goes on and on. You can 
+look at Microsoft money, you can look at Paint coming from Google, and so on. The 
+bottom line is that Microsoft isn't even that great a cloner but it's one of the largest 
+and most successful companies out there.  
+You look at another company, this is something that really perplexes me. It’s called 
+Walmart. Sam Walton, the founder of Walmart, would not call him a brilliant man. 
+He was not someone who would’ve been blowing of IQ tests. Most of the people in 
+this room would've had a higher IQ than Sam Walton. But Sam Walton, if he was 
+alive today, he would've had a network of about $150 billion. He'd be the richest 
+person on the planet. For the first 20 years of its existence, Walmart did not come 
+up with any innovation. All Walmart did was look at Kmart model and the Sears 
+model and replicated them. In fact, what I find funny is in India we have this big 
+debate going on about letting digress for a second foreign retailers to make things 
+more efficient. If they talk about Walmart coming in, there is nothing in Walmart’s 
+business model that anyone can look at by walking into a Walmart and replicating 
+it.  
+India does not need Walmart to come in, for retail to become efficient. India just 
+needs an entrepreneur to look at that model and replicate it. That's it. There's 
+nothing else needed. There's nothing special about Walmart's model. There's 
+nothing special about Microsoft’s model. This list goes on and on. McDonald's for 
+example, they have a whole army of people, whole departments, which spend all 
+their time trying to figure out which is the next location they should put the next 
+McDonald's in. They do a lot of studies and analysis to figure out demographics and 
+all that. In the United States, Burger King, which competes with McDonald's, has 
+two people figuring out locations. All they do is look at where McDonald's is putting 
+their locations. It's a very powerful strategy. They look at how McDonald's is opening 
+in Peoria, I don't know, at this corner. They say, “We’ll take the next corner and open 
+there too. They’ve done all the work, so they must be working well for them.”  
+The thing is, Walmart’s of the world, the Burger Kings of the world, and Microsoft’s of 
+the world are rare. Most people do not want to do cloning because they think it's 
+low. In fact, even when I looked at Buffett's model, I set up my own investment 
+partnership. I replicated the Buffett partnership.  He closed his partnership in 1969. I 
+opened my partnership in 1999, 30 years later. In 30 years, I could not find one 
+example of a single fund anywhere in the world that had replicated the Buffett 
+model, which was the most successful hedge fund ever created. Nobody replicates 
+Page 7 of 22 
+Student 1: 
+Mohnish: 
+the model that ran from 1956 to 1969. There were books published, the books I read, 
+and the books had sold millions of copies printed in many languages. The model 
+was very simple. There's nothing special about the model. Even today, forget 1999, 
+today is 2013. I've been running Pabrai Investment Funds for about 14 years.  
+I've spoken at so many business schools and so many different places, and I've 
+answered questions as you asked. I've told the business school students that there's 
+no point in paying fees to ISB. I'm sorry, have they already collected full in advance, 
+but half, so you can still save half. Sorry, I'm sorry. There's not an ad, but you can still 
+save half. What you can do is, you don't need to even listen to the rest of the board 
+in Q&A. You can walk out right now and start replicating. Every time I say this, 
+nobody walks out. They want to keep paying tuition.  
+First of all, the only thing I can figure out is there's something in the human genome 
+that makes cloning very attractive to maybe one or 2% of the population, if that, 
+probably less than that. For some reason it makes it very attractive. 
+I have adopted cloning in a very serious manner. In fact, on my gravestone, they will 
+write, and I hope they will write, “He was a cloner. That's it.” In fact, if you look at 
+Dakshana, our model that works so well, it’s not the model I came up with. I could 
+never come with such a good model. I'm too stupid to come up with a model like 
+Dakshana. It was lifted from Super 30. Anand Kumar, a great guy came up with a 
+great model, just like Kmart came up with a great model, and McDonalds does a 
+great job. All we had to do was ask Anand Kumar, “Hey, do you have a problem if we 
+clone your model?” He said, “No, I'll help you.” So, I said, “Okay, great.” Now I can 
+clone, and the guy wants to help me. It’s great. That was the first question. What 
+was the second question?  
+How do you do it? For example, you said, 75% of the stock is invested. 
+Yeah. That's the crux, the real question. 
+I don't have a newspaper in front of me. I should have brought one. In fact, I'll do it 
+maybe in my next presentation sometime. I want to take the Economic Times  or 
+Wall Street Journal  or whatever, and I want to create a dartboard out of all the stock 
+board pages. Create a dartboard, maybe I'll actually create a real dartboard, have 
+some unpaid interns do that. I want to take a dart and throw it at the dartboard. 
+Whatever stock it lands on, I want to take that stock and just give you the statistics. 
+Let's say, a company in the US, like General Motors, a huge car company, I know 
+close to $200 billion in sales, $150 billion to $200 billion in sales. If you look at the 52-
+week range on GM and General Motors, you can do the same thing with Infosys. You 
+can do it with Tata Motors. You can do it with any company by just throwing the 
+dart basically. What you find is that in 52 weeks, which is in one year of time that it 
+takes the earth going around once, General Motors was at one time being valued at 
+$18 a share. In fact, just yesterday, it hit a 52-week high. It's over $36 a year. In one 
+year, this one stock, you have basically 50% movement. You double the market cap 
+from a year ago or whatever. The underlying business has not changed that much.
+Page 8 of 22 
+Student 1: 
+Mohnish: 
+If I look at Infosys, I don't know you guys, what are the price of Infosys right now? 
+2,000, 2,800 rupees. What is a 52 low on it? The 52-week high?   
+I guess it's high, I'm not wrong. 
+It’s 2,200 to 2,800. You have a range of like 30% or so. Now if you look at any other 
+asset class, let's say I have a three-year-old model T car, okay? The price I could get 
+for that car a year ago, three-years ago, and the price today is within 5 or 10% of 
+each other.  Even for the most part real estate movement is low. Stock markets are 
+different creatures. The reason they're different creatures is because they are auction 
+driven markets. In the case of a car, you have an intelligent buyer facing an 
+intelligent seller. Between the intelligent buyer and seller, they arrive at a price of 
+the car that makes sense. If they don't arrive at an intelligent price, there'll be no 
+transaction. Both sides have to agree.  
+In the case of the stock market, you are basically faceless. Buyers are faceless and so 
+are sellers. You are auction driven with this mechanism for setting pricing. Auction 
+driven mechanisms, by their very nature, are set up to create distortions. Warren 
+Buffett has benefited big time from those distortions. If there was no stock market, 
+Buffett could not have done what he did. Let's say Warren Buffett was restricted 
+from 1950 until today to only buy private companies from intelligent sellers. No way 
+anywhere close to what the record is today. We have this mechanism of this 
+auction driven market that we have this distortion. 
+If I went to buy GM a year back and I went to them today, the price would not 
+change a 100%. It would be 5%. In the case of Infosys, you go to buy the whole 
+company and they give you a price today and you go to them six months from 
+now, the price will not change that much. Bottom line is that it is the auction 
+driven nature of these markets that causes these wide distortions.  
+The second is that especially when there is extreme fear or extreme greed, you will 
+get attenuation of that distortion. Infosys is something, for example, which is a 
+breach company. But what if I pick something that is an obscure company? Let's 
+say I pick regional Jute producer in Calcutta; 100 pro market cap type and it will 
+have a wilder distortion. But the same company, if you go do a private transaction 
+to buy is going to have less distortions. The stock market is set up for clones like me 
+to have a field day with. The same thing you see in the public market.  
+Facebook comes public, everyone's excited about Facebook, the stock price goes 
+up like crazy. Then a few months later, no one was interested. That goes on all the 
+time. Markets are constantly overshooting sometimes where they are significantly 
+valuable. The companies all are significantly undershooting where they're 
+significantly undervalued. Because of the significant over and undershooting you 
+can sit there. The bottom line is that if you have that much of a swing, 50% to 100% 
+type of a swing in a year, it means that there are enough companies out there that 
+are not correctly priced at any given time. They're either underpriced or overpriced. 
+Especially if you are overly on top of that distress, temporary situation that affects 
+that business that will cause even more attenuation of the pricing.  
+Page 9 of 22 
+Student 2: 
+Mohnish: 
+Student 2: 
+Mohnish: 
+The other thing that's happening in public markets is that in any company, typically in 
+about two years, sometimes in one year, sometimes six months, the entire 
+shareholder base changes. People aren't even holding the stocks that long. All of 
+these things basically mean that some yoyo like me can sit there, spend most of my 
+time talking to you guys or hanging out with Dakshana scholars, and every once in a 
+while, I see distortions of an extreme nature. When I see distortions of an extreme 
+nature, then I act precisely, and I don't even need to be right all the time. I can be, in 
+fact, John Templeton, who was a great investor said, ”There is no investor who's 
+right more than two out of three times.” You can be wrong plenty of times and you 
+can still do fine.  
+These distortions take place all the time. If you understand the business, what it’s 
+really about, and the first most important thing is circle of competence stick within 
+things that you understand really well. If you understand things really well, you know 
+what they're worth. When the world is valuing it much below what it should be 
+worth, that's when you act to buy. When the world is valuing it significantly above 
+what is worth, and you sell it, you’re done. Nothing has to be done. Maybe you have 
+two or three buys in a year, two or three sales in a year, and you move on from there. 
+My doubt was basically in, like you said, that evaluating potential buy by throwing a 
+dart. 
+You're putting words in my mouth. Did I say that? I said, by throwing a dart, I can 
+demonstrate to you the wide distortions that take place in stock prices. That's not 
+how I pick stocks. 
+What would the metrics you use be like? What would you use for validating the 
+potential?  
+Number one, I do not throw darts to pitch, in case I was not clear. I don't do that. 
+Let me give you some data points that might be useful. There were a couple of 
+professors in the US, one guy is at the University of Nevada, and another guy is at 
+Ohio State. They wrote a paper where they looked at every stock Warren Buffett 
+bought for 30 years from 1975 to 2005. A 30-year period. They did an analysis. They 
+said, “If you bought what Buffett bought, and you bought it after it was publicly 
+known that he had bought it, and you bought it on the last day of the month that it 
+was publicly known that he had bought it, you bought it at the high price of the last 
+year of the month.” The highest price it traded on, which means that you go and 
+find the worst possible broker on the planet and say, “Please give me the worst 
+possible price you can get and I want to buy it at that price.” Then you hold it until 
+Buffett started selling the stock. It was known publicly that he was selling it and you 
+sold it on the last day of the month that it was public. The price you got when you 
+sold it was the lowest price on that last day of the month. You did this for every 
+stock that he bought and sold for 30 years. If you did that, you beat the index, the 
+S&P 500 by 11.5% a year on average. The S&P had done about 10% historically. You 
+were doing about 21.5% a year with no ISB degree required. Again, you can walk out of 
+Page 10 of 22 
+the room right now and you can put this strategy to work. I've told so many business 
+school students about the strategy and so far nobody has set up a fund to do this.  
+Why are they not replicating? It's still not too late. You can start a fund tomorrow 
+which does this. You can take a villa and go on vacation every day. Then the last day 
+of the month, you come back from the swimming pool and just look, “Okay, has 
+Buffett bought anything?” “He bought IBM. Okay, we’ll buy it.” Then you go back to 
+your ocean surfing, swimming, whatever else you’re doing until the end of the next 
+month. You are done.  
+The bottom line is that cloning, which I talked about, is a very powerful notion. 
+Unfortunately, no business school professor has ever written any books on cloning 
+that I'm aware of are any good. There are a few books on cloning, but they miss the 
+point, I think. The bottom line is if you did what Buffett did, what these professors 
+said you should do, what Buffett did, you are already meeting the S&P by 11% points, 
+11% a year. Now most of what Pabrai Investment Funds has done, at least in the last 
+several years is in fact, if I look at my portfolio, almost everything that we own was 
+copied from some other great investor. Please don’t tell anyone. Keep this our secret. 
+We just keep it for internal use. Don’t put it on the web. We only want ISB to have an 
+edge. 
+Basically, what I am doing, you can say is a slight tweak to the paper that these 
+professors wrote where basically if you set up a fund, and clone the ideas of great 
+investors, it only layers or adds to what you can do. I don’t buy everything that the 
+other greats are buying. I look at what they are buying and then I look at the ones 
+that I can understand and the ones that I can understand and figure out. Yes, if they 
+are undervalued, and it’s right, I will buy. Those are the ones that I’m buying and 
+that’s it. Basically, limiting it to two or three decisions a year. Not much else is 
+required.  
+Balachandra: I just wanted to understand the relevance of putting the topic of investing and 
+Mohnish: 
+Speaker 3: 
+philanthropies. This is a topic we are here to see of you. We are yet to hear about 
+philanthropy. 
+If you ask me, we can go there. Do you have a question on philanthropy? 
+No, we just wanted to hear some thoughts on philanthropy also. 
+Balachandra: We just heard about the investing issues, compounding, and all. 
+Mohnish: Actually, what you will find, and I’ll maybe digress for a few minutes and not even 
+digress, but I’ll go into it for a few minutes. What you’ll find is, it’s the same as 
+investing. There’s really no difference. My personal biases of philanthropy which I get 
+to play out in Dakshana are very simple. Basically, first of all, I feel that my father 
+used to say, “We come to this world naked. We are going to leave the world naked.” 
+Since we are leaving the world naked, then the question comes up that if you end 
+up with more assets than you need, what do you do with them? Probably a lot of, 
+because of Warren Buffett’s influence, for most people, the best thing to do is to 
+recycle it back to society. 
+Page 11 of 22 
+Ashok: 
+If you decide that you want to recycle assets back to society, then the question 
+becomes how do you do that? And what do you, what do you focus on? Some basic 
+principles, number one which comes straight to investing, is that if you were looking 
+at two different charitable endeavors, endeavor A and endeavor B, you ought to be 
+able to figure out which one delivers a higher return to society. If you really 
+understand that, and once you figure out which one delivers a higher return to 
+society, what you ought to do is put all of it into the higher return endeavor. The first 
+thing about philanthropy, my philosophy is you do not do sprinkling. You do not say, 
+I’ll give some money here and I’ll give some money here. I’ll give some money here. 
+No, because that is not going to maximize and optimize what society’s benefit is. 
+The first thing is it has to go through single calls, and it has to go to the cause that 
+has the highest possible returns. In my case, it will very easily conclude that is likely 
+with investments in education towards alleviation of poverty. Education has a huge 
+multiplier effect. Then you get to the point of saying, “Okay, I want to invest in 
+education. Instead of giving a person a fish and you feed them for a day, you teach 
+a person to fish, and you feed them for a lifetime.” Then the question comes up, do 
+you want to teach fishing? What type of fishermen does you want to create? 
+The model Dakshana has adopted is a very high ROI model because we have a 
+partnership with the government of India. They do most of the heavy lifting. We get 
+to add on top of a great model. The returns we get on the funds that we invest are 
+off the charts. In fact, to demonstrate that maybe I can have Ashok come up. Ashok, 
+can you come up for a second?  
+Ashok Kumar is a Dakshana scholar who is an IIT Bombay student. You finish two 
+years or three years? He’s finished three from IIT Bombay, he’s actually from 
+Gachibowli. He grew up here, right? And in fact, I visited his home in Gachibowli 
+with my daughter a couple of years back, I think two years back. Ashok’s father is a 
+tailor and I think it’s a lower-class area where he practices the profession. 
+Very, very modest dwelling. In fact, when I went to this home, my daughter and I 
+could sit down on two chairs. The rest of the family had no chairs to sit on. We were 
+served tea on a very small stool, which could probably hold maybe just two cups of 
+tea and some snacks. Basically, Ashok went to the Jawahar Navodaya Vidyalaya in 
+Gachibowli, he got picked by us in 10 th grade because he cleared our selection test. 
+We worked with him for two years on IIT prep. Then after two years, he took the IIT 
+entrance exam in 2010. His India rank was 63. Half a million kids take the exam. It’s a 
+single generation transformation in my mind from zero to here of that family. In 
+terms of what we invested; we could never do that for the family if we were not 
+riding on a great platform. Ashok is now interning at Microsoft also in Gachibowli. 
+Basically, I think the future of his family is going to look very different very soon.   
+Ashok, maybe you can answer this question. What do you think of the Dakshana 
+model? What do you think we’re doing in this? 
+Well, I am Ashok Kumar. I am staying in Chanda Nagar here. In my 10 th class, I took 
+my Dakshana entrance test, and got selected for Dakshana. It’s an organization that 
+Page 12 of 22 
+Tom: 
+Mohnish: 
+Tom: 
+Mohnish: 
+Tom: 
+Mohnish: 
+Raj: 
+Mohnish: 
+Raj: 
+Mohnish: 
+helps the poor students who cannot afford IIT coaching and they help to get it free 
+of cost. I come from a poor background. I don’t think my parents would’ve given 
+me coaching at that price. I would’ve continued my studies without any coaching, 
+and I would land up in some local college here. But really, it’s because of Dakshana, 
+I am in this position now, and I’m proud of it. I’ll be completing my fourth year. I’ll 
+be graduating next year from IIT Bombay in the computer science department. I 
+recently interned at Microsoft. My last job was an internship there. 
+I had a question on the back on the investing side. My name is Tom Highland. I am 
+an ISB alum, and I manage an early-stage venture capital fund focused on nuts-
+and-bolts businesses here in India. I just had a question. You put up a slide earlier 
+around your fee structure and there’s something 800, 900 basis one difference 
+between your net fees and your return. 
+Yes. 
+I’m curious as to how that works? 
+My investors love my fee structure. In fact, if the entire fund industry adopted my fee 
+structure, the industry would disappear. my fee structure, which is copied straight 
+from Warren Buffett, is there are zero management fees. I don’t get paid anything 
+for assets in the management. The first 6% of returns go to the investors. Above 6%, 
+I get one fourth and they get three fourths. If you’re up 10%, I get 1%. It’s subject to 
+high water marks. If you are up 5%, we get nothing. If you are down, we get 
+nothing. If the industry adopted that fee structure, which I would love them to do, 
+they would just disappear. 
+The second part related to that is not everyone is a natural stock picker or a cloner. 
+For those that want to build wealth and perhaps just buy into the S&P, do you just 
+buy DF, buy a fund with a very low load and kind of sell it in another go? 
+Let’s say you had a 70 IQ and you say that, “Hey, I want to do the best I can.” I would 
+say, “Okay, you know, 70 IQ you can buy an index fund.” Then someone comes and 
+says, “Hey, you know, I have an 85 IQ. I’m better than 70 IQ guy. Can you do better 
+than that?” I say, “Yeah, of course. You can buy Berkshire Hathaway stock and just 
+hold it. High property will be better than the index.” Then someone says, “Well, I’m a 
+100 IQ, can I do better than 85 IQ?” I say, “Of course you can.” Then I say, “Just read 
+the paper by those two professors and replicate that.” Then someone says, “I have 
+120 IQ.” Then I would say, “Why don’t you just do what I’m doing?”  
+Hi, my name is Raj. I’m an ISB alum, 2007. My question, you guys analyzed what 
+happened in 2009, what went wrong? What immense went after that?  
+What went wrong? 
+Yeah, what went wrong and when? 
+Sure, sure. That’s a very good question. Well, we don’t learn anything from success. 
+It’s really when we stumble that we learn a lot. In fact, I’m very grateful. Every time 
+Page 13 of 22 
+in my life when I’ve stumbled it has led to growth and led to learning and stuff. I 
+think that period from 2007 to 2009 was a wonderful period from a growth and 
+learning perspective. In fact, I’m reaping a lot of the rewards of some of the lessons 
+already. I think one of the things that went wrong was hubris. I had gone from 
+literally from, I mean, the entire period, the funds ran from 1999 to 2007. We never 
+had a down year. Not only did we do 37.2%, but we also never had negative returns 
+in any single year, including the period of popping the NASDAQ bubble and all 
+that.  
+Through all that period, that helped us because there were all these other stocks 
+that were undervalued. I think there was hubris in the sense that I think there was 
+maybe a bit of a build-up of thinking that I couldn’t do anything wrong. The second 
+was that I never at all saw the housing bubble. I completely missed seeing that. 
+There were investments that I had made, which in hindsight were very dependent 
+on a functioning financial system. Basically, what happened in 2008 and 2009 was 
+that the financial system in the US basically was out of oxygen. It just couldn’t 
+breathe. I had companies that were dependent in my portfolio, who were 
+dependent on access to capital markets, access to financing, access to all that. 
+When you just cut that off, they just went on a tailspin. Of course, I run a quantitative 
+portfolio. Like in one case, a company called Delta Financial, we took a $65 million 
+loss, $65 million to zero. Another case we took almost a $40 million loss. On the one 
+hand we had permanent losses in some cases, which took us down. In other cases, 
+what happened is the entire market fell. Things get overvalued and undervalued. 
+We had things that were solid, solid businesses. They were just knocked down in 
+price. The big problem I had at that time was that we were fully invested, and we 
+had no ability to be offensive to actually go and buy the best thing at that time that 
+we would’ve been able to go and buy. We had no cash.  
+Not only did I not have cash, but I had redemptions from investors. I had to raise 
+cash to redeem people, and I’m basically exiting them in my exiting positions, which 
+are pennies on the dollar. That compounded the problem.  
+One basic lesson, cash or skin. One of the reasons I put in those rules where returns 
+need to be at least 5x or greater for the last 10% of cash, is that it is hard to find. 
+That’s not easy to find. That means you’re basically riding with a cushion. Most of last 
+year we were sitting on more than 20% of cash, for example. In fact, even now I’m 
+sitting on just around 10% of cash. That’s a big change from basically the time I 
+started in 1995 until 2007. There were very few periods where we actually had held 
+cash.  We always were almost fully invested.  
+One change we made is a very healthy appreciation for holding cash. The other two 
+changes I made were where I came up with this investment checklist, which is a 
+whole different presentation. But basically, it’s very powerful. It’s looking at the 
+mistakes that other great investors have made and why they made them, and 
+whether those mistakes would have been obvious to spot at the time the 
+investment was made. In many cases, someone makes the investment you can 
+make right up front and there is no problem. The checklist has been very useful in 
+Page 14 of 22 
+catching those. I started having a conversation with another investment manager, 
+which has been very useful. Then the cash approach was useful. I’ll just digress a 
+little bit. 
+When one of the biographies of Warren Buffett came out, Snowball, which was 
+written by Alice Schroeder, she said that when Warren Buffett was a child, he used 
+to walk in a strange way. He used to walk with his knees kind of somewhat bent 
+and then walk. the reason he did that was to absolutely take out any probability of 
+him falling. Very careful kid, not trying to fall. In fact, the way Warren Buffett picks 
+stocks are the same. He extremely spent most of his time on the downside, he 
+looks at, “How can I lose money?” He spends all his time and energy, not how 
+much money can he make. He looks at, “What will cause me to lose money? How 
+will I fall? What will cause me to call?”  
+There’s a bunch of great appreciation since 2007 or 2009 on the downside. I just 
+spend a lot of money on the checklist of those forces. 
+Madhusudan: Hi, Mohnish, this is Madhusudan. I have two questions. You scan almost globally in 
+Mohnish: 
+different countries and different companies in various sectors. In one of your 
+interviews quoted, “I have invested in only two companies in India, and I don’t do it 
+because of regulatory hazards or whatever there.” If there are a few companies who 
+generally pop up on your radar, like a few big bets and frequent bets, even if you 
+don’t invest, can you just go over companies generally pop up on your radar? 
+Sure. The Indian market, you know, for me as a US investor, that’s just cumbersome. 
+I think the second the Indian markets are quite different from the US markets. One 
+sense, I hardly ever see, basically never see managements. I hardly ever visit 
+businesses. You can call me an armchair investor. I am not interested in going and 
+understanding the people, meeting them, and all of that.  
+In India, if I were to follow the approach I do in the US, I think I’d get my head 
+handed to me.  If I were an investor who focused on India, I would focus on 
+businesses that had major growth ahead of them. You know, businesses that can 
+do a 10x or 20x in five years or 10 years, significant growth. 
+ It almost becomes like private equity investing or venture capital investing if you 
+want to do that. In fact, if I were investing in India, I would not want to be restricted 
+to public banking. I would want to have a fund that would allow me to do all of the 
+above, private, public, real estate, anything that I wanted to do. I would set up a 
+different structure. If I wanted to do that structure, I could not do armchair investing. 
+I would have to be able to handicap the nature of management and all of that. I’m 
+able to do that in the US because the businesses I invested in have very long 
+histories and the managements have very long histories. In the United States, I can 
+make an almost definitive statement. The probability that I will lose money on 
+investment because of fraud is pretty close to zero. In fact, I can’t think of a single 
+case in the past 18 years as an investor that I lost money on investment because of 
+fraud. I had lost money on investment because of my stupidity, but not because of 
+fraud.  
+Page 15 of 22 
+In India, I could not make that statement. There are plenty of very high-quality 
+entrepreneurs. There are plenty of low-quality entrepreneurs and you’d have to sift 
+them out. My biases are that I like to just sit in an armchair and my wife will tell you, 
+he doesn’t work at all. I have no interest in kicking the tires and going and meeting 
+businesses and trying to figure out the venture capital approaches you have to 
+forecast ahead without too many tread marks behind you. That’s just not a game 
+that I either would be good at playing or even have an interest in playing.  
+I think that the Indian markets, I’d have to move here to do that. I’d have to do it 
+with it being the only thing that I do. They’d just be several structural changes that 
+I’d have to make that aren’t that exciting for me to make. Those are the reasons. I 
+have no Indian stock for you because I really do not follow the Indian markets. But 
+what I would suggest is you can do the same thing, which is to the extent that 
+Indian markets require disclosure you should find out who the good investors are 
+and look at what they’re doing. I can tell you some names of people I admire in 
+India. I think Chetan Parikh is very good. I think Amitabh Singhi in Delhi is very 
+good. If you track some of these and they probably have many more of them, then 
+that might be a good place to see what they’re doing and then figure it out.  
+Madhusudan: Thanks, Mohnish. My next question is in one of your interviews, you said in one of 
+your funds, you invested almost 60% of it in one stock, and you would even stretch 
+to 90% provided you had the funds. Can you share the sector if you are not 
+comfortable with sharing the company?  
+Mohnish: I don’t think I ever said that. Which magazine was that in? 
+Madhusudan: I don’t remember. I was just googling and reading all your interviews. 
+Mohnish: Let me correct that. I think when I invested Dakshana’s assets, we were very 
+concentrated in the manner that we did this. Not the funds, but the Dakshana 
+foundation. The foundation is willing to absolutely place a single stock as the whole 
+pie. We have no problem doing that, of course I should just correct that. The thing 
+is, we have different pools of money, and one of the pools is money that comes 
+from outside my family. Money that comes from outside my family just sits in the 
+money market. It doesn’t get invested. The money that my own family puts into 
+Dakshana, we want to maximize returns. There is one stock that the foundation has 
+a big stake in. I think it’ll do very well, and it should go nameless. I can’t tell you 
+much more about it. 
+Madhusudan: It’s a US or an Indian stock? 
+Mohnish: 
+Chaitanya: 
+It’s not an Indian stock based on my earlier comments.  And it’s not even a US stock. 
+There you go. We have what, a hundred odd countries you can think about? 
+Hi, my name is Chaitanya. I have a question regarding investment. One of the 
+central themes of Warren Buffett investing is the presence of moat around 
+companies that he looks at. But your concept of cloning, as I understand it, might 
+conflict with that moat. Or could you just please clarify that? Is there a difference 
+between the cloning part and the presence of a moat? The presence of a 
+moat means there is very less competition than good returns on the capital. But 
+Page 16 of 22 
+Mohnish: 
+essentially, like I’m copying another guy in a business, so my returns reduced. 
+Well, Buffett is a multidimensional investor. I would say dozens of investments, if not 
+50 plus, 100 investments he has made were not moat based. To give you an 
+example, I think maybe around 10 years back, he bought the debt of Finova Capital. 
+Finova is like a subprime lender in the US that was going bankrupt. He bought the 
+debt, and he bought a lot of the debt. He basically got into a position where he 
+could participate in the restructuring of the business. That business is not much of 
+moat. They had a portfolio and there were certain statistics of loss that you would 
+have in that portfolio. 
+He wanted to run that portfolio, which means getting the loans paid off, etc. Just to 
+keep the residue. There are dozens of investments Buffett has made and continues 
+to make that are not based on moats. In fact, he’s done lots and lots of 
+arbitrage deals. In fact, he used to do a lot of things in 50s and 60s.  
+I would say that Buffett prefers to buy moats. I think now with the size of the capital 
+he has; the odds are heavy that he would go mostly moat based. But that’s not all 
+he does. He does all sorts of things that are non-moat based and so it’s not 
+in conflict. I think the cloning thing is, let’s say you picked four or five investors that 
+you thought were exceptional, and let’s say that I’m going to pick the best of their 
+ideas, which I can understand within my circle of competence, maybe even the 
+ones that have more, etc. You put some criteria on that. You can skip the ones 
+that don’t have moats, you can skip the ones that you don’t understand. So cloning 
+is not in conflict with moats. You can actually do extremely well investing in a 
+business that is unquote a shallow moat if you pay next to nothing for it. 
+Of course, the ideal situation is to buy a business with a great moat at a great 
+price or even a fair price. There are many different ways to skid the investing cat. 
+Moats are just one way to do it. 
+And I will just take this one step further, Charlie Munger, Buffett’s partner share says 
+that “you can be a very successful investor, if you live in some small town in US, lets 
+say Peoria in Illinois or something. You just thought, for e.g., there is 
+McDonald’s franchise in that town. You brought the best corporate or office 
+building in that town. Let’s say you bought a Ford dealership in that town. And 
+these are the four assets you own. And “bought” means fractions of them, like you 
+might own 10% of McDonald’s for example. So if you constructed a portfolio 
+which has those four assets. And doesn’t need to be Peoria in Illinois. It 
+could be Aurangabad in Maharashtra. It could be the same thing there. 
+Someone looking at the portfolio, the outside would say, this is not diversified, it’s all 
+in the same geography. That’s true, it’s the same geography, but the odds are very, 
+very high. If a person bought those four assets and he bought them at reasonable 
+prices and he never touched them in terms of selling them or anything over 
+a lifetime, he’ll do extremely well. If you look at the competent circle of 
+competence of an investor like that, it’s this small. They invested in 
+something just in their geography in just four asset classes and very basic asset 
+classes. You don’t need to do esoteric things to do well as an investor.
+Page 17 of 22 
+Mohnish: 
+Mohnish: 
+Arun: 
+Mohnish: 
+I think simplicity is very powerful and keeping it simple is really, really, I think 
+important.  
+Next question? 
+Any questions from Dakshana scholars? 
+I am Arunkripa. I have a doubt like currently the markets are so volatile in the world. 
+I think this is the problem of over analysis of stuff. Sometimes when are talking 
+about the European economic crisis and currently we are talking about Fed 
+tempering and sometime back we were talking about physical place. So, what is 
+the point of over-analyzing these things? 
+Yeah, actually for the most part you should ignore macro. Going back to my 
+example of the McDonald’s franchise and Ford dealership etc. I live in Irvine, 
+California. There is a McDonald’s which is three or four miles from my house and 
+recently they made their drive-thru 24-hours. So actually you can’t go to the 
+restaurant 24 hours but you can drive thru and pick up stuff anytime, 4 AM or 3 AM, 
+anytime. So that made McDonald’s well run and does so much business. So what is 
+the impact of any of the factors that you were talking about, on the cash flow that 
+McDonald’s will produce this month or next month or next year or two years from 
+now or five years from now? So, I would believe that the micro in many ways trumps 
+the macro.  
+Let’s say that McDonald’s came on sale for let’s say $5 million, and your family had a 
+network of $10 million. The question is, is there an asset that you would put $5 
+million into? Let’s say if it was producing $400,000 a year in cash, for example. So it 
+is 12 times the cash flow or something. So, the question you would ask yourself if 
+you were looking at that transaction is, how long can that $400,000 a year cash flow 
+continue? Can it increase? What will cause it to go down, etcetera? So, there will be 
+factors around that McDonald's that would dominate that discussion. It is 
+completely irrelevant what the Fed policy is and completely irrelevant what 
+exchange rates are and all these things, all those things become irrelevant. 
+As an investor,  you are always better off focusing on the business because 90% of 
+the eventual results of the business will be from what happens inside it. So, I would 
+say that when I look at McDonald’s as an example only own business you can buy, 
+the same thing applies for me are looking at stocks, is you must look at it as if you're 
+buying the whole company. Someone mentioned the stock price of Infosys. What is 
+the market cap of Infosys? Anyone know the market cap? 
+INR 1.4 lac crores? No, I'm sorry. Okay, anyway, let's say, there's a company in India 
+that has a market cap of let's say INR 5,000 crores. And let's say the stock trades, at 
+200 rupees. I'm really not interested in the 200-rupee price. I'm interested in the 
+INR 5,000 crores. The question I  would ask myself is, if my family has INR 8,000 - 
+9,000 crores in total assets, will I put INR 5,000 crores into this company and be 
+happy to own it for 10 years? And if the answer is no, which is probably the case, 
+then I'm not even interested in  buying one share at 200 rupees.  So those are the 
+types of questions that an investor should be asking, If this were 70% of my family's 
+Page 18 of 22 
+Student: 
+Mohnish: 
+Student: 
+Mohnish: 
+Mohnish: 
+Student: 
+Mohnish: 
+Student: 
+Mohnish: 
+Student: 
+Mohnish: 
+Student: 
+Mohnish: 
+Student: 
+Mohnish: 
+Student: 
+Mohnish: 
+Ashok: 
+Mohnish: 
+assets and I could not sell it for five years would I buy it? And I think if we just asked 
+that question, it will save you a lot of trouble later on.  
+Maybe we can get at least one question from the black shirts. Yeah, we got a 
+question. Please tell me what year you are and what your plans and life are as well. 
+I want to replicate what you have done and are still doing. How should I proceed? 
+I’m sorry, you must repeat. I couldn’t fully understand. 
+I want to replicate what you have done. 
+You want to replicate, great. You want to be a cloner.  
+You want to replicate what I’ve done? 
+Yeah, but sir, I have no money in my hand. But I want to replicate you. How to 
+proceed? 
+Very simple. First of all, when did you join Dakshana, this year or last year? 
+Last year. 
+Last year. Okay. Are you going to join IIT? 
+Yes, sir. 
+Okay. What is your rank going to be? 
+Below thousand. 
+Pardon? 
+Below thousand. 
+Okay. All right, very good. I have another talk I give and will give the abbreviated 
+version. It’s called the secret, the secret to becoming very wealthy. That’s what you 
+want, right? Okay, so here’s the secret. How many hours are there in a week?  
+168 hours. 
+168 hours. When you start working full time, let’s say you finish your degree in IIT and 
+you join Infosys or something. How many hours a week are you required to work? 
+Ashok, how many hours? 
+40. 
+40, 45. The US is 40 hours, let’s say 45 hours. Let’s say 50 hours. We want to work hard 
+for our employer. 50 hours, how many hours are left? So even if you take out time for 
+sleeping and other things, what you will find is that you are basically left with at least 
+another 30 or 40 hours that you could do something else, okay? You can spend it 
+with your friends and watching movies and enjoy yourself, or you can spend it in 
+Page 19 of 22 
+Ashok: 
+Mohnish: 
+Student: 
+your Swami Vivekananda’s single minded pursuit of maximum wealth. What do you 
+want to spend it on with friends or to maximize wealth? 
+Maximize wealth. 
+Maximize wealth? Okay. Basically, when I graduated with a degree in engineering, I 
+took a job, and they required me to work 40 hours a week. After three years of 
+working, I had an idea of something I wanted to do. I used to get very good reviews 
+from my employer. I no longer care about the review, how good I’m doing, that’s 
+irrelevant. My objective was, once I knew what I wanted to do, my idea of my 
+business was to not get fired. They should not tell me you lost your job because I 
+need the cash flow. I just did enough to make sure that I’m not fired. What I used 
+to do is from seven in the morning till about 8:30 in the morning before I went to 
+work, I used to work on my business. 
+And then about six o’clock or so, I would come home until about midnight, I would 
+work on the business. Then all weekend I would work on the business. Anytime I 
+had client meetings or anything like that, I took a vacation day. I could even take 
+half a day vacation. I had vacation built up. The paycheck is coming in, someone is 
+paying me, right? And this business I was trying to do, if it did not work, you know, 
+there would not be much cost because I still have a job. I was working from my 
+home. It took me about 10 months from the time I started this focused activity. I 
+was 24 years old until the time I got my first client. 10 months I was just continuing 
+to do different things. 
+Finally, the first client arrived, and then after about two weeks, the second client 
+arrived. But I had the first two clients, I had more money coming up and I 
+explained to him that, “Hey, you know, I’ve started my own business and it seems to 
+be taking off. And now I’m going to go do my business.” They tried very hard for 
+me not to leave. They told me, my boss and his boss, they called me and they said 
+we could not understand. You are doing so well. And then, for the last 10 months, 
+you were not doing so bad that we want to fire you. But it was not what we used to 
+see before. I said, “Exactly, that’s what I was trying to do is not get fired, just barely, 
+you know, stay above firing level.” And so, then they told me that, “When your 
+business fails, come back here. Much higher salary.” They offered to pay me a lot 
+more. They said, “Anytime the business fails, come back. We’d love to have 
+you.” I said, “This is fantastic.” I have my four months from this client, full efforts 
+behind it to get more clients. And if it fails, no need to even look for a job, just 
+go back to higher pay. Because of the secret, you basically have the time to do 
+two jobs, and everyone thinks you should only do one job. What you do is if 
+your second job fails, no problem. Start something new. Still fails? No 
+problem. Just keep on going. Something will hit. As you keep doing things, you 
+learn more things than you’ll just keep going from there. So that’s how I started my 
+first IT company TransTech. That grew and did well. I left that to start Pabrai 
+Investment Funds. And here we are. So great question. 
+When you did business with $1 billion, is it that you had enthusiastic, or did you have 
+any fear in your mind? 
+Page 20 of 22 
+Mohnish: 
+Student: 
+Student: 
+Mohnish: 
+No. I had no fear. The reason I had no fear is because you know, if the $1 million was 
+gone, I still had experience, qualifications, I still had my business. There were many 
+ways that I could recover. Even today, I am not at all worried. Let's say for example, 
+something happens where I lose everything. Of course, that would be maybe for 
+two days. I'll be sad if everything is gone. But people have been through adversity or 
+been through much worse adversity. There's a saying, if wealth is lost, nothing is lost; 
+if health is lost, something is lost; if character is lost, everything is lost. So you are only 
+talking about the first one. Wealth is lost, nothing is lost, no problem. 
+How to find funds upfront? I mean how did you start to fund your Pabrai Fund? 
+What is the procedure of making a fund? What was the procedure for Pabrai 
+Investment Funds?  
+Yeah, so I just copied what Warren Buffett did. There was a Buffett partnership in 
+1950s. There was a book written which had a chapter on exactly what that fund did. 
+I copied that chapter. I went to a lawyer, I said, “Copy this.” And he created the fund. 
+That's it. 
+It cost $8,000 and we were in the business. Before I spent the $8,000, my friends 
+already told me they want to put $1 million to start the fund. The thing is if there are 
+things that you don't understand, and any time you do things, there are things that 
+we don't understand. In fact, even when Dakshana started, there were lots of things 
+we did not understand. The first thing we did not understand is how to find 
+scholars. So, we copied Anand Kumar's model. But Anand Kumar, every year 
+has 10,000 people who show up at his doorstep to take his test?  Tomorrow is his 
+test, right? Tomorrow is a selection test. There are probably 5,000 or 10,000 taking 
+that test. Then he'd pick the 30 kids and go from there. When Dakshana started, 
+and if you hold some tests, nobody will show because nobody knows us. 
+One question, I was trying to figure out how we will find any scholars and how will 
+they find us? It was an important question. We did not know the answer. This is 
+what I did, I started Dakshana and I hired an Indian consultant. This guy was an IIT 
+Madras grad. He was like 64 years old. I told him, “I want you to just do research on 
+Dakshana and things like this.” For example, how do we go meet anyone who's 
+willing to meet you? Go meet all the coaching schools. And I told him, for example, 
+we can tell the coaching institute that if somebody comes to them, they don't have 
+money, send them to us. Many things like that. I told him that every day he works 
+for us, he'll get paid 5,000 rupees. 
+I said, “If you spend one day on us, 5,000 rupees. If you spend less than a day, 500 
+rupees an hour. Just bill, whatever time you spent, send me the bill. I'll pay you. You 
+just keep doing research. He started going and meeting people. I think three or 
+four times when he met people, they told him, you should look at JNV. He had 
+never heard of JNV before. After the third person told him, look at JNV, he decided 
+to look at JNV. Then we found JNV, and now you are here.  
+Whenever you start a business, you don't know the answers. You don't know all the 
+answers, which is okay. You need to know a few answers, and you need to make 
+Page 21 of 22 
+Student: 
+Mohnish: 
+Student: 
+Mohnish: 
+sure you reduce your risk. That guy was paying 500 or 5,000 rupees a day. If he 
+works full time for one month, it'll be one lakh rupees. If he worked full time for 
+three months, three lakh rupees, no problem. Three lakh rupees gone it's not going 
+to be a problem.  
+They don't have a model today that makes money, but they'll figure it out. You don't 
+need to figure out everything on day one. You figure it out. Even with Sam Walton at 
+Walmart, just kept learning as he went along and that's how you do it. Something to 
+understand when you start a business is you need to have passion, you need to have 
+the drive. You do not need money, but passion and drive are important. 
+Sir, how to get rid of the ego and envy in you, I mean, what is your view about this? 
+How to get rid of envy? Envy, ego, envy. Envy basically, it's related to being jealous. I 
+would say that do not be envious. What can I learn from others? How can I improve 
+myself but not be envious of others? Not having ill thoughts. 
+Buffett says that, Charlie Munger says that in Juda, when they came up with the 10 
+Commandments, Moses came up with the 10 Commandments. All the 10 
+commandments have to do with the basic sins of humanity. Thou shall not steal, 
+thou shall not covet thy neighbor’s wife, thou shall not covet thy neighbor’s farm, 
+etc. All related.  
+Basically, the most very important trait is not to be envious. There will always be 
+people who do better than you. There will be a lot more people who do worse than 
+you. The important thing is to focus on what you can do to improve yourself, but do 
+not carry envy. In fact, we saw Rajat Gupta rather successful people for a very simple 
+reason. I mean, he had money that he could have ever spent in his life, and he lost 
+reputation that took a lifetime to build that probably will never come back. 
+Everyone who knows him will tell you that he is a first-class person. Envy is a very 
+dangerous thing in my opinion. 
+I'm not much aware of so-called business and then God, you talk today. I prefer one 
+thing that I think you’re not too interested in, Indians from Indian firms. What 
+problem is there in Indian firms that you are not interested in?  
+Good question. Well, I'm going to have a seat. I think the reason I gave that one of 
+the big stumbling blocks in investing with Indian firms is I need to be in India and 
+the way my life is set up, I'm not in India. It's really, really, hard for me to get an 
+advantage versus other investors who are based here if I try to do it from sitting in 
+California. I think you need to be closer to these markets and a lot closer to the 
+CEOs and principles of the companies if you are going to try to do a good job. Just 
+the way my life is set up, I can't do that. It doesn't mean there's no opportunity. Lots 
+of opportunities in India, lots of opportunities to do well. Lots of firms that one can 
+do very well. But not a place where I can necessarily do well. I must play a game 
+that I know I can do well at. And if I were to sit in Irvine, California and try to invest in 
+Indian stock market or Indian companies I'm probably not going to do very well at 
+it. 
+Page 22 of 22 
+Student: 
+Mohnish: 
+Student: 
+Mohnish: 
+Organizer: 
+Because there are so many Indians who want to do means, very well in business 
+sector. But if they want to serve India, they must stay here. Is there a better 
+opportunity in India also?  
+Absolutely. I think in fact, it's questionable whether many of you do better if you 
+went outside India. I think if you stay here there's plenty of opportunity. 
+India has served us for many years.  
+We are counting on you to do that. I hope you do that. Okay. 
+Okay. Thanks Mohnish. It was really a thought-provoking session. It's great to see a 
+lot of youngsters learning the way of investing and I would say the ways of life. We 
+should not envy; we should not have ego. Hopefully some of us specialize. The 
+students will try to successfully copy, cloning, and then like make us successful 
+investment managers. Wish you all the best in your next eleven and a half years. 
+Thanks.  
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not intended to be, 
+financial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not be suitable for you, do not take into 
+account your particular investment objectives, financial situation or needs and are not intended to provide investment advice or 
+recommendations appropriate for you. Before making any investment or trade, consider whether it is suitable for you and consider seeking 
+advice from your own financial or investment adviser. 

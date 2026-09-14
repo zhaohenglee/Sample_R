@@ -1,0 +1,1074 @@
+  
+Page 1 of 21 
+Mohnish Pabrai Lecture at Boston College (Carroll School 
+of Management) on November 7, 2019 
+ 
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not 
+intended to be, financial, legal, accounting, tax, or investment  advice. Investments or strategies that are discussed may not b e 
+suitable for you, do not take into account your particular investment objectives, financial situation or needs and are not intended 
+to provide investment advice or recommendations appropriate for you. Before making any investment or trade, consider whether 
+it is suitable for you and consider seeking advice from your own financial or investment adviser. 
+ 
+Arvind: Mohnish thank you so much for being here as always. I think this is your 
+eighth or ninth year speaking to our class. We are incredibly grateful, and 
+we can't wait to get started. With that, let us welcome him. 
+Mohnish: Well Arvind, it is a pleasure to be here, and I am surprised every year I 
+actually get invited back, but I will ta ke that. Just a quick show of hands 
+from the audience. How many of you have participated in this before? Is this 
+your first time? If you attended earlier, just raise your hand. 
+Arvind: They’re not many, they are all new. 
+Mohnish: Oh, good. I can repeat all the old jokes. 
+Arvind: That is right. 
+Mohnish: Also, show of hands, how many of you read that Columbia Newsletter 
+article, at least the pertinent pages related to GrafTech? Good. We have a 
+few humans who have done that, which is good. 
+Arvind: No, they have all read it. 
+Mohnish: Okay. I would say Arvind if you can maybe mute on your end. 
+Arvind: Sure. 
+Mohnish: Then I will just go through a monolo gue a little bit about GrafTech, and from 
+then on, we will open up to questio ns and we can discuss GrafTech, or we 
+can discuss whatever else you would like to, we can take it from there. The 
+GrafTech discussion is not really designed to have you go trade the stock or 
+buy the stock or any of that. It is more in the kind of the spirit of Ben Graham 
+because Ben Graham in his class used to discuss live examples of securities 
+and of course, in his class, people used to go out and trade those stocks. But 
+I think one of the negatives of talking about case studies from the past is 
+that there is a selection bias. I can pick businesses where we have had huge 
+home runs and keep patting myself on the back, so you get distortions 
+which I don't think are ideal in a learning environment. I pick GrafTech from 
+a point of view that it is a kind of current position. The current valuation is 
+pretty close to where we bought our position and a lot of the facts around 
+the situation are current as well. John Templeton says, “one in three times, 
+the best security analyst is going to be wrong. This is a game of probabilities. 
+I don't know exactly how the future will unfold for GrafTech. I have some 
+maybe perspectives on that. But, the kinds of things that can affect the 
+future trajectory of a business are a very wide range. You can have kind of 
+extreme outcomes. I mean, if you take a company like Johnson and 
+Johnson, who would have thought that talcum powder which they have 
+sold forever would have a issue after so many decades of sale, etc., Or you 
+  
+Page 2 of 21 
+look at PGE, the utility in California, people who would have bought the 
+stock five years ago, they were buying things that are great for 
+grandmothers and widows to own and th at didn't go exactly that way. In 
+fact, PGE might have been a stock that at some point that Berkshire 
+Hathaway might have been interested in buying. I don't think they are so 
+interested today. I think the future trajectory of businesses is hard to 
+predict, which is why we don't want to own one or two of them. We want 
+to own a few of them. GrafTech is particularly interesting because Arvind’s 
+all-time favourite stock since the birth of Christ is IPSCO. Because every 
+time I talk to him, he only wants to talk about IPSCO and he has always been 
+hunting for more IPSCOs, because all he wants to do is he wants to own 
+about 10 IPSCO in portfolio, and then ride off into the sunset. That is all he 
+aspires to do. I said, what better than to give Arvind IPSCO 2.0 as a gift for 
+him being a new father in all GrafTech and IPSCO have some similarities. 
+They also have some differences. But just to give you a quick recap on 
+IPSCO, which was in the Columbia newsletter you guys read, I think in 2003 
+or 2004 when I was looking at it, the stock was in the forties, and they had 
+about $15 a share in cash. They had projections for the next two years of 
+cash flows of $15 a share each year for the next couple of years. They made 
+tubular steel, and one of the large kind of applications of their products was 
+in pipelines, so when these kinds of pipelines got laid in kind of central US 
+that is kind of a multi-year project,  and they usually would place orders 
+which steel companies like IPSCO to have  a certainty of delivery and price 
+and so on. IPSCO had this kind of confirmed orders and backlog with 
+confirmed margins etc., and so it made it pretty easy where you say, okay, 
+the company has no debt. It has got $15 a share in cash. The next two years, 
+$30 a share in cash is going to show up on the balance sheet, and that is $45. 
+I can do the third-grade math and the stock is below 45. At that point, the 
+plants, equipment, inventory, know-how customer relationships, 
+everything is for free. I thought all those other things have some value at the 
+end of two years, maybe not insignificant value. But also, it is a very cyclical 
+business where it was entirely possible after two years earnings could be 
+zero or maybe $5, or maybe negative $5. There was a range of things that 
+could happen after a couple of years. But I thought the risk reward scenario 
+with IPSCO was very favourable because you would have all these kind of 
+assets with no debt and was highly likely that those assets had real value. In 
+the case of GrafTech, there are some  similarities and there are some 
+differences. One is that, GrafTech has backwards integration into the key 
+raw material required to make the ultra-high performance electrodes which 
+is needle coke and the needle coke captive plant that they have are only 
+outside of China. They’re only four needle coke producers in the world, two 
+are in the US and two are in Japan. On e of them in the US is GrafTech in 
+Texas because GrafTech has that backward integration into needle coke. 
+They have two advantages with needle coke. One is that they know what 
+their costs are for several years because they have hedged decanted oil. 
+They pretty much have a lock on the production cost of needle coke. The 
+second is they are a low-cost producer for needle coke. For example, today, 
+if you are a UHP producer, you would be paying like 4,500 to maybe 5,500 
+per ton for needle coke. In the case of GrafTech, their production cost 
+needle coke and everything else that they need to make their electrodes is 
+2750 per ton. While the other producers might be at, let us say 6,000 or 
+7,000 per ton, GrafTech is at 3000 or 2700 per ton that is a pretty significant 
+delta. They have that delta for about 70% of the production. If you just look 
+  
+Page 3 of 21 
+at it very simply, the company realistically has an ability to produce maybe 
+180,000 or maybe 190,000 tons of UH P electrodes a year. Approximately 
+145,000 of that, they have this low cost advantage. Maybe there is about 30, 
+40,000 tons where they don't have the low cost advantage, those 30, 
+40,000 tons, even in today's envi ronment where profits are good for 
+everyone it is probably like maybe 60 to 80 million in kind of EBITDA type 
+income from that non-captive tonnage of 30%. The captive tonnage, which 
+is the 145,000 that has got before you take out corporate overhead and 
+everything else, you are at 2750 and you are selling at close to 10,000. You 
+got close to 7,000. It is kind of like north of a billion in margins. Then you 
+can take out 60, 70 million of overhead and another 60, 70 million of CapEx 
+and maybe 125 million for debt. You take out about 300 million and then you 
+take out taxes, you still have 500, 600 million coming out of the captive and 
+that 500 million pretty close to 600 million is locked for several years. 
+Basically, their cash flow in the next five years is pretty much approximately 
+equal to the market cap. GrafTech has couple of differences versus IPSCO. 
+One is disadvantage which they have with needle coke could extend well 
+beyond five years. If someone were to try to bring in new capacity of needle 
+coke, there are a number of challenges. One of the challenges is that the 
+last needle coke plant built in the world was actually the GrafTech plant, 
+which was built close to 40 years ago. The know-how to build those plants 
+and run those plants is almost non-existent. Pretty much, I think the only 
+players who could even go there might be the existing players. The second 
+is that the time it would take from the time you said, “okay, let us go build a 
+plan” to the time you have production coming out the other end is close to 
+seven years, and the cost would be several hundred million dollars. It is very 
+hard to kind of justify the capita l required, let us say 500 million or 
+something, and the gestation period of the seven years with no crystal ball 
+to tell you what the market looks like seven years from now. As far as we 
+know, none of the non-China players, needle coke players are planning any 
+or have announced any capacity increases auditions. This tightness with 
+needle coke may continue well past five years. In fact, it is five years today. 
+If someone doesn't announce a plant or it is seven years today, someone 
+doesn't do anything for another year, it is another seven years, it just keeps 
+kind of rolling. That is actually a si gnificant advantage. The other thing is, a 
+needle coke has another application, which is in EV batteries. That demand 
+is we all know skyrocketing. There could be some substitution effects that 
+come in with EV batteries, etc., depending on the pricing, but it could cause 
+significant tightness. We will have to see. The bet I made is that we have got 
+a very prudent capital allocator and owner of GrafTech and Brookfield, and 
+Brookfield understands share buybacks  very well. They understand capital 
+allocation really well. They own 80% of the stock, and three of their guys are 
+sitting on the board. I would expect that the cash flow that comes out of 
+GrafTech in the next few years will have some very efficient usage. Probably 
+most likely a large portion is going to get returned to shareholders because 
+they don't have any other need for th e cash unless they go do something 
+interesting. It looks like a kind of head side wind fails I don't lose much. The 
+downside is quite well protected. The upside is kind of hard to gauge. We 
+don't know what the upside is. But I think if you can make bets like that 
+where you have covered the floor, like Buffett says, “rule number one, don't 
+lose money. Rule number two don't forget rule number one”. I mean, if you 
+can make bets where your downside is covered, that is much of the battle 
+and such so, it is not a stock tip. I think it was just given as a contemporary 
+  
+Page 4 of 21 
+example of a class of investments that doesn't fit the typical mould. Ideally 
+what we want is long term compounders, that is what we always want. We 
+want these businesses which have huge runways which have a flywheel that 
+is hard to penetrate. They just got like decades of growth ahead. I mean, if I 
+take an example of a company like Costco for example, they just opened up 
+in China. They opened their first stor e in China, and the store got mobbed. 
+There were long lines. They just maximi ze capacity of people trying to get 
+in and what could the size of Costco's China business be in 20 years? It could 
+be a pretty large number. It could also  be a pretty small number. We don't 
+know. I mean there are uncertainties in business, but if they can make China 
+work, it could dwarf their footprint in the US. How many countries can 
+Costco roll out that model? I mean, th ey are only in a handful of countries 
+today. If you look at a business like Costco or a business like Amazon, you 
+can see that there are possibilities of these compounders running for a 
+while. I think Arvind had mentioned that Jim Sinegal is coming to BC I think 
+to see you guys, what a treat! I think you should press him to tell you about 
+the competitive advantages and the mo at of Costco, because that is a 
+fascinating discussion. Anyway, those were some of my thoughts on 
+GrafTech. We can now take the discussion in any direction you would like to 
+take it. If you could just introduce yourself and then ask your question, that 
+would be great. Thank you. 
+Arvind: Mohnish thank you. That was great. We are really excited to explore the 
+point you raised on quality compounders. Maybe we can start with that a 
+little bit before we move into Q&A and how do you think about connecting 
+price to the quality compounder and your willingness to pay for that type of 
+business relative to the GrafTech of the world? 
+Mohnish: Yeah. I think that is an area where someone like me is at a big disadvantage 
+and actually repeatedly makes a lot of mistakes because I am a chief skate 
+at the core. I think one time Charlie Munger told me that Costco and 
+Walmart had talked about merging a long time ago. Both were much smaller 
+businesses then, and they couldn't come to terms on price, on kind of what 
+would be a ratio to combine and so on, and the two walked away. Charlie 
+said to me that it really did not matt er what the deal was it wouldn't have 
+mattered much, in the end the pie woul d have been so much larger. What 
+he was saying is that, if these two forces had come together to great 
+cultures and they compete ferociousl y in the marketplace and both have 
+extremely unique cultures, it is very likely you would not have had another 
+entity rise up to challenge them. Just like the situation today that once you 
+get past Costco and Walmart, you don't have another entity which has that 
+level of culture and execution in that space.  Walmart might have made a 
+lot more money in the absence of a Costco or if Costco was part of Walmart. 
+Not having to have Sam's Club and Costco would also have been an 
+advantage. I think someone like me has a disadvantage because the 
+unwillingness to pay up is a huge disadvantage. Like, I am thinking about 
+this even for Costco. If I look at the stock it won't look cheap, but if you think 
+creatively about where this company could be in 20 years, it could look very 
+cheap. It could be very cheap under that scenario. But of course, the thing 
+is that you are making assumptions about the growth and the competitive 
+advantage and the culture being inta ct and all those sorts of things. 
+Someone like me is still trying to learn to pay up and it is probably worth 
+paying up for the great businesses, especially the ones that have these huge 
+  
+Page 5 of 21 
+runways ahead. But I think that where I am with my biases, I am stuck with 
+the businesses that hopefully are great, but they get cheap every once in a 
+while. Then someone like me get pounds on the bandwagon. Then the 
+second thing I have got to learn, which also is difficult for someone like me 
+is, if I buy something at four times earnings and it is a compounder and I 
+wake up after a few years and it is 30 times earnings, someone like me is 
+going to be looking to sell that, and that may probably be the wrong thing 
+to do. There are two lessons that I have yet to learn. Well, the lesson to pay 
+up and the lesson to hold on, but you guys are young without my biases, so 
+maybe you will get there. 
+Arvind: As you think about th is evolution and your willingness to potentially pay up 
+for great businesses, how do you think about the numbers that you are 
+willing to pay for as you go out a few years because you have owned Moutai 
+for example, and you have owned some  of these great businesses in the 
+past. What is the number that you ar e comfortable with as you begin to 
+explore that piece of yourself? 
+Mohnish: Well, yeah, I think Moutai is a very go od example. It is the most valued liquor 
+company in the world, I think I bought our position less than 150 RMB per 
+share maybe about four or five years ago. It is now at about 1200 RMB per 
+share. It has gone up about 8x “well done Mohnish”. But the problem that 
+Mohnish has is that before it hit a thousand a share, I was completely out. I 
+think probably my average selling price of Moutai if I look back is between 
+800 and 900 on average, maybe somewh ere around there. We captured a 
+5, 6x over five, six years, which is pretty good. But Moutai is a business. I 
+can't think of any business with a deeper or stronger moat more than Moutai 
+on the planet. I mean, I would say if you look at Costco versus Moutai, I 
+mean, Costco has to really execute really well every day. Every day when 
+you go in and shop at Costco you have to be blown away to keep coming 
+back. Moutai is a not in that situation. They have got this thousand-year-old 
+brand and it has got mystique. It has got uniqueness, it has got a lot of things 
+about premium in people's minds, and it has got this brand that is 
+entrenched in the minds of north of a billion people. That is an extremely 
+powerful moat. I am Mohnish Pabrai, and I am an alcoholic, and I should 
+have never, ever sold Moutai, but here we are in our AA meeting, making 
+the confessions 
+Arvind: Right. When I see you at the next  meeting and a few meetings from now, 
+how do you think that Mohnish would have evolved from his learnings from 
+Moutai and how do you push yourself in this general direction of quality 
+compounders? I don't mean to press you on this, it is such an interesting 
+dichotomy between the pursuit of the PE of ones and the quality 
+compounders. I just think there is so much learning that happens in which 
+you have done publicly and very graciously shared with us. I think it is just 
+so important. It is a similar transiti on to Buffett and Munger, and how you 
+are thinking about that is very important I think over the fullness of time. 
+Mohnish: No, I agree. I think that in many ways I would say Guy is light years ahead of 
+me on this. I will just give you an example. The thing is that, if you look at 
+the investment in Fiat Chrysler which Guy clone for me, I was his unpaid 
+analyst on Fiat Chrysler. I am still wait ing to get paid on that from him and 
+the check hasn't shown up yet. But anyway, the thing is that, the 
+aquamarine fund, which Guy runs, I think at the time maybe it was 200 
+  
+Page 6 of 21 
+million in assets, and I was trying to get Guy to make a 10% bet on Fiat 
+Chrysler. He did agree to make the bet but he stopped at 2 million shares. 
+He was buying at about $5 a share. It was about a 10-million-dollar 
+investment that he made. It was a 5% bet, $10 million. What he has done 
+with that bet and what I have done with that bet are somewhat different. 
+For example, we both made bet in 20 12. In his case, he bought 2 million 
+shares and, in my case, I bought almost 12 million shares. Even though I 
+wasn't running six times a capital, he was running, I made a full 10% bet on 
+that. Today, after like seven and a half years, he has not touched that 
+position. It is still sitting at 2 million shares. But another thing that happened 
+with him over this period is they spun out Ferrari. For every 10 shares of Fiat 
+Chrysler you owned, you got a share of Ferrari and if there is a moat that 
+compares to Moutai, not quite there, but I would say Ferrari's moat is up 
+there. It is one of the most recognized  brands in the world, and in 70 plus 
+year history, they have never placed an ad, they have never spent a dollar 
+on advertising which is remarkable. But anyway, he got gifted 200,000 
+shares of Ferrari, which are now 165 dollars a share or so, and that is like 33 
+million. He made a 10-million-dollar investment. The Ferrari position is 
+worth about 33 million and the Fiat position, which is after the spin out, they 
+had a dividend. Let us say it is about 18 or $19 a share, it is almost a 4x. You 
+are looking at like a 70 million valu ation of Fiat Chrysler and Ferrari 
+combined on the $10 million bet that I did all the work on, no check has 
+shown up yet. Guy is right now at a Vi passana retreat, trying to learn what 
+Buddha meant by the meaning of life. Hopefully he will understand that he 
+owes Mohnish big time. But anyway, what I am saying is that Fiat Chrysler 
+is not a compounder in the traditional sense of the word. It could be a 
+compounder if you kind of put on somewhat different glasses and look at it 
+because it does have a good capital allocator, does have great governance, 
+had great management, and a lot of different things that are very good 
+about it. But Ferrari is clearly a compounder, and it was obvious to me the 
+Ferrari is a compounder, but a lot of the Ferrari shares I got, in fact, when 
+the spin out happened, the Ferrari shares  were at about 45 or $50 a share. 
+In Mohnish’s moments of brilliance, I thought $50 a share is a full price for 
+Ferrari. It is fully priced; it is more than three times that price. I sold some 
+Ferrari at 50, 60, 100, 120, etc., I think I ended up making about a hundred 
+million dollars in Ferrari, but if I had been as smart as Guy, the 70 million 
+would be about 3.3 times. It would be about 220 million just in Ferrari stock, 
+and it would be about 150 million just in  gains on Ferrari, right?  I look at 
+Moutai from the side-lines with the occasional tear in my eye, and I look at 
+Ferrari with more than an occasional tear in my eye. But we live and learn. 
+As these things keep happening Mohnish is getting slightly more educated 
+each time. But I will give you an example. I mean, I don't want to really talk 
+about this much, but recently we bought Micron. I do think Micron is a 
+compounder. People don't understand the business. I am thinking that God 
+must really love Mohnish because he gives Mohnish Moutai and then 
+Mohnish is too dumb to keep it. Then he gives Mohnish Ferrari, and he is 
+again too dumb to keep it. Then he says, “okay, I am going to try again”. He 
+gives me Moutai and this time Arvind, I am going to really try to hold on 
+even when it gets to four or five times the current value. We will try to hold 
+on and we will see where we can go with that. But yeah, I know it is hard. 
+What can I say? These are very tough things. They are very hard things for 
+me, holding Ferrari at $165 a share is a very hard thing for Mohnish and 
+holding Moutai at 1200 RMB is a very hard thing for Mohnish. 
+  
+Page 7 of 21 
+Arvind: Yeah, that was really inte resting Mohnish, thanks for that. 
+Mohnish: But Arvind, keep bringing it up  maybe it will sink in a little bit. 
+Arvind: Yeah, no commitment biases can be powerful. I think that is interesting. 
+Maybe we can open it up for questions. I don't know if anyone has any 
+questions on this topic. If they do, I welcome it. Yeah. 
+Paul: I have a question about Micron specifically, you brought it up. How do you 
+evaluate a company? There is so many things on the horizon like cyclicality, 
+there is Chinese implications trying to get out of US semiconductors. It is 
+hard to look at a five-year future and beyond, I would say, for this company. 
+What is your process when you look at something like that? There is so many 
+different things up in the air. 
+Mohnish: Yeah. I am going to duck all Micron questions. I shouldn't have even brought 
+it up, but I am going to duck the Micron questions maybe for a few years. 
+Hopefully at some point. I hope we can talk about it. But I don't want to. I 
+think generally, I always say Arvind we don't really want to talk about 
+portfolio positions. We already opened up the box a little bit with GrafTech, 
+but I think my interest was, because Arvind is so eager about IPSCO now, 
+he is so eager with the compounders that IPSCO just been discarded. Like 
+he is not interested in IPSCO no more. 
+Arvind: That is interesting. 
+Mohnish: Now he loves Moutai. 
+Arvind: No, I love the PE of one. 
+Mohnish: The PE of one long liv e the PE one man, the PE of one is very sad. Now what 
+I really want to do when I grow up is I want to buy Moutai at a PE of one 
+Arvind: Right. 
+Mohnish: Keep it when it  is at a PE of 100 
+Arvind: Right. 
+Mohnish: When the E goes from 50 to one or 70 to one, and the earnings have grown 
+20 or 30 x and I am about to go to my grave, it is still there in the portfolio. I 
+don't know whether I can get there in this lifetime, but I will try. 
+Arvind: There is always the next lifetime after I will still be there. 
+Mohnish: Absolutely. But if the gentleman who had the micron question, if he has 
+another question, so he doesn't lose his short of question. I am happy to 
+take another question if you have one. 
+Student: Yeah. More of a basic question about the superb writeup about Patels, and 
+you say frequently to make bets where you don't lose much, then you have 
+a really high outside. But it was just strange that he risk kind of everything 
+he had and everything that he wrestle off what. I know you spoke to get 
+back on his pretty quickly, but it is just hard. How do you make a bet that is 
+not really risking much in the monetary sense, but it could be risking a lot 
+for your network? 
+Mohnish: Arvind, can you just repeat that, because I didn't get all of it. 
+  
+Page 8 of 21 
+Arvind: I will repeat the question and if I am off, please correct me. I think he is trying 
+to better understand; heads I win, tails I don't lose much, and how you come 
+up with bets in that sort of line of thinking. 
+Mohnish: Well, I think that the heads I win, tails I don’t lose much comes up. I think 
+you ideally want that in every investment. Downside protection is, I think, 
+fundamental. I think this core to any investment. In some cases, like IPSCO, 
+it is very obvious that you have downside protection. I also felt when we 
+were making the Fiat Chrysler bet that we had a lot of downside protection 
+because at the time they pretty much  got all of Chrysler for free, which 
+included Jeep and RAM and everything. I read the new UAW contract in 
+2009 when they were in bankruptcy. That is better than Shakespeare, and 
+the funny thing is that every five years a UAW renegotiates contracts with 
+the big three, and it is kind of a battle, they threatened to strike. We just had 
+the longest strike in 40 years, almost 50 of the GM. In 2009, the Auto Task 
+Force, which was part of the treasur y  d e p a r t m e n t  i n  D C ,  t h e y  w e n t  t o  
+Detroit, like three of them for a day to  kind of look at the different plants 
+and meet some of the leaders. They had a meeting with the UAW leadership, 
+and that meeting started at 4 o'clock and their plane was going to leave at 
+5 o'clock. They told the UAW leadership that, “listen, we have got a new 
+contract for you, here is the new contract, and this is where you sign this 
+contract”. The leadership at UAW said, “you don't understand how things 
+work in Detroit. You give us this cont ract we will review it. It might take a 
+few weeks and then we will get back to you. It is highly unlikely large 
+portions of it will be acceptable to us. That is how we work things”. The chief 
+Ratner, who is part of the task force told the union leadership, he said, “look, 
+my plane leaves at 5 o'clock. If by 4:45 I don't have a signed contract, then 
+tomorrow I shut down all the lights in the city of Detroit. I don't particularly 
+care whether we ever make another car or not”. That contract was signed in 
+20 minutes and that is the contract I read, and it was beautiful. It was the 
+only time when that contract was done that way. Detroit went from being 
+one of the worst places on the planet to build a car, to (just after that 
+contract) got signed to being the best place on the planet to build a car. It 
+became more competitive. In fact, the Koreans have told me that they 
+would rather manufacture in Detroit th an in Busan in Korea. It is a lot 
+cheaper. Anyway, the thing is that Fiat had a bunch of competitive 
+advantages at that time that were not visible like the redone UAW contracts 
+and so on. I think the thing is that we really want to focus on minimizing the 
+downside. I think that when we look at businesses, and that is one of the 
+things that becomes hard for me when I look at a business like Amazon, 
+which is such an incredible business with such incredible leadership and 
+management just incredible moats around their business. The downside is 
+where I stumble, I mean when you l ook at great brands, the value is 
+intangible. It is not like IPSCO, you can look at the balance sheet, or you can 
+look at contracts and you can look at guaranteed cash flows coming in. It is 
+a lot harder. There you have to have a leap of faith on the value of the brands 
+and the moat and such. That is what makes it harder. Someone like Warren 
+Buffett has a Swiss Army knife kind of approach to investing. He has had so 
+much experience in so many different scenarios and asset classes and such 
+that he can make it happen so that Berkshire continue to build value in a 
+variety of different structures. Occidental is buying something. They do 10-
+billion-dollar financing, 8% coupon with a bunch of warrants, it is like what 
+they did in 2009. Those are tremendous deals. But if you are an investor, for 
+  
+Page 9 of 21 
+most of us, when we start out, and even through most of our lives, we may 
+never develop a Swiss army knife. We may only have one or two or three 
+tricks in our bag. Even if you have just  one trick in your bag, that is more 
+than enough to become extremely weal thy. I always give the example of 
+Charlie Munger's friend Jo hn Arrillaga who's a billionaire, and he is a real 
+estate developer. All his real estate ventures have been within five miles of 
+the Stanford campus. I mean, he has never gone outside real estate. He has 
+not gone outside of Northern California, not even outside of just the core 
+area around Stanford and his circle of  competence is just extremely tiny, 
+just probably the tiniest circle you can think of. But that did not stop him 
+from becoming one of the wealthiest people on the planet. Probably 
+99.999% of great investments are outside the competence of John Arrillaga. 
+If anything is not in real estate, he is going to take a pass. If anything is not 
+even just in that particular geography of real estate, he is going to take a 
+pass. Even in that geography, he has been very disciplined, where when the 
+market got extremely bearish and vacancies went high, he went and bought 
+a whole bunch of stuff and when things were cresting that is when he 
+would, at very low cap rates, get rid of a lot of stuff and so on. He just played 
+that game just perfectly. I think that the key is, stay within your circular 
+competence, do not have envy for your neighbour, your idiot neighbour 
+who is making money hands over fist without having any brains. Envy is 
+really bad, but having envy of that type is very detrimental to your financial 
+health. Just sticking to your circular competence and being very patience is 
+two of the stronger skills that you can bring to bear, you don't even need a 
+high IQ. You can give away IQ points  and get more patients genes and get 
+more stick to circular competence genes. That is the holy grail. 
+Andrew: My name is Andrew Hicky. My question has to do with kind of career and 
+investing in balance. Do you believe that you can have a career that you are 
+very passionate in and still have the time to be a successful investor looking 
+for PEs of one and doing all the necess ary research and digging that that 
+requires? 
+Mohnish: Yeah. The implicit in your question is that your career is not an investing 
+career. 
+Andrew: Correct. 
+Mohnish: That your job is in  some other area, right? 
+Andrew: Yeah, sure. 
+Mohnish: Yeah. That is how I started out. I was running my IT company and I was 
+probably spending 15, 20 hours a week on investments, and it was fine. I 
+think that the key is, how much passion do you have for it? I have a former 
+college roommate who is a radiation oncologist, and he is an extremely 
+g o o d  i n v e s t o r .  H e  h a s  d o n e  r e a l l y  w e l l  t o  t h e  p o i n t  t h a t  e v e n  t h o u g h  h e  
+makes like a million dollars a year as an oncologist, it is dwarfs by the wealth 
+he has built on the investing side because he has done so well on the 
+investing side. At this point, I always  tell him that, “hey, is an oncology a 
+hobby?” He says, “yeah Mohnish, It has been a hobby for a long time”. In fact, 
+in some ways it could be an advantage to be a part-time investor because 
+the key is the you know, if you have, if you become like Guy Spier basically 
+comatose as far as trading goes generally that will be good for your financial 
+health and so if you were a part-time guy and he just said, listen, I just want 
+  
+Page 10 of 21 
+to focus on maybe finding on average one investment a year, or a couple of 
+investments every couple of years that is more than enough. You don't need 
+many investments to do well. I think the important thing is that you have to 
+have a passion for it. You have to have a drive for it. I mean, it is something 
+that needs to really excite you. If that is a case then anything you are 
+generally passionate about you will generally do well, so no problem and 
+again, the thing is that you can be like John Arrillaga, you know, you can find 
+a particular niche that appeals to you and just hone in on that. You don't 
+need to know everything about everything. In fact, you can become very 
+specialized in particular areas of in vesting and that can be more than 
+enough. 
+Arvind: I saw a bunch of hands, yeah please. 
+Brian: Okay. Can you hear me from here or should I go up there? 
+Mohnish: No, no, you are very clear. Go ahead. 
+Brian: Yeah, I am Brian Regan. I am more interested in mistakes that have 
+happened in the past, and I thought it was interesting in your book. When 
+you were given the example of intrinsic value, you talked about that beyond, 
+which at the time was trading at 11 billion dollars, and I looked at it now and 
+it is at 1.4 billion dollars market cap.  You did recommend it in your book. I 
+just think it is interesting how far it has fallen. Like evaluating mistake where 
+that might have seemed kind of investable at the time of your book, or at 
+least fair value, and how much of the disasters become and how to avoid 
+those. Also, like how do you recognize the mistake in trade out it? 
+Mohnish: Yeah. Do you know the name of the company you read about? 
+Brian: Bed Bath and Beyond? 
+Mohnish: Yeah. Oh, Bed Bath and Beyond. Bed Bath and Beyond is a business I never 
+invested in. I think I used it as an ex ample of a company not to invest in, I 
+have to go back and look at it, but I have never made investment, I hate 
+retail. It keeps me out of trouble to, but I would say this, that mistakes are 
+very much part of the game. For example, one of my mistakes, which went 
+to zero, I have had a few zeros. One of the zeros was a company named 
+Horsehead Holdings it is coming in Pittsburgh which was a zinc processor. 
+They went bankrupt, went to zero, etc., It was a significant loss because we 
+had quite a gain for a while, and then it went the other way. I wrote about 
+Horsehead probably more than I should have in my letters to investors. In 
+the annual meetings, I spent a lot of ti me explaining to my investors about 
+Horsehead and I think in one letter I went on and on about the mistake and 
+so on. There has been only one time in my life when Charlie Munger has 
+called me and I remember I was at Kenn edy Airport, I was at the Jet Blue 
+Terminal, and I was about to take a flight back to LA and the phone rings 
+and Charlie's assistant is on the line saying, Mr. Munger would like to talk to 
+you. I said, “Oh shit, what did I do wrong? I think they were boarding”, but I 
+said, “Okay, well, let us find a quiet place to talk to Charlie”. I told her, “Yeah, 
+that is great”. Anyway, he came on the line, and he said to me that he read 
+my letter and he said, “Mohnish you want to learn from your mistakes, but 
+you don't want to learn too much, and you have to move on, you have to 
+move on quickly”. I think I was very touched because his concern was 
+whether my mind was being messed with, I think recently there was a letter 
+  
+Page 11 of 21 
+written by, I think it is Wedgewood Partners where these guys had been 
+very long-term holders of Berkshire Hathaway, and they wrote a letter in 
+which they gave a long list of reasons of why they have unloaded their 
+Berkshire position. How many of you have seen that letter? Okay. You can 
+just go to God Google and say, Wedgewood partners, Berkshire Hathaway 
+and God Google will pop up that letter for you. It will show you all the 
+different things that they said in that  letter that Warren has done wrong. 
+They were saying, “look, we have had this massive bull market in the last 10 
+years, and you bought IBM and that didn't work well, you bought Precision 
+Castparts and that didn't work well, and you bought Lubrizol and that didn't 
+work well. Then you bought Apple, but you didn't buy enough, and then you 
+should have bought Microsoft”. For whatever reason, I mean, Microsoft has 
+said, can't buy it because of his friendship with Bill Gates, but you know, you 
+know, Bill so well and know Microsoft so  well, and that has done so well. It 
+is not in the portfolio. And you guys knew that Google was great because 
+the founders came to you on and on. The guy listed a whole bunch of 
+mistakes of Warren Buffett, right and actually, if you look at the Berkshire, 
+and I pointed this out in the Columbia  interview that if every Berkshire 
+acquisition were equal weighted, th ey have a very large number of 
+mistakes. I mean almost all their retail investments other than Borsheims 
+and Nebraska Furniture Mart didn't work. There’re dozens of them. The 
+thing is that, if you equal weight them, the record isn't great, but the reality 
+is they are not equal weighted and he has been right on the big ones. When 
+you dollar weighted, the record is great, and we are human. Warren Buffett 
+is not God, he makes a lot of mistakes, and God's first apostle, also known 
+as Charlie, called from the heavens and said, “It is okay. Don't beat yourself 
+up too much because mistakes are par for the course, even God makes 
+them”. That is why Templeton said that you can have a phenomenal record 
+even being wrong one out of three times. In the investing business, mistakes 
+are par for the course, there are going to be plenty of mistakes, and I think I 
+really got a lot out of the Munger phone call because we are humans and 
+we like to analyse and we like to get better, you can get into a tailspin when 
+you are trying to learn too much fr om the mistakes. There are scenarios 
+under which we can lose money on GrafTech. There are some scenarios 
+under which Graftech can go to zero. There are many things that can 
+happen, which can destroy the thesis, that doesn't mean it is a bad 
+investment. There are businesses where you could make 10 times your 
+money and it would not have been a prudent investment. That businesses 
+that you would have lost lot of money, and it was absolutely correct to make 
+the investment. It is a game of probabilities, and I think as long as we have 
+done our homework and try to assess the probabilities correctly, you cannot 
+always tell the score by what is on the board you got to go deeper than that, 
+to tell the score. I think mistakes are in evitable in investing. They are going 
+t o  h a p p e n .  E v e n  i f  y o u  l o o k  a t  t h e  b o o k  l i k e  G o o d  t o  G r e a t  a l l  t h o s e  
+companies went AWOL. They were all counted as great businesses and they 
+all faltered, or most of them faltered. That is the nature of capitalism. I mean, 
+that is one of the reasons that keeps me away from the capitalism because 
+almost no businesses survive for 30 years. If you extend that to 50 years, it 
+becomes an even smaller number. How many businesses have been great 
+compounders for a hundred years, well, I think GE is the only one that has 
+been around for that long and look wh ere they are at, when you are trying 
+to go through these kinds of long runways, the history of long runways isn't 
+that great? I can't point to 10 businesses which have done really well for a 
+  
+Page 12 of 21 
+hundred years on the planet. I couldn't come up with a list like that. That 
+tells you that there are very strong forces in capitalism with creative 
+destruction, which take the mighty down and such. That is one of the things 
+that kind of goes on in my head about what can go wrong is and probably I 
+am overdosed on the mighty going down, and probably to temper that back 
+a little bit but that is where that is. Mistakes are our friend we want to learn, 
+but don't learn too much. Next question? 
+Arvind: Mohnish, that was just a very interesting response. How do you balance 
+learning but not learning too much? How do you find the right balance there 
+from your mistakes? 
+Mohnish: I spent a lot of time thinking about what Charlie said because my phone call 
+with Charlie is not long. The phone ca ll with God are only two or three 
+minutes long. 
+Arvind: Right 
+Mohnish: God has got a few things going on, but I spent a lot of time thinking about 
+those two or three minutes. I think the most important thing is it can't mess 
+with your brain. You can't get it into your head where it takes control. What 
+I am saying is that mistakes are g oing  to hap pen. We want to learn from 
+them. We want to keep getting better, but you must keep playing the game, 
+and you must keep moving on. If it is stopping you from moving on, one I 
+can tell you very directly, that since Guy is not in the room, we can beat up 
+on him especially since he hasn't paid yet. But Guy went long Horsehead 
+and it messed with his head because he was then very deeply involved in 
+the bankruptcy proceedings and on the creditors’ committees and all of 
+that. I kept trying to tell him through that entire process that it is not worth 
+it, move on, none of these things that just because enormous amount of 
+time and there were no recovery. There was a total waste of time to do all 
+of that. But one thing he would point to  very directly is, while all that was 
+going on, while he was completely focused on Horsehead after it had gone 
+to zero and in bankruptcy, I brought up Moutai to him, and I tried to get 
+through, but his brain was completely on Horsehead. I kept telling him, "Guy, 
+Moutai”, and he says, “Mou, what”? I said, “Moutai’. I couldn't get past, right? 
+I think he made maybe a hundred thousand dollars investment in Moutai or 
+something. It is a very tiny investment, very irrelevant. Basically, couldn't 
+make any dent to the portfolio. In 2017, Guy, me and my daughter went to 
+Moutai headquarters. We made a field tr ip. By that time, it was already at 
+about 600 RMB. He thought it is all over. He had such deep regrets, and of 
+course, I didn't want him to ever forget those regrets. I spent the entire trip 
+just telling him, “Guy do you remember all those phone calls and all those 
+conversations I tried to talk to you?” I would try to shake him up and said, 
+“you are a compounder guy”. I bring up all crappy businesses to you. Here I 
+am bringing you a great compounder and the greatest of all compounders 
+and I couldn't get through. Of course, that really irritated him because what 
+he wants to do is he now tells me I should have just bought 10% of my fund 
+in Moutai and I should have just kept it till the day I die. Very simple. I know 
+that if he had bought it, unlike me, he wouldn't have sold it because he has 
+got superior genetics on that front. But the thing is that he has inferior 
+genetics on seeing the diamond in the rough, right? Anyway, that is the way 
+life is. But yeah, learn, but don't learn too much. We let you fill in the blanks 
+of how to figure that out. 
+  
+Page 13 of 21 
+Arvind: Wonderful. Other questions? Yeah. 
+Chris: Hi Chris Kern. My question kind of pigtails off that. It seems like you are a 
+great friend to Guy giving him tips on  Fiat and Moutai and I think from the 
+article we read, I believe it was Graf Tech, you actually got the tip from 
+someone that wrote into you and gave you a tip. I am curious about kind of 
+the process you go through vetting some of those, and then also how much 
+the check that you wrote to that individual was. 
+Mohnish: First of all, let the record reflect that I called Guy not once. I brought up 
+GraFTech to him on at least 10 different occasions, and I have tried to have 
+very long conversations with him, and I sent him that writeup and many 
+other writeups. His total investment in GrafTech, currently to the best of my 
+knowledge, is zero. It is even less than the Moutai investment. I just want 
+for permanent posterity for the record to reflect while Guy is in the 
+Vipassana retreat, his GrafTech position is at zero. The individual in Canada 
+who brought it up to me has not been paid yet by me. I do owe him a meal. 
+I do need to take him to a meal. Next time, maybe I am in Toronto, I will take 
+him out and we will take it from there. But yeah, I am the shameless cloner, 
+and I am in desperate need of your ideas. mp@pabraifunds.com, please 
+send me more Moutais and more IPSCOs and more compounders. Thank 
+you. 
+Arvind: Other questions? Saw a few hands in the front. Yeah, go off. 
+Student: From there 
+Mohnish: Okay. Yeah. Good. The back row got the message, come on in the front.  
+Cameron: Hey Mohnish. I am Cameron. Earlier you were kind of talking about shifting 
+to quality compounds, and then we st arted talking about kind of how the 
+m i g h t y  f a l l s .  M a d e  m e  k i n d  o f  t h i n k ,  d o  y o u  h a v e  a  p r o c e s s  f o r  
+differentiating between quality compounders and kind of undisciplined 
+growth? How do you go about separating those? 
+Mohnish: Yeah, that is a good question. Actually, the thing is that you can almost take 
+this as a law of physics that pretty much every company in existence today 
+will eventually be a zero. It will disappear. I mean, I already told you, if you 
+go to the New York Stock Exchange, look at companies all last a hundred 
+years, kind of one has survived that period, and they were kicked out. I think 
+the record is a hundred percent record that you can take it to the bank that 
+businesses being around 50 years from now. I would say you can make a 
+guess that Moutai may be around 50 years from now. That is a pretty good 
+bet to make. But I would say if I look at a business like Costco, I don't know 
+if 50 years from now they are still cranking, culture can erode, managements 
+change, cultures erode, 50 years is a long time in retail. I think that is where 
+the difficulty comes in and the other thing that can happen is that they can 
+get into trouble. If you look at a co mpany like GEICO, it has been around 
+since the 1930s, but it was on its knees in the seventies, and would have 
+gone bankrupt if the regulators weren't benevolent as they were or Buffett 
+didn't step in and so on. You see a lot of history where great brands get into 
+trouble, and some of them may come out the other end and some of them 
+may not. I think the difficulty is that it is not just unconstrained growth. I 
+think that the capitalism is extremel y brutal. The competitive forces that 
+work on a business every day are very intense. This a very small sliver of 
+  
+Page 14 of 21 
+businesses that can withstand that continuous badgering for decades. I 
+mean, if you look at a business like MasterCard, it is very dominant. Are they 
+around 50 years from now? I don't know whether I can make that bet. 
+Payment spaces got a lot of competitio n, and there’s a lot of things going 
+on. People bring up American Express all the time to Buffett and Munger. 
+Every time they question the moat, Buffett and Munger's response has 
+always been that they don't see issues with the moat and they are happy to 
+hold. Actually the numbers so far support them. In fact, I was just reading 
+recently that the centurion card by American Express used to have a $2,500 
+annual fee. They just bumped it up to  5,000, and it used to have a $5,000 
+initiation fee, and they just bumped that up to 10,000. They increased some 
+benefits. I think that is an incredible franchise. They have no competition in 
+that space at the very top end when pe ople are paying them 10,000 a year 
+or 5,000 a year to carry the card. It is  quite an incredible moat and such. I 
+think that these are difficult, like what Charlie says, why should it be easy to 
+get rich? Why should it be easy for us to figure out which compounders will 
+get us 20x with very muted downside, and which compounders are we 
+going to lose our shirt on? That is an  extremely hard question to answer. I 
+don't have the answers, I mean, things can come out of that field but that is 
+what makes this fun. That is also a reason why you want to have more than 
+one stock. 
+Arvind: Other questions? 
+Eddie: Yeah, sure. I am Eddie Walsh thank you again. In considering from your book 
+Mittal steel, Mr. Mittal, might be pronouncing incorrectly, it is clear that 
+those were distressed assets that had significant upside potential and 
+limited downside since he basically got many of them for free. But I think 
+something that maybe I missed is how did he operationally turn those 
+around? Like, how did he realize the upside potential? Ultimately that is kind 
+of from the operator's perspective, and then separately as an investor, how 
+do you kind of look at a situation li ke that from the outside where you are 
+reliant so much on management's ability to accomplish an objective? 
+Mohnish: I am sorry, which example in the book were you referring to? 
+Eddie: It is Mittal when he had the steel mills. 
+Mohnish: Oh Mittal. Yeah. Lakshmi Mittal, I think you could have looked at very long 
+history where if you just looked at his trajectory of, he repeatedly bought 
+very distressed assets, and there is a company now, I talked about this. If 
+you look at YouTube video of mine wh ere I spoke to Peking University, I 
+spoke about a company in India called Motherson Sumi which basically rolls 
+up auto parts companies. I think the Mittal culture, and I think in to a large 
+extent, a lot of that was present in Fiat Chrysler in 2012, it was very clear to 
+me when I was making that investment in 2012 that Sergio Marchionne the 
+CEO of Fiat Chrysler, was an extremely unusual human being, an extremely 
+unusual manager and they had already been Harvard case studies on him 
+before I had invested. There was an eight-year history of him in the auto 
+business from 2004 onwards. I think that Fiat was losing more than a 
+hundred million a month, maybe 150 million a month when he came in. They 
+were upside down. The capital was gone, the banks were on their throats, 
+and in that environment, he got them to the Promised Land and then 
+orchestrated the Chrysler deal and so  on. There was a lot of historical 
+trademarks we could look at. If you study the guy, and you just look at my 
+  
+Page 15 of 21 
+video on Motherson Sumi, he has got a fly wheel, which is very unusual in 
+the sense that Motherson Sumi never reaches out to a company to acquire 
+them, and they never answer the ph one when a company wants to be 
+acquired. The only time they really kind of start moving is when one of the 
+large OEMs contacts them, like BMW contact them and say, “look, this 
+company that makes rear view mirrors for the seven series is losing 2 million 
+a month, and we are afraid they are going to go under and our second 
+source doesn't have the capacity or whatever else, can you take them over?” 
+At that point, what the Motherson guy says is, he told BMW, “Of course I am 
+here to service you. How much are yo u going to pay me to take over the 
+business?” They get paid to take over the business. They are not paying to 
+buy the business. Over a 25, 30-year period, he has compounded at 30% a 
+year in the stupid auto parts business. If you look at someone like Chaand 
+Sehgal at Motherson Sumi, I think Peter Drucker said that culture reach 
+strategy for breakfast. Motherson has a very unusual culture of how they do 
+things. For example, they have never relocated a plant to China for labour 
+advantage. If they buy a plant in Germ any, they keep it there. They have 
+never injected their people into thos e plants. They have  fired the top guy 
+always, but then found someone young, maybe even three or four levels 
+down a 35-year-old and then they put in charge of the plant. They might get 
+paid 50 million or 75 million to take  over this mirror manufacturer. Which 
+just gives them a two-year, three-year runway to fix the company. In three 
+months, the company is going to stop losing money, and in six months they 
+are probably going to start making money. About a year or 18 months, they 
+are making 2, 3 million a month. They have completely flipped it around. The 
+way Buffett and Munger talk about is that they don't put any faith in 
+projections. They look at the track record and when you are looking at these 
+investments, when you look at Arce lorMittal or Lakshmi Mittal, Sergio 
+Marchionne or Chaand Sehgal or any of these guys, at MasterCard we have 
+Ajay Banga, you can look at his track record at Citibank and other places 
+before he is just a incredible executor. Many times, the record is obvious. I 
+would say that Fiat Chrysler is now going through a possible merger with 
+Peugeot PSA. The guy who runs PSA, Carlos Tavares, is like Sergio, I mean, 
+incredible record, this amazing record , amazing execution, proven it over 
+and over for decades. You have got a rockstar, and the odds are that rockstar 
+will make things work because he has made it work so many times in the 
+past, and he has never failed in the past in any major way. Many times we 
+don't have enough of a trademark on a manager where we can't tell, we can 
+always take a pass, but plenty of times we do have trademarks and we do 
+have a lot of history. We can look at that history. One of the things about 
+Jim Collins, he talks about level five leaders. You can look at those traits. 
+What are the traits that make a level five leader? You can pretty clearly tell, 
+is the guy, high ego or a low ego, th at the best leaders are ambitious, but 
+they are not ambitious for themselves, they are ambitious for the 
+organization. They want the organization to be a rockstar. They don't want 
+them. For example, before your time, there was a guy named Al Dunlap 
+Chainsaw Al who took over Sunbeam and whatever, and everything blew 
+up in spectacular manner. There is a number of leaders who appear to be 
+good, but the egos are very high for themselves. That is not a level five 
+leader. You can run a test on the different traits. Servant leadership is 
+another trait. If you read Philp Fisher's book, he goes into a number of traits 
+of great leaders. I think you can look for those traits and it becomes obvious, 
+like Carlos Tavares, all his suits are off the rack, no custom suits for him. The 
+  
+Page 16 of 21 
+guy loves to travel coach, all his peers are doing private jets. When he goes 
+visits a plant, he goes, gets lunch himself at a local deli, some sandwich, and 
+then goes in. He can squeeze blood out of a rock. For 20 years, GM multiple 
+different managers went to Europe to try to fix GM Europe. They 
+continuously lost money for 20 years, and finally they paid him to take the 
+business, and in nine months they were making money. All the same 
+nuances of Europe, he made it work, and they are making, I think GM Europe 
+is making north of a million dollars a ye ar. I mean, billion dollars a year. It is 
+a very profitable business now, and GM was happy to get rid of it for nothing. 
+What is the difference? The only difference is that Carlos came in. That is it. 
+Then Carlos put his frameworks to  work and the same people, same 
+everything and the business is humming. Next question. 
+Ranci: Hi Mohnish. My name is Ranci. I ha d a quick question. I read in the Columbia 
+interview that you had seen some interesting opportunities in Turkey, and I 
+know you said an investor should ignore the macro picture, but how do you 
+feel investing in a coun try where the institutions  of the government are 
+deteriorating significantly? 
+Mohnish: Yeah. The thing is, I gr ew up in India at the time when it was very heavily 
+socialist, very anti-entrepreneur. But if you own the Coke Bottler in India 
+you do just fine. I would say that in any country in the world, if you own the 
+Coke bottler or the Pepsi bottler, probably a good business. If you own the 
+dominant credit rating agency, probably good business, what I am saying is 
+that there are businesses that tra nscend geography, and they transcend 
+currency. For example, let us say some country has crazy inflation. If you are 
+the Coke Bottler, it doesn't matter. You will still get paid, you will get a 
+margin, they could use seashells for curre ncy. It will still work. The thing is 
+that people will be willing to trade certain amount of their labour for a Coke. 
+That trade will happen no matter wh at. When I looked at Turkey, I was 
+mainly interested in these, what I would call bulletproof businesses. There 
+is the good news with the internet and YouTube and everything there are 
+fans of Mohnish globally, and there are fans of Mohnish in Turkey. The 
+interesting thing about these fans of Mohnish is like the one guy who is my 
+g o o d  b u d d y  i n  T u r k e y ,  h e  i s  o v e r d o s e d  o n  G r a h a m ,  B u f f e t t ,  a n d  M u n g e r  
+before I ever met him. The guy is already completely well trained and a 
+friend of Mohnish and offering services for free. Like I tell these guys, listen 
+is it okay if I visit Istanbul and can we just go meet all the companies in your 
+portfolio, and is it okay if I buy them if I like them? Oh yeah, it would be so 
+good. It would be great to hang out with you. I said, you want to get paid. 
+He said “Oh, why do you embarrass me?” I do try to pay them, but I am 
+usually unsuccessful. They are completely immersed in Graham, Munger, 
+and Buffett well trained. If a person has overdosed on Buffett and Munger 
+they are high quality human being because that means they have generally 
+picked up some finer skills in terms of what the soft human skills. They 
+generally are going to be honest, high-quality people. That is what I found. 
+I like my buddy in Turkey, and the problem my buddy in Turkey had was that 
+he overdosed on Graham, and he underdosed on Fisher. I told him, “listen, 
+can we not go see the PE of ones in Turkey and can we go meet the Coke 
+Bottlers in Turkey, please?” Because he was showing me PE of 0.1, forget PE 
+of one. He was showing me PE of 0.1, Arvind is probably orgasmic at this 
+point. But I told him, I don't want to see the PE of 0.1, please, because I know 
+that there is going to be hair on them that I won't be able to deal with. I said, 
+  
+Page 17 of 21 
+it is okay to play three times earnings  for a Coke Bottlers let us go meet 
+those guys, and that is what we did. He is so deeply into Graham with all this 
+PE of 0.1 stuff, and it is so great when you have that whole portfolio of those 
+businesses, but he is moving, the good news with him is that he is seeing 
+the light. One of the things that took me a long time to figure out is you 
+don't want to focus on discounted pies. Discounted pies are okay, what you 
+really want are growing pies, because growing pies is really where the holy 
+grail is. I tried to tell my friend in Tu rkey, “listen, please, the growing pies 
+and the great pies, not th e ones that have been stale and sitting for two 
+days”. I think that you can go to Turkey, no problem, and you can go to I 
+think the same thing in South Korea. There is my buddy in South Korea 
+completely trained in the ways of Graham, Buffett, and Munger, etc., again 
+the problem with these guys is beca use these are cheap markets, they 
+overdose on the cheap stuff. The Turkish guy and the South Korean guy are 
+both overdosed on Graham. I worked on both, and I think they are happier 
+for those lessons. Of course, the thing is that when we are sitting by the 
+seaside next to the Bosphorus, having great seafood for dinner with fresh 
+grilled Mediterranean Sea bass coming to you and then we are talking about 
+the switch from Graham to Munger, all of it goes down well. It is awesome. 
+In fact, I have a trip coming up now to South Korea in early December, and 
+this will be my third trip. I told the gu y, “Listen, I know you took me to all 
+these cheap companies, and I was trying to get you to make me see the 
+good companies. This time it is only great businesses. We are not seeing any 
+Mickey Mouse PE of 0.1 or PE of 1. I am looking at the great businesses, and 
+because the market is so cheap, they are still available at great prices”. That 
+is okay. Next question. 
+Arvind: Right, Mohnish on that subject as you are looking for these great businesses 
+Mohnish: I knew Arvind, the 0.1 would get your attention. 
+Arvind: No, it is not the 0.1. I think the goal is really to get a great business at a great 
+price, that anomaly. As you are thinking about that or in different markets 
+how are you balancing the price relative to the business quality? Because 
+functionally, you gave the example of buying the Coke bottler at three times 
+earnings. That is much better than buying at surface value a crappy 
+discounted business where the pie isn' t growing at one time earnings. Are 
+you rarely seeing them at three time s earnings that in those types of 
+markets? 
+Mohnish: I have not yet found a co-partner three times earnings, but the hunt is on. 
+Okay. 
+Arvind: Right. 
+Mohnish: But I would say this, that both Turkey and South Korea are both interesting 
+because I like South Korea better because Turkey is a lot more discounted 
+pies and South Korea is a lot more grow ing pies in general. If I were to 
+generalize the two countries, I would say that you could just look at the 
+growth rate that you have seen in South Korea the last few decades, you 
+compared to the growth rate of Turkey. It is just night and day. But when 
+you peel the onion, like in Turkey we  only have one bet and it is a great 
+entrepreneur and he has got great assets and he is really smart about how 
+he goes about his business and allocating capital and all of that. I bought 
+the existing pie at a ridiculously cheap price. But the issue is that the whole 
+  
+Page 18 of 21 
+pie was like 40 million dollars. We couldn't put a lot of money into it. That 
+pie is probably worth north of 500 milli on. But the other thing is that, that 
+entrepreneur is a young guy, and I think he has got decades of 
+compounding ahead of him. As long as he stays hungry and goes after it, I 
+think he is patient enough and the game will come to him. I think he will 
+make that pie grow, but even if he doesn't, we are just buying at such a 
+discount, we are still okay. We bought great assets at a great price. My only 
+problem with Turkey is I can't put a hundred million into that stupid thing. I 
+wish I could. In Korea, I think we ar e able to put a lot more capital. The 
+pricing is not as extreme, but the pies are growing and there is some great 
+pies. Like Munger says, you go fishing where the fish are, I think Korea is just 
+a great market to fish. The cost has done nothing for three decades. Things 
+are quite cheap, and the governance is getting better. The tables are losing 
+power. All the factors are moving in the favor of the investor. So it is good. 
+Arvind: Other questions? 
+Eddie: Yeah, sure. I’m Eddie. You talked earlier about John Arrillaga kind of 
+maintaining a small focus circular competence. We can find success there. 
+But I think we have seen some examples of how you may be expanded your 
+circular competence to include opportunities like graphic, that someone 
+sense to you, you are willing to expand your circular competence that 
+maybe understand that business. How do you go about expanding your 
+circular competence and feeling very confident in that new area within your 
+circular competence and then two, is it important to be like a poly map as a 
+value investor, someone who's kind of curious about everything and not 
+super focused in one circle? 
+Mohnish: Well, I think you are better off. I don't think one should be consciously trying 
+to expand one circular competence. I would say that investing is one of the 
+broadest disciplines because, when you look at a GrafTech, you are going to 
+run into a whole bunch of issues which you may have never thought about 
+and dig into those issues and try to figure them out, whatever else. If you 
+are a curious mind and you are curious about how business works, what 
+makes a business tick then I think that you are going to understand a few 
+things that will lead to a good outcome. I mean, if you look at a business like 
+GrafTech and you just study it from the perspective of a student of business, 
+right, not from the perspective, and that is how you should approach it, 
+student of business. If you look at GrafTech, there is several things. One of 
+the things is that before Brookfield bought them, they had six plants. What 
+Brookfield did is, it took six plants down to three. They got rid of three 
+plants, and they honed in on a whole bunch of manufacturing efficiencies 
+and streamlined those plants and their cost structures and all of that. They 
+really kind of rolled up their sleeves and they went to work. It is not a 
+business where they are just looking at huge tailwinds and just flying on 
+those tailwinds. They went just like fi t Fiat Chrysler; they went into the 
+details of manufacturing to get efficiencies. Even like today, GrafTech had 
+earnings call. They have two plants. Two are these three plants, one is in 
+Monterey, and one is in Pennsylvania of  the North Pole, they just bring it 
+b a c k  t o  l i f e .  T h e y  a r e  k i n d  o f  m o v i n g  s o m e  w o r k  f r o m  M o n t e r e y  t o  
+Pennsylvania. It is about a two- or th ree-year project for them to do these 
+movements. It doesn't increase capacity, but it takes their cost structures 
+down. This is a business that is doing continuous kind of blocking and 
+tackling to improve their efficiencies and such. I think the thing is, when you 
+  
+Page 19 of 21 
+look at these businesses, don't look at them from the perspective of making 
+an investment. Look at them as from the perspective of a HBS case study. 
+Just a case is assigned to you as part of the MBA program, whatever else, 
+and you are studying it. I think that is the way you should look at these 
+businesses. When seven moons line up and it hits you between your eyelids 
+or your eyebrows, that this is a total no brainer. That is when you should act. 
+But beyond that, you should just keep reading and ingesting. As you keep 
+reading and ingesting, the circular co mpetence will gradually expand, and 
+you will get there. I mean, if anyone sends me anything on US healthcare, I 
+never read it. US Pharma, I never read it. Biotech, I never read it, because 
+those are so far away from my circular competence that I am never going 
+to get there. I think US healthcare has so many forces that are non-market 
+forces and that are such corrupt forces. I just ignore the entire sector 
+because I just think that once I get past, if I am not operating in a sector with 
+market economics, then it is just so mething doesn't appeal to me. I don't 
+want to look at health insurers, I don't want to look at hospitals. I don't want 
+look at all the different participants in the US healthcare system because 
+there is so many issues with it, which are not market driven. That is like one 
+sixth of the economy, right? You can ignore 80% of the economy, 90% of the 
+economy still do well. Some areas I just don't want to read about because I 
+know I may learn stuff, but I have never got to go there so I can focus on 
+areas. I think it is worth studying the Amazons of the world, the Googles of 
+the world, because those are so much stuff happening in the world will go 
+through them if you will. You may never make an investment there, but I 
+think it is worth learning them, worth understanding them. Arvind, he is 
+muted. 
+Michael: Yeah, my question is more general, and it is what percent, how much of your 
+day spent reading and how much of th at reading is based on companies 
+that you own in your portfolio versus new opportunities? 
+Mohnish: Yeah, I am looking at all the portfolio businesses, at least quarterly, because 
+at least look at their updates and stuff. One of the things about investing is 
+that real change in businesses happens over years. It is not weeks or 
+months; the timelines are a lot longer. You must really kind of have an 
+understanding that it takes a while. The new companies that show up, I 
+mean, I get a decent flow of writeups from people and such, and I look at 
+them, but a lot of them are the stocks at 13 and they think it should be at 17. 
+When I see that I am done, because I am saying, okay, if the guy who's 
+bullish on the company can't see a 3x or a 5x on the position then what is 
+the point? Don't send me stuff. It is a 13 and it is worth 18, please. At least it 
+is 13 and worth 50. Someone has got to pay for the shirt and the library and 
+all that. The 13 to 18 just won't get me there. We need some more meat on 
+the bone. I look at those sometimes, they are in industries where I just know 
+I don't want to go there. Today, I think someone had sent me some natural 
+gas play where the most bullish scenario was about 80x return. I didn't 
+spend much time on it, between us girls it just looked like there was a lot of 
+that directional bet is on prices and, and all of that. Nothing was coming up 
+from that, that made it obvious that I ought to drop everything and go all in 
+on this. I think you have to make judgment calls where you see something 
+and you say, Okay let me spend 10 minutes on it. After 10 minutes you say, 
+do I want to spend 30 minutes more on it? After 30 minutes, do you want to 
+  
+Page 20 of 21 
+spend two more hours on it and just keep taking a call at each point. Next 
+question. 
+Student: Yeah. Thanks. I’m curious, so you said you want to look for something that 
+is going to give you a 3 to 5x return. How long are you willing to wait 
+generally to achieve and realize that return? 
+Mohnish: Yeah, 5x in five years is very nice. Even 5x in 10 years, there is no problems 
+with that. We can get those types of numbers were in good shape., 
+Arvind: Other questions? Yeah. 
+Student: One of the things that I struggle with is companies that have good earnings, 
+but they have poor free cash flow, because they have high Capex. Do you 
+like that scenario? Because I can see people liking because probably 
+reinvesting their capital well, but to me it seems like I like free cash as well. 
+Mohnish: What is the name of the company you talked about? 
+Student: Micron 
+Mohnish: I am sorry, I thought you mentioned the company. I think what you want to 
+look at is, you want to look at owner earnings, you want to look at the cash 
+the business generates that can be distributed to owners, okay. After Capex 
+and after everything. If Micron is on your mind, then at least for me, you 
+must wait sometime. We can't discuss it today, but I would say that if I am 
+looking at a company like Micron and Capex is not a deal killer, but I want to 
+see what the owner earnings are af ter Capex, I mean, just because a 
+business has high. I agree with you. The best business are the ones that have 
+no Capex needs, MasterCard, or Amaz on, or Google, whatever, these are 
+great businesses, but you can do really well, even in businesses where the 
+Capex needs a significant, I mean, the extreme case is I hate the auto 
+business because of the Capex, but even a crappy business like autos, I am 
+not even talking about Ferrari, the mass market auto. I mean, even if I take 
+out Ferrari, Fiat still gave me a 4x in seven years with all the Capex and with 
+everything else going on, right? It wasn't a bad investment. I think that the 
+memory players they do have high Capex, but they also have high owner 
+earnings. Other questions?  Yeah. You want to look at the owner earnings. 
+You want to look at it after Capex. Like I said, if you take the stance that I 
+have a friend of mine in Singapore who probably wants to go unnamed, the 
+guy won't buy any business which has Capex period. For him, what is very 
+important is the incremental widget that they put out doesn't need any 
+Capex, he likes the Amazons, he likes the apples, he likes the Google that he 
+is done well. You can have a framework which says, I don't want to look at 
+high Capex businesses, and you can have a very comfortable life. 
+Arvind: Other questions? Mohnish are there any great recent reads that you have 
+enjoyed? I know you read very widely. 
+Mohnish: Yeah, I think that one is that book that just came out on Jim Simons, the 
+Renaissance guy? "The Dust Jacket, The Man Who Solved the Market”. Yeah, 
+I just start reading it, but the author Gr egory Zuckerman, he is just a really 
+good writer, and he does very thorough research. He wrote a bunch of good 
+books in the past, I haven't finished it, I probably think 20, 30 pages into it, 
+but it is already captivating, I think that is a good read. There is another book 
+that I just ran into recently which is called More from Less, it is a guy named 
+  
+Page 21 of 21 
+John McAfee. He wanders a bit I think chapter five and chapter seven has a 
+lot of the essence of that book. But that book forced me to reset some 
+thinking. One of the things that we don’t realize, and I think many of you 
+might be too young to realize is that, but if you go back about 20 years and 
+you think about all the things that we had in our life as kind of individual 
+devices is all gone into the iPhone. For example, we used to buy cameras, 
+right? Most of us don't buy cameras anymore, and we used to have like 
+music systems and different nuances of music and that has gone away. We 
+used to print everything, like I used to print the maps and all that, and that 
+has gone away. A lot of physical device s that we had are all basically gone. 
+Basically, atoms got converted into bits and a lot of atoms got converted 
+into bits. We are seeing a lot of efficiencies come out in terms of usage of 
+resources. We are getting a lot of GDP growth without a proportional use of 
+resources that we had in the past. A lot of it is because of the efficiencies, 
+not just with the iPhone, but the efficiencies that have come about in 
+manufacturing and in different industries and such. The book actually takes 
+it just a longer-term view to show you that. I think it is just a good food for 
+thought. 
+Arvind: Got it. Well, Mohnish this has been fantastic as always. Thank you so much 
+for doing this, as always. 
+Mohnish: Well, Arvind it was a pleasure, and you have a great class and some 
+wonderful questions. Thank you very much and enjoy the rest of the 
+evening. 
+Arvind: Well, thank you. 
+ 
+  
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not 
+intended to be, financial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not b e 
+suitable for you, do not take into account your particular investment objectives, financial situation or needs and are not intended 
+to provide investment advice or recommendations appropriate for you. Before making any investment or trade, consider whether 
+it is suitable for you and consider seeking advice from your own financial or investment adviser. 
+ 
+ 

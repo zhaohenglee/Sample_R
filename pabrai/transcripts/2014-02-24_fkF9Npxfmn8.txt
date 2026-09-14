@@ -1,0 +1,958 @@
+  
+Page 1 of 19 
+Mohnish Pabrai Talk at TiE SoCal (Irvine, CA) on Marketing 
+& Branding on February 24, 2014 
+ 
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not 
+intended to be, financial, legal, accounting, tax, or investment  advice. Investments or strategies that are discussed may not b e 
+suitable for you, do not take into account your particular investment objectives, financial situation or needs and are not intended 
+to provide investment advice or recommendations appropriate for you. Before making any investment or trade, consider whether 
+it is suitable for you and consider seeking advice from your own financial or investment adviser. 
+ 
+ 
+Mohnish: A pleasure and honor to be here today and always a pleasure to participate 
+in any way I can, and work with TiE, I have a lot of respect for TiE. I love the 
+mission. Like my hero, Charlie Munger says, a place like Costco has done a 
+lot better in the world than even the Rockefeller Foundation. The reason he 
+says that, if you really dissect th at statement, is entrepreneurs and 
+entrepreneurship is really what makes t he  w h eel turn . It  is wha t lea ds t o 
+what is eventually a lot of good fo r society, from jobs to growth and 
+everything. It all starts with an entrepreneur dreaming an impossible dream. 
+Since that is the essence of what TiE cares about and TiE focuses on, it is 
+easy to love TiE, so that is great. What I am going to do today is, I have some 
+thoughts I would like to share with you. Hopefully we will have time to hear 
+from you and maybe get your questions and comments and such on the 
+subject at hand. We are going to talk  about something I usually don't talk 
+about, which is sales and marketing. Like many of you in the room, I am an 
+engineer, and I trained as an engineer. When I went through undergraduate 
+as an engineer, I looked at these marketing majors with a jaundiced eye and 
+basically my take at the time was that this is all kind of fluffy stuff and it is 
+easy stuff, and these guys aren't really doing the real hard work like real men 
+do engineering and all those sorts of kind of perspectives. Very early in my 
+early twenties, I happened to read a book. I will mention a few books today. 
+I have a list I will hand out, so you don't need to write down the names of 
+the books I am mentioning. I will give it to you all on a piece of paper if you 
+care to go through some of them. This would have been like mid-eighties. I 
+read a book called Marketing High Technology by this guy called William 
+Davidow, and he is now a venture capitalist in Silicon Valley. A very 
+prominent firm, more Davidow Ventures, but at that time he was originally 
+head of R&D at Intel, and then they had moved him from head of R&D to 
+head of marketing at Intel. He wrote this book after he had kind of done a 
+few years of running marketing for Intel. 
+There are a couple of things he mentioned in the book that really stood out 
+for me. One of the first things he said was that ‘marketing is an exact 
+science, and it is almost as an exact science as physics. Obviously, that 
+destroyed a lot of preconceived notions I had about the way I thought about 
+marketing. Then he went about talkin g about what he called the laws of 
+marketing, which in many ways, he thinks of as the laws of physics. Just to 
+take a step back, this is 101, but marketing and sales are two completely 
+different things. I will talk about sales a little later, but first I want to talk 
+about marketing, and then we will dovetail into sale. Of course, there is 
+some overlap, but there, I think of them as very distinctly different 
+endeavors and I was intrigued by the way Davidow was talking about these 
+laws of marketing. For example, one of his laws was that if you look at any 
+  
+Page 2 of 19 
+market, any product, there will typically be three or four players at the most 
+that control 80% of that market. It could be making airplanes, or it could be 
+making hair clips. You can pretty much go across the board. It could be 
+making software, anything you want. I found that stunning, and if you invert 
+that, one of my heroes, Charlie Munger, says, every time you encounter 
+something, always invert the logic to try to get some other place. If you 
+invert that principle, first of all, if you agree with the principle, then the 
+inversion would be that if you are starting a business and you say that this 
+is a $10 billion market, and I just need 10% of it, and I will be a billion dollar 
+company, Well, right there, you are off, because the inversion would be that 
+if you are going after a market, your approach has to be, how do I get 60% 
+of that market? If your starting point is that I am going to take 2% of this 
+market, or 5% of this market, what you have not done is you have not 
+segmented that market properly, and that is a fatal flaw. The first thing you 
+ought to do is define the market that you are going after, and after you have 
+defined it if you don't get to a very clear cut game plan to get 50, 60% market 
+share, then don't even try because either you have not done your job 
+correctly or you don't have anything to offer that is going to be that 
+compelling to people. This is kind of one example of what Davidow was 
+talking about and then I read a set of three books written by the same 
+authors. The funny thing about these books is, all my marketing lessons 
+which I still use today, were all from  these books in the seventies and 
+eighties. I am sure there is a bunch of newer one now, but I don't have those 
+names to share with you because I am kind of locked into these core 
+principles. But another set of three books was written by these two guys, 
+Miller, and Heiman. The names of those books were Strategic Selling, 
+Conceptual Selling, and Successful Large Account Management. Of course, 
+even though the term “selling” is in those books, a large part of it has to do 
+with marketing. Not so much about se lling, I will get to selling later. 
+Between Davidow and these Miller-Heiman books, I got a very solid 
+education that marketing is not fluffy, it is really a set of very core rules. If 
+you violate those rules, that would be like a physicist who claims that there 
+is no gravity. The physicist can claim there is no gravity, but gravity is going 
+to affect him, okay? So, you can think that there is no gravity, or it works a 
+certain way or it works in reverse, but all of those things are going to come 
+bite you. You really cannot ignore these core rules of marketing. If you don't 
+want to ignore them, you at least must know them, right? It is hard to ignore 
+something if you don't even  know what it is. You must know these rules. I 
+would say probably 90, 95% of entrepreneurs who get going do not 
+understand these rules, and therefore the result is predictable. They are 
+going to hit a brick wall soon and such. 
+The rules are very important. The second is that the stronger the marketing, 
+the weaker the sales engine can be. I do not consider myself a good 
+salesman. I consider myself a poor salesman. I consider myself a strong 
+marketing person. If you have done your marketing homework, you can be 
+a leper and make sales, and a standing example of that is someone in front 
+of you. Because basically my approach to sales would be, 180 degrees 
+approach to your traditional used car salesman schmoozing model and golf 
+courses and all that. None of that is of much interest to me. The stronger 
+the marketing, the less important the sales engine becomes. It is very 
+important, in my opinion, to spend incredible amounts of time on the 
+marketing aspect of the business, because if you don't spend that time on 
+  
+Page 3 of 19 
+that aspect of it, you will spend 50x that time on the sales end and hit your 
+head against a brick wall, and that is no  fun. It is not fun to hit your head 
+against a brick wall. It is good not to go there. I just f eel the stronger the 
+marketing, the weaker the sales. 
+Now, the other aspect is that most things that people come up with is that 
+they want to pitch to the world some basic rules. Charlie Munger’s rule, do 
+not try to sell something that you wouldn't buy yourself. Okay, if you don't 
+truly think it is something that you would yourself, be a customer of, don't 
+try to pitch it. Don't be a used-car salesman. Make sure that whatever you 
+are trying to come up with is compelling enough that you would yourself be 
+deeply interested in buying. About 16 or  17 years ago, I read a book called 
+Power versus Force, written by David Hawkins. When I refer to this book to 
+my friends, I get two kinds of reactions. Either they are ready to throw it 
+back at me and hope it really hurts me, or they love the book. I don't have 
+people who say, “Ah, it was okay”. I get extreme reactions. I am sure when 
+you read the book, if you decide to read it, you will have either one reaction 
+where you will embrace it, or another where you say that this is such a bunch 
+of nonsense. But please bear with me and just dive in and accept it. David 
+Hawkins is not a marketing guy. He is a new age guru who hangs out in one 
+of these new age places in Arizona with a ponytail and all. 
+It is somewhat of a spiritual book. His th esis on that book is that if I lie to 
+you, and in your conscious state, you do not know that I am lying to you, in 
+your subconscious, you do. For all humans, there is a pipe, a 
+communications highway or at least a one lane highway that is going 
+between your subconscious and your conscious. Because of all the junk the 
+world throws at us as we are growing up, for most of us humans, that pipe 
+is almost completely clogged. Whatever your subconscious is trying to send 
+as a message to you, to your conscious brain is barely able to get through. 
+Usually, it gets through in some mu mbled, jumbled way. There are certain 
+humans for whom that pipe is less clogged than others. The less clogging 
+that you have, the better judge of human nature and a better judge of the 
+world, you are going to be, I believe that people like Warren Buffett and 
+Charlie Munger have significantly less clogged pipes than most of the rest 
+of us. I believe someone like Gandhi had almost a completely unclogged 
+pipe and such. What David Hawkins said is that most of us, if someone is 
+lying to you at the subconscious level, this guy is just feeding me a lie, and 
+when your subconscious is trying to transmit that message to the conscious 
+part to tell you get away from this idiot, it can't get through. But what 
+happens is, a little bit of the signal for most of us does get through, and the 
+little bit of the signal, what is telling you is you somehow feel that you don't 
+feel that good being around that person. You may not know why you don't 
+feel good about being around that person. For example, the classic use-car 
+salesman, you really don't crave to be around that person, and you can't 
+pinpoint which part of his pitch is a lie, but you generally don't want to be 
+around that, and if you invert it, which is what Hawkins does, which is if 
+someone is absolutely truthful to you all the time, you want to be as close 
+to that person as much of the time as you can. Hawkins came up with what 
+he called these attractor fields, and he put a bunch of math in the book as 
+well, putting like a log scale on different attractor fields, which is probably 
+where I lose some of my rational friends when they read the book. What he 
+said is that humans have different levels of attractor fields that they emit. 
+  
+Page 4 of 19 
+The more truthful you are, the strong er those attractor fields, the slimier 
+used-car salesman you are, then you are just, like repelling people. They 
+don't want to be around you and you are trying to chase them down and 
+get them around you. 
+For example, he put Jesus, right at the absolute top of the attractor fields, 
+absolute truth. He put Gandhi, I thin k probably, one whole log level down 
+below Jesus. Then he put all kinds of other great people, Martin Luther King, 
+and others kind of up there. Warren Buffett probably because he is a 
+capitalist, is not quite like Gandhi, but he would be somewhere up there, 
+right? You must give up discounts to capitalists, but basically, he would be 
+up there. That is why people want to and that is why there are 40,000 
+people who show up in Omaha every year because it is those attractor fields 
+that work. These attractor fields work, but Hawkins went further, and what 
+he said is that if I lie to you, and we put these kinesiology sensors on you, 
+not on me, on you that sensor is going to pick up changes in your muscles, 
+which your subconscious is feeding into which will basically say you are 
+being lied to. I have never tested that. I don't know whether that part of his 
+thesis works or not, probably another reason why I lose my rational friends. 
+But let us assume whether it works or not, the bottom line is, if I lie to you, 
+your subconscious knows, and that is the end of it. 
+Now, when you take that in the context of marketing, which is where I 
+overlaid this. I am pretty sure the people at Procter and Gamble have never 
+read Hawkins because the company predates Hawkins. But P&G has a 
+principle. They have a principle that they will never market anything unless 
+whatever they are saying is true, an d it is genuinely an improvement. 
+Whatever they are pitching must be true. What P&G has found probably 
+over a hundred years of history of marketing everything, and they are the 
+Gods of marketing, is, you cannot, in effect, put lipstick on a pig. If you have 
+a substandard product, you dress it up well, what happens is, the human 
+attractor fields just see straight through, and those products don't do well. 
+What P&G has found is that if you are pitching some kind of detergent that 
+is better than other detergents, it better be better. Otherwise, it just doesn't 
+work. Someone like P&G really understands that at the core, and I think they 
+may not realize it, but they really are kind of playing off Hawkins. When you 
+look at this in the context of our discussion today, which is on marketing, 
+number one, please don't go out to the world with anything that is not earth 
+shattering. If you don't have a compelling value proposition, there is no 
+point pitching that because it is going to fall flat, it is going to fail to get 60% 
+market share, right? 
+First, whatever product or service you are coming up with has to have a 
+compelling value proposition. Whatever that value proposition is, must be 
+real and truthful. You can't just fake it and say, “Oh, this is what we do.” You 
+have some glitzy marketing message arou nd it, but in the end it will fail. 
+Very important is to keep Hawkins’s message in mind and keep it absolutely 
+truthful. It is not easy to come up with compelling things that the world 
+needs. That is not an easy exercise, but like Munger says, why should it be 
+e a s y  t o  g e t  r i c h ,  r i g h t ?  I f  i t  i s  n o t  e a s y  t o  c o m e  u p  w i t h  t h e s e  t h i n g s ,  n o  
+problem, just spend more time with the drawing board, and eventually you 
+will figure it out. Now, let us say you have come up with a compelling value 
+proposition, let us say you are truthful, you truly understand it, and your 
+pitch is truthful in all of that. What I have found is that basically whatever 
+  
+Page 5 of 19 
+you come up with and you have come up with it in your lab and thought 
+about it, talked to friends, looks great. It is the service of product looks great. 
+The real litmus test of that is when you put it in front of customers, right? 
+When you go out and make your pitch or create an ad or whatever else, and 
+a very important thing for an entrepreneur to do is when they put that out 
+there, pay a lot of close attention to the feedback you get from the people 
+who are listening to the pitch. This is very im portant at the front end 
+because what is probably the case is that whatever you came up with is off 
+base. It is not exactly what your market earns. I will give you an example. 
+There is a friend of mine in Chicago, and he started a company called 
+InstallShield. Many of you might be familiar with the company when you are 
+installing different Windows products, InstallShield comes up. Viresh 
+basically was like, I think 19 years old or something when he came up with 
+InstallShield. He said he was going to go to a trade show, some software 
+tools trade show, and he was trying to do a whole bunch of different things. 
+He was trying to do Google Maps 30 years ago, when there was no way that 
+commuting could support that sort of thing. But he went to a trade show, 
+and he had created this kind of trade show booth with different products. 
+He had seven products, seven different tools that he was pitching. It wasn't 
+balancing on that booth, because he wanted to put four bullets on one side 
+a n d  f o u r  b u l l e t s  o n  t h e  o t h e r .  H e  w as like four and three. It was really 
+bothering him. As an afterthought, this little tool he had was just to install 
+software, was his eighth bullet. He just put that in the end as the bottom 
+and the eighth bullet was installed software installation tool. Throughout 
+the whole week, I think a couple of da ys, he was at this trade show booth 
+and all these people are coming by an d all this stuff going on. There was a 
+guy across the aisle from him who spent two days looking at those eight 
+things because he was in the software business. After two days, he came up 
+to him and said, “I have an interest in that product”. This product did not 
+exist. It was in Viresh’s mind and so this was one of the only leads he picked 
+up at the show. He went back and created the product and gave it to the 
+guy, and then he found that other people wanted it, and so on and so forth. 
+Bottom line is that, if you study start-up s, you will find over and over that 
+what works is not what you came up with. What worked is like some tangent 
+or, you mentioned something to a customer in passing, and then they grab 
+onto that say, “I want that”, and you say, oh, he is unusual. He wants an 
+unusual thing. I keep my core pitch. No, what you really must do is pay close 
+attention to what is going on. 
+I will give you an example of that, which I just encountered a few hours ago. 
+I am in the process of raising a fund, it is just going to finish in two days, but 
+I am in the process raising a fund to basically buy an insurance company. It 
+was the first time in my life that I had to raise about $150 million in a short 
+period of time, about six weeks. I have never done that before, and I didn't 
+know whether I could do it or not and looks like we will oversubscribe. The 
+best part of the over subscription is, I never left Irvine and the investors are 
+from all over the world. I am like the leper in terms of sales, I just wanted to 
+make sure my marketing was done right, and then everything else works. I 
+was looking today at the list of investors who have committed to coming 
+into this venture, and what surprised me was that 50% of that list is Indians 
+from all over the place. Now, Indians make up what? 2%. 
+Audience: Correct? 
+  
+Page 6 of 19 
+Mohnish: Right, they make up 2% of the country. Statistically, we do not expect that 
+2% of the country is becoming 50% of my funds. I did not pitch it specifically 
+to Indians, I just pitched it across the globe. Now, if I was good at the 
+marketing engine, what I would understand is, the next time I am doing this 
+to pay more attention to that. To pa y more attention to that demographic 
+and to hone a message that is honed into that demographic somewhat 
+more, because clearly, I am tapping into something which is statistically 
+significant and so these are the things  you have got to pay attention to, 
+which is that you are not going to have the right idea to start with. Your idea 
+may be 70% right, or 60% right, or 10% right. But if you listen carefully to 
+what your customers say you will be able to adjust it. A very good book on 
+this front is the book called, “The Origin and Evolution of New Businesses” 
+written by an IIT grad and Harvard Business School grad Amar Bhide. I have 
+become friends with him since I read the book. What Amar did is, he is a 
+professor now at Columbia I think, he spent a few years interviewing Inc. 
+500 CEOs. The Inc. 500 list comes out ev ery year. It is on the list of 500 
+fastest growing private companies in the US. His perspective was that 
+business schools spend a lot of time studying large businesses. They do not 
+spend time studying entrepreneurship. His perspective was, “well, I really 
+want to understand how and what goes on as the formation of a company.” 
+He said, why don't I talk to these Inc. 500 CEOs, ask them a bunch of 
+questions, interview them, and see from an academic point of view if there 
+are common themes that emerge from all these discussions, which can 
+serve as kind of a blueprint of what great things are to do and not to do 
+when you start. I think that is a fantastic book to read because there is 
+incredible research that went in, but it's also a very funny book. 
+There is an incredible commonality amongst this diverse range of investors 
+in completely different industries who did this exact same thing. For 
+example, one thing I did in my first business when I started TransTech is, I 
+had two business cards. One of my business cards said President and CEO, 
+which I never used. My second business card said, Vice President Marketing 
+the only card I used, and I was, at that time, pitching IT services to basically 
+you would say, companies worth 500 million or a billion in sales, large 
+businesses. Many a times, they were Fortune 500 companies. When I went 
+to meet these companies, my thinking was that, if I say I am the president 
+CEO, it makes the company look small, right? If I say Vice President, 
+marketing, oh, he looks impressive and he must work for some impressive 
+people and must be a larger organization, and that sort of thing. The funny 
+thing is, when I read Amar’s book, half the Entrepreneurs did that, and I did 
+that because it just made logical sense to me. But a lot of entrepreneurs did 
+that. The other thing they did was they put international in the names of the 
+companies, they put global in the names of the companies, they put all 
+these different things and names the companies to make it look larger, 
+right? All these things to make it look larger. These people had not talked to 
+each other to come up with it. They had come up with it independently. 
+What I found interesting, when Amar did the analysis is, when you were 
+starting a business, you could read the book, look at this list of things that 
+all these guys did, and try to incorp orate those because those worked. All 
+those guys were successful, and they built large businesses. The other thing 
+that comes up, which is outside the subject of the discussion we are having 
+today, is, they were basically arbitrag e players. What I mean by arbitrage 
+players is that I just told you that don't go out till you have a compelling 
+  
+Page 7 of 19 
+value proposition. Compelling value pr opositions, let me rephrase that. 
+Enduring comparing value propositions . Like, for example, the iPhone. We 
+are not going to come up with that. I am sorry folks. Maybe one or two of 
+you can, but I certainly can't. Most of you probably can't either. Hard to 
+come up with enduring competitive va lue propositions that are just earth 
+shattering, right? But arbitrage oriented value proposition. To give you an 
+example, one of the entrepreneurs th at Amar interviewed started this 
+company called CompuLink in Florida. This guy had finished high school and 
+went into the Army. The Army trained him in being like a communications 
+tech, basically doing all this communications gear. After two years, he had 
+enough of the Army and the buzz cuts and all that and he quit. He didn't 
+have much money. He had a very small studio apartment in Florida, and he 
+was trying to figure out what to do. The way his apartment was set up was, 
+there was a long distance between his computer and his printer, about 20 
+feet. He needed a long cable betwee n the computer and the printer. He 
+went to the local computer store. This is probably in the early eighties, - no 
+internet, nothing. He went and said, “hey, I am looking for such and such 
+type of cable at this length”. At that time, cables were not standardized. 
+Every vendor was making its own cables and own proprietary stuff. You had 
+to get exactly that printer and that computer connecting and all that. The 
+computer store owner told him, “Look I don't have that kind of cable. I get 
+these requests all the time, but I can tell you that you can just daisy chain 
+six of these and that will get you your 20 feet. It is more expensive, but you 
+can do that.” This guy in the Army knew how to make cables. That is one of 
+the things he had picked up. He flipped the question to the store owner. He 
+says, “hey, look what if somebody gave you all these missing lengths of 
+cables that you don't have and you just sell them because what you are 
+proposing to me is so expensive and ridiculous, that makes no sense”. 
+The guy said, “Look, I want branded stuff. “I don’t want some mishmash 
+stuff”. Then the guy said, “well, would you put it on sale on consignment?” 
+He said, "oh, on consignment, you mean you are going to put your inventory 
+in my store?” He said, “Yeah, sure, no problem. Put it there”. He made a kind 
+of a matrix of all the different interfaces and all the missing cable links, and 
+then he went to work in his department and made these cables, and then 
+he put it in the store. Then he went to talk to all the other computer store 
+owners up and down close to Florida and had all these stores carrying his 
+cables. He had super normal profits because the pricing was set to be 
+slightly less than this daisy chain thing. But what would happen is that after 
+about a few months, the manufacturer or some branded cable guy would 
+come up with that cable length, better packaging, better brand, and then 
+the store owner would say, I don't need this anymore, okay. Take your riffraff 
+out of here. He was making supernormal profits, but he made it in a short 
+time. He had a competitor advantage, but it was not enduring. But what he 
+did was, he was nimbler than everybody else, because you are small. He 
+continuously kept track of what was coming out, what interfaces are 
+coming out, what lengths are missing, and he just did one step ahead and 
+just continued to come up with products just three, four months before the 
+rest of the guys caught up with him. Then finally that business evolved to 
+the point where he went from making cables to installing large scale cable 
+installations for Fortune 500, Fortune 1000 companies. Now that business 
+has like 1800 people, okay? That was a case of not an enduring competitive 
+brand, it just going, just hopping from one to the other to the other until 
+  
+Page 8 of 19 
+finally he found a services piece, and then the services piece worked, and 
+he scaled the services piece and such so, anyway Amar’s book is fantastic 
+on that front. What you really have to do is, keep your ear very close to the 
+ground and really listen, especially in the early days, really listen to what 
+your customers are saying, because they will basically tell you exactly the 
+way you need to point the company. If you don't listen to them tone deaf, 
+then again, you are going to hit your head against a brick wall. I want to talk 
+about another Charlie Munger calls these mental models. I will talk about 
+another model, which is broader than ju st marketing, but I think it applies 
+very much to marketing. There was this management guru who was at 
+McKinsey in the seventies and eighties Tom Peters, and he wrote a bunch 
+of best-selling books, if you are my age, you probably have read some of 
+these books in Search of Excellence, a Passion for Excellence and so on. He 
+was like kind of the Jim Collins of the seventies and eighties wonderful 
+writer, did a lot of good work on lo oking at different companies, large 
+companies, and why they did well and so on. I remember one of Tom Peter's 
+books, he gave a story, and I really found this story hard to believe. I said this 
+cannot be the way the world works. Tom said that, and he said this was a 
+true story, he said that there were these two gas stations at this busy 
+intersection in California. They were both self-served gas stations. At that 
+time, for those of you who are older th an the time when you just put your 
+credit card in and out of the machine, you will go into the store to pay if you 
+remember that. One of the owners of the gas station would come out every 
+hour or an hour and a half, pick a random car and tell the guy, “listen, sit in 
+the car, I will give you a full serve.” He would pump the gas, clean the 
+windshield, check the oil, just do everything and at no charge. The guy 
+across the street could clearly see what is going on. His perspective was that 
+this is stupid. It is self-serve. Why do you want to give full serve on self-
+serve? Because you are never going to make the money on that, and you 
+can't do it for everyone. What is the point of doing this for this random 
+people because the other people aren't  getting serviced, over time what 
+started happening is the guy who was providing the extra service once in a 
+while was getting more business, more cars were going to his gas station, 
+which is the guy across the street. Even after the guy across the street saw 
+a drop in business, and it was clearly visible to him why his business has 
+dropped, he did not make a change to his modus operandi. Then Tom Peters 
+says that you can sit down with your most direct competitors, and you can 
+lay out all your competitive advantages  and your hidden trade secrets and 
+everything. Just lay it all out and they  will listen to you. They might be 
+intrigued, but they will be no behavior change. I said, this is ridiculous. How 
+can this be true? In a capitalist society, when someone is showing you 
+something that would make you more money and more successful, how can 
+you choose to ignore it. Again, in my mid-twenties when this happened, I 
+had started my IT services business at the time and so I said, what I am going 
+to do is I am going to prove Tom Peters wrong. I am going to prove Tom 
+Peters wrong in two different ways. The first way I am going to prove him 
+wrong is I am going to copy anything from anyone that I find interesting and 
+sensible, even if every bone in my body is fighting that Tom is talking about. 
+I said, first, I am going to clone good  practices and good ideas wherever I 
+see them. The second is I am going to test it in the real world if this is exactly 
+how people act. In the IT business, the industry at that time was growing so 
+fast that we had lots of turnovers. We had lots of young ambitious kids 
+  
+Page 9 of 19 
+working for us. They used to get job of fers all the time, 20, 30% raises and 
+all these things. 
+Many of them wanted to set up their own IT business and compete with us 
+and so on. Very often someone would come into my office, look at their 
+shoes and turn their resignation. Then when I ask him what he was going to 
+do, usually again, looking at the shoes, he would basically say, I am going to 
+compete with you. At that point, this is something I have always felt right 
+from the time I heard about Bill Davidow, for my marketing and all these 
+t h i n g s  a r e  a l l  a b o u t  r e a l l y  a n  a c a d e m i c  p u r s u i t .  T h e  f a c t  t h a t  w e  m a k e  
+money and all that is just a side effect. I was into this pursuit of proving Tom 
+Peters wrong. I did not really care about any negative impacts on the 
+business or cash flows or anything. I said, “no, that is great”. If you are going 
+to a business competition with us, is there anything I can do to help you? I 
+said, if you want to sit down, I can lay out all my trade secrets. These guys 
+first all thought that I was either kidding with them or lost my mind or 
+whatever else, and I am not getting angry or anything. I said, “I would say, 
+please sit down and I explained every possible thing I could about the way I 
+went about getting, clients segmenting, finding the business, all these 
+different things”. Then I'd sit back and observe when they set up their 
+business, what, and how they were pr oceeding. Not one of them followed 
+anything I told them, okay and I said, My God, Tom Peters is so right, right? 
+That is stunning to me because I was actually laying out everything black 
+and white. Maybe they didn't trust me. I don't know. Okay. But it was pretty 
+apparent what I was telling them was maybe that the power was as forced. 
+They should have known for the subconscious. But maybe the pipe was 
+completely clogged, who knows? But none of them followed anything I told 
+them. I discovered that basically there is a small portion of humans who 
+have this cloning gene who are willing to basically say, I am stupid. The rest 
+of the world is smarter than me. I w ill learn from the rest of the world. 
+Because to really be a cloner, what I have understood is it is an exercise in 
+humility, right? Because you are basically saying, everyone else is better 
+than me, and I have no problem admitting everyone else is better than me 
+because they are. Also, because I am a shameless cloner, what is wrong with 
+cloning when no one else does? What I found is that clon ing is incredibly 
+powerful because, so few people are willing to do it right. They are just not 
+willing to go there. There are several fa cets to cloning. What I try to do is, 
+anytime I see people in the industry or outside the industry do anything that 
+impressed me or made me kind of look up and say, oh, that is something 
+good and all that. I remember one time I got a letter from my law firm in this 
+big brown manila envelope. The label they had used was a very nice, elegant 
+large label, firm name written nicely. It was larger than most labels I had 
+seen, and I cloned that. I said, what we will do whenever we send out stuff, 
+we are going to use this large label. I have used it all the companies from 
+then till now, okay. 
+T h a t  i s  a n  e x a m p l e .  I  h a v e  c o n t i n u e d  t o  l o o k  f o r  s m a l l  t h i n g s ,  b i g  t h i n g s ,  
+things that I can clone. When you are looking at this enduring competitive 
+advantage, there are two facets to it. One facet is that you come up with 
+something like our cable guy, where he is coming up with cable length and 
+just trying to be three months ahead of the rest of the pack. He has some 
+sort of advantage for some time. But also, what you need to do in parallel 
+with that is build advantage, one tiny piece at a time. Every little best 
+  
+Page 10 of 19 
+practice or every little thing that you see, if you incorporate over time, will 
+expand into something meaningful. It is just small pieces. Like, anytime we 
+h i r e  e m p l o y e e s  i n  a n y  o f  m y  f i r m s ,  o r  e v e n  i n  I n d i a  w h e n  w e  h i r e  f o r  
+Dakshana, we run a test, which a company in New Jersey came up with. It 
+is called the Caliper test and it basi cally gives you a personality profile on 
+the person. It also has a facet which is IQ test oriented. We can also see how 
+smart they are. That company gets a job description from us. They know 
+what each job means – be it a sales job, an administrative job, or a job with 
+high attention to detail. They overlay the job details with the personality 
+profile and then give us a report. They come up with three rankings, which 
+is either matched - person has matched to the job or matched reservations, 
+or don't go there. If they ever say, don't go there, don't worry about how 
+much you like the person, don't hire the person. Now that testing costs us 
+about $400 each time we do that. One of the most expensive things that 
+can happen to a company is bad hires, very expensive. You have bad hires. I 
+don't even hire interns without running through the test. In fact, I got an 
+email last night from our group in India, and they were saying that one of 
+our alums they wanted to hire him fo r three months. He is free for three 
+months. It is only 15,000 rupees a month. 45,000 rupees over three months. 
+What about $800 or so. My suggestion with them was run Caliper. Even 
+though it's 50% overhead of what we are going to pay, we just don't want 
+to deal with three months or someone who is a misfit. You can't tell that in 
+an interview. Somebody mentioned this to me many years ago, and I 
+incorporated this, many times I mention it to so many CEOs I meet, they 
+don't incorporate because the cloning gene is missing, sorry to say. 
+Cloning has many facets to it. I continuously look for things that other 
+businesses, other companies are doing, which I like, and I try to see if is there 
+something that I can incorporate, my  entire livelihood now is based on 
+cloning. Pabrai Investment Funds was cloned from the Buffett Partnerships. 
+What happened to the Buffett partnerships the most, and just to tell you 
+how amazing and bewildering the world is, the most successful set of hedge 
+funds ever run in the history of hedge funds from 1956 to 1969 well run 
+everything else. Then this massive industry takes place. Then from 1969, 
+when Buffett shot the hedge fund to 19 99, when I was thinking of cloning 
+him 30 years in a capitalist society where everyone is clearly aware of what 
+he did and what the results were and all that, I could find nobody who 
+cloned that model is incredible. It is an amazing model. I said, “Okay, I 
+understand why no one clone it, Tom Peter said that, and I have seen it.” I 
+said, “I will clone it. I was put on this earth to clone it” and we cloned it. My 
+family has a significantly higher net worth because I did that, God bless 
+cloning. Now I am in the process of buying an insurance company. Why am 
+I buying an insurance company? Be cause that is the model Berkshire 
+Hathaway used. I don't need to come up with ideas on my own. I can just 
+clone those ideas. It works. I think that cloning is very important. 
+Another thing I wanted to talk about is this aspect of copying the best ideas 
+from anywhere you find them. When I was growing up in Mumbai, in the 
+seventies you really didn't get any junk  mail, right? In India, there was no 
+such thing as junk mail at the time. If you got a letter which was handwritten 
+or something, somebody really care d about you and wrote this letter. I 
+remember that on a typical day, we would get like two or three letters, a bill 
+and something else, nothing much. But every year at Diwali time, there 
+  
+Page 11 of 19 
+would be a card that would show up, and this card would be from this 
+Jeweler in New Delhi. We were living in Mumbai. This new jeweler in New 
+Delhi sent us this card and was Multani Jewelers. I had never heard of these 
+people. Every year it was the same kind of card. It was signed by these two 
+or three brothers. I think when I was 10-11 years old, I asked my parents, who 
+are these people? Who are these Multani Jewelers? They said, “Oh, when we 
+got married, we bought our wedding je welry from there”. I thought about 
+that. I said, the wedding took place and now there is going to be no 
+transaction for a while. This card keeps coming. What took me a while to 
+understand is that what they were doing was very smart. First, India hardly 
+had any junk mail. If someone sends a card like that to you, it has value. I 
+clearly noticed it. The second is that these transactions, when you have 
+these weddings and such for the jeweler, is a massive transaction, right? A 
+given family will really show up at the jeweler every 15 or 20 or 25 years for 
+a major purchase, and then they will be going dormant for another 10, 15 
+years. What you really must do is, you must build a brand, so they think of 
+you, right? I said, wow, this is very  good. These guys are basically just 
+sending this one-rupee card, and over 20 years this 20 rupees, and you feel 
+good about them, right? I cloned that. Right from the time I started running 
+my first business, we send greeting cards. Then I realized some place where 
+someone had written that humans love to look at other humans. What 
+humans love the most is to look at themselves, okay and in fact, they did 
+this on Facebook. They have done th e analysis and the thing that people 
+look at most is their own pictures. Okay that is the number one thing. Who 
+looks at their pictures the most on Facebook? Raise your hand. Not this 
+crowd. Come on. 
+Okay, so people love to look at their own pictures, but if they can't look at 
+their own pictures, they want to look at other people's pictures, and you see 
+this in a baby. The baby is nine months old, eight months old. If you make 
+eye contact with a baby, it will make eye contact with you. Baby is a 
+program to look at other people. They love to look at people. Humans love 
+to look at other humans. I used to first clone Multani jewelers just by sending 
+a Christmas card with some Christmas tree on the cover, something like 
+that. Then I read this thing about humans, like, look at our humans, says, no, 
+we will change it to a family picture, right and then this is before it became 
+in vogue to send family pictures and then we started doing that. In the 
+meantime, what has happened is that people have moved from sending 
+cards out to doing it online, right? Bu t that is stupid because online really 
+doesn't have the same impacts. The good news is, US Postal Service mail 
+volumes are going down. And the amount I use the US Postal Service just 
+keeps going up, okay? Because now fewer cards show up at people's 
+doorsteps and especially if they have pi ctures in them, they like to look at 
+those pictures. You got my card Dee. Do you like to look at it? 
+Audience: It looks great. 
+Mohnish: All right. There you go. Thank you for the plug.  
+Audience: Thank you too! 
+Mohnish: All right, that is good, okay. There you go. I haven't even sent it to you. 
+Maybe we will add you to the list. Al l right. Anyway, the pictures, for 
+example, as people stop sending things physically, I am just increasing that. 
+One of the things I found is that since I don't like to spend a lot of time 
+  
+Page 12 of 19 
+meeting humans, interacting with them , all the sales stuff and all that, I 
+created backend stuff that is going to be robust. The greeting cards are one 
+piece of that. Another piece of that is there is this book by, what is the name 
+of the author, the guy who wrote Influence, what is the name of the guy? 
+Audience: Robert Cialdini 
+Mohnish: Robert Cialdini’s book is Influence Psychology of Persuasion and so and I 
+have gotten to know Robert since then. Great guy. Cialdini basically said 
+that he gave a true story. This was before 911, when you arrived at a flight, 
+you used to be able to go right up to the gate to meet someone, right? It 
+was before all hell broke loose, and they stopped doing all that. He was 
+talking about in the seventies, for example, in California there would be the 
+Moonies at the airports in the hare Krishna robes and all that. They would 
+be looking, as people are coming off an airplane at this kind of well-dressed 
+businessman, okay and when they found a well-dressed businessman come 
+off the plane, the Moony would attach himself to the businessman and start 
+walking with him and say, sir, isn't it a beautiful day? Isn't it a wonderful day? 
+This is such a nice sunny day. I want you to have this flower. The 
+businessman, he has no interest in the moony, he has no interest in the 
+flower, none of that. He is just trying to get away from the guy with the guys, 
+keeping up with him, right? He keeps saying, Sir, I just want to have the 
+flower. I am not asking for anything. I just like you. I like the day I want to 
+give a fellow human a flower. Occasionally, every eighth or 10th guy will take 
+the flower just to get rid of the guy. The moment he takes the flower, what 
+happens is now you have created an obligation, okay? Because you took 
+somebody, you took something from me, clearly there is an obligation. 
+Usually reaches into his pocket, put out a couple of dollars, gave it to the 
+guy, and then first dumpster, there go es a flower. The moony is about 10 
+steps behind picking up the flower as soon as this dump goes for the next 
+victim. Okay and Cialdini said that humans, basically, and this is probably 
+going back into our genetic history. Tony, how much time do we have? Are 
+we okay? 
+Tony: Yeah, sure. 
+Mohnish: Okay, fine. Just when we have about 20, 25 minutes, maybe, then we can 
+open and get people want to have questions. But anyway, what Cialdini said 
+is that if you go back into human evolutionary history, people go hunting, 
+and let us say I go hunting, I bring down this big beast, okay? There is no 
+refrigeration. How do I store the meat that my family is not going to eat? 
+Well, the way I store it, I store it in my  neighbor's belly. I come back with a 
+big beast and invite everybody to say, hey, guys, party time, feed everybody 
+okay, because there is nothing else, I can do because it is going to spoil 
+otherwise, right? You feed everyone. What happens is, we have been built 
+to remember, hey, Joe fed me well three weeks ago. When I bring down the 
+big beast, I am going to call Joe, but the reciprocation memory that we have 
+as humans is somewhat flawed. It does not have a calibration engine. If I do 
+you a favor, all that you are able to remember is that I did you a favor, you 
+feel good about me. That is about the end of it. Yo u really are not able to 
+calibrate the degree of the favor and say, “Oh, he did this for me so I can do 
+this exact thing for you”. Of course, the shyster salesman of the world has 
+learned how to take advantage of that. One of the things I used Cialdini’s, 
+this distortion with reciprocation when I got Pabrai Investment funds going, 
+  
+Page 13 of 19 
+was that anytime we sent a potential investor a package, people requested 
+a package, we could send everything as a pdf. We never send anything as a 
+pdf. We sent a physical package and the physical package had a very nice 
+$50 cross pen in it. Now the guy got the flower at a hundred percent hit rate. 
+Unlike Mooney who may have had a 10% hit rate, he didn’t ask for the pen, 
+but the pen arrived in the mailbox, and maybe one in 200 people would 
+actually go to the trouble of returning the pen for me. 
+Okay, they are saying that I really don't want this obligation thing going on. 
+Here is your pen back. Returning the pen is not as easy as dealing the 
+Mooney, because you got to do all kinds of heuristics to send that pen back. 
+But 99% or more have kept the pen, and some portion of them invest in 
+Pabrai Investment funds. But the ones who don't invest, what happens is, 
+number one, they feel good about Mohnish, right? Because they have a nice 
+pen. The brain says he is a good guy. Number two, they feel some kind of 
+obligation. The obligation is very simple. I give you a $50 pen, you can send 
+a million-dollar wire, and we are even because I did you a favor and then 
+you did me a favor and we shared our meat, it is all fine. 
+That works right and we have sent a lot of cross pens out and that works 
+out fine. What I am trying to say is that you can pick up ideas from anywhere 
+when you read the “The Origin and Evolution of New Businesses” pick up 
+lot s of id ea s from  ther e. T hat  i s g ood . You  c a n p ic k  t he m up  anyw here. I  
+used to read Inc. Magazine. I haven't read Inc. Magazine in a while, but every 
+issue I looked to very carefully to find small things that other entrepreneurs, 
+other businesses were doing that I could incorporate. It is these smaller 
+things that you put together that as you total them up, they end up 
+becoming significant in totality. I would say that that is some of the things I 
+wanted to share with you basically. That number one, don't try to sell 
+anything that you wouldn't buy yourself. Like I said, and the sales side, if 
+your marketing engines are strong, we didn't go a lot in the sales, but the 
+marketing engine is strong. You don't really need a strong sales engine. 
+Some of the things I have always kept in mind about sales is that it used to 
+be that if you were going to meet a customer who was out of town, let us 
+say you want to fly, you are selling some high-end product, you are going 
+to fly to meet somebody. Well, it used to be, probably 20 years ago, that 
+was at least a thousand dollars cost between flights and everything else. It 
+might be similar or more now, but then, there is a huge time sink as well. It 
+blows a day or two of your time. Even if you go to meet someone in town, I 
+mean, if I went to Cerritos or someplac e to meet someone, it is going to 
+blow about half my day, between the planning for it and going and meeting 
+and coming back, three, four hours or at a minimum going. That is a very 
+high price to pay, in my opinion, for a sales call. First, what I have done for 
+myself is, one is I don't like to do things that I don't like to do. If this thing is 
+not going to be intellectually stimulat ing or something, I would rather not 
+go make the sales call. 
+What I said is, well, we can set it up so that the back end is powerful enough 
+that you eliminate that front end requir ement. Like for example, this time 
+we raised this capital I only made one visit to a person who was in Irvine to 
+their office mainly because I wanted to  see his office. He had been telling 
+me to come and see it for a while. Those were quick 15-minute commutes 
+both ways. But never offered to go meet anyone else. I made a lot of phone 
+calls, but those are much less costly. I would just say that, when you are 
+  
+Page 14 of 19 
+trying to do your pitches and differ ent things like that, you want to be 
+cognizant of the fact that anytime you are doing live meetings, it is 
+incredibly expensive. The second is th at if the marketing message is not 
+strong and buttoned down, that live meeting is not going to be very fruitful. 
+You are better off having a much stronger message where you can get 
+things done the Amazon way, where there is not even a phone number you 
+can call, all digital. That is great. But with that, maybe if you have questions 
+or comments you can ask, and we will go to whenever Tony tells me to. 
+Tony: That was wonderful. I was watching and fascinated myself.  
+Mohnish: We can hand these out. You can just, these are just a list of books I had 
+mentioned. 
+Tony: Yeah, sure. Let us take a few questions, and I am sure by the end of the 
+evening here, he had a question, at the back. Yes. 
+Audience: I wanted to talk to you about what you mentioned about cloning, human 
+nature common sense tells us, and it has been proven in a lot of books that, 
+whenever you clone something, you are always going behind the curve, if 
+you want start something, let us say copy Coca-Cola, they will always be 
+ahead of you, whether it is in price, advantage in economies. Don't get me 
+wrong, it has been successful. Like Samsung, they have taken over Apple's 
+iPhone. They just copied it. All American car industries are now taking over 
+Manufactures and Koreans, but most of them, anything I have read in books 
+is you are always headed behind. 
+Mohnish: Let me just repeat the question for the benefit of the video. Your question 
+is that cloning, you are behind the eight ball, you are basically copying 
+someone. How can you really gain an advantage?  
+Audience: Unless you leapfrog with something. 
+Mohnish: Yeah. Unless you leapfrog. Well, let us look at some real-world cases. Some 
+of the largest companies on the planet  are clone businesses. Microsoft is a 
+clone business. They have spent tens of billions of dollars, probably 
+spending tens of billion dollars every year. The only things that make money 
+are the office. Word is clone from Word Perfect. Excel is a clone from Lotus. 
+Microsoft money from Quicken, not even that good and Bing, the full form 
+of Bing is, but I it’s not Google, Bing is cloning Google, and just go on and 
+on. They are not even good cloners. It takes about 5, 6, 7 versions for them 
+to get it right. Still, they built a grea t business. If you look at someone like 
+Walmart Sam Walton, the ultimate cloner, spent an incredible amount of 
+time in his competitor stores. In fact, if you read his autobiography Made in 
+America, it will just show you that for the first 20 years of Walmart existence, 
+Walmart had no new ideas. The only thing that they did differently was they 
+went into small towns, but they pretty much copied Sears and came out 
+model. They had a slight tweak to the other models. Coca-Cola, look at 
+Pepsi, right? Highly successful, they cloned it. I think cloning is very powerful 
+because there is room for more than one. What is going to end up 
+happening is that even if you clone something, in the end, you are going to 
+put your stamp on it. And when you put your stamp on it, it is that small bit 
+that is slightly off that makes it unique. When Walmart, for example, cloned 
+Sears, the piece that Walmart brought in is an incredible discipline on costs. 
+If they were going for a trip to New York, four of them would stay in the 
+  
+Page 15 of 19 
+same hotel room. No one at Walmart ever flies anything but coach, if they 
+are using a private plane, which now they do, they cannot use it unless the 
+plane is full. They have all these rule s about the way they run their thing, 
+incredible cost discipline, which Sears and Kmart did not have. What is going 
+to happen is, if you start with cloning, what you are going to end up with is 
+going to be cloning with your own aspect of nuance to it, which is going to 
+give you an advantage. I can say Pabrai Investment Funds cloned Buffett. 
+First, there is only one born Buffett. But there are many aspects of what I 
+did. Probably when you drill down is different from the way Buffett did it. It 
+is going to end up being different. I would say that people will say that this 
+will not work because it already exists, but many versions of the same thing 
+can make it. 
+Audience: Many years ago, you were betting on an auction to have lunch with Warren 
+Buffett, and you won that auction. You went, had lunch with him. What can 
+you tell us from the experience? What did you learn? What was your 
+impression of that? Give us some. 
+Mohnish: Sure. I had lunch with Buffett in 2008. My family was with me, my wife and 
+daughters, which was a lot of fun and one of my friends as well. It was a 
+great experience actually. We spent about three hours having and in fact, 
+Warren told us when we started that the lunch could go on for as long as we 
+wanted. There was no time limit. We could ask him anything. About 15 
+minutes of us starting to talk to him, you felt like you were talking to your 
+grandfather. He made sure that you didn't think you were talking to Warren 
+Buffet. Well, we covered many different subjects. I think many of the things 
+we covered were probably in the pub lic domain, if you read about Buffett 
+will come up. But what I found very helpful, first of all, my interest in making 
+the lunch was really to pay a gurudakshana. I have been cloning left, right, 
+and center making all this money. Ho w do I thank him? Well, there was a 
+lunch of a way to thank him. I told him right up front this, I am just very 
+grateful for what you did, very thankful for you and all of that. That is what I 
+wanted to really cover. But one of the things that was helpful during the 
+lunch is, it calibrated for me the things that were very important to Warren, 
+the core principles that are front and center. For example, one of the first 
+things he mentioned is that there are two ways you can live your life. He 
+said, you can live your life by what he called an inner scorecard which is, you 
+judge internally how well you are doing at something and the other way you 
+can live your life is by an outer scorecard, which is, you look at the world and 
+the way they think about you is the way you judge yourself. He said, the 
+correct way to live your life is with an inner scorecard. He went ahead and 
+said, would you prefer to be the best lover in the world, but known as the 
+worst? Or would you prefer to be the worst lover in the world, but known as 
+the best? He said, if you know how to answer that question you have got it 
+made. What I have, I think that the inner scorecard versus outer scorecard 
+is an incredibly important mental mode l to keep in mind, is always to do 
+things that you think at the core are the right thing to do. Regardless of the 
+world agrees with you or not. Very few humans are willing to do that. People 
+care about what the world thinks. Warren does not care what the world 
+thinks. If you think, if you look at many aspects of his life, he had a wife and 
+he had a mistress at the same time, and the wife approved of the mistress. 
+In fact, the wife gave him the mistress, and no one raises an eyebrow about 
+it. He never cared about what the world thought about it. Someone once 
+  
+Page 16 of 19 
+asked him about this whole, triangular arrangement and his perspective, his 
+answer was, there are three people affected by it, none of whom have a 
+problem with it. The ultimate inner scorecard doesn't really care about what 
+the world says, just go ahead. 
+Audience: You mentioned that listen closely to the customer and they tell you what to 
+do, but you also said, don't drive to the customer and all. 
+Mohnish: In the early days. The question is, I am saying that listen to your customers, 
+then I am also saying don't meet th em. Let me preface that. In the early 
+days, please spend incredible amounts of time with your customers. 
+Audience: Everything is evolving, right, so what customers have questions about 
+knowledge of marketing, engine may not be there. 
+Mohnish: Right, I would say that is a very valid point. The question is that we may not 
+be to able pick-up market movements or signals if we are sitting in our ivory 
+tower and not meeting anyone. My perspective is that you can pick up data 
+from multiple sources. I feel the worst possible way to pick up data, the least 
+efficient channel to pick up data, is talking to another human. That is the 
+worst way to educate yourself. In my opinion, the best way to educate 
+yourself is to read a book. From my point of view, I think in terms of the 
+density of knowledge going into your brain reading is the best way to do 
+that. The lowest level of doing that  is meeting someone because all the 
+banter and everything else going on, an d then the sales and all of that, at 
+the end of the day, there is very little essence that comes out. I would say 
+early days, max time. Subsequently, you must figure out a way where you 
+are bringing in data that is important,  so you don't miss market signals. I 
+would say a lot of that you would do much better by being a voracious 
+reader versus being a voracious meter of people. Reading probably gets you 
+much further along on that curve. 
+Audience:   I would like to have your opin ion. I got one product which is a patented 
+product, it to do with what you call toothpaste, mouthwash, whitening gel. 
+We come out with the product and ready to go to the market, and some 
+advisor says, unless you perfect it, don't go to the market. The question is, 
+by the time you are ready, there is always something new. What is your 
+take on that one? If you wait forever, it just takes a lot of time. 
+Mohnish: Well, the question is like, you mentioned that you have a patented product, 
+and advisors say that don't go to market unless it is perfect, but that is a 
+moving target, right, have a seat. My answer is that there are 100 ways that 
+things can be successful. You can be like Steve Jobs, and you can wait till 
+things are perfect and just keep wo rking on them till you think you are 
+satisfied and that works. Or you can be like Bill Gates and send everything 
+half-baked to the market. That worked also, right? The nature of capitalism 
+is that you don't have one way that is probably going to be the only way it 
+works. My personal bias would be to put out something that is as close to 
+perfection as possible so that you feel good about it. I would say this is a gut 
+call. Look at it, at what point do you feel it is an incredible product and you 
+can go on and you can call it a version 2.0 after a year or something. If you 
+feel it is there and it is incredible, go  for it. I think if you have reservations, 
+then I would say keep it in the lab for a little longer. There are multiple ways 
+to skin the cat. 
+  
+Page 17 of 19 
+Audience: You feel good about using it yourself? 
+Mohnish: Absolutely. 
+Audience: Take it out. 
+Mohnish: Absolutely. 
+Audience: That is what you used to do, right? 
+Mohnish: That is the key. 
+Audience: You use it yourself 
+Mohnish: You must love it. 
+Audience: I am going to take you back. What I wanted to hear from you is the mental 
+models. When you pick stocks, what mental models do you use? You 
+articulated Munger and Buffett so times and eager to hear from you. What 
+did you learn about mental models from them? 
+Mohnish: How much time do we have, Tony? 
+Tony: We have time. 
+Mohnish: We have time. The question is on mental models and how do you pick stocks 
+and how do I pick stocks and so on. Let me answer your question the 
+following way. Let us say that you have an 80 IQ and you come to me and 
+say, “Look, I am not very smart, but I want to do the best I can in the market. 
+How should I go about managing my portfolio?” I say, 80 IQ we can work 
+with an 80 IQ buy an index fund, buy the S&P 500 index dollar cost average 
+every paycheck, maybe 15% over a lifetime. You are going to wake up at 70 
+and be rich. Seven figures for sure. Now you say to me that “I have a 90 IQ; 
+I am much smarter than the 80 IQ guy. Can I do better?” I would say to you, 
+w e  h a v e  m o r e  t o  w o r k  w i t h  9 0  I Q  w e  c a n  d o  b e t t e r  b u y i n g  B e r k s h i r e  
+Hathaway. Probably, it will be the S&P 500 index somewhat better again, 
+dollar cost average, and put some money from every paycheck and you are 
+done. Then, a 100 IQ guy comes to me and says, “Look, I am better than 
+these smart guys. I am 100 IQ. Can I do better than that?” I say, a 100 IQ, of 
+course, we can work with that, and we can do some more things with that, 
+we can do better. There were these two business school professors, one 
+from Ohio State and one at the Univer sity of Nevada and they did a study 
+over 30 years, I think 1976 to 2006. They studied that if you bought a stock 
+that Warren Buffett bought, and you bought it after it was publicly known 
+that he had bought it, and you bought it on the last day of the month that it 
+was publicly known that he had bought it, and you found the worst broker 
+on the planet who charged you the hi ghest price on the last day of the 
+month to give you that stock, and you bought it at that high price on the 
+last day, and you sold it when Buffett started to sell again, publicly known 
+again last year of the month, found the worst broker, sold it at the lowest 
+price in the last year of the month. You beat the S&P over 30 years by 11 and 
+a half percent a year. You did 21.5% annualized if you followed that approach. 
+Now, if you are beating the S&P 500 by three percentage points a year you 
+are like one in 200. As you get to five percentage points, seven percentage 
+points, 10 percentage points outperform ances, it is one in thousands. That 
+is an incredible performance for having to work 15 minutes a month because 
+for the whole month you can be in Goa or Aspen or whatever enjoying life. 
+  
+Page 18 of 19 
+Then last day of the month, you come back and say, God Google, did Buffett 
+do anything this month? Any disclosure? Anything happen? God Google will 
+tell you anything happened. He says, “Oh, he bought IBM. Okay, worst 
+broker, give me the high price today for IBM.” Then go back to your skiing 
+activities, what else you are doing till the next month. Now let us say 
+someone has a 110 IQ and says to me, “Look, I am better than these other 
+guys. I am 100 IQ, can I do better than that”. It is not easy to do better than 
+11 and a half percent a year. But then I would say, do something like what I 
+do, which is be a shameless cloner. There are two ways you can go bowling 
+if you go to a bowling alley. One is  you can bowl with bumpers, and the 
+other is you can bowl without bumpers, right? You can put the things so you 
+have no gutter balls, or you can have gutter balls all the time. If I told you 
+that what matters is the score at the end, not whether you use bumpers or 
+not, would you prefer to bowl with  bumpers or without bumpers? With 
+bumpers? Is it more fun to bowl with bumpers? Yes, the score is going to be 
+higher. I love bowling with bumpers. If you are one of the I don't want a bowl 
+with bumpers guy, then you are also the kind of guy who probably doesn't 
+want to clone, bowling with bumpers is fantastic. Always bowl with 
+bumpers, turn those bumpers on. When  you bowl with bumpers, which is 
+what I am doing with all, if you look at Pabrai Investment fund's portfolio, 
+almost the entire portfolio is stock picks by some other great investor. I have 
+no original ideas, I just look at what some other smart person is doing, 
+seeing if I can understand what they have done, then buy the same thing. 
+Then, because of the same thing and the incredible nature of this wonderful 
+country is, I get paid for doing that. 
+I get paid well to do that, but don't tell my investors, they think I am working 
+hard. Are we recording this, basically bowl with bumpers. I would say that 
+you can go far along as an investor just by doing mindless cloning. In fact, 
+someone just set up an ETF, right? Someone set up an ETF for the first time 
+which is a cloning ETF, all this time I was talking that there is no fund that 
+does cloning some ETF, well, I don't know what it is called. Have you looked 
+at it? There is a cloning ETF. Apparent ly, it has great performance. It is 
+looking at all these, I don't know what  to do in the future, disclaimer, no 
+idea. That might be a good place to start, or you could do just what those 
+two professors said. Just 15 minutes a month and that is it. 
+Audience: I had a question 
+Mohnish: I am sorry to disappoint you. 
+Audience: Just one. How much Berkshire do you own? 
+Mohnish: Well, between us girls, I have one share. I am legal to go to the meeting. 
+Audience: The reason I was asking you is whether you follow the Buffett and Munger 
+thought process.  
+Mohnish: There have been times in the past when I have had significant holding in the 
+Berkshire. The question was, how much Berkshire do I own, and I own one 
+share, at times when it has been cheaper, I have bought more of it. I think 
+owning Berkshire is a great choice. Simple choice. You have no taxes to be 
+paid or any of that until you sell. It is great. Some folks may think they can 
+do better than that. 
+  
+Page 19 of 19 
+Tony: I know we have lots of questions, we have taken quite a lot of your time, but 
+thank you so much. That was an incredible talk, so excited, you all would 
+come, and you don’t mind staying back a few minutes. 
+Mohnish: Yeah, sure. 
+Tony: It is great to see you all and thank you very much. 
+ 
+  
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not 
+intended to be, financial, legal, accounting, tax, or investment  advice. Investments or strategies that are discussed may not b e 
+suitable for you, do not take into account your particular investment objectives, financial situation or needs and are not intended 
+to provide investment advice or recommendations appropriate for you. Before making any investment or trade, consider whether 
+it is suitable for you and consider seeking advice from your own financial or investment adviser. 
+ 
+ 
+ 

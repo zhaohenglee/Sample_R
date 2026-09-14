@@ -1,0 +1,699 @@
+Pg 1 of 14 
+Mohnish Pabrai's Conversation at Schroders - The 
+Value Perspective podcast on October 10, 2023 
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not intended 
+to be financial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not be suitable for you, 
+do not take into account your particular investment objectives, financial situation, or needs, and are not intended to provide 
+investment advice or recommendations appropriate for you. Before making any investment or trade, consider whether it is suitable 
+for you and consider seeking advice from your own financial or investment adviser. 
+Interviewer: Hi everyone, and welcome back to TVP. This week we have value investing 
+heavyweight Mohnish Pabrai joining us. Mohnish is the founder and CIO of 
+Pabrai Investment Funds, the founder of the Dakshana Foundation, a close 
+friend of Warren Buffett, and a frequent bridge opponent of Charlie Munger. 
+He joins Juan and Andy Evans on this episode to discuss how Mohnish’s styles, 
+and entrepreneurial experience shaped his understanding of risk, his 
+commitment to leave as a pauper by giving everything away to charity through 
+Dakshana and following the great example of Chuck Feeney, the rationale 
+behind cloning as a strategy, while he never went for the insurance model and 
+concentration in ergodicity. Finally, you will note some variety in the audio 
+quality, in this episode. The joy of having guests join us from across the world 
+also means that we are at the mercy of some fickle tech, but we hope that it 
+does not disrupt your experience too much. Thanks for bearing with us and 
+enjoy. 
+Interviewer: Mohnish Pabrai, welcome to The Value Perspective podcast. It is a pleasure to 
+have you here. How are you? 
+Mohnish: It is wonderful to be here and thank you for having me. It is excellent. 
+Interviewer: Where do we find you today? 
+Mohnish: I am at my home office in Austin, Texas. 
+Interviewer: That is very nice, Mohnish.  
+Mohnish: What about you guys? Where are you at? 
+Interviewer: Well, we are at the very amazing Schroders recording studio now, enjoying this 
+conversation with you. If you are a value investor, it would be very difficult for 
+that person not to hear about you. But for those who might not know you, could 
+you please provide them with a summary and introduction about yourself? 
+Mohnish: Sure. I always tell people who are introducing me that the thing that they 
+should not skip in the introduction is that something I am very proud of is I got 
+a lifetime ban at a casino in Vegas that told me I could never play blackjack at 
+their casino. I told them, “I'm not counting cards because normally you ban 
+people who are counting cards.” They said, “Yes, it took us about six months to 
+figure it out, and yes, we agree you are not counting cards, but we cannot win 
+against your system.” I asked them if they would give me a letter, a graduation 
+certificate, and they said, “No, you are just banned.” Anyway, I have been a 
+Pg 2 of 14 
+student of Buffett, Munger, and Graham now for almost 30 years. I heard about 
+Warren Buffett for the first time in 1994, and it opened a big new world for me. 
+I had never bought a stock before that never really worked in the industry, and 
+I was intrigued and fascinated as I read the first few biographies that had come 
+out on Buffett, then the Berkshire letters, and then the Buffett partnership 
+letters. I just kept reading and learning and started to follow that approach in 
+94.  
+About five years later, I had some friends who asked me to manage money 
+formally for them. The small amount, eight guys, a total of a million dollars. That 
+is what led to the formation of Pabrai Investment Funds. I did not plan at that 
+time for it to become a full-time vocation. I thought it would be just something 
+on the side for me and my friends. I manage about 900 million now. It is mostly 
+high net-worth families. The funds have been around for about 24 years. Over 
+the years surprisingly, Warren and Charlie both became friends, which was not 
+expected. We always think of them as icons never to be touched, met or 
+interacted with, so that was interesting. I used to play quite a bit of bridge with 
+Charlie on Fridays at the LA Country Club, which he does not do now because 
+he is not so mobile. That is kind of a quick backdrop. 
+Interviewer: Before we get into the world of probabilities and kind of ask you about 
+investing, we came across your Dakshana Foundation, if I have pronounced 
+that correctly. Can you tell us a little bit about that before we go into the rest 
+of the interview? 
+Mohnish: Yes, sure. Just yesterday there was news in the New York Times that Chuck 
+Feeney had passed away. I do not know if you guys are familiar with Chuck 
+Feeney, but there is a book called “The Billionaire Who Wasn't” and it is a great 
+book to read. Chuck Feeney, over his lifetime, gave away about eight billion 
+dollars or more to charity. He tried to do it anonymously. He went to great 
+lengths to make sure that the recipients did not know who the person giving 
+the money was. His objective was to die with zero. He was 92 when he passed 
+away. A few years back, maybe three or four years back, he moved into a simple 
+rental apartment in San Francisco. He was down to his last two million. He 
+pretty much accomplished what he sought to do, which was to die with zero.  
+That is what I am trying to do; live up to the Chuck Feeney standard and die 
+with zero. I am going to be leaving planet Earth on June 11th, 2054, about 30 
+years and a few months from now. One day before that, which is June 10th, 
+2054, I hope to be down to a hundred dollars. There is one engine, which is 
+compounding assets and increasing wealth, and there is another engine 
+Dakshana Foundation which is focused on giving it away.  
+I started the Dakshana Foundation about 17 years ago because I knew that 
+trying to start this when I was 70 or 80 years old, I would not have much energy 
+to do anything. We started small about 17 years ago, and the idea was to 
+become good at giving money away. Giving money away effectively is far more 
+difficult than making money. Dakshana Foundation has done far better than I 
+expected. It has been very effective at giving. We identify very poor, but 
+brilliant kids in India who come from families, which are typically making well 
+under a hundred dollars a month; three to four dollars a day or less. Some of 
+them make two dollars a day. What we do is we take over their education for 
+about two years from 16 to 18, and we get them to the IITs which are like the 
+Pg 3 of 14 
+MIT of India or AIMS; like the Harvard Medical School of India. It does a full reset 
+for the family and the community because their income levels go to world 
+standards at that point. Currently, Dakshana Foundation is spending about 
+three million dollars a year. The objective is that we just started a program of 
+about 13 million CapEx in the next three years to increase our capacity. The idea 
+would be that hopefully if the compounding engine works in the next three 
+decades, then the giving engine needs to work even better because as we 
+compound money, then I need to amp it up like Mr. Feeney. That is what 
+Dakshana Foundation is all about. I like to play games; I like to play blackjack. 
+Dakshana Foundation is a game. Pabrai Investment Funds is a game. Bridge is 
+a game. I just like to play games. 
+Interviewer: That is nice. You have mentioned in the past that, correct me if I am wrong, 
+when you were growing up, your dad was an entrepreneur and you would see 
+him many times start new businesses, and those businesses not doing very 
+well, and then he would start all over again. We thought that it would be nice 
+to start our conversation about how that experience shaped risk for you. 
+Mohnish: That is a great question. My dad was exceptional at identifying offering gaps in 
+the market. He was good at looking at what was going on around him and 
+saying, “This product or this service does not exist, and I know that if I create 
+this product or service, it is likely to do well.” His hit rate on those was extremely 
+high. In India, there was no ecosystem of venture capital or anything, or even 
+bank financing for that matter. When he had a startup, he repeatedly started 
+with zero, and he was almost always right about the opportunity. He was very 
+good at identifying those gaps that existed. The issue he had was that he was 
+an eternal optimist, and he was in a hurry. Once the business got going, he 
+would want to grow it as fast as possible. These businesses typically had a very 
+thin layer of equity and capital and as much leverage and debt as the banks 
+would give them. He would constantly be maxing on the leverage to grow as 
+quickly as possible, and the moment the first headwinds would show up, and 
+there would always be headwinds, we always have headwinds in business, he 
+would go back to square zero. These businesses just were not built to 
+withstand, even the lightest winds because they were always levered to the hilt 
+and they would invariably crumble and fail because the ecosystem also was not 
+there, that you could get other financing or someone to give you equity or 
+something like that. He would go back to square one and amazingly he would 
+in a few months concoct a new idea and get going again. I saw him do this 
+repeatedly. He was a very logical engineer, a kind of rational thinker.  
+I remember that one time when I was about 10 years old, there used to be an 
+astrologer who used to come to our home on Sunday, wearing orange robes 
+with all these marks on his forehead. My father would sit with him and ask him 
+about the future. The astrologer would give my father various data points of 
+what was going to happen. Then next Sunday, the astrologer will be back. I 
+mustered up the courage to go up to my dad and said, “You got to know that 
+this guy is full of shit. He does not know anything. We do not have money. 
+Everything is gone. You give him money every week, and then he shows up the 
+following week. Why would you want to do this?” He said, “When I give him 
+money and ask him about the future, he gives me a very rosy forecast for what 
+is about to happen next in my life. I suspend reality when he is talking to me 
+like that. He is the rope. I am at the bottom of a very deep well, and I need a 
+rope to come out of that well. He is my rope because he tells me stories about 
+Pg 4 of 14 
+new businesses that I am going to create, that they are going to prosper, and 
+that things are going to be great. That is my rope to come out of that well, not 
+be depressed, and start the next business.” That was the experience.  
+The impact it had on me was that I was lucky that my dad was doing well when 
+it came time for my brother and me to go to college. He wanted us to come to 
+the US for college, and thankfully he could afford it at that time. We came to 
+the US and I studied engineering. I planned to never, ever be an entrepreneur 
+and never start any business because I had seen these huge durations up and 
+down, and I just did not want that. I thought, “If I get a good engineering 
+degree, I am going to get a good job, and I am always going to be able to have 
+a job, and life is going to be stable. Fifteen percent is going to go into my 
+retirement account, into index funds, and that is going to grow.” My dad visited 
+me about three years after I started working. He told me that he was 
+disappointed and that he had all these aspirations of what I might do, and here 
+I was, a cog in the wheel of a large company. I told him, “Do you remember my 
+childhood? Do you remember the trauma?” He said, “That was all excitement in 
+life. We cannot have a boring life.” He was able to prevail over me, and I moved. 
+I left my job, started my first business, and then went from there. 
+Interviewer: That was a great story. We have read the book “Richer, Wiser, Happier” by 
+William Green, and you profiled in there. The main thing around your profile is 
+about cloning and how you have made your career out of being a great cloner. 
+Can you tell us a little bit about what you were doing when you were cloning 
+and who the people of your cloning or the subjects of your cloning were? 
+Mohnish: Yes. Charlie Munger talks about these mental models, and cloning is a very 
+powerful mental model. One of the weird, unusual things about humans, and I 
+still do not know why this is the case with humans, is that most humans have a 
+strong aversion to cloning. I am not sure where that comes from in evolution, 
+but they think it is beneath them. They almost think it is like copying. Moreover, 
+a lot of humans will believe that, for example, Starbucks is such a great idea, 
+but it has already been done or, SoulCycle is a great idea, but it has been done. 
+There is room for many Starbucks and there is room for many versions of the 
+same business. That is the other thing that humans have a false mental model 
+where they see that someone has done something innovative, and they think 
+that it has been done and there is no opportunity there. We run into some 
+humans, for example, if you look at a company like Microsoft, they spent so 
+many billions of dollars a year on R&D, they have got Microsoft Research, which 
+in several decades, more than four decades has produced nothing. They just 
+keep having these very smart Ph.D.s funded. Nothing comes out of that lab. But 
+what has worked for Microsoft is they saw WordPerfect and they cloned it and 
+created Word. They saw Lotus 1, 2, and 3 and created Excel. They saw Netscape 
+and, created Microsoft Explorer and now Edge. They created Bing. You know 
+what Bing stands for, but it is not Google. All the successes Microsoft has had, 
+have come from being an intense cloner. Apple invented the mouse Apple 
+copied the mouse from Xerox PARC Labs. Microsoft wanted to make the mouse 
+work in the MS-DOS and Windows world, which was a big challenge because 
+of a very different architecture, and they were just dogged about it. Finally, the 
+engineers were able to do it; they created Windows. Microsoft is not even a 
+great clone. Windows took 15, or 20 versions before humans could use it, and 
+they still complain. It is not as good as that. Even not being that great a cloner 
+gives you a huge advantage.  
+Pg 5 of 14 
+Sam Walton with Walmart, for the first 15 years or 20 years of Walmart’s 
+existence, there was absolutely nothing new that Walmart came up with. It was 
+a completely cloned model taken from Kmart and Sears. Sam Walton spent an 
+incredible amount of time in his competitive stores. Whenever he was traveling 
+anywhere to see any Walmart new locations, he was always going into the retail 
+stores of even small, mom-and-pop competitors. He did not care if they were 
+big or small or successful or not successful. Even from a failing retailer, he 
+would find something that they were doing that he could copy from them. 
+Walmart built on that. Even a company like Starbucks, Howard Schultz looks at 
+the cafes in Italy and says, “This can play in Peoria, Illinois.” He clones it, and it 
+does play. Then he went upscale with Starbucks Reserve and all of that. What I 
+have found over the decades is that number one, most humans for whatever 
+reason, think cloning is beneath them, and number two, that if you do not 
+follow that bar, it is going to give you a huge leg up in life.  
+Dakshana Foundation is a cloned model. I found a guy who was doing 
+something smart. I wanted to fund him but he did not want to scale. Then I 
+asked him, “Do you mind if I copy your model?” He said, “No, not at all. I would 
+help you.”  
+Pabrai Investment Funds was cloned from the Buffett partnerships. The Buffett 
+partnerships had these unusual rules from 1956 to 1970. He had the greatest 
+record. When I was starting Pabrai Investment Funds in 1999, it was three 
+decades after Buffett had shut down. In three decades after he shut down what 
+is arguably the most successful hedge fund ever, no one had cloned his model; 
+no one had cloned his fee structure. Nobody wanted to do it that way. I was 
+surprised. I told myself, “Do not be surprised, Mohnish. This is the way humans 
+are. They want to leave all these opportunities for you because they do not 
+want to clone.” I have so many investors who will not invest in a fund, which 
+charges a one or two percent management fee. We charge no management 
+fee, and I did not come up with that. I have copied that from Warren. You latch 
+onto a demographic that wants that; they want the aligned interest of the 
+investment manager, and it works. I have found in the investments that I have 
+done well; many of those have been cloned. Business models have been 
+cloned; the charity has been cloned. I have no original ideas. I am just a 
+shameless cloner. 
+Interviewer: I got a follow-up to that. In terms of cloning, can you ever get to the point 
+where there are too many cloners? Let us take Berkshire Hathaway for example. 
+Back in 1979, there were 20 people, or 20 potential cloners who sat there 
+listening to Charlie and Warren. Then in 2015, there were 44,000 potential 
+cloners. Does it ever get too competitive, or, is it quite a difficult thing to do? 
+Not everyone can be as successful as you have been with cloning for whatever 
+reason. 
+Mohnish: Now the Berkshire annual meetings are online. Millions of people listen to 
+those. All the past meetings are online on buffett.cnbc.com. It has been in the 
+public domain for a long time. How many companies do we have that have 
+cloned the Berkshire mark? Almost zero, because the thing is that cloning does 
+not work unless you are fanatical about it. Sam Walton was a fanatic. Bill Gates 
+is a fanatic. It is the fanatics who can make this happen, not the people who 
+say, “I think this is going to work. Let me give this a go.” If you have that type of 
+approach you got to go all in. Again, for whatever reason, very few humans are 
+Pg 6 of 14 
+willing to go all in. It is the intensity of the pursuit. I am not concerned that 
+cloning is going to stop working because the cat is out of the bag, or because I 
+am doing this podcast. It is going to be alive because many humans have an 
+aversion to it. The ones who do not have aversion are not fanatical about it. The 
+other piece is that there are so many areas available for cloning. Even if one 
+area becomes somewhat competitive, you have so many other greenfield areas 
+you can go into. 
+Interviewer: Mohnish, correct us if we are wrong. When you started your career with the 
+very big influence of Warren and Charlie, and this even comes across in your 
+first book, “The Dhandho Investor,”  you were leaning more toward the 
+Benjamin Graham side of value investing. However, as your career progressed, 
+you seem to have leaned more toward the way that Charlie and Warren think 
+about the world. Has your perception of risk changed because you have 
+become more experienced or because it has been influenced by the way that 
+they look at the world? 
+Mohnish: Ben Graham’s framework is like bedrock. All of us need that bedrock. The ideas 
+that the stock is not a piece of paper, ownership's stake in a business, and the 
+concept of margin of safety, those ideas permeate across, whether you are 
+doing pure Grammy investing or going with the Buffett or Munger approach of 
+the great businesses, they all use this underlying bedrock. The reality of the 
+situation is that we will make a lot more money by having ownership stakes in 
+businesses that grow dramatically in value over time. If I bought a business for 
+40 cents on the dollar and that dollar never grew, or it grew at a low rate, I might 
+make two or three times more, but if I even paid 60 or 70 cents on the dollar 
+for a business that was growing, 10, 15, or 20% a year, and I did not pay that 
+much of a premium for that, clearly that is going to be a vastly superior 
+approach, not to mention far more tax efficient, because you are not each time 
+paying Uncle Sam when you sell and want to look for buying again.  
+The other piece is that there are only so many great ideas one is going to find 
+over a lifetime. The idea that Ben Graham had is that you sell a business when 
+it gets at or near its perceived intrinsic value is at odds with the theories of Phil 
+Fisher, for example, whose perspective was that a great business may surprise 
+you about its real intrinsic value. Intrinsic value is a very difficult thing to figure 
+out for most businesses. The odds that you may be wrong about an assessment 
+of intrinsic value can be extremely expensive. The model of giving a great 
+business a lot of rope, which is holding it beyond the point at which you think 
+it has passed, its intrinsic value would be blasphemy in the world of Ben 
+Graham. However, that approach is extremely important for true wealth 
+creation over long periods. Ben Graham himself made most of his money from 
+owning one business for many decades, which was GEICO. The GEICO 
+ownership violated the core principles that he was espousing and teaching. He 
+just felt like he could not teach the approach to finding or holding a GEICO as 
+easily as he could teach a quantitative approach to investing. Even in Graham's 
+case, half his net worth when he passed away was GEICO, and it had trounced 
+the S&P by seven, 8% a year over the long holding period. A Swiss Army Knife 
+approach to investing is probably best. There are times that we are going to 
+find anomalies where some grow that much but are cheap and are very stable 
+and could give us a great return for some time when we do not have a great 
+business that is obvious to buy. If we are in the fortunate situation of finding a 
+great business with a great runway, then we want to hold onto those for dear 
+Pg 7 of 14 
+life. This is a big mistake I made for many years where I was buying well below 
+intrinsic value and selling right at intrinsic value.  
+Interviewer: Mohnish, you brought up GEICO there. That takes us to the subject of 
+insurance. One element of the Berkshire model is insurance and having some 
+insurance to have a flow to invest. At one point in time, you did have an 
+insurance company, but you chose not to take that on in terms of copying the 
+Berkshire model. Can you talk a little bit more about owning an insurance 
+company and why you did not decide to take that on? 
+Mohnish: That is a good question. Warren has repeatedly said that insurance is a 
+commodity business. It is very difficult. There are some pockets within the large 
+insurance industry where one can have a sustainable competitor advantage, 
+but by and large, the bulk of the industry operates in a commodity-like manner. 
+If I am a small business and I am looking for workers' compensation insurance, 
+for example, I am going to take the low bid. I may take the low bid amongst A-
+rated or B-plus-rated carriers, but once a carrier or insurance company is A-
+rated the lowest price wins. Most insurance companies do not have pricing 
+power. Warren has also said that the average insurance company is a terrible 
+business. What I realized almost right after I acquired Stone Trust Insurance 
+was that at the first board meeting, it became clear to me that this was not the 
+place I wanted to be. It was a very commodity business. They were a price taker, 
+and their dumbest competitor was selling price. I felt that rather than go deeper 
+and deeper, getting more and more pregnant with this situation, I wanted to 
+put the toothpaste back in the tube, so to speak, which is not always easy to 
+do. Toothpaste is only designed to come out of the tube, not go back in. I 
+decided I was going to reverse a course, and we decided to sell the insurance 
+company. We were able to sell it for just about what we bought it for, which I 
+thought was a very good outcome. We were able to return most of the capital 
+that we had raised back to the investors. The person who bought the insurance 
+company from me is extremely happy with Stone Trust. The difference is that 
+he is a vastly superior operator than I am. I remember that when we sold the 
+company to him many years ago, the premiums we were collecting every year 
+were about 65 million dollars a year. We sold the business maybe six or seven 
+years ago. The premiums last year were 50 million dollars. It is down 30%, but 
+the combined ratio of that business is 62% unheard of in the insurance business. 
+Francis Chu, who bought the business from me, is an unbelievably great 
+operator. He has got decades of experience. I would never have been able to 
+do what he did. It was a win-win for everyone. It gave Francis a platform to 
+build the insurance side. The interesting thing I learned, and this goes back to 
+the concept of great businesses and then the mistakes in investing, is that 
+investing is a very forgiving business. Even the best investor is probably not 
+going to be right more than half the time. You are going to have a 50% error 
+rate. I realized that when we had bought the insurance company, that was a 
+mistake. I thought, “Can we reverse because it is going to consume a lot of brain 
+cells in an activity that I do not want to particularly be focusing on.” That is what 
+ended up happening. I learned quite a bit. I am very grateful for the experience. 
+Being able to see the insurance company from the inside, they were very good 
+people. To be able to see the claims at an individual claim level and, kind of 
+seeing how the sausage is made, if you will, has been a great experience for 
+me. It taught me a lot and I am sure it can help in the future. Even in the case 
+of Berkshire Hathaway, Charlie Munger said a few years back that in the very 
+distant future, insurance may be a small business at Berkshire. It would not 
+Pg 8 of 14 
+surprise me that when Ajit Jain  is no longer running things they may elect to 
+run off that business because I have not heard of them having a second Ajit. A 
+lot of that business only works because there is an Ajit, just like Stone Trust only 
+works. After all, there is Francis Chu. These unusual insurance operators are 
+very rare. It is a difficult field. 
+Interviewer: Can I ask about that? If Francis was fantastic on the underwriting side, was 
+there any chance for you to partner and you be on the investment side, and he 
+would be on the insurance side in a similar way that they have a Berkshire? 
+Mohnish: Well, we are old too soon and wise too late. When Francis was buying the 
+business from me, he begged me to keep a stake. He said, “Mohnish, I want you 
+to keep 20%, 25%, whatever you want. Let us do this together.” Because I had 
+seen this business up close, I probably underestimated what Francis was all 
+about. If he made that offer to me again, I would take it. At the time, he 
+repeatedly kept asking me, because there were earnouts. We had our future 
+payments based on how the business performed. Each time, he made an earn-
+out payment to us because the business performed extremely well. Again, he 
+asked me, “Do you want to roll this into a stake?” and I kept saying “No.” Francis 
+is an exceptional underwriter and operator and a good investor, but he is an 
+example of a guy who has always stayed with Graham. He is a classic Graham 
+investor. In a situation where Francis is the operator on the insurance side and 
+someone like me is on the investment side, we would do even better. It would 
+do very well. That would be a good marriage. Part of the reason it would be a 
+good marriage is because he is such a great guy. In terms of trust chemistry 
+and competence, we would have a lot of fun with that. We are both young. It 
+might happen at some point. 
+Interviewer: I would have thought that the reason why you at the time thought that it was 
+not going to work out was more related to how regulation has changed over 
+the decades. That might limit your capacity to do that great business in the way 
+that they were able to do it with Berkshire. Is that a misunderstanding?  
+Mohnish: Well, Berkshire has some very subtle aspects of its insurance business that are 
+not available to most other insurance companies. Insurance is regulated by the 
+state in the US. The regulatory framework for insurers based in Nebraska is 
+vastly superior to most other states. One of the things I had almost finished 
+doing before France had bought the business was that I had redomiciled. We 
+had started the effort to redomicile the business in Nebraska because I realized 
+once I was in the business, and I looked at the different state laws, that it was 
+an advantage to be domiciled in Nebraska, even if you were not writing a lot of 
+business in Nebraska. There are reciprocal arrangements that the different 
+states have which give Nebraska insurers some advantage. I do not know 
+whether that advantage came about because Warren was able to work with 
+the regulators to change some of the frameworks over the years. The first is 
+that the state of Nebraska has a better regime for insurers who are good at the 
+investing side. The second big advantage that Berkshire has, which people do 
+not understand, is the insurance companies Berkshire has, are heavily 
+overcapitalized. If a regulator says that if you are writing 100 dollars of 
+premium, I want to see a 100 dollars of equity. In many cases in those 
+businesses, Berkshire has 500 dollars of equity. When you have 500-dollar 
+equity and you are writing a hundred dollars of premium, this is the same 
+situation that now Francis finds himself in at Stone Trust because their 
+Pg 9 of 14 
+premium volumes have dropped so much, and their surplus has increased so 
+much. The regulator is going to give you a lot of leaving. To give you an 
+example, when Berkshire bought the Burlington Northern Railroad, normally 
+just at the highest level, what regulators want in terms of an insurance 
+framework is they want to float invested very conservatively into fixed income 
+because that is going to be used to pay people in the future. They do not have 
+a problem with the surplus being invested in equities, because that is kind of 
+the backup for the insurance. In the case of Berkshire, the regulators in 
+Nebraska have given them the freedom to even invest the float in equities. 
+When Berkshire went to them and said, “Look, we are going to buy this railroad 
+and this railroad. You need to think about it like a bond. If you think about the 
+way the railroad operates and look at the long history of the railroad, it is 
+producing 5 to 10 billion dollars a year in cash flow. It is a bond with a variable, 
+and we are going to put this railroad inside the insurance company. When you 
+think about the way the float is allocated and the surplus allocated, please think 
+of the railroad portion being part of the float.” The Nebraska regulators 
+accepted that. What happened is that they paid about 40 billion dollars or so 
+for the railroad. If they were to sell the railroad today, my guess is it would sell 
+for something north of 120 or 130 billion dollars. Its value has more than tripled, 
+excluding all the huge dividends it has paid out over the years. Now, the 
+Nebraska regulators love the whole railroad sitting inside because they can see 
+the value compared to the publicly traded railroads. Recently, interestingly, just 
+in the last few weeks, Berkshire did a filing where they showed that they have 
+moved the railroad out of the insurance company. I know that would have been 
+a fun conversation with the regulator because the regulator said, “No, no, we 
+like the insurer. We like the railroad,” and Berkshire would have said, “Well, look, 
+I got 700 dollars of equity or a 100 dollars of premium. I am still going to be 400 
+dollars of equity or 400 dollars of premium. It is still like four times what anyone 
+else has. Do you have any concerns?” One of the things that Buffett did a long 
+time ago in the eighties; they had a lot of trouble with some insurance 
+operations. Some of these things were horrendous. One hundred and thirty 
+percent combined ratios, or 140% combined ratio. They were upside down. 
+These companies were eventually liquidated. They did terribly. They could 
+never fix them. They liquidated them. What Berkshire did at the time when they 
+liquidated these companies is that the parent company stood behind the 
+claims, which they did not need to do; they had no obligation. These companies 
+were in real trouble; horrendous combined ratios. They were going to be 
+liquidated. Their business model did not work. Berkshire at the parent level did 
+not have an obligation to pay off all claims. It was non-recourse. The claims are 
+only to be paid to the extent that those companies had capital, but those 
+companies ran out of capital. What Berkshire at the parent company did is they 
+stood behind those claims and they paid every single one of them. The 
+regulators believe that in the case of Berkshire, there is an implicit guarantee 
+on these claims. It is not an explicit guarantee; it is an implicit guarantee. That 
+is kind of like Freddie Mac and Fannie Mae, being implicit guarantees of the US 
+government. The regulators will always look very favorably upon Berkshire 
+Hathaway because of that history. Other insurance companies do not have that 
+type of reputation with the regulators. 
+Interviewer: That is interesting. I am going to change topics a little bit here. You have been 
+gifted with a mind that is very well suited for math and thinking in terms of 
+probabilities and that probably has helped your career in the way that you have 
+made decisions over time. For those who do not have that inclination or who 
+Pg 10 of 14 
+have been educated to think probabilities, what would be the best way for that 
+person to learn to adopt probabilistic thinking? 
+Mohnish: Probabilistic thinking is very important for investing because everything is 
+probability. Being a good bridge player is a great way to build that probability 
+muscle so you can have fun. Bridge is a very fun game. It is a very easy game to 
+learn. It probably will not take more than 30 minutes to learn the game, and 
+one cannot master it even in a lifetime. It is a great game to continuously keep 
+learning. Buffett and Munger have gained a lot from playing games like bridge. 
+I came to play bridge separately from investing. I played bridge for many years 
+before I became an investor. It was a coincidence for me that I was playing and 
+love bridge, but that can help the probabilistic thinking. Even when one is 
+studying businesses and studying histories of businesses and trying to 
+extrapolate where they are going to go and what they are going to be, one is 
+going to see a range of outcomes. That is just the nature of the way the world 
+works. If one is just good at that type of thinking which games like bridge or 
+blackjack can give you then you are that much ahead.   
+Interviewer: This probably ties in with one of our final questions, which is about the way that 
+you run your portfolios. Mohnish, you famously run very concentrated funds. If 
+we can go back to the topic that we started with, which was around risk, how 
+do you arrive at that decision to run with those concentrated funds? 
+Mohnish: Well, if you study the subject, the amount of benefit you get in terms of 
+diversification and reduction of risk starts to go down quickly as you add more 
+positions. If you had a single stock portfolio, that is at the end of the risk curve. 
+But once you are in about four or five positions in different industries, you are 
+already quite diversified. Once you take that number up to ten, that is a 
+significant, diversified portfolio. But when you take it from 10 to 20 or 30 or 50 
+now you are hurting yourself because the minimal benefits you would get from 
+diversification would be more than offset by the lack of knowledge of those 
+businesses. When we stay very narrow, we are going to be at the epicenter of 
+our circle of competence. We understand those businesses well. As you start 
+layering on more things and more companies there is going to be a variance in 
+terms of how well you know the businesses. Not knowing the businesses well 
+enough, even in a highly diversified portfolio, is risky. From my point of view, 
+once we get past a few names, the risk profile does go down. 
+Interviewer: One thing that has come up on the podcast several times is the idea of 
+ergodicity. The idea is that there is a difference between your time-weighted 
+returns and just an ensemble average. That has implications for the chance of 
+ruin over time. Something that is on an expected value basis looks like a good 
+trade to make. If there is a chance of ruin, then that may not be as appealing as 
+you think. If you run with a concentrated number of holdings in your portfolio, 
+there is an increased risk that you have that chance brewing. How have you 
+thought about managing that risk through your concentrated portfolios? 
+Mohnish: Any number multiplied by zero, no matter how big is zero. We do not want to 
+go there. It is equity investing that a few of the decisions that you are going to 
+make are going to generate outsize returns. For example, if I were to look at 
+the Walton family owning stock in Walmart, Sam Walton during his lifetime, 
+and Walmart was not very valuable. He distributed the stock to his kids and he 
+passed away. There have been no Waltons running the business for several 
+Pg 11 of 14 
+decades. There might be one Walton on the board, but I am not even sure if 
+that is true anymore. They have all held the stock and it probably makes up 90, 
+95% of their total assets. When you look at it from the outside, you will say, “Oh, 
+this is terrible. It is so non-diversified.” They probably know Walmart better than 
+anything else. If we step away from the public market for a second and look at 
+founders who create a lot of wealth with successful businesses, most of them 
+are not diversified. In many cases, the companies may not even be public. They 
+may have 90, 95%, or more of their net worth in a single stock, even when the 
+company is public. They may have a significant portion in a single stock. Of 
+course, they can be hurt, and we have plenty of cases where they can be hurt. 
+But the other side of the coin is that great investment opportunities are rare, 
+like when you find yourself in the happy position of owning a great business 
+that is not overpriced. That is a big sin if you start trimming because it is more 
+than 25% of the pie. I face this issue in real-time. We invested in a business in 
+Turkey Reysas, which was around 3% of the liquidation value when we invested. 
+The market cap was around 20 million dollars or so. The liquidation value was 
+600 to 800 million dollars. Of course, it was a no-brainer investment, and I was 
+surprised we were able to get a lot of stock. We ended up getting about a third 
+of the company for about 8 million dollars. Reysas now is valued at about 500-
+600 million dollars, and it used to be until a few weeks ago, close to 800 million. 
+The value of business today is even higher because they have done a few things 
+in the last few years. The liquidation value of that business is well beyond a 
+billion. If I look at intrinsic value and not liquidation value, it goes well beyond 
+that. It makes up a significant portion of some of our funds. Every quarter when 
+I write to my investors, they will let them know we have got this issue, and I tell 
+them, “Listen if you are uncomfortable, you should get off the bus because we 
+are not going to lighten up.” I cannot justify lightning up Reysas when it is 
+undervalued when it has great management and a lot of great tailwinds, and 
+that comes with risk. But we are not going to find a Reysas every two years. 
+That is just not going to happen. Anything I replace it with, first, there will be a 
+big tax bill, but then anything I replace it with is likely to be inferior. The other 
+thing that has happened is in the last four years of owning it, we have gotten 
+to know the business a lot better than we knew it before we invested. Even 
+though I am not a founder or a person in the management of Reysas, I consider 
+it like a business my family owns. If there is a business like Walmart that your 
+family owns, it is probably not the best decision to start looking at, let me 
+diversify and this and that. It is a double-edged sword. It does come with risks, 
+but one of the things about investing is that if I look at my friend Nick Sleep in 
+the UK, he was very early in investing in Amazon. Amazon became a big part of 
+the portfolio for him, and the UK regulators were giving him some grief about 
+that. He and his partner looked at each other and said, “We have hundreds of 
+millions of dollars each, we never thought we would have this, even anything 
+close to this. Why should we let other people tell us what to do? What if we 
+returned everyone's money, and just managed our own money? Then whatever 
+Amazon becomes is nobody's business; whatever percentage of the portfolio. 
+Nick returns everyone's money. When he returned the money, he put 
+everything in three stocks. He put a third into Berkshire, a third into Costco, and 
+a third into Amazon. Of course, what happened is Amazon kept going like the 
+Energizer bunny; it never stops. It again became a very large portion of the 
+portfolio that he was running. It became more than 50 to 60% of the pie. At that 
+point, he got a little antsy about that and sold off half the Amazon position. He 
+bought a company called ASOS, also in the UK, which between us is not a good 
+business. It will never be a good business. From my perspective, it is a mistake 
+Pg 12 of 14 
+for Nick to be investing in ASOS, and that is a greater risk than a business like 
+Amazon going to zero. If I look at a business like Amazon, it is multiple 
+businesses. It is not a single business. If you look at people like Jeff Bezos or 
+Andrew Jassy, what percentage of their net worth is in Amazon? My 
+perspective, if I were to be so bold as to critique that effort with Nick is he had 
+a very well-diversified portfolio with those three stocks. Each one of those 
+three companies is exceptional. Even if one of the three survived, he would not 
+be in the poor house. He would still be fine. If I were him, I would just leave 
+them all alone; let them all be. If Amazon becomes 80%, so be it. That is okay. 
+That is a good thing. 
+Interviewer: That is interesting. Thank you very much. Mohnish, given the levels of 
+concentration that you feel comfortable running as per what you just 
+explained, would it not be better for you to run a vehicle with permanent capital 
+rather than the current structure that you have? 
+Mohnish: What happens with all of us if we become very successful is the vehicles 
+eventually become permanent. If I look at Nick Sleep again, it is a permanent 
+vehicle because it is his own money now. The same thing happened in many 
+ways to Warren Buffett with Berkshire Hathaway. He was such a large portion 
+of the pie. I'm not particularly concerned about this; I do not get a lot of 
+sleepless nights thinking about permanent versus non-permanent capital. At 
+the back of my mind, I always feel that if everybody took all the capital away, I 
+still have a decent amount of my capital, and if I never managed anyone else's 
+money, I would still have a happy existence. It is possible at some point I could 
+involuntarily be turned into a permanent capital vehicle. If that happened, no 
+problem. If the investors choose not to have the confidence in having some of 
+their hard-earned assets with you, it is a choice they have and they can 
+continue with their choice, and that is perfectly okay. I do not see a big 
+compelling need or reason to change things from the way I am doing things 
+right now. I like the families that have invested with me. I like that most of our 
+assets are first-generation entrepreneurs who are still building wealth. Few of 
+them have retired and such. But it is a great mix. If that mix continues for a 
+while, that is okay, and if it comes to an end, it will not be the end of the world. 
+Either way is fine. 
+Interviewer: If I may ask a follow-up question on the Turkish example that you provided 
+before, when you are investing outside of the US in places like a marine market, 
+you are running a risk, which is not only the business risk itself, but you are also 
+exposed to the currency. Turkey has been going through a rough time over the 
+last two to three years. How do you think about that in the context of what you 
+were explaining and this subject of ergodicity? 
+Mohnish: Reysas is a good example to study from a currency point of view. Before we 
+invested, I fully expected that the Turkish Lira would get decimated. I expected 
+absolute clobbering of the Lira, and it had no impact on the investment decision 
+because I said, “If I have a warehouse in a prime location in Istanbul with a long-
+term inflation index lease with Amazon, Carrefour, or  IKEA, that has a global 
+value and that value will prevail. Cement has a global value, and steel has a 
+global value. Prime real estate in a place like Istanbul has a global value. My take 
+was that even in extreme scenarios of currency decimation, we should be okay. 
+What happened is that when we invested in Reysas, it was five Liras to the 
+dollar. Today it is more than 28 Liras to the dollar. That is an 80-plus percent 
+Pg 13 of 14 
+devaluation. In dollars we are up by 20 or 30 X and in Lira we are up by infinite 
+X, but who cares about that? There are two other investments I made in Turkey. 
+One was a Coke bottler and the other was an airport operator. In the case of 
+the airport operator, it was very simple because all their revenues are 
+contractually in Euros. Very little of TAB Airports’ revenue is in local Lira. A lot 
+of the expenses like staff salaries are in Liras. In that case, a decimating currency 
+would give them tailwinds because their costs would go down while their 
+revenues would stay intact, which is exactly what has happened. One of the 
+things that markets do is stereotype, and they use broad brush strokes. Turkey 
+was considered uninvestible; it was considered very investor unfriendly. Any 
+place you go to where the currency has a problem, most investments are not 
+going to work well. What I noticed is that the baby got thrown out of the 
+bathwater. When I sifted through, I met with maybe 60 or 70 listed Turkish 
+businesses over the last few years. Most of those companies are not invested. 
+They would face real headwinds in this environment, but there were a few that 
+the baby got thrown out irrationally. That is what we are looking for. We are 
+looking for irrational behavior amongst market participants. I am not so 
+concerned about the overweight risk of emerging markets or the 
+overweighting risk of currencies. What one needs is to be a rational investor 
+and accurately weigh those risks, not be paranoid about those situations. In the 
+case of the Coke bottler, around 70% of their revenue is not even from Turkey. 
+It comes from a dozen other countries. The same with TAB Airport. Even though 
+their currency is Euros, a large portion of revenues are coming from outside 
+Turkey. That was excellent because now it is a business listed in Istanbul facing 
+all the negative perceptions of investors leading to ridiculous and irrational 
+undervaluation. The second thing I noticed is that these three businesses, each 
+one of them had off-the-charts management, off-the-charts owners, and just 
+incredible capital allocation; better than what I would find in a lot of developed 
+markets. The quality of the people was extremely high, the competence of the 
+people was very high, and the integrity of the people was very high. A rational 
+investor should weigh all of these factors in making a decision. I have a lot of 
+comfort in the investment we made. The funny thing is that in the last four 
+years, the clouds over Turkey have not lifted. There are still a lot of big clouds 
+over Turkey. It did not stop Reysas from going up 20 times in dollars. It still got 
+there somehow. I do not know how it got there, but somehow it got there. That 
+is kind of how I see it. 
+Interviewer: Thanks very much, Mohnish. I can see from your background and for listeners 
+who cannot see it, you have got a wonderful library behind you. The signature 
+question that we ask all our guests is whether you have a book 
+recommendation. I have high hopes for your book recommendation. 
+Mohnish The book I read this year that I enjoyed a lot is called “What I Learned About 
+Investing from Darwin.” It was written by Pulak Prasad, from Singapore. It is an 
+exceptionally well-written book. He is an exceptional investor. I read it twice 
+because I enjoyed it so much and I felt like maybe I missed a few things. Pulak 
+has got a good sense of humor, so it is a page-turner; it will keep you occupied. 
+I made some changes to the way I invest after reading the book. There were a 
+lot of take-home values, so I recommend that.  
+Interviewer: What sort of changes did you make to your process after reading that book? 
+Pg 14 of 14 
+Mohnish One of the things that Pulak brought up is that in the investments he makes, 
+one of his rules is that the companies cannot have any leverage. His perspective 
+on leverage needs to be zero. It is an extreme view. His logic for that is that he 
+feels that all companies are going to face tough times. Times are good, and 
+times are bad. That is the nature of business. When times are bad and the 
+business has no leverage, it can play offense. Whereas a highly levered 
+company, when times get tough, which I saw with my dad, you are just trying 
+to survive and you are trying to keep the wolves at bay. If you are looking at 
+companies that you want to be around for a long time, to finish first, you must 
+first finish, then reducing leverage or eliminating leverage is going to give you 
+a lot of levers that you can pull. Now, I have not gone a hundred percent down 
+the Pulak path, and of course, the portfolio takes time to change, but it is a very 
+important consideration. Much more important than it was before, where in 
+the past I would say, “Okay, the market cap is 5 billion and they have got 400 or 
+500 million debts. That is fine. Just move on.” I would not ask myself the 
+question, “Can this business be run without debt? Can they just eliminate 
+dividends for a couple of years and why is that debt out? Why aren't they doing 
+that? How do they think about it?” If you look at companies like Berkshire 
+Hathaway and the great businesses around, they have built themselves around 
+that. If you lever up a business, you are going to juice the returns, but you also 
+take away the resilience. This is just one of the points he makes. He has many 
+other points. Another interesting point, which I also adopted, is he does not 
+project. He has no projections for the future of what the earnings or cash flows 
+of any of his portfolio companies are going to be. That might sound like 
+blasphemy; how can you run a portfolio without peering into the future? He 
+answers that it is an exercise in futility because we are making assumptions. If 
+each assumption is off by 20%, what you have in the end is garbage. You have 
+four or five assumptions and each one is off by some small number, which is 
+going to create a big error rate. Pulak’s approach is to buy and hold forever. He 
+views any sell decision as a mistake. If you go on his website, they have listed 
+the entire portfolio. They run a hedge fund, but it is closed. They do not take 
+new money, but they have listed the entire portfolio, including every exit. The 
+whole thing is public. Their perspective is that “When we are going to go into 
+business and invest in a business, the holding period is forever. If the holding 
+period is forever, why are we messing around with DCFs and all that? It is 
+irrelevant.” It is a good food for thought. I hope you enjoy the book.  
+Interviewer: Interesting Mohnish Pabrai. Thank you very much for coming to The Value 
+Perspective podcast. 
+Mohnish: It was my pleasure. Thank you very much. 
+ 
+  
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not intended 
+to be financial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not be suitable for you, 
+do not take into account your particular investment objectives, financial situation, or needs, and are not intended to provide 
+investment advice or recommendations appropriate for you. Before making any investment or trade, consider whether it is suitable 
+for you and consider seeking advice from your own financial or investment adviser. 
+ 
+ 

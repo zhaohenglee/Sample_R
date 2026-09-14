@@ -1,0 +1,472 @@
+Pg. 1 of 10 
+Mohnish Pabrai's Talk with Greenhaven Road Partners 
+Fund on October 29, 2024 
+ 
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not 
+intended to be financial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not be 
+suitable for you, do not take into account your particular investment objectives, financial situation, or needs, and are not 
+intended to provide investment advice or recommendations appropriate for you. Before making any investment or trade, 
+consider whether it is suitable for you and consider seeking advice from your own financial or investment adviser. 
+ 
+Mohnish: I did not want to start giving when I was in my seventies or eighties 
+because at that point I would not have much energy. My only option at 
+that point would be to write checks, and probably would not even be able 
+to do that much due diligence. I wanted to start experimenting a lot earlier 
+because I had a bias toward education; specifically, education in India. I 
+was not going to be moving to India; I knew that it was going to be 
+difficult and uphill to try to get something going remotely and I expected 
+to fall flat on my face. I wanted to give myself enough time so that 5, 10, 15 
+years of failures kind of become like the tuition bill, and then maybe after 
+10 years, I would know what I am doing. I started when our net worth 
+crossed 50 million; I started with the formula that we would give away 2% 
+of net worth every year, and that it would give the organization at least a 
+million dollars a year. I was not particularly concerned if the million pretty 
+much went up in smoke for several years; I just viewed that as part of the 
+tuition to be paid. We started when I was 42 and now I am 60, so there are 
+18 wonderful years of experience which have been very helpful. Of course, 
+we did not have even 10 years or even 10 months of no traction; we were 
+very lucky we got traction almost right away, probably in a few weeks. 
+There was no wasted money or anything like that, which was what I was 
+expecting. Things went I would say 10 times better than I expected. That 
+has been the journey so far.  
+Scott: I want to get into that journey. I want to ask a mechanical question. I am 
+curious to know what the mechanics are for fund managers similar to you 
+in terms of the tax situation, LTA, and most of the money in our funds. Do 
+you distribute securities? Do you use some sort of donor-advised fund? Do 
+you have a family foundation? Have you figured out anything like dos or 
+don'ts in terms of getting money from the fund to people? 
+Mohnish: It depends on the amounts. If you have a seven-figure number or 
+something annually then foundation would make sense. The economics 
+would work out; the frictional cost would be low. I started with a 501(c)(3) 
+family foundation in the US and a charitable trust in India. They are two 
+separate organizations. After a few years, we had other folks who wanted 
+to contribute to Dakshana. We got public charity status from the IRS and 
+Dakshana now has been for quite a while a public charity. One of the 
+advantages of public charity is that when someone at Microsoft or Google 
+or one of these places donates money, the company match can happen. 
+These places like IBM, Google, and Microsoft will only do the match if it is a 
+public charity; kind of a bona fide public charity in the US. That is helpful 
+because we have quite a few donors like that who donate smaller 
+amounts, but the company matches significant amounts. That is what we 
+Pg. 2 of 10 
+did. We set up a foundation and then in terms of the giving, you can give 
+the foundation appreciated stock that has some tax advantages. You can 
+give it cash; that is a pretty standard set of tools that you would use with 
+other charities that you are giving money or stock. 
+Scott: I now want to get into the meat of what you have done. Can you tell us the 
+story of Dakshana; how it started, what you guys do, some of the results, 
+etc? 
+Mohnish: I will get into that in a second, but I just wanted to talk a little bit more 
+philosophically about this concept of what I would call feedback loops. We 
+have feedback loops in capitalism. For example, if you start a business, and 
+let us say you start a restaurant or something, and that business at the end 
+of the day does not make money or has difficulty and is running in loss and 
+so on, eventually that business is going to go away. Even if you are 
+venture-backed and you raise capital and so on, at the end of the day, 
+eventually the business has to be profitable. If it is not profitable in some 
+way, cash flow positive, it is going to go away. In capitalism, we have, what 
+I would call feedback loops, which is that, if we are not productive in 
+providing society with some useful product or service as a business, we 
+will not exist. Because if you provide something useful, it will manifest 
+itself in the form of profits and cash flows, and that will keep the business 
+growing and growing and so on.  
+In philanthropy, we have a problem, because there is no feedback loop. 
+What I mean by that is, let us say I am the Rockefeller Foundation, and I 
+have a billion dollars in my endowment or nest egg. Let us say I am a 
+stupid investor, I do not have great investing skills and I am generating 
+something like 6% a year, invested in index and a few other things. The 
+mandate of this foundation is to spend 5% of its assets every year. The IRS 
+wants you to spend around 5% to keep your status. The Rockefeller 
+Foundation would spend $50 million and would make about $60 million; 
+every year the corpus would keep increasing. This corpus increasing 
+means that 50 years from now, that organization will still be around, and a 
+hundred years from now, it will still be around if those numbers hold the 5 
+and 6% and all that. It does not matter whether the Rockefeller Foundation 
+does anything useful or not. If they start the year with 50 million and just 
+make a bonfire out of it and do no good to society, it does not matter, 
+because the following year, they will have another 50 million or more 
+ready to go, and two years from now, they'll have another 50 plus million 
+to go, and it would keep going. In effect, unlike a business that has to 
+provide some positive value to society, a foundation with an endowment 
+may or may not provide any useful value to society, and it would keep 
+going forever. The lack of a feedback loop is a real problem in charity. Two 
+feedback loops are missing in the nonprofit world. The first thing that is 
+missing is that you do not need to create a profit; you make this 5, 6% by 
+being dumb and stupid or whatever, and you will be in business forever.  
+The second is that you do not need to do anything effective to help 
+society, and you will be around. The second problem, which is in 
+capitalism, is that the measurement of outcomes is very precise. We all 
+look at businesses and decide which ones we want to invest in. We know 
+how those businesses are doing, and we have a lot of precision of what 
+went in and what came out. Those measurements are very precise; there is 
+Pg. 3 of 10 
+no ambiguity about them. In most philanthropic ventures, even ones that 
+have a lot of positive value to society, the measurements are really hard. In 
+fact, I would argue that probably for like 98% of the stuff that you would 
+do in the nonprofit world, the measurements may be almost impossible. 
+Let us say for example, there is a big drug problem in the city of San 
+Francisco amongst the homeless, and you set up some program to deliver 
+free needles to all the homeless people who want it. Clearly, that may have 
+some net positive benefit, but what is that benefit? The measurement of 
+how good the needle program did becomes really difficult to measure. If 
+you do not have measurements, then how do you decide what you want 
+to increase or decrease, or what changes you want to make? In a capitalist 
+business, it is simple. The profits and growth and all of that give you a lot 
+of feedback on what is working and what is not working and what areas to 
+focus on and not focus on. In general, society benefits, and everyone 
+benefits. The nonprofit world has these two problems. One is that you 
+would be in business forever, while you could do nothing good, and there 
+is nothing that will take you out of that situation. The second is that the 
+measurements are hard. Even if you have a great heart and you actually 
+want to do a good job, the measurements are hard.  
+What I did at Dakshana was I inverted the problem. Like Munger says, 
+“Invert; always invert.” The inversion that I did was that I was only going to 
+look at activities where the feedback loops or the ability to tell what 
+output came from the input was easy to do. For most of these kinds of 
+initiatives that you would embark on, the measurement is really difficult. 
+Let us take the example of Gottesman who recently gave a billion dollars 
+to the Albert Einstein School of Medicine, and there is no tuition anymore 
+for anyone going to med school at the Albert Einstein School of Medicine. 
+Clearly, that has positive impacts, but if someone is from a hundred million 
+plus family going to the Albert Einstein School of Medicine, them getting 
+tuition-free, the benefit of that to that family in terms of helping society 
+versus another family, which really needs that free tuition for the person to 
+become a doctor is very different. The return on invested capital in those 
+two situations is extremely different. I do not even know if there will be 
+any measurements done of what percent of that class needed that help 
+and what percent did not. Even though I love the idea; I think it is a great 
+initiative. Education in general has a huge multiplier effect. Because you 
+can transform zeroes into heroes; that has a huge impact.  
+I grew up in India. I grew up with a lot of extreme poverty that I witnessed 
+all around me. I knew that millions and millions of people were very smart 
+and would never get a chance at a decent education. My thinking was that 
+if we can harness these brains and provide them the tools to become very 
+useful to society and to the family and community, then that is a very 
+positive thing. What Dakshana did and what we have done for the last 18 
+years or so, is that we had an ecosystem. We had two ecosystems in India 
+that made Dakshana extremely effective. In fact, I do not really know of 
+any I actually did not want to set up my own operation, I did not want to 
+actually do a nonprofit, I just wanted to write checks. I was disappointed 18 
+years ago when I looked because I was not able to find organizations 
+where I thought the social return invested capital was acceptable or high.  
+In India, we have a somewhat unique situation where we have very elite 
+technical institutes. The Indian Institute of Technology, which has several 
+Pg. 4 of 10 
+campuses that are from US standards is almost free to attend. They are 
+very heavily subsidized by the government, but they are very difficult to 
+get into. It is a strict meritocracy to get into the IIT. It does not matter if 
+your father went there. how rich you are or what money you donate to the 
+IITs. There is only one way to get admitted into the IITs, which is you have 
+to clear the entrance exam. The entrance exam does not have essays or 
+anything subjective, it is a purely quantitative and qualitative objective 
+test. It is probably the toughest test in the world. There are about 1.3 
+million kids a year who try to get into the IITs every year and there are 
+16,000 seats. In other words, the admit rate is about 1.3% or so. Princeton 
+would have an admit rate of about 4 or 5%, and a lot of the IVs are between 
+4 to 8%. Bill Gates says that if he was limited to recruiting from only one 
+school for Microsoft when he was running Microsoft, he would only recruit 
+from the IITs. He would not recruit from MIT, and he would not recruit 
+from Stanford, and he would bypass all the US universities. He would only 
+recruit from the IITs. I will get to what Dakshana does, but just wanted to 
+explain a little bit of how it works in the IIT. When you take the test, from 
+the number 1 to 1.3 million, you get a rank. When you are ranked one, they 
+come and ask you which campus and which major you want and by the 
+time you get to rank approximately 95 out of 1.3 million, IIT Bombay, 
+Computer Science has closed. If you get ranked 96, you cannot go to IIT 
+Bombay Computer Science.  
+Dakshana had a scholar, a very poor kid, who grew up in a slum in 
+Hyderabad. His parents were under 50 bucks a month in monthly income. 
+Sometimes they did not even have food to eat and went to sleep hungry. 
+This kid got accepted by IIT with a rank of 63, which is the best rank we 
+have ever produced at Dakshana in 18 years. He goes to IIT Bombay 
+Computer Science. The IIT Bombay Computer Science class has 
+horsepower in that class; it has no parallel anywhere in the world. There is 
+no computer science classroom in the United States or anywhere else in 
+the world with the brain power that the IIT Bombay Computer Science 
+class has, because you have people who are ranked 90. Now, just to tell 
+you about how hard that test is. If you score about 33% on that test, you 
+will get a seat at IIT. You just have to score 33%. These kids who are in the 
+top 96 have something like a 90-plus percent score; 92% score on that 
+test.  
+Anyway, Ashok goes to IIT Bombay Computer Science. He has never seen 
+a test in his life that he was not number one; it has never happened to him. 
+In every class he was in Dakshana or any place else he was always number 
+one. In the first computer science test in the first class he took, his rank 
+was like 80 out of 90 or whatever number of kids in the class. He said, “I 
+got a score of like 27 out of 100 on that test. I studied really hard for it. I 
+spent about half an hour just looking at the paper. It never, ever happened 
+to me that I am not in the top 1% or top 5% or 10%. There were kids in that 
+class who had topped that test. They got a hundred on it, and they were 
+goofing off the previous night. They were not even studying; they were 
+like playing around.” He went back from that test and he said, “Ashok, find 
+another gear. Whatever you have done in the past, you are not in Kansas 
+anymore.” He really busted his ass. He is a very competitive guy who works 
+really hard. He graduated probably in the top 15% of his class. He grew up 
+in a slum in Hyderabad, and India's Microsoft headquarter was right there; 
+Pg. 5 of 10 
+you could see it every day. For him, it was aspirational to go to work for 
+Microsoft, and he applied to Microsoft, and he got a job. I said, “Listen why 
+don't you send an email to hr@google.com and you just send them your 
+resume, but in the email, I just want you to tell them your IITG rank of 63 
+and your GPA when you are graduating from IIT Bombay Computer 
+Science.” Within about seven hours of him sending that email, Google set 
+up Skype interviews with him. They never met him. Three guys talked to 
+him for about 20 minutes each. He had a job offer from Google and he 
+moved to Mountain View. Ashok is now level seven and makes over a 
+million dollars a year. He has moved up quite a bit. He has a large team 
+that works for him. Anyway, what Dakshana does is we identify extremely 
+poor kids who have very high horsepower. The IITs have a 1.3% admit rate, 
+we have about a 70% admit rate of our kids going to IIT, and then we have 
+expanded to med school. We take now about a thousand kids a year, and 
+about 7 or 800 of them end up at very good schools and almost all of them 
+go to some decent college. Currently, Dakshana spends about 3 million a 
+year and we are just embarking on about 10 million of CapEx and then we 
+will probably be able to take about 1500 kids a year. We have our own 
+campus now; 109 acres and such. That is what we do. The input-output 
+ratio at Dakshana is very easy to measure. We know it costs us about 
+$3,000 to support a kid for one or two years. In Ashok’s case, the family 
+used to make 50 bucks a month and they make now 80,000 a month. The 
+transformation from 50 bucks to 80,000 was $3,000. That is kind of what 
+we do.  
+Scott: Just for folks, the $3,000 you are housing kids for a year, and educating 
+them. From an American mindset, it is hard to get your head around how 
+much is done for those kids in that year. Can you just elaborate a little bit 
+on what was done in that year for the kids to make the transformation 
+happen? It seems like you get a lot out of $3,000. 
+Mohnish: We have two programs. One is a two-year program and the other is a one-
+year program. I will just go over the one-year program for simplicity. They 
+drop out a year after high school. They finish 12th grade and drop one year 
+or prep for the IIT exam. We move them to our campus in Pune. Room, 
+board, coaching, books; everything is covered. They do not pay for 
+anything. We have a very high-end faculty. We have some faculty 
+members that in India make about 60, 70, $80,000 a year which is 
+equivalent to making about half a million dollars in the US. We have some 
+rich kids trying to get into the Dakshana program because we have better 
+coaching at Dakshana than the for-profit world does in India. We have a 
+problem where we have to have a lot of gates up. We get a lot of offers 
+from very wealthy parents, offering us even 20, $30,000 a year to take 
+their kid. Of course, we do not take any of the kids at any price; it is free or 
+nothing. That is kind of how we do things at Dakshana. 
+Scott: That is great. I will give you a chance to brag for a second. The stats on the 
+medical school program are perhaps even more impressive. Do you 
+remember what they are? You wrote about them in your annual report. 
+Mohnish: There is a set of medical colleges, which is like the IITs called the All-Indian 
+Institutes of Medical Sciences. They have a ridiculously low acceptance 
+rate, and they have much fewer seats. When I was in high school in India, 
+there used to be only 36 seats for AIIMS, and there were like 50,000 kids 
+Pg. 6 of 10 
+applying for those 36 seats. It was insane trying to get a seat. Probably 
+some of the very top-end Indian doctors in the US are AIIMS graduates. 
+Some of these guys have gotten Nobel Prizes. The admit rate at AIIMS in 
+India is like 0.1% and at Dakshana, we do not try to get into AIIMS; we just 
+have them take the test and try to get them into med school. About 15% of 
+the kids we take on go to AIIMS, whereas in the national population, it is 
+0.1%. It is insanely hard. Our numbers on the AIIMS side are even better.  
+Scott: That is awesome. I am going to let folks come up to the computer and ask 
+you a couple of questions.  
+Interviewer 1: Hi, Mohnish, thanks for doing this. I am curious how the 3000 per student 
+has evolved as you guys have scaled. Did it used to be 5,000 a student, 
+and as you have scaled, the price came down? Also, if your $3 million a 
+year operating budget went up to $10 million a year, $20 million a year, 
+could you still scale the organization and achieve similar success rates at 
+similar costs? 
+Mohnish: When we started, it was an outsourced model, so we did not have our own 
+campus. We just wrote checks. We identified the kids, and then we sent 
+them to, for-profit coaching locations and paid for everything. We paid for 
+the room and board and paid for the coaching and all that. Over time we 
+brought it completely in-house, vertically integrated, and in fact, now a lot 
+of the faculty is our alums. A lot of the kids who graduated through our 
+program went to IIT, and they have come back. Those guys are fantastic 
+because they have gone through our program. The cost used to be around 
+5,000, and of course, there has been inflation in the last 18 years. It used to 
+be about 5,000, about 17, 18 years ago and now it has come down to about 
+3000. But if you consider the inflation in the last 18 years, it has probably 
+come down even more, because of what money was then versus now. We 
+do have limits in terms of how far this can go. We think that we can get to 
+spend about 7 or 8 million a year, and then we would max out because we 
+would run out of IIT seats. We are already taking approximately 3, 4% of 
+the IIT seats; 1 in 20 or 1 in 25, kids on that campus are coming from 
+Dakshana. I do not think we can ever get to more than 1 in 8. That is a lot 
+taking 12% of the seats, because you have to understand the rich kids; they 
+have a lot of resources, and they are trying everything under the sun. In 
+fact, a lot of them start coaching in 6th grade. Our coaching starts after 
+12th grade for one year. A lot of rich kids are going through coaching for 
+like six years, for example, to try to get in. It is an insane situation; you are 
+starting a kid at 12 to try to get into IIT at 18. Once we get to about 7, 8 
+million in spending, we will run out of seats. We will probably get to that in 
+a few years. We are just adding capacity, which will take about three years 
+with all the construction and all that, but it will go to about 5 million a year 
+in about three years, and then the next step from that would be to max it 
+to about 8 million.  I would say in probably five, or six years, we will be 
+maxed out. 
+Interviewer 2: Thank you so much Mohnish, and congrats on the successes so far. I would 
+like to ask two related questions. You talked about pursuing high-risk, 
+high-reward investments in your charities. Can you talk a little bit about 
+some failures that you have learned some lessons from and what those 
+lessons are? Relatedly, now that you have found something that works so 
+phenomenally, do you try to create a feedback loop where all your 
+Pg. 7 of 10 
+incremental and charitable investments flow into compounding what you 
+have already built and adjacencies related to it? Or are you planting other 
+seeds to try to do something maybe perhaps in an entirely different 
+domain? 
+Mohnish: Well, I am a big believer in focus, so for us right now, our focus is to get to 
+the 7 or 8 million and max out the model. Maybe we will try to take it to 10, 
+12 million and see. I want to hit a brick wall and just see where that wall is. 
+We will push as much as we can to see what the limits of that wall are and 
+where that ends up. If you think about it from a net worth point of view, I 
+would say if Dakshana was spending something like 10 million a year and if 
+my net worth were, let us say around 200 million, that would be about a 
+5% type of annual number if there were no outside donors. My net worth 
+got cut in half because I got divorced a few years back. Thankfully it was 
+still over 50 after the divorce, so we could still keep it going, but we are 
+not at 200 million yet. With some luck, maybe next year; we will see. I 
+always want to have feedback loops. I do not mind taking risks. When we 
+started this model that is working very well it was not expected to work.  I 
+was a guy in shorts in California doing something remote in India, and 
+people took advantage of us. We paid companies to coach our kids. They 
+sell third-rate faculty. They sometimes never sent anyone. They just took 
+the money and nobody showed up so we had a lot of issues. For example, 
+in the very first batch, our success rate of getting kids into IIT was about 
+10%; just 10% of the kids got in. It was the same quality of kids as we have 
+today, but it was an eight-to-one, seven-to-one differential in success. It 
+was very clear to me that what we had given in terms of quality to the kids 
+of coaching was pathetic. It was terrible.  I knew that this was just like any 
+business. We just have to block and tackle and make tomorrow better than 
+today. We fired some of the coaching places that screwed us. As the 
+saying goes, “Fool me once, shame on you. Fool me twice, shame on me.” 
+We got rid of all the yo-yos who were screwing with us. The next year was 
+around 20% and I knew it could keep going higher, and we just kept 
+working at it.  We need to find some other models in a few years. I know 
+that the return will go down and that we will never find anything like this. 
+We just lucked out and it is very extreme, but it will not be anything like 
+this, and that is okay. It can be a much lower return and still be quite good. 
+Interviewer 3: Mohnish thanks for doing this. I have a quick question. In the beginning, 
+you mentioned some of the failures of charities at large, and I am 
+wondering, have you seen anything interesting in terms of people who are 
+employing other methods to kind of fix some of those failings outside of 
+what you are specifically doing? 
+Mohnish: I am really impressed with some of the charities I have run into since then. 
+For example, some of you might be familiar with Success Academy, which 
+is Joel Greenblatt's initiative in New York City with all the charter schools. I 
+think they have done a wonderful job. In general, charter schools, if they 
+run well, and that is a US model, which is easier to get you guys' arms 
+around, is that because you are getting base-level funding in terms of 
+public dollars from the government, and then you are overlaying that with 
+private funds, the return on those private funds is very high. In Joel's case, 
+the Success Academy, a lot of the teachers are Ivy League educated, and a 
+lot of the students are inner-city minorities. It is kind of two worlds that do 
+not normally meet. They have done a great job. Well-run charter schools 
+Pg. 8 of 10 
+can work well, because of the public funding that is coming through. We 
+have a lot of waste of public funding in the public school system in most 
+cases around the country, so that can be a good model. I found some very 
+good models in India as well. Some are in education, sometimes some are 
+kind of adjacencies. If you look at it from the lens of input-output, you will 
+find it very easy, because that is what you guys do for a living. When you 
+look at the Gottesman Program at Albert Einstein, and let us say you were 
+going to compare it to Success Academy, I am nothing against the 
+Gottesman, but to me, Joel's program has a higher return. 
+Interviewer 4: Hi, thanks for doing this. I just had a brief question. Has your philanthropy 
+been exclusively focused on this education and if not, have you invested in 
+or donated to regions that have experienced natural disasters or anything 
+with shorter-term time horizons? The reason I ask is, because I live in 
+Asheville, which as you may know, has recently been hit pretty hard by 
+hurricanes, and I am in charge of a team that is trying to allocate a couple 
+of million dollars to disaster recovery. If so, I am just wondering if there are 
+any general lessons that you have observed from that, and if you do not 
+have any experience, that is totally okay. 
+Mohnish: Dakshana has done very little outside of its core model. One time I gave 
+10,000 to Joel to have lunch with him with a donation to Success 
+Academy.  I had lunch with Buffett and that was a donation as well to the 
+Glide Foundation. When there was a Turkey earthquake, we made some 
+contributions, because we have investments in Turkey, and I did not feel 
+like we should just be taking without giving. But in general, I say no almost 
+99% of the time and I do not look at other causes. It is important in 
+philanthropy to be focused. In your Asheville situation, the important thing 
+there would be to drill down to see what the best way is to help that 
+community with those limited resources, and that is not an easy problem 
+to get your arms around. You can certainly limit yourself to Asheville, but 
+you can still optimize within that. Because charity is so hard, my advice for 
+all of you would be to stay very narrow, to say no a lot, and to not sprinkle 
+all over the place. I do not think that would work very well. 
+Interviewer 5: Hey Mohnish, I know you do not really like talking about your existing 
+stocks, so I am not going to ask you about that. Buffett has been selling 
+Bank of America, Apple, and the S&P at a pretty high PE ratio, and even 
+within that, it is being driven by massive macro trends like AI. I am curious 
+about your macro view in terms of valuation, opportunity, availability, and 
+the future for small-cap stock picking, I know sort of earlier in your career 
+you did more small cap. I know you do stuff in India. I am curious about 
+your thoughts on high-level macro and what you think is the future for 
+small-cap stock picking in the US domestic markets. Do you think that 
+because of ETFs, there is just less and less active management? What are 
+your thoughts on that? 
+Mohnish: I really enjoyed a recent letter by David Einhorn where he was talking 
+about how Buffett always says that he is not a market timer; he is never 
+focused on market timing. David made the point that he is the best 
+market-timer. He knows that there is no better market timer than Warren. 
+He closed the partnership in 69 and Charlie and everyone else took it on 
+the chin, but Warren did not. If you track the history of what Warren has 
+done, it turns out that he was very smart and impeccable, like, for 
+Pg. 9 of 10 
+example, his Gen repurchase with overvalued stock Berkshire stock. He 
+has been very smart about it. Berkshire probably may have some views 
+that things are a little frothy, but they may get a chance to put a hundred 
+billion or more into working on something. He commented that market 
+dislocation will happen. He said he does not know where it will happen 
+next year, but he thinks the odds in 10 years are high. From my point of 
+view, I am a stock picker, so I do not particularly care where the S&P is at, 
+because I am not buying the S&P and I am not buying the magnificent 
+seven, and so on. But, in a world with 50,000 stocks and all these 
+individual things going on to individual companies, there are always going 
+to be exceptional opportunities. If someone is willing to dig even in the 
+frothiest markets, there would be opportunities especially now we have 
+this kind of barbell-type market where a lot of it has been left behind and a 
+few things are kind of raging on. I do not find a lot of things, but I find 
+enough things to be invested in. We do not have too many buckets. If I 
+look at our billion or so under management, it is the weirdest allocation we 
+have; 70% or something is sitting in Turkey and another 20% or 25% is 
+sitting in coal. We are at 95% now, and then the 5% does not really matter. 
+It is not really relevant. Within Turkey, the 70% is in three stocks. That is the 
+allocation we have right now, and I would not want it any other way. 
+Scott: Let us take one last question. 
+Interviewer 6: Hello, and thank you for taking the time. I have a quick question. In The 
+Dhandho Investor, you had written that if you own a stock and after two or 
+three years it is not working, it is probably time to move on. I am curious if 
+you still feel that way broadly, and then more specifically how you might 
+think about something like a factor being out of fashion, which explains 
+why the stock is not working, even if the business is executing. 
+Mohnish: The good news about investing is that one can do really well, even with a 
+high error rate. The best of us will be wrong one out of three times in what 
+we think about something the company is going to do. Many of us would 
+be wrong half the time, or more than half the time. The stock could 
+flatline, it could decline, it does not get to where we think it is, where it 
+should be valued. There are many reasons for the error rate being as high 
+as it is. If you have invested in something and after three years is still 
+sitting where you invested or is lower than where you invested, there is a 
+decent probability that your assessment was wrong. It is not a hundred 
+percent probability, but you need to do a holistic analysis of what might be 
+going on. It may be still undervalued, or the market may take longer and so 
+on. That is fine, but a decent possibility at that point is that there may be 
+some factors that you may not be understanding that are affecting 
+intrinsic value. 
+Scott: Thank you so much for your time. I do not know what the social return will 
+be on this hour that you spent, but there is a fair amount of capital in the 
+room and minds and hopefully, you have influenced some of the thinking. 
+These ripples will be felt over time. We really appreciate it. Thank you. 
+Mohnish: Well, Scott, I want to say that I have a lot of respect for you and what you 
+do, and that is why when you cold approached me, it was a no-brainer for 
+me to participate. I really enjoyed the interaction, so thank you so much. 
+Scott: Great. I appreciate that. Thank you, Mohnish 
+Pg. 10 of 10 
+ 
+ 
+ 
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not 
+intended to be financial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not be 
+suitable for you, do not take into account your particular investment objectives, financial situation, or needs, and are not 
+intended to provide investment advice or recommendations appropriate for you. Before making any investment or trade, 
+consider whether it is suitable for you and consider seeking advice from your own financial or investment adviser. 
+ 
+ 
+ 

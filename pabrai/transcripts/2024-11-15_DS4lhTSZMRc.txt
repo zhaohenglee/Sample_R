@@ -1,0 +1,645 @@
+Pg. 1 of 13 
+Mohnish Pabrai's Guest Lecture with Microsoft on 
+November 15, 2024 
+ 
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not 
+intended to be financial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not be 
+suitable for you, do not take into account your particular investment objectives, financial situation, or needs, and are not 
+intended to provide investment advice or recommendations appropriate for you. Before making any investment or trade, 
+consider whether it is suitable for you and consider seeking advice from your own financial or investment adviser. 
+ 
+Gokul: Mohnish Pabrai has compounded his million into several hundred. He, 
+along with his friend Guy Spier, successfully bid $650,000 for a charity 
+lunch with Warren Buffett in 2007. Mohnish humbly describes it as an 
+overdue institution fee to his mentor. Mohnish has a long and strong 
+relationship with Charlie Munger, and we have witnessed the bond 
+between these gentlemen flourish over the years. As you will experience 
+shortly, Mohnish is a great teacher of value investment philosophy, and he 
+has authored two books; Mosaic and The Dhandho Investor, both of which 
+will be dropped in the chat for those who are interested. Mohnish also runs 
+a successful non-profit named Dakshana Foundation. Dakshana sponsors 
+kids from impoverished socioeconomic backgrounds and puts them 
+through a rigorous training program to get into top-tier technical and 
+medical schools by spending about $2,000 per student and taking 
+advantage of the subsidized college tuition from the Indian government at 
+these colleges. The life of the students and their families is transformed, 
+needless to say, the ROI that matches the low-risk high-reward mindset. 
+We also have many Dakshana scholars working here at Microsoft. We 
+would encourage them to come off mute on the camera when the Q&A is 
+live and say hello. With that, I'll pass on the floor to Mohnish. And for the 
+Q&A part, we have curated some questions. We can directly go to the 
+questions and then depending on who raises their hand, we can go back 
+and forth. Rahul and I will moderate the session. Welcome Mohnish.  
+Mohnish: Thank you so much. It is a pleasure and honor to be with this group. It is 
+wonderful. In my mid-twenties, I started an IT firm in Chicago. A few years 
+after it started, it became a Microsoft solution provider. In 1995, Bill Gates 
+visited Chicago, and they arranged a lunch for him with a few of the 
+solution providers in town. I was one of the yo-yos who joined him for 
+lunch and that was wonderful. We had a great time together and I 
+remember, I had asked Bill at that time about the durability of the 
+Microsoft franchise, and he was very skeptical. He said, “Look, the record 
+of great companies going into oblivion is almost a hundred percent. 
+Microsoft will one day go into oblivion, just like other great ones that have 
+come before them.” Bill is mostly right in that assessment, but so far 
+wrong about it with Microsoft. The interesting thing is he sold down his 
+stake over the years quite a bit. He diversified into things that have not 
+done as well as Microsoft would have done, but of course, it diversified his 
+and the foundation's net worth. On the other hand, our man, Mr. Ballmer 
+just all in, and ended up becoming one of the wealthiest guys. It was 
+interesting how one of them who's not the founder was much more bullish 
+for much longer. I look forward to your questions, and what you guys want 
+to talk about, and we will take it from there. 
+Pg. 2 of 13 
+Gokul: Thank you, Mohnish. We will start with the questions. Francisco, go ahead 
+with your first question. 
+Francisco: Thank you so much for your time. My question is AI in large language 
+models is transforming industries from automation to R&D with significant 
+economic implications. Given your expertise in identifying transformative 
+trends, how do you see the AI and large language model landscape 
+evolving in the coming years? Are there specific areas within AI that you 
+believe hold inuring value and potential as long-term investments? 
+Mohnish: You are asking the wrong person. This is mostly outside my circle of 
+competence. You are probably better situated to answer the question than 
+I am. From everything I see around me, it is very embryonic at this point, 
+and it has a lot of implications, many of which we do not understand, and 
+many of which are negative. We have to see how it unfolds. So far, I have 
+not seen much change in the way I spend my time or run my affairs. It will 
+probably go through change on that front too. I am generally a person who 
+is more set in my ways than others, probably a negative. We will see how it 
+plays out. 
+Francisco: Thank you. 
+Gokul: Thanks, Francisco. Nicole, you can go next. Nicole Dolack. 
+Nicole: Hi Mohnish. Thanks so much for being here today. We really appreciate it. 
+When I think about your style of investing along with Warren Buffett, it is 
+very aligned with value investing. When we think of value funds, those 
+overweight in financials, utilities, and industrials, they have 
+underperformed growth funds since the 2008 crisis. Growth has led the 
+way for outperformance, particularly in tech. When we think of the S&P 
+500, over 25% of the weight is in the top five tech companies. We have 
+Nvidia, Apple, Microsoft, Amazon, and Meta. Do you see any upcoming 
+catalyst to flip in favor of value investing and have the dominant growth 
+stocks changed your investment style or perspective? 
+Mohnish: Well, Nicole, that is a great question. Value and growth are joined at the 
+hip. They are two sides of the same coin. All intelligent investing is value 
+investing, and it does not really matter if a company is going to grow, 
+shrink, or stay the same in the future. All three of those types of businesses 
+can fall into the tent of value investing. All value investing is looking at the 
+sum of future cash flows that a business is likely to deliver from now till 
+judgment day, a discounted to present value by a reasonable interest rate. 
+Then, we compare that to the price that is being offered. At one price, 
+Nvidia could be a value investment, and at another price, it could be a 
+speculative investment. The same applies to Microsoft, Berkshire 
+Hathaway, and a zillion other companies. When Buffett invested in Apple, 
+for example, he was not “buying” something with low growth and value. 
+He looked at the future cash flows versus what he was paying for it, and 
+the equation made sense to him. That is the equation we are focused on.  
+ESOP says, “A bird in hand is worth two in the bush.” He says the question 
+to ask is, “How likely are there two birds in the bush and how long is it 
+going to take you to get those two birds when you give the one bird?” That 
+is what investing is all about. I will illustrate the point a little further; the 
+difficulties we run into in value investing. The definition of investing in 
+value investing is painfully simple: The sum of future cash flows 
+Pg. 3 of 13 
+discounted back. The difficulty we run into is even in the simplest of 
+businesses, estimating those future cash flows is relatively difficult to do. It 
+becomes more and more difficult the further out in years that I go. Rahul 
+gave a big disclaimer about no insider information to be disclosed, but if I 
+were to ask this audience, a very simple question: Your insiders at 
+Microsoft, just tell me the next 10 years of cash flow. Give me the next 10 
+years of cash flow with an 80% or higher probability. If you can do that, if 
+you could give me those 10 years in cash flows, the 80% or higher 
+probability, and you guys are insiders. You guys are well-positioned to give 
+me that number. Rahul might break out in hives if you give me that 
+number, but that is okay, we do not care much about that. I could then 
+discount to present value. That would be relatively simple exercise to 
+discount that to present value. However, I suspect that even Satya could 
+not give me that number, or even Bill could not give me that number 
+because they do not know and because it is a range, and that range could 
+be pretty wide. Investing becomes more and more speculative. Away from 
+what we would call intelligent investing, the less convictions and 
+confidence in those future cash flows.  
+My response to that, and everyone has a different response, someone like 
+Nick Sleep some of you might have heard of, has a very different response 
+to future uncertainties. My response to that is to try to take away those 
+uncertainties as much as I can.  
+To give you a real-world example, in 2004, I ran into a steel company 
+based in Canada called IPSCO. These guys made tubular steel kind of stuff 
+that goes into pipelines and oil rigs. IPSCO was a stock that was trading at 
+around $40 a share. They had issued guidance, which said that in each of 
+the next two years, their cash flows would be $15 a share. IPSCO had no 
+debt, and they had $15 a share on their balance sheet. In this case, there 
+was very low uncertainty about the next two years of cash flows, because 
+the company is pretty much black and white telling you. They were not 
+coming up with these numbers out of thin air. They had long-term 
+contracts with these pipelines to deliver steel in certain quantities and 
+timeframes to them. These were hard purchase orders with specific 
+timeframes for delivery. It was not them making some sales forecast. The 
+sales were already done; these were in the bag. The certainty around those 
+cash flows was extremely high. The way I looked at it is IPSCO had 15 in 
+cash, and another 30 in cash coming in two years. That is 45 in cash. The 
+stock is at 40. There are billions of dollars plus of value in the plant, 
+equipment, and inventory, which are free, and not accounted for at all. 
+What is the intrinsic value of IPSCO? Well, we do not know because we do 
+not know what year three, year four, year five, etc., are, but my take on 
+that was that it is unlikely that the intrinsic value of IPSCO is below the 
+current stock price. Quite likely, it was significantly above the current 
+stock price just because of the economics of the $45 you were going to 
+get in two years versus the $40 stock price. I put 10% of my fund into 
+IPSCO just with that much certainty that year three cash flows could go to 
+zero, and cash flows could even go negative. It is a steel company. It is 
+cyclical. But, I just wanted to see how Mr. Market prices this thing in two 
+years when there is $45 a share of cash in the balance sheet. One year goes 
+by and IPSCO announces another $15 share in cash flows in year three. 
+Hallelujah! We are in the money now. Now it is $60 coming in. The price of 
+Pg. 4 of 13 
+the stock had kind of drifted up and it was now trading at about $90 a 
+share. I had held the stock for 14 or 15 months, and I was thinking, 
+“Mohnish, you do not know what is going to happen in year four.”  
+We have a double in 15 months. This is even better than what Microsoft 
+does. Microsoft does not give me a double in one year. Usually, it does in 
+some years, but not every year. I thought, “Let us ring the register and 
+move on.” As I was thinking through those thoughts, I woke up one 
+morning and the stocks were at 155 and some Swedish steel company 
+offered to buy them for 160. Why that steel company did not make that 
+offer a year ago at $60 a share, for example, is beyond me. But, as Mark 
+Twain says, “That truth is stranger than fiction because fiction has to make 
+sense.” We had like forex in IPSCO in 15, 16 months and we moved on. I do 
+not particularly try to put a company like IPSCO into a growth bucket, a 
+value bucket, or any bucket. It is just weighing what I am putting out in 
+cash today versus what I am hoping to get in cash in the future. The way I 
+look at it is that I am looking for as much certainty as possible in those 
+cash flows. The more I go into the high-flying tech names, which many of 
+you may have overdosed on, the more difficult it gets for me to estimate 
+those cash flows in the future.  
+Five and a half years ago, on my second visit to Turkey, I visited a company 
+called Reysas. They are in the warehousing business. They rent 
+warehouses to Amazon, Carrefour, Ikea, Toyota, Mercedes, and so on. 
+They are the largest warehouse operator in Turkey. The market cap on the 
+day I visited them was $16 million. The liquidation value on the day I visited 
+them was more than $600 million. It was trading at 2.5% of liquidation 
+value, a 97.5% discount on what it should be worth. In other words, if it 
+went to its liquidation value, it would be a 40x return. In that case, the 
+future cash flows were relatively easy to assert, because they have 10-year 
+leases, inflation index, etc. It is rental income. You can at least 
+conservatively tell what the rent is going to be. I thought this would trade 
+by appointment and Turkey is a country filled with gamblers who are 
+trading these shares at a very high velocity. Anyway, we spent $8 million, 
+and we got one-third of the company. Yesterday, the company crossed a 
+billion dollars in market value for the first time. The Turkish lira in the last 
+five and a half years has lost around 80% of its value. It was irrelevant 
+because steel, concrete, and land are effectively inflation index, we did not 
+care. Our return in Turkish lira is infinite, but we do not care about that. 
+Our return in dollars is more than acceptable, but the company's 
+liquidation value now is north of 2 billion. We do not care whether Reysas 
+is growth or value, it does happen to be, from the way you guys might 
+think about it, somewhat of a growth company. The very good, very gifted 
+capital allocators are increasing the value of the business; I have not seen 
+them do anything stupid. They have increased the value by two and a half 
+times in the last five years. I consider Reysas like a family business.  I am 
+not a founder, I do not have a board seat, I do not tell them what to do. I 
+would not even know what to tell them to do. We just want to be a passive 
+investor in that business. In 5 or 10 years, it might be worth 5 or 10 billion. 
+We just want to sit there and be an owner like Mr. Ballmer and that is it.   
+Gokul: Thanks. Nick, do you want to go next? 
+Pg. 5 of 13 
+Nick: Hi, Mohnish, this is a “pinch me, I am dreaming” moment. It is a great 
+honor to meet you on the best Teams call I have had at Microsoft so far. 
+Given the size of your portfolio, I would assume that there is a minimum 
+size of a company that you are willing to take a position in just because 
+you have to take a minimum position size. If that is a true statement if you 
+were to start from scratch and be kind of a small-time investor again, 
+would you spend more time hunting for deals in smaller micro-cap 
+companies just because there are more inefficiencies? Then just more 
+generally, you talk about how you love Turkey investing. Are there other 
+asymmetries that small-time investors like us can be utilizing just because 
+larger, more institutional investors just cannot go after or hunt in certain 
+places? 
+Mohnish: That is a great question, Nick. Actually, Joel Greenblatt observed that if 
+someone was starting with a $100,000 to invest, or a million dollars to 
+invest, or $10,000 to invest, they could look in all kinds of nook and 
+crannies that most other people could not; merger arbitrage, junk bonds, 
+just different places you can go to some crevices that a lot of other people 
+cannot go into simply because you could not put much capital to work. If 
+you started with a million dollars and you were good at what you were 
+doing, you would not be sitting at the million dollars after 5 or 10 years; it 
+might be several million dollars. As you increase the capital under 
+management, your ability to keep focused on those nooks and crannies 
+changes, because you cannot be making $100,000 bets on a 10, $20 
+million portfolio; you can do it on a $1 million portfolio. Therefore, you 
+would naturally move up. You might start off looking at things where you 
+could put a hundred thousand to work and after a few years, you might be 
+looking at things where you might put a million dollars to work, which 
+means that that hundred thousand space has vacuum now.  
+Investing has an interesting phenomenon where the lower-end spaces 
+continue to become new tile hunting grounds, for new entrants because 
+the incumbent players have moved on. The successful ones have moved 
+on; the unsuccessful ones we do not care about. It is almost an evergreen 
+business from that point of view. It is also a business where the little guy 
+has an advantage over the big guy. The little guy can go to all kinds of 
+places. When Berkshire and Buffett made their bet on the Japanese 
+conglomerates, the trading company was Mickey Mouse for Warren 
+Buffett. It took him a year to put the money to work and he did it just for 
+the hell of it, but did not move the needle much for Berkshire Hathaway, 
+but for somebody else that could move the needle a lot. They could deliver 
+some spectacular returns on a portfolio, even a sizable portfolio by doing 
+that. The bottom line is that yes, you can absolutely do well by looking at 
+nooks and crannies, and there are always nooks and crannies to look at. I 
+did not have any particular affinity toward Turkey. I just saw that in 2018 it 
+was screening cheap. It was screening super cheap because the currency 
+was on the table and everyone was exiting. I happened to have a friend in 
+Turkey who is kind of a classic Ben Graham-type investor. I told him, 
+“Listen, I would like to visit Turkey and I just want to visit the companies in 
+your portfolio, starting with the one that you have the most money in and 
+going down the list. Do not take me to any business where you do not 
+have money invested.” He was very excited to do that, and here we are 
+Pg. 6 of 13 
+with 70% of my assets in Turkey, and there was no plan to be there 5 years 
+or 6 years ago. That is the nature of it. 
+Gokul: Joel, do you want to go with your question, please? 
+Joel: Hi, Mohnish, thanks for making the time. I kind of have two questions. The 
+first one is, was investment always kind of a passion of yours even at a 
+young age, or was there like a turning point where you decided that this is 
+kind of what I am going to do as a living? My second question is, was there 
+a turning point where you decided to adopt, essentially value investing as 
+your philosophy? I am curious how all that kind of came together. 
+Mohnish: Those are great questions and no, investing was not something I had an 
+interest in until I was north of around 30 years old. I grew up with an 
+entrepreneurial father who had started many different businesses. I 
+started my own company when I was about 25, and I accidentally read or 
+learned or heard about Warren Buffett just as I was turning 30. One of the 
+big “aha” moments I had when I was reading up on Buffett was that I 
+realized that as an entrepreneur when we start a business, we may spend 
+maybe 2, 3, or 4% of our time figuring out the strategy and direction of the 
+company. What we are going to do and how are we going to get sales and 
+pricing and HR and all these things? Then 95 to 97% of the time is all the 
+blocking and tackling to make it happen, to execute. When I read about 
+Buffett and his approach, I saw a great quote from him. He said, “I am a 
+better investor because I am a businessman and I am a better 
+businessman because I am an investor.” What I realized is that 3 or 4% of 
+the time that entrepreneurs spend in figuring out a direction for their 
+businesses is using the same part of the brain and the same brain cells that 
+an investor will use to figure out which business to invest in. Both those 
+activities actually go and leverage the same part of our brains.  
+I always enjoyed that 3-4% of direction and strategy a lot more than the 
+blocking and tackling. The blocking and tackling were fine the first or 
+second time I did it, but the strategy direction was always evergreen, I 
+always loved that. I thought, “Well, if I am an investor, I do not need to do 
+the blocking and tackling.” What a utopian existence to only think and try 
+to figure out which businesses have got their strategies right, and then, go 
+into business with them effectively and just be a passive investor and such 
+and compound capital. To me, that was a big takeaway when I heard 
+about Warren Buffett, and I decided I was going to make a change to go in 
+that direction.  
+One of the important things to keep in mind is that when you encounter a 
+simple idea take that idea very, very seriously. For example, if you look at 
+someone like Sam Walton, who we think of as an icon in retailing, Sam and 
+Walmart never came up with any innovation in retailing for at least the first 
+25 years of their existence. Every single aspect of Walmart was cloned 
+from somewhere else. It was not some innovation Sam Walton came up 
+with. Sam's Club was cloned from Costco, the Walmart model was cloned 
+from Kmart, and on and on, and he took so many things from so many 
+competitors. If you look at the business of Microsoft, for example, big R&D 
+organization, big research group, most of the success of Microsoft has 
+come from external cloning; Word from Word Perfect and Excel for Lotus, 
+and we know all the browser wars and all of that. If you just go back and 
+even when you look at the current AI push and where the genesis of that 
+Pg. 7 of 13 
+push came from, a lot of it has come from outside the company. The 
+company has spent billions internally on incredible brain power and 
+incredible research. But the external stuff that they have just lifted has 
+been far more effective and that is like things. We rise by standing on the 
+shoulders of giants. I am grateful to Mr. Buffett for opening my eyes about 
+that shift. I have never missed in more than 25 years the execution part.  I 
+leave the execution part of building businesses to many other great people 
+who can do it far better than me. In the meantime, I can be an armchair 
+investor and life is great. 
+Joel: Thank you. 
+Gokul: Raj, you want to go for it? 
+Raj: Thanks, Mohnish, for a really informative session here. My question is, you 
+have mentioned Mr. Buffett in terms of his investment style, apart from 
+the recent news that he is investing in Domino's Pizza of all companies, 
+previously there was news that Berkshire Hathaway has cash reserves of 
+upwards of 300 billion and I think even after Domino's investment is 
+probably something similar to that. Do you think this is a take on the value 
+maybe not easy to find value in the market, or maybe the market might be 
+overvalued where you have to pick and choose where you put your 
+money? I wonder if it is overvalued and maybe it is due for corrections. 
+How do you look at it? It is hard to time the market, but in general, what 
+does that tell you that he has so much cash reserve? 
+Mohnish: That is a great question. First, Domino's was probably not Warren Buffett. 
+It was probably one of his two lieutenants. Anything less than a 10 billion, 
+$20 billion investment is not Warren, probably.  
+Raj: Oh, I see.  
+Mohnish: I have no inside information, but if I take a guess, it is Todd/Ted. I want to 
+tell you about a visit I made to Microsoft headquarters in early 2000. This 
+was about January 2000. There was a very early employee at Microsoft, 
+Vijay Vashee, some of you may have heard of him. A wonderful guy. Vijay 
+was a very early investor in my fund, and he said, “Look, Mohnish if you are 
+ever in Seattle, I can introduce you to a bunch of current and former 
+Microsoft people who may be interested in investing in your fund.” I said, 
+“Vijay, what a coincidence, I am going to be in Seattle in two days.” He 
+said, “Oh, that is great.” I met Vijay, we went to Microsoft headquarters, 
+and he took me to a bunch of different offices and introduced me to a 
+bunch of people at Microsoft, including Satya. He had a head full of hair at 
+that time. I also met a bunch of wonderful people who some of you guys 
+might know like Soma. I met some great people on that trip. I told the 
+Microsoft people and the ex-Microsoft people I met at that time, “When 
+you are in Microsoft at this time, your livelihood comes from Microsoft. 
+Most of your net worth excluding your residents is in Microsoft stock. It is a 
+terrible investment, and it is going to play out badly for you.” They told me, 
+“Mohnish, you are a value guy, you do not understand these things, you do 
+not understand tech, you have no idea about this company. This is one of 
+the best businesses that has ever been put forward on the face of Earth.” I 
+said, “Yes, but you are going to have a horrible ride.” Of course, they all 
+thought I was stupid, and they did not do anything. If you look at Microsoft 
+stock performance from 2000 to about 2012, it was a terrible ride. At one 
+Pg. 8 of 13 
+point you lost like 60, 70%, unrealized loss, hopefully, if they didn't sell, but 
+it would have been a very difficult ride to hold on. It was not because they 
+were wrong about the prospects of the business. They were right. 
+Microsoft was a great company then, and it is a great company today. The 
+S&P 500 is not just me, a lot of people say in the next 10 or 15 years, if you 
+expect that you are going to get more than 3 to 5% a year from the S&P 
+500, I would like to take the other side of the bet on that with you. The 
+odds that the S&P delivers over 5% return a year for the next 10 or 15 years, 
+is approximately zero. This is why I was asking and saying at the beginning 
+that, the magnificent five or the magnificent seven, tell me those cash 
+flows. Just run and exercise on your own. Look at the value of the 
+businesses. If Nvidia is valued at three or three and a half trillion, the cash 
+flow needs to be in the range of two or three or 400 billion in a relatively 
+short period, because as I go further out in the years then I have to 
+discount it.  
+When is Nvidia going to deliver a single year 500 billion, 700 billion cash 
+flow? Let us say I have a family fortune of 10 trillion, and I buy the whole of 
+Nvidia three and a half trillion. If I am putting out three and a half trillion, I 
+want 7, or 8 trillion out of it. I want to double my money in a few years. 
+How am I going to get 7, 8 trillion? The only way I get 7, 8 trillion is 
+somehow there is that much in cash flows that come in the next 15, 20 
+years, and show me where a discounted back, which means the cash flows 
+need to be like 15 trillion or something. To get my 7 trillion.  
+ I need 15 trillion in cash flow. Show me how they are coming and which 
+year, what cash flows are coming. The math on that is hard. To me, it just 
+goes into a too-hard pile. Warren Buffett increasing his cash position, he 
+has publicly stated that he thinks that the corporate tax rates are at a 
+record low rate right now. One of the reasons he has given for reducing 
+the stakes is to realize the gain while tax rates are low. He clearly 
+understands that this 3 to 5% is not lost on him. Between us, it is not going 
+to be 5%, it is going to be less than 3%. Warren kicks himself for not being 
+aggressive enough during the financial crisis. He has also said the fact that 
+we will have a dislocation in the market in the next hundred years is a 
+hundred percent. The odds that we have a significant dislocation in the 
+market in the next 10 years are quite high. Not a hundred percent, but 
+quite high. The one dislocation that is possible for Berkshire to have is 
+when Warren passes away. They stopped buying the stock, and they are 
+not even buying their own stock now, because they think it is too richly 
+priced. It would not be imprudent to read into Buffett's large cash position 
+that the future is not that great for a lot of the highflyers and even other 
+flyers in the S&P. Many of you have a lot of money in Microsoft. The world 
+of the company. It is a fantastic business. If I owned Microsoft today, I 
+would be more bullish on it than I was in 2000. I would not want to sell. I 
+do not like to sell things that are great, which is what I was asking people 
+in 2000, but in 2000 there was just egregious. It was just 10 billion or less 
+in cash flows on a 600, 700 billion market cap. It was a trailing PE of 70 or 
+something. Satya is fantastic, and the team is fantastic, but I would say 
+that probably having at least half your asset outside Microsoft is not the 
+worst thing in the world you could do. 
+Gokul: Ananda, please go for it. 
+Pg. 9 of 13 
+Ananda: Hello, Mohnish. I am very honored to be interacting with you. Thanks for all 
+the education and wisdom you share. I follow your content online. I am 
+going to set up the context for my question and then I will ask my 
+question. In value investing, as you go through the rabbit hole like you 
+described, and peel the layers, the why, why, and why, eventually you get 
+to a state of why money, what is life, you get more philosophical. My 
+question is more philosophical than investing. You and your mentors, both 
+Buffett and Munger have quite a bit of mental models. One such mental 
+model is the moat of a business. How do we think about business 
+protecting itself? My question is what are the personal moats that one 
+needs to develop? Do you have a mental model for that? The context is, 
+that in the tech industry and life in general, you have various curve balls 
+thrown at you, but is there a mental model that you or your mentors 
+follow?  I see you guys as very happy guys and very calm and collected. 
+What kind of mental models are there that one can follow to develop a 
+personal moat? That is my question. 
+Mohnish: That is a fantastic question. If you have not read Poor Charlie’s Almanac , I 
+would say that is a great book to read. I try to reread it every year. There is 
+a new edition that just came out and the last speech in that book is The 
+Psychology of Human Misjudgment,  which is a long speech. That talk is 
+better than a four-year college degree.  You will learn more and it teaches 
+you about human nature and all that. Munger always said that it should be 
+our duty to go to bed, slightly wiser than when we woke up. He also said 
+that he did not know any wise people, zero, who did not read all the time. I 
+would encourage reading. Reading is a great way to broaden your 
+horizons. Now we have podcasts that make it even faster and easier for us 
+to ingest knowledge. The most important thing is to figure out what you 
+are passionate about. It is not an easy question, but once you know what 
+you are passionate about, you go all in on that, you try to learn it and 
+become good at it. It is difficult to be great at something if you are not 
+passionate about it. There is a free version of Poor Charlie’s Almanac , 
+which is the digital version. They specifically made it free for the digital 
+version. Not that you guys have any affordability issues, but the best 
+things in life are free. Figure out what you are truly passionate about. It 
+may or may not have anything to do with what you do for a living, but you 
+should be driving everything toward that passion. You should try to figure 
+things out and become better. Kind of like your boss Bill Gates did, or 
+Satya did. They just went all in at the age of 10 or 11 or whatever. Of course, 
+Satya was all in on cricket, but then he kind of switched things a little bit 
+later. That is what I would say. That is how you build a moat. All of us are 
+different. We have different likes and different things that we are 
+passionate about. Find your passion, go all in on it, and try to become 
+wiser every day. Charlie said, “If you follow this formula, you are going to 
+wake up after 20 years and you are going to look to your right and look to 
+your left and all your peers are so far behind you, you cannot even see 
+them. You have left them in the dust. Steady daily progress gets you to 
+amazing places. 
+Gokul: Abhishek, do you want to go for it?  
+Abhishek: Hello Mohnish, I am Abhishek. I am a Dakshana scholar. I met you in 
+Kottayam in 2015, December. Thanks for Dakshana, I am currently working 
+at Microsoft, living in Redmond. My question is not about investing. I 
+Pg. 10 of 13 
+wanted to ask you more about philanthropy. What made you start the 
+Dakshana Foundation? I heard multiple stories, and they all are different. I 
+wanted to hear from you, what made you go into philanthropy? Why did 
+you start the Dakshana Foundation? 
+Mohnish: Well, Abhishek great to have a chance to talk to you. I always like to 
+interact with alums and this year when I was at the Berkshire meeting, a 
+Dakshana alum came up to me in Omaha and I never expected those two 
+worlds to collide. It was just great to see that collision of Omaha with a 
+Dakshana scholar who was there. That was wonderful. I like to play games. 
+I like to play mathematical games. If you get to the essence of who I am, I 
+am a game player. Some psychologists who got into my head tried to 
+figure out who I was, they fine-tuned it a little bit more for me. They said, 
+“Mohnish, it is not that you just like to play games or like play 
+mathematical games, you like to play games that you have some edge that 
+you can win. You are a single-player game player.” I am not a guy who will 
+enjoy being on a soccer team. That is not Mohnish. Soccer is a great game, 
+but it is not my game. It needs to be a single-player game for me. That is 
+the weird way I am wired.  
+I am playing two games, and I am so sorry to break it to you, Abhishek, 
+that you were a part of that game without knowing about it. But now we 
+are going to spill the beans and let you know about what is going on in life 
+here. I find it fun to play two games. The first game is the game of 
+compounding. The game of compounding that I learned from Mr. Buffett 
+was that if you start with a million dollars, and if you are able to compound 
+at a high rate, let us say something like 25, 26% a year, the money doubles 
+every three years. In 30 years, it becomes a billion dollars, which is a 
+stunning number from a million to a billion. I started playing a game of 
+compounding exactly 30 years ago and it worked spectacularly well, it is 
+amazing. Now, the thing is that spending money does not directly 
+correlate to happiness. It may, and it will probably give you some 
+happiness up to a certain point. Many things that give you happiness have 
+nothing to do with money, but certainly, beyond a certain point, money 
+cannot make you happier. The second game I wanted to play was because 
+I knew that it was all useless. We have a guy who has a billion dollars and a 
+guy who has 50 million. You cannot say B or A is happier than the other. 
+The correlations go away. The second game I wanted to play, which is 
+taking it from Chuck Feeney and Buffett, is one day before I die, I want to 
+be left with 10,000 bucks. I want to play this compounding game full on, 
+pedal to the metal, like find the next Razors, blast out a hundred Xs, and 
+do all of that. But on the other hand, blast the money out. One of the 
+things is that one day before I die, I have to be at 10,000. Very important in 
+this game is to know exactly when I am going to die so that I can plan 
+backward and my day as much as I can. I just need this much of my body 
+to function, the rest of it is irrelevant. Just this much needs to function. 
+Hopefully this much will keep functioning with full cognition. We are going 
+to try to compound the hell out of the money. We are going to try to give 
+the money away, and we are going to try to get to the 10,000. Just two 
+games are going on, and it is just a math game. People say, “Oh, Dakshana 
+is this, and Dakshana is that.” Dakshana is, please understand, just a star, 
+star, star math game. That is all it is, so sorry to disappoint you. 
+Abhishek: Oh, no, good. Thank you. 
+Pg. 11 of 13 
+Gokul: Samir, do you want to go for it? 
+Samir: Hi Mohnish, I have been following you ever since you bought that bet to 
+have dinner with Buffett, and I learned a lot from you. My question to you 
+is, you said you need to have a passion, and that money does not bring 
+happiness beyond a certain point. But let us say once somebody's closer to 
+that, and you took some risks, you earn some big money for your 
+retirement, but the good thing about engineering is you envision 
+something and then you can feel there is always something new 
+happening now. Whereas investing is all about numbers on the 
+spreadsheet. What keeps you going? Now maybe you have so much 
+money. You are adding more, but it is all paper money on Excel. What 
+keeps you in this field when you accumulate so much wealth already? 
+Mohnish: That is a great question, Samir. Warren Buffett and Bill Gates are very good 
+friends. They have been very good friends for a long time. Bill Gates' 
+mother introduced the two of them. I do not know if you are familiar with 
+the story, but there was a gathering that Gates' mom had put together, 
+which was an hour-long helicopter ride from Seattle. She told Bill, “I want 
+you to come for this gathering.” This was the early nineties or something, 
+and Bill was very busy banging on Microsoft. He was not even taking any 
+vacations and all that. He has no interest in going to the stupid gathering 
+of people. She told him Warren Buffett was coming, and he said, “Yeah, I 
+do not have time.” He was not interested in even meeting Buffett because 
+of exactly what you described, some guy who just pokes around in 
+numbers. She told him that Catherine Graham was coming, who was the 
+CEO of the Washington Post, but he was not interested. So finally, the 
+mom used her veto power. She said, “Bill, you are going to come here. 
+Period. You do not have a choice on the matter. I am ordering you to come 
+here.” He takes the helicopter very reluctantly from Microsoft, goes to this 
+place in the middle of nowhere in the state of Washington, and wants to 
+be there for 45 minutes to satisfy the mom, and then the helicopter back. 
+He starts talking to Warren Buffett, and 10 hours later they are still talking. 
+He realized that this is not a guy about numbers. Warren asked him 
+questions about IBM and Microsoft. All his life, Bill had waited for 
+somebody to ask him those questions. Nobody ever asked him those 
+questions. What I find is that for me particularly, and for each person it is 
+different. It is not so much the numbers and things. I am very excited 
+about the study of businesses. It is almost an infinite pursuit. Trying to 
+figure out how things work, why they work a certain way, and why they go 
+and different entrepreneurs who build different businesses. I would rather 
+do that and figure those things out than put my energies into building a 
+business or on some engineering problem and I used to spend my time on 
+engineering problems. Each one of us is different. What Bill found with 
+Warren was that he was kind of at the top of his art, top of the way he was 
+doing things. He had an understanding. He never invested in Microsoft, but 
+he understood IBM and an understanding of Microsoft, which went well 
+beyond people who had spent their entire lives in technology. That is what 
+drew him in. That is the way it is. Passions are different for different people 
+and if it is an engineering problem that excites you, then that is where you 
+should spend your time. 
+Gokul: Archana, do you want to go for your question?  
+Pg. 12 of 13 
+Archana: Hey, Mohnish. Thank you so much for coming. I do not know if you 
+recognize the face, but I was a Dakshana scholar between 13 to 15 in 
+Bangalore Urban. 
+Mohnish: I recognize the face. 
+Archana: Thank you so much. It is good to know that it is a game for you and this 
+game is uplifting so many lives, changing so many lives, and influencing so 
+many people. So, keep playing the game.  
+Mohnish: I’ll do that. 
+Archana: My question to you is what were some basic principles or foundations that 
+you keep recalling from your childhood or from your upbringing or the 
+lessons that you learned from your entrepreneur father that keep you 
+going and make you a successful investor? 
+Mohnish: The interesting thing is that some very basic principles in life will take you 
+far. The important thing is to go all in on these principles. You cannot be 
+kind of halfway about it. For example, it is a huge advantage in life to be 
+trusted. If people can trust you, the world does not run on contracts, it 
+runs on trust. How do you get trust? Well, the only way you can get trust is 
+by demonstrating exemplary behavior. Not by telling people, “Hey, listen, I 
+am a good guy, please trust me.” It is a track record. The entire history of 
+how you conduct your affairs over time is going to accumulate and give 
+you the degree of trust that people are willing to put in you.  
+Trust is an important thing. Munger talks about reliability and being 
+reliable. Like he says, McDonald's does better in the world than Harvard 
+Business School, because McDonald's teaches very young people the 
+importance of being reliable. You have to show up at work and on time. 
+When a 16 or 17-year-old has that inculcated into them, it is a big 
+advantage in life. It is these basic principles; reliability, trust, and being 
+hardworking. One of the things I learned from Charlie is, that whenever he 
+has an appointment to meet someone, he is always early. He makes a 
+point to always be early. If I am going to meet somebody at a coffee shop 
+at 11:30 in the morning, I will be there at 11:15. I will plan it so that I am there 
+15 minutes earlier. Before I heard this from Charlie, I would plan to be there 
+at 11:29, but I do it a little bit differently now. I thought, “Okay, this is a 
+good idea. I can easily adopt this idea.” It is a good thing because it is 
+unlikely that you are going to be late, and that is a good advantage. These 
+basic principles, honesty, truthfulness, reliability, and hard work will carry 
+you a long way.  
+I remember when I visited Microsoft in 2000, I met Somasegar. When I 
+visited in 2000, I estimated Soma was incredibly wealthy at that point. It 
+would have been worth tens of billions of dollars, if not more. I noticed 
+Soma's shoes when I visited, and the heels of his shoes were very unevenly 
+worn out. He should have stopped wearing those shoes years ago. They 
+should have been discarded. It probably never occurred to a guy like Soma 
+that his shoes were so pathetic and he should give these up. If you saw 
+Soma walking on the street, you would walk past him and not look at him 
+twice. You might even think this guy needs some financial help. I 
+remember when I was talking to Soma, I said, “Soma, you rose all the way 
+to the top.” (I did not tell him that you rose all the way to the top of 
+Pg. 13 of 13 
+Microsoft, probably not because of your shoes.  Whoever promoted you 
+did not look at your shoes. I am looking at your shoes).  I said, “What got 
+you to the top of Microsoft?” His answer to me was, “If I am a janitor, and I 
+have been given the job to clean a particular bathroom at the airport, that 
+is my task, keep a bathroom at the airport clean. I will make sure it is the 
+cleanest bathroom at the airport. I will make sure it is the best possible 
+bathroom it can be. Anytime I am given any job, it does not matter 
+whether I like that job, or I do not like that job or whatever, I am going to 
+go all in and do the best job I can.” Anyone who has that principle is going 
+to go straight to the top. What a great principle. That is what life is, these 
+are very basic principles, you follow them, and you are all set. 
+Archana: Great. Thank you so much. You put it in such simple terms, but I am sure it 
+is not so easy. 
+Mohnish: Thank you.  
+Rahul: Mr. Pabrai, on behalf of all of us here, I would like to extend our deepest 
+gratitude for joining us today. Your stories, strategies, and reflections have 
+not only deepened our understanding of value investing but also have 
+inspired us to think differently, and more critically about the decisions we 
+make in our lives and investing. Thank you again for making the event so 
+meaningful and for leaving us with so much to reflect upon and act upon. 
+We hope to welcome you back in the future and wish you continued 
+success. Thank you very much.  
+Mohnish: Thank you. I had a great time and thanks so much for having me. It was 
+wonderful to have some of the alums of Dakshana on this call as well. 
+Thank you. 
+ 
+ 
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not 
+intended to be financial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not be 
+suitable for you, do not take into account your particular investment objectives, financial situation, or needs, and are not 
+intended to provide investment advice or recommendations appropriate for you. Before making any investment or trade, 
+consider whether it is suitable for you and consider seeking advice from your own financial or investment adviser. 
+ 
+ 

@@ -1,0 +1,599 @@
+Pg. 1 of 12 
+Mohnish Pabrai's Session at the SumZero Virtual Investor 
+Summit 2024 on February 8, 2024 
+ 
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not 
+intended to be financial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not be 
+suitable for you, do not take into account your particular investment objectives, financial situation, or needs, and are not intended 
+to provide investment advice or recommendations appropriate for you. Before making any investment or trade, consider whether 
+it is suitable for you and consider seeking advice from your own financial or investment adviser. 
+ 
+Divya: Mohnish, welcome back. 
+Mohnish: Hello, Divya. How is it going? 
+Divya: Good. I noticed your background is the new library. I am very excited that 
+you can use it for this interview. 
+Mohnish: Alright. We aim to please. 
+Divya: That is great. Are those Warren Buffett and Charlie Munger behind you? 
+Mohnish: Yes, Warren and Charlie are watching. We had the same bust maker make 
+both the busts and I sent one of those to Warren. He was so excited to have 
+his bust at the Berkshire headquarters. 
+Divya: It has been a while since we last chatted. It is funny, the last time we talked, 
+we had discussed among other things, Meta. At the time, it had crashed 
+from 380 down to 220 or something and now down to $90. You had said 
+that it would be an easy double from current levels, which at the time was 
+like $200. Lo and behold, it has doubled since then. But I would not say it 
+was an easy double. 
+Mohnish: Well, Mark did a great 360, 180, where he tightened up the expenses. Meta 
+has a great franchise and a great platform. They had a kind of country club 
+attitude to spending, and there was not that much discipline around. When 
+you have a great business like that, you do not necessarily need to watch 
+your pennies. It is amazing how they turned on a dime and tightened up all 
+the expenditures and the layoffs and got the ship pointed in the right 
+direction. Then you had the cash flows just show up. It was awesome to see 
+that. 
+Divya: Yes. I have written numerous times that they are the fastest pivoting 
+company I have ever seen. I cannot think of a single business that has 
+pivoted as quickly at anywhere near this scale as often as Meta has. I 
+remember in the depths of the bad news when the stock was at $88 a share, 
+The Wall Street Journal put out a headline stating that they were going to 
+reduce their employee base and fire around 11,000 people at the time. As 
+soon as that happened, the stock started moving. That day might have been 
+up 8% or so. But, it took a while for people to realize that they were not just 
+paying lip service to cost cutting, but that there was a fundamental change 
+in terms of just the company being permanently leaner and a complete 
+change in the philosophy of Mark in terms of what was possible with a 
+smaller team. Over the last two years, he has said numerous times that he 
+just feels like leaner and meaner and that his team is better. That has 
+coincided with his uptake of Brazilian Jiu-Jitsu. I do not know if you have 
+seen a lot of that, but he seems to have incorporated this idea of lean 
+Pg. 2 of 12 
+behavior into his personal life with some of the fighting that he has been 
+doing. It is starting to percolate through the rest of big tech, and now people 
+are calling for Google to do kind of the same thing and kind of cut the fat. 
+You have seen some of it in Amazon, but what is your take on which of these 
+companies has the most operational leverage within it and maybe as a 
+corollary, has the most room to improve from a cost standpoint? 
+Mohnish: Amazon runs a pretty tight ship, as does Microsoft. I would say that in my 
+different visits to Alphabet headquarters that is definitely a country club. 
+Some of the Google employees I have spoken to do not feel secure in their 
+jobs in the sense that the layoffs have come very suddenly. They have gone 
+after some very senior people who they have cut. But I think there is a lot of 
+fat there to be cut. That is another incredible set of franchises with Search 
+and Android and YouTube and all that. A company where the top line is 
+equal to the bottom line in effect and where there are no expenses to speak 
+of is Microsoft. Microsoft is just an incredible machine. When you see their 
+revenues go up around 80% then something will drop to the bottom line. 
+Satya and his team have always had great execution; They have been doing 
+really well. They have not had a lot of meat or fat on the bone if you will; 
+they have run lean. But, I think Alphabet has a way to go. 
+Divya: But by the same token, maybe that is an argument to own Alphabet; low-
+hanging fruit for them. 
+Mohnish: Absolutely. That is right. 
+Divya: Yes. They trade at a multiple that is more in the low twenties versus, 
+Microsoft, for example, mid to high thirties. 
+Mohnish: Yes. But there is a little bit of a difference. Microsoft is such a strong 
+recurring revenue business; the recurring nature. Meta franchise is 
+awesome, but at the end of the day, it is an advertising franchise and on the 
+Microsoft side, it is a very critical part of enterprises, and that revenue is not 
+going anywhere. You could argue that it is higher quality. 
+Divya: Yes, I have heard that argument, and I think it is more like earning stability. 
+If you are going to pay a premium multiple for it, you can argue for that.  
+Mohnish: Yes. 
+Divya: There is something to be said about Meta, and this applies to Google with 
+Amazon picking up on this as well. Meta is the distribution channel for 
+corporate enterprises as well as small businesses. If you want to reach an 
+audience, you have to go through one of these channels. 
+Mohnish: Yes. Moreover, earlier, half your advertising worked and you did not know 
+which half. That is gone now. That was the whole adage with advertising; 
+there was so much waste. The thing with platforms like Meta is you do not 
+have that waste because you have such a direct relationship between what 
+you are spending and what you are seeing come out the other end. The 
+ability to pinpoint that is powerful, and I think that is a core part of what 
+their franchise is. 
+Divya: Yes. One of the things you said previously when we chatted was about your 
+indifference to the metaverse or maybe skepticism toward the metaverse. 
+Now that conversation has shifted to AI, it is not really about the metaverse 
+so much. What do you think about that vis-a-vis the MAG-7 or these blue 
+Pg. 3 of 12 
+chip names? Do you have a viewpoint on who is best positioned to take 
+advantage of that? 
+Mohnish: I would say that Microsoft has historically been a great cloner. It has not 
+been a great innovator, but they are exceptional at cloning. Sometimes it 
+takes them 10 versions to get it right or 15 versions to get it right. But they 
+get it. I would definitely put them in the winner's camp just because they 
+are so good at the execution. What I am saying is the company has woken 
+up to the potential for AI and they are doubling down in a big way, so, I 
+would put them near the top. I would say that Google has had a lot of 
+strengths in this area for a long time but they do not have the execution 
+discipline and the intensity of going after the way Microsoft does. It is a no-
+brainer for me that with the partnership that Microsoft has, they have got a 
+good position here. 
+Divya: Do you think that Satya Nadella is, on a personality level, maybe a little bit 
+more ruthless than Sunder Pitchai? You hear this in the news about how 
+Google dropped the ball on this AI trend. I am not sure what to make of it 
+because I feel like they have incredible technical expertise across the board 
+and they use AI a lot with search, but there does seem to be a personality 
+difference between the management team at Microsoft. When I heard 
+Sunder speak and he has done congressional testimony, you see him at 
+conferences and whatnot, he comes across as maybe a little bit more 
+relaxed, but I am just curious if you have any thoughts on that. Suppose 
+there's a cultural difference. 
+Mohnish: When I was in Omaha in May, I went for a dinner that Charlie invited me to. 
+There were a lot of who is who, who showed up at the dinner. They seated 
+me next to Bill Gates. It was quite a surreal situation where I had had dinner 
+with Bill and of course, his son was sitting next to him. I chatted about all 
+kinds of things with him for about two and a half hours. We talked a lot 
+about many of these areas. I even played a game with him. I said, “Look, I 
+am going to mention a company. You tell me if you want to go long or short.” 
+He said, “Yes, no problem.” I asked him about Amazon, and he said long. I 
+asked him about Google, and he said short. When I asked about Apple, he 
+paused, and then said, “Look, basically Apple is in a situation where they do 
+not really have R&D in the way most of us would understand it. Microsoft 
+has had Microsoft Research Labs forever.” I also pointed out to him then that 
+nothing has come out of Microsoft Research Labs ever that has been of any 
+use. He was quite agreeable to that, even though that statement probably 
+did not make him happy. He said, “Look, we have two kinds of research at 
+Microsoft. We have the Ivory Tower Microsoft Labs, which is an academic 
+bunch of PhDs doing their thing, and you have your opinion on that; that is 
+fine. Then we have, of course, development and then R&D tied to 
+development and that has been nearly effective.” That is the engine that has 
+the more bread-and-butter engineers who are the masters of cloning. 
+Google has always had a huge leg up on pure research for a very long time, 
+and they have done a really good job. The transition from this very real and 
+innovative research into a business is not something Google has been able 
+to pull off too many times. They pulled it off for Search, but then after that, 
+if you look at it, YouTube was an acquisition, Android was an acquisition, 
+and many of their other bets are just wild. There is a free for all spending, 
+but nothing has come out the other end. Microsoft, on the other hand, does 
+not take flyers. When they see that something is gaining traction, they may 
+Pg. 4 of 12 
+put some people on Microsoft research into it, but I do not think Bill and 
+company and Satya and company count on those guys. They pull in people 
+who are development engineers with some research background and those 
+are the guys who pull the teams and things through. So from an execution 
+point of view, it is just a lean, mean fighting machine. It is exceptional, and 
+they will be able to do this. They have done this repeatedly when the 
+paradigm has changed; the paradigm has changed on them so many times. 
+If you think of Microsoft, it is almost a 50-year-old company. This year is 
+year 48 for them. It is really old. But, for a 48-year-old business with all the 
+paradigms they have jumped through, it looks like a young company. They 
+look like a young executing company. That is because it has got some great 
+DNA on that front. 
+Divya: Yes, they are not resting on laurels. On a related note, and this transitions to 
+some of your other investments, somebody asked on the topic of top-line 
+revenue increases going straight to the bottom line. The Almaty Airport in 
+Kazakhstan of your Turkish holding TAV airport seems prime for duty-free, 
+as well as potential error and passenger fee increases, that may go straight 
+to the bottom line, but, there is a Pavlovian response to macroeconomic 
+and news. What do you think about their TAV’s valuation lately? Do you ever 
+double down on bets that are 10%? You obviously make large bets, so have 
+you doubled down there or what is your take on that? 
+Mohnish: Let me just give you some background so that people can kind of 
+understand the business a little better. The Almaty Airport was an 
+acquisition that TAV did in the middle of COVID when passenger traffic was 
+zero. It was like you were buying the airport when your revenue was zero. I 
+would say they got the deal of the century in terms of what they paid. Most 
+of these airports that come up for privatization are BOTs. They are “build, 
+operate, and transfer,” which means you get a concession for 25 years, 30 
+years, or 50 years, and you pay the government something for that 
+concession. After those 25 years, it goes back to the government. You are a 
+tenant, if you will, milking the situation for two or three decades or 
+something to have the Almaty Airport with an outright purchase. They own 
+it forever. They own it for the next thousand years. They do not have to pay 
+anyone anything anymore. Part of the deal for them to get the airport was 
+that they wanted to put in a new international terminal, which is going to 
+go “live” in about six or eight months. They have been building it. I visited 
+that airport in 2022.  
+The Almaty airport is very unusual in the sense that I do not know of any 
+other airport in the world where inside the airport some of the real estate 
+was sold. For example, the current duty-free operators in the current 
+terminal owned that space inside the terminal, even though TAV owns the 
+airport. And TAV today at that airport gets zero duty-free revenue. Now, 
+what TAV is doing is it went and talked to those guys saying, “Hey, listen, 
+can we do a deal?” The price was so high, they said, “Okay, you keep the 
+duty-free. It is okay. When the new terminal comes up, which is happening 
+in eight months, all the international moves to the new terminal, and all the 
+duty-free automatically goes to the new terminal, which means that TAV 
+will now own a hundred percent of the duty-free. The people who had those 
+duty-free shops in the old terminal, which will become a domestic terminal, 
+can go pound sand. They will convert them probably into coffee shops or 
+something, so they are nothing. Just to show you how duty-free works, just 
+Pg. 5 of 12 
+in case some of your listeners are duty-free affection idols, when you go to 
+a duty-free shop and there is a hundred-dollar bottle of Johnny Walker or 
+Chivas or something, the factory gate price of that liquor is $25-30. What 
+you are paying a hundred dollars for, which would cost even more in your 
+home country, the factory price is $25-30. The airport operator charges 40% 
+of the top line as their rent to the duty-free operator. TAV has its own 
+subsidiary, which runs a duty-free shop. What TAV will do is it will bring in 
+its own subsidiary as a tenant and that tenant is 50% owned by TAV, so 40% 
+of all the duty-free revenue will come to TAV as rent. Now that Johnny 
+Walker bottle, $60 is left for the duty-free operator who pays about $25-30 
+for it. They have $10-20 in expenses to run the place, and they make a 10% 
+margin. The airport operator, the duty-free part of the business is an 
+incredible business. Every flight, every international flight that comes in, on 
+average, about $1,500 gets spent amongst all those passengers on duty-
+free. The airport operator ends up with about $600 per flight as their fee, 
+which if you divide it by let us say a hundred passengers, is $6 per passenger. 
+The terminal fees, which are also what they charge for international, are 
+usually about $7-8-9 per passenger.  
+Currently, in Kazakhstan, that number in Almaty is 3-4, and that is being 
+bumped up about 20% a year by TAV. They are not taking it to eight in one 
+shot, but it is going up. If you think about the international per-passenger 
+revenue, which TAV is going to get when the new terminal is up, it will be 
+around $6 per passenger from duty-free, and probably another $5-6 from 
+the passenger fees which used to be three. What used to be $3 per 
+passenger will soon be $11 on its way to about $15. The other thing is the 
+traffic at Almaty; the passenger counts. They released today some numbers. 
+The 2024 passenger count and aircraft movement numbers are about 30-
+40% higher than 2019, which was the last year pre-COVID when things were 
+normal. They are getting an airport in 2024, which is 30-40% larger in size in 
+terms of passenger count and aircraft movement. Almaty is also one of the 
+only airports where TAV does the fueling. They do not have the fueling rights 
+at the other airports. It is very unusual for the airport operator to have 
+fueling rights. It is like you have a monopoly gas station for 500 miles, and 
+that fueling business has a 40% margin. It is beautiful. All these flights from 
+Russia got diverted. Wow. The long and short of it is that TAV, the entire 
+company used to have a market cap, which was 600 to 800 million US 
+dollars. Just the Almaty airport is probably, if they wanted to put it on sale 
+in a few years, would go for around 3 to 5 billion. They have 15 other airports 
+besides Almaty, so we are long and strong with no plans to lighten up. 
+Divya: The current market cap is 600 million. 
+Mohnish: The market cap used to be 600. It has moved up; it is approaching about 2 
+billion now. But it is still very low. It is very low for the size and scale. Turkey 
+just dropped all visa requirements for US citizens. Their tourism business is 
+through the roof, so 2024 numbers are looking about 30% higher than 2023. 
+All their Turkish airports are on fire. They are doing exceptionally well. All 
+their international passenger revenues are very high. The company is 
+executing well, firing on all cylinders. It is a very good management team. 
+That Almaty airport that they bought for 400 million, including the CapEx, 
+which was two-thirds finance at like 4% 30-year fixed, was just an incredible 
+deal. 
+Pg. 6 of 12 
+Divya: What percent of your total portfolio is Turkey now, roughly? 
+Mohnish: Probably more than half. It is not more than half because I put money into 
+it. It is more than half because Reysas used to be a 16 million market cap and 
+it is about 30 times that now, so it has moved up. I have not checked lately 
+because somehow our US bets have done very well as well, but 50-60% 
+probably at this point, but still very undervalued. 
+Divya: Speaking of your US bets, what is your favorite US name now in the 
+portfolio? 
+Mohnish: I do not like to talk about what we own so much, but if you looked at our 
+last 13 F filing, that only showed our US positions, it only had coal. We had 
+some coal bets that showed up on that filing. We will have another filing 
+that will show up in another week for our year-end numbers. We had a 
+pretty extreme mispricing on the coal front, and a lot of things were 
+misunderstood about it. We went into that. Metallurgical coal, which is what 
+is used to make iron and steel, will be used 50, or 60 years from now because 
+there is no substitute. Those stocks were trading at two times earnings, and 
+they were doing massive buybacks at two times earnings. Doing buybacks 
+at two, three, or four times earnings is good for your health and your wealth. 
+Divya: Was that something where you knew about coal from the past, or how did 
+that hit your radar in the first place? 
+Mohnish: I do not have any original ideas, Divya. Everything is cloned from 
+somewhere, just like my buddy Bill Gates. He also has no original ideas. We 
+are very similar in that way.  I had seen a filing by David Einhorn that came 
+out in mid-May. His largest position was a company called CONSOL, 
+CONSOL Energy, which is a big thermal coal producer. I just wanted to 
+answer one question for myself. I said, “Why is David Einhorn so hot and 
+heavy on stupid coal?” I went down a rabbit hole to try to answer that 
+question, and I emerged from the rabbit hole with a massive coal bet 
+because it was just a no-brainer. One of the things about coal is that if I did 
+not have any endowment money or anything in my fund, but had some of 
+those guys in the fund, they would have exited because of all the ESG 
+mandates. We have a lot of irrational kind of behavior in terms of what 
+people can and cannot invest in, which leads to mispricing of some of these 
+securities. 
+Divya: That makes a lot of sense. Did you talk to David Einhorn directly? 
+Mohnish: No. I did not speak to him. I just went in and said, “Okay, let us try to 
+understand what is going on.” I had seen a commentary he had made. He 
+complained that the companies he is buying are cheap from a valuation 
+perspective because of all the emphasis on the big seven techs. They are 
+kind of left by the wayside. Nobody is interested in these companies. He 
+was kind of moaning and groaning in some of these public comments 
+saying, “How do I get paid when I own these names when no one is 
+interested?” The answer was, you get paid when they buy back stock; when 
+the valuations are very low. CONSOL is an interesting company because 
+they forward sell all their production at least a year in advance. For example, 
+in 2024, even though it is a commodity, we already know within a band what 
+their cash flows in 2024 are going to be because they have already sold it. 
+They have already said what the prices are. We already know what their 
+Pg. 7 of 12 
+costs are. That is a business that says that a hundred percent of 
+discretionary cash flow, they canceled the dividend, was going to buybacks. 
+We had a company that had a 1.8 billion market cap last year that had north 
+of 600 million in earnings, pumped into buybacks, and that is very potent. 
+Divya: Yes, definitely. Are you still involved with or invested in the India Energy 
+Exchange? Are you still on that one? 
+Mohnish: We are finding more things that make a lot of sense in the US and, and in 
+places like Turkey. India is a company with some great tailwinds, but also it 
+is not a cheap place. We have some great businesses and great franchises 
+there but some of the valuations are pretty heady. We have been net sellers 
+in India and net buyers in the US. 
+When you look at something like TAV Airports and you look at something 
+like Almaty, that is a big aha moment because you look at an airport like that 
+and you look at what kind of cash flow that asset can produce, and you look 
+at the pricing of that asset; it just does not make any sense. When I see these 
+big price and value deltas or reasons that I can understand, like in that case 
+the whole issue was Turkey and who wants to buy an airport in Kazakhstan 
+and all these other things that are going through people's minds. When you 
+get to those anomalies, then you have a basis to do something. Metallurgical 
+coal is an anomaly in terms of where it is priced and what it is worth. The 
+large car dealerships are an anomaly about where they are priced and what 
+they are worth. Turkey is an anomaly like that. I am Mohnish anomaly Pabrai, 
+that is who I am. 
+Divya: Do you think the same about the auto OEMs, like the GM Ford? I mean 
+companies that have not gotten the EV credit in the way Tesla has and are 
+still selling like a Toyota or a Hyundai. 
+Mohnish: The OEMs are a really bad business. In the end, we will all be driving EVs and 
+that transition may happen in 10-20 years. You can debate that, but that 
+transition is going to happen. Whenever that transition happens en masse, 
+if the margins of a company like Tesla are like 10%, then the margins for 
+companies like Ford and GM will be negative because the execution here is 
+so much better. Most of these players who go up against Tesla, except 
+companies like BYD, the Koreans will have a very hard time making any kind 
+of profit margin. I would not be surprised if, in the end, the Fords and GMs 
+of the world have a tough time. They may even become terminal because if 
+you have a negative margin and the ICE cars are gone, that is a really tough 
+place to be. When you have someone like Elon, who is an anomaly, that you 
+are competing with, the only thing you should do is go find something else 
+to do. It is not good for your health or wealth to compete with Elon. Then, 
+we have a Wang Chuanfu at BYD in China. Chuanfu is Elon to the power of 
+Elon. When you have to compete with Elon and Elon squared, or Elon to the 
+power of Elon, you definitely want to take your ball and go home. Go find 
+something else to do. The auto-OEMs, in the long run, have some difficult 
+times ahead. 
+Divya: Let us move to Turkey. We did not get to discuss Reysas. Any change in your 
+views on the company, or it is still just one of these long-term stories that 
+you plan on sitting on for many years to come? 
+Pg. 8 of 12 
+Mohnish: I have been a shareholder now for almost five years. We made the bet in 
+2019, and we have not made any changes. We want to hold that for as long 
+as we can. My perspective on the business, the quality of the assets, the 
+quality of the people running it, and how good they are has only gone up 
+every year. In my opinion, it is an exceptional set of assets—really smart 
+capital allocators. I have never seen them in the last five years make a single 
+mistake. I have not seen them do anything dumb. The other thing that is 
+great about Turkey is that we had these very crazy monetary policies 
+coming out of Erdogan's government. But after he got re-elected, he put a 
+new team in place which is an exceptional team. They have raised interest 
+rates. Interest rates now are in the mid-forties; they are taking a 
+sledgehammer to inflation the way they should have. They already started 
+seeing some green shoots on that front. Inflation is really hard to get back 
+under control once it gets wild and crazy, but they are going at it pretty 
+aggressively. The policies they have in place are working quite well. All these 
+investments in Turkey I had made were assuming that the macro never 
+improves. The bets worked.  
+For example, TAV Airports is listed in Turkey, but Kazakhstan has nothing to 
+do with Turkish monetary policy. It is just the baby got thrown out with the 
+bath water if you will. I think that there may be some real tailwinds because 
+at some point it looks like in the next year or two, the actual monetary 
+situation will be a lot better. If we ever get people coming back to Turkey, 
+the foreign investors and institutional investors, are the most blue chip 
+names. These are the ones that people will want to own. But we do not need 
+that to happen. It would still work even without that. The good news with 
+Turkey was that because it was so cheap, we went after the very best assets 
+and these are kind of iconic monopoly-type assets. For example, we own 
+the Coke bottler, the largest beer company, the best airport operator in the 
+region, and very prime warehouse assets all across Turkey. These are all 
+great assets. 
+Divya: Speaking of hard assets, have you looked at all into the US commercial real 
+estate industry where there has been a lot of turmoil? Anything in that space 
+where you feel like there is maybe a potential dislocation?  
+Mohnish: You have to segment it. As I recall, the office vacancies were something like 
+20% and that is a ridiculously high number. We did not see that during the 
+financial crisis. We have not seen those types of vacancy rates in offices in 
+the US for more than three decades. You have to go far back to get that. It 
+is nuclear winter in the office market in the US. We are seeing some signs of 
+some real distress in some of the banks; smaller banks who were wild and 
+crazy lending to people. For example, in New York Community Bank Corp, 
+the stocks have been under pressure, because what happens at some point 
+is the landlord just hands you the keys and moves on. The bank is left high 
+and dry; they cannot sell it. They cannot do anything. We went through a 
+big crisis a few decades ago where they formed Resolution Trust 
+Corporation to try to move some of these commercial assets; kind of like a 
+Chapter 11 process, if you will. My suggestion and perspective is to just stay 
+away. It will take a long time because we had a secular change in how 
+people work and it will take a long time. The US population’s growth rates 
+are really low. Immigration is not solved and if the country was growing, that 
+is something like 1% a year, which it used to do. Eventually, this space would 
+get chewed up and we would get back to some kind of normal situation. In 
+Pg. 9 of 12 
+5-10 years from now, the office market will definitely be less, and the 
+vacancy rate will go down, but it may still not be healthy. That is a nuclear 
+winter for a long time. If you look at some other areas, like home builders, 
+that is a much more promising area to look at because what has happened 
+with the home builders is that many of them are getting religion, like NVR 
+which was the poster child, and did so many buybacks. The stock went from 
+$10 to 4,000 over the last 30 years or something. And many of the others, 
+like Pulte, are following that playbook now. In my opinion, home building is 
+a much better area. I have not made any bets there yet, but they do not 
+have an overhang. We are likely to see interest rates come down and we do 
+not have a lot of housing stock and such. Once we see interest rates go 
+down, the home-building industry may be doing even better than it is today. 
+In the office market, in the US, you have to avoid some of the office stuff. 
+Go more residential and then take it from there. But it is not a sector I am 
+playing in right now. 
+Divya: Shifting gears a little bit, do you have any views on the upcoming 
+presidential election in terms of how that might affect your portfolio or the 
+sectors you might be looking at? 
+Mohnish: I wish I had better choices in terms of the range of candidates. I would just 
+say that we are the leaders of the free world. We are the guiding torch of 
+democracy. I love the United States. One of the most amazing things about 
+the United States and the founding fathers in the form of government they 
+set up is it is bulletproof. You see the craziness that goes on in Washington, 
+and the economy still does well and everything is still running and working 
+thanks to the founding fathers. However, I believe it is a sad state of affairs 
+in Congress with the candidates on both sides. I wish there were better 
+choices. The US is doing so well with a complete deadlock in Washington. 
+Just imagine what we could do if we had a somewhat half-functional 
+government. It would just be night and day. 
+Divya: On a related note, we were talking to the Winklevoss brothers earlier today, 
+and they were complaining about the fiscal situation in the United States. I 
+was saying that we have been talking about debt for decades. When will we 
+come to a point where the government will have to grow up and rein in 
+costs? Do you have any thoughts on that? Do you feel like we can continue 
+to amass deficits year after year at the scale that we are without any 
+repercussions and how do you put a duration on how long it can last? 
+Mohnish: It is a much bigger problem at higher interest rates than we have now. In 
+my opinion, it is not good for a civilization to test its limits. The US has a 
+pristine credit. We are borrowing in our own currency. We are never going 
+to have a default because we own the printing press. But I think that it could 
+cause issues. It makes the monetary policies a lot harder. It makes it more 
+likely that we have runaway inflation. A small deficit is probably okay, but I 
+think that there need to be some structural changes in the way we do our 
+taxes and all of that. That requires Washington to be functional and it is not 
+functional. It is an unfortunate situation. I am not an alarmist about it. The 
+country has a lot of strengths, but I think we definitely need some grownups 
+in DC. 
+Divya: There seem to be more politicians talking vocally about the deficit problem, 
+but it is ongoing. It has been talked about for so many years that you just 
+wonder what will be the turning point where the parties agree to make 
+Pg. 10 of 12 
+substantive changes, be it to entitlements or tax reform, whatever it is, or 
+immigration even. It just blows my mind that nothing ever happens as the 
+problem gets bigger and bigger. But anyway, be it as it may. Lastly, Mohnish, 
+you have written extensively about Charlie Munger, and with his passing 
+maybe you could tell a story about a time you had dinner with him or a 
+moment you shared with him. If you could give us maybe even an iota of 
+what he meant to you and also some of the wisdom that he imparted to 
+you. I would love to hear it and I am sure the rest would as well. 
+Mohnish: I miss Charlie a lot. I used to see him a few times a year for dinner. We would 
+play bridge and in fact, I had my last one-on-one dinner with him exactly a 
+month before he passed away. I did not know at that time it would be my 
+last time seeing him. We had a great time. His mind was very sharp and he 
+was always very kind and funny. Charlie always had the best jokes. He had 
+a huge repertoire of jokes that he would say on demand. I always have a 
+hard time remembering great jokes, but he was good at it. We used to meet 
+on Fridays at the LA Country Club to play bridge. We used to start by having 
+lunch in the dining room, and then we would go play four, to five hours of 
+bridge.  
+I was sitting in the LA Country Club dining room, and Rick Guerin and Charlie 
+Munger were just sitting across the table from me. I said, “You guys think 
+this is just okay; a bunch of people having lunch before bridge, but I am 
+sitting with two historic icons and this is like a surreal moment. As an Indian 
+guy who grew up in Bandra, Mumbai, sitting with you guys, just shooting 
+the breeze. When you guys were doing your deals in the sixties, where you 
+say you were shooting fish in a barrel with the water drained out, tell me 
+about some of the deals that stand out.” They looked at each other, and then 
+Rick Guerin told Charlie, “Tell him the story of the nurse.” Charlie goes on to 
+say that there was a company in California where this maverick 
+entrepreneur had come up with an auto additive that would go into an 
+engine where if you put this kind of liquid in the engine, it would seal all 
+small leaks. It would make the engine not leak anymore. This guy was a 
+super salesman. He used to go to these auto mechanic shops and with his 
+gun. He would shoot the gun into his car’s engine block and then pour the 
+liquid into the engine block and show the mechanics that there was no leak. 
+His sales took off. There is no brainer. But the guy was kind of maverick and 
+not a very good manager of cash flows and all that. He suddenly passed 
+away; an untimely death. The business owed a lot of money to the banks. 
+The business was for the most part, bankrupt. What Rick and Charlie did is 
+they bought up all the bank debt, 30, 40 cents on the dollar, and they had 
+control of the company. But the widow of the guy technically had the 
+ownership of that company. They did not want to play hardball by saying, 
+“Hey, we own the debt, and that is the end.” They wanted to make some 
+small payment to the widow to get a proper sale from her. Charlie said that 
+when the guy passed away, the widow found out that the guy was having 
+an affair with a nurse. In his will, he made the nurse the executor of his will. 
+The widow was going to get the title to the business, but the nurse was the 
+executor. The widow and the nurse were both extremely pissed off. They 
+were both off at each other. Charlie and Rick in the middle of all this, tried 
+to get their deal done, but the women were not interested in cooperating. 
+Charlie said, “Okay, I am going to meet them and try to pacify them. I will 
+Pg. 11 of 12 
+tell the widow, we know he was a jerk and whatever to get it done.” He 
+arranged a meeting with the nurse at the California Club.  
+The California Club is a club in downtown LA. That is the place I met Charlie 
+for the first time. He loved going to have lunch there. It is a very kind of blue-
+blood money kind of place. Charlie always had the same table in the dining 
+room. He would eat lunch three times a week over there. The nurse was 
+blonde and well-endowed. I will not use the language Charlie used in this 
+video, but let us just say it was a lot of colorful language he used. She 
+showed up for lunch with Charlie in her nurse's uniform because she came 
+straight from work, and the uniform was about three sizes too small, so 
+Charlie was saying that all the members of the California Club were sitting, 
+having lunch there. They gasped when they saw this woman enter and then 
+sit down with Charlie. They thought he was having lunch with a porn star. 
+He then said, “I met her for lunch, I pacified her, then Rick and I met the 
+widow. We pacified her just enough for the two women to cooperate, and 
+get the deal done. Then we moved on with that additives company.” These 
+are the kind of stories I would hear from them.  
+We would not have Berkshire Hathaway as we know it today if there was no 
+Charlie Munger. I do not think the market cap of Berkshire Hathaway would 
+be even 10% of where it is today without a Charlie. The impact was really 
+one plus one became 11. He pushed Warren toward the better businesses, 
+the better people, and all of that. He pushed him in a way where he never 
+took credit. He was always happy to be the partner in the background. I 
+believe he had an enormous impact on Berkshire. He had a huge impact on 
+a lot of institutions that he got involved with; the Harvard Westlake School 
+and then UCSB, Stanford, University of Michigan, and so on. I never really 
+wanted to talk about all these great things he was doing. A couple of times, 
+I brought up personal challenges I was facing, and he was just so helpful to 
+me; always there and with incredible advice. I always followed what he said 
+and things worked really well. Let me give you one of the Munger jokes. He 
+was saying that there was a Jewish couple and they had a kid who really did 
+not like to study much. His grades were pretty poor, even though the 
+parents were pretty smart. The parents were kind of frustrated, so they 
+found there was a really good Catholic school in the area, and they moved 
+the kid to the Catholic school. After the move to the Catholic school, the kid 
+suddenly started doing extremely well in school. The kid used to come 
+home, drop his bags and stuff, and just go to his room and start working. 
+Math was especially a hard subject in the sense that the kid had no interest 
+in math. His math grades used to be the lowest, but now he had some of 
+the best math grades. After a few weeks, the parents sat down with the kid 
+and they said, “We noticed that you are doing so well. You are engaged with 
+this, all the math and everything. What changed? Do you like the school?” 
+He said, “When I went to the school and I saw that they had put that guy on 
+the plus sign, I just knew that they were really serious about math. I did not 
+want to be crucified, so I decided I was going to focus on math.” 
+Divya: What a storyteller. Mohnish, thank you. 
+Mohnish: Charlie always had the best jokes. 
+Divya: Yes, but Mohnish, you are one of the best storytellers in the industry, so we 
+are getting a compounding effect here between you and Charlie. 
+Pg. 12 of 12 
+Mohnish: I had to take out all of Charlie's colorful language. 
+Divya: Yes, I can fill that in. I am sure we can all fill that in. It is funny you say that. 
+He is happy to be in the backdrop, not necessarily the foreground of 
+Berkshire Hathaway. But every time he talks, you can tell he is not holding 
+back.  
+Mohnish: Well, I asked Charlie, “In all your partnerships with all the different 
+businesses that you are in, you are the dominant partner. You are the type 
+A main partner, and the other guy is subservient to you in some ways. The 
+only one which is not that way is the Berkshire Hathaway partnership with 
+Warren Buffett. Knowing the personality you are, how could you accept the 
+role of a junior partner? Because you have never been a junior partner in any 
+of the other ventures with any of the other guys that you have met. He said, 
+“It was a no-brainer to be a junior partner to Warren Buffett. Some things 
+are total no-brainers. That was a no-brainer. Yes, even though it went 
+against my natural brain, I just knew that that was the right thing to do.” 
+Divya: Yes, it is like he joined the Major League baseball team or something to that 
+effect. That is amazing. Mohnish, this was phenomenal. Always such a 
+pleasure to chat on SumZero and tell us all your learnings. Thank you again 
+and thanks to everyone else on the call for tuning in. We will certainly be 
+back next year for Top Stocks 2025. A quick plug for Mohnish, even though 
+I know you cannot talk about it. Check out the Pabrai Wagons Mutual Fund 
+when you all get a chance.  
+Braden: Everyone that joined us today, we appreciate and hope you had fun and 
+found it as informative as we did. Mohnish, thank you as always. It is always 
+fun hearing from you and getting to hear a little bit about Charlie and your 
+time with Bill Gates too. Telling them nothing is coming out of Microsoft is 
+quite a lot.  
+Divya: We should do a call about conversations at the LA Country Club. That could 
+be a good hour-long discussion. 
+Mohnish: Yes, there were lots of fun times. I really missed Charlie. It was just surreal. I 
+never expected that, but it was a lot of fun. One thing I found about Charlie 
+is that he was so careful in life. He would never take risks; he would want 
+these no-brainer bets. I noticed that when he played bridge, he was more 
+of a gambler, and it took me some time to figure that out. Once I figured 
+that out, then I would trap him because I knew he would overbid and 
+overplay his hand. I told him, “Listen, Charlie, you can get away with this 
+because I know what you do. I can call you on it. It used to be a lot of fun to 
+play bridge with him. Anyway, I enjoyed it, and thank you guys. We'll see 
+you. Bye. 
+ 
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not 
+intended to be financial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not be 
+suitable for you, do not take into account your particular investment objectives, financial situation, or needs, and are not intended 
+to provide investment advice or recommendations appropriate for you. Before making any investment or trade, consider whether 
+it is suitable for you and consider seeking advice from your own financial or investment adviser. 
+ 

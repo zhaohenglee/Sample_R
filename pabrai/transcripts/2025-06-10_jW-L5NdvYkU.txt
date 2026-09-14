@@ -1,0 +1,608 @@
+Pg. 1 of 13 
+Mohnish Pabrai's Session with SumZero on June 10, 2025 
+ 
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not 
+intended to be financial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not be 
+suitable for you, do not take into account your particular investment objectives, financial situation, or needs, and are not intended 
+to provide investment advice or recommendations appropriate for you. Before making any investment or trade, consider whether 
+it is suitable for you and consider seeking advice from your own financial or investment adviser. 
+ 
+Divya: Welcome, everybody. Today, we have the privilege of chatting with 
+Mohnish Pabrai, who is an absolute legend in the value investing 
+community. We have a huge turnout for this event. We are also super 
+thankful to AlphaSense for sponsoring this and helping us put this all 
+together. Mohnish, it is great to see you again. This is the third or fourth time 
+we have done one of these with you. Although it is the second time that we 
+have done it from your new library, which I am always excited to see in the 
+background.  
+I wanted to start with something that I know is near and dear to your heart, 
+and that is Berkshire. Greg Abel is taking over on January 1st. In the past, you 
+have said that you almost view Berkshire stock as a placeholder for periods 
+of time when you do not have a big investment idea or high high-conviction 
+idea to put fresh capital into. I am wondering if you still feel that way and if 
+the passing of the torch to Greg at all changes your thoughts on Berkshire 
+as an alternative to the S&P 500 or as a placeholder for those of us who are 
+more involved in active investing. 
+Mohnish: Well, Divya, it is always a pleasure. It is great to be here for our annual banter. 
+It is very wonderful. Regarding Greg and Berkshire, the baton was passed a 
+few years ago. From a practical sense, Greg has been running Berkshire for 
+quite some time. Warren had passed over all of the wholly owned 
+companies to be under Greg a few years back. That is where most of 
+Berkshire is, and there are a few things that Warren is still handling, like the 
+public portfolio and so on, and those are going to get passed on in the next 
+six months or so. From a practical point of view, we have already seen 
+Berkshire running under Greg's leadership for some time, and we have not 
+noticed any difference. The baton got passed, and we did not even notice 
+anything. As we look at the situation today, Berkshire in many ways is like 
+an index. It is like investing in an index fund, but today it is a better index to 
+invest in than the S&P. In the past, like you mentioned, I have thought of it 
+as a placeholder, but it is a better vehicle. Passive investing is more than half 
+of all investing in the US, and one of the negatives with passive investing 
+(we still do not see the extreme impacts of that) is that you get this lemming 
+behavior where a few stocks get money allocated to them regardless of 
+fundamentals, because they are in the index. That is why we see some of 
+this Mag 7 stuff and all of that going on. But yes, given Berkshire's large cash 
+position, modest valuation relatively young leader, it is a good place to be. 
+Divya: Is his ethos the same? I mean, there are different people. I hear your point 
+that he has been there for a while and you have not noticed a difference, 
+but Buffett himself is a unicorn, and so tough to replicate him. As far as 
+making new big bets, do you feel like his ethos is the same, or if it is 
+different, how is it different? 
+Pg. 2 of 13 
+Mohnish: Well, they are different leaders. We will never have another Warren Buffett. 
+That is one and done. Just like we are never going to have another Jesus. 
+Warren, Munger, and all of those. That is the leader of the church, and that 
+is not going to change. Charlie used to say that Greg has some important 
+qualities that are superior to Warren's, and he never really expanded on that. 
+He never went on to explain what those qualities were. But one of the big 
+differences between Greg and Warren is that Warren has always been very 
+hands-off on the subsidiaries, like he said, delegating to the point of 
+abdication, so these subsidiaries are left on their own. Greg is a lot more 
+hands-on. He is interested in some type of optimization and some sort of 
+oversight into making sure that these very large, wonderful businesses in 
+Berkshire are getting to their potential. Warren, for example, never pursued 
+synergies between the different subsidiaries. Greg actively pursues that. 
+Greg actively has the different CEOs interact and meet with each other. 
+There is a lot more rolling up your shirt sleeves and diving into the individual 
+businesses. We may see somewhat better performance coming out of the 
+existing subsidies. Where Warren stands almost unrivalled is in the 
+deployment of capital. He was just exceptional. Though he did make 
+mistakes, not being aggressive enough in 2008 and 2020. Greg may do 
+better in those periods.  
+The one final area where Greg has a big advantage is the US grid, and the 
+US energy footprint needs a huge step function in investment because we 
+have got all the AI and data centers happening, and it is a mind-boggling 
+number in terms of how much needs to go in. Berkshire would be kind of 
+the perfect company to leverage that because they have a very large 
+subsidiary in energy. The negative is that there have been issues recently 
+where a lot of liabilities have been passed to utility operators through the 
+court system, the California fires, and so on, bankrupting utilities and such. 
+Berkshire was blindsided by that. They are going to look for a lot more legal 
+protection on that front. But that is a big opportunity for them. 
+Divya: That is interesting. This almost sounds like a little bit of a Tim Cook versus 
+Steve Jobs question, but if it ends up being that Greg is more of a Tim Cook, 
+kind of a great operator, that is not a bad outcome for Berkshire. 
+Mohnish: But he is also a very good capital allocator. What I am saying is that Tim Cook 
+is not an innovator. Tim Cook is not Steve Jobs. If we look at Apple since 
+Steve Jobs, there is no innovation because Apple is a very unusual company. 
+Innovation was always concentrated in one person. It was just driven down. 
+It is very different from Google, Meta, or Microsoft. It was very singularly 
+concentrated in the case of Apple, and that is why Apple has always been a 
+company with very few products and very exceptional products, because it 
+was one guy driving it. In the case of Berkshire, Greg Abel is definitely more 
+of an operator than Warren is, but he is an exceptional capital allocator as 
+well. No one will be as good as Warren Buffett, but Greg is extremely smart 
+about capital allocation and making quick decisions and all of that. 
+Divya: You mentioned Mag 7. I have to ask you about the seven names. You have 
+on one extreme Tesla, which has declining sales growth on the car front, lots 
+of competition, but lots of promise with Robotaxis, which is a somewhat 
+crazy future that maybe is a few months away, maybe is a few years away. 
+Who knows? On the other hand, you have got Google, which is an incredible 
+franchise, an incredible brand historically thought of as a monopoly, but 
+Pg. 3 of 13 
+now people are calling that into question, and you are seeing that in the 
+stock. I know Mag 7 is not your thing, per se, but have you looked at any of 
+the names and I spotlight Google because it trades at the lowest multiple, 
+arguably a sub-market multiple. It trades cheap relative to the S&P and to 
+the group. I am just curious if you have looked at it at all? 
+Mohnish: The Mag 7 is such a central part of the economy, and they are unusual in the 
+sense that they are very large and still growing at ridiculous rates. We 
+normally do not see huge companies growing at spectacular rates, but they 
+are still pulling rabbits out of the hat. Munger used to say about Elon, “Never 
+underestimate a man who overestimates himself.” It took me, and I still do 
+not fully understand that sentence, but that sentence comes from Charlie's 
+experience with these people who are extreme outliers. I would never count 
+Tesla out, just because when you get someone like Elon all in on something, 
+there are no boundaries. From my point of view, it is especially difficult to 
+invest in something like Tesla, in anything resembling a 10% or bigger bet in 
+my portfolio, it would veer toward the speculative since simply because 
+Elon gets distracted. He goes and runs the government for a while and he 
+has got so many things going on, but probably a mistake on my part. Not 
+being long Elon is probably a mistake. But we have made a lot of mistakes 
+like that. I would say that a company like Google faces real challenges in its 
+core business. If you look at something like the YouTube franchise, that is 
+just so spectacularly mind-blowing that it is a rock not going anywhere. Of 
+course, Android is also great, but I am just saying that search is threatened 
+in a way that it was not threatened a few years ago, and Google has woken 
+up to this. They are fully focused on it. They will probably come out okay. 
+But it is not the cinch that it was a few years back. To me, the Google 
+multiple being low is not really a strong signal that one should go out and 
+buy the stock.  
+The one that is as close to bulletproof as you can get is Microsoft, because 
+it is so embedded in the enterprise, and because enterprises are like aircraft 
+carriers. They cannot turn on a dime. They cannot suddenly say, “Oh, I am 
+going to use someone else for the search tomorrow.” We can make a 
+decision five minutes from now to never use Google search and not even 
+think about it again. But you cannot do that with a lot of Microsoft products. 
+Those are just so deeply entrenched and embedded, and Satya is such an 
+exceptional leader. To me, of course, Microsoft, the multiple is higher. It is 
+interesting. Friday nights, Munger used to host a dinner for friends, family, 
+and some Berkshire managers, about a couple of hundred people. Gates 
+would always show up for that. Three years back, at one of those dinners, 
+Munger's daughter-in-law (who is the one who handled the seating plan), 
+pulled me aside and said, “Mohnish, I do not want you to freak out, but you 
+are going to be sitting next to Bill. The reason I seated you next to Bill is 
+because I know you will not ask him for anything.” I said, “Oh, that is the 
+furthest thing from my mind.” She said, “Exactly, I know that.” I get seated 
+next to Bill for like three hours. We are having a great conversation. I played 
+a game with him. I said, “Bill, I am going to mention stocks, and you tell me 
+whether you are going to go long or short, or indifferent.” He said, “Yes, 
+sure.” When I mentioned Apple, he said, “Well, that is a very weird company.” 
+This is the guy who used to be on Berkshire's board, and he is with Warren 
+and all of that. What he was saying is that it is all so heavily concentrated in 
+these few products.  
+Pg. 4 of 13 
+If you think about it, what OpenAI is trying to do with Jony Ive coming in is, 
+take the brick out of our hands. If you take the brick out of our hands, where 
+is Apple? What they are trying to push toward is that you cannot make a 
+better brick. You just need to take the brick out, and it is weird to go around 
+with a brick, even though it is a nice, slim brick, but it is weird to go around. 
+It somehow needs to get integrated into us. 
+Divya: Well, I am sure that is why Meta is spending billions on glasses and other 
+wearable tech. 
+Mohnish: Yes. If we ever get down that path where the brick gets threatened, then 
+you have a problem. Apple has a problem because they do not have Steve 
+leading them to take them to the next paradigm. I have a question 
+concerning whether Apple can get to the next paradigm. That was Bill's 
+case. He said, “Well, it is a weird company.” That is the way he put it to me. 
+He was not bullish on putting a big bet on Apple while his best buddy is all 
+in on Apple. Of course, he is lightened up. When you look at these different 
+businesses, Tesla probably has the best thing: It has a small allocation just 
+because Elon is there, and things can happen. Google, I would say, falls into 
+the too-hard pile. Apple falls into the too-hard pile. Meta is a juggernaut; it 
+deserves something. It was an easy double. That was a great valuation. Meta 
+is different in the sense that we have Zuck at the helm. 
+Divya: Sure. 
+Mohnish: He is a smart guy, and he has shown an ability to be in chameleon. You 
+cannot pin him down and say, “This is Zuck.” He is still a learning machine. If 
+you just look at Meta, their acquisitions are mind-blowing; what they have 
+been able to do. Only Google with YouTube can rival that in any way. Meta 
+is not at the el cheapo price. It was a few years back, but Microsoft is firing 
+on all cylinders going to be there.  
+Divya: When you look at Microsoft, it probably trades 30 to 35 times earnings. 
+Mohnish: Yes. It is high. 
+Divya: Meta is a lot cheaper. 
+Mohnish: The thing is that recurring revenue is a powerful thing to pay for. 
+Divya: You have said this before, that you are better off owning a name that has 
+long-term growth ahead of it, so you do not have to get too fussy about 
+these specific multiples at which you purchase in. Your entry point is there, 
+but at the same time, and correct me if I am wrong, I do not think you own 
+either of those two names. 
+Mohnish: I have no Mag 7. 
+Divya: Yes. That is incredible. 
+Mohnish: But I will go a little further, Divya, so you can see where I am coming from. I 
+was thinking about this for the last few days. In 2023, I made a bet on 
+metallurgical coal, somewhat different from the Mag 7. In 2025, this year, I 
+made a bet on offshore oil drillers, also somewhat different from the Mag 7. 
+I never thought about it in these terms, but when I look back on these bets, 
+even though the decisions are made completely independently, not looking 
+at one versus the other or any of that, they are in very different spaces. There 
+Pg. 5 of 13 
+is a commonality to them, which I did not even realize till after I had made 
+all the bets. The commonality is that we have four positions. All four of them 
+went through bankruptcy restructuring, and all four of them cleaned out, 
+came out with pristine balance sheets. All the debt was restructured and 
+converted to equity. These businesses are businesses that were always 
+heavily levered. They are just very capital-intensive businesses. To have a 
+minor who is debt-free is like an oxymoron. 
+Divya: Yes. 
+Mohnish: It does not exist. These four businesses were all debt-free. Not only were 
+they debt-free when you looked at anything resembling the replacement 
+cost of their assets, but in the case of the offshore drillers, one could argue 
+that they might be trading at 10% of replacement cost. The holy grail of 
+investing is to invest in capital-light businesses that generate high returns 
+on equity. But when you have a business which needs a lot of capital, but 
+you have got these capital assets without paying for them, then in my book, 
+they start looking like a capital light bet and in fact, that is probably what 
+drew me in; the return on equity of these businesses is spectacular. The 
+reason it is spectacular is that the assets would cost maybe 10 or 20 billion, 
+and you got them for 2 billion. 
+Divya: Let us talk about the metallurgical coal group first. I do not know if you want 
+to start with Warrior, but I hear your point on replacement cost. I would love 
+to hear how you learn that there was this extremely large discrepancy 
+between the cost of building, let us say, the mine today, versus what they 
+spent originally to build it. But if you can just walk me through your Warrior 
+thesis on a simple level, that would be super interesting. I know where you 
+are going to go, but I would love to hear you out on it. 
+Mohnish: I am not in the stock tip business, so this is just a discussion. 
+Divya: I totally understand. 
+Mohnish: I am not asking people to go buy the stock. In fact, you should not buy the 
+stock by listening to a talking head. Not a good idea to do that. 
+Divya: It is a good example of your philosophy. 
+Mohnish: In the last two years, I spent a lot of time with miners. I spent a lot of time 
+in the mines thousands of feet below the surface, and spent time at the coal 
+terminals watching the trains getting loaded and ships getting loaded. I 
+even made a trip to Mongolia to see one of the largest surface mining 
+metallurgical coal operations, which is spectacular. That was a great trip. I 
+feel like the last couple of years I have been drinking from a fire hydrant, and 
+still a lot to learn, but it has been great. If you look at a business like Warrior, 
+and I have visited them a few times and they have a wonderful, truly 
+exceptional management team. Coal miners are just the best people. They 
+feed you well, and what you see is what you get. It is just awesome. In the 
+case of Warrior, their mines are some of the best metallurgical coal mines in 
+North America. They have among the lowest costs of production. They have 
+two big advantages. Their mines are in Alabama, southern Appalachia. Their 
+mines are not that far away from the port. Coal is a commodity that is very 
+expensive to transport because it is very bulky. You do not get paid much 
+per ton, and the transport cost per ton can be very high. Logistics with coal 
+Pg. 6 of 13 
+becomes extremely important to have a business that can make money. 
+Warrior does something known as longwall mining.  
+There are two ways to do it. You can ask God Google about this: longwall 
+mining versus room and pillar mining. Longwall mining is the most efficient 
+way to have an underground coal mine where you have these huge blocks 
+of coal and you are having a sheer go end-to-end. It is already automated. 
+Warrior produces very high-quality metallurgical coal (which is only 
+available in half a dozen countries around the world). They produce very 
+high-quality coal at a very low cost. They have rivers that can take them to 
+the port; they can barge the coal down. They also have multiple railroads. 
+Whereas some of the other miners have one railroad servicing them, and it 
+is a railroad that makes all the money because they have a monopoly on the 
+transport. In fact, when you look at Burlington Northern, which Berkshire 
+bought, one of the first trips Buffett, Munger, and Gates made after they 
+bought Burlington Northern is to the Powder River Basin in Wyoming, 
+because that is where Burlington Northern made so much money with 
+transporting coal. These guys went and wanted to take a look at that facility. 
+They did not own the coal mines, but they owned the coal mines because 
+they were the only toll bridge to get your coal anywhere you wanted it to 
+go.  
+Warrior is a low-cost producer, with cheap transport to the port. Once you 
+get to the port, then coal is easy to transport anywhere in the world. In 
+pretty much any environment you can imagine, Warrior will be making 
+money because they are so low on the cost curve. You have a debt-free 
+business that is extremely unlikely to ever have a money-losing year. 
+Warrior is maybe two and a half billion market cap. Their reserves are going 
+to go over 40, 50 years. They are going to have some years when they are 
+going to produce one or 2 billion in cash flow, and they are going to have 
+some years when they will produce 500 million in cash flow. Then, some 
+years they produce 300 million. If you are paying two and a half billion for a 
+business, and those are the numbers, where do I sign? I do not get that with 
+the Mag 7. I do not get a 3 trillion market cap with 1 trillion cash flow. 
+Divya: You are describing from a valuation standpoint. If you are correct, they could 
+potentially do a billion in free cash in a given year. 
+Mohnish: It is not even theoretical. They have done it in the past. 
+Divya: They have done it in the past? It begs the question, “Why on earth is this 
+stock trading where it is?”  
+Mohnish: It is a four-letter word. 
+Divya: Is it that simple? 
+Mohnish: You are not allowed to utter the word. 
+Divya: Here is another point. I was reading this conference call transcript on 
+AlphaSense, where there was an expert who was saying that people 
+confuse metallurgical coal with thermal coal. 
+Mohnish: Yes. There is a lot of difference between thermal and metallurgical coal. 
+Thermal coal is available across the globe in a gazillion places at various 
+grades, low grade, high grade, whatever. The extremely high grades of 
+thermal coal kind of border on being usable for metallurgical uses. But the 
+Pg. 7 of 13 
+extremely high grades are very rare. Metallurgical coal sits in its own 
+universe. This is one of the reasons why everything gets painted with a 
+broad brush stroke. You have to separate thermal coal from metallurgical 
+coal. We will not have a civilization without iron and steel, and we cannot 
+produce enough iron and steel just by recycling the existing iron and steel. 
+The only way you would not use metallurgical coal in terms of all the known 
+processes of how to produce iron and steel would be to recycle steel. The 
+problem with recycling steel is that places like India and China do not have 
+enough scrap steel to take care of what their needs are. Advanced 
+economies like the US or Japan have a lot of recycling of steel going on, 
+where they scrap a lot of cars. We have 15 to 17 million cars a year, new cars 
+being sold, and probably a somewhat similar number being scrapped. There 
+is a very efficient mechanism to get that scrap steel. Most of it gets exported 
+to China, but we do not have enough scrap steel. Also, you cannot produce 
+the highest grades of steel by using scrap. At the end of the day, places like 
+India, Indonesia, Vietnam, or eventually Africa, have huge appetites for iron 
+and steel that cannot be fulfilled by recycling your way through it. Fifty years 
+from now, we will still be burning metallurgical coal to produce iron and 
+steel. 
+Divya: This is another thing we have talked about. You would prefer to buy names 
+that you can sit on for decades. Potentially forever, right? 
+Mohnish: Sure. 
+Divya: I wish I had bought Microsoft when I was a preteen using the Windows 
+operating system back when there used to be a 386 processor, made by 
+Intel. That could have been my one position, and I would be very wealthy 
+just from that one trade alone. 
+Mohnish: Bill Gates feels the same way. He wishes he had kept his Microsoft stock, so 
+do not beat yourself up too much. It is okay. 
+Divya: He must be a little annoyed that others profited off all of his work, starting 
+the business and everything. But one of the things you have talked about in 
+the past is mistakes you have made with respect to selling positions where 
+maybe you are up 3x on a stock, and you are like, “Oh, I am up 3x on a stock. 
+I am going to sell and get out.” When really, you may miss another 20 x or 
+so of gains. How does that experience impact the way you think about 
+holding? 
+Mohnish: We are all too wise, too late. This is the story of my life. It took me a long 
+time to learn that there are very few truly great businesses and truly great 
+compounders. Very, very few. When you find yourself in the happy position 
+of partial ownership of one of those types of businesses, do not get cute by 
+selling when you think it is overpriced or fully priced, because you do not 
+know what that is. Until it gets crazily egregiously overpriced, and it is 
+obvious that that is the case if it is a great business that is still firing on all 
+cylinders, just keep it. 
+Divya: What would be that break point for HCC?  
+Mohnish: Well, I would say that none of the Mag 7 currently sit at a point that I would 
+call egregiously overvalued. 
+Divya: Yes. I would agree with that. 
+Pg. 8 of 13 
+Mohnish: If you own them, I would just keep them. 
+Divya: Yes. Would you like to talk about Noble or Valaris first? 
+Mohnish: They are also very similar. A drillship is one of these things that would today 
+cost around a billion dollars to build. It allows you to drill deep into the ocean 
+without having feet on the ground, if you will. They are ships that have a 
+hole in the middle to allow drilling and so on. It is an engineering marvel. 
+The last time one of those ships was built was about 10 years ago. The 
+industry went through a crazy orgy of overbuilding about 12 or 13 years ago, 
+and then it went into a total nuclear winter where there was so many ships 
+delivered. Almost all of the players went bankrupt because they were so 
+highly levered, and rates collapsed, and all of that.  
+When we look at the situation today, things have come back into balance. 
+A lot of the older ships have been scrapped. Nothing new has been built. 
+When you look at companies like Valaris and Noble, and if you were to just 
+look at their fleet and say, “Okay what would it cost to replace this fleet?” 
+well, the cost to replace this fleet would be maybe 10 times the market cap 
+because its trading is such extreme end of the thing. The second is that the 
+current rates that you get paid for drillships and jackups, and all of do not 
+justify a new build. For example, a new drillship, which would cost, let us 
+say, a billion and would probably take you four or five years to get delivery, 
+would require day rates in the range of seven or 800,000 a day to get some 
+reasonable cost of capital back. You would need to get about 800,000 a day 
+to get a 12% or 14% return on your capital, which is reasonable. Day rates 
+today are in the four hundreds. You cannot go out and build a ship today, 
+and every day and every year, ships get scrapped. This market is coming into 
+a tightness. The other thing that people do not realize is that offshore 
+drilling for oil has a very low cost. For example, in Brazil, which has huge 
+amounts of offshore drilling, the cost of producing oil is 20 to $30 a barrel. 
+It is almost half of what it costs with fracking to produce oil offshore. It is a 
+long cycle time, high CapEx, but effectively, when you amortize it, you get 
+to the 20, $30 a barrel type price, so it is very profitable. This is a situation 
+where these companies have no debt or very low debt. They have great 
+assets, and the market is gradually tightening. If rates were to go, for 
+example, from the four hundreds to six or 700 a day, Valaris and Noble 
+would be just printing almost the entire market cap in cash every year. That 
+is why Mohnish is there. 
+Divya: Trump has been in the news a lot, trying to revive the American steel 
+industry. You would think that some of those headlines would have had 
+maybe a somewhat more positive impact on the stocks themselves. I am 
+curious, is it a situation where there is just not enough research coverage, 
+or why we are not seeing more of a positive reaction, or is it just that the 
+world sees global manufacturing coming down because of tariffs? 
+Mohnish: Well, cell site coverage on the metallurgical coal names is almost non-
+existent. I will give you an example. I was talking to the CEO of one of these 
+companies, and he told me that they had a 60 to 70-year-old relationship 
+with JPMorgan, a banking relationship. They have never gone bankrupt. 
+They have always been very profitable in banking. JPMorgan told them, “We 
+cannot have you as a customer anymore. Please find another bank because 
+we have too much ESG pressure.” This is a highly profitable relationship for 
+JPMorgan. Hundreds of millions of dollars are going through. They are not 
+Pg. 9 of 13 
+borrowing money; they are not going to default on anything. They are never 
+going to be a money-losing client. You are collecting all kinds of fees on a 
+letter of credit and all of that. Why would JPMorgan say to them, “I do not 
+want your business when I have had five decades with you”? Well, they are 
+saying it for irrational reasons. These companies have a hard time getting 
+insurance, getting banking relationships, getting anything because they are 
+pariah and so on. It is not just on the sell side coverage or no sell side 
+coverage. It is like when they are trying to get insurance, like workers' comp 
+insurance, for example. These companies are self-insuring first 10 million in 
+claims per worker covered by the company. They just need someone to give 
+them a policy because it is required by law. Effectively, they are self-insured. 
+They still have difficulty getting insurance because there are a bunch of 
+companies that will not write that type of coverage. Surety companies, 
+same issue. They need sureties for their minds. Again, they have difficulty; 
+so many things that they need for their business, they repeatedly have 
+difficulty getting. What that means is that for a new company to start in this 
+industry, or a new mine, or a mine that has been shut down to restart, the 
+factors to start it are so challenging that, effectively we are going to see a 
+shrinking pool of productive minds at a time of increasing demand. 
+Divya: What level of access do you typically have? You have been doing this for a 
+long time for the management teams. Is that something you require when 
+you underwrite a new position? Do you know the CEOs of the offshore 
+drilling companies you are invested in or the coal businesses?  
+Mohnish: We have spoken to most of them. We have met most of them because they 
+are treated as pariahs. If I call, they will take my call. Nobody wants to talk 
+to them, so they are happy to talk to Mohnish, but it is not needed. For most 
+of my career, I did not even speak to management teams. For these coal 
+names, you do not need any access. To me, what was more interesting was 
+the visits, the site visits into the mines and meeting the workers, the head 
+of mining, or the head of safety, or someone running the coal terminal, that 
+sort of thing. Those guys were very valuable in terms of helping me build 
+domain knowledge on how this business works. 
+Divya: How is your exposure now in Turkey? I know we have spoken about that on 
+our last call. Are you still invested in Turkey at all, or are you completely out 
+of it? 
+Mohnish: Yes. Long and strong. It took me a long time to figure out that when you 
+have something good in your portfolio, you do not need to do anything with 
+it; leave it alone. 
+Divya: Are you still in? 
+Mohnish: We have some exceptional businesses in Turkey. We bought them at very 
+compelling valuations, and there is no need to do anything. 
+Divya: Is this the airport operator? 
+Mohnish: Yes, the airport operator. The warehouse operator. Their businesses are on 
+fire. 
+Divya: What is the name of the airport operator? 
+Mohnish: It is called TAV Airports. TAV. In the US, all airports used to be government-
+owned and government-run. We now have one airport in the United States 
+Pg. 10 of 13 
+that is privately run, which is LaGuardia, and you know what an armpit 
+LaGuardia was before; you would avoid it like the plague. Now it is preferred 
+to go through. The one to avoid is Newark; you do not want to go anywhere 
+near Newark. But LaGuardia is an interesting case because the first time in 
+the US that they have given it to a private operator for a long period, and 
+they transformed the airport. 95, 96% of airports around the world are 
+government-run and government-managed, and maybe four or 5% are 
+private. In India, almost all the big airports are privately operated. They have 
+BOT models: Build, Operate, Transfer. It makes all the sense in the world in 
+the sense that the country gets a great airport without putting up any 
+capital. A great operator runs it for a few decades, then gives all the 
+infrastructure back to the government for free, and you go on from there. 
+TAV Airports is a wonderful company because it has operating leverage. 
+When passenger traffic goes up 5% or 10% in a year, their costs do not go up. 
+It is pure operating leverage. Over time, their cash flows are just exploding; 
+beautiful business. 
+Divya: Speaking of India, we had previously talked about the National Stock 
+Exchange, maybe briefly. Then there was an energy trading company, 
+Indian Energy Exchange. Yes. Did you ever take a position on any of those 
+names? 
+Mohnish: We used to own IEX. We do not own it anymore, because in the middle, 
+there was a lot of rumbling that started happening that the government was 
+going to destroy that monopoly. It became very hard for us. We went in the 
+too-hard pile. In the end, IEX is going to prevail. It is a beautiful business, 
+but it has become just too difficult for us on that front. The National Stock 
+Exchange of India, NSE, is not a listed company. It is a private company, and 
+it will probably go public in the next year or two. It is a great business. 
+Divya: I was reading your daughter's write-up on it. It is pretty compelling. This is 
+great. We are in a very macro-driven environment right now, and there are 
+a lot of investors who are on eggshells with respect to rates. Trump, every 
+now and then, bashes Jerome Powell for not lowering rates. Has the interest 
+rate environment at all had an impact on how you are thinking about 
+portfolio allocation? It sounds like the cold names do not even have debt, 
+so maybe it is less of an issue there, but certainly from a valuation 
+standpoint, multiples generally come down if rates are high.  
+Mohnish: The seesaw with the tariffs is damaging to the US economy. Those are some 
+things you do not want to change on the fly. I agree with Trump that trade 
+should be free and fair. I also agree with him that the US did not have the 
+fairest deals with a lot of countries. They were taking advantage of where it 
+was not symmetrical. But to go in with a sledgehammer and then keep 
+changing things every few days or every few weeks or every few hours is 
+very problematic. I wish they had taken a surgeon's precision approach, 
+where they go to the large trading partners one by one and sit down with 
+them and redo the deals without saying, “Okay, tariffs are 150%, and now we 
+will sit down and talk.” It has already caused a lot of damage.  
+The good news is that they say they are going to have a deal with China, 
+which would be very helpful. But they need to get the largest trading 
+partners into a space where they are not on quicksand. That is the other 
+problem that the partners have; they feel the US is unreliable because they 
+feel that whatever deal we come up with, it might change in three weeks. 
+Pg. 11 of 13 
+That does not bode well. People in the Trump administration need to spend 
+more time with Adam Smith and David Ricardo. Some basic lessons are lost, 
+and a lot of the trade where we got to was based on Adam Smith and David 
+Ricardo, which is why we were doing well. I agree that there were unfair 
+situations or countries taking advantage of the US and all that, and yes, that 
+should get fixed, and I am glad Trump is fixing it. But charging ahead 
+recklessly without thinking things through is not the right approach here. 
+Divya: What is your take on the big, beautiful bill? Obviously, there is no bill yet, 
+but it is certainly a big headline. 
+Mohnish: Well, I am in Elon's camp. We should not have bills that increase the deficit. 
+Elon saw firsthand how hard it is to cut, and then he sees this bill, which is 
+going to add a few trillion, and that just probably rubbed him the wrong 
+way. Even to get 50 billion in expense reduction is very hard. Everyone fights 
+you all the way. Any bill that is not going to reduce deficits is not a good 
+idea. We cannot afford even $10 more of excess deficit. The US is pushing 
+all the limits. We borrow in our own currency, which gives us a lot of leeway. 
+But really, I yearned for the days of Bill Clinton when the budget got 
+balanced and had a surplus. 
+Divya: The ongoing deficit, how does that telegraph into your portfolio? Does it 
+impact your portfolio at all? 
+Mohnish: It does. All the tariff stuff that is going on right now is not so much a deficit. 
+The tariffs are going to create huge recessionary pressures globally in the 
+US and elsewhere. It is not so much the interest rate. Interest rates are 
+relatively benign right now. But the tariffs, you are playing with fire there. 
+Divya: Mohnish, we have a long chain of questions. We are not going to go through 
+all of them. An easy one: What are you reading right now? 
+Mohnish: The book I have recently enjoyed is Buffett and Munger Unscripted . The 
+author went through all the Berkshire annual meetings online, which are on 
+buffett.cnbc.com. He reorganized them by subject, and that is a yeoman's 
+effort. That is a lot of effort to do that. Not easy to do. Maybe AI makes it 
+easier, but he did a masterful job of that. Larry Cunningham, the professor 
+in New York, had done this for all the Berkshire annual reports, where he 
+reorganized them by subject. If you wanted to know what Buffett ever 
+talked about in his reports about inflation, or capital allocation, or return on 
+equity, or any of these things, you could read that. The annual meeting stuff 
+is even better than the annual reports, because the annual meetings are 
+unscripted. He is not coming there knowing what questions are going to be 
+asked and knowing what the answers are going to be. You have Munger in 
+there, too, who is throwing in his input as well. The wisdom that came out 
+of all of that, and to be able to reorganize by subject, that is fantastic. 
+Divya: You have a lot of Asia investing experience. Have you been bargain hunting 
+in China at all? 
+Mohnish: I do not approach it that way. I look at it bottom up. I look at it from a 
+company point of view. The last couple of years, we found met coal and the 
+offshore drillers in the US. They are global businesses, and they are export 
+powerhouses. They are sending stuff all over the place. Other things being 
+equal, I prefer US governance over anything else. I was able to get US 
+governance, and it is difficult. It is very difficult from my vantage point to 
+Pg. 12 of 13 
+top what we found in Turkey, in the met coal, and in the drillers. Like I said, 
+bottoms up. We look at things that are hated and unloved or being 
+discarded, and that is where we go looking. 
+Divya: You had mentioned wanting to own 10 companies of equal size. It seems 
+like you have four companies? 
+Mohnish: When we make a bet, we ideally want it to be a 10% bet. In an ideal world, if 
+I were starting out on day one and I had 10 ideas, it would be 10% each. What 
+happens is that when you buy something at 2% of liquidation value in 
+Turkey, like we did, and it goes up, it is going to become around 40, 50% of 
+the portfolio. We are now going to trim that because it is still undervalued. 
+If you are successful as an investor, you are going to end up with 80% in a 
+single position, and one should not have that many reservations about it. If 
+you look at the Walton family and Walmart, for example, when Walmart 
+went public, 55 years ago, the Walton family owned about 46% of Walmart. 
+If you look at it today, they owned 46% of Walmart. Sam Walton died 33 
+years ago. The founder passed away, and the leaders are changing, but they 
+have not done anything. They have been running this thing following the 
+“set it and forget it” approach. The dividends that have come out of Walmart, 
+if you ever visit Bentonville (one of the best places on the planet to live), you 
+will see what they have transformed it into. It is a biking mecca. It is a 
+cultural mecca. They have just transformed the place. It is incredible, and 
+that has all come out of the dividends. They have never sold a share of stock. 
+It is a very natural thing for entrepreneurs to be highly concentrated. 
+Investors need to understand that when you do things well, you are going 
+to end up with a heavy concentration in a few businesses, and that should 
+be okay. 
+Divya: I want to end on a positive note. We have talked about some of the volatility 
+with respect to the way the world is operating nowadays. What are you 
+most optimistic about from a geopolitical standpoint, and also from a more 
+domestic policy standpoint, if anything? 
+Mohnish: I am always a bull on America. We are somewhat playing with fire when we 
+turn away the foreign students. That is a big issue. I mean, the tariffs, that is 
+a big no-no from my point of view, especially the way they are being 
+implemented. Messing around with foreign students? That is a huge 
+mistake. Education is one of America’s best exports. If we are talking about 
+uneven trade, well, education is a great trade, and now we are turning away 
+tourists, too, which is another major American export. I get concerned when 
+we start messing with the crown jewels like that. I am hoping cooler heads 
+will prevail. We should be making it easier to bring in the best talent from 
+around the world. The United States has always done incredibly well by 
+attracting top talent. Just look at the Mag 7. Look at who is running those 
+companies, the senior leadership, and all of that.  If you take foreign talent 
+out of that picture, we have a real problem. We need to keep leveraging our 
+strengths; bring in the best, make trade free and fair again, and let the 
+country do what it does best. Just let it rip. 
+Divya: I think that will resonate with most of the folks on this call, hopefully 
+everyone. Mohnish, this was great. What a privilege. Thanks again for taking 
+the time and imparting your wisdom to all of us disciples of value investing. 
+It has been great chatting. We will look forward to the next one, and 
+hopefully, we can do something in person one of these days as well. 
+Pg. 13 of 13 
+Mohnish: That would be great. Well, Divya, I always enjoy our banter, so thank you so 
+much. 
+Divya: Mohnish, thanks so much. And thank you, AlphaSense, as well, for 
+sponsoring. Looking forward to doing this again. Thanks everyone. Bye. 
+Mohnish: Thank you. Bye. 
+ 
+ 
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not 
+intended to be financial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not be 
+suitable for you, do not take into account your particular investment objectives, financial situation, or needs, and are not intended 
+to provide investment advice or recommendations appropriate for you. Before making any investment or trade, consider whether 
+it is suitable for you and consider seeking advice from your own financial or investment adviser. 
+ 
+ 

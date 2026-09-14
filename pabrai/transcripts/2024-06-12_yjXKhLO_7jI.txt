@@ -1,0 +1,634 @@
+Pg. 1 of 15 
+Mohnish Pabrai's Session with the CFA Society, 
+United Kingdom on June 12, 2024 
+ 
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not intended 
+to be financial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not be suitable for you, 
+do not take into account your particular investment objectives, financial situation, or needs, and are not intended to provide 
+investment advice or recommendations appropriate for you. Before making any investment or trade, consider whether it is suitable 
+for you and consider seeking advice from your own financial or investment adviser. 
+ 
+Brishni: Good evening everyone. We are delighted to welcome you to CFA UK's eminent 
+speaker series and I am delighted to have with me Mohnish Pabrai. Mohnish, as 
+many of you know, is the director, founder, and managing partner of Pabrai 
+Investment Funds. Mohnish is also involved very heavily with the Dakshana 
+Foundation, which does a lot of great charitable work, particularly when it 
+comes to the field of medical sciences. Mohnish made a transition from being 
+a technologist or a technology-focused investment professional to investing. 
+He follows the path of Ben Graham, Warren Buffett, and Charlie Munger. With 
+that Mohnish, we are delighted to welcome you.  
+For those who do not know us, my name is Brishni Mukhopadhyay, and I am 
+delighted to be joined by my colleague Oliver as well. We are both the co-chairs 
+of CFA UK's value investment special investing group. For those who are not 
+yet members or have not yet renewed the dues for CFA UK, there is still time 
+to sign up, so please do so. With that, Ollie, I will hand it over to you. 
+Oliver: Mohnish, thank you so much for joining us. It is very generous of you to come 
+and also your generosity in sharing your ideas on investing, on your life, books, 
+articles, and interviews. I am sure many here will be familiar with your back 
+story. But for those less familiar or as a reminder I was going to ask you to walk 
+us through your early years and, in particular, I was interested in whether having 
+a magician for a grandfather and an entrepreneur for a father who started many 
+businesses brought you to where you find yourself today. 
+Mohnish: It is wonderful to be here. Thank you for having me. I am glad we could make it 
+work. Well, in many ways, I feel like I kind of won the Ovarian Lottery. I had 
+wonderful parents and an amazing grandfather. My grandfather passed away 
+when I was about 12 years old. He was a world-famous magician; probably top 
+four or five in the world. Initially, learned his trade here in London from a British 
+magician named Owen Clark. He was always, right till the end, trying to 
+continuously improve as a magician. But as a grandfather, he would take 
+summers off and we would visit him. We would go to my mom's childhood 
+home and foothills in the Himalayas. We had very nice summers in that place. 
+He would start the day by doing magic tricks for us. He was very good at close-
+up magic. Magicians could do many different things, but he was really good at 
+close-ups, which is more difficult. We would get up in the morning and have all 
+Pg. 2 of 15 
+these different tricks and things he would do. Then, he would want us to have 
+dessert. It would immediately go from magic to going to someplace that had 
+great desserts. Of course, he ignored my grandmother and my mother and all 
+of that. His focus was to make sure that all the grandkids had the time of their 
+lives. Summers were really amazing with him.  
+My father was a kind of quintessential entrepreneur. He must have started, 
+grown, and bankrupted at least a dozen companies in a dozen different 
+industries. The common theme was that he was really good at identifying 
+offering gaps in the market. He was really good at looking at what was going 
+on and saying, “Oh, if there was a product or service like this it could do well.” 
+It never really stopped him in terms of whether he had competence in that 
+particular area. He was really good at figuring out things in a variety of different 
+industries.  
+One of the ventures that he had started, actually paid for our college education 
+in the US before it went bankrupt. He started a gold jewelry factory in Dubai, 
+and then he went bankrupt. That bankruptcy in 77 was pretty intense for him. 
+He had switched for the first time in several decades to a job. He would take a 
+job in Dubai, some semblance of stability, and he was on a flight going from 
+Mumbai to Dubai. There was this guy in the gold business who was sitting next 
+to him throughout our flight. By the end of the flight, they decided to become 
+partners. They were going to create a new venture. My dad just talked to him 
+about his business and it turned out that the UAE had no duties or tariffs on raw 
+gold coming in, but they had a 2% duty on finished gold coming in, in jewelry 
+form. The 2% was on the entire value of the jewelry. If you just looked at the 
+labor content, the duty was much higher because most of the content was 
+gold; labor was a small portion. The guy who was a jeweler was telling my dad 
+that there is no jewelry manufacturing that exists in Dubai or the UAE but if 
+someone were to set it up, and move the goldsmith from India, even though 
+the cost would be higher there was an arbitrage because there was a big spread 
+between your elevated costs and what would be the cost of finished gold 
+coming in. That is what my father is all about; the arbitrage spread. He thought, 
+“Okay, this guy knows the jewelry business. I understand spreads. We can do 
+this.” The fact that he had no capital, was always a minor detail for my dad, and 
+it worked. He was smart. The guy who was his partner was a third generation, 
+70-80 years in the jewelry business, and he kind of grew up with it. He had a lot 
+of knowledge. My dad in about 10 months was equal to him in knowledge. He 
+knew just as much about the businesses as him, and he was better than him 
+because he had done a lot of things in manufacturing. He was able to bring in 
+a bunch of processes and things, which were better than what this guy could 
+do. That business took off because there was a spread. Then other people 
+figured out that there was a spread. Then the second competitor, the third, and 
+then a lot of competitors, and that spread just vanished. It became really hard.  
+By that time, my brother and I were two-thirds our way through our degree 
+when he went bankrupt. One of my uncles helped us finish college. That 
+Pg. 3 of 15 
+business which was happening from the time I was about 14 or 15 onwards, he 
+used to take me on sales calls with him when I was about 16. I really do not 
+know why he did that, because I was a squammy underweight kid with no 
+charisma for sales or anything. He would be calling these jewelers and then 
+walking in with a teenager, but he really did not care about all that. It taught 
+me a lot because I just saw how he would walk into a store where he does not 
+know anyone and they do not know him, and he closed deals. Jewelry is a big 
+trust business; people have to really trust you. He was able to build that quickly. 
+By the time I was 18, so many of these businesses went bankrupt. When my 
+brother and I were 12 or 13, we used to sit down with him. We were elected 
+board of directors at night, and we had to figure out how to make business last 
+for one more day. All the walls were caving in, the business was dying, and we 
+were just trying to make it last for one more day. We make it last for one more 
+day, and then the next night, we would sit down and think of ways to make it 
+last for one more day. I finished several MBAs by the time I was 18. There was 
+no plan for any of this, but looking back, without that experience, I would not 
+have been able to be an investor. It helped me. I did not even know I had this 
+skill, but I can crack business models really fast in a lot of industries that I may 
+not have seen before because I got so much exposure in those years. I am very 
+grateful that it went that way. 
+Oliver: That is fascinating. Thanks. Let us fast forward a bit. You became an employee 
+at Tellabs and then moved into international sales and marketing and 
+eventually founded your own business. Do you want to talk a bit about that 
+journey maybe to the point where you sold a minority stake to seed your first 
+investment? 
+Mohnish: Because my parents were really bad financial planners, I had seen so much 
+turmoil in my childhood. When the business went bankrupt, there was no 
+money for rent or groceries or anything. They are trying to borrow from family 
+and friends and it was pretty traumatic. My take was that once I got my degree 
+in engineering, I knew that I would have good job prospects, a good career, and 
+a decent income. I would put away 15% in a retirement plan and let it compound 
+and so on. I really had no interest in ever being an entrepreneur. That is what I 
+had resigned myself to. That is what I was doing.  
+My dad was visiting me when I was 24, and one day he told me that it was time 
+to quit and start my own thing. I said, “Do you remember my childhood? It is 
+not the path I want to go down.” He said, “All I remember was a lot of 
+excitement. Look, there are only two kinds of people who matter in large 
+businesses; the people who create and the people who sell. Then a lot of fill-in-
+the-blanks in the middle. You never want to be in the middle. You either do not 
+want to be on the creative side, or you want to be on the selling side if you want 
+to work for someone.” I was at that time on the selling side, and before that, I 
+was on the creative side on the R&D side. When I was in R&D, he told me “Look, 
+you could drop that tomorrow. And they would not even know that that has 
+happened. They would not even miss you.” He helped me move to the other 
+Pg. 4 of 15 
+side because he said, “Even if you are a mediocre sales guy doing something, 
+you add value to the business.” I moved to international marketing and sales, 
+and then he told me, “Look it is good that you made the move from creative to 
+selling, but all the spoils go to someone else. You do not really see much of the 
+spoils and you need to capture more of the spoils for yourself.” I was getting 
+bored with the bureaucracy, so I thought maybe he was right. I will take the 
+plunge. I will try to make it as low-risk as possible. Then I found an offering gap 
+because I knew how to find offering gaps. I can find offering gaps really easily. 
+Even Pabrai Investment Funds had an offering gap. I went down the path and 
+then accidentally heard about Warren Buffett and Charlie Munger, exactly 
+about 30 years ago. That was a big eye-opener for me because I said, “Wow, 
+this is cool because you are using the same brain cells to do investment 
+research as you would to figure out a strategy in a business that you are 
+running.” I found it more interesting that I thought it would be more interesting 
+and more leverage to apply those brain cells in investing because you would 
+not have to do any execution. I always enjoyed the strategy part of the business 
+much more than the execution part. The execution is a lot of heavy lifting. It is 
+fun, the first few times, but it is better to be on the strategy side and figure the 
+business out. The big aha moment for me with Warren Buffett was that all he 
+does is figure businesses out. He does not really run them. That is how it was 
+made. I tried to see if I could make that transition. Then I did it being an investor 
+for myself. I sold a small portion of the company at a million dollars. For the first 
+time, I had cash in the bank. About five years later that million was about 13 
+million. The public investing went way better than I thought between 1994 and 
+2000. That led to the formation of Pabrai Investment Funds, and I went from 
+there. 
+Brishni: That is an interesting one, Mohnish. You mentioned low risk and the offering 
+gap piece, and you talked about the menteeship that you had with Charlie 
+Munger and Warren Buffett. How do you look at that offer gap as well as those 
+low-risk scenarios and sectors that might not necessarily be ones that you 
+would have traditionally focused on? What would be your suggestions to 
+someone who is maybe young and starting in the industry for the first time, or 
+maybe even to experienced investors? 
+Mohnish: Well, our job is to look for anomalies. Our job as investors is to look for things 
+that make no sense. When things make no sense, that is when there is some 
+opportunity. On a steady-state basis, markets are mostly efficient. If you have 
+a business like Coca-Cola and they sell set up to bottlers and have a dominant 
+brand all over the world, it is unlikely that a business like that would trade for 
+one times earnings most of the time. It is unlikely we even trade for 10 times 
+earnings. Sometimes things get euphoric, and it may trade for 40, 50 times 
+earnings like it did in 99, 2000. Sometimes things get kind of pessimistic like in 
+the early seventies and until the early eighties when it is trading at seven times 
+earnings, so it vacillates. When a business like that gets to the low-end extreme 
+of being very undervalued, then that is interesting. I do not like to quote Jim 
+Pg. 5 of 15 
+Kramer too much, but he says, “There is always a bull market somewhere.” He 
+is right in a way. It is not possible that in a global market of 50,000 traded 
+equities, everything is perfectly priced. It is the nature of markets that they are 
+going to undershoot and overshoot. In fact, if you just throw darts on all the 
+businesses in the London Stock Exchange or the New York Stock Exchange, any 
+random company that the dart hits, you look at a 52-week range on that stock, 
+it is going to be like 60 to a hundred or like 75 to 125 or 75 to 150. It is not possible 
+for most businesses that there is that much value change happening in a single 
+year. The core business does not change that much in a year, but the stock 
+price, because it is an auction-driven market, the nature of auction-driven 
+markets is that the way the mechanism by which prices get set can have a 
+deviation from underlying fundamentals. That is what allows us to make a 
+living. That is what we do. There are always things that are going on in markets, 
+and I have always felt that whatever criteria you set, you will find. If you said “I 
+only want to buy things that are at a trailing PE-1,” you would find those. If you 
+said “I only want to buy things that are trailing PE of 0.1,” you would find those 
+too. If you said, “I only want to buy things at one-third book value,” you find 
+those as well. You can set any criteria you want, and Mr. Market will give you 
+companies that fit that criterion. Then you can drill down and see whether that 
+works for you or does not work for you. Take it from there. 
+Oliver: Would you be able to describe a bit about when you generated the growth from 
+one to 13 million and maybe in your first few years running the Pabrai 
+Investment Funds, would you say it is more deep value? Or if you do not want 
+to label it, but devalue special situations, or were there quality companies as 
+well in that mix? 
+Mohnish: When I first started as an investor, I spent a lot of time reading up on Warren 
+Buffett and Charlie Munger and Berkshire annual reports and all of that. 
+Because I was running this IT business, my circle of competence was very 
+heavily technology. Technology has the nuance of having high returns on equity 
+for the most part. It is a good place to be. As long as you are not paying too 
+much, it is always great to be in businesses that have growth and that have high 
+returns on equity. From 94 to about 99 or 2000, I was very much a growth 
+investor. Almost the entire portfolio was 10 at that time, probably 80, 90% was 
+10. But I got concerned. I had privately started a .com and it failed. That was 
+painful. I lost about 3 million. I had some outside investors that lost about 2 
+million. But that gave me about a three-month look ahead of what the market 
+could see. I could see that we were in a very big bubble in early 2000, and late 
+99. I did not know when it would blow and how it would blow, but I was pretty 
+sure at some point this party would come to an end. Pabrai Investment Funds 
+started in July 99, and I made a complete switch at that point. I went from these 
+great tech businesses and so on because they have become just so frothy to 
+deep value. In fact, the day the NASDAQ peaked, I think March 9th, 2000 was 
+the day Berkshire hit a multi-year low. People were literally selling Berkshire to 
+buy pets.com and chemex.com and whatever else was happening then. Stable 
+Pg. 6 of 15 
+businesses in the markets became hated and unlocked, and they became really 
+cheap. I was buying funeral homes and companies having oil tankers and that 
+sort of thing. We did really well. NASDAQ crashed and burned and Pabrai 
+Investment Funds, from 99 to like 2007, before fees, did 37% a year; no down 
+years for about eight years. It was done with a bunch of very basic non-growth 
+type businesses. I got so comfortable with the deep value. By around 2011 or 12, 
+I should have switched back because, by that time, all the froth and stuff had 
+gone away, but I had become so comfortable in this. I was about six years late 
+in actually realizing I needed to kind of go back to the better businesses. But 
+you know, it is a forgiving business and life is okay. 
+Brishni: On that theme that you mentioned about looking at deep value versus growth, 
+do you find any resonances right now, let's say the AI team or deep growth? 
+And how does one cut away the noise from looking at true value-oriented 
+sectors or companies? 
+Mohnish: Value and growth are joined at the hip. It is like a coin with two sides. I cannot 
+think of them differently. All businesses are worth the sum of future cash. They 
+produce discounted to present value at some reasonable interest rate. It does 
+not matter whether they are looking at Nvidia, some fuel home, or any 
+business. Any business has a very clear-cut single definition of what it is worth. 
+The controversies come in when considering what are those cash flows and 
+how certain are you. That is where the difficulties come in, because businesses, 
+by nature, are very unpredictable. There is a wide range of things that can 
+happen to a business over time, especially the further out you go in the years. 
+The inside of Nvidia could not tell us what it will look like five or 10 years from 
+now in terms of revenue and cash flow. They might have some difficulties with 
+that, so people on the outside looking in would have even greater difficulties. I 
+do not particularly go one way or another. It is always better to be invested in 
+a business that has growth prospects and high returns of equity. It could be 
+better to do that and even pay a higher multiple than a very low PE on 
+something flat or declining. The bias should always be toward a great growing 
+business, but one should kind of be agnostic. You should just look at the 
+landscape, see what is going on, and take it from there. 
+Oliver: Whitney Tilson calls himself a money investor. Over the years with Pabrai 
+Investment Funds, have you found certain sectors that you have done better in 
+or worse in? Or has it really been style-agnostic? Sector agnostic, just look for 
+opportunities? 
+Mohnish: It is an opportunistic business. People asked Warren and Charlie, “If you guys 
+were starting today, how would you do?” Charlie’s answer was, “We would do 
+terribly.” In the sixties or seventies, they were shooting fish in a barrel after 
+letting the water out. They had so many opportunities. In 74, 75 that was an 
+orgasmic period to be a value investor. It was unbelievable. You could pretty 
+much have bought anything and you would have done well. Equities were 
+prime to do well for the next couple of decades. Today, Charlie and Warren 
+Pg. 7 of 15 
+always complain that the brain power that is focused on public equities and all 
+of that is very significant. We have more mutual funds than stocks in the US 
+probably similar in the UK, and we have more hedge funds than stocks. We have 
+more analysts than stocks by some factor three to one or four to one or 
+something. A lot of stuff is picked over. I found in the last few years that it is 
+quite difficult to find stuff.  
+When I look at my portfolio currently, it is the weirdest portfolio you can think 
+of. I manage about a billion dollars, bought 600 million in Turkey in three names, 
+another 300 million in coal, three or four names, and a few other things, which 
+do not matter that much. I would have never guessed that way. Just to tell you 
+how weird and opportunistic this business is, 13 months back, my investments 
+in coal were zero. I had no investments in the coal business. About 13 months 
+ago May 18th or so, I saw a tweet on Twitter where someone had pushed my 
+hand up on the tweet and said David Einhorn's position in CONSOL Energy 
+looks a lot like Mohnish's IPSCO bet. IPSCO is a business that I have very fond 
+memories of. When I saw that tweet, I thought that even though God loves me, 
+he does not love me so much to give me a second IPSCO; it is one and done. 
+What happened in 2003 or 2004 was never going to happen in my lifetime 
+again. IPSCO was a tubular steel manufacturer in the US and Canada. They 
+made steel for pipelines and oil fields. The company with no debt had $15 a 
+share in cash, and they had given guidance that for the next two years, their 
+net income and free cash flows were going to be $15 a year for each year, for 
+the next two years. The stock was at $40. If you just look for the cash on the 
+balance sheet and the next two years of cash coming in, you would be at $45 
+and the plant, equipment, and inventory would all be free. There was no debt. 
+This was not really guidance. When these people built pipelines, they gave 
+purchase orders to IPSCO because they wanted a guarantee that that steel 
+would be delivered at certain times in certain places. These were firm purchase 
+orders. The company had extreme clarity on exactly what they would produce 
+and what their cash flows would be. It was not like Apple giving guidance or 
+Microsoft giving guidance. This was a contractually set and very cyclical 
+business. It was possible that after two years, cash flows could be zero, or 
+negative, but I thought why focus on the negative? Let us keep them like my 
+dad. Let us always take the glasses overflow. The extent of the analysis I did 
+was that I just wanted to own this for two years. I just want to see what Mr. 
+Market prices this at two years from now and there is $45 in the balance sheet. 
+I really want to see if this price is at 40; that would be fun to see. That was the 
+extent of the analysis. I had no insight into what happens in year three or year 
+four.  
+One year goes by and the company announces that we are going to have one 
+more year or $15 a share. Now we are at 60. Well done Mohnish. The stock is 
+now at 90. It has been moving up and it is more than double. We still have this 
+issue where it is a very cyclical business and who knows what happens. I was 
+thinking that if we got long-term gains, we could unload and move on. While I 
+Pg. 8 of 15 
+was running this thing through my head one day, I woke up and the stock is at 
+155. A Swedish company offered to buy it for $160 a share. I do not know why 
+the Swedes did not come a year earlier and buy it for $60 a share, but things do 
+not make sense on this planet. As Mark Twain says, “Fiction makes sense, but 
+reality never makes sense.” In one femtosecond, after reading that, I unloaded 
+the shares. When I was reading this tweet, someone said, “IPSCO is back.” That 
+is a wonderful life. I said, “Let us look into CONSOL Energy,” which I have never 
+heard of in my life. I looked into it and I realized that there were some 
+differences, but there was a big positive in CONSOL, which was not there in 
+IPSCO. CONSOL was furiously buying back shares. If IPSCO was doing 
+buybacks, it would have been on steroids. That would have been something; a 
+sight to behold. There were very few management teams that were 
+enlightened enough to do buybacks. This does not fit for most management. A 
+CEO of one of them was telling me, “I buy my stock, the cash leaves and nothing 
+happens to a stock price. It just goes into the ether.” Management teams have 
+a really hard time with buybacks. It turned out that CONSOL also has contracts 
+a year in advance. For example, most of the next 12 months of their sales, they 
+already know what they are going to collect. They also know a bit about two 
+years and three years; not a hundred percent that they know more and they are 
+using all the cash or buybacks and so on. In many ways, it is not as tight as 
+IPSCO, but in some ways, it is better. It is not identical, but quite similar. I said, 
+“This is wonderful. It is back. IPSCO is back. Life is good.” I spent a lot of time 
+last year with coal miners and in the coal mines, and that also was an orgasmic 
+experience. It was really good actually. Coal miners are some of the best people 
+on the planet. They are just wonderful people; in Northern, Central, and 
+Southern Appalachia. They were so wonderful. I spent about eight months 
+trying to get my arms around coal. I still have a lot more to learn. We have some 
+more trips coming up later in the summer and are looking forward to those. 
+Here we are with 30% in coal and life is good. 
+Brishni: It is a very interesting point that you bring up, Mohnish. It really shows 
+behavioral biases in terms of the need to try and understand the investments 
+that you are making based on your time spent with the coal miners. Are there 
+any similar unloved sectors that you spot or sectors that are overhyped due to 
+either cyclical trends or maybe long-term trajectories? How does one go about 
+even approaching that clearly coal was not a sector you were looking at, but 
+you did the deep dive and understood that? When someone starts looking at a 
+sector and has got no idea about it, how should they approach those scenarios? 
+Mohnish: A good way to look at it is to try to focus on what is hated and unloved. Hated 
+and unloved is a good way to start. I made my first trip to Istanbul in 2018. I was 
+just in Istanbul before coming to London. I made that trip just because I was 
+looking at numbers and Turkey was screening super cheap. Of course, it had a 
+lot of issues. It had inflation, crazy monetary policies, and the currency getting 
+decimated; all recipes for great disasters. But I thought that the bluefish was 
+very good. I should make a trip to Turkey and see what is happening. I had a 
+Pg. 9 of 15 
+friend who was a Ben Graham disciple; a nice guy. I said, “Hey, if I came to 
+Istanbul, could we visit the businesses in your portfolio?” He said, “Oh, it would 
+be so much fun.” I said, “Look, here are the rules. Number one, do not take me 
+to any company that you do not have an investment in. Number two, let us 
+start with idea number one, and then idea number two, just go down the list.” 
+I started to look into Turkey and I found that a lot of it was correctly beaten 
+down because it deserved to be beaten down, but there were some babies 
+thrown out of the bath water. We just need a couple of babies. We do not need 
+much; one or two. That is what we are looking for. We are looking for some 
+anomalies, and Turkey had a few because no one was interested. No one 
+wanted to be there, and so you had some really, really high-quality businesses 
+like Coke bottlers and dominant beer brands. A lot of the footprint of these 
+companies that were listed in Istanbul, the revenues were coming outside of 
+Turkey, so they were being punished just because they were listed there. We 
+said, “Okay, we can do that.” There is no strategic plan that one can come up 
+with. One needs to read newspapers and keep your eyes and ears open, look at 
+value line or whatever is the equivalent in the UK, and look at what things are 
+in an area where not too many people are paying attention or people hate it. 
+That are generally going to be areas where there could be possibilities of 
+something. We do not need a whole lot. If you can find one of those in a year, 
+we are doing well. 
+Brishni: Great. Before we open the room to questions, there is one final question that 
+we got from a member who could not make it. How much attention should a 
+bottom-up value investor pay to macro trends? I know the CPI numbers came 
+out today, some would suggest they are lower than what was expected. So 
+some of the equity indices have certainly rallied, but is that necessarily a 
+concern? 
+Mohnish: It is in the noise level. The less clutter in your mind, the better it is. It is hard 
+enough to just figure out what one simple business is going to do long term. 
+We do not need to complicate the situation. Our energies need to be focused 
+on the micro, on the individual business, the individual managers, and what are 
+the likely range of outcomes for that business. When you start overlaying, 
+macro and CPI and interest rates and all that, it is just going to, for the most 
+part, lead you astray. Keep it simple, focus on the business, and make sure you 
+understand the business. If you understand the business, then you understand 
+what it is worth. Then you can divide it by two or three to see if you can get it 
+in; one-third, one-half, or some number lower than that, and then we go from 
+there. 
+Brishni: Sounds good. Well, Mohnish, thank you so much for answering the stage 
+segment. With that, let us open the floor up to questions. 
+Alan Smith: Hello. I am Alan Smith. The last speaker at CFA society was all about macro, 
+actually Russell Napier. We talked about financial repression, but the reason I 
+brought him up was he started the Library of Mistakes, and they were to open 
+Pg. 10 of 15 
+up a branch of the Library of Mistakes in London. I remember you talking about 
+that a couple of years ago. It was a Latticework, and you said that you were 
+studying your own mistakes diligently and going to produce taxonomy because 
+there were learnings on that. Could you perhaps share that with us? 
+Mohnish: Charlie used to say to me that you want to learn from your mistakes, but you 
+do not want to learn too much. Investing is a business where if you have a 50% 
+error rate or 40% error rate, that is par for the course. It is a business where 
+there is going to be a large error rate because we are trying to project into the 
+future. It is fraught with uncertainties. You are going to have a lot of errors, and 
+it is a useful exercise to look at the things that have not worked and why have 
+they not worked. It is also a much richer data set if you can look at the 
+investment mistakes of the greats because your own mistakes will take a long 
+time to build a record.  
+If you were to look at Berkshire Hathaway or other investors you admire, we 
+have several decades of history. That can accelerate the learning. Warren and 
+Charlie have been very transparent about many mistakes they have made. You 
+can look at the businesses, and the question to ask is what was very obvious at 
+the time the investment was made by this great mind that was visible and 
+should have been a showstopper, but the great mind missed it. Then, what I 
+did is I converted that into a checklist question. That is exactly how checklists 
+were designed in aviation, and that is why flying is so safe. The FAA in the US 
+has a definition of what a human life is worth. I am sorry to report to you that 
+they have a very finite number that they assigned to a human life. I have not 
+looked at it recently, but maybe 10 years ago when I looked at it, it was 1.8 
+million or something, US two and a half or 3 million now. What they would do 
+is that when a plane crashed, they would look at what happened, how many 
+people died, and if nothing was done, how many people were likely to die in 
+the next 10 or 20 years. Then they would multiply that number by the 1.8 million 
+and they would only ask the industry to make changes if the cost of those 
+changes was below that number. It was very pragmatic in the sense that if there 
+is a particular issue with the aircraft engine or something that they want to 
+change, not fixing this issue would lead to a hundred people dying a year. The 
+budget is 180 million per year, so you would have a billion dollars or $2 billion 
+or something that you could ascribe and tell the industry to fix it. The approach 
+the nuclear industry took in the US was that a human life was worth infinity. 
+Their perspective was that we cannot lose a single life. That is the depth of the 
+nuclear industry and a very clean solution for energy. It never got a fair shake. I 
+much prefer the FAA's approach.  
+Going back to the checklist, they came up with these checklists for pilots for 
+takeoffs and landings and all these things based on making sure that they did 
+all the things they were supposed to do. The investing checklist was just one 
+based on error. If we saw that the Dexter shoe investment did not work at 
+Berkshire, we would ask the question, “Is this the bit of a business that can be 
+decimated by lower-cost foreign manufacturers?” The US air investment that 
+Pg. 11 of 15 
+Berkshire made is the business unionized and can unions do the business in? Is 
+it a low-cost operator? USA was a high-cost operator and it had unions and it 
+had Southwest come in into their backyard and give them a lot of problems. 
+That is how I went about building the checklist. It was faster to use other 
+people's mistakes. I also used my own mistakes, and that has been actually 
+quite useful. 
+Melvin: Thank you, Mohnish, for coming. You have been a great influence on my life. 
+You do not know this, but I am telling you, the first lesson I learned from you 
+was not about investing, but it was taking a nap, which I read in an interview of 
+yours probably in 2002, or 2003. Since then, I have been taking a nap. Thank 
+you very much. 
+Mohnish: I took a nap just before this, so I am ready to rock and roll. 
+Melvin: I am not going to insult your time by asking you what the different value and 
+growth are investing and nonsensical questions like that. What I want to ask 
+you about is after working for 17 years for other people, I started my own 
+company and I have an investment management business. You have said in the 
+past that it is very easy for entrepreneurs to become investors, but not 
+investors to become entrepreneurs or something around that. Long story short, 
+the question is how have you thought about building Pabrai Investment Funds 
+as a business, but more kind of spreading out and really building an asset 
+management business? Some tips and tricks would be gratefully received. 
+Thank you. 
+Mohnish: Buffett says, “I am a better businessman because I am an investor and I am a 
+better investor because I am a businessman.” There is a lot of interplay between 
+the two. If you have done one, you have got some advantage in doing the other. 
+In general, going from entrepreneur to investor is easier than going the other 
+way, especially if you have done a bunch of this in your teen years. Running 
+lemonade stands at the age of 12 is very useful. In the investment business, 
+there are some really simple things that I latched onto that Warren Buffett had 
+talked about. He said that if you delivered above-market returns, they would 
+swim to you in the middle of the Atlantic through shark-infested waters to 
+invest with you, even if you were a leper. You do not need any sales skills; they 
+will find you. The key is that above-market returns after frictional costs and all 
+of that is a rarity. The important thing when you are running an investment 
+management operation is the focus has to be on doing well. If you do well for 
+your investors, then without even that much nudging they probably want to 
+give you more money. What you can also do is nudge them. One of the things 
+I found very peculiar about the investment business when I started was that 
+because I was running these private partnerships and hedge funds, the FCC in 
+the US did not allow me to speed dial a bunch of dentists in North Carolina and 
+pound them on the phone and say, “Please invest with me.” That would be 
+illegal for someone like me to do that. That is how I built my business. My father 
+would go to doors. You basically build a list of likely customers and you just go 
+Pg. 12 of 15 
+through the list. When I heard the rules that you can only talk to people you 
+know, and you cannot talk to people you do not know, I said, “I am going to run 
+out of people I know in about 15 minutes. Then what am I going to do after 
+that?” I really was in a quandary, but then I said, “Okay, humans are looking for 
+a purpose in life. We were lucky the first year; we were up like 70% or 
+something. I went to my investors and said, “Thank you for your confidence and 
+support, and please give me more money to manage.” I remember there is a 
+great quote by Bill Gates and he says that even if you are a monopoly, you have 
+to ask for the order. I went to my investors and very directly asked for the order, 
+and then the second thing I told them was, “You can talk to your friends and 
+family, but the FCC will not let me talk to them until they call me. I need you to 
+tell them that I am the greatest thing since sliced bread and that they should 
+call me. Once they call me or email me, I can pound them forever and nobody 
+has any problems with that. Please set it up so I can bother the people closest 
+to you.” They were very willing to do that too because they wanted to be led to 
+the promised land. I was telling them, that this is the path to the promised land. 
+The math is really simple. Let us say I started with $1 million. A year later, I had 
+like two and a half million; it became 1.7 million from the growth. About seven, 
+800,000 came in. If you were running an investing operation where your 
+returns were, let us say 15 or 20%, and assets coming in were another 10, or 15%, 
+this would be 25, 30, or 35% a year. That 35% a year would be assets doubling 
+every two years. Anything that is doubling every two years will grow pretty fast. 
+On a million dollar, 2 million or $3 million base to bring in a million dollars or half 
+a million dollars is not that hard. I had eight investors when I started, a year later 
+I had 17 investors, and then two years later I had about 25 investors. I was 
+spending a lot of time on those 25 and I was pushing for them to open up their 
+networks and for them to open up their checkbooks, and we just kept going. 
+Thankfully what was helpful to me was the numbers were really good as we 
+were growing. It worked. Also, the other useful thing is to focus on friends, 
+family, and food, especially the food. Then it works well. 
+Andrew: Thanks, Mohnish. If I were looking at your fund or someone else, they might say 
+those are pretty concentrated bets on Turkey and coal, and they might think 
+that seems a bit hairy, perhaps. With the deep value style, the issue might be 
+that you can never have to be wrong because if you are wrong in a big way with 
+such concentrated bets, there are a lot of downsides. What would you say to 
+an investor who is concerned about that? If it goes well and the coal mines do 
+well, you have to find the next deep-value opportunity. It is less of a kind of a 
+compounder. I suppose you have this question from investors. How would you 
+answer that? 
+Mohnish: Those are really good questions. My portfolio is so weird at this time. Most of 
+my net worth is in the funds. I have multiple incentives to not get it wrong. I 
+spend a lot of time actually thinking about that. The conclusion I came to is that 
+I really cannot think of Turkey as a monolith. We have three bets in Turkey, two 
+out of the three bets the vast majority of their income and assets are outside 
+Pg. 13 of 15 
+Turkey. There are subsidiaries and all of that. There is a lot of inferencing around 
+those other subsidiaries. It is kind of difficult to come up with scenarios where 
+there is a total implosion. I really cannot think of scenarios where something 
+like that can happen easily. That would be a very extreme outlier. In effect, this 
+becomes around five bets. Five bets are okay. It is very comfortable with these 
+bets. Two of them do not work, and maybe even three of them do not work. 
+The third one, we do not have a complete buyout. The end of that will still be 
+okay. As I sit here today, I have difficulty figuring out or coming up with 
+scenarios where even one does not work. It is probabilistic. It is positive; the 
+upside was the downside. There is a lot of focus on the downside. Even on the 
+cold side, these businesses have no debt, which is very unusual for mining 
+companies to not have debt. They actually have net cash, and they are very 
+focused on returning the cash to shareholders. They are very relatively simple 
+businesses in terms of how they are running. They were all resilient. If you have 
+businesses with no debt, they are all anti-fragility potent. The other question 
+about what happens in the future, well, this is all opportunistic. There is no 
+strategic plan here. We may find things in due course or we may not. Time will 
+tell, so we do not find it. I hope I am smart enough to either put the money in 
+treasuries or something benign and be patient.  
+Brishni: 4.5% 10-year yields. It is not bad.  
+Speaker: Hi Mohnish. Thank you so much for doing this. It has been great. My question 
+is about persistence. You said your trip in 2018 helped you invest in Turkey and 
+understand the businesses there, but then before the return to orthodoxy, what 
+was happening there? All the headlines around Turkey about the economy 
+were negative. How do you still have the persistence? Do you still keep holding 
+those stocks and not sell them? 
+Mohnish: That is a great question. When I went in 2018 and 2019 and later, I did not doubt 
+that the Turkish lira would continue to get decimated. For example, in 2018 
+when I visited, it was three lira to the dollar. In 2019, it was five lira to the dollar. 
+Now it is approaching 33 liras to the dollar. In dollar terms, we are heavily up on 
+our investments. I concluded that probably out of around 200 listed Turkish 
+companies, maybe 180 or 190 or more were not investible because they would 
+face headwinds with those sorts of inflation numbers and devaluation 
+numbers. But it was very clear that some businesses were either going to be 
+totally unaffected by it or were actually going to get tailwinds out of it.  
+One of the investments we made in Turkey was a company called TAV Airports. 
+All the revenues of TAV inside Turkey and outside Turkey are denominated in 
+Euros. In Turkey, a lot of their costs are denominated in lira. The Turkish people 
+suffer a lot, so their wages did not go up at the rate of inflation. What has been 
+happening with TAV airports is that their costs in Euros, when you convert the 
+liras to Euros are declining in this headwind environment. When I looked at it, I 
+said that this business is not going to be effective, plus a very large percent of 
+their footprint is outside Turkey; even if you ignore all the currency issues and 
+Pg. 14 of 15 
+all that. On top of that, there was a deal they had done in the middle of COVID 
+where they took over the Almaty airport in Kazakhstan. There are very few 
+airports in the world. First, most airports are run by the government, but a few 
+are private. Most of the private ones are under BOT arrangements. Will it 
+operate transfer where eventually the concession runs out and you transfer 
+every take to the government? Heathrow is different from that and very few 
+airports are like Heathrow, but the Almaty airport was an outright purchase. It 
+is a very rare, unusual situation for an outright purchase. It was an outright 
+purchase, and it was a purchase happening when passenger traffic was zero. 
+You can imagine what kind of price the buyer would pay when the business is 
+producing losses, heavy losses with no end in sight, and a lot of uncertainty. 
+They got a great deal on that purchase. There are two Harvard Business School 
+cases. You can buy them for like $7 or $8 a piece; the price is right. They are on 
+TAV airports. One of them is about the deal with Almaty. That transaction took 
+place when they bought that airport for 400 million. They put in about 200 
+million of CapEx. They just opened a new terminal; a total of 600 million. On a 
+bad day today, they could unload that for several billion dollars. If they offered 
+it for sale, there would be bidders coming in at 3, 4, 5, and 6 billion for that 
+property. They would refuse to sell at those prices anyway, so that was in the 
+mix as well. When I looked at it, I said, “The baby is thrown out of the bath water. 
+We have to be very careful about this environment.”  
+We have a Coke bottler in Turkey, but a large portion of the footprint is outside 
+Turkey. They are the number one. They have all the bottling rights in Pakistan. 
+They just got half of Bangladesh and they have about eight or nine other 
+countries. Most of the footprint is outside Turkey. Even within Turkey, if we had 
+a global thermonuclear event and everything got wiped out and out of seven 
+or 8 billion humans, we had 15 million humans left, let us say somebody would 
+restart a Coke bottling project and the Coca-Cola company would still have the 
+trademark even if they had to pay for it in seashells, the currency is not relevant. 
+People will be willing to trade a certain amount of their labor for a Coke. They 
+will be ready for a Coke especially after such a thermonuclear event. That 
+business has been around for like 140 years and it is not going anywhere for 
+another 140 years. There was a lot of resilience when you have iconic assets like 
+that at valuations, that make no sense. That is why we went and did it. The 
+headline is all Turkey and 60% and all of that, but when you kind of drill down 
+into it, we have 12 million square feet of prime real estate and warehouses in 
+Turkey. The Indian guy with a weird mustache, owns one-third of it. The Indian 
+guy with a weird mustache paid 8 million for the one-third, which has got a 
+liquidation value of approaching 2 billion now. We are one-third of that and that 
+footprint is Amazon, Ikea, Carrefour, Toyota, and Mercedes. These are the 
+tenants; long leases, and inflation index leases. I could not find a way that it was 
+going to go away suddenly. 
+Brishni: Thank you very much, Mohnish. Thank you to everybody for participating. We 
+really appreciate it. 
+Pg. 15 of 15 
+ 
+ 
+ 
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not intended 
+to be financial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not be suitable for you, 
+do not take into account your particular investment objectives, financial situation, or needs, and are not intended to provide 
+investment advice or recommendations appropriate for you. Before making any investment or trade, consider whether it is suitable 
+for you and consider seeking advice from your own financial or investment adviser. 
+ 

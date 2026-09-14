@@ -1,0 +1,591 @@
+Pg. 1 of 14 
+Mohnish Pabrai's Guest lecture at University of Nebraska, 
+Omaha on October 15, 2024 
+ 
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not intended 
+to be financial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not be suitable for you, 
+do not take into account your particular investment objectives, financial situation, or needs, and are not intended to provide 
+investment advice or recommendations appropriate for you. Before making any investment or trade, consider whether it is suitable 
+for you and consider seeking advice from your own financial or investment adviser. 
+ 
+Prof. Liu: We are very honored to have Mohnish Pabrai right here with us. Mohnish Pabrai 
+managed a multi-billion-dollar hedge fund. The growth rate of the Pabrai 
+Investment Funds will beat the market every year. The S&P 500 gross rate is 
+about 7%, and the annualized gain of Mohnish Pabrai’s fund is more than 12%. 
+Mohnish has been featured in the Wall Street Journal, Forbes, CNN, CNBC, 
+Bloomberg TV, and many others. If you just Google his name, you will see all 
+those news articles talking about his success in the investment world.  Mohnish 
+and I met at the Berkshire Hathaway meeting, and since then we have had a 
+connection. Mohnish has been very generous, giving us seminars at CBA in the 
+past years, and we continue doing this. Today he is giving us a guest lecture. 
+He has given guest lectures at Columbia, Boston University, Cambridge, and all 
+the prestigious universities. We are very lucky to have Mohnish here with us 
+today. Let us welcome Mohnish.  
+Mohnish: Thank you, Prof. Liu. It is a pleasure. It is always fun to be in your class. Also, the 
+live session in May in Omaha is always wonderful as well.  
+Prof. Liu: Let us get started.  
+Mohnish: You all know that Charlie Munger passed away last year. He was a director of 
+Costco for many decades. Charlie truly loved Costco. I used to meet Charlie for 
+dinner at his place maybe three, or four times a year. I used to play bridge with 
+him sometimes on Fridays, at the LA Country Club. Almost every time I met him 
+for dinner, we talked for at least 20-30 minutes about Costco. He always had 
+several things to say about Costco. Charlie referred to Costco as the ultimate 
+win-win-win business model. It is a business that does an exceptionally good 
+job for all its customers. It is a business that does a very good job for its 
+shareholders. It is a business that does a really good job for its employees. It is 
+a business that does a very good job for its vendors. The entire ecosystem 
+benefits. There are many business models that you could call win-lose. For 
+example, if there is a company that stretches out the payments they have to 
+make to their suppliers, maybe they take 60 days or 90 days to pay their 
+suppliers, and they use that float to improve their financials. That works well for 
+the company, but not so well for the supplier. That is an example of a win-lose 
+business model. Munger always brought up how Costco was amazingly win-
+win across the board. There is a quote he said in 2022 which was, “Just imagine 
+Pg. 2 of 14 
+how good a country the US would be if everybody followed the Costco model.” 
+Even if you look at something like employee compensation at Costco, there are 
+a lot of hourly workers. It is a retail operation. Costco's hourly rates are 50% 
+more than Walmart's, for example. Their employee turnover is much lower than 
+all other retailers, and they heavily promote from within. In fact, the present 
+CEO of Costco started as a forklift operator, and he moved up to be now the 
+CEO of this large company. It is definitely a win-win for the employees. If you 
+go to the food court in Costco, you can get a hot dog and a Coke or soda for 
+$1.50 and that $1.50 price has not changed in several decades. We have had a 
+lot of inflation in the last few years and beyond. They have kept that price the 
+same. You can have a full meal at Costco for under $2. You cannot do that even 
+at McDonalds. They have always tried to keep prices low. They do not mark 
+things up more than 15%. That is the maximum markup they have. Costco could 
+raise prices by 5% or more tomorrow across the board, and their profits would 
+go up and their sales would not change, at least not in the short term. They do 
+not do that because they are not really a retailer. They are like buying agents. 
+Charlie always loved the Costco model. These win-win business models are 
+very rare and they tend to do extremely well for investors. One of the things to 
+look for when you are looking at different businesses is if it is a win-win. This 
+whole notion of win-win-win lose is very complicated. It appears to be simple, 
+but it is not.  
+At the 2005 Berkshire Hathaway annual meeting, there was a question 
+someone asked. I am not going to go through the whole answer, but Warren 
+had answered part of the question. Then Charlie said, “I think he is asking in 
+part, are there some businesses we will not have as subsidiaries in Berkshire, 
+even though they are wonderful businesses? Are we rejecting some business 
+opportunities on moral grounds?” Warren Buffett says, “Well, we have referred 
+in past meetings to one we did on that basis. We will own stocks of companies 
+where we would not want to own the whole business.” I am not sure that the 
+logic is perfect on that, but we would not have trouble owning stock in a 
+cigarette company. We would not want to manufacture cigarettes. We might 
+own a retail company that sells cigarettes. There are all kinds of gradations, but 
+there are things we do not want to own and be responsible for their businesses 
+where we have no problem owning their stocks or bonds. Some years back, 
+Charlie and I went down to Memphis, and then Buffett said, “We were invited 
+down and we looked at a company that made a product that is perfectly legal; 
+probably one of the best businesses I have ever seen in terms of the economics 
+of it.” Then Charlie Munger says, “Absolutely.” Buffett then says, “Still doing well. 
+We went to a hotel. We met in the room with the people that had the business 
+and the people were perfectly decent and they described the business to us. 
+We went down in the lobby and I remember we sat down in the lobby and just 
+decided that we did not want to be in that business. The lines are not perfect 
+on this sort of thing. I am sure there may be ads in the Buffalo News that are 
+selling some investment advice or something that I would cringe at if I knew 
+the people involved or what they were selling. If you own a big retail 
+Pg. 3 of 14 
+establishment, a retailer, or general merchandise, you are probably going to be 
+selling cigarettes when you do not think you should smoke yourself or that your 
+children should smoke, and they are not perfect. But we have turned down 
+some, the most dramatic being that one. It took us a trip of 1000 miles or so to 
+finally face up to the fact that we did not want to own it. Charlie, do you have 
+anything to add to it?” Charlie says, “No, but that was interesting because we 
+were young and poor then by modern standards and we are very human and 
+we could see it was just like putting $100 million in a bushel basket and setting 
+it on fire as we walked away.” Let’s play a video. 
+[VIDEO PLAYS] 
+Mohnish: Charlie was saying that the company that they passed on was Conwood 
+Chewing Tobacco. The odds of getting cancer by chewing tobacco versus 
+smoking cigarettes is like one 20th. It is 5% of the odds of getting cancer by 
+smoking cigarettes. It is much lower than cigarettes, but it is not zero. They 
+passed on the business. The Conwood deal came to Buffett and Munger in 1986. 
+It was offered to them for $400 million. The operating profit in 85 was around 
+22% pretax. If you fast forward to 2005 or so, which is about 20 years after they 
+passed on the deal, you can see that sales had gone up, but profits had gone 
+up a lot more. They had gone up more than five times. The pretax margin on 
+the business was around 55%, much better than 20 years before that. The net 
+profit and net operating margin was 36%. The Pritzkers bought the business for 
+400 million in 86. As Charlie said, Jay Pritzker snapped it up so fast because it 
+was so easy to see this was going to just mint money. Pritzker sold it 20 years 
+later for three and a half billion. They had close to eight or nine times. The 
+business kept going after that. If you go another ten years forward to 2016, you 
+can see that sales have doubled, and profits have gone up even higher than 
+sales. Now the after-tax margin is almost 40%. This is an unbelievable business. 
+Munger said in 86 when they saw this that it was the most no-brainer business 
+that they were looking at. It was just like putting 100 million in a bushel basket 
+and setting it on fire as we walked away. Buffett said this was probably one of 
+the best businesses he has ever seen in terms of the economics of it. In 1980, 
+the stock price of Berkshire Hathaway was around $400 a share. What is now 
+about close to $700,000 a share was almost one 200th of that price in 1980. In 
+1986, I am guessing the price may have been somewhere between 1000 and 
+2000 per share. The market cap of Berkshire, which is now hovering around a 
+trillion, would have been around 500 million or so. This particular deal was a 
+very meaningful deal for them in terms of if they had done this deal, it would 
+have been a very sizable part of Berkshire Hathaway at that time. It would have 
+driven some incredible results for them, but they took a pass on it.  I already 
+told you that it kept compounding.  
+Let us now look at Valeant Pharmaceuticals. Some of you may be familiar with 
+Valeant, or maybe you were too young when Valeant was imploding about 
+eight or nine years ago. Valeant was a darling of a lot of investors till around the 
+middle of 2015. Then it began to decline very precipitously. In June 2015, 
+Pg. 4 of 14 
+Sequoia Fund, or Ruane, Cunniff & Goldfarb, was a fund that started in Omaha. 
+It was the fund that Buffett's original partners in the Buffett partnership were 
+recommended by Warren to invest in when he shut down his partnership in 
+1970. In many ways, Warren says he feels like he is the father of the Sequoia 
+fund or Ruane, Cunniff. Anyway, Ruane, Cunniff, at that time, in the middle of 
+2015, had more than one-third of its portfolio in Valeant; $7.5 billion in Valeant 
+out of a $21 billion portfolio. Bill Ackman's Pershing Square had about 30% in 
+Valeant. About 4 billion out of a 14-billion portfolio. Some of you might know 
+Jeff Ubben, ValueAct Capital. He had about 3.3 billion in Valeant out of a $20 
+billion portfolio. All three of them suffered huge declines and huge losses when 
+Valeant imploded. Buffett was really upset at the whole Valeant saga, at the 
+way Ruane, Cunniff invested in it, and made it its largest position. As we will 
+see, it was not a win-win business model. Before the decline in the stock price, 
+Charlie Munger called Valeant’s core strategy of buying smaller drug companies 
+and then raising prices, deeply immoral. He said “sewer” was too light a word 
+for Valeant and Buffett and Munger made these comments while Valeant was 
+still flying high and deeply loved by Ackman, Ubben, and Ruane, Cunniff. What 
+was the problem with Valeant? The CEO of Valeant, who was a former 
+consultant at McKinsey had an insight that pharmaceutical companies had a lot 
+of inefficiency in the way they spent money on R and D. He had analyzed and 
+found that a lot of pharma companies really do not do a holistic analysis of how 
+efficient or effective their R and D is. He came up with a business model where 
+Valeant would acquire smaller drug companies. It would gut their R and D 
+departments; almost wipe them out, and then they would look at the portfolio 
+of drugs that the company was selling, and they would increase the hell out of 
+the prices on those drugs. Many of these drugs were under patent. Many of 
+these were lifesaving drugs that really did not bother them. They raised prices 
+to as high as they could get away with. Of course, when you do the combination 
+of those two things, the earnings go up a lot. Then they were running almost 
+like what Warren called a chain ladder where they would continuously buy 
+these drug companies, continuously gut their R&Ds, continuously raise prices 
+dramatically, and just keep going. Bill Ackman is a smart investor. I am going to 
+talk about some investors here. I am not trying to be beat up on them. I respect 
+a lot of these investors, but I am just telling you how easy it is for our brains to 
+miss something obvious. These are really smart investors. Ruane, Cunniff is a 
+very good shop. Pershing Square is a very good shop. ValueAct Capital is a very 
+good shop. They missed something very basic. What they missed was that the 
+business model was win-lose. A lot of investors do not pay enough attention to 
+the win-loss nature of business models. It is really important. When you run 
+businesses through that lens, you can say “no” very quickly to a lot of businesses 
+without spending a lot of time on them.  
+Credit Acceptance is a company that makes auto loans to people who have the 
+worst possible credit. These are people who have repeatedly not paid back 
+their loans in the past, people who have defaulted on their credit cards, and 
+who have had maybe foreclosures on their homes. They have never been 
+Pg. 5 of 14 
+responsible for credit. Those are the people they lend to. But they have a very 
+unusual business model. What Credit Acceptance does is because they are 
+lending it to people with extremely low FICO scores and a very high risk of 
+default, the interest rates are extremely high; 30%, 40%, 50% interest rate. The 
+second thing that they do is that the car dealership that is selling the car is 
+made to have skin in the game. Let us say, for example, there is a car being sold 
+for 10,000, and let us say, for example, that the car dealer is going to make 
+$2,000 on that sale. The cost of the car is like 8000. They are going to sell it for 
+10,000. Let us say that credit acceptance is going to finance $9,000 off that car 
+loan. What they will do is they will tell the car dealership to finance 3000. In 
+other words, 3000 is coming from the car dealership and 6000 is coming from 
+Credit Acceptance. The borrower gets 9000 at a very high interest rate. They 
+do this so that the car dealer who is the one who is meeting the borrower is 
+making some assessment of whether this is going to work or not. Because if it 
+does not work, the car dealer is going to be upside down at a $2,000 profit. But 
+they have put 3000 into the deal, so they would be upside down if the loan 
+does not get paid. When the car is financed, there is a device put in the car in 
+most of the deals where once the payment is 24 hours delayed from its due 
+date, the car will not start. They will remotely disable the car from starting. The 
+person goes to get in the car, it does not start, and then they call Credit 
+Acceptance. Credit Acceptance says, “We have not received your payment. 
+Please send your payment, and your car will start again.” After maybe four or 
+five days or a week of no payment being received, one day the person will go 
+outside and see there is no car; it has been repossessed. They have a very good 
+ecosystem of repossessions and non-starting cars.  
+One of the interesting things about car financing is people are more willing to 
+default on their mortgages versus car payments. The reason is that if you 
+default on your mortgage, it is going to take twelve to 18 months for the bank 
+to get you out of your house. But if you default on your car payment, even if it 
+is not Credit Acceptance, even if it is Chase or somebody, they will start working 
+on repossessing your car in a few weeks. You will not be able to go to work. 
+Whereas if you do not pay your mortgage, you can still go to work every day.  
+Auto financing is a pretty good place to be because of these nuances. Credit 
+Acceptance has not imploded like the way Valeant imploded. It is doing fine. It 
+is extremely well-regarded by investors. They have delivered incredible returns 
+to the shareholders. The present and past shareholders of Credit Acceptance 
+include Ruane, Cunniff, Seth Klarman, and Francois Rochon. He comes to 
+Omaha every year and runs the great fund from Montreal, Rob Vinal in Europe, 
+Francis Chu and Maverick Capital, and so on. I studied Credit Acceptance a few 
+years back and I was really impressed by their business model and thought that 
+this is a good business; it is helping people who would not have the ability to 
+get a car. While I was studying business and I was interested and excited about 
+it, I had a dinner with Charlie maybe three, or four years back. I said, “Charlie, 
+have you heard of a company called Credit Acceptance?” He said, “No.” I said, 
+Pg. 6 of 14 
+“Let me describe the business to you.” I must have spent less than a minute 
+talking to Charlie about Credit Acceptance, explaining the business exactly the 
+way I explained it to you. He interrupted me and said, “We are not interested in 
+that kind of business.” That was really surprising to me. He said, “We do not 
+want to do predatory lending. We do not want win-lose business.” It was 
+interesting to me because till I spoke to Charlie, it had never really dawned on 
+me that Credit Acceptance was a win-lose model. To me, it seemed like they 
+were helping a demographic that would not have wheels, would not have a car, 
+and would help them become responsible. But Charlie's kind of standards are 
+that we can make a lot of money by taking the high road. He immediately 
+rejected Credit Acceptance, and when he brought up the win-lose nature to 
+me, I immediately stopped looking at Credit Acceptance. Thank God for 
+Munger, as a friend, I did not make that investment. But of course, a number of 
+these people that I have on this list still have an investment in Credit 
+Acceptance, and they love it. They talk in glowing terms about it.  
+Let us talk about TransDigm. If you look at this company, it's up 173x in the last 
+18 years, 33% annualized. Unbelievable. You can see that their revenues have 
+gone up a lot. The earnings have grown a lot. The present and past shareholders 
+of TransDigm are many. Wally Weitz is based in Omaha. Some of you might 
+know Wally Weitz. He is on the Berkshire board. He runs Weitz Mutual Funds. 
+Chuck Acre, Maverick Capital, Stephen Mandel, Daniel Loeb, Brian Lawrence, 
+David Abrams. A very good set of investors have either currently or in the past 
+owned TransDigm. In one of his last public comments before he died, around 
+eight to twelve weeks before he passed away, Charlie Munger was asked about 
+TransDigm in a podcast. He said, “I do not like that way of making money. It is 
+too brutal. They figured out something that has a little monopoly due to the 
+Defense Department regulations. They raised the price ten times and they are 
+famous for it. I regard that as immoral. What is the TransDigm business model? 
+TransDigm is in the aerospace parts manufacturing business. What they do is 
+buy the smaller aerospace parts manufacturers. If you have something like the 
+Boeing 737 airplane, for example, almost none of those parts are made by 
+Boeing. Boeing is only an assembler. The fuselage comes from Spirit 
+AeroSystems, the engines come from GE, and so on. It takes a lot to get a part 
+qualified and approved by the FAA to go into an airplane. This is why air travel 
+is so safe. Typically, these parts that go into the Boeing 737 or Airbus, do not 
+have more than a couple of manufacturers. Sometimes they might just be one 
+manufacturer of a particular part, and they may never be more than two or 
+three, because it is not that you manufacture the part. You have to have that 
+part approved by the FAA. The FAA is not going to approve a part unless they 
+are 5000% sure about the quality and nature of the manufacturer and all of that. 
+What TransDigm does is when they buy these companies, they dramatically 
+jack up the price a lot and to whatever the market will bear. The market can 
+bear a lot because there are not ten different manufacturers you can go to for 
+that part. Munger immediately saw that as a win-lose. He was very familiar with 
+TransDigm and with the money they were making. Berkshire has never invested 
+Pg. 7 of 14 
+in it but there are people on Berkshire's board, like Wally Weitz, for example, 
+who have had these investments. These win-lose type scenarios are not easy 
+to figure out all the time. Sometimes it is obvious, but many times it is not. You 
+can look at a cigarette company and say that this does not work or you can look 
+at a casino and say it is win-lose. But sometimes you get to models like 
+TransDigm, which appear to be great.  
+I thought a lot to myself about how Charlie did it. How was he so fast? I saw his 
+brain and it blew my mind to watch his brain in action on Credit Acceptance, a 
+company he has never heard of. In less than 60 seconds, he dismissed it. I 
+realized that the model that he is using is the model of inversion. Charlie always 
+said, “Invert, always invert.” A lot of problems can be solved by using inversion. 
+The question he asks himself anytime he encounters any investment is not, 
+“Why should I make this investment?” He is looking for the flimsiest reason to 
+take a pass. His mind is immediately running on, “Why is this a bad investment?” 
+and not “Why is this a good investment?” When he keeps hammering on it and 
+cannot come up with a reason like Costco, then he falls in love with the 
+investment. Those win-win-win investments will end up having tremendous 
+returns for investors because of the extreme loyalties and goodwill. If you think 
+of the customers of TransDigm or Valeant, those are pissed-off customers. 
+They are being forced into a corner and they are forced to pay a high price. A 
+customer of Credit Acceptance, even if he is a deadbeat, thinks the 50% interest 
+rate he is paying is gouging, even though he has defaulted on every loan he has 
+taken in the past. In capitalism, because there are 50,000 stocks, we can be 
+extremely selective. We can say “no” to almost everything. Warren's biggest 
+complaint with Charlie was he was what he called the abominable. Warren 
+knew that anytime he called Charlie, he was going to tell him how stupid he 
+was and how bad the idea was. Warren knew even before he called Charlie that 
+almost anything he was going to bring to Charlie's attention, Charlie was going 
+to reject.  
+I remember, for example, they bought General RE, which was the largest 
+acquisition Berkshire had made, in 96 or 97 or somewhere around then. General 
+RE turned out to be a huge problem investment for Berkshire. They had to work 
+hard because the culture had eroded. They had not realized that, and they paid 
+a big price for it. Munger was asked about General RE investment. It was a $20 
+billion acquisition for Berkshire at the time. The market cap was only around 
+60, 70 billion at the time, maybe less. He said, “Oh, I did not know about this 
+deal until it was almost done.” It is interesting. A $20 billion deal is not brought 
+to the board of Berkshire. It is not brought to the lifetime partner of Warren 
+Buffett. Warren looks at the deal and proceeds on his own. Probably one of the 
+reasons he did not bring it up to Charlie is because he got sick and tired of the 
+no’s. Charlie is a huge value to Berkshire. I wish we had a list of every investment 
+that Warren wanted to make, and Charlie rejected. That would be a great list to 
+look at because it went through one great mind and then the second great 
+mind stopped it. It is because of the second great mind that Berkshire has the 
+Pg. 8 of 14 
+record it has. It is because so many of the deals that Warren would have done 
+did not happen. These are just some thoughts I wanted to share with you guys 
+in terms of win-lose. When you look at investments, it is a very good filter to 
+always begin in your head with, “What is wrong with this? Why won't this work? 
+Why should I not invest?” Thank you. 
+Prof. Liu: Thank you, Mohnish. Now it is time to ask questions. I know many of you guys 
+are interested in finance, and investment, and we have an expert here. You can 
+ask anything related to the lecture or anything about investment in general. 
+Speaker 1: Do you think anyone could replace Charlie Munger? 
+Mohnish: There was always one Charlie Munger. I have to pinch myself because I got to 
+see Charlie up close and personal, but we do not need to see him up close and 
+personal. If you look at the body of work that Charlie has put together, we have 
+not had a mind like that amongst humans in at least 2000 years. We are unlikely 
+to see a mind like that. Charlie is one of a kind. My friendship with Charlie was 
+about 13-14 years. In 13 or 14 years, I never asked him to meet me because I 
+always felt like he had a lot of demands on his time, and I did not want to be 
+making requests. Whenever I met for bridge or dinner or whatever, it was on 
+Munger’s initiative. He was the one who wanted us to meet. In the summer of 
+2023, I felt like I wanted to meet Charlie. For the first time, I approached his 
+assistant and said, “Can you please see if Mr. Munger is available for dinner 
+sometime? I would like to meet him.” He immediately said “Yes.” I met him and 
+it turned out that that dinner was exactly 30 days before he died. I did not know 
+at that time that that would be the last time I would see him. It was just me and 
+him. There were just two of us for dinner, and his mind was still sharp and 
+everything. Charlie has eight kids, and many grandkids and great grandkids. I 
+asked him, “Charlie, in your gene pool, who stands out?” His answer to me was, 
+“No one.” I said, “What do you mean, Charlie? I know so many of your kids and 
+grandkids. They have gone to all these elite schools, and they have done so 
+well.” He said, “They are smart and have done well in school and life, but they 
+do not stand out. They are not at that level.” There was no one there and that 
+was his gene pool. But I say that my view is that if you go outside the gene pool 
+to 8 billion humans that are currently alive, there is no one like Charlie. If you go 
+back 2000 years in history, there is no one like Charlie. People draw analogies 
+with Ben Franklin. Ben Franklin is one of a kind; he is very unusual. Charlie has 
+a lot of common traits with Ben Franklin, but there are things about Charlie that 
+are not part of Ben Franklin. Many things about Ben Franklin are not part of 
+Charlie. The amazing thing about Charlie is that there is an incredible body of 
+work he left for us. We have Poor Charlie's Almanack. We have all the Berkshire 
+meetings, which are archived on buffett.cnbc.com. We have all the daily journal 
+transcripts. We have a lot of resources and things that Munger left for us. 
+Studying those can only help us become better. Today’s talk was very small, 
+less than one 10th or 1% of Charlie, which is this whole idea of win-lose and why 
+should I not make the investment? It is a small part of what he does. There is 
+no other Charlie Munger, and we will never see one. 
+Pg. 9 of 14 
+Kaegon: The day when there is no Warren Buffett, do you think that Berkshire is going 
+to be the same company with the same values, or is it going to be something 
+different? 
+Mohnish: It is a different skill set to keep Berkshire going than what was required to 
+create it. The creation of Apple needed Steve Jobs. Tim Cook could not have 
+created Apple but he has proven to be a great leader in managing and running 
+Apple. The skill set needed at Berkshire to take it forward from here is not the 
+skill set that Warren and Charlie had that led to the creation of Berkshire. 
+Keeping it going is a lot simpler than the creation. Having said that, the big 
+challenge with Berkshire Hathaway is size, and its size is the problem, even if 
+Warren and Charlie lived forever. It is not so much a successor issue. It is an 
+issue that would be an issue no matter who is running it. Greg Abel will be a 
+very good leader. He is a very capable guy, very smart, and he understands the 
+Berkshire culture. Berkshire has got a lot of tailwinds going for it and has a great 
+reputation. Humans have a good record of creating crises every 10-15 years or 
+so. If we have a crisis, Berkshire will shine. It has got a lot of liquidity, and it can 
+go on the offense. The Berkshire of the future has a good future. 
+Kaegon: Let us say you are 19 years old. You do not have what you have now, and you 
+are doing it all over again. How would you start? 
+Mohnish: Should I assume you're 19? 
+Kaegon: Good guess. 
+Mohnish: Well, it is a very big advantage to be 19. Warren always says that when he is 
+asked this kind of question, he would happily trade places with you. He would 
+give you everything he had and make you 94 years old, and then he would be 
+19 and go from there. He would be happy to trade places with you. It depends 
+on what your objectives in life are. If your objective in life is to compound 
+assets, be successful, and be wealthy, it is a relatively simple game. You are 
+already asking me the question when you are too old. I wish you asked me this 
+question when you were seven years old, because we lost twelve years, man. 
+We lost twelve years that we cannot bring back. But it is better than asking me 
+this question when you are 30 years old. It is not too bad. 19 is not a bad age. 
+One of the things to keep in mind is that the laws for individual retirement 
+accounts, IRAs, are that you could be six months old and you can have an IRA. 
+There is no minimum age to have an IRA. The requirement is that the money 
+that you put into an IRA has to be wages earned by you. For example, if you 
+were 15 years old and you did some odd jobs and worked at a McDonald's, and 
+made, let's say $10,000 in a year, you could put 5000 or 6000 of that. I do not 
+know what the exact number is. It is six and a half thousand into an individual 
+retirement account. You could put up to 100% of those earnings into an 
+individual retirement account and they would be tax-sheltered. They would not 
+be taxed until they were withdrawn. If it was a Roth IRA, they are taxed upfront 
+Pg. 10 of 14 
+but never taxed later. Having fluency in the US tax code is important. Being able 
+to compound money in a tax-free manner is important.  
+When my daughter was 18, she finished high school and got a summer job. She 
+made$5000 or $6,000 that summer. She was living at home and did not have 
+any expenses. The 5000-6000 was just sitting there and was not used. I told 
+her, “If you want to take my advice, I will just put this money into an IRA and if 
+you trust me, you can give me power of attorney and I can manage that.” She 
+did that. She opened an IRA. She went to school at NYU and we were living in 
+California then.  I used to pick her up at two or three in the morning at LAX 
+when she would come home. One time we had a long drive, more than an hour. 
+It was two or three in the morning, and we were driving back. I thought this 
+was a good time to talk about the power of compounding with her. I said, “Look, 
+that $5,000 you put in your IRA. I am only going to put it in one or two stocks 
+and concentrate the hell out of it. Let us say it grows at 15% a year. What would 
+that amount be when you turn 68, which was 50 years from now?” The rule of 
+72, which you can Google, says that 72 divided by 15 is five. In other words, 15% 
+compound; it will double every five years.  5000 is going to become 10,000 in 
+five years. It is going to become 20,000 in ten years, 40,000 in 15 years. 50 years 
+is ten five-year periods. That is two to the power of ten which is 1024. Let us 
+throw away the 24 because I like easy math. 5000 times 1000 is 5 million. The 
+5000 that she made at 18 at the age of 68, 15 percent annualized compounded 
+is $5 million. I told her, “At 19, you might do another internship. You might make 
+a little bit more money, but let us say you save another 5000. At 69 that is going 
+to be another $5 million. At some point, you are going to graduate. At 22 or 
+something, you will make maybe 100,000 a year, and you might save 10, 20 
+thousand and you might be able to put that away because you can now do 401K 
+and an IRA and so on.”  She was falling asleep, but she was wide awake when 
+she heard that. I said, “You keep doing this and after 10, 15 years your income 
+might be a quarter million or something. It keeps going and you keep saving. 
+How much money do you have when you are 70?” She said, “I do not know, it is 
+too big a number.” There were not a lot of heroics required to do that.  
+Now you can take that 15% compounding rate down to even eight or 9% and 
+even then the number will be very large. At the age of 19, I cannot do anything 
+about what happened in the past in life because you never came and talked to 
+me when you were seven. It is terrible but that is okay. At least we talked today. 
+From here on, you can stop making the mistakes you made in the past and 
+spend less than you earn. Always put the money to the max if you can, in a 
+retirement account and let it compound. One of Munger's best quotes is, “Do 
+not interrupt compounding unnecessarily.” We are not going to go on vacation, 
+empty the 401K or the IRA, go to Hawaii, or buy a fancy car and all of that. We 
+are going to live a happy life, and a happy life does not need a lot of money. For 
+example, once a week my partner and I have dinner at Costco. Both of us have 
+hot dogs, the drinks are free. I might sometimes get a slice of pizza. It is around 
+$6. It is a great date night and I get to spend an hour in the most orgasmic place 
+Pg. 11 of 14 
+on Earth; Costco. I just watch the swarms of humanity so happy with their 
+loaded carts as they leave Costco. It is a great date and the price is right. Then 
+the next night we go for dinner at some fancy place. It is around $200 and it is 
+not even as good. I would say just do all your dates at Costco. Meet the right 
+person and keep compounding and you are done. You live a good life, you put 
+some away, and then you wake up one day, you look to your left and look to 
+your right, and those people who are your peers, they are way back from where 
+you are and you cannot even see them from where you are. That is it. 
+Speaker 2: How do you feel about Blackstone Investment Firm? 
+Mohnish: Well, Blackstone is a wonderful company. Stephen Schwarzman built a 
+tremendous company. The sovereign wealth funds have huge amounts of 
+money to put to work, and they have very few places where they can give that 
+money to be put to work. There are three or four tall bridges like Blackstone, 
+Apollo, Brookfield, and the Abu Dhabi Investment Authority. Or the Qatar 
+Sovereign Wealth Fund or Singapore’s Wealth Fund. These are the places they 
+have to give the money to. They have been really good at how they have 
+deployed at scale. It is a very good business. If you think of it from a win-win-
+win-lose point of view, huge part of it possibly could be leverage. Leverage is 
+always a negative, but, almost all their leverage is non-recourse. They are 
+usually quite prudent about the way they do that. It is a good business serving 
+a demographic that needs its product. 
+Prof. Liu: Mohnish, when did you start your first investment? 
+Mohnish: I did not know a lot about investing. I accidentally read a book about Warren 
+Buffett when I was about 30 years old and the light bulb went off. At 19, you 
+have a huge head start on me. I did not know what investing or stocks or 
+compounding or anything else was till I was 30. In 1994, that was when I first 
+started to invest. 
+Prof. Liu: Tell us more about your story. The students are very interested. How did you 
+become so successful even though you started late? What is the secret to the 
+recipe? 
+Mohnish: Well, the thing is that for all of us in different fields or different interests that 
+we have, we are going to sometimes have an “aha” moment. The important 
+thing when you have that “aha” moment is to seize the moment and go all in. 
+When I was reading one of Warren Buffett’s biographies, I read a quote that he 
+said which is, “I am a better investor because I am a businessman, and I am a 
+better businessman because I am an investor.” There is an interplay between 
+running a business and being a good investor. What I realized when I was 
+looking at the way he was doing different investments is that I had been an 
+entrepreneur since my mid-twenties. I was spending maybe three or 4% of my 
+time figuring out the strategy and direction of the business I had, and then 
+about 95, 96% of the time on the blocking and tackling to actually execute that 
+strategy. Most of the time went on executing. What I realized when I read about 
+Pg. 12 of 14 
+Buffett is that he was using the same part of the brain I was using to figure out 
+my strategy for my business, to figure out his investments, and accept that it 
+was 80% of his time and not three or 4% like I was. Because he was not running 
+something, he had a lot of time available to invest. I always found the 4% time 
+on strategy to be a lot more interesting than the 96% herding cats and making 
+things happen. It was fun, but the 4% was the most fun; figuring out what is 
+going to be a strategy, what is going to be a direction, all of that. I realized that 
+if I spent more time as an investor, that 4% time would increase. I was very 
+interested in that. In 94, when I was 30, I had about a million dollars. I had just 
+sold a portion of my company, and after-tax I had 1 million. I thought to myself 
+that I was going to start studying these public companies and try to figure out 
+which ones are likely to do well in the future. That whole notion of trying to 
+figure out what these companies are all about and how they are likely to do in 
+the future was very similar to trying to figure it out for my own company. Like I 
+said, it is using the same part of the brain. That is why Buffett said, “I am a better 
+businessman because I am an investor…” and so on. And so when I started to 
+invest, I found my life was a lot happier and more exciting because now that 4% 
+time was increasing. I was spending about maybe 10, 15, 20 hours a week doing 
+investment research, and that was really exciting for me.  I got to the point 
+about five years later when I pretty much lost interest in the company I was 
+running. The million that I had at that time in 94 had done really well. I had 
+compounded at more than 70% a year. It was sitting at about 13 or 14 million. It 
+had done extremely well. At 35, I was independently wealthy outside of the 
+business I had. It enabled me to make a choice where I said, “I am not going to 
+run my business anymore.” I started a search for a CEO so that I would leave my 
+business and I could spend all my time on that 80% like Buffett was spending. 
+The genesis of all that was that when I read the Buffett biography, there was 
+an “aha” moment. These “aha” moments can come to us in all kinds of different 
+fields and areas. It can come in sports; it can come in whatever you have an 
+aptitude for. But the important thing is that you have to take the bull by the 
+horns at that point. You cannot just say, “Oh, that is interesting” and move on. 
+You have to really go for it at that point when you have these “aha” moments. 
+That is what I would recommend and suggest. 
+Kaegon: Do you have any books you recommend or anything to start understanding that 
+stuff better? 
+Mohnish: Well, the one book that I am sorry to say would be of more value than four years 
+at UNO would be Poor Charlie's Almanack . If you were to spend about $25 
+buying Poor Charlie's Almanack  that is slightly cheaper than the four years at 
+UNO with more take-home value other than Prof. Liu’s class. The back half of 
+the book has about eleven talks that Charlie Munger has given over the years. 
+Those are priceless. Those have thousands of years of human wisdom in them. 
+One of the talks, The 25 Causes of Human Misjudgment; Psychology of Human 
+Misjudgment, I try to re-read that talk every year. That talk really does a great 
+job of explaining how humans are wired. It is a huge advantage in life if you 
+Pg. 13 of 14 
+understand, especially the wiring defects of humans. Our brains are not rational 
+creations. Our brains are a result of a very messy, long history of evolution. 
+There are ancestral parts of our brain and newer parts of the brain, and it is a 
+mishmash of a lot of different things and there is a lot of distortions from reality 
+caused in our brains. That is one of the reasons. For example, we see all these 
+great investors who invested in Valeant. Right? Why did that happen? Well, that 
+is partly the result of this crazy wiring the brain has. It is not a perfect rational 
+creation. It has got weirdness. It is understanding that weirdness can be a big 
+advantage. 
+Prof. Liu: You gave Kaegon advice for those 18-19-year-old students. What other advice 
+would you give them? Not just about investment; but about life in general. 
+Mohnish: One of the things that Buffett talks about is that if we hang out with people 
+better than us, we become better. If we hang out with people worse than us, 
+we become worse. That should be pretty obvious when you think about it. The 
+issue that we run into as humans is we have friendships, and sometimes we 
+may have friends who are not great humans. They may even pull us down. One 
+of the important things in life, which is difficult to do, is to be a harsh grader 
+with your friends. You have to increase interactions and friendships with the 
+people who are better than you, and you have to let go of some of the ones 
+that are not quite there. A lot of people are loyal, and this flies in the face of 
+loyalty. If your mental model is loyalty over all else, then you may be hurting 
+yourself long-term. In life, what happens is that we have choices. Many times 
+these choices require us to take what sometimes might be difficult or 
+unpleasant actions, and those actions may not be natural and may even be, one 
+might say, inhumane or cold-hearted. But those are essential things to keep in 
+mind. When I became friends with Charlie, I started to meet his friends. When I 
+met his friends, I was blown away. The quality level of these people was truly 
+off the charts. I know that what may have happened, which I did not see in the 
+decades before I met Charlie, was that he probably went through a pruning 
+process where he increased interaction with some folks and decreased 
+interaction with other folks. One of the easy decisions I made was I try to make 
+friends with Charlie's friends. A lot of them are old, and some have passed away, 
+but that actually was extremely wonderful, because these people were just so 
+off the charts, and that same thing has been true in many ways. I have been 
+coming to Omaha every May since 1997; almost more than a quarter century. 
+Many deep friendships have come out of Omaha. When I look at the folks I met 
+in Omaha who are now part of my close friends, they are off the charts. For 
+example, the average Berkshire Hathaway shareholder is an above-average 
+person. He or she is not the same as the general population. That universe of 
+people in Omaha is kind of self-selected and self-filtered to give you a certain 
+kind of person. In the case of Charlie's friends, that was an extreme version of 
+that. Being a harsh grader and being very deliberate about who your close 
+friends are has a huge impact long term. 
+Prof. Liu: Thank you so much, Mohnish.  
+Pg. 14 of 14 
+Mohnish: Thank you. 
+ 
+ 
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not intended 
+to be financial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not be suitable for you, 
+do not take into account your particular investment objectives, financial situation, or needs, and are not intended to provide 
+investment advice or recommendations appropriate for you. Before making any investment or trade, consider whether it is suitable 
+for you and consider seeking advice from your own financial or investment adviser. 
+ 

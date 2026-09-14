@@ -1,0 +1,908 @@
+Pg. 1 of 18 
+Mohnish Pabrai’s Session with University of Nebraska, 
+Omaha on May 1, 2026 
+ 
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not 
+intended to be financial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not be 
+suitable for you, do not take into account your particular investment objectives, financial situation, or needs, and are not intended 
+to provide investment advice or recommendations appropriate for you. Before making any investment or trade, consider whether 
+it is suitable for you and consider seeking advice from your own financial or investment adviser. 
+ 
+Prof. Liu: This is our fourth year, and I think it is our best year. For those joining us for 
+the first time, my name is Jane Liu. I am the assistant professor of economics 
+here at UNO. It is my genuine honor to be your moderator today. Every year, 
+I walk into this room thinking about what question I most want to ask, and 
+every year, I leave wishing I had more time. That is the mark of a truly 
+exceptional conversation partner. Our guest this morning came to investing 
+not through Wall Street, but through entrepreneurship. He built and sold a 
+technology company and did something most people only talk about. He 
+studied the greatest investors who ever lived, Buffett and Munger, and built 
+a framework from what he learned. He is the founder and managing partner 
+of Pabrai Investment Funds, where he has delivered outstanding long-term 
+returns by following a philosophy that is deceptively simple, low risk, high 
+uncertainty, and patience to wait for the right pitch. He is also the founder 
+of the Dakshana Foundation, which has transformed the lives of thousands 
+of students from India's most disadvantaged backgrounds by giving them 
+access to elite higher education. Dakshana is itself a mental model in action. 
+Find the highest return investment, concentrate resources, and let 
+compounding do the rest. Apply it not to capital, but to human potential. 
+Please join me in welcoming Mr. Mohnish Pabrai. 
+Mohnish: Thank you. It is a pleasure to be here, and thanks for taking the time to 
+attend.  
+Charlie Munger gave a talk a few decades back at Harvard, The Psychology 
+of Human Misjudgment.  That talk is also in Poor Charlie's Almanack.  He 
+modified that talk a little bit and updated it when it was going to be printed. 
+I try to reread the talk every year, and every year I am reading some things 
+that I have never read before. I always pick up things that I feel I am 
+encountering for the first time. It took me more than a decade to 
+understand what Charlie was talking about. It was a journey to understand 
+how he was looking at mental models and how he was using the latticework 
+of mental models. I am going to give you my take on it today. I had given a 
+talk somewhat similar to this a few weeks back at South by Southwest. That 
+talk focused more on mental models for startups and for entrepreneurs. This 
+is a little different. It is going to focus on capital allocation.  
+The important thing about mental models is that when you start overlaying 
+models on each other at the same time, that is when 1 plus 1 becomes 11, or 
+1 plus 1 plus 1 plus 1 becomes over 1,000. That is what Charlie calls the 
+Lollapalooza Effect. You get results that are better than the results of 
+someone who may work harder than you or someone who is smarter than 
+you. The mental models hack gives you a leg up in life. It is worthwhile.  
+Pg. 2 of 18 
+The first model, which I call the bedrock model, is what Munger states as, 
+“You take a simple idea, and you take it seriously.” None of the other models 
+work if you do not go all in on this one. This one is always a baseline. It has 
+to be there.  
+Obviously, with capital allocation, we start with Ben Graham. But one needs 
+to calibrate, so we cannot overdose on Ben Graham. In fact, one of the big 
+problems I had in life was that there was too much Ben Graham and too little 
+Charlie Munger. Ben Graham came up with three important models. The first 
+is that you are not buying a stock; you are buying a piece of a business. The 
+second is that Mr. Market is there to serve you, not to advise you. We are not 
+trying to learn something about a company with a stock price. The third is 
+the margin of safety. We always want to be buying things well below what 
+the underlying value is. Again, the thing is that Ben Graham talks about a lot 
+of other things. My suggestion is not to focus on the rest of it, because it 
+might hurt you more than it helps you.  
+We add to Ben Graham’s core principles Poor Charlie’s Almanack, Phil Fisher, 
+and, more recently, Pulak Prasad, along with what I learned about investing 
+from Darwin. These books, overlaid with the core Graham principles, are a 
+great framework to start with.  
+Buffett talks about the “20-punch card.” He says that if in an investing 
+lifetime, you only get to invest in 20 stocks, and each time you invest in a 
+stock, you punch the card once, then all of us would be careful about what 
+we invest in. In an investing lifetime of 70 or 80 years, on average, you would 
+be making one bet every three to five years.  
+Fast is slow. You are better off slowing things down and looking at things 
+from a perspective where we want to make a few bets, and we want to be 
+thoughtful about how we make those bets.  
+Now, we will talk about “circle of competence.” As Warren says, the size of 
+the circle is not relevant. Staying in its epicenter is relevant. In this picture, 
+the guy on the left is Mark Andreessen, the lady in the middle is his wife, and 
+the guy on the right is her father, John Arrillaga. John Arrillaga passed away 
+two to three years ago, and he was a billionaire. His daughter is a billionaire 
+to the power of billionaire. She started as a billionaire and then married a 
+billionaire. John Arrillaga was a friend of Charlie Munger's, and his circle of 
+competence was extremely tiny. He only invested in real estate within a mile 
+of the Stanford campus. Throughout his life, that is all he did. He never 
+ventured beyond that. Starting with nothing, he became a billionaire. If you 
+walked with John around the Stanford campus, he could give you the 
+history of every single building: when it was built, who owned it, what the 
+rents were, what the different transactions were, when it was bought and 
+sold. He knew everything about every piece of real estate around. He acted 
+on these properties when there was distress. Whenever there were 
+downturns and people were distressed, and these properties came up, he 
+knew which were the ones he wanted and were underlevered. Everyone 
+else was feeling pain, and he kept these properties forever and did 
+extremely well. We should always remember that we do not need to know 
+everything about everything. If we know a little bit, we can do a lot.  
+It is guaranteed that we are going to have a high error rate in this business. 
+John Templeton used to say that the best analyst is going to be wrong one-
+Pg. 3 of 18 
+third of the time. I believe one-third is low. We are going to be wrong more 
+than half the time.  
+If we look at the US equity markets over the last 90 years, about 4% of 
+companies have delivered all the market returns. It was important to be 
+invested in those 4% companies, and if you miss those, then things would 
+not work out, which is why the index does so well. The index owns the whole 
+thing, and so it gets the benefit of that. Most equities that are publicly 
+traded are not good investments. The overwhelming majority of them are 
+not good investments, which again goes back to the 20-punch card.  
+The 4% is similar to what Warren pointed out a few years ago, where he said 
+that 12 of the ideas that he had over time had led to the creation of Berkshire 
+Hathaway. I believe Ajith was number one. If you think about Berkshire 
+Hathaway over the last 60 years, Warren has made at least 300 or 400 
+different investments and key hires. Out of those 300 or 400, it has been 12, 
+according to him, that have led to the creation of Berkshire Hathaway. Even 
+for someone like Warren Buffett, it has been a low hit rate. It has been a 4% 
+approximate hit rate, maybe even 3%. We have to remember that a few 
+ideas we come up with are going to end up moving the needle.  
+What this 4% implies is that when we get into the wonderful situation of 
+owning a great business, we should be reluctant to sell it. We should be 
+reluctant to sell the business when it is fully priced. We should also be 
+reluctant to sell it when it is overpriced. The only time we should think about 
+selling the business is when it is egregiously overpriced. This is where we 
+depart from Ben Graham, and it is an important departure to make. One of 
+the things to remember about Ben Graham is that he was smart, but his 
+entire security analysis came from the experience of the 1930s. The 1930s 
+were an extreme time in US market history, where we had severe 
+dislocations and 25% unemployment. We did not see that level of 
+unemployment in the financial crisis or during the pandemic or anything 
+else that has happened since then. It may happen in the future, but we 
+should not be investing with the framework of assuming it is happening next 
+week. The risk of owning a great business above what it is worth, in my 
+opinion, is lower than being in a constant Gin Rummy game of buying and 
+selling all the time. This is an important departure that Munger influenced 
+Buffett on. We need to keep these things forever. The interesting thing is 
+that if we look at Berkshire Hathaway, the longest held public equity that 
+they own is Coca-Cola. They bought Coke in 1988, which is 38 years ago. 
+Warren is going to be 96 this year. The first buy and hold forever stock in 
+Berkshire Hathaway came when he was about 57 or 58 years old. It did not 
+come early in his life. He started doing buy and hold when he started buying 
+businesses like See's Candies. But on the public equities, that discipline 
+came fairly late in life. So many of you in the room are well under 58. You do 
+not need to wait till you are 58 to figure this out. We have got it figured out 
+now. There are businesses that I used to own but no longer own. I wish I still 
+owned them, but I was overdosing on Graham and underdosing on Munger, 
+which we are trying to balance off here. The main reason I am giving this 
+talk is to educate myself.  
+Do not cut the flowers, and do not water the weeds. When I look at an 
+investment manager, I try to understand what frameworks they are using 
+and how they are operating. One of the things I look for is if they have been 
+Pg. 4 of 18 
+running things for a few decades, then their top two or three positions 
+should make up 70, 80% of the pie. Of course, the reality is that I am hardly 
+able to find those managers. I do not find managers where the top two or 
+three things are 70, 80%. The reason we do not find that is that they have 
+cut the flowers, and after that, they did something worse. They watered the 
+weeds. We do not want to be cutting the flowers, and we do not want to be 
+watering the weeds. We want to water the flowers.  
+I am the shameless cloner, and I have no original ideas. In fact, I had the 
+annual meeting for my fund a few weeks back, and someone asked me at 
+the meeting, “Why do you call yourself the shameless cloner when you have 
+all these interesting ideas and good investments?” I said, “When I look at my 
+portfolio, everything is cloned. There is nothing I own that has not come 
+from someone else.” I do not even know why you guys are here. There are 
+no original ideas. It is all recycled stuff. We do not need to come up with 
+investment ideas. In fact, it is dangerous to come up with investment ideas 
+on your own. Please do not come up with investment ideas on your own. 
+That is not a good idea.  
+The best things in life are free. The Value Investors Club is free. You do not 
+have to pay anything. They are not going to bother you. You can sign up. But 
+even if you do not sign up, you can look at all the ideas posted there. The 
+membership requirements to become a member of Value Investors Club are 
+so stringent that the universe of people posting ideas there is significantly 
+above average. When I am looking at a business, the first thing I look at is if 
+there is a weak Value Investors write-up. I print that off and start reading it 
+because that accelerates things a lot. DataRoma publishes every quarter an 
+update on what good investors have bought over the quarter. It is another 
+great resource. SumZero also has great resources, but unfortunately, it 
+requires a subscription. The picture on the right is Turkey's Costco, which 
+you may not have heard of yet, but now you have. That is my latest cloned 
+idea.  
+History does not repeat itself, but it does rhyme. Charlie and Warren 
+mentioned several times publicly that the opportunity set they had in the 
+60s and 70s, even in the early 80s, does not exist today. They said repeatedly 
+that if they were starting today, they would not be able to build Berkshire 
+Hathaway. At that time, they faced a much less competitive world with far 
+less brainpower applied to security analysis. But what I have found is that 
+there are other parts of the world where similar situations still exist. For 
+example, the Turkish stock market has a lot of parallels to what was going 
+on in the US equity markets in the mid-70s and early 80s in terms of 
+disparity between price and value. We may not be able to find things exactly 
+the way they were before, and things may not go back to the way they were, 
+but you may be able to find them somewhere else. It is important to keep 
+that in mind.  
+If you cannot explain your investment thesis to a 10-year-old in about four 
+sentences, it is a useless investment. Please do not make it. A 10-year-old is 
+not going to understand an Excel spreadsheet. The four sentences do not 
+need too many numbers. They need to be simple.  
+Our next model might take a little bit of time. You always need a rope to get 
+out of the deepest well. Why do I say this? My dad was an engineer. He was 
+a rational guy who started many different businesses. He was good at 
+Pg. 5 of 18 
+getting businesses off the ground. He would come up with great ideas, get 
+them off the ground, but then he was aggressive with leverage and 
+everything else. He wanted to grow as fast as possible. When the first storm 
+showed up, the businesses would fail. My parents were poor financial 
+planners, so when the business failed, we did not have money for rent or 
+groceries. We were borrowing from relatives and friends. It was a roller 
+coaster when I was growing up. When I was 11 or 12 years old, my dad had 
+gone through an intense bankruptcy of a company. He was lost and did not 
+know what to do next. I noticed that there was a guy in an orange robe with 
+marks on his head who would come to our house on Sunday. He was an 
+astrologer. My dad would sit with him, and this guy would tell my dad what 
+was going to happen in the future. My dad would pay him, and then the next 
+week the guy would be back again. I mustered up some courage and talked 
+to my dad. I said, “You have to know that whatever he is telling you is utter 
+nonsense. Nothing of what is going to happen in the future is known to that 
+guy. We do not have money. Money is tight, and you are giving it to this guy. 
+That is not the best thing to do.” My dad said, “I am at the bottom of a deep 
+well. I need a rope to get out of that well. When this guy shows up, and I 
+give him some money, he is not going to tell me that the future is bleak. He 
+knows that if he tells me the future is so bad, he is not going to be coming 
+back next week. He is going to tell me the future is phenomenal. I need him 
+to tell me the future is phenomenal, because that is my rope.” A few decades 
+later, Steve Jobs called it the “reality distortion field.” The reality distortion 
+field built Apple. It is not so bad to suspend reality temporarily. Sometimes 
+it is a good idea to do that.  
+When the financial crisis hit in 2008 and 2009, I used to be managing about 
+600 million, and it went down to 200 million. It did not go from 600 to 200 
+because people pulled money. There was a reduction in asset values. The 
+fund was down 65-67%, two-thirds gone. I remembered my dad, and I 
+remembered that I am now in a deep well. I did not have that guy in the 
+orange robe on speed dial. I could not find the guy. He might have been 
+dead by then. I needed to find my own version of a rope to get myself out. 
+There is going to be a model coming up later, which I violated because the 
+rope was more important than violating that model. What I did was fire up 
+Excel. I put my portfolio in with the prices that I thought these things were 
+worth, not the prices at which they were trading. That looked like a much 
+better number; above 600 million. I would come every morning and look at 
+that number and say, “That is what it is worth.” Everything felt great. That 
+was the rope. Sometimes you have to use a rope that you do not want to 
+use. But it worked well. I always have a subscription to Microsoft Office just 
+in case a rope is needed.  
+My friend Nick Sleep and his partner, Zach, were managing about $2.6 
+billion 10, 12 years ago. They are based in the UK, in London. The British 
+regulator was giving them grief, saying that they are too concentrated and 
+need to broadly diversify the portfolio. The two of them looked at each other 
+and said, “We have more money than we ever thought we would have. We 
+are richer than we ever thought we would be. We can return all the money 
+and then invest our money the way we want. No regulator is going to tell us 
+anything.” They liked the idea. They wrote a letter to their partner saying, 
+“We had a great ride. We are returning all your capital.” Nick told his 
+investors, “I am going to put my own money, one-third into Amazon, one-
+Pg. 6 of 18 
+third into Costco, and one-third into Berkshire Hathaway. My suggestion for 
+all of you is that when we return the money to you, do the same thing. The 
+good news is you do not need to pay anyone any fees anymore. Warm 
+regards.” I get a panicked call from an endowment in the US telling me, “Did 
+you hear that Nick is returning all the money?” I said, “Yes, but he also told 
+you what to do.” He said, “Yes, but we are not allowed to buy individual 
+stocks in our endowment. We have a rule. We can give the money to outside 
+managers, but we cannot buy individual stocks.” I said, “Let me get this 
+straight. I can set up a fund with the three holdings, and then you can invest. 
+You can pay me 2 and 20.” He said, “Yes, that would work.” I want to let you 
+know the way the world works. Anyway, Nick put his money in these three 
+stocks. If you calculate from 2014 till now, he beat everybody. He is riding 
+motorcycles in China, he is racing cars in Japan, he is doing many things, but 
+he is not looking at his portfolio.  
+After 2014, Amazon took off a lot more than the other two. Amazon became 
+80% of the pie. Nick forgot something known as escape velocity. Once we 
+get escape velocity, it does not matter if one stock has a high portion. He 
+had 200 million; 67 million went into each of these three. If he let it run till 
+today, it would be over a billion. How does it matter if 800 million is in one 
+stock and 100 million in the other two each? Because even at 200 million, 
+he had escape velocity. It did not matter. But what happened is he forgot 
+this. He takes his Amazon position and sells half of it. He buys what I think is 
+a useless company called ASOS. I told him that. I said, “You could have asked 
+me. I would have told you it is useless.” Anyway, he buys this company 
+ASOS, which of course goes nowhere. But even with the inefficiency of 
+doing that, he still beat everybody.  
+Nick loves a book called Zen and the Art of Motorcycle Maintenance . It is 
+difficult to get past the first three pages. It is difficult to get past the ghost. 
+Once the ghost shows up, that is it. A lot of you are going to give up. But 
+what I would suggest to you is that even though it is going to be hard to 
+read the book, please read it. The first time you read it, it will make no sense 
+to you. Then read it one more time, and you will start to understand that the 
+important thing about that book, which is reflected in those three 
+companies, is that you pursue the highest levels of quality in the businesses 
+that you are investing in. The highest level of quality in these businesses is 
+in terms of the management, how they do their business, and all that is 
+going to get you to the promised land. When we look at these three 
+companies, they have those attributes. That is where we need to be.  
+The next model applies in all situations except when you are in a deep well. 
+If you cannot do the math quickly in your head, you need to take a pass. 
+Also, if you need Excel, then the 10-year-olds are not going to understand. 
+We need to be able to do the math in our heads. We cannot do the math if 
+there is a problem.  
+Use a pre-investment checklist. I started developing my checklist about 15 
+years ago. It used to have about 70 to 80 questions. Now it has about 213 
+questions. That helps a lot because we will be able to see upfront what the 
+possible failure points are. We can then make a go vs. no-go decision before 
+we invest. When I built my checklist, I did not do it in the blue sky. What I 
+did was I looked at investment mistakes that had been made by great 
+investing minds. For example, Berkshire bought Dexter Shoes. Dexter Shoes 
+Pg. 7 of 18 
+eventually went to zero, and that did not bother Warren as much as the fact 
+that he gave away 2% of Berkshire stock to buy Dexter Shoes. He said that it 
+made him feel good whenever the stock went down, that he did not give 
+away so much. But that was a huge mistake. Dexter Shoes was done by a 
+low-cost offshore manufacturing. One of the questions that I put in the 
+checklist is, “Is this a business that could be negatively affected by cheaper 
+offshore manufacturing?” It may not apply to a lot of businesses we look at, 
+but it might apply to some. When I did that whole checklist, I re-categorized 
+in buckets where these failures were coming from. The single biggest 
+reason why investments did not work was leverage. The second biggest 
+reason was that there was some misunderstanding of the moat, where they 
+thought they had a durable moat, and it turned out not to be the case. And 
+the third was something to do with questionable leadership or ownership. 
+There were also things like trade unions and different things, but these were 
+the three big ones. In general, these are the three big ones that led to 
+negative impacts.  
+Some of you may not have heard of Arjuna, so we are going to talk about a 
+story which you might enjoy. Back in ancient times in India, the royal families 
+used to send their adolescent kids to be trained by a guru in the forest. They 
+would get a multifaceted education, including martial arts, becoming good 
+archers or swordsmen. There was a guru called Dronacharya who was going 
+to test all the kids on their ability to shoot the bow and arrow. He said, “There 
+is a bird in the tree. I want you to shoot the eye of the bird out.” He asked 
+the first student, what do you see? The student said, “I see the tree. I see the 
+bird. I see the eye.” The teacher said, “You are not ready. Sit down.” Then he 
+asked the second student to come up and asked the same question. The 
+student said, “I see the sky, I see the tree, I see the bird.” The teacher told 
+him that he was not ready and that he should sit down. Finally, our hero, 
+Arjuna, comes up and he is asked the same question. He said, “I can only see 
+the center of the eye of the bird.” The guru says, “Fire at will.” He takes the 
+eye out. We have to be singularly focused. When we are looking at a 
+business, we cannot be distracted. We have the 20-punch cards. When we 
+are looking at things, we have to go all in. We have to be like Arjuna. We 
+cannot see anything else.  
+There is a horse on the left. That horse has an unfortunate name. The name 
+is “Read the Footnotes.” The horse has passed away, but used to be owned 
+by Seth Klarman. Seth grew up in Baltimore, right near the Pimlico Race 
+Course, which is one of the places where the Triple Crown is run. He got 
+interested in horse racing and betting. When he made some money at 
+Baupost, he started buying Thoroughbreds, and they all got names like 
+“Read the Footnotes,” and “Margin of Safety.” You can hear the announcer 
+say, “Read the Footnotes by a nose, Read the Footnotes.” What Seth wanted 
+was for “Read the Footnotes” to get repeated over and over and over for 
+people to hear. He has quite a sense of humor. “Read the Footnotes” did 
+extremely well. He was a good-looking horse. There was even a horse called 
+“Turn Every Page.” “Turn Every Page” is a great Netflix documentary. It is free. 
+You are already paying for the subscription, so you can watch it.  
+In this picture, Robert Caro is on the left, and Gottlieb is on the right. Gottlieb 
+has passed away now. In my opinion, Robert Caro is the best researcher and 
+the best writer the human race has ever produced. His first book was The 
+Power Broker, and then he did all the Lyndon Johnson biographies, and they 
+Pg. 8 of 18 
+are the best. I would say that if you have not read Caro, the big upside is that 
+you are going to have an almost euphoric experience in the future when you 
+do. Start with The Power Broker. Each one is around 1,000 pages, but they 
+are extremely well done. Then keep going. Before that, though, to get 
+yourself warmed up, you can watch the documentary Turn Every Page . It 
+was a great collaboration between a great writer and a great editor. That is 
+what we need to do. We need to read the footnotes, and we need to turn 
+every page.  
+Yesterday, I went to a dim sum restaurant in what used to be the Aksarben 
+Race Course. The area has since been redeveloped. When I used to come to 
+Omaha 30 years ago, the meeting was held at the Aksarben Race Course. 
+“Aksarben” is “Nebraska” spelled backward. Warren used to go to the 
+racetrack when he was 12 years old, and he would pick up all the tickets that 
+everyone had discarded; the tickets they used for their bets. Then, he would 
+go home and look at every single ticket one by one to see if some drunk had 
+thrown away a winning ticket. Of course, people think there will be no 
+winning tickets thrown away, but that is not true. He would find winning 
+tickets. He could not go to the counter to claim them because he was 
+underage, so he gave them to his Aunt Alice. She was his favorite aunt. She 
+used to go collect the money and then give it to Warren. Aunt Alice was the 
+first investor in the Buffett partnerships, and she died extremely wealthy. 
+But the same kid who, at 12 years old, was at Aksarben gathering up those 
+tickets was the same guy who, at 24, was going through the Moody’s 
+Manuals. The Moody's Manuals were the equivalent of race tickets for him. 
+He was turning one page at a time, looking at all these companies and 
+studying the fine-print financials that were listed. It was kind of like the 
+Value Line of the 1950s, but there were maybe five or seven companies on 
+one page, with thin paper and extremely small text. He went through these 
+multiple times and found companies like Western Insurance, where the 
+stock was at $15, and earnings were at $25. With Western Insurance, which 
+he bought and later sold, he did not yet have the full framework. But from 
+then until now, if you had kept it, it would have compounded at around 19% 
+for something like 70 years.  
+The same kid who, at 12, was gathering those tickets was still, in his 80s, 
+going through the Japan Company Handbook, which is the same as the 
+Moody’s Manuals, except it covers Japanese stocks. Guy Spier and I had won 
+an auction to have lunch with Warren Buffett in 2007, and then we met him 
+for lunch in 2008. During the process of setting up the lunch, we had a lot 
+of back-and-forth with his assistant, Debbie. We got to know her pretty well. 
+I told Debbie that both of us would love to have lunch with her. She said, 
+“Mohnish, if you come to Omaha on a Thursday, I am usually free and can go 
+to lunch with you guys.” I said, “Okay, we will do that.” Guy and I would show 
+up in Omaha in 2010, 2011, on Thursday, and we would go to lunch with 
+Debbie. Lunch with Debbie was way better than lunch with Warren. I would 
+tell Debbie, “Between us girls, can we talk?” She would say, “What do you 
+want to know, Mohnish? I will tell you everything.” We had a great time.  
+Anyway, one year, 2012 or 2013, Guy and I went to Berkshire headquarters 
+for our lunch with Debbie. Warren is at the elevator bank. I thought he was 
+leaving, and we bumped into him. He says, “Do you guys want a tour of the 
+headquarters?” I said, “If you want to waste time with a couple of yo-yos, no 
+problem.” He gives us a whole tour, showing us all of it : “This is the letter I 
+Pg. 9 of 18 
+sent to Long-Term Capital Management,” and “This is the first share of 
+Burlington Northern,” and all that. Then he shows us the fountain machine 
+in the headquarters. The Coke fountain where he gets his Cokes. Then I 
+thought, he does not have anyone to go to lunch with. I said, “Warren, you 
+are welcome to join us. Do you want to join us for lunch? We do not mind. It 
+is OK.” He said, “No, no, they got me my lunch.” He asked Debbie, “Where is 
+my lunch?” There is this thick shake in the fridge. That was his lunch that 
+day. Anyway, we were in his private office, and I saw the Japan Company 
+Handbook on his desk. He had been leafing through it. I had been going 
+through the same issue and had finished it. I told him, “Warren, I can tell you 
+which companies you need to look at. You do not need to look at all of 
+them.” Without waiting for him to answer, I took his copy of the Japan 
+Company Handbook and dog-eared a few pages, mutilating his copy 
+without his permission. Then I told him, “Warren, the good stuff is in the 
+back. It is going to take you a while to get to the good stuff.” He said, “The 
+good stuff is always in the back.” I said, “Why do you start with the A's? Why 
+not start with the Z's?” Anyway, he has been reading the Japan Company 
+Handbook continuously. Every three months, there is a new one that comes 
+out. In the late 80s, he found the five Japanese trading companies. This 
+thing is less than 100 bucks. He puts $5 billion into those five trading 
+companies. He did not want to use his cash because he loves his cash. He 
+borrows the entire $5 billion in yen in Japan, even though Berkshire is 
+drowning in cash. They give it to him at a half a percent interest rate. 100% 
+levered. The trading companies are giving an 8% dividend. He is collecting 
+7.5% by investing, because it is 16 times the amount of interest he is paying. 
+In a few years, they will double all the dividends. Now he is getting 16%, still 
+paying half a percent. Then the stocks double. The $5 billion becomes $10 
+billion. Then he is collecting almost a billion dollars a year in dividends on 
+top of that. He goes and meets the companies with Greg Abel. They bump 
+up the investment. Two or three of them have gone over 10%. All of it started 
+at Aksarben. It is the kid at Aksarben who made the Japanese investment. 
+We need to enjoy hunting for needles in haystacks. 
+Now we go 2,700 years back to the Upanishads, which some of you may not 
+have read yet. They say in there, “As is your desire, so is your will. As is your 
+will, so is your deed. And as is your deed, so is your destiny.” Then the 
+punchline is “Your deepest desire is your destiny.” One of the things about 
+these mental models is that they only work if you believe in them. You have 
+to go all in on them. If you want something to happen, if you desire 
+something deeply, it is going to happen. If I were to say, for example, I only 
+want to invest in stocks that are PE of 1. There are 50,000 stocks in the world. 
+Trust me, there are plenty of them at a PE of 1. On my first trip to Turkey in 
+2018, I told my friend, Haydar, that I wanted to visit companies in his 
+portfolio. He would send me a list of companies we were going to visit. I 
+never looked at these companies before because they meant nothing to me. 
+I said, “I am going to meet them. If I like meeting them, then I am going to 
+study them.” We would be driving to these businesses, and I would ask him 
+questions so I would not appear totally idiotic at the meeting. The first 
+company we were visiting, I said, “What is going on here, Haydar?” He said, 
+“Well, it is at a PE of 0.1.” It was not a PE of 1, which means that the market 
+cap of the company was equal to one month's earnings. What they were 
+making in one month was what you could buy the whole business for. I said, 
+“What did they do? Wow, this is going to be a great trip. We are starting with 
+Pg. 10 of 18 
+0.1. This is awesome.” He said, “This is one of the largest banks in Turkey. It 
+is like a blue-chip bank.” I asked why they were at a PE of 0.1, and he said 
+that the chairman of the bank decided to ignore UN sanctions and was 
+doing all these wires in and out of Iran, in violation of all the laws and all the 
+sanctions that were in place. The New York Fed got word of this. The CFO of 
+the bank had traveled to the US to go to Disney World with his family. When 
+he landed at JFK with his family, they put him in Rikers prison in New York, 
+and they sent the rest of the family on to Disney World. Erdogan was calling 
+Trump, asking him to please release the guy, and Trump is explaining that it 
+was not the feds who did it. It was the Southern District of New York, which 
+did not care about him at all. He could not get him out. Then the stock is 
+trading in Turkey, and all this stuff is hitting the news. I told my friend that 
+this is too much hair even for me. Let us go to the next company. We had 
+that meeting. It was a good company, but I could never get there.  
+Anyway, if you want PE of 1, you can find a lot of them. If you want to find 
+great compounders at bargain prices, you will find those. If you want to find 
+great compounders, at less than 3% of liquidation value, you can find those 
+too. I invested in a company in 2019 in Turkey called Reysas. It was super 
+cheap. Whatever you desire, if you are all in, it is going to happen.  
+You should always have someone to discuss your investment ideas with. 
+This came from Charlie. Do not come up with ideas on your own. They are 
+going to be useless. The brain is a dangerous place. If you do come up with 
+ideas, you need to have somebody else to talk to. When Charlie told me this, 
+he said, “Mohnish, it is important that when you have investment ideas, you 
+have someone to talk to.” I said, “You mean like Warren Buffett?” He said, “It 
+was not always Warren. But I always had somebody to talk to.” When I first 
+met Charlie in 2009, he told Li Lu and me, “I want you guys to meet each 
+other once a month for lunch.” I told Charlie, “If Li Lu wants to hang out with 
+the yo-yo, that is fine by me. No problem.” Li Lu and I would meet at Din Tai 
+Fung, a good dumpling place. There was only one branch at that time in the 
+U.S., which was in Arcadia, California. We would go to Din Tai Fung, have 
+great food, and have a great conversation. Now, he is in Seattle, and I am in 
+Texas, so we do not do our lunches. Obviously, with Guy Spier, I also found 
+it useful. If you get the investment ideas from Value Investors Club, it has 
+gone through one brain. It has already been through one brain filter, and 
+then it is coming into your brain, which is a second filter, and that is pretty 
+good. But if you can get it through those two filters and then talk to 
+someone you trust, that can be huge. It can be powerful.  
+The next model is “The mistress only looks hotter than the wife.” In reality, 
+the wife is hotter. Please remember that. What do I mean by that? What you 
+do not own looks hotter than what you do own. But what you do own is 
+better. Do not be distracted by the bright, shiny objects around you. Stay 
+focused.  
+Then, there is Polonius, who told his son, “Neither a lender nor a borrower 
+be.” I decided to adjust Polonius a little bit with some help from Warren to: 
+“Neither a short-term borrower nor a long-term lender be.” It is okay to be a 
+short-term lender and a long-term borrower, but please remember 
+Polonius.  
+The introduction of randomness in your life is important. Charlie was 
+interested in meeting all kinds of new people. Part of the reason was that 
+Pg. 11 of 18 
+he wanted the introduction of randomness in his life. One time, he was 
+telling me, “Most of my friends are dead.” I said, “Yes, when you are 99, most 
+of your friends are going to be dead. You do not need to worry about it. You 
+have new ones like me. It is OK.” We can live with it. I had never looked at 
+investing, stocks, or anything. In 1994, my wife and I were coming back from 
+a vacation, and I was looking for something to read on the plane. I picked 
+up a book, One Up on Wall Street. I do not even know why I picked it up. But 
+I read the book, and I enjoyed it. I said, “Oh, this is an interesting area. I want 
+to go further.” There was another Peter Lynch book, Beating the Street . I 
+read that book, and then I was out of Peter Lynch books. He had only written 
+two books at that time. He was talking about Warren Buffett in one of the 
+books, in reverential terms. So I said, “Let us figure out who this Buffett guy 
+is.” Then I found the first couple of biographies on Buffett, along with the 
+Berkshire letters and the Buffett partnership letters. That opened up a huge 
+world for me, which eventually led me to start making investments and then 
+change my career. But it started with something random. I never worked in 
+the industry before. It is always good to bring or have things in your life that 
+allow randomness to come in. We do not know what connects with what. I 
+remember that in 97, I was on the fence about whether to come to Omaha 
+or not. That would have been my first time coming to Omaha for the 
+Berkshire meeting. I was thinking that I do not know anyone. The transcripts 
+were published in OID at that time, Outstanding Universal Digest. I had 
+young kids, and I could not justify it. I was on the fence, but finally I said, “Let 
+us go. What the hell? We will go see what the hoopla is all about.” Again, it 
+opened up such a big world. Many friends and many great relationships 
+came because of that trip. We should always be willing to go outside our 
+comfort zone and do things that we are not sure about, to introduce 
+randomness. It is a good thing to have.  
+The next few models I am going to talk about, which are like a Swiss Army 
+knife, violate one of the earlier models. But we will ignore that for now. 
+Focus on spin-offs. I said earlier, the 20-punch card, 20 stocks. I also 
+mentioned the 4% rule. A few investments are going to eventually lead to 
+most of your wealth. But these are some areas to pay attention to. Joel 
+Greenblatt talked about spin-offs in his book. It is worth focusing on the 
+spin-offs. It is important to focus on “Uber Cannibals,” like NVR, AutoZone, 
+and AutoNation. I own one right now, Alpha. Then focus on the spawners. 
+These are the companies that are creating new businesses. Amazon is a 
+great spawner. Alphabet is a great spawner. We have a couple in our 
+portfolio, Constellation and Reysas.  
+The arbitrage is wonderful. I remember that when Rupert Murdoch was 
+chasing Dow Jones, he wanted to acquire Dow Jones. The consensus on the 
+street was that the family did not want to sell. They were not interested in 
+selling to Murdoch at all. People did not expect that deal to close. The deal 
+was going to be at $60 a share that he had offered. The stock price had gone 
+up a little bit, but it was in the high 40s. There was a pretty large spread 
+between where the stock was trading and where the deal would close. 
+Warren has studied Murdoch for decades, and of course, he used to own a 
+newspaper, so he understood Rupert well, and he knew that Dow Jones was 
+going to end up with Murdoch one way or another. It was not going to end 
+in any other way. He made a merger bet on that, and it paid off. There is a 
+Pg. 12 of 18 
+Netflix documentary on the Murdochs. Once you see that, you will know he 
+was going to win that battle. He was not going to go anywhere else.  
+The next model is “Heads I win, tails I do not lose much.” We want to focus 
+on situations where there is upside without downside. Because equity 
+markets are auction-driven, we constantly run into these things where they 
+have an asymmetric payoff. I had invested in a Canadian steel company 
+called IPSCO in 2004. IPSCO was a situation that was simple. I could have 
+explained it in three sentences to a 10-year-old. They had $15 share in cash 
+on their balance sheet. They made tubular steel that went into pipelines and 
+oil wells. They had contracts going out several years to deliver these steel 
+pipes to pipelines. They said that the next two years we are going to make 
+$15 a share for each of the next two years. The stock was at 40, and the 
+company is telling you that between the cash today and the cash coming in 
+over the next two years, you would have $45. There was no debt, and all the 
+plant equipment and inventory were free. In the third year, it could go to 
+zero. It could even go negative because it is a cyclical business. But my view 
+was that why not own it for two years and see what happens? I want to see 
+how Mr. Market would price this when there is $45 of cash in the balance 
+sheet. We put 10% of the fund into IPSCO, and a year later, they announced 
+that they had one more year of $15, and by now the stock has been creeping 
+up and is at 90. It has gone from 40 to 90. Still a cyclical business, still can 
+go anywhere. I was about getting to long-term gain, so I was thinking, 
+“Okay, we won. We can end the bet.” As I am thinking through that, one day 
+I wake up, and the stock is at 155. A Swedish company came to buy them at 
+160. One femtosecond after that, I sold everything. I had fond memories of 
+IPSCO.  
+Someone on X posted that, “Oh, this bet David Einhorn made on CONSOL 
+Energy looks like Mohnish's IPSCO bet.” This is why I mention these things 
+at these talks. Because then I said, “Oh, CONSOL Energy. I have never heard 
+of it in my life before. Let us go look at that.” I look at it, and I see it is like 
+IPSCO. Long live the internet. I said, “It is so nice to go back to IPSCO again.” 
+Then I bought CONSOL, and it was a similar situation, not the same, but they 
+are forward selling their coal. They have a band where they say that it will 
+be sold at the index price at the time, but no less than X and no more than 
+Y. It was similar, where you could look at the cash flows in the future. It was 
+not even speculative. It was there. We want to look for opportunities where 
+there is upside, but the downside is muted. We want to pay attention to 
+that.  
+In the next model, the formula is that we have low risk in combination with 
+high uncertainty. Wall Street hates high uncertainty. Wall Street loves low 
+uncertainty. If you look at a business like, for example, ADP, which processes 
+payroll, they have no variance in their earnings. Like next quarter, they have 
+their clients who are processing payroll. There will be some small change 
+here or there if unemployment goes up and down, but nothing meaningful. 
+They keep producing cash flows. The market loves that, and it awards a high 
+multiple for that. On the other hand, if you have, let us say, an oil company, 
+which is completely unhedged, where oil can go anywhere, how do you 
+price that? Markets have a difficult time pricing businesses like that. What 
+we want to look for is businesses where the risk is low, the uncertainty is 
+high, because then it is likely that the rewards are high. IPSCO is a good 
+example of that. We could not see much risk. The risk was low. But there 
+Pg. 13 of 18 
+was uncertainty, because after year three, year four, year five, what 
+happens? This model is an important one with low risk and high uncertainty.  
+The last model is “Do not skim off the top.” Most managers like to skim off 
+the top. I have an ETF; I do not have a choice. We have to charge a fee. But 
+if the fees allow it, then make it like the Buffett partnerships, 0/6/25, and 
+win with your investors.  
+When you combine all these models, and you use them at the same time, 
+that is when you get the Lollapalooza Effect: 1 plus 1 becomes 11. It is 
+important to go all in on these and apply them together. If you go through 
+these books, Poor Charlie's Almanack, influenced by Robert Cialdini, and the 
+one I ran into recently, which is by Kevin Kelly, Excellent Advice for Living , 
+they are phenomenal books for mental models. Of course, we encounter 
+models all the time. When you look at something that challenges your view 
+of reality, you should pay attention to that. That could be a model that you 
+can add to your repertoire, because that will give you an edge over other 
+humans.  
+I had given a talk earlier, which was on starting or growing a business. That 
+had a different set of models. In some future talks, which I have not yet 
+given, there will be more models for leading a great life. At some point, we 
+will get to these. But I have not gotten to these yet. Maybe we will do it next 
+year. We went through 30 models today. Amazingly, we got through them 
+all. Thank you so much. 
+Prof. Liu: Thank you for being so generous, sharing those models with us. Among all 
+the models, which one do you think most people understand but still fail to 
+follow? 
+Mohnish: Probably the first one, which is you take a simple idea and take it seriously. 
+People will think that it is too simple. 
+Prof. Liu: Why do you think knowing something is not enough most of the time, just 
+by knowing, like following a simple idea and following it? 
+Mohnish: You have to take deliberate action. Just knowing it is not going to work, but 
+in many ways, you have to be fanatical. Humans tend not to want to go to 
+one extreme or the other, but using the models will push you to one extreme 
+or the other. That can be uncomfortable for some people. 
+Prof. Liu: You show that only 4% of the companies outperform the market returns over 
+90 years. For Warren's money, 4% can move the needle. The whole game 
+came down to finding the good business. How do you feel? At the moment, 
+you know you found the one. How does it feel like you know it at the 
+moment? 
+Mohnish: For most of my career, I was overdosing on Ben Graham. I was buying 50 
+cents, 40 cents, and selling at 90 cents. When I look back, I see that there 
+were so many great businesses that were let go because of using the wrong 
+framework. The thing to remember is that even when we think we own a 
+great business, that may or may not be true. The reality with capitalism is 
+that almost all moats disappear. Because capitalism is all about people 
+wanting to take away your business from you. It is almost an anomaly that 
+a business will do well for 50, 100, or 150 years. That is rare. But on the other 
+side, if you focus on the great businesses, you only need to be right once. 
+Pg. 14 of 18 
+You do not need to be right 4% of the time. It tolerates a high error rate. If 
+you look at Nick Sleep's example, two of those three could go away. It still 
+works. What we have to get comfortable with is that what we think is a great 
+business may or may not be great forever. But you do not have one. You 
+might have five or ten. Then, over time, there will be two or three that 
+become the ones that you are left with. 
+Prof. Liu: As you said, you only need to find one good business. Also, more than a third 
+of the analysts out there are wrong. You have a 213-question checklist. After 
+all that discipline, what is the mistake you have made more than once, a 
+pattern in your own thinking that your checklist still did not catch? 
+Mohnish: We are still going to make mistakes because the thing is that you are looking 
+at the future of a business. Anytime you are looking at the future of a 
+business, the future is uncertain. What I find is that the mistakes that have 
+hurt the most are not the ones that cost you money, or even if it goes to 
+zero. What hurts the most are the ones that you sell that you should not 
+have sold. Those are the ones. It is inverted from what you normally think 
+about. 
+Prof. Liu: Interesting. Your deepest desire is your destiny, and you have built a 
+remarkable investment fund and a foundation that has changed the lives of 
+thousands of people. After all of it, what is your actual deepest desire right 
+now? Not as an investor, but as a person. Is there music you are still trying 
+to get out? 
+Mohnish: That particular model, “Your deepest desire is your destiny,” is powerful, 
+especially if you go all in on it. It is the one model that goes across the 
+different things that we are looking at. It applies to life. It applies to 
+investing. It might apply when you have a business. What I find in myself is 
+that I am naturally a person who can only be focused on one or two things 
+at a time, usually only one thing. When I get enough time to focus on one 
+thing, that is a favorable outcome. I have found this to be true in my life. One 
+has to have faith, and if you do have faith, then you go all in. 
+Prof. Liu: Thank you so much, Mohnish.  
+Mohnish: Thank you.  
+Speaker: Mohnish, thanks for your talk. I have been a Berkshire shareholder for 30 
+years, and the guy does not pay any dividend. My son wants to be a 
+filmmaker. Should I sell to fund his movie career? Or should I wait for the 
+dividend? 
+Mohnish: What Warren did, even though he did not want to do it, is he split the stock. 
+He gave us B shares. I know you are an A- share kind of guy. You are not a 
+B-share kind of guy. But what you can do, which is more efficient because 
+capital gains rates are lower than ordinary income dividend tax rates, is 
+when you need the money for your son's film, which is a good idea to put 
+some money in, you split the A-share into some B-shares. Then you sell 
+some B-shares, and you pay some long-term gains. Life is good. 
+Speaker: Mohnish, welcome to Omaha again. It is amazing to see you in our beautiful 
+town. I am from Omaha, by the way. The only thing that is common between 
+you and me is Din Tai Fung. I understand nothing about the 4% rule. I could 
+Pg. 15 of 18 
+probably go like three pages in the Ben Graham book. I simply buy index 
+funds. Should I be sleeping well at night? 
+Mohnish: It is a good way to go. Yes, sure. 
+Speaker: Hi, I am Bridget. I am from Hawaii and Omaha. I am going to go straight to 
+your Model 12, the rope, power positivity. You revalued your portfolio when 
+you saw the 08-09 crisis values. My question for you is, in revaluing those, 
+in setting your own values in that Excel spreadsheet, you had to come up 
+with that value. You must have a system for valuing a company. I look at 
+intrinsic values. They are all over the board. If you were going to recommend 
+a resource when we are getting into the thick of a company and trying to 
+come out on the other side with some simple explanation, what resource 
+do you recommend for figuring out the closest truth to intrinsic value on a 
+company? 
+Mohnish: The intrinsic value question requires us to stay within the circle of 
+competence. When we are within our circle of competence, one of the core 
+things that should be obvious is what the asset is worth. If we do not have 
+clarity on what the asset is worth, we are not within our circle of 
+competence. The bottom line is that if we are operating within our circle of 
+competence, the value of the business should be obvious. Any business can 
+have a couple of values. It can have a conservative intrinsic value. It can have 
+an aggressive intrinsic value. Probably go toward conservative. But we 
+should be able to figure that out for the businesses that we think we 
+understand. And it should not be hard to do. 
+Speaker: Mohnish, great talk. I am Mike from the San Francisco Bay Area, California. 
+My first Berkshire meeting. I watched your talk on YouTube that you gave at 
+South by Southwest. It is good. But in that talk, you mentioned the Founders 
+podcast. It is a wonderful podcast. You mentioned starting at the beginning 
+and going through all the episodes. You are using it to kind of speed-read 
+through a lot of these biographies that David Senra spent all his time 
+reading. My question is, where are you in the Founders podcast? Number 
+400 is a banger. James Dyson is so good. Are you still using Founders to 
+speed-read, or are you going through Moody's Manuals one by one, 
+Japanese Company Handbook one by one, and using that framework in your 
+analysis? 
+Mohnish: That is a great question. The Founders podcast is excellent. Many of you 
+might be familiar with it. It goes into one of the models, which is to 
+“introduce randomness.” When I read books, one of the problems is that I 
+pick the books I am going to read. No one else is picking them, which is 
+inherently biased because I am going to try to pick books that I am 
+interested in. With the Founders podcast, I am going through every episode 
+that he has done. I do not get to pick books. He has books on Picasso, 
+Churchill, and Sam Walton. It is all over the place. He has all kinds of people. 
+I am going through it backward. I started the most recent going backward. 
+I am at number 115 out of about 415. I am six years back now. It has been 
+wonderful because of the randomness. He decided to do, at that time in the 
+pandemic years, a deep dive into the early years of the US auto industry. It 
+is amazing. All these people, Olds and Chrysler, and the same guy founded 
+Lincoln and Cadillac. On the stock side, the equivalent of Moody's Manual, I 
+have my assistant print out the first two pages of all the new ideas in Value 
+Investors Club, every couple of months. I go through the first two or three 
+Pg. 16 of 18 
+pages of those ideas to see if there is anything there that I want to go deeper 
+into. I find that it is a concentrated way to get ideas flowing in. I also look at 
+DataRoma, the 13F filings, and then SumZero. I have friends and different 
+things that I am reading. A combination of that. On the other side, we do 
+not need that many ideas. We need one or two ideas a year. We can find 
+one, two, or three, then we are good. If I were limited to only making 
+investments through Value Investors Club, that would be sufficient. There is 
+enough there. We do not need a lot. It is more important to go an inch wide 
+and a mile deep than to be a mile wide and an inch deep. 
+Speaker: Hi, thank you so much for the session, Mohnish. My name is Druthi, and I am 
+a student from Pennsylvania. As a student, in the next 5 to 10 years, what 
+kind of pockets of dislocation should I be focusing on? You mentioned some 
+companies in Turkey, international economies, and spin-offs. Are there any 
+other opportunities that you think will continue to expand in the next 5 to 
+10 years that we should be looking at? 
+Mohnish: One of the things about investing is that the more assets we manage, the 
+smaller the opportunity set. Warren talks about that. He has to deploy tens 
+of billions of dollars at one time. There is a limited number of places. As that 
+number goes down, the opportunity set gets wider. What happens is that 
+when there are good investors, and they get started with small amounts of 
+capital, they are forced to abandon the pond in which they were fishing to 
+go into larger ponds because their assets are growing. The smallest 
+opportunities become available to the next generation, because people 
+have to keep moving up. The good news is that this is an evergreen system 
+where a person starting with a small amount of capital has a wide arena 
+where there are not a lot of people playing who are good because they have 
+already moved up. From then on, it depends on what you are most 
+interested in. As I mentioned earlier, John Arrillaga is in real estate around 
+Stanford. The important thing is what you are most interested in and 
+passionate about. Because that will drive the interest to spend the time and 
+focus, and turn the pages. It is the wrong way to look at things to say, “What 
+is going to do well in the future?” That should not be the question you should 
+ask. The question you should be asking is, “What am I most excited about?” 
+Whatever you are most excited about can become an opportunity. But 
+trying to pursue what looks like may become hot in the future can be a 
+negative. 
+Speaker: Thank you, Mr. Pabrai. My name is Jordan Coe from Vancouver, Canada. 
+From what I know, your background is in engineering. In William Greene's 
+Richer, Wiser, Happier  book, you mentioned that engineering courses are 
+hard. As a fourth-year computer engineering student myself and also 
+passionate about investing, how can I fix my process and become someone 
+like you, as you did in the 90s with your company, and how do I win in the 
+future? In other words, how do I start cloning the shameless cloner? 
+Mohnish: Well, you made a start by coming here to Omaha and Berkshire. That is 
+wonderful. I would say that, for me, the starting point was reading Buffett: 
+The Making of an American Capitalist  by Roger Lowenstein. The Buffett 
+biographies are good because they explain a lot of things about how he 
+went through it. An exercise in self-discovery is you have to understand 
+whether you have the interest and the passion to go down that rabbit hole. 
+If you have, then you keep going on that path, and you will figure it out then. 
+Pg. 17 of 18 
+Speaker: I am Jamie from Houston, Texas. I have been reading a lot of Peter Kaufman, 
+and he talks about public companies having perverse incentives and “the 
+dirty shirt” problem. Why are we not looking at private companies  —100-
+year, evergreen, family-run businesses —and building a Berkshire Hathaway 
+out of that? 
+Mohnish: There is a lot of research that family-run businesses do well. The issue is that 
+for most of us, they are not that easily accessible. You are talking about 
+private equity and that sort of thing. In fact, the best course of action for 
+most companies is to never go public. Just keep it private. Also, some of the 
+biggest companies do not need capital to grow because they are good 
+businesses. One choice you have is to focus on family-controlled public 
+companies. There are plenty of companies like Walmart, for example. The 
+family still has more than 40%. It has been more than 50 years since the IPO. 
+The family has not sold. We have a lot of public companies where family 
+ownership is significant. If you were to limit yourself to that universe, it is 
+generally going to be a better return than looking at the whole thing.   
+Speaker: My name is Dan. I am from Steamboat Springs. Thanks for your time today. 
+I want to, as a citizen of the world, thank you for your work with the 
+foundation. I think that as the leaves turn with Warren's life, there might be 
+an opportunity for additional capacity for you to be endowed with 
+additional resources. I wonder what capacity you mentally have for that 
+around your foundation, of course. 
+Mohnish: The thing with giving money away is more difficult than making it. Because 
+when you are trying to make investments, you have a wide-open field. 
+When you are trying to improve the world, there have been a lot of smart 
+humans and smart governments that have already taken a crack at it. The 
+problems that are left are problems that have not been solved by a lot of 
+well-meaning people with a lot of well-meaning resources. I always find that 
+giving away money is more difficult. At Dakshana, we currently spend about 
+$3 million a year. We have a good model with that engine. That engine will 
+max out at 6 or 7 million a year. Until we get to that point, we stay focused 
+on that. I am pretty sure that if and when we have resources that go beyond 
+that, the outcomes will not be as good. We will have to do the next best 
+thing, which is the same thing in investing, where you go with the best of 
+the options you have. In giving money away, it is even more of a headwind 
+when the numbers become large. It becomes more and more complicated. 
+When you look at Buffett's situation, and especially with their mandate to 
+finish it all off in a few years, that is a tough problem. On top of that, he has 
+also set up that all three of them have to agree. The three kids have to be in 
+agreement before any money can be given away. He did that so no one 
+could be approached to give something. The negative is that you now get 
+to committees that are not good at anything. I have some skepticism about 
+that. The whole giving away money stuff is a difficult problem. One way or 
+another, I believe a place like the University of Nebraska, Omaha, is going to 
+end up with a good bit of the money, which is good. They might go tuition-
+free. 
+Speaker: Hi, I have a Dakshana business card from you with your handwriting that 
+says, “East or West, Micron is the best. Buy Micron.” I obediently went and 
+bought Micron at $30 per share. You also mentioned a couple of times that 
+Pg. 18 of 18 
+it is all about the doubles, so when it got to $60, I sold. Today, it is close to 
+$600. What is wrong with me? 
+Mohnish: Thank you. That is a great question. I also sold at a double. What year did I 
+give you the card? It was 2017-2018. I did not put Micron on the list of 
+companies I regret, because I could not have foreseen what was going to 
+happen. A lot of things that happened with Micron were pretty outliers, 
+because in 2017-2018, AI and things were not even on the radar, and so that 
+happens. 
+Speaker: Thanks, Mohnish. My question is, how do we think about these large 
+numbers, companies like Nvidia, $5 trillion? People say it will be $10 trillion. 
+Now, the GDP of the biggest companies, like India and Germany, is $5 
+trillion. In one of the talks last year, you said Amazon is just starting. They 
+have close to $1 trillion in revenue now, $3 trillion market cap. Where is it 
+going in the next 10, 20 years? How do you think about it? 
+Mohnish: There is a box on Buffett's desk that he has talked about several times. It 
+says “too hard” on it. When I went to his office and was going through the 
+Japan Company Handbook, I noticed the box was empty. I told Warren, 
+“How come the ‘too hard’ box is empty?” He said, “Let me fill it up right now 
+for you, Mohnish.” He took a bunch of papers and dumped them in there. 
+We have to remember that 99 percent of investment ideas should go in the 
+“too-hard” pile. They are outside our circle of competence, or we do not 
+understand them. When you asked the question, or you said the things 
+about Nvidia, you actually answered your own question. It is not obvious to 
+you that Nvidia is a great investment. It is not obvious to you that Amazon 
+is a great investment. All of it needs to go in the “too-hard” pile. Till one day, 
+something shows up, and you say, “This is unbelievable. I can understand it. 
+It is cheap. It is going to grow a lot.” When that happens, which will not 
+happen often, as Charlie said, we will get to make trips to the pie counter 
+few times in our lives. When we go to the pie counter, we have to load up 
+on a lot of pie. Pie counter trips are rare. When you get to the pie counter, 
+take a lot of pie. What he forgot to tell me is, “Do not drop the pie on your 
+way back.” So much of the pie, like Ferrari, Progressive, and Goldman Sachs, 
+got dropped on the way back. I never got to eat it. Not only do you have to 
+go to the pie counter and load up, but you also have to keep it. Make sure 
+you do not lose it. Thank you. 
+Prof. Liu: Thank you, everyone. 
+ 
+ 
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not 
+intended to be financial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not be 
+suitable for you, do not take into account your particular investment objectives, financial situation, or needs, and are not intended 
+to provide investment advice or recommendations appropriate for you. Before making any investment or trade, consider whether 
+it is suitable for you and consider seeking advice from your own financial or investment adviser. 
+ 
+ 

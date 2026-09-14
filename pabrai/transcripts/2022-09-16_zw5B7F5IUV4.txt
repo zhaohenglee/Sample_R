@@ -1,0 +1,526 @@
+  
+Page 1 of 12 
+Mohnish Pabrai’s Interview with Ironhold Capital on 
+September 16, 2022 
+ 
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not inte nded 
+to be, financial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not be suitable for you, 
+do not take into account your particular investment objectives, financial situation or needs and are not intended to provide investment 
+advice or recommendations appropriate for you. Before making any investment or trade, consider whether it is suitable for you a nd 
+consider seeking advice from your own financial or investment adviser. 
+ 
+Siddharth: It's an honor to welcome the legendary hedge fund manager, Mr. Mohnish 
+Pabrai, on the show. Mr. Pabrai is the Managing Partner of Pabrai Investment 
+Funds, a global value fund with an AUM of more than $700 million. The fund 
+has handedly beaten the markets since its inception in 2000. In 2008, Mr. 
+Pabrai made news for bidding $650,000  with his friend, Mr. Guy Spier, for a 
+charity lunch with Mr. Warren Buffett. His book The Dhandho Investor is a must-
+read for investors and non-investors alike. The link for the book will be beneath 
+the video for those who are interested and thank you for joining us today. I 
+would like to welcome you to the show. 
+Mohnish: Thank you Siddharth. It’s a pleasure to be here. 
+Siddharth: I would like to begin with some of the esoteric concepts that investors have a 
+tough time wrapping their heads well, and one of them is intrinsic value. 
+Investors run into a lot of trouble when they’re trying to project out cash flows. 
+These are typically 10-year projections, maybe more sometimes, and then they 
+have to base the intrinsic value of that projection. How do you, as an investor 
+reconcile the uncertainty of the projections with the need to perform these 
+projections and how do you approach the subject “intrinsic value”? 
+Mohnish: Yeah, I think that's a great question. The definition of intrinsic value is relatively 
+simple. Calculating it in most cases is far from elementary. Actually, it was John 
+Burr Williams who came up with the concept of intrinsic value and defined it 
+several decades ago, maybe about a hundred years ago. He said that it was the 
+sum of all the cash you could pull out of an enterprise between now and 
+judgment day, then you would discount it back to the present value by some 
+reason of interest rate that intrinsic value of the enterprise or a real estate or 
+anything else is looking at. Of course, when we apply that to businesses and 
+stock market equities and so on, it is  far from elementary exercise because 
+rejecting cash flows for a business severa l years out, even the insiders in the 
+business who may have even been running it for 10, 20, 30 years may have 
+difficulty with that exercise. Outside investors who don't have the same level 
+of expertise or granularity about the business would be even more 
+handicapped doing that at the same time. Making investments without having 
+a good sense of intrinsic value is a fool’s error. There are hacks. 
+  
+Page 2 of 12 
+We can use hacks to get to the Promised Land. The first hack is that we don't 
+need to know the intrinsic value of everything, and we should not even aspire 
+to do that. Most stocks would fall and all outside the circle of competence of a 
+given individual investor or an institution. If something is not within circle of 
+competence, there's no need to try to figure out what is worth because we are 
+not going there. That becomes one. Larg e SWOT of equities would be outside 
+my circle of competence. For example, if I look at anything in biotech as I have 
+no edge or anything I can bring to that party, if I'm looking at industries or 
+businesses with modern technology that I don't understand, again, it's the 
+same thing. If it's an industry which I just don't understand, what are the main 
+factors that drive it. 
+Lots of businesses go by the wayside because they fall outside of the circle of 
+competence. Other thing that we can do to put the odds in our favor is we don't 
+necessarily need to figure out an intrinsic plan or what. What we need to figure 
+out is its above X where X would give us an acceptable return. We may not be 
+able to come up with a precise number, but we may be able to come up with a 
+number that a stock is trading at 50, and the intrinsic value is over 80, for 
+example. That would give us some basi s to proceed. We can also get to the 
+liquidation value of a business in most cases, it’s relatively easy. Sometimes 
+liquidation value exceeds the stock price. Then again it becomes a hack where 
+you could say, well, I know liquidation value is more than two or three times a 
+stock price and I know that liquidation value is not going through degradation 
+or is unlikely to go down. 
+We can do that as well. There are a number of different ways that can be 
+approached. I remember, I think it was 2005 or so, there was a steel company, 
+it was headquartered in the US with most of its plants in Canada. The company 
+is called IPSCO. IPSCO made tubular steel that was used in pipelines. They used 
+to have these multi-year contracts because people are building all these long 
+pipelines that they would place orders with. Which were firm orders because 
+they wanted to make sure they were getting the pipe they needed. IPSCO 
+many times had multi-year visibility to their earnings. They had announced in 
+2004 that for the next two years they would make $15 a share in net income 
+after tax. The stock was trading at about $45 per share. There was about $15 a 
+share of cash on the balance sheet. 
+There was no debt and we had this next two years of $15 coming in and they 
+had a lot of other assets, planned equipment, inventory, et cetera. If you 
+exclude everything else and you just held the stock for two years, the cash on 
+the balance sheet would equal the curre nt stock price. IPSCO was a very 
+cyclical business. Even the insiders probably couldn't tell you what the interest 
+balance was, but I didn't really care. My take was, let's buy the stock that it sold 
+for two years and let's see what the market decides the company should be 
+valued at. At that point, I couldn't believe that a business with $45 of cash on 
+the balance sheet would still change those hands at $45 when they had all these 
+  
+Page 3 of 12 
+other assets, their earnings could well have gone to zero in year three or 
+would've followed off 70% or they could stay flat or gone up. 
+There was a very wide range of outcomes, probabilistically, it was a good bet. 
+A year later, IPSCO announced that they had one more year of earnings visibility 
+and they were going to make another $15 share. Shortly after I bought the stock 
+had gradually different up to 60, and then when they announced this one more 
+year of visibility, et cetera, it can too move higher. It was trading at about $90 
+a share. I had held the shares for about  a year and a half. I was saying, “well 
+done Mohnish, it worked, but since we have no further visibility and we know 
+this is a cyclical business, maybe it's time to get off the bus”. As I was running 
+through that thought in my head and thinking it might be time to double in less 
+than 18 months or so, there was an announcement that came out that a 
+Swedish company had made an offer to buy IPSCO at $160 a share. 
+When I woke up that morning, I think the stock was trading at 150 or 152 or 
+something, one fem to second. After that, I sold all the shares and that deal 
+actually closed. IPSCO became a private company, part of the Swedish group 
+and so on. But that's an example of where there was more value than what the 
+market was describing, sometimes th e market gets confused, risk and 
+uncertainty. There's a business I invested  in, in 2019 in Turkey, which is the 
+largest warehouse operator in Turkey; Reysas. Their liquidation value was 
+relatively easy to get to because they had 12 million square feet of class A prime 
+warehouses, 20% refrigerated, 99% leased, 10 year inflation indexed leases. The 
+market cap was 20 million, the liquidat ion value was over a billion and there 
+was about 200 million of debt. If you took out the debt, you were buying 
+something for like 3 cents of the dollar or something, two and a half, 3 cents a 
+dollar. 
+Again, in that case, there were cash flows and other things going on. Intrinsic 
+value was probably over 800 million, but there were already good capital 
+allocators. My estimate by the intrinsic value of 50% is more liquidated, but I 
+didn't need to figure it out. We were buying a 20 million and liquidation value 
+of 800 million. Good things will likely happen to us. There's another company I 
+think in 2015; Rain Industries, we still own it. This is a very cyclical business with 
+some significant volatility earnings, but they're also a low-cost producer, so 
+they don't really make money even during the down cycle. Rain Industries had 
+a market cap under 200 million, and a market cap close to 2 billion. There was 
+a very high probability, I felt that in the next four or five years, earnings in a 
+single year would exceed 200 million. Again, I just wanted to hold the stock to 
+see what happened when that single year earnings went to that number. 
+I thought that odds were high and will happen within five years. My take was, 
+we don't have a downside, we have an unknown upside, and we can go in, we 
+don't know what intrinsic value is, but that's okay. Within three years, their 
+earnings hit 200 million and the market cap got close to 2 billion. In my infinite 
+wisdom, I did not sell because by then I was covered by the business and then 
+  
+Page 4 of 12 
+it went down and now I think it's about 7, 800 million in market value. We have 
+a gain, and I think we will get past the old 200 billion by the fullness of time. 
+But that was another example where we couldn't lose money, you didn't have 
+to figure it out. I think the hacks are important because many times a straight 
+BCF. One of the rules I use is that, if you need Excel to figure out what the 
+intrinsic value is, there is a problem. 
+If you cannot do it in your head, there's a problem. If you look at a business like 
+Starbucks or McDonald's for example, I think the odds are very low that these 
+businesses have lower earnings five or 10 years from now. The pretty low odds, 
+the place with the area which gets complicated is how much higher would, 
+right? You can always take a conservative view on these businesses. I've got a 
+long history with these businesses, I can look at the history, like China's got 
+5,000 stores and maybe could be 10,000 in 5 years or something, those sorts of 
+things. You could make some extrapolations; those types of bets can pay off 
+extremely well. The math is a little bi t more… it requires you to make more 
+assumptions than I need to make with Re ysas or Rain and so on. But that can 
+work as well. 
+But the important thing I think is that because we live in a world with 50,000 
+listed companies, there are always businesses, regions, and industries that are 
+going through some kind of overhang, which is making it easier to get to at 
+least the floor of the plan. Focusing on those is a good way to go. I think Buffett 
+has a quote, he says, “we like to buy great businesses when they are on the 
+operating table”. I think a lot of great businesses go through temporary hiccups 
+and the temporary hiccups can help us make it easier to figure out intrinsic and 
+get in at a price below a conservative assessment. 
+Siddharth: I think the investment process is even  more difficult especially in the US. They 
+are just the sheer number wise, looking at securities. You have more hedge 
+funds and mutual funds now than you have at least public listed stocks in the 
+US and so how do you screen for ideas, I mean you mentioned Cloning as one 
+of the ways 30 nets. You look at other resources and what have you found to 
+be the most exact way to do so? 
+Mohnish: Well, I wait for something to hit me like a two by four on my head and when 
+something hits me like a two by four on my head and jolts me then that means 
+I should take a further step. If I can find two investments in a year that we can 
+make, I think we're doing well. I think in the first eight months of 2022, I found 
+one investment and just recently a second one popped on the radar. I think this 
+one work. It's a good year. It's been a wonderful year. Who knows what 2023 
+brings or 2024 brings. It could be zero or it could be four, we don't know. On 
+the one hand, you have the 50,000 stocks, on the other hand we only need a 
+couple of ideas a year, maybe less. With that larger universe sifting to things 
+and being just asking basic questions like “is this within circle of competence?” 
+What is this worth? That sort of thing. 
+  
+Page 5 of 12 
+It'll get rid of a lot of companies, and we can use hacks to reduce the data set. 
+One hack you could use is, for example, if you limit yourself to only buying 
+businesses that have a write up on Value Investors Club, because that's a very 
+well curated site, it's difficult to become a member. You have to keep 
+submitting a couple of ideas a year that are decent to keep your membership. 
+The average idea on Value Investors Club  is better than throwing darts at a 
+board and picking an average talk to research. If you use the Value Investors 
+Club as a starting point to be doing research, it trims down the dataset quite a 
+bit and the write-ups are pretty good. If you just went through and just read 
+the write up and then just left with the ones that you think are businesses you 
+understand or thesis that you agree with, then that becomes a basis to do more 
+work and see if any of those can drive with me. 
+That can be a good source Data aroma, which gives the 13 net filings or a bunch 
+of great extras that can be a great source, Barrens could be a source. There's a 
+number of sources you could get through that mix of things, trimmed them 
+down. I made my first trip to Turkey in 2018 because the currency was very 
+unstable. Everyone in their bother was leaving the country and mass and the 
+markets optically looked really cheap. I had a good friend in Turkey, and I just 
+said, “listen, can we just go and visit ev ery business in your portfolio?” I didn't 
+want to visit every listed company in Turkey. I wanted to visit the ones that had 
+already gone through his filter. He'd actually put money into it and so on. It was 
+a great trip. I found a few things that looked interesting and then the following 
+year I made another visit in 2019, that's when we visited Reysas, 3% liquidation 
+value and so on. 
+I think that there can be a number of different ways in which you can create 
+the research list if you will. It could be value investors versus club, other 
+publications and parents or  might say, particular geography might hold some 
+promise and let me take it further and so on. There can be a number of different 
+ways in which things can enter the funnel since the output from the funnel 
+should ideally be pretty small because I think most of us probably cannot find 
+more due to the certain if that makes sense and that's a good way to go.  
+Siddharth: When you look at your investment process, are you working at multiple ideas 
+at once? Are you just working on one investment at a time, and do you read 
+investment journals, transcripts, boards, all of those? How do you go about 
+aggregating data, I guess, and then attacking these investments? Is it one at a 
+time or simultaneously? 
+Mohnish: Well, this is a good time right now because a lot of my energy is focused on one 
+particular company like that. I'm really down at the same time, I'm reading 
+several newspapers every day. Value line shows up once a week and my 
+assistant show me like for example, all the ideas posted in Value Investors Club 
+in the last month or something. It's a mix. I would say that at this point probably 
+80, 90% of available horsepower is being directed to one business and I'm still 
+looking at a bunch of other things. Most of those get discarded pretty quickly. 
+  
+Page 6 of 12 
+If something shows up on the radar that looks interesting, then I will relatively 
+quickly try to figure out which of the two businesses I now have and which of 
+the two should be given more priority. Then we take it from there basically to 
+try to do a comparison, try to see which one risk adjusted is better and bad and 
+so on. 
+Siddharth: Do you believe in having some other intelligent investors, your partner similar 
+to Mr. Buffett and Mr. Munger? If so, how do you avoid maybe confirmation 
+buyers or group sync in that case? 
+Mohnish: Yeah, Charlie had told me a long time ago, like within the second meeting I had 
+with him in 2009, he told me, “Mohnish, it's really important to have someone 
+to talk to about your investments”. I told him, “Oh, you mean like Warren 
+Buffett?” He said, “well it wasn't always Warren, but I've always had someone 
+to talk to”. I actually incorporated that had not done, I hadn't thought about it 
+that way till then, and I made a deliberate attempt after that to seek out other 
+opinions. Sometimes people differing opinions on the company and such. I 
+mean, John Templeton says that “best of us will be the wrong one or the three 
+times. If I make six bets in three years, even though I'm making two bets a year, 
+according to John two, out of those six bets at least one might be wrong, that's 
+a minimum. 
+It would be actually three out of the six bets that doesn’t do what you expect 
+them to do. They do far worse than what you expect them do. Now my hope is 
+you don't have a permanent loss of capital. What if it doesn't work you get your 
+money back or something. But many times, you're not that lucky, you may 
+suffer some loss of capital as well. That's  just par for the course. Even when I 
+look at Warren Buffett's investments and if you were to look at like, let's say 70 
+or 80 acquisitions that he did at Berkshire, easily more than a third of those did 
+not work. This is Warren Buffett with Charlie Munger with the best of the best 
+and the good news that Warren has is that the larger ones in general have 
+worked. 
+If you dollar-weight it, he's had a very high success rate. But if you equal weight 
+every one of those 70 bets, it would be a terrible rifle relative to what we've 
+seen with Berkshire Hathaway. Like they made a large number of investments 
+in furniture retailers. I think every single one of them, except Nebraska 
+Furniture, never worked. Lots of inve stments in jewelry retailers and every 
+single one except Borsheims did not work. In fact, most of the businesses 
+during the financial crisis would've just gone under, I think they only stayed 
+alive because they had the support of the parent. They would've basically been 
+zero in a number of cases. I think that, yeah, it's important anything that you 
+can do to bring the error rate down. Talking to other people who don't have any 
+biases or a reason to agree with you and to a more objective, that can be a great 
+asset. 
+  
+Page 7 of 12 
+Siddharth: Mr. Buffett describes a great business as one, which has a wide moat around it. 
+I think what I believe he's always been focused on is identifying moats in a big 
+addressable market. How do you persona lly approach a business which you 
+believe has a moat? Is it something that comes to you naturally over period of 
+time through collection of bunch of insights? Or do you actually go about it in 
+a more intentional manner? You really try and identify what is the moat of this 
+particular business. Even when it's not obvious. 
+Mohnish: A business that is within your circle of competence, the moat will be very 
+apparent to you when you just think about the business and then it'll get ratified 
+when you look at the numbers. Generally speaking, a great business is going to 
+be generating high returns on equity without much use of leverage over a long 
+period of time. That's going to give you the proof of the pudding if you will. But 
+I think before that, for example, even before I look at the numbers of Starbucks, 
+I know it's a great business. I mean, I know for a fact that when they open a 
+store in the US, they get all their money back in two years. Starbucks doesn't 
+franchise at all. All company owned stor es except the ones that the airport 
+doesn't have a choice. When they open stores overseas, like in China, et cetera, 
+they get their money back much faster, like 15 to 18 months. 
+The payback is even faster. I mean that  is a business that is generating 
+something like 36% unlevered return on equity with a massive run ahead. If you 
+just think about the number of Starbucks stores that might exist in the world 
+eventually, and at which point they kind of stopped blowing a little away, that 
+day could be pretty far away. They have a huge runway. They've already done 
+so much for so many decades and they still keep ranking. When you look at a 
+business like that and you encounter Starbucks with those customers, a lot of 
+moats should be apparent to you.  
+First of all, if you just looked at all the products and services that you as an 
+individual consume, you would be surprised how many of them have deep 
+moats, because in general, for a random business to convince you that they 
+deserve a share of your wallet is a pretty high bar. We all tend to want to get 
+good value and products and services that enhance our lives, especially if you 
+have deep loyalty towards those brands and such. The brand of Razor you use, 
+the kind of shaving cream you use, the brand of toothpaste you use, the time 
+you wake up, your soap, your shampoo, your breakfast brands, the clothes you 
+buy and the cars you buy, it just goes on and on. We encounter a lot of brands 
+and we are using a lot of brands and a lot of products and services. When I 
+bought my home, the insurance company required me to have kind of an alarm 
+service like ADT before they would wri te the policy. ADT has a moat; other 
+companies are requesting me to get th eir service. If you are a corporation 
+issuing a bond, you can't get it out unless you're rated by Moody’s and S and P. 
+Moody’s and S and P have a moat because it's written into the covenant and 
+such and so on. I think that knowing what a great business is not a difficult 
+exercise. Then the next piece, which is, is it a great investment? That's a much 
+more difficult question. 
+  
+Page 8 of 12 
+Siddharth: Mr. Buffett used to do Scuttlebutt or speaking to suppliers, competitors, ex-
+employees and people from that industry. A particular investment, how much 
+do you believe in scuttle? Since we have so much public information on all 
+these companies available, do you personally find it useful and do you use it on 
+a recurring basis or is it just maybe even once in a while? 
+Mohnish: Phil Fisher was the big advocate of scuttlebutt. He originally wrote about it. I 
+think it's a really good thing to do. I should do more than I do on scuttlebutt. I 
+do try to think about who I can call, who I can talk to, who might be either user 
+of the product or service and or myself be a user of the product of service and 
+that sort of thing. Might have insights as a competitor, customer, supplier and 
+so on. I do try to think through those. I think I could do a better job than I've 
+done in the past, but it's a wonderful add on to the research. Absolutely. 
+Siddharth: An extension to that question would be, do you believe in meeting the 
+management team? Because we've spoken to a number of management teams 
+and they were definitely different. So metimes we had some strategic views 
+from the management team that may not be obvious from the financials. 
+Sometimes you just get the transcripts pretty much read out to you almost. 
+When all the information is public, do you find it useful still to speak to 
+management teams, if so, what are the few things you are looking for? 
+Mohnish: Yeah, I used to almost never need to interact with management course when I 
+first started, the capital base was so small that no one would be interested in 
+reading me anyway. Not even a choice. I think Ben Graham was always kind of 
+opposed to the idea of meeting management teams. He wanted methods that 
+could be used by retail investors that were applicated. In general, one of the 
+dangers of meeting management teams is that the guy at the top typically has 
+great sales and got the job because of hi s skills and you'll be talking to a 
+salesman about business that he understands a lot better than you ever will. 
+His ability to sway you distort reality is pretty strong. A better approach to 
+counter some of that is to look at the track record. 
+I think it's more important to look at the track record, what the management 
+team has done, which we can tangibly look at rather than rely on forecast that 
+they are making. It's not that they're deceitful. The other trait that a lot of 
+management team share is their optimist and they could not lead if they were 
+not optimists. If you are in the presence  of an optimist, the great salesperson 
+knows subject, who loves his business and so on, you may get a distortion that 
+is not going to be positive for your long term returns. On the other hand, if you 
+caught most of your data from the historic record and extrapolating 
+conservatively based on that record, that's a bit better basis. Sometimes just 
+meeting the management teams can help you. You might see some issue which 
+is bothering you and that may not have been visible if you didn't meet them, so 
+that can be helpful. 
+  
+Page 9 of 12 
+They can also actually be pretty helpful in helping you see if you've gotten the 
+right models. Most businesses are run by leaders who know two or three 
+variables of five 80% of the outcome. As investors, it's very important for us. We 
+owned another same variable and you may not always get to the same 
+variables. Sometimes meeting the management teams and understanding how 
+they look at the business, how they run the business, and what are the metrics 
+they care about. Then if you just make sure that it has gotten to the right for 
+variables that will drive most the outcome and you are able to handicap those 
+variables, then you get a basis. I thin k that's the other piece that has been 
+helpful in meeting.  
+Siddharth: Wonderful. To segue, we had Mr. Guy Spier on the show a couple of weeks ago, 
+and this is a question I asked him. He accompanied you to lunch with Mr. 
+Buffett, I think that was in New York. I asked what his takeaways were and how 
+relationship has evolved over the years with Mr. Buffett. You've also developed 
+a friendship with Mr. Munger through the lunch. Could you maybe speak clear 
+about that a little bit? 
+Mohnish: Well, I think the lunch with Warren blew away both of our expectations about 
+quite a mile more. I had very low expectations going into the lunch, the driver 
+to bid for the lunch and pay the amount we did. I just wanted to thank Mr. 
+Buffett in person. I felt like I had used his intellectual property or everything I'd 
+pretty much pick my livelihood on is based on his IP that he's made public 
+domain. I just wanted to look him in the eye and just say thank you. I didn't 
+really have any expectation beyond that. What was really surprising to me is 
+that when Buffett comes to  these lunches, he has a different mind-set. His 
+mind-set is, he wants to make sure that the person who won the lunch, what 
+amount they paid at the end of the lunch, they feel they got a big bargain. 
+His focus is to make sure that people think they got their money. My focus was 
+just, I wasn't looking to get my money, I wanted to thank him. The lunch went 
+for almost three hours. It could have gone longer. He had pretty much told us 
+he's got the whole day for he was with us. As long as we wanted to have him. I 
+think later when I made a list of questions, I could remember different people 
+asked. They were like 54 different qu estions or such that I was able to 
+remember. Yeah, I mean I think the lunch had a number of, well, I mean I think 
+in hindsight he delivered unbelievable amount of value to us. Basically, every 
+question he would answer it in a manner that tried to add value to us. 
+I asked him an innocent question about, “hey, you and Charlie had a third 
+partner, Rick, we haven't heard from Rick in several decades, are you in touch 
+with him? How's he doing?” Warren said, “Yeah, I'm very much in touch with 
+Rick and in fact I get a card from the play bridge with him periodically”. He said, 
+Rick is doing great. He proceeded to highlight how Rick got margin calls in the 
+1973-74 collapse and how Warren bought his Berkshire shares at like $40 a share 
+10,000 times or more around today. He said, “look, if you're even a slightly 
+above average investor, you spend less than you earn and you don't use 
+  
+Page 10 of 12 
+leverage, you cannot help but get the over lifetime”. A question about, hey, 
+how's Rick doing? Got converted into a lesson on leverage and compounding 
+and modest lifestyle and so on. Of course , I didn't expect him to give us to 
+Charlie and I didn't expect the Charli e meeting to go anything beyond one 
+lunch. It's the gift that keeps on giving. It's been one of those most no brainer 
+things that I could have done. I didn't do it from the perspective of getting any 
+anything out of it, but it turned out to be like an amazing set of things that 
+happened. 
+Siddharth: Mr. Munger, certain wrote the, I thin k the most incredible book I’ve read on 
+investing which is Charlie’s Almanack? I mean half of it is life advice and half of 
+it is investing. That brings me to the next question, which would be what 
+resources have you found as an investor to be the most helpful in your 
+education as an investor, maybe when you were still learning about the Art of 
+investing? 
+Mohnish: Yeah, I think Poor Charlie’s Almanack is a wonderful book and I try to read it 
+every year because every year I read stuff that I can swear I never read before. 
+Even though I've gone through the books several times, it's like a bible, got a 
+lot of take-home value especially the talk s at the back and especially like the 
+psychology of human misjudgment talk. There was a book written by Thomas 
+Phelps 50 years ago called 100 to 1 Stock Market. It's an exceptionally well 
+written book, not that popular, but I think that book can be really helpful in 
+setting your frameworks. He was a journalist and I think there's great job writing 
+that book. I think that book can be useful. The Berkshire letters obviously are 
+great going through it and then they 've posted all the Berkshire annual 
+meetings on Buffett.cnbc.com going back to the nineties. I listened to all of 
+those in the shower for about six months . Twice. I've been to every meeting 
+since 98, going for a while I think 20, 25 years. It's been a while. Yeah, I think 
+these are some good resources and these probably get you other jumping off 
+points as well. 
+Siddharth: People are very interested in Dakshana Foundation and the work it does. It's a 
+very unique non-profit organization. First of all, how can people contribute to 
+the foundation, and could you maybe give a little of detail as to how Dakshana 
+goes about educating young, impoverished children and really adding a lot of 
+value to their lives? 
+Mohnish: Yeah, well we welcome any support. Dakshana is a public charity. It started as 
+a private foundation. You can just go to dakshana.org, we welcome any support 
+and that's wonderful. I started Dakshana  about 15 years ago and I was in my 
+early forties at the time. It seemed to me that it was likely that because we had 
+a fairly modest lifestyle and compounding, it worked so well and you're getting, 
+fees on other people's money and so on and so forth, we were going to end up 
+with meaningful sums well beyond what we needed. It's generally a bad idea 
+to have large inheritances, they generally do more harm than good, it's okay to 
+give some head start to your gene pool, but to put them on an IV drip for the 
+  
+Page 11 of 12 
+rest of their live was probably counterproductive. If you're not going to give the 
+money to your gene, the other option you have is to give it to society. 
+When I started to think about, okay, what organization should I be thinking 
+about when I get to the point and I want to generate all the money, I really drew 
+a blank, like, the reason I drew a blank is that most charities are run and set up 
+by people who have great hearts but not so great heads. To actually run a non-
+profit value is a combination of a balance between a great heart and head. I 
+found that it is truly best. I thought that people who run charities need to have 
+good capital allocation skills. Those are usually quite rare amongst typical 
+people who are drawn towards running or managing charities. We end up with 
+a result where there's a lot of well-meaning people in charitable institutions 
+trying to do well-meaning work, but because they are not capitalized, it's very 
+suboptimal. If I were to ask most of them, “okay, so you spent 50 million last 
+year on various programs, what was the impact?” 
+They're not able to quantify the impact in a format that would make sense in 
+terms of how do we increase the impact? We had X impact of 50 last year, can 
+we get 30% more than X next year or 10%, 5% more. They just have no calibration 
+or ability to do that, or they just do what feels good and what feels good leads 
+to great pictures in annual reports and so on. It is not going to  be epically. It's 
+just like great investments. Great investments are not the ones that are touted 
+all the time in CNB, BBC or something. I had a notion that some idiot like me 
+who didn't know anything about charities might be able to be better than these 
+guys because at least I have a framework of what I'm looking for. One of the 
+issues with charities is that it's really important to measure outcomes and most 
+charitable endeavors don't lend themselves to easily outcome measurement. 
+For example, if you had a program which give free needles to the homeless, 
+that's a very worthwhile thing to do, how would you compare that to a program 
+that tries to get homeless people into  temporary housing and then maybe try 
+to get them some mental health resources and other things and get them off 
+the street? The free needles cost very low amounts per person, and they have 
+some impact on doing th at. The second program has a very large cost for 
+homeless person. We don't know which is better. I still don't know which is 
+better because these are hard to measure. One of the hacks I did with Dakshana 
+is, we are not going to do things that are hard to measure or are impossible to 
+measure. We're only going to do things th at are easy to measure. Just like the 
+hack of intrinsic value. 
+We can't figure out intrinsic value in most cases. We just hack it. We only go to 
+the ones that we can figure out and then stick with that. That was the first hack, 
+which is focus on things that are easy to measure. In our case it was education. 
+Once we got to a program which I thought had really high returns on invested 
+capital and was easy to measure, we iden tified very poor kids who were very 
+gifted, 16 to 18 year old. Then we pr epped them for getting into the top end 
+colleges in India, the IITs or medical school and so on. In India, these universities 
+  
+Page 12 of 12 
+are very cheap to attend. Once you get in , affordability is no issue, loans, et 
+cetera are available. But getting in is difficult because the entrance exams are 
+hard, you can't really get in unless you're coached, and the coaching is very 
+expensive. 
+We basically level a plain field and ma de the coaching field, and we can 
+measure outcomes because every year we get a report card from an 
+independent entity, which tells us how many of our kids got accepted at IIT and 
+how many got accepted at school, et cetera. My team cannot fudge the 
+number. It's not an internal test. It's a very black and white external benchmark. 
+We have metrics that tell us how much it costs us per kid. We can see how 
+many kids and families using poverty and we can even try to extrapolate 
+lifetime benefits and such. They are getting, so it's very measurable and I think 
+that Dakshana appeals to a lot of peop le because it's very holistic in its 
+approach. 
+Siddharth: I would like to conclude the interview with, obviously it's an absolute honor to 
+have you on show and you have taken the time even after the held incident, so 
+investors are interested in Pabrai Investment Funds. How can they reach out 
+and maybe social or website links can we provide that will allow them to do so? 
+Mohnish: Well, I think just Google, me and Pabrai Funds, God Google will direct it to me. 
+I have a blog chaiwithpabrai.com and that's another place you can, it's got a 
+bunch of free resources for investors. Yeah. I think God Google can answer all 
+your questions. 
+Siddharth: With that, I would like to end the interview. Thank you for taking the time. It 
+was an absolute honor to have you on our show. 
+Mohnish: Thank you. I actually enjoyed the questions. I appreciate the work you did and 
+such in preparing, but it was fun. Thank you. 
+ 
+  
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not inte nded 
+to be, financial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not be suitable for you, 
+do not take into account your particular investment objectives, financial situation or needs and are not intended to provide investment 
+advice or recommendations appropriate for you. Before making any investment or trade, consider whether it is suitable for you a nd 
+consider seeking advice from your own financial or investment adviser. 
+ 
+ 

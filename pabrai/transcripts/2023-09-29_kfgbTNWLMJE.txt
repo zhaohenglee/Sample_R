@@ -1,0 +1,647 @@
+  
+Pg 1 of 13 
+Mohnish Pabrai's Q&A session with students at the  
+Mendoza College of Notre Dame on September 29, 2023 
+ 
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not 
+intended to be financial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not be 
+suitable for you, do not take into account your particular investment objectives, financial situation, or needs, and are not intended 
+to provide investment advice or recommendations appropriate for you. Before making any investment or trade, consider whether 
+it is suitable for you and consider seeking advice from your own financial or investment adviser. 
+ 
+Dibin: Thank you so much Mohnish for being here. Before we start, I want to thank 
+Professor Stiver at Mendoza College of Business and Mark Dumich at Notre 
+Dame Institute for Global Investing. I also want to thank Anuradha and all 
+your staff members Mohnish for the communication. It was very smooth, 
+and I had no problem setting everything up. With Mohnish, there was a 
+recent eBay auction I saw that was a 30-minute Zoom call that sold for about 
+$26,000, if that is right, Mohnish. That means this hour-long Zoom call we 
+have with you is worth at least $52,000. If not, probably even, that is a gross 
+underestimate if we can gather more insights from you here today.  
+Mohnish: The guy who won that auction thought he had so much value that he sent 
+$30,000 over. He increased the amount because he felt bad. He thought it 
+was too low.  
+Dibin: Well, everyone in the classroom then, if that is the case just be mindful when 
+you phrase your questions. We are getting great value here today. If that's 
+okay, Mohnish, we will get right into the first question. 
+Mohnish: Alright, sounds good. 
+Dibin: The first question, Mohnish for great businesses and compounders with long 
+runways you have said that even when it is appropriately valued, you 
+shouldn't sell it. And even when it is overvalued, you shouldn't sell it. That one 
+is interesting. We can think of two reasons. One, if the investors have a large 
+amount of capital like Buffett or even yourself perhaps, where there are not 
+that many stocks to invest in, and that is why you must hold onto the 
+compounders. Second, we get an interest-free loan from the government 
+with no maturity. Those are the two benefits. Apart from those two benefits, 
+why would you not sell a compounder with a long runway, even when it is 
+clearly overvalued by definition? 
+Mohnish: That is a great question. One of the reasons we don't want to sell is because 
+first, these great businesses and these great compounders with long 
+runways are very rare. We should be grateful that we get a couple of those 
+in our portfolio. The second is that when you have these kinds of businesses 
+in your portfolio figuring out intrinsic value is a non-trivial exercise. You may 
+make errors in figuring that out. For example, let us say you owned Amazon 
+at some point in your portfolio, and it looked optically overvalued. Amazon 
+has always looked optically overvalued because they are putting their 
+earnings into so many other initiatives that their earnings look artificially low. 
+When you just look at the basic number and we don't know which of the 
+bets they are making we don't know which are going to work out and which 
+are not, and what the economics of those bets are going to be. We would 
+not be able to, for example, have any kind of idea about AWS before the 
+  
+Pg 2 of 13 
+whale surfaced what the economics or long-term prospects of that business 
+are, or even other businesses that Amazon may enter in the future. I would 
+say that the idea should be that when it is very clear that a business is 
+egregiously overvalued, you should absolutely sell it. This is more art than 
+science. When you get past what you think is fair value and it is 20, 30% 
+overvalue to something, I think you must give the benefit of the doubt 
+because there are so many unknowns that could work in your favor, and this 
+is especially the case with the gifted management teams. At what point in 
+Microsoft's 40-year history or so as a public company, should it have been 
+sold? We know that we hit that point around 2000. 
+When it was 600 billion second most valuable business on the planet. If you 
+exclude that one bubble, in which everything became crazy where a lot of 
+things deserve to be sold. Is Microsoft overvalued today? Is it egregious or 
+overvalued? I don't know whether Microsoft is priced or overpriced. It is 
+probably somewhere in that kind of range, but I wouldn't venture to say it is 
+egregiously overpriced. I would say that egregious overpricing becomes 
+obvious when it is happening, and one can act on that, but I think you need 
+to give it a lot of rope. The other thing to keep in mind is that it is always good 
+to think of it as if you are the owner or founder of the business. Would a 
+founder sell his company because they got an offer that was 20, 30% more 
+than what they thought the business was worth, and if it got a runway and 
+all those things? It is probably unlikely. If they got an offer of 500% of what 
+they thought the business was worth they would be very happy to sell. I think 
+having a founder mindset is also very useful. 
+Dibin: Mohnish to that point though, when we say we must give the benefit of the 
+doubt in a way, we are also giving the benefit of the doubt to the 
+management team and believing that they will continue to throw things on 
+the wall, and hopefully, produce that rate of return that they have been. We 
+are putting faith in the history of that. Okay just to be clear. 
+Mohnish: Another thing to keep in mind is, when you do that, the risk that you run is 
+that a business that you thought was great might go into decline. Let us say 
+you have had a 30 x or a 50 x in some business, held it for a long time, it has 
+been a great return, and you don't spot the exact moment when the 
+business goes into decline. You may sell it at a 20% or 30% discount from the 
+peak valuation. There are far worse tragedies than that in life. We are okay if 
+we don't capture the last dollar and we don't optimize. However, I think the 
+downside of getting off a great runway is much worse. 
+Dibin: Even when we don't see a clear path to how this valuation could be justified 
+because like with Amazon and AWS, there is so much internally going on 
+that we don't know we are going to trust it. 
+Mohnish: I haven't looked at Amazon's market cap lately but let us take a quick look at 
+what Mr. Market is putting for Amazon today, and then we can maybe have 
+a little bit of intelligent conversation about this great business. Amazon's 
+market cap is about 1.3 trillion today. If I were an owner of Amazon, it would 
+not bother me if the market cap was 2 trillion or even two and a half trillion. 
+I would give it a lot of rope because I think that they have such an ability to 
+enter new businesses and such an ability to execute, and any of those 
+embryos that we can't even see could become big in the future. I would just 
+give them a lot of room and take the risk that we may eventually end up 
+  
+Pg 3 of 13 
+selling at less than those numbers. But, if you have had a good run for a long 
+time, it is still okay. 
+Dibin: Okay. Thank you very much. Let’s turn it over to the classroom. I think Arnav 
+would like to ask you a question. 
+Arnav: Hi. I was just curious when you exited TransTech, what pushed you to start 
+your investment fund? Was it like investing in any of the already existing 
+value funds? 
+ 
+Mohnish: That is a great question. When I was at that crossroads in 99 what I wanted 
+to do was, I wanted to go work for Warren Buffett. That was my goal in life. 
+At that time, my liquid net worth was north of 10 million, which I thought was 
+a huge amount of money. I never had anything like that in the stock market, 
+maybe 10, 12 million. I felt I didn't need to work anymore. I don't need to get 
+a paycheck anymore, but what do I want to do? I thought that what I wanted 
+to do was continue to get better at investing, and how do I get better at 
+investing? Well, go to apprentice with Warren Buffett, so I wrote Warren a 
+letter in 99, probably January or February of 99, and I told him, “Listen, this is 
+my background and I don't need a salary or anything. I can work in Omaha 
+or Chicago where I am living. You can pretty much tell me to do anything 
+including sweep the floors. It is okay. I don't need a title or anything.” Within 
+a week, I got a response from Warren, which means that my letter probably 
+got responded to in Omaha maybe the same day or the next day after it got 
+there. He said that he works alone, and he likes working alone. Then he said, 
+“You might wonder why I am saying that when there is Charlie Munger in 
+the picture. Charlie is in LA, and I am in Omaha. We don't work together on 
+a day-to-day basis.” Then he says, good luck reorganizing your life. I am not 
+the answer.” I was very depressed and dejected when I got that letter 
+because I could not think of anything else I wanted to do. I could not think 
+of any other place I wanted to go to work. I was part of a group called the 
+Young Presidents' Organization, YPO, and I had some friends in YPO. I used 
+to give some of these guys stock tips over the years, and they had done well 
+with those tips. So, they said, “Look why don't you just set up a partnership 
+like Buffett had, and we don't want stock tips from you. We want to give you 
+some money to manage, and you manage that money and see what you can 
+make of it.” They were like eight or nine of them giving me a hundred 
+thousand dollars each. I would have liked a million dollars under 
+management, which I didn't think was enough to pay the rent or anything. 
+But I didn't need income. I thought, I can set up a vehicle like the Buffett 
+partnership to take care of my friends’ 1 million, and if I am buying a stock for 
+my portfolio, there is no additional work involved in buying it for this second 
+portfolio.” It is five minutes more work. I started that plan B because Buffett 
+said no, and because I thought I could do this. This doesn't solve my problem 
+but let me see what else I can do. About 15 months after I started the fund 
+which I thought of as a hobby, not a real business, we had done well the first 
+year. We were up like 70% and the fund had some more money come in. It 
+had about two and a half million under management in 2000. I decided at 
+that point that I was enjoying the fact that I had some investors, and I had 
+this pool of capital. So I thought, why don't I stop treating it as a stepchild 
+and start treating it like a real business and raise assets and run it more 
+  
+Pg 4 of 13 
+professionally? I did that and I decided I was going to try to grow and scale 
+Pabrai Investment Funds. That is how I went down that path. 
+Dibin: Got it. Thank you, Mohnish. The next question is regarding cigar butt 
+investing specifically. Graham did it, Buffett did it, Walter Schloss did it, and 
+even you did it at a point. I know you would say that finding compounders is 
+the best, but sticking to cigar butt investing, if in a situation we have three 
+stocks A, B, and C, and their net-nets are all trading at, let us say one 10th 
+their value. We buy three 33% in each stock. We go to sleep for two years and 
+then wake up and find that one of the stocks has gone up quadrupled 
+essentially. It is now trading at 40, 50% of its net-net value. The other two are 
+just coast-lining, really doing nothing. In this scenario does the concept of 
+portfolio rebalancing make sense because there is more room to go, more 
+puff left in the other two, compared to this one stock? Would that make 
+sense to trim that and pour it over to the other two stocks? 
+Mohnish: To answer your first question about whether to do net-net investing or to just 
+focus on compounders, in investing it is always good to have a “Swiss Army 
+Knife Approach” to investing where you can maintain flexibility. Finding 
+great compounders at compelling prices doesn't happen that often and this 
+year when Buffett's letter came out, he talked about the fact that in 58 years 
+of running Berkshire Hathaway, there were 12 decisions that he made that 
+ended up probably creating 80, 90% of the value for Berkshire. He made 
+hundreds of decisions in the last 58 years and probably bought more than 
+300 stocks which led to this tremendous outcome. It was like one good 
+decision every five years on average. Even for a person with the talents of 
+Warren Buffett, finding these great businesses like Geico, Coke, Amex, or 
+Burlington Northern, or all these things that have worked so well, National 
+Indemnity, and so on, were rare. They happened relatively infrequently. I 
+think it is always nice to have more tools in your arsenal that you can deal 
+with. One of the things that did not get so much clarity or publicity about 
+what Buffett did recently was that on his birthday in 2020, August 30th 
+Berkshire announced that they had taken more than a 5% stake in five 
+Japanese trading companies like Mitsui, Mitsubishi, Marubeni, and 
+Sumitomo. He had invested north of about 5 billion in all these five 
+companies, and they were forced to disclose because they went over 5%. 
+What he did, interestingly, when he made this bet, is that he borrowed the 
+entire amount. Berkshire's sitting on a large amount of cash, but he 
+borrowed the entire amount in yen at half a percent a year-long term. These 
+five companies had average dividend yields of about 8%. He made a $5 billion 
+bet, putting no money down. The dividends were going to be about 400 
+million a year, and the interest he was paying was 25 million. Basically, 375 
+million of easy money coming in, and when we fast forward three years now, 
+he has increased that stake, but the dividends have all doubled and the 
+stocks have doubled to quadrupled. That 5 billion that he put in became 
+about 12 or 13 billion or something collectively. Instead of making 400 million 
+a year, now he is making 800 million a year on those bets. It was a huge home 
+run and he did it because it took him some time to understand the nature 
+of these companies. Buffett intends to hold these businesses for a long time. 
+He says, well passed after he has gone, Berkshire will continue holding them, 
+now they don't fit the perfect template of great compounders. They have 
+some dividends. They are buying back shares. They have this huge 
+smorgasbord of assets all over the world. It is not a clean story like you might 
+  
+Pg 5 of 13 
+have with Amazon, Salesforce, or Berkshire Hathaway for that matter. This 
+was classically what I would call part of the Swiss Army Knife. This was a bet 
+that if you think about the way he made that bet, the odds that he would 
+lose money on that were very low. There was no currency risk. The yields were 
+so much higher if you study the stock prices of all these companies. They 
+were hitting multi-year lows in 2020 when you bought them. Japan in 
+general has still not hit the highs that it had in 1990. We are now 33 years 
+after the bubble, and we haven't hit that same mark yet. It is still a 30, 40% 
+discount. When you look at net-nets or you look at the Japanese bets he 
+made, or merger arbitrage, or any number of things you could do convertible 
+bonds, whatever else you could do in the stock market it is good to maintain 
+flexibility. In your example, you make a basket bet with some net-nets and 
+one works out and two have flatlined. It is hard to answer the question that 
+way. You have to kind of peel the onion some more, and understand those 
+businesses some more, and the other two continue to be undervalued? Is 
+there something structurally wrong with them or are they melting ice 
+cubes? If you get an opportunity with small amounts of capital, doing these 
+other things can work out well. But I would say that it is always good to have 
+an eye out on the compounders. That is kind of plan A. If plan A doesn't work, 
+then we have plan B, plan C, plan D, and so on. We can play these Mickey 
+Mouse games on the side while we are waiting for plan A and that can work 
+out just fine. 
+Dibin: Mohnish to be fair for folks who are early in their careers and maybe still in 
+school finding a compounder would we even have the insight to find a 
+compounder and truly understand a business that well? Wouldn't it take 
+maybe 10, 15, 20 years of studying and building knowledge and information 
+before we can even try that? 
+Mohnish: It is not that hard to find great businesses and compounders, and there is a 
+hack you can do to get there. I am going to give you the hack so you can go 
+straight to the promised land. The hack is to make a list of all the brands that 
+you are a customer of. If you eat at McDonald's occasionally, add that to the 
+list. If you go to Chipotle occasionally, add that to the list. If you are buying a 
+certain clothing line, your headphones are a certain brand, or you are using 
+certain types of perfume. Look at everything you spend money on and just 
+make a list. The thing is that for some company to succeed in getting even a 
+tiny part of your spending is a huge accomplishment because all of us are 
+very discerning about what we want. We are very particular. I want to wear 
+certain types of shoes. I want to wear certain types of socks. I want to buy 
+certain kinds of furniture or buy certain appliances. I am buying a Samsung 
+phone or an iPhone, or whatever. Just make a list of everything you are 
+consuming, then start saying, “Okay, which of these are listed public 
+companies.” Now, let us understand why. Ask yourself, “Why did I go to 
+McDonald's, why didn't I go to Carl's Jr or some other brand like 
+Whataburger? Let us probe into McDonald's and see what kind of business 
+is it, is it undervalued? If you are a consumer of the business, you already 
+know a lot about it, and you don't even need to get to the balance sheets 
+and all that. Now, just basically in your head, what you would ask is, where is 
+this business going? Is it going to explode? There is a new line of a new brand 
+of sneakers I saw people wearing. I am not lucky enough to have sneakers 
+yet, but I read an article that was exploding in sales. For whatever reason, 
+people have an interest in that. I would just be curious to understand what 
+  
+Pg 6 of 13 
+is going on there, what kind of business is it and why would it be sustainable 
+or not sustainable. Peter Lynch was a big advocate of this approach. It is 
+going to get you relatively close and what you will find is sometimes you 
+latch onto brands that are just emerging. Like college students with the very 
+first demographic to get rid of landlines. Some of you don't know what I 
+mean by a landline, but that is okay, you can be forgiven for that. When 
+people started disconnecting landlines, the very first demographic that did 
+that was college students. College students were able to see that landlines 
+were going away. They were probably also the first to disconnect from cable 
+or satellite TV. When the behavior patterns are changing, you sign on to 
+some streaming platform for some content chance that you guys may be 
+ahead of the curve versus the rest of the crew. When Facebook first started, 
+it was only for a few colleges. It first started at Harvard and then expanded 
+from there. Those individuals who were early consumers of Facebook have a 
+huge advantage because the rest of the world didn't even know what 
+Facebook is. They never used it. You are at Notre Dame at a huge advantage 
+to Warren and Omaha; a massive advantage because he is not changing 
+anything about what he is doing, whereas you guys driving change. Very 
+easy to find a compounder. I gave you the formula. 
+Dibin: That works Mohnish, thank you so much. 
+Mohnish: Alright 
+Dibin: Turning it back over to the classroom, we have another student who wants 
+to ask a clear question. 
+Speaker: Part of Charlie's thinking, and subsequently yours, has to do with 
+multidisciplinary thinking and using several different mental models. I was 
+wondering if you have advice for students without decades of experience. 
+How do we go about developing that skill set and then subsequently 
+applying it as well? 
+Mohnish: That is a great question. Charlie's a great collector of models and he is really 
+good. The amazing thing about how his brain works is how he can 
+immediately recall, or bring to bear, four or five different models almost 
+instantly. He has practiced that a lot. But if you go through the book Poor 
+Charlie's Almanack, on the back of the book, they have the 10 great speeches 
+he has given. One of the speeches was about the psychology of human 
+misjudgment and he modified that talk. The original talk was given at 
+Harvard and is on the Internet. You don't even need to spend $2. You just ask 
+God Google, and God Google will give you all of that content for free.  
+I try to read that essay every year, and that essay contains a good 30 plus 
+marks, and it gives you a lot of insights into how our brains function and that 
+gives you a lot of big legs up in how you can figure things out. For example, 
+in that essay, he talks about association tendency. Association tendency is 
+used by companies like Coca-Cola, where Coca-Cola wants to be any place 
+where humans are happy. So if there is the Olympics or the World Cup, or 
+the NFL or NFL game, or a movie theatre, any place where humans are 
+happy, Coke wants to be there, and Coke is willing to do whatever it takes, to 
+be there for that purpose and the very strong association tendency. When 
+we see Coke in a happy setting, it carries on to other areas of life where we 
+want Coke with us, because we think if we have a Coke, we are going to be 
+happy. Coke uses advertising and celebrities in its advertising. For the same 
+  
+Pg 7 of 13 
+reason, if Brad Pitt is drinking a certain brand of beer that is the brand of beer 
+I need to be drinking. He goes through several models. I think it took Charlie 
+probably 30 or 40 years of stumbling around in the darkness to come up with 
+those models. He distilled it down in that talk. What took him 30 or 40 years 
+you could absorb in a day or two, which is a tremendous leg up on Charlie 
+and there are quirks in the wiring of the human brain. It is very important to 
+understand those quirks because once you start understanding those 
+quirks, you can get a huge leg up on other humans. For example, humans 
+have built into our brains this reciprocation tendency that if someone does 
+us a favor, we feel that we need to do them a favor. The reciprocation 
+tendency is built into most humans. Charlie thinks it comes from going very 
+way back in our evolutionary history. When we lived in hunter-gatherer 
+societies, there was a hunter who brought down a big beast and brought it 
+to his small group. He cannot consume the whole beast himself, and there is 
+no refrigeration. What he does is he stores that meat in the bellies of his 
+neighbors, and he invites them all to share in his feast. Later, when one of 
+them brings down a beast, they know they are going to invite him. He knows 
+he is going to get invited, and so it works. It is a win-win for everyone.  
+There is a quirk in the reciprocation tendency; because of the way our 
+evolutionary brains evolved, the reciprocation tendency etched into our 
+brains does not have a calibration engine. I can remember that John did a 
+favor for me, but I am not good at calibrating the size of the favor, and Cialdini 
+talks about it; the psychology of persuasion that salespeople use all the time 
+in a way to take advantage of people and get more sales, etc.  
+I have used this tendency to increase assets in Pabrai Investment Funds. 
+When a potential investor approaches me and says, “Hey, I am interested in 
+investing in Pabrai Investment Funds” for example, everything they need to 
+make that investment could be sent to them by email or various documents 
+and perspectives and disclosures and whatever, and they can look at that. 
+We do that. We send them all the information digitally, but what we also do 
+is send them a physical package. The physical package has all the same 
+documents in hard copy, but it also has some giveaways. It usually has a 
+book, and it has a very nice cross pen. When the person receives the package, 
+he gets this very nice cross pen, which he never asked for, doesn't even want 
+it, but it is there, and the book is there now. Maybe one or two out of a 
+hundred people, I would send these packages to return the whole package 
+to me with a note saying, “Thank you, Mr. Pabrai for sending these 
+documents. I decided it was not for me and warm regards.” What they are 
+trying to do is they are trying to get rid of the reciprocation obligation, and, 
+for 98% of humans, there is too high a frictional cost to try to return that 
+package. You got to go to UPS and all of that. It is a complicated thing. If they 
+don't return the package now, it is like, they ate my meat. They ate the beast 
+I gave them, and so they feel obliged. And if you feel obliged, then the 
+minimum investment is a few million dollars. You can send a few million 
+dollars, and now we are even, and so the pen is equal to a few million dollars 
+because the brain cannot calibrate. That's a useful mental model. There are 
+used car salesmen who take advantage of this in nefarious ways, but you can 
+take advantage of it in very above-board ways.  
+Being aware of these quirks in the way human brains are wired is going to 
+give you an advantage in life. For example, one of the things that has helped 
+me a lot is, that I am a shameless cloner, and I have still not figured it out. I 
+  
+Pg 8 of 13 
+know that humans, for whatever reason, have an aversion to cloning. They 
+consider it beneath them. They think it is like cheating. I don't know why 
+there is a human aversion to cloning. What I do know is it exists because a 
+lot of people will look at something that somebody else is doing, and they 
+will decide that is a good idea, but it has already been done, so there is no 
+point in trying to copy it or it won't work. They don't copy it. A good example 
+of that is when I first ran into Chipotle, the restaurant we all love, I loved it. It 
+was great. About 20 years ago, I used to go every day and have my lunch at 
+Chipotle because I am a creature of habit, and I like to keep it simple. 
+Chipotle had a particular innovation in the way Mexican food was being 
+served, which is that they allowed extreme customization and no two people 
+in line ordered the same thing. Because of the way their whole assembly line 
+was set up, it was very easy to customize; customers just went down the line 
+and told them what they wanted. This is a great innovation. This is a fantastic 
+innovation. Then I would go to Baja Fresh and they just give you some 
+standard burrito and you tell them to change this, add that. But it is not a 
+seamless experience. Baja Fresh has not scaled. I saw when there was Baja 
+Fresh, and I saw when there was Chipotle, and if I was the CEO of Baja Fresh, 
+what I would have done is completely clone Chipotle and make everything 
+exactly the way Chipotle did. There is room for more than one. We have some 
+other restaurants like CAVA, that have come up with the same concept with 
+different kinds of food, but there could have been more of the same. Nobody 
+cloned McDonald's fries. Why are you not cloning those fries? Those fries are 
+great. It is not rocket science. Let us clone it. Nobody cloned the egg 
+McMuffin. Why are you not cloning the egg McMuffin? It is great. Just 
+because you didn't invent it doesn't mean you can't clone it.  
+When I look around the world, I find that there are so many opportunities, 
+but for doing what has already been done, there is no need to make any 
+changes to what has already been done, because there is room for two or 
+three players or four players easily in whatever has already been done. But 
+nobody does that and that is just the way the world works. When I realized 
+that humans have some weird aversion to cloning, what I said was, “Okay, 
+Mohnish, if you become the shameless cloner right off the bat, you will have 
+an advantage because other people are not willing to do that, and this is 
+going to give you a huge leg up.”  
+I remember in 2012 I noticed that Berkshire Hathaway in the 13F filing had 
+bought General Motors stock. I also noticed that it was David Einhorn who 
+bought GM stock. I always hated the car business. I think the car business is 
+horrible, high CapEx unions. We see what the unions are doing right now, 
+and you are subject to consumer tastes, and if something is even slightly off, 
+they won't buy your car. All of these things are very competitive. A horrible 
+business to be in. I thought, “Why would these smart people want to go into 
+a business that is worse than having a root canal?” Why would you want to 
+invest in a stupid business like General Motors what I decided to do was I 
+said, I am just going to dig into this to understand what drugs these people 
+were smoking? I decided I was going to study GM to try to come up with an 
+answer to why these smart people bought GM. When I started to study it, I 
+realized that the auto business had changed, and it had changed in a very 
+major way. I was not aware that it had changed. What happened in the auto 
+business is that in the financial crisis in 2008 and 2009 GM and Chrysler went 
+through bankruptcy. When they went through bankruptcy, they got rid of 
+  
+Pg 9 of 13 
+their legacy liabilities. They got rid of their debt, they got cleansed out of all 
+the sins of the past. I 
+ read a book called Overhaul, which was written by Steve Rattner, who was 
+the auto tsar appointed by President Obama to fix the auto industry. He was 
+responsible for the US government bailout of GM and Chrysler and 
+managing those companies to come back to health. When I read his book 
+Overhaul, which is a great book to read, I realized that. Every five years, like 
+we are seeing right now, the UAW renegotiates, the Union contracts, and 
+they have a lot of leverage because they will go on strike. If they go on strike, 
+obviously the company will then be in a lot of pain. They have just struck so 
+many of their plans and distribution centers, that if you take your car in now, 
+they can't get the parts because the distribution centers are all on strike. The 
+people are all on strike. So in 2009, I think that the auto task force in DC Steve 
+Rattner and his colleagues were going to Detroit to meet with some of the 
+leaders of GM, Ford, Chrysler, and so on. They had a meeting with the UAW 
+at about 4:00 PM and their flight was going to be leaving at 5:00 PM. When 
+they met the UAW, they said, “Look we are going to redo the contracts 
+because what is there in place right now is not sustainable. We have actually 
+come up with a new contract with how things are going to work, and here is 
+a new contract, and on the last page you can sign and then we can move 
+on.” The UAW leaders told them, “Listen, I don't think you understand how 
+things work in Detroit. We appreciate that you have come up with a new 
+contract. We will take this and study it. Seeing the first few paragraphs of 
+what you have written, I can assure you none of it is going to be acceptable 
+to us. We will come back to you in a few weeks with a counterproposal, and 
+then we will go from there. Okay?” Steve Rattner says to the UAW leadership 
+at that point, “My plane leaves in 40 minutes, and if in 35 minutes you have 
+not signed this contract without changing, not even a comma, I will shut this 
+city down tomorrow. I don't particularly care if you go on strike or not, and I 
+don't particularly care whether you come to work or not. The companies 
+need US government money to stay alive, and the US government is not 
+going to be putting in a penny unless this contract is done exactly the way 
+it's written.” The UAW, for the first time in its history, signed that contract on 
+the spot without changing a comma. I went to God Google, and I pulled up 
+that contract, and it was the most orgasmic piece of reading that I had done 
+in a very long time. They are now fighting to take out those conditions that 
+were put in 2009 that are still there in the contracts now. But what I realized 
+when I read that contract is that Detroit used to be the best place on the 
+planet to make cars. The reason was that all the factors of production were 
+right there, and the Great Lakes were right there to transport everything 
+cheaply. You had huge iron ore deposits around the Great Lakes. You had 
+huge coal deposits, you had huge steel mills, you had a huge auto parts 
+industry, all in that Great Lakes ecosystem, very efficient transportation. 
+Detroit was one of the only places on the planet that had all of that in one 
+place. Then the labor became so extreme that it became the worst place to 
+make a car. The Koreans and the Japanese took over that industry and 
+became a lot more efficient. What had happened with that revised contract 
+is that Detroit had, again, become the best place to build a car. I realized that 
+there was a major change, so I went from hating the auto industry to loving 
+the auto industry just because I had no aversion to cloning. I just decided 
+that even though I have to hold my nose and read up on GM, I will hold my 
+own nose and read just to understand. Then what ended up happening is 
+  
+Pg 10 of 13 
+that, sometimes you will see a company and you don't understand why some 
+investor invested. You study it, but then you find another company in the 
+same industry that is even better. I studied GM, I studied Ford, and I studied 
+Chrysler. I realized when I studied Chrysler that Fiat Chrysler which had been 
+dead, was an acquisition by Fiat, was an incredible business because they 
+had a rock star manager, Sergio Marchionne, and if you know, in hindsight, I 
+sold to. The entire market cap of Fiat Chrysler in 2012 was $5-6 billion. It was 
+a company with 135 billion in revenue and with 5 billion in market cap. It had 
+been cleansed. A lot of the debt was gone, and within that five or 6 billion 
+was 80% of Ferrari. If you look at it today, Ferrari has a $50-60 billion market 
+cap. They went public a few years later. The stock that is 5 or 6 dollars, Ferrari 
+is about $300 a share right now. At that time, the effective value of Ferrari 
+was about $15 a share that was embedded in there. I never paid much 
+attention to Ferrari because I was interested in the RAM franchise and the 
+Jeep franchise, which was so strong, and the RAM and Jeep franchise were 
+both capable of producing more than 5 billion a year in cash flow. I had a 
+business with a $ 5 billion market cap. You had two franchises; you could 
+eliminate the rest of the business and you would be making 10 billion a year. 
+But they also had the Minivan franchise, which was also good. They also 
+owned Maserati and they owned Alfa Romeo and a whole bunch of other 
+things that they owned. They owned Ferrari and they owned these parts 
+companies and all of that. In the end, this 5 billion market cap, when you ran 
+it through, became more than a hundred billion between Fiat and Ferrari 
+and the rest of the pieces.  
+It all came out basically because I took a position. I took a 10% position, and I 
+held it. It all came out of wanting to understand why someone did 
+something. I realized that nobody else would do that. Nobody else would 
+look at the GM that Ted Weschler bought and ask the question why? It is 
+really important. If you look at the Berkshire Hathaway portfolio today, very 
+recently, they have bought a bunch of home builders, Lennar and Ulti, and a 
+few others. They probably bought a bunch because of the amount of money 
+they wanted to put in; they needed a basket. I know that if you study it, you 
+will come to an aha moment because what the Lennar of the world has 
+started doing is they have copied, finally, after more than 20 years, the NVR 
+model. An aversion to cloning, NVR, the home builder, which had a great 
+model, bought back like 85% of their stock, and they stopped issuing 
+dividends. NVR in the last 25 years has been an 800 bagger. It has gone up 
+800 x. It is a stupid homebuilder. It is not ChatGPT or something. It has gone 
+up 800 times and the others in the industry for more than 20 years, they 
+watched them do so much better than them, and none of them adopted 
+that model till finally after 25 years, they said they couldn't take it anymore. 
+They finally succumbed after 25 years. Now they have started cloning the 
+NVR model. I think Berkshire saw that, and they said, let us go party. That is 
+another model that can be helpful. I am sorry for the long-winded answers. 
+Dibin: I think the French fries thing is true Mohnish. Every company should follow 
+McDonald's French fries. 
+Mohnish: Yes. What is so hard about it? Do you know what you can do? You can 
+incognito become a McDonald's employee, and you can make those French 
+fries. You can extract every bit of the intellectual property and just clone it. 
+  
+Pg 11 of 13 
+Dibin: It’s not happening because humans have these screwed-up brains. What 
+can I say? 
+Dibin: Well, Notre Dame will be the first to do it; there is a student-run organization. 
+Mohnish: That is great. 
+Dibin: Mohnish, we have one student waiting to ask her question. 
+Student: Hi. Can you talk about the parallels between bridge and investing and if you 
+have any bridge hacks or strategies? 
+Mohnish: Are you a bridge player? 
+Student: I am, but I keep losing to like 90-year-olds and 95-year-olds. 
+Mohnish: Do you play duplicate bridge? 
+Student: I am an intermediate player, I would say. 
+Mohnish: But you play duplicate, and do you play online or live? 
+Student: Live. 
+Mohnish: Live. Okay. Like the local bridge clubs. 
+Student: Yes. 
+Mohnish: That is excellent. I think the sad part about bridge is that we have more 
+people dying who play bridge than new people, young people who are 
+starting to play. I first started playing bridge when I was about 23 years old. I 
+just loved the game. At that time, there was no online bridge. I used to go to 
+the local clubs and play. I was always a topper in math and understood 
+probabilities and all of that. I was never in a math class, and I was not the best 
+student. This had never happened in life. So, I thought, I am going to have so 
+much fun with bridge. I went to a bridge club, and I remember I was playing 
+with this couple, like you were describing the 90-year-old couple. The guy 
+had an oxygen tank and he was really old and frail in a wheelchair. I thought 
+I hated to beat these people, but somebody has got to do it. What can I say? 
+Then they proceeded to make minced meat out of me. I was just shattered 
+by the scores they got and all of that. That made me do a double-take. I 
+would say, go back to square one and find another gear; learn some more. 
+Definitely, with bridge, I think experience and the duration of time that you 
+play it because you start seeing more and more patterns are going to be very 
+helpful to you. It is a great game because it takes 15 minutes to learn and a 
+lifetime is not enough to master it. Now that we have Bridge Base, which is 
+an online platform as well as, the Live bridge and the local clubs and all of 
+that, I think the way to get better at bridge is first of all get some great books 
+and keep reading them and the ACBL bulletins with all the different tips and 
+puzzles and all of that.  
+The other thing that can be helpful is to play with someone. I have two kinds 
+of folks that I play with. I play with some teachers who are exceptional, and I 
+play with some peers who are at my level or so, and it is really when I am 
+playing with someone far better than me, that the learning is really at a good, 
+accelerated pace. It is important to have a great teacher or coach and to 
+absorb them and learn from them. I enjoyed it a lot. I spend maybe five or six 
+hours a week playing bridge and I would be happier if it was more. Now, after 
+  
+Pg 12 of 13 
+more than 20 years, I started going to live tournaments. We have three 
+national tournaments in the US every year, every four months. And I decided 
+I am going to try to attend all three of them at least for three, four days, or 
+five days or something. The next one is in Atlanta, and I am looking forward 
+to that. What a wonderful hobby to have. Not expensive. Bridge Base is 
+around $99 a year plus maybe $1-2 per game. It is a relatively cheap form of 
+entertainment. It is helpful for an investor to play bridge. Both investing and 
+bridge are games centered on probability, so we don't have absolutes in 
+investing. Everything you will look at will have some hair on it. There are 
+some probabilities; what happens at Amazon if Andy Jassy is not there, or 
+what happens if the FTC succeeds in putting some handcuffs on them? We 
+always have things that can come from left field, and so investing is a 
+probabilistic exercise, and bridge is very much a probabilistic exercise 
+because we are continuously evaluating odds and odds are continuously 
+changing as the cards are played to the extent that your brain becomes 
+better and better at probability calculations and thinking probabilistically. It 
+can be very helpful. I don't think it's a coincidence that Buffett and Munger 
+and many other great investors are bridge players, but now I run into a lot of 
+investors who don't play bridge because it is kind of not regarded as so cool 
+anymore. But I would encourage all of you to take up the game. I think you 
+will get an incredible amount of joy, satisfaction, and entertainment out of it, 
+and you will become a better investor. It tastes great, and it is less selling. 
+Dibin: Okay, great. Thank you, Mohnish. Before we end, would we have to mention 
+the Dakshana Foundation? I feel like it is customary now, and in your recent 
+talk with Meb Faber, you mentioned that there will be a point ideally when 
+12% of the admitted students in IIT would be from Dakshana, about one-
+eighth, and after you reach that point, what would be the vision afterward 
+and how would you want to funnel your capital toward other social causes? 
+Mohnish: It is a very good question. I don't know the answer right now. I think 
+Dakshana lucked out that there were the IITs and this whole ecosystem, and 
+we could leverage that. Nobody was doing it, but it is going to cap out. We 
+are currently spending about $3 million a year. Once we are spending $7-8 
+million a year, we will have maxed out. I don't think we can spend more than 
+that. First, our spending needs to get to 7-8 million, which is a high-class 
+problem. That is great. I think we will get there in a few years. If I had, let us 
+say, 20 or 30 million a year to give away, for example, one of the problems in 
+philanthropy and charity is that finding great causes and generating great 
+social returns is much harder than finding compounders. The compounders 
+are a cakewalk compared to once you enter the realm of charities and all of 
+that. Let us take the problem of homelessness in LA, for example. A huge 
+problem of homelessness in San Francisco. If I was given that problem to 
+solve, I can assure you I will fail. A lot of smart people have put a lot of money 
+into that problem, and they failed. It is a very difficult problem to solve, and 
+these other problems, like environment, healthcare, education, poverty, 
+illiteracy, and all these things, are difficult nuts to crack. I am always 
+experimenting with a few things just to see if this can scale up or can scale 
+up. So far, these experiments have not led to something that I can say is the 
+second model. Once we hit 8 million, we can do this model, and this can carry 
+us. I have not hit that point yet. But I think what I will be forced to do is I will 
+have to reduce my expectations. It is just like Berkshire Hathaway. When 
+Warren was managing 1 million, he said he would do 50% a year, and when 
+  
+Pg 13 of 13 
+he is managing 600 billion, he is barely able to beat the S&P. It is a big 
+difference. As we grow at Dakshana, I think we will have to lower the bar of 
+what we would consider acceptable. We may have to find some cause that 
+does good for society, but it doesn't do it at the level that we are doing today. 
+What we are doing today is magical. I think we would be extremely lucky if 
+we ever find another thing that is so magical. It is just difficult. We will still try 
+and see what we can do. 
+Dibin: That is not just what you are saying, it is also what Warren is saying - it is one 
+of the best, well-written reports ever. He has read for non-profit, so yes. That 
+is great. Well, Mohnish, I think we are essentially out of time. We would stick 
+around forever if you would like to continue, but we would like to respect 
+your time and the time with the students and folks in the classroom. Thank 
+you very much Mohnish for joining us today. 
+Mohnish: Thank you, Dibin. It was a lot of fun. I enjoyed the session and I hope you got 
+something out of it. So, all the best. 
+Dibin: Thank you. Thank you all. 
+Mohnish: Alright, thank you. Bye. 
+ 
+  
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not 
+intended to be financial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not be 
+suitable for you, do not take into account your particular investment objectives, financial situation, or needs, and are not intended 
+to provide investment advice or recommendations appropriate for you. Before making any investment or trade, consider whether 
+it is suitable for you and consider seeking advice from your own financial or investment adviser. 
+ 
+ 

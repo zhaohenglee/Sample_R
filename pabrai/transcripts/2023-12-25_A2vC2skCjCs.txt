@@ -1,0 +1,1439 @@
+ 
+Pg 1 of 28 
+Mohnish Pabrai's Presentation and Q&A  
+at the FLAME University on Dec 25, 2023 
+ 
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not 
+intended to be financial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not be 
+suitable for you, do not take into account your particular investment objectives, financial situation, or needs, and are not intended 
+to provide investment advice or recommendations appropriate for you. Before making any investment or trade, consider whether 
+it is suitable for you and consider seeking advice from your own financial or investment adviser. 
+ 
+ 
+Durgesh: Good evening to all of you. We are delighted to have Mohnish here as we 
+have shared his annual report with all of you this morning. On the screen, 
+you can see a letter Warren Buffett had written to him. It is a very unique 
+thing about what he achieved at Dakshana Foundation. I am assuming that 
+all you guys are from the field of investing. I do not want to talk too much 
+about all his achievements in the markets, whether in India or the US. Ever 
+since he had that lunch with Warren Buffett, he has become famous and all 
+of us know a lot about what he does and what he says. However, some 
+things are not known about Mohnish and his achievements. For example, 
+when I was trying to get him here, he said he comes to the Dakshana Valley 
+once a year. For all of you who do not know about Dakshana Valley, I will say 
+that it is a must-go-to place. It is just two hours from here. It is a 
+phenomenal achievement of what they do there. Two of his colleagues are 
+here right in front of us who run the place on a day-to-day basis. Mohnish 
+can delegate and monitor so well that if you read the annual report, which I 
+have emailed to all of you this morning, you will see the achievements. We 
+always say that we can blame the government of India for the PSUs and the 
+ROC and all of that, but the best ROC they have got is from IITs and IIMs. In 
+my opinion, even Mohnish’s performance on Dakshana is far better than 
+anything he does in the markets. I would say that any of you who have not 
+read the report should read it, and all of you can take the opportunity to visit 
+the place, it is a phenomenal place and one of the best institutions that are 
+run for education for the underprivileged in India. I will now talk about his 
+achievements in India and the markets. When he talks about certain 
+companies, I am quite surprised at the depth of his knowledge about Indian 
+companies. When you see the YouTube videos and he shows you around his 
+office, you wonder how he finds time to manage all the things that he does. 
+He has promised us that his presentation today is going to be about 
+something that he has not talked about before. I do not want to keep you 
+all waiting for that presentation, and I would like to leave as much time for 
+questions and answers about what he is presenting about Dakshana, Indian 
+markets, US markets, China, and most importantly Charlie Munger, his 
+friend, whom I believe he used to play bridge with. Thank you, Mohnish. 
+Thanks again for being here. 
+Mohnish: Thank you, Durgesh. Durgesh has been a great supporter of Dakshana for 
+many years, and one of his classmates used to be our chief operating officer. 
+Sharmila and you went to college together if I am not mistaken. It was good 
+to have that connection. He had been telling me for many years to come to 
+FLAME and I hardly make it to Pune. I was trying to do that, and I did not 
+think it would work to come here on December 25th, but he said, “It will 
+ 
+Pg 2 of 28 
+work,” and I said, “Okay, that works well.” We were able to do that. I had a 
+wonderful tour of the campus that I am sure all of you have had. This is a 
+surreal place. It is hard to believe that a place like this exists, a true labor of 
+love. It is amazing and quite unbelievable to see something like this come 
+alive in the sense that it is exactly what the vision was, maybe even better. 
+It is great to see that. I have a few slides I will go through. I am more 
+interested in hearing what you guys have on your mind, so we will not be 
+talking much about what is on the slides. We can talk about whatever you 
+would like to talk about. That is perfectly fine.  
+I would like to talk about two different companies and that might serve as a 
+backdrop. They are both great companies, truly exceptional businesses. One 
+is based in India, Varun Beverages, which I am sure most of you are familiar 
+with. The other one is Coca-Cola Icecek. It is based in Turkey, but they do 
+bottling in about a dozen countries. I was taking a look at Varun Beverages 
+and at some of the numbers; about 2 billion US dollars in revenue, about 250 
+million in net income, and about 16 billion market cap. I always like to think, 
+“What is this business going to look like in 10-15 years from now? What might 
+be the future of Varun?” India has incredible tailwinds; it has one of the best 
+demographic stories anywhere in the world. We have one of the rare large 
+countries in the world with a growing population expected to be over 1.6 
+billion in 2038. The per capita income is almost 3x according to what they 
+are projecting. The 7,200 per capita in 2038 is not etched in stone. If that 
+happens, this country will look amazingly different than the way we see it 
+today. That would be quite a welcome change. If you look at Varun, they 
+have about 900 million cases which are 24 units of eight ounces each. Their 
+recent volume growth has been about 15% annually. I just kind of took a stab. 
+I thought, “Okay, let us say they grow 15% a year for the next five years, then 
+it grows a little slower, maybe 10%, and then maybe 8% thereafter. What 
+would the business look like?” One of the things about the bottling business 
+is that we have a lot of companies all over the world. Several bottlers are 
+publicly traded all over the world. They bottle for Coke or Pepsi. The 
+arrangements are very similar and there are commonalities amongst them, 
+even though geography and some other things are different. You can do 
+some comparisons across different bottlers. If those were the growth 
+numbers, you would have five times the volume that you have today. You 
+would have about one and a quarter billion of after-tax earnings growing at 
+4 or 8%. Maybe you would give it a 15, 20, multiple 19 to 25 billion market 
+cap.  
+Compared to the 15 or 16 billion today, it would be about 1.3 to 3.2% 
+annualized plus dividends. There is a question that comes up, which is why 
+couldn't volumes grow faster? Why would they slow down? Why can't 
+volumes keep growing at 15% a year? Fifteen percent volume growth with a 
+7% GDP growth and 0.65% population growth endlessly is not possible. It 
+would just defy reality. But even if you assume that kind of situation, you 
+end up with about a 2 billion PAT and 50-60 billion market caps, and from 
+8% to 9% annually plus dividends. But this 15%, we can kind of use Munger 
+inversion to see how realistic it is. NARTD is the acronym used for Non-
+Alcoholic Ready-to-Drink. If volumes grew 15% a year, we would be at about 
+700 servings per year per capita in India. What that would mean is that every 
+person has two Pepsi products every day. If Pepsi had like 50% market share, 
+then the country would have four products every day. The 700 servings per 
+ 
+Pg 3 of 28 
+year, we do have comparisons around the world with that metric. If you look 
+at the per capita servings in several different geographies, the United States 
+is the highest about 1,400 servings per capita. If you look at a country like 
+Saudi Arabia, it has about 885 and the UK is about close to 700. Saudi’s per 
+capita GDP today is about 32,000 versus what India would have, about 
+7,200. We would have a four-to-one delta, and it is a hotter country. Heat 
+and a country’s temperature is correlated with the consumption of Coke. 
+Even if you compare it with China, which has a per capita GDP of about 
+12,500, it would be almost double maybe 80% more. They are at about 337. 
+The 700 servings per day just for Varun seems quite unbelievable to make 
+that assumption. Then, we have Coca-Cola Icecek. It is a bottler based in 
+Istanbul. They have exclusive bottling rights to all Coke products in Turkey, 
+Pakistan, Kazakhstan, Iraq, Uzbekistan, and various other “-stans.”  
+There is a rumor that they will be getting Bangladesh. Coke has got a few 
+problem countries where they want to change the bottler. India is one of 
+those problem countries. Coke wants to change the bottler in India, 
+Vietnam, and Bangladesh. It is rumored because they put out a press release 
+that there were rumors in the market that they might be getting 
+Bangladesh. They just said, “We have discussions going on with the Coca-
+Cola company in Bangladesh.” Bangladesh has about 600 million cases a 
+year. Varun as I said earlier is about 900 and Coca-Cola Icecek across the 
+other geographies is about 1.6 billion cases. It is about twice the size of 
+Varun. If we look at Coca-Cola Icecek, we have about 4 billion in revenue, 
+about 400 million net income, about a 3.7 billion market cap, and a P/E ratio 
+under 10. They are growing at about 6% to 9%. Plus, they may get 
+Bangladesh, and it is possible at some point they might get some part of 
+India and so on. We will have to see. Varun is approximately half that size; a 
+little more than half the income significantly higher trailing multiple and 
+currently has a higher growth rate.  
+Coca-Cola Icecek is a listed company, but it is 50% owned by Anadolu Efes. 
+The family that owns the bottling business owns half of Anadolu Efes. There 
+are two listed companies in Turkey. One of them is Anadolu Efes which owns 
+50% of the Coke bottler. If you think about the structure, it is not exactly a 
+holding company because it has operations. The family that owns it, or in 
+other words, the entire shareholding of Coca-Cola Icecek is sitting in 
+Anadolu Efes. The Anadolu Efes beer business has a normalized market cap, 
+but not normalized earnings on the beer side which is about 200 million. But 
+recently there was a transaction that took place. Anadolu Efes is the number 
+one beer brand in Russia, for example. They are in several countries. They 
+are number one in Turkey also, but their biggest business is in Russia. In 
+Russia, their joint venture partners are AB InBev, the Anheuser-Busch 
+people, and 3G Capital. All those guys and all these American companies are 
+divesting the Russian assets. Heineken sold their Russian business for $1 and 
+another AB InBev does not want to sell the Russian business, but they have 
+to. Recently, this has been going on for about a year and a half, when I met 
+the company, they said, “We are negotiating with them and trying to figure 
+out what works.” The family that owns Anadolu Efes and Coca-Cola Icecek 
+is probably the highest-reputed family in Turkey from a governance point of 
+view and, reputation point of view. The partners they have in their different 
+businesses are truly world-class partners. For example, the family also has 
+all the McDonald's franchises in Turkey. It is private; they have not listed that. 
+ 
+Pg 4 of 28 
+They just own it. Coke in Atlanta owns 20% of Coke Icecek and they sit on 
+the board and AB InBev owns 20% of Efes and they sit on the board. They 
+just announced recently that AB InBev decided to sell 50% of the business 
+that they did not own to Efes. They did not discuss a lot of things about the 
+deal. What they said is, “Efes is paying nothing to AB InBev; zero.” Over the 
+next few years based on earnings, there will be some payments.  
+One of the things you have got to understand is a seller agreed to sell with 
+nothing down. Part of the reason is because the reputation of the family is 
+so strong that the seller is not going to have any concerns about not getting 
+their money, or what might happen in the future. They have no concerns 
+about that. The Efes, in their negotiations, would not have squeezed AB 
+InBev because they want a 50-year or a 100-year relationship with them. It 
+is a good symbiotic thing. The bottom line is in that press release, the AB 
+InBev people said, “We think 50% of the business is worth about 1.3 billion.” 
+They did not say anything else beyond that. They are implying that maybe 
+they will get 1.3 billion over a few years or something, though Efes' market 
+cap is two and a half billion. They now have 100% of the beer business, which 
+should be worth at least two and a half billion; the Russian beer business 
+alone. They also have Ukraine, which is about one-fourth the size of Russia. 
+They shut down the operations there. At some point, the war will end. They 
+had closed all their breweries, but they just opened one or two of their 
+breweries recently. We looked at the areas where they were safe to open 
+and they did. They have the number one market share in Ukraine as well. 
+They started producing. They have got a few other countries as well.  
+If you look at the Efes beer business together in total, it is 34 million 
+hectoliters and just to give you a context, India's entire beer market is 65 
+million hectoliters. Efes beer business is more than 50% of all of India. UB, 
+which is much smaller than Efes in volume, has a five-and-a-half billion 
+market cap. Efes by itself has a lot of value, but inside Efes is 50% of the 
+Coke bottler. I own shares in Efes and I own shares in Coke. I do not own 
+shares in Varun, just as disclosure. As I said, the market cap is about two and 
+a half billion Coca-Cola Icecek, market cap of under 4 billion.  
+Tom Gayner is a good friend of mine. Some of you might have heard of Tom 
+Gayner; he is the CEO of Markel Insurance. Tom Gayner is on the board of 
+Coke in Atlanta, and I saw a Facebook post by him. He is very active on 
+Facebook. He was posting some pictures of him in Istanbul. Tom does not 
+venture outside the US. He is a very meat and potatoes American guy. I 
+asked Tom, “Istanbul?” He said, “We have a Coke board meeting in Istanbul, 
+and I had to come.” I understood that since Tom never leaves the US he can 
+only leave for these reasons, and he explained to me that Coke has four 
+board meetings a year. Two of those meetings take place in Atlanta where 
+there is Coke’s headquarters. The other two meetings, take place in New 
+York every year, and the fourth one rotates. It goes in a different geography 
+in the world. They just want to expose the Coke board members to Coke in 
+different countries. This year it happened to be in Istanbul. He cannot tell 
+me anything about what is going on in the board meetings, but he was 
+telling me that they had a presentation in Istanbul, which was made by the 
+CEO of Coca-Cola Icecek to the Coke board. He said that that presentation 
+blew him away. He was expecting it to be a standard presentation by 
+bottlers’ CEOs to the board, but once the guy started talking, he was 
+captivated. Coca-Cola Icecek had hired a new guy as a CEO. He relocated 
+ 
+Pg 5 of 28 
+from Chicago to Istanbul. He is half Turkish and I met him in March. I met 
+the Coca-Cola Icecek people for a few years, but this year when I went in 
+March, I met him, and he blew me away. I was just floored when I saw this 
+guy. One of the things that was very impressive to me was that the family 
+was even able to attract some guy like that.  
+It is hard to explain all the different nuances about this guy, but I concluded 
+that whatever was happening with the Coca-Cola Icecek business before 
+this guy came, and what would happen after he came will be very different. 
+One thing about the Coca-Cola business or the Pepsi business is that they 
+are close to 140-150 years old, and they are an embryonic business. We think 
+of Coke as a mature business—after 140 years, things matured—but it is not. 
+There are three things about Coke that I have tried to learn and understand 
+over the years. I was talking to Tom, and I said, “Tom, I do not have any desire 
+to serve on any boards. I am not a board guy, but if they ever call me to serve 
+on the Coke board, that would be a board I would love to be on.” That is 
+because to be able to see what is happening from that vantage point would 
+be just unbelievable. We think of Coke as a 140-year-old company. We think 
+of it as a mature company and we think that everything about it is pretty 
+well-known and well understood, but that is not the case. When you go into 
+the details, it is a very complex business. It appears to be simple. It is a very 
+simple business to understand, but when you get into the different weeds 
+about brands, market share, growth, how much you spend on marketing, 
+and different things, it starts to get complicated. Moreover, you have so 
+many different variables that you can play with.  
+When I met the Coke CEO last time, he said, “Listen, I do not want to meet 
+you in the office next time. Next time, let us meet in the market. Let us meet 
+in the market in Eastern Turkey.” If you think about Turkey, Istanbul, and 
+Western Turkey, it will be like New York. Go to Eastern Turkey, which will be 
+more like Iraq. There is a big difference. Even though Turkey is one market, 
+in that market, there are a lot of differences. To give you a little bit of a flavor 
+for how Coke works, they had a bottler in Uzbekistan, and they had a joint 
+venture with the bottler. Fifty percent of that bottler was owned by the 
+Coca-Cola company and 50% was owned by the Uzbek government. The 
+government is their partner there, and that comes from the Soviet Union 
+times. Uzbekistan used to be part of the Soviet Union, and this bottler was 
+part of that whole Soviet apparatus. Their whole way of running that 
+business was the way the Soviet Union ran things. They are only bottling 
+three products of Coke. Coke has hundreds of products, but they are only 
+bottling three products. They do not have any trucks. If you want Coke or 
+Coke products in Uzbekistan, you show up at the factory gate, pay cash, and 
+take the Coke. The Coca-Cola Company was quite pissed off with the 
+Uzbekistani situation, and they kept trying to get them to sell the stake; try 
+to get another bottler there or something, but they were not interested. 
+Finally, one day the Uzbek government wakes up and tells Coke, we have 
+decided to divest our stake. Coke thought, “There is a God.” But they said, 
+“We do not have an interest in selling it to you. We want to sell it to the 
+highest bidder.” Coke replied, “Look, we have partnerships with our bottlers. 
+We do not want some random third party coming in.” They then said, “No, 
+we are just concerned about the Uzbek citizens. We want the highest price 
+for our citizens and we will give it to the highest bidder. What happens after 
+that is your business.” Coke went to Coca-Cola Icecek and said, “No matter 
+ 
+Pg 6 of 28 
+what the price you have to pay, buy the business.” Icecek replied We have a 
+business to run. We cannot just pay any price.” Coke said, “We own 50%, we 
+will sell our 50% to you at a very discounted price. The overall price would 
+look okay to you. Just make sure you are the highest bidder, and you take 
+it.” They went to Icecek because it is a trusted entity. They have had a long 
+history.  
+When the deal finally took place, the Uzbek side was bought at an 
+equivalent value of 430 million. Then Coke sold their part of it to them at 230 
+million. On average, around 300-odd million. They paid for something of a 
+net income of around 15 million, about 20 multiples. It was not growing; it 
+was a flat business. The analysts were upset at Coca-Cola Icecek. They said, 
+“What are you doing? This is a ridiculous multiple. Even with the Coke 
+discount, it is very high.” The first year that they ran the business, the net 
+income was 80 million. I asked them, “How did it go from 15 million to 80 
+million?” They said, “We bought some trucks, painted them red, put our logo 
+on them, drove into the town, and just shook everyone's hand. When we 
+shook their hand, we put one cooler in their shop. That is all we did. We have 
+not increased the range of products; we have not done anything else yet.” 
+You look at a place like Uzbekistan and the Coke business there is 
+embryonic. There are a lot of places like that where you have this weirdness 
+going on. It is kind of a fun company to study.  
+All three of these businesses have great management, great value, great 
+brands, and terrific businesses. This is a chart that shows the trailing P/Es of 
+different countries; on one end, India with more than 25 times earnings. On 
+the extreme other end of the curve is Turkey at seven times. I started making 
+trips to Turkey about five years ago. I have a friend in Istanbul, Hayder, who 
+is a hardcore Ben Graham disciple. He comes to the Berkshire meetings and 
+is a very nice guy. I am trying to make him a Munger disciple. I am trying to 
+convert him from Ben Graham to Charlie Munger. I will explain to you the 
+progress I am making with him. I told Hayder, “Listen, I want to come to 
+Istanbul. I would like to meet the companies that are in your portfolio. I do 
+not want to meet companies that you do not have money currently invested 
+in. Do not take me to meet some random company, even if you think it is a 
+great one. If it is not in your portfolio, do not take me there. Let us start with 
+the first company being the one that you have the highest position in. Then 
+we take the second one, third one, fourth one.” My first trip was in 2018. He 
+had sent me information about the businesses, but I had not looked into 
+them. I said, “Let me meet these companies, then I will do some work on 
+them.” I was sort of trying to do the work in advance. I am too lazy for that. 
+When we were driving to the first company, which is a bank, I said, “This 
+bank is your biggest holding?” He said, “Yes, this is my biggest holding.” I 
+asked him, “Why do you like it?” He replied, “The P/E is 0.1.” A 0.1 means one 
+month's earnings. The whole market cap is equal to one month's earnings. I 
+said, “What is going on here?” He replied, “No, no. It is a perfectly normal 
+bank, but there is some hair on it.” I said, “Before we go into the meeting, 
+can you tell me about the hair? What is causing this?” I was wide awake; with 
+a P/E of 0.1, we were ready to go. It is one of the largest banks in Turkey.  
+He explained that there are these UN sanctions where they cannot do wire 
+transfers and different things with Iran. There are a lot of restrictions on that. 
+The chairman of the bank was routinely doing all kinds of transactions back 
+and forth, and the US got wind of that. The CFO of the bank had gone to the 
+ 
+Pg 7 of 28 
+US with his family for a vacation to Disneyland. When he landed in New York, 
+the Feds picked him up and put him in Rikers Prison. At that time, Trump 
+was the president. Erdogan calls Trump and says, “Please, release the guy 
+because he is not involved in all this. He is a normal guy. It was the chairman.  
+Trump replied, “Let me explain something to you. The US president has no 
+powers. The state of New York has acted on this. I have no control over the 
+state of New York. If I call them, because they are all Democrats, they will 
+make sure he will never leave the prison. There is nothing I can do. I am sorry. 
+I would like to help you, but I cannot do anything.” Anyway, we went to the 
+meeting and I met them all. They were perfectly honorable people, a good 
+bank, prudent lending, and everything. We came out and I said, “This is too 
+much for me to handle. I cannot make such kinds of investments. Let us go 
+to at least P/E of two or three, so we can see something more normal.” He 
+said, “No problem. In Turkey, we have everything for you. A full range of 
+things that you want to look at is available.” The following year, in 2019, I 
+went again and, on that trip, I must have visited around 15 businesses. It was 
+so much fun because in the evenings there was blue fish on the Bosphorus 
+River; nicely grilled, olive oil, great weather, great everything.  
+Next year I told Hayder I am going again to him and I would like to look at 
+some more businesses. He was happy and thought this was a lot of fun. He 
+was driving me to another company, and I asked him about it. He said, “This 
+company has a market cap of $16 million and the liquidation value is 800 
+million.” I told him this was a fraud. He said no because he invested in that 
+company. I asked what they do and he explained that it is a very simple 
+business. They have warehouses. They are the number one warehouse 
+operator in Turkey, and they have 12 million square feet of warehouses, 99% 
+lease, 10-year leases, inflation-indexed, or they are Euro leases, Amazon, 
+IKEA, Carrefour, Mercedes, Toyota; these are all the tenants; AAA rated 
+tenants. I was curious to know why the stock was sitting where it was 
+sitting, and he explained that is how things are in Turkey; everything is 
+cheap. But I was thinking that this is beyond cheap. I met the father and son 
+who own and run the business. I found them good and smart guys. I went 
+and visited the Istanbul warehouses. They have about 70 warehouses and I 
+went to around 20 of them. Everything looked great to me. It was simple 
+because those warehouses have value. Any realtor will tell you what they 
+are worth. The warehouses, when you add up, were about a billion dollars 
+and there was about 200 million in debt. There was a 16 million market cap. 
+One of the things that was happening at that time is that in Turkey, even 
+today though it has improved, the currency is very unstable, a very high 
+inflation rate. All the foreign investors were exiting. I thought 16 million 
+market cap, who knows what you can get, what liquidity there is, what is 
+there? But I tried to buy the stock and I found that there is tremendous 
+liquidity. For $8 million, I got one-third of the company.  
+There is a company I met in Turkey, which is kind of like Tata. The CFO was 
+talking to me and he said, “I want to explain Turkey to you. You do not 
+understand Turkey. Every country has a national game, a national sport. In 
+the US it is poker, in China it is baccarat and in Russia it is chess. Do you 
+know what the national game in Turkey is?” I said, “No, I do not know what 
+the national game in Turkey is.” He said, “It is backgammon.” Turkey has all 
+these different kinds of little backgammon rooms. Men come and play 
+there. If you look at poker, it is a mix of skill and luck. If you look at chess, it 
+ 
+Pg 8 of 28 
+is all skill. You look at baccarat; it is all luck. Backgammon is pure gambling. 
+There is no skill. It is based on luck. Turks are addicted to backgammon, and 
+the way they treat the stock market is the way they treat the game of 
+backgammon. Turkey is an unusual place in the sense that if you take out 
+what the foreign investors own and you take out what the promoters own, 
+for most companies, the average time to cycle through the entire float is 
+nine trading days.” When I told my Turkish friend that this guy was saying it 
+was nine trading days, he said, “I am surprised it is nine days. The normal 
+model of branding for all the Turks is they want to invest at 10 o'clock. They 
+want to close the position at 3 o'clock and they want to make 10%. That is 
+their model. Again, go the next day make another 10%, and good luck with 
+that.” When I was buying this stock, I saw massive volumes of brokers 
+offering 1 million shares and 5 million shares. I said, “Okay, keep taking, no 
+problem. It is the people who are willing to give it to me.” Then there was a 
+block that came, which was a 5% block. The broker said, “Look, the rumor is 
+that Templeton Fund is selling. I just want to let you know that there is a 
+good fund in New York that is selling just in case you want to rethink 
+whether you do not want to buy.” I said, “Please take the million 5% position.” 
+Some guy in New York at Templeton issued an order to exit Turkey. They did 
+not care what they owned. Reysas was a holding. Some poor Templeton 
+analyst did some research on this company and bought the stock. His boss 
+and his boss's boss overruled him and it ended up with the Indian guy, no 
+problem.  
+Very quickly, I owned one-third of the company. Fast forward four years, 
+when I was buying the stock, the Turkish lira was five liras to the dollar. It is 
+now 29 liras to the dollar. The lira collapsed. In dollars, our market cap has 
+gone from 16 million to 500 million in the last four years. But those guys are 
+extremely good operators. The business is probably worth at least a billion 
+and a half. It may be worth more. My billion-and-a-half number is at least 
+six or eight months old. It may be worth more now. It might be 2 million. We 
+will see. The way I look at it is that we just have to sit there. My friend Hayder, 
+who took me to this company, owned the shares when the market cap hit 
+40 million. He told me he had completely sold the shares. I said, “Hayder, 
+you told me the liquidation value is 800 million.” He said, “Yes, I am a one-
+bagger guy. I have a simple rule; anything doubles, I sell it.” At that point, I 
+understood that a major intervention was needed. Just talking is not 
+enough. I sent him a bust of Charlie Munger with my compliments for free. 
+I said, “Before you start your work, just go to the bust, learn, say two, or three 
+Munger quotes then go sit in your chair.” He said, “I will do that.” I talked to 
+him. He has made some progress, but it will take some time. I told Hayder, 
+“Listen, I visited with you about 60 Turkish companies so far, and what I 
+decided in Turkey was that in all of the markets I have to make a 
+compromise.  
+In India, for example, if I look at a truly great business with truly exceptional 
+management, with great corporate governance, the P/E for sure will be 
+nosebleed. If I get all those three things, I have to pay a lot. If I want to pay, 
+and I am just telling you I am an outsider, you guys have far more experience 
+here. If I want to pay something resembling a normal multiple, then I have 
+to compromise. I have to compromise either on business quality or 
+management quality or governance quality, something or the other I have 
+to kind of play with to try to make the numbers work. But in Turkey, because 
+ 
+Pg 9 of 28 
+there is all this madness going on, I am just going to do one very simple 
+filter; the highest quality business and the highest quality management, 
+whatever the price is, I will buy it. If you see a business of P/E of three and 
+you see a business of P/E of two, and the P/E of three business has better 
+management go for the business of P/E of three.” He still goes for the two 
+and I am still working on it. Now he is willing to go to 2.5. We are getting 
+there. Eventually, we will get there. I found Turkey.  
+The Efes and CCI and the quality of the governance and the management 
+and when you have a bottling business with Coke or Pepsi as a bottler, as a 
+partner, clearly the Coke and Pepsi business is vastly superior, much higher 
+returns on capital. But the bottling business can be really good because both 
+these companies want the bottlers to do well, and they set up the bottlers 
+to do well. For example, in Pakistan, the unit case volume that Coca-Cola 
+Icecek had was about 40 million cases a year, 15 years ago. Now it is 400 
+million cases in a country with a lot of problems. Right now, the issue is that 
+getting foreign exchange in and out is difficult because Pakistan has no 
+foreign exchange. Somehow, they are trying to make that work. With all of 
+that stuff, it is still a 400 million cases market. But in the Pakistan market, 
+for example, Coke set up Coke Studio. They have it in India too, but the Coke 
+studio in Pakistan has been enormously successful.  
+Coke Studio Pakistan, for example, is completely paid for by the Coca-Cola 
+company. It is not paid by the bottler. All that branding is done by the Coca-
+Cola company for the benefit of the bottler. It also benefits the Coca-Cola 
+company. It is a symbiotic relationship. I want to share some of my thoughts.  
+I look at India and I see a lot of positives versus Turkey. We have a stable 
+currency, we have proper leadership, we have amazing growth, and a lot of 
+great demographics going on, but we also do have not cheap valuations, my 
+vantage point. We can just stick to where it appears more of a no-brainer to 
+me, and we see this play out. For example, if you look at Microsoft in 99, it 
+was 22 billion in revenue, 8-9 billion of net income, and the market cap was 
+600 billion. The trailing P/E was more than 70. Sixteen years after that, they 
+had a lot more revenue. The revenue had gone more than four times. The 
+net income had not changed much, but it was still higher, and the market 
+cap was one-half of where it was.  
+If you look at the Microsoft chart from 99 to 2015, including all the reinvested 
+dividends, the return was zero. It is a great business. It has been a great 
+business throughout that time, but it was just too expensive. If you look at 
+Coca-Cola itself, in 98, 19 billion in revenue, three and a half billion of net 
+income, and as I said, trailing P/E 62. In 2011, the business had more than 
+doubled. The net income has more than doubled, the P/E has shrunk, and 
+the market cap has shrunk. It went again from 98 to 2011, like 13 years with 
+zero returns, even though there is another great business. Buffett's quote, 
+you pay a very high price in the stock market for a cheery consensus, and 
+this is my pickup truck in Texas. When I moved to Texas, I bought a pickup 
+truck, and we could put whatever license plate we wanted on it. I put Efes 
+as a license plate, and I am trying to make my neighbors rich, but they do 
+not seem to be interested. That is okay. Those were some of the thoughts I 
+wanted to share with you. Thank you. We can talk about whatever you 
+would like to talk about. 
+Speaker: One-month P/E bank you are talking about? 
+ 
+Pg 10 of 28 
+Mohnish: Yes, 0.1 P/E.  
+Speaker: What changed in that bank? You said the true values are 1 billion, and 1.5 
+billion, and you see the investors started respecting the performance, 
+understanding the performance or better investors. You came into the 
+company, what changed actually? 
+Mohnish: You are talking about the warehouse company, not the bank? 
+Speaker: Yes, the warehouse company. 
+Mohnish: What changed is exactly what Ben Graham says, that in the long run, the 
+Stockwell Market is a weighing machine. It made no sense to have a 
+valuation like that. I talked to the promoters at the time, it was 16 million. I 
+told them at that point, “Why don't you buy back the shares?” They are not 
+financial guys. They are operators and for most management teams, 
+buybacks make no sense. What happens is the cash leaves the company and 
+you see nothing. The cash is gone, and the stock price may not change 
+immediately. Management teams always look at this and say, “If I give a 
+dividend, somebody got the money, but if I do a buyback, where does the 
+money go? It disappeared somewhere. It did not go back to my 
+shareholders.” They do not say they have money. They have no money. To 
+me, the bigger question was how it could sit at that value, at that price in 
+such a market and even now one of the things that has not changed is that 
+the local Turkish ownership in that business has only gone down. It is foreign 
+investors who have bought the stock, but it has not been local Turkish 
+investors. I have not participated at all. We have had zero trading activity in 
+that stock for four years. Some things are mysteries, and that is exactly what 
+Ben Graham said to Senator Fulbright when he was called. He said that 
+Senator Fulbright told him, “A stock is trading at $10. You think it is worth 
+$20. What are the market forces or what are the forces that make it go from 
+10 to 20?” Ben Graham responded that this is one of those mysteries that we 
+do not know the answer to, but what we do know is that in the long run, if 
+it is worth 20, we will get to trade at 20. Even for myself, when I invested in 
+Reysas, I knew that the currency was a major problem, but the assets are 
+really in land, steel, cement, and concrete. That is what a warehouse is. All 
+of those are inflation indexes. My take was if the currency goes crazy or 
+whatever happens, we have those prime assets in a major city. They should 
+be able to retain their value because all of these things will increase in price. 
+That is exactly what happened. The value of building a warehouse kept 
+going higher and higher, and therefore their warehouses, ' rents kept going 
+higher, and it kind of worked that way.  
+Speaker: Hello, sir. My name is Nikunj, and I have two questions: one on Dakshana 
+and one on investing. We have heard you saying that you do not have 
+analysts because you do not like to dismiss ideas that will keep bouncing all 
+the time. We also heard that now where you live, sometimes you wake up 
+even after the markets are on. I just wanted to understand your process, the 
+team, the structure, and the thought process behind it for the Pabrai 
+Investment Funds per se. I am sure there is an intention behind it. If you can 
+talk about how you operate, how you are structured, and the routine. 
+Mohnish: I never worked in the industry. When I started Pabrai Investment Funds, it 
+was my first job in the industry. I never worked in any other place. All of my 
+thoughts and perspectives on how to structure things came from Warren 
+ 
+Pg 11 of 28 
+and Charlie. One of the things I looked at was that neither of them had any 
+help. They did not have help then, and not even today. Berkshire can easily 
+afford to have a whole army of analysts that they want, but they have zero. 
+If that is the way they are doing it, then I will just copy that. The issue we 
+have in investing anyway is that the data set is too large. Even if you have a 
+team of 10 analysts, how many stocks can they cover or go through in a year? 
+It is just a handful; really kind of tearing apart. A company might take a few 
+months. It might take a few weeks, a few months. One guy can maybe do 5, 
+10, or 15 companies at the most, and if you have 10 people, maybe you can 
+do a hundred companies in a year. There are 50,000 companies globally, so 
+even if you do a hundred companies, you are not even 1% of the data set. 
+The issue is that the data set is too large; there is no way to look at the entire 
+50,000 and figure out where the opportunity is. In my opinion, you have to 
+have some kind of hack or shortcuts. It may not be much of a handicap to 
+have a small team versus a big team. If the small team is employing some 
+acts that get them to a smaller data set, which the big team may not get to, 
+they may be going through a bigger data set. My thinking was that there are 
+places like Value Investors Club in the US, SumZero, Dataroma, and others 
+where you can start trimming the data set. If I say that I am only going to 
+buy the top two or three holdings of 20 investors I admire, that trims the 
+data set a lot. That would make my universe look into about 60 companies. 
+The first thing I do with the 60 companies is I would say, “Which one is 
+outside the circle of competence?” That might throw away 40, or 50 of them. 
+Now that data set is only 10, 12 companies. You do not need a big team of 
+10, or 12 companies. You can get to that pretty much on your own. I operated 
+Pabrai Investment Funds on my own, for most of the time. I had started 
+another insurance business and I had hired a couple of guys for that 
+business. It was a mistake. We sold the company and we moved on, but I 
+like the guys, so I kept them. Two of them help me now. They are good, but 
+they do not generate ideas. I told them, “Please do not generate ideas so I 
+can tell you what to do.” It is a very good compliment because they are good 
+at deep dives, and they are good at identifying what might be blind spots 
+for me, and that works well. It was a good mix, but I do not think you need 
+teams to do this; this is not a team sport. Other questions? 
+Speaker: I am Gurthalya. When you saw Turkey being so cheap and abundant in 
+supply as well as rising and good quality companies and you had a view, 
+how did you size up the position, how did you execute the whole thing and 
+what was the consideration in position sizing? How many companies do you 
+take up and can you just give some flavor of what it is? 
+Mohnish: My sizing is really simple. If I am going to take a bet, I ideally want to make 
+it a 10% position. I do not want to have 50 stocks in my portfolio. I will not 
+be able to come up with 50 ideas that I am excited about. For practical 
+purposes, it is a 10 by 10 portfolio. If I am going to make a bet, I would like 
+to make a 10% bet. In the case of Reysas, I was managing about 700 million, 
+and our bet size was 8 million. It was a little more than 1%, but I had no 
+choice. I could not put more into it; that was the max. In that particular case, 
+I would have loved to have a 10% allocation to Reysas, but the market cap is 
+16 million, so we cannot do much. Efes I could take a full 10% position, no 
+problem. We only have three bets in Turkey. We have another company, 
+which is TAV Airports. They run airports in about a dozen countries. They 
+have an incredible management. I like the team, and I like their assets a lot. 
+ 
+Pg 12 of 28 
+Those two businesses were large enough that I could put 10% of my assets 
+into them.  
+On the other side, if it becomes a large position, I will not trim it because it 
+is large. One of the issues that came up was that I have three different funds 
+in the US and the reason I have three different funds is that the regulations 
+require me to separate the investors into different buckets. One of our funds 
+is an offshore fund that is for non-US investors and endowments and 
+foundations and so on. As it turned out, when we were making the bet in 
+Reysas, a lot of the money came from one of the funds. Twenty percent of 
+Reysas, the warehouse company, is inside one fund, which now has about 
+270 million or something in assets. The Reysas' position in that fund is about 
+a hundred million. It was a very small investment, but it has gone up a lot. 
+The value of the fund is close to 40%. Every quarter, I remind all my investors 
+that we have a concentration situation here, and I am not planning to trim 
+the position. If you are uncomfortable, you can exit, but because we are still 
+sitting undervalued—the business is sitting at probably one-third of what it 
+should be sitting at—they will increase the value and that is very smart. That 
+company may be worth 4-5 billion in 5, 10 years, or something. We just want 
+to escape that.  
+Most investors are very comfortable; they have understood what it is. I do 
+not have a large portion of their assets, so they are kind of okay with it. That 
+is how we have tried to allocate it; make a 10% bet, becomes more in value, 
+then that works out fine. To digress a little bit, I will tell you some interesting 
+things that take place outside India. To give you a little bit of a flavor, the 
+airport business is not such a great business, and the reason is that it is a 
+negotiated transaction. They are BOT models. What happens is that the 
+government entity or whoever is giving you the deal, number one, is 
+competitive. When the bidding takes place, it is competitive, and there are 
+animal spirits involved. Usually, those auctions will end up at above intrinsic 
+value price because these assets come up for sale. Rarely, if you have 
+Bangalore airport, or Mumbai airport or something come up, a lot of people 
+have an interest in those assets. You do not tend to get great deals on them. 
+Business is interesting. It is a complex business because parts of the 
+business are regulated, and parts of the business are not regulated. For 
+example, in the case of duty-free, it is not regulated. You have an airport, 
+you have space for duty-free, pretty much most of the deals around will let 
+you charge whatever you want and do whatever you want with a duty-free 
+area. Just to give you a little bit of a flavor of what happens in duty-free, 
+which might help you in your duty-free shopping, if you are looking at a 
+hundred-dollar bottle of liquor in a duty-free shop, just FYI, the factory gate 
+price of that liquor is about 25 to $30. The airport operator charges 40% of 
+the selling price as their rent. One of the only places where no one is telling 
+them what they can do. What they are saying is that this is the place to make 
+money. When you buy a hundred-dollar bottle of liquor, $40 goes to GMR or 
+whoever is running that airport. The duty-free operator has to have staff and 
+inventory and all of that. They have some costs, so they will make 5 to $10. 
+The rest is the expenses to run the place. That is just the economics of how 
+duty-free works.  
+However, what happened in TAV Airports, according to two Harvard case 
+studies that drew me in, is that there is an airport in Almaty Kazakhstan. The 
+person who owned it wanted to get rid of it. Some oligarchs owned that 
+ 
+Pg 13 of 28 
+airport. He had a lot of oil assets, and airports are very management-
+intensive to run, so he just wanted to get rid of it. It was too much of a 
+headache. That airport was not a BOT airport; it was an outright purchase, 
+which means that whoever bought it just owns it forever. There is no 
+negotiation about anything after that charge. Do whatever you want, it is 
+free for all. TAV had negotiated to buy that airport in 2019, and they were 
+going to close the deal in 2020, but then COVID happened, and air traffic 
+went to zero. Because all of the airport’s revenues went to zero, they were 
+facing their issues. They told the seller that due to a force majeure; they did 
+not want to do the deal. The guy who owned the airport said, “I will drop the 
+price, let us do the deal.” They talked about it, and that deal closed in 21 at a 
+discounted price. It was 80% financed with 4% interest for 25 years. It was 
+only 20% equity. They had agreed to build a new terminal. The economics of 
+the whole thing was they put in about a hundred million of equity. That 
+airport probably in the next couple of years, will be making about 200 
+million a year after tax and all interest payments. That 200 million is going 
+up about 10% a year as far as I can see because Kazakhstan is a rich country; 
+a lot of growth happening. It is a landlocked country. Its size is bigger than 
+Europe. Air travel is the best way to go and it is going up like crazy. TAV was 
+interesting to me because the market cap was 800 million, the Almaty 
+airport alone. In my opinion, if it came on the market today, it would 
+probably go for 5 billion or something, maybe more. They will never sell that. 
+But they have 12 other airports and 40% duty-free. The interesting thing is 
+all of their revenue in all the airports, including Turkey, is in euros. The 
+contracts are all in euros; nothing is in the lira currency. Because it trades in 
+Istanbul, it is being handled by gamblers like bank gamble, which makes my 
+life very easy, and that is where we end up. 
+Speaker: Just your thoughts on China. There is a sort of fire sale going on there. What 
+are your views on China?  
+ 
+Mohnish: I find China a lot harder. We have had some investments that have not 
+worked in China, but we also had some that have worked extremely well. 
+One of the things that happened was that I was forced to make changes in 
+the way I was operating during COVID-19 because I could not travel; I could 
+not go to China and a lot of other places. I took it off the radar and there are 
+limited bullets in the gun. I have only so many hours in a day and so many 
+things to do. Something showed up on the radar, which was in the US and 
+looked good. The US was a good place to be for the things we were looking 
+at. I have not spent much time on China in a while. One of the things that 
+comes up from my vantage point is there is a significant headwind if you go 
+into a country where the population is declining. You have to look at 
+businesses where they are more export-oriented. For example, Japan 
+always trades very cheaply, but there is a very intense drop in population 
+taking place, an aging workforce, and not that much interest in immigration. 
+Japan can work if you look at businesses, their fortunes are tied to things 
+outside Japan. As Buffett thinks, bets work well because those five 
+companies have a lot of their assets outside Japan. There are not that many 
+places in the world where you have a rising population. India has that big 
+Trump card that it has a rising population, and it has a significantly rising per 
+capita GDP. Those are very good ingredients. However, we have not spent a 
+lot of time in China lately. 
+ 
+Pg 14 of 28 
+Speaker: My question is, when does one sell a stock in your opinion? Let us say, Varun 
+Beverage is fired, bought, or somebody has bought it for 2-3 billion dollars. 
+The companies are delivering above expectations, and they are trying to add 
+more deliveries for growth. It became very expensive, 6-7 billion, but in your 
+opinion, how should one think? 
+Mohnish: Selling is a lot harder than buying. Buying is easy, selling becomes hard, and 
+something like Varun becomes very hard. If you have a big gain, usually it is 
+a mistake to sell a great business because of valuation. I would say that if I 
+were the owner of Varun and I was sitting on a 5x gain or something, I would 
+give it a lot of rope. It might be a mistake to give it a lot of rope, but that a 
+lot of mistakes I made have been where a lot of money was left on the table 
+because something looked optically expensive. Varun has tailwinds in the 
+sense that Pepsi loves them. Pepsi will give them more geographies, and 
+depending on where those geographies are and what the economics of 
+those deals are, it could work extremely well and I may be wrong about the 
+NARTDs of India. Around 700 looks high to me. For a country like India, it is 
+less than a hundred today; it will be 100-120. Go up 7x, that is a lot. I would 
+say that if you are in the happy position of owning a great business, you 
+should give it a lot of growth. That is what I learned. I regret a lot of sales 
+that I made of good businesses because they looked at what I considered 
+overvalued, and it turned out I was wrong. 
+Speaker: Good evening. When you made all these three investments in Turkey, were 
+dividends a part of the consideration? There is cash flow generation, but 
+how does it come back to you? 
+Mohnish: I have usually never paid that much attention to dividends because I view it 
+as if the company keeps it and uses it prudently, that is fine. In the case of 
+Efes, the family only gets paid through dividends. Because they have a joint 
+venture partner with two different international companies, Coke and AB 
+InBev, cannot change their ownership because they have agreed to, “I am 
+at 50% and you are 20%, and we are not going to change that ratio.” Even if 
+the stock goes low, they will not buy shares or any of that. What the family 
+is doing is they are saying, “Okay, what does the business need to run? Let 
+the business keep that, and the rest, it can be pushed out to the family, 
+which is fine.” If that is what they want to do, that is okay with me.  
+Speaker: I just wanted to go back to the Icecek example. If you look at the balance 
+sheet, the net debt to EBITDA is 0.6, so there is some leverage on the 
+balance sheet. Given the volatility of earnings, if you take 2038 as your 
+terminal value, how do you assess the predictability of cash flows when you 
+look at interest expense on the debt side as well as revenue versus cost of 
+goods sold mismatch for Forex? When you look at 10 years forward in such 
+a volatile currency, how much value do you assign to the predictability of 
+cash flows? 
+Speaker: In the case of FS, and Icecek’s case, the net debt is close to zero for both. 
+They hold a lot of cash, have debt, and try to kind of balance those things 
+with the different currencies they are dealing with. At the end of the day, 
+that falls in a noise category. It does not matter that much, because if they 
+just paid off the debt right, they would have very little debt left. If you look 
+at it on an adjusted basis, it should be okay. The business is inflation-
+indexed. What Coke sells will adjust for inflation. They may face some issues, 
+because one of the things that happen with a high-inflation economy like 
+ 
+Pg 15 of 28 
+Turkey, is the wage earner gets screwed. Wages are not going up at the rate 
+of inflation. That is a real issue in Turkey. The population is getting 
+impoverished, and their buying power for products like Coke is going down. 
+But I doubt Coke would have a problem raising prices. They may have some 
+issues with volumes, but what we have seen in the last few years has been 
+that volumes are growing, or they have been very stable, and their earnings 
+have been stable. The other thing is that because they are in so many 
+different countries, around 35% of their total volume is coming from Turkey. 
+There are other countries, and it is a mix of countries. For the most part, you 
+are dealing with a basket of currencies. In effect, with a product like Coke, 
+you end up with a margin independent of the currency. 
+Speaker: This goes back to the question, the chart on India versus many of the other 
+emerging countries, Turkey on the other end. How do you look and study or 
+build competency around other countries, where on one hand, you have 
+India with its growing population and a lot of opportunities versus the other? 
+I would love to hear your thoughts on how you evaluate. 
+Mohnish: I would say that in a country like India with 5,000 listed companies, there 
+should be a lot of opportunity even with those elevated PEs because if you 
+are looking at the small cap, midcap space and you are digging into those 
+businesses, you may be able to identify businesses where you can see 
+around the corner, but the market cannot do that. You can see that this 
+business may triple in a few years and the market does not understand that. 
+Optically it may appear expensive, but when you adjust for what might 
+happen in the future, it does not appear expensive. If you are a hardcore 
+value analyst, and if you are limited to India, then you roll up your sleeves 
+and do the work, and I am sure you would find plenty of opportunities 
+because the growth is there. There will always be mispriced bargains, if you 
+are someone like me who is lazy and does not want to do the work—for me 
+it is really hard to justify spending a lot of time on Indian equities when there 
+are these low-hanging fruit in other places. I feel like I am going to make 
+another trip to Turkey in a few months and I just want to make sure that I 
+have pretty much met with every company that is worth meeting with. But 
+I will just do one more pass on each one just to make sure that I have not 
+missed something. What is also possible is that a business could be truly 
+great, but I did not understand that the first time. The thing with investment 
+analysis is there are so many things taking place inside each business, and if 
+you have a really good understanding of the companies, you may be able to 
+see things that others cannot see because you have just got the depth of 
+knowledge and then that can give you an edge. That is very possible in India, 
+but it is much harder for someone like me not to be here. I am not spending 
+all my time looking at Indian equities. I am not meeting with them. I am not 
+kicking the tires, all the scuttle, but a lot of things are much more removed 
+so it makes it a little bit harder. It is a perfectly good market, but I would also 
+say that if you are an investor and now India has the rules that you can send 
+a quarter million a year out for a family member, I believe some of you 
+should look at equities outside India. Especially that currently it is not the 
+greatest place to be looking. You may have a better view than I do because 
+I am outside looking in.  You do not need to go to Turkey, but I believe it is 
+worth looking at other markets. One of the things I was trying to do with the 
+Varun example was to show a similar business in another geography with 
+very similar characteristics. We did not talk about this, but Coke is a much 
+ 
+Pg 16 of 28 
+stronger brand. In Europe, I was surprised that Coke volumes are five or six 
+times the Pepsi volumes. It is a huge delta. In India, it is the reverse, which 
+is probably why Coke is upset. Coke does not expect any country where they 
+have a lower market share than Pepsi. In the US it is about three to one. 
+Pakistan used to be Pepsi majority, but now it is 50/50; they are both neck 
+to neck. Icecek has done a good job of bringing that up to par. As an investor 
+in Indian equities, it is worth looking at things outside sometimes from a 
+comparison point of view. To the extent that you have capital that can go 
+into some of those ideas, it may be worth looking at those. 
+Speaker: I have another question regarding Dakshana in the report. Congratulations 
+on the wonderful success. But EMRS on the SC/ST category, where $3.5 
+billion is expected to be put in by the government of India, and you 
+mentioned over there that it could take 10 to 15 years before we see some 
+success or some growth. How do you approach the milestones over 15 years 
+when you are looking at that? 
+Mohnish: We get the kids after 10th standard. If the government opens a new school, 
+an EMRS school, these are schools for tribals and the government has made 
+a big step in terms of the amount of money they are putting into the tribal 
+school, which is wonderful to see. If they want to open a new school, it is 
+going to take three or four years to open it. You will buy the land, or you get 
+the land, build the infrastructure, spend the money, and create a school. 
+Then you will take the first batch in sixth standard and after five years or six 
+years, that batch will come to 10th standard, which is when Dakshana can 
+deal with them. I am already 9 or 10 years from today before I see that first 
+batch show up and now it is a new school; they have no history, they have 
+hired new teachers, and the quality will not be that good. That will also take 
+time. It may be 20 years, or even 25 years before we can see the real thing, 
+and that also depends very heavily on the quality of the people.  
+The problem here is that you are talking about government employees, the 
+principal of a government school, and administrators of a tribal belt school 
+in a rural area. For them to get quality teachers, even if they had the best 
+management, would be extremely challenging. Whether they can make this 
+money work with all the best intentions, we do not know that. There are a 
+lot of challenges. In Dakshana, one of the things that Buffett says about 
+charity and investing is that they are so different from each other. In 
+investing, we do everything to minimize risk. In charity, in baseball terms, 
+he says that we should swing for the fences. If you want to make a 
+difference in charity, you have to go high risk, high return. You cannot take 
+the low-risk, high-return approach that we take in investing. It is a 
+completely different mindset where we should be very willing to lose 
+money, and that is what we are doing. Right now we just started a 
+partnership with EMRS and two of the guys who are running Dakshana are 
+here, and they were telling me that we have had a long partnership with the 
+Navodaya Vidyalayas school system. For 16-17 years, we had a partnership 
+with them, and on a 1 to 10 scale, if the Navodaya management is a 7 out of 
+10, the EMRS management is a 4 out of 10, so that is an alarming statistic 
+right there. You must know that I have a lot of problems with Navodaya 
+management. There are a lot of issues we have run into with them which 
+makes us roll our eyes. But at the same time, the thing is that the scheduled 
+tribe population of India is more than a hundred million, and the scheduled 
+caste population of India has been helped a lot by all the affirmative action 
+ 
+Pg 17 of 28 
+programs. They can almost get rid of the SE things; they can reduce that 
+schedule by 80%, no problem. It will not happen, but they could reduce it if 
+they choose to. But for the tribes, there has been no real progress in their 
+per capita healthcare, different metrics for 70 years, even with all the 
+different reservations, everything that has happened. The tribal situation is 
+bleak. I was happy to see that the Modi government is at least putting 
+money behind it, but it will take more than money; it is very challenging. At 
+Dakshana, this will be probably 5-10% of our spending. We can take a chance 
+at 5-10%, no problem. 
+Speaker: I am Harsha Sogi, a student at FLAME. My question is about Coca-Cola and 
+Pepsi, a can of Coke as a product. You mentioned India has a lot of these 
+tailwinds growing population and, a growing economy, but we Indians have 
+a lot of diabetes as well. Ten percent of India has diabetes, 23% if you include 
+pre-diabetics as well, and the number is 2x if you are looking at the urban 
+Indian population. What that does for a can of Coke is, it takes it from being 
+a complimentary good to my dinner to a substitute, essentially wherein you 
+have to think whether I eat that extra Bhatura or have that can of Coke. In 
+that sense, how do you look at this dynamic playing out in the projections 
+that we make for these guys? 
+Mohnish: They have had this tailwind for a while, but they got a big tailwind when they 
+came out with Coke Zero and Pepsi came out with Pepsi Zero because the 
+taste differential was relatively minor, and you wiped out the sugar. The 
+funny thing is the bottlers were telling me sugar is a big portion of their total 
+cost. They say that the margins are higher on the zero product than the 
+regular Coke product because the sugar is gone. It is around 3-4% better 
+margins. The product is healthier, and they make more money, and they 
+charge the same; there is no price differential. The other thing to keep in 
+mind about both these companies is that they have about 200 brands and 
+it is a diverse portfolio of things beyond the regular Coke product. These 
+companies are offering alternatives that would allow you to sidestep those 
+issues, so it should be okay. These concerns about sugar and diabetes have 
+been around for a while, but it has not impacted the businesses. The 
+businesses are continuing to do fine, and part of it is because Diet Coke, 
+Coke Zero, and some of these other products have taken off a lot, so that 
+has worked out. 
+Speaker: Have they taken off? Do you have any data on whether they have taken off 
+in India? 
+Mohnish: You are talking about Coke Zero?  
+Speaker: Yes  
+Mohnish: You need to tell me. Is Pepsi Zero doing well in India? Coke Zero, and Pepsi 
+Zero, how are they doing in India?  
+Speaker: Diet Coke and the regular Pepsi are.  
+Mohnish: Yes, but you have a concern that they are killing everyone.  
+Speaker: No, no. I just wanted to know because that wipes out 20% of the targeted. 
+Mohnish: Yes, but what I am saying is that I do not know what the ratios in India are 
+of Pepsi Zero versus Pepsi. It is not something I have studied, but it is 
+probably something worth looking at. 
+ 
+Pg 18 of 28 
+Speaker: I have two questions. The first is, can you tell us about some mistakes that 
+you made and how that happened? And the second is, when you look at 
+Turkey, not talking from any data, but headlights, doesn't it scare you that 
+you are going into a country like that? The kind of move that you saw in the 
+currency from 5 to 29 to a dollar, do you see that happening again? Do you 
+see that stabilized? Do you have a view on that? Have you looked at it like 
+that or you do not care? 
+Mohnish: Let me take your second question first. I assumed when I was investing in 
+2018-2019, that the currency would get decimated. I assumed that would 
+happen. In one of the businesses, which was the airport business, all their 
+revenue is in euros. It is based in Turkey, but they have no exposure. They 
+have a tailwind because their staff is paid in Turkish lira. Their earnings have 
+been going up as the lira has been collapsing because the wages have not 
+gone up at the same rate. In their case, the Turkish inflation helped them. In 
+the second case of the Coke bottler, there were two issues. One is that 60-
+70% of the business was outside Turkey, and even the business inside 
+Turkey, it is hard to imagine Coke not being able to make money because 
+they would adjust the price if the volume adjusted. We have not seen any 
+volume drop off and we have not seen any margin drop off. It has been 
+benign. In a place like Turkey, probably 97-98% of businesses are not 
+investable, and I took a pass on this.  
+The first filter I used was, what is the impact high inflation would have on 
+this business? The answer came back in 10 seconds that it would be audible. 
+It was very easy to filter out the businesses and that was what the play was; 
+the baby got thrown out of the bathwater. What I was going after was the 
+babies that were thrown out, and I did not want to buy the bathwater, but I 
+wanted to look at the rest. But I would also say in investing, going to 
+mistakes and also correlating with this is that a 50% error rate on what we 
+buy would be par. Half the things that we invest in are unlikely to do for us 
+what we think they should do. The reason is that we are trying to look into 
+the future, and there are so many variables that are going to affect the 
+future. That 50% error rate in data of activity is perfectly normal. Even when 
+I look at my portfolio today and look at different things that are in the 
+portfolio, and I can see that they all look okay to me, I still know at the back 
+of my mind that there are mistakes in there that I cannot see that will 
+manifest themselves over time. If I look back at the mistakes, probably the 
+biggest area that I have had trouble within the past has been leverage. I 
+invested in a subprime mortgage lender in early 2007 and it went to zero. 
+We had a 10% bet it went to zero. We had a bet on a zinc producer, which 
+was transitioning from an old plant to a new plant. They ran into a lot of 
+issues with the new plant. They tried to get a commission and they had a lot 
+of debt, and it went to zero. It went to bankruptcy and went to zero, another 
+10% loss. Pabrai Investment Funds will be 25 years old in six months. There 
+will be a long list of mistakes. We will be here till midnight if I go through the 
+mistakes, but I would say that what I have tried to look at is what are the 
+themes. For example, I try to avoid leverage businesses, because I know that 
+any time a business has debt, they have taken away some anti-fragility.  
+Fiat Chrysler took ownership of Chrysler during the financial crisis. The 
+market cap of Fiat Chrysler was about $5 billion, and their revenue was 
+about 140 billion. Chand met Sergio in Detroit and he was lighting one 
+cigarette with the next. That is what Chand was telling me, that before one 
+ 
+Pg 19 of 28 
+cigarette was over, he was already on the next cigarette. Anyway, the fair 
+price was low. It was 140 billion in revenues. It was a 5 billion market cap. We 
+had this rock star CEO who had come in, Sergio Marconi, and he had issued 
+guidance. We told the world what he would deliver in 2018. In 2013 he was 
+saying, this will be my revenue, this will be my net income. The net income 
+he was projecting was more than the market cap of the company. He was 
+saying that in 2018, “I produce like 7 billion after tax, and the market cap of 
+the company is 5 million.” I spent about three months studying Fiat Chrysler, 
+and I concluded that this was a very unusual CEO, probably one of the best 
+CEOs I had seen. Kerem in Coca-Cola Icecek reminded me of Sergio. It was 
+a big home run for us. I had put 70 million, and we eventually collected more 
+than 350 million on that investment. It was a good return. But what I did not 
+appreciate is that inside Fiat Chrysler was 80% of Ferrari. At the time when I 
+invested, Ferrari was making like 200 million profit a year. In my head, I said, 
+“Okay, it is worth 2-3-4 billion or something. Even if I take out 20 multiples 
+to it, it is worth about 4 billion. I thought the Fiat business was worth more 
+than 50 billion because it just was so mispriced. I did not pay attention to 
+Ferrari that much.  
+After a few years, they took Ferrari public at a valuation that looked quite 
+rich. I thought this management team was smart. They have looked at this 
+business; they are getting a good price for it. The market cap at that time 
+when Ferrari was going public, was around 8-9 billion and they were making 
+300-400 million in profit at the time. I said, that if it is going public and it is 
+sitting at this value, it does not look like they would do that if there was a lot 
+of value still in the business. I did not understand the business well enough. 
+In the meantime, while I owned the stock, I got to know the Agnelli family 
+quite well. John Elkan, who is the chairman of the group, became a good 
+friend. Every time I would meet John, we used to always meet for a long 
+walk. He never wanted to meet for lunch or dinner. He is kind of Italian 
+royalty with the Agnelli and all that. We would always have these long walks 
+in different parts of the world. One time it was in Santa Monica Beach and 
+twice it was in Central Park. One time it was in Colaba in Mumbai. I asked 
+him if he was okay with it and he said, “Yes, we need all experiences in life.” 
+I got to know John very well over the years and I told him that I made so 
+much money in Ferrari so I should get the car. He said, “Look, I can help you 
+with delivery. I cannot help you with the price. We do not give discounts to 
+anyone.” I said, “I am not looking for the price discount. I have made enough 
+money on the company that I can pay full price.” Ferrari does not produce 
+any cars which are not already preowned. They do not produce cars to 
+display in a showroom to sell, and there is usually a 2-3-year waiting list to 
+get a car. He bumped me up and in four months I got my Ferrari. But by the 
+time I got the car, I had already sold most of the stock and I understood the 
+value of Ferrari and the value of that brand after I got the car.  
+When I ordered the car, I asked the car dealer if I should give them a deposit 
+and he said no, no deposit is needed. One day he called and told me that my 
+car had arrived. I went to pick it up. He said, “Look, I want to just let you 
+know that if you do not take delivery, I will give you a hundred thousand 
+dollars right now.” I asked him to explain to me his side of the equation. He 
+said, “Look, there are people who want Ferrari's, but do not want to wait for 
+two years for a new one. They want a new car, and if you drive it off the lot 
+and you put a hundred miles on it, I cannot give you that offer, because they 
+ 
+Pg 20 of 28 
+want a brand-new car with zero miles. They cannot get a brand-new car at 
+zero miles for two and a half years, so, the hundred thousand is a 
+compression of that time to two days from two and a half years.” I said, “You 
+are giving me one hundred thousand?” He said, “Yes, I have a markup on top 
+of that. I am taken care of, do not worry, but I can give you a hundred 
+thousand.” I did not take the deal, I took the car, but I understood the kind 
+of brand value as I was kind of going through the ownership and driving it 
+and all of that. We made a $70 million investment in Fiat.  
+Effectively, the Ferrari portion of that investment was about 16 million. We 
+probably made like 70-80 million on that 16 million when we sold it. If I held 
+it till today, it would be more than 500 million on the Ferrari portion. The Fiat 
+portion was another couple of 100 million, and that is 500 million and 
+counting. We are not done, because now I understand that brand and the 
+value of that brand will keep growing. It is kind of like they have a factory 
+that produces Picassos.  
+I remember a friend of mine in California told me he needed to come and 
+see me right away and I agreed. He came and said, “You are friends with the 
+chairman of Ferrari, and I need you to ask him for a favor.” I said, “I am not 
+going to ask him for any favors but tell me what you are looking for.” He said 
+that he wanted the Ferrari Monza. Ferrari Monza is a one-seater car, not 
+even a two-seater. That means you cannot take a date on it. What is the 
+point of a one-seater Ferrari? I cannot understand what is the point. He said, 
+“They are producing 300 Monzas and they are only giving them to people 
+who own 20 or more Ferraris each.” They went through their Ferrari 
+customer list, for example, number one on the list has 70 Ferraris. It is by 
+invitation. The funny thing about the Monza is that in the United States is 
+not street legal. You cannot get it registered and you cannot drive it on a 
+public street. First of all, the price of the car is two and a half million. If you 
+buy a Monza in the United States, they will not deliver the car to you. They 
+will keep possession of the car. When you want to drive the car, they will 
+deliver it to a racetrack. You will then go around the racetrack alone. Then 
+whatever thrills you are getting from that racetrack driving, you will give 
+them back the car and they will put it in their storage and every month they 
+are going to charge you about $1,500 for the storage of the car. Every time 
+you tell them to deliver the car and take it back another $5,000 charge for 
+your joy ride around the track. What I realized is that the rich are getting 
+richer, and rich men have very few ways in which they can express their 
+wealth. Rich women have more ways to express their wealth, but rich men 
+have very few ways and Ferrari is one way you can express that. That is why 
+these guys have 70 Ferraris and 30 Ferraris.  
+When I bought my Ferrari, I used to get these interesting emails from Ferrari, 
+and one of the emails said that we have something known as Ferrari Driving 
+School. We are inviting you to come to Ferrari Driving School so we can 
+explain to you how to drive the car. I thought this was a good idea because 
+I needed some training. Their offer was that for $18,000, for two days, they 
+would train me on how to drive the car. I was learning about the brand, so I 
+thought let me go for two days for Ferrari driving lessons. The good news 
+was, because we were going to drive it on a track and all that, I did not need 
+to bring my car. They have several Ferraris, several Ferrari drivers, 
+instructors, very five-star accommodation, and five-star food. My partner 
+and I went to Thermal California. Thermal, California is a very interesting 
+ 
+Pg 21 of 28 
+place. I do not want to take up all your time, but I will just say this quickly. 
+You know how there are golf courses and there are homes around golf 
+courses. The Thermal racetrack had homes around the racetrack, and all the 
+homes on one side had these huge garages where you open the garages 
+and there is parking for 30 cars, and each car is several hundred thousand. 
+On the other side, you have a balcony, which looks onto the track, and each 
+plot of land is $1 million. People built their homes and garages. That is where 
+this thing was taking place. A whole new world for me. I went and there 
+were around 30-odd Ferrari owners who had come like me, to learn how to 
+drive. I realized I was asking them the wrong question when I used to get 
+these puzzled looks. I used to go up to some random guy and would ask, 
+“Which model do you have?” I would get a puzzled look. I realized it was the 
+wrong question. “How many do you have” is a better question. After two, or 
+three of these confused looks, I learned to ask the right question, and then 
+they would say, “Oh, I have so many, and I have this and that.” Many of them 
+had the Monza. There were several Monza owners there. That whole world 
+I saw there, I did not even know that world existed, because it was a 
+different world. Ferrari can keep going. There is no limit to what they can 
+do. They come up with some special edition, a hundred-unit car, they can 
+price it for 5 million, 85% margin, 90% margin, and it will all be sold out five 
+minutes after they announce it. How do you value a company like that? 
+Speaker: Sir, how do you approach international investing, because India itself is so 
+heterogeneous that because of familiarity, we still have confidence. Every 
+nation, every country, and every company work in different dynamics US, 
+Turkey, India, China. How do you approach international investing in that 
+place? And second, I wanted to know your thought process. What is 
+Mohnish’s thought process when he sells a stock? 
+Mohnish: Regarding the selling of the stock, I have a lot to learn. Forums like this help 
+me learn, so, that is good. The differences are not as large as you might think 
+they are. I would say that if you were looking at markets like the US, UK, or 
+Germany, you have a lot of things on your side. I can almost assume in the 
+US that if I lose money, it will not be because of fraud. We have had some 
+fraud, but it is so few. Every time I am going to lose money in the US, it is 
+going to be because I made a mistake, or missed something, but not 
+because the company financials were inaccurate, or something was 
+misstated. In other places, like Turkey or China, then yes, you have to 
+handicap some of those things, but that is not hard to do. You can try to kind 
+of get your arms around it. In Turkey, I feel like these businesses that I have 
+invested in, I had to make a judgment call on the people. People are people 
+so I do not think those judgment calls are off. Like Buffett says, “You can tell 
+few people are exceptional, few people are not so good. The vast majority 
+you cannot have an opinion on.” Sometimes you can look at a situation and 
+know that the people are great. That can also transcend boundaries and 
+borders and all of that and work out fine. If you dig in, some of these things 
+will in effect, reveal themselves eventually. 
+Durgesh: I have a question. What can you tell us about Charlie that we already do not 
+know?  
+Mohnish: The thing with Charlie was that it was a very unlikely friendship. I did not 
+ever expect it. Charlie and Warren are like icons. I never expected really to 
+have any kind of friendship or anything with either of them. With Charlie, 
+ 
+Pg 22 of 28 
+the friendship went on for about 14 years. We met for the first time in 2009. 
+I used to meet him four or five times a year for dinner, and on average about 
+once a month for bridge. For bridge, we would meet on Friday afternoon. 
+We would first have lunch at the LA Country Club, and then there would be 
+about four or five hours of bridge after that. I remember sometimes I would 
+go to the LA Country Club and four of us would sit down for lunch. I am 
+sitting, and across the table from me are Rick Guerin and Charlie Munger. I 
+would tell them, “You realize that this is surreal that this Indian guy is sitting 
+with Charlie Munger and Rick Guerin.” Rick passed away a few years before 
+Charlie and I used to ask them different questions about the early days of 
+investing. With both Munger and Buffett, there is so much in the public 
+domain, and they have been so open that you really can learn everything 
+you need to learn about them from the public record. The public record, in 
+my opinion, is great. What I learned a lot from Charlie was not so much what 
+he said to me, even though sometimes he would say just very amazing 
+things. It was watching him and observing him in terms of how he went 
+about his life. He has eight kids. He has many in-laws, many grandkids, and 
+now some great grandkids. He has all these different business partners and 
+friends. I used to meet many of those people, and sometimes I would meet 
+some of his kids. The kids are on a spectrum, in the sense that there is a 
+range.  
+What I realized in his interactions was that he was able to navigate through 
+all of that with a lot of ease. There were a lot of diverse range of 
+personalities, and they all loved him. They all got along well with him, and I 
+learned a lot from the way he navigated through all of that. The other thing 
+I noticed very frequently about him was that he never looked back, and I 
+learned a lot from never looking back. I used to bring up with him frequently 
+that he has had an amazing life, accomplished so much, and done so much 
+for Berkshire and all of these different things, but he would just brush it off. 
+One time he was working on the succession of Daily Journal, finding the 
+next CEO and all of his attention was on that particular problem. When I met 
+him, it was all he wanted to talk about. All his energy was focused on the 
+problem at hand. A lot of us as humans, have had great lives. We look back 
+and say, “Oh, I went to a great school. I had a great job. I got these great 
+promotions. I built this business. There is this and that.” He had so many 
+things to look back on, and he just never looked back on any of those things. 
+He just kind of brushed it off and said, “Okay, what is the next problem?” The 
+exact words he used were “We just have to soldier on.” A few years back, I 
+was really surprised when this happened. He had already lost sight in one 
+eye because he had a cataract operation that went bad probably three 
+decades ago. He was already just with one eye. About five, or six years ago, 
+there was some optic nerve issue on the good eye that almost took out all 
+the sight. There was a period when he could not read. He could almost see 
+nothing. I met him during that time. They were looking at some 
+experimental treatments and trying to figure out what to do because the 
+only thing that Charlie cared about was reading. The most precious thing to 
+him was reading and I was observing this guy who probably reads 500 books 
+a year, spent all his time reading, and he is facing the prospect of his 
+eyesight going away. I did not see any self-pity. I did not see any concern. 
+He even mentioned that he may have to learn Braille. Braille would not have 
+helped Charlie, because the way he reads a book is he keeps going back and 
+forth; even an audiobook would not work for him. It has to be a physical 
+ 
+Pg 23 of 28 
+book, and he needs to be able to go back and forth pretty quickly. For all 
+practical purposes, it would pretty much destroy him. But even when that 
+was going to happen and possibly going to be permanent, he was not 
+bothered. I learned a lot from that. His wife fell backward down the stairs 
+and passed away, and she suffered a lot. She went through several surgeries 
+for 18 months. For several months he was by her hospital bed at Mayo Clinic. 
+I knew him before she passed away. I knew how important she was to him. 
+I saw him after that and again I saw no self-pity; he just moved on.  
+Sometimes he would tell me that 99% of his friends were dead, and I would 
+tell him that he has new ones now like his Indian friend, so it is okay. He said, 
+“Yes, I have a lot of younger friends now, which is better.” But I just saw a 
+very stoic guy; who never felt that life had given him any misfortune. He had 
+a male servant who lived with him and took care of him. His family and kids 
+would visit from time to time. They had put a restriction on how many See’s 
+Candies he could have. Their rule was that about three times a month when 
+there was someone who had come over for dinner, See’s Candies would be 
+served as dessert. Charlie likes See’s Candies a lot, and I would see him 
+attack the See’s Candies like a kid. But I never saw him ever question them, 
+and I never saw him ever question any food that was put in front of him. I 
+am a very picky eater, but Charlie did not care. You could put any food in 
+front of him and he will just eat it. He does not care. He likes See’s Candies, 
+it is coming, he will enjoy it. It is not coming, it is okay. The guy has no kind 
+of preferences or regrets or any of these things. The thing is that he was so 
+evolved that he was focused on things that mattered. A lot of us get focused 
+on things that do not matter. He was also an encyclopedia of jokes. One time 
+we were talking about math, and he said that there is a Jewish couple, who 
+had a kid who was very distracted, not doing well at school, and getting 
+poor grades in math. They were very concerned, and they found that there 
+was a good Catholic school in the area. They admitted the kid to the Catholic 
+school hoping that a better school would make him a better student. They 
+noticed almost immediately that this kid used to come home, go straight to 
+his room, and start working on his homework. He would finish all his 
+homework starting with the math homework. He never used to do his math 
+homework before. They were saying that this was a great school, the kid 
+transformed, the grades improved, and everything was going great. They 
+sat down with the kid and asked him if he liked the school. He said the 
+school is good. They said, “We noticed that you are very interested in the 
+different subjects. You are doing well in school. Your math grades have 
+improved. You are doing all the math work.” He replied, “Look, when I went 
+to the school and I saw that they had pinned the guy on the plus sign, and 
+he was dead on the plus sign, I knew that these guys were serious about 
+math, and I had to step up.”  
+Charlie would always have these jokes about different things and lots of 
+great advice over the years. One time I was just about to take a flight from 
+New York to LA and his assistant called me. I was just about to board, and 
+she said Mr. Munger would like to talk to you. Charlie had not called me 
+before. Usually, she would call me and say, “Are you free for dinner?” But I 
+never had a phone conversation with Charlie. So, I thought “Okay, let us see 
+what he wants to talk about.” He had just read one of my letters to investors 
+where I was explaining to them the mistake I made on Horsehead Holdings, 
+which was a company that went to zero. He told me, “I have a concern that 
+ 
+Pg 24 of 28 
+you are beating yourself up too much about that loss. We are going to have 
+losses, and we must learn from those losses. We must make sure we do not 
+learn too much, and we have to move on. I noticed in your language that 
+you have not moved on and you seem to still be beating yourself about it.” 
+It felt to me like my grandfather was calling me and just saying, “It is okay.” 
+He did not need to make that call. That is the kind of person he was. He was 
+very kind.  
+We did not see the kind Charlie at the Berkshire meetings, but behind that 
+kind of hard exterior, was a very kind and soft soul. Warren is the same way. 
+They both have a little bit of a hard exterior to protect themselves, but if 
+they are interacting with people that are in their inner circle, and there is a 
+lot of trust, then you see through that layer and you see a wonderful soul, 
+really trying to live a good life, do a good job, and be a good citizen. I had 
+never in all the 14 years that we had a friendship, asked Charlie to meet me 
+for dinner or something. I never wanted to impose on him. He has got 
+enough going on, so I would always just be in reaction mode. They would 
+call me and ask if I was free. But in September of this year, I felt that I wanted 
+to go see him. I reached out to the assistant and said that I would like to 
+come and see Mr. Munger, so what date would work for him for us to have 
+dinner? She immediately gave me three, or four dates and picked one. I 
+went, and it turned out that that was our last dinner. It was exactly one 
+month before he passed away. Even a month before he passed away, he 
+was always complaining to me that Berkshire had too much cash and that 
+they were not able to find anything. There would be constant complaining 
+and I would always tell him, “You guys always find something. You keep 
+complaining that there are no ideas, no this, no that. Apple will happen, 
+Burlington Northern will happen and different things will happen. The 
+phone will ring, and something will happen, do not worry about it.” I was 
+talking to him about a couple of my recent stock ideas, and he got very 
+interested. In those talks, we had a discussion. He kind of agreed with my 
+thesis, so I said, “I want to read about this a little bit more.” He said, “Yes, 
+send it to me. I want to read what is going on here.” I had to send him stuff 
+using 24 as the font size. That size is very huge, but it was the smallest size 
+that he could read. I was sending him about 50 pages, which became around 
+600 pages or something. Those were some of the last things he read. But, 
+even at that time when he was blind, and could not read, because the books 
+do not use that font size, there were no complaints. I asked him at dinner, 
+“Charlie, bridge went away, golf went away, going to the office went away, 
+a lot of your mobility went away, what bothers you? Is there anything that 
+bothers you? All these things have gone away from your life.” He said, “The 
+only thing I wish I had is better eyesight.” But even then, it is only because I 
+asked him that he brought it up. He did not complain about it. In my opinion, 
+he truly embraced Ben Franklin as a hero. We had a lot of discussions about 
+Ben Franklin. We had a lot of discussions about Costco. Costco would always 
+come up. Every time I met him, at least 20 minutes would go on Costco, like 
+the love of his life. These are some of the memories I have of Charlie. 
+Speaker: Regarding Rick Guerin, I heard about him only when you wrote. There is not 
+much public domain on Rick Guerin. 
+Mohnish: Yes. Rick was a really good guy.  
+ 
+Pg 25 of 28 
+Speaker: First you will need to explain, because some of us here also may not know 
+enough about who Rick was. 
+Mohnish: We know that Warren and Charlie were partners, in many ways, there were 
+three of them. There was Warren, Charlie, and Rick Guerin. Rick Guerin and 
+Charlie Munger were very close friends and they used to share investment 
+ideas and look at different things together in the fifties and sixties. It was 
+Rick who brought See’s Candies to Warren and Charlie. That is how they got 
+introduced to the family and then they were able to buy. Even Blue-Chip 
+Stamps was an idea that came through Rick Guerin. Rick was a very down-
+to-earth, simple, straightforward guy. In 73-74, when the stock market 
+crashed a lot, he had a lot of margin loans. The market crash was so extreme 
+that he got a bunch of margin calls and he was forced to sell his Berkshire 
+Hathaway stock to Warren at about $40 a share. The stock that is today at 
+550,000 per share was at that time $40 a share. Warren brought it up when 
+I met him for lunch, saying that those are the pitfalls of leverage. Warren was 
+saying that even if you are a slightly above-average investor, you cannot get 
+rich over a lifetime if you never employ leverage. You really can never get 
+hurt. Then he gave the example of Rick Guerin saying that he never got to 
+play out his hand because he got these margin calls. Rick was able to recover 
+from that bottom.  
+Later he and Charlie Munger together bought Daily Journal and Rick had the 
+majority ownership in Daily Journal. He did fine. He was quite wealthy at the 
+time I met him. I remember once Rick, a guy named Michael, a good friend 
+of Charlie's, and I were sitting across from Charlie. Charlie had just found out 
+that I owned a Ferrari. He was saying, “Listen, Mohnish, I know it was a spur-
+of-the-moment decision. You made a mistake, it is okay. Sell the car.” It was 
+the only time I did not do what Charlie told me. I told him at that dinner 
+when he was telling me to sell it, “No, Charlie. I do not think I can do that.” 
+He let it go and never said anything after. The next day we were meeting for 
+bridge and there were three of us sitting across from him. Rick Guerin had a 
+Ferrari, I had a Ferrari, and the third guy Michael drove a Rolls Royce. He 
+looked at the three of us and said, “What kind of people do I hang out with? 
+What kind of people?” I told Rick, “Listen, Charlie is telling me to sell the 
+Ferrari.” He said, “Just ignore.” Charlie believed that his Hyundai Genesis was 
+so well made that it was the equivalent of a Bentley at a non-Bentley price. 
+He loved his Hyundai, and he could not understand why everybody else 
+would just not buy a Hyundai and be happy with it. But the interesting thing 
+was that he also was able to understand. He never brought up the Ferrari 
+with me again. When I moved to Texas, I replaced it with the RAM, because 
+I live in the hills and the Ferrari would kind of bottom out, it would hit the 
+bottom. I thought that I needed to get rid of the Ferrari; it was too low. I 
+switched to a Texas car, which is much better, and a small fraction of the 
+price. It has worked fine. Rick was a very good down-to-earth, simple guy. 
+The three of them, Warren, Rick, and Charlie, in my conversations with them, 
+that period was kind of like what we see in Turkey today. We did not have 
+competition, things were cheap, and nobody was interested in all these 
+things. Things were mispriced. We could do the research, find the deals, and 
+kind of keep going. He said that what we have going on today, is completely 
+night and day from that situation at that time. Anyway, that was the history 
+with Rick Guerin. Rick was an interesting guy because he had joined the Los 
+Angeles Sheriff's Department. At the age of 85, he became a Sheriff, in a 
+ 
+Pg 26 of 28 
+uniform, carrying a gun. He used to coach soccer till he was past 90. He was 
+a very nice and fit guy. At 90 he was at his high school weight; the same 
+weight as when he was 18. All of them were just very nice down-to-earth 
+people. It was just great. 
+Mohnish: Yes, One of my problems is, which I am still in kind of, I would say remedial 
+school on it, is I am not able to pay up. One of the issues is that we should 
+be willing to pay up for great businesses. I have a lot of difficulty with paying 
+up. What ends up happening is I have to find places like Turkey where I do 
+not have to pay and then it works, or I have to find something where there 
+is something the market has missed; there is some anomaly that is causing 
+a mispricing and then it can work. As I said, I am Mohnish Pabrai, and I am 
+an alcoholic. I still have a lot of learning to do, and one of the learnings I have 
+yet to do is, in many, many cases it is worth paying up. But I cannot. The 
+Ferrari, for example, for me to go pay up for it at four times as price I sold it 
+at would be too painful. 
+Berkshire's market cap would be less than 1% of what it is today. Charlie 
+would not take credit for it, but even today, Warren struggles. Warren is a 
+very smart guy. He has come a long way. He has paid up for a lot of great 
+businesses, but he still has a lot of mental blocks on that front. For example, 
+Charlie was never able to convince him to buy Costco. Many times, Buffett 
+says that Charlie is the ultimate abnormal “no” man. He would always say 
+“no.” His big contribution to Berkshire Hathaway was that Warren would 
+bring up some idea to him, and Charlie would run it through a quality filter. 
+If the business was cheap and not that great, and he knew it would make 
+money on it, he would still tell Warren, “Do not do it. We need to keep the 
+focus on the great businesses.” In the end, even in this year's letter, Buffett 
+said 12 decisions have led to most of the value creation of Berkshire in 60 
+years. That is about one decision every five years was what happened. One 
+of the good learnings in the market is that great investment ideas are 
+probably not going to come up that often. We see them come up every five 
+years or seven years or something. We are doing well. 
+Speaker: In terms of capital investments. 
+Mohnish: No, Munger was not involved much in the Apple decision. That was Ted 
+Weschler who made the Apple bet initially, and then Buffett looked at it. The 
+interesting thing is that Ted sold out the position and Buffett kept on with 
+it. He understood that business because that it is consumer behavior. 
+Buffett's understanding of consumer behavior is very strong. He was able to 
+kind of get there on that front. But Charlie's contributions to Berkshire are 
+huge. There is no Berkshire without Charlie, but he would never say that. He 
+would never want to take credit for that or say that.  
+Speaker: Good evening, sir. I am a student at FLAME. I was going through your book 
+Dhandho Investor , and you mentioned two, or three formulas to value a 
+business, but I am sure that is a bit of the entire picture. Do you have a 
+particular framework or something on how to value a business? 
+Mohnish: Like the Kelly formula, no? 
+Speaker: Yes, the Kelly formula and the John Burr Williams formula. 
+Mohnish: If I were to do another edition of the Dhandho Investor, I would take out the 
+Kelly formula; the inclusion of the Kelly formula is a mistake. The Kelly 
+ 
+Pg 27 of 28 
+formula does not apply to value investing the way we do it, because we do 
+not get the opportunity to make 1000 bets. For example, if heads are 51% 
+and tails are 49%, and you give me 10,000-coin tosses, then the Kelly formula 
+is going to tell you how much of your net worth, you should bet on each coin 
+toss for optimization. But in the stock market, we do not get that approach. 
+I do not get to make the same bet with those odds, and I do not have a clear 
+view of those odds. John Burr Williams is a definition of intrinsic value, so 
+that is timeless. It is just present value, all future cash that will come out of 
+a business. That is always going to be there. The difficulty with that is that 
+calculating the number is hard. For a lot of businesses, it is hard. One of the 
+shortcuts we like to take is that calculating future returns and future cash 
+flows can be hard. But if a business is valued at a billion dollars, and we know 
+that next four or five years it will make 500 million a year, we do not need 
+to know more than that. We are okay. The way you can get around John Burr 
+Williams is that you do not need to calculate it. It is just so obvious. Like in 
+the case of Reysas, it is so obvious we do not need to calculate it. In the case 
+of TAV Airports, we do not need to calculate it. There is a good argument 
+that even Warren and Charlie talk about, and that is never run DCF. Munger 
+says that Buffett talks about all the DCFs, he has never seen him run one. 
+The correct way to do things is to never run a DCF.  
+Speaker: One more question out of curiosity. You said that you went to Turkey, and 
+you talked to different businesses, so what exactly do you talk about? 
+Mohnish: What I am trying to do when I am meeting a company for the first time is I 
+am trying to get a picture in my head of how that business works. If we have 
+a Coke bottler, we know that they must pay royalty to Coke, and we know 
+that they have CapEx expenses and all of that, but they have a very strong 
+brand, so if you can get the distribution, there is a pull; the market will pull 
+it. We have a lot of models around the world, which tell us what kind of 
+returns those businesses generate. I am always asking companies how the 
+business works, what the business is all about, how it makes money. What I 
+am trying to figure out in my head is, is it easy for me to understand? My 
+questions are along the lines of just trying to get an understanding of how 
+the business works; and what makes it tick. Let us take one last question. 
+Speaker: My question was related to something which you were just mentioning. 
+When William Green's book came out, you mentioned that you were 
+inspired by what Nick Sleep mentioned in the interview about the flywheel 
+effect, and you also wanted to kind of change your investment journey 
+according to that. But it seems like that is still a work in progress. 
+Mohnish: The one big learning that I got from Nick Sleep is that when you identify and 
+have ownership of a great business, or partial ownership of a great business, 
+you are done. You do not need to do anything beyond that. If you look at 
+Nick Sleep's portfolio, there are a lot of mistakes, but the mistakes do not 
+matter, because the fact that he invested in Amazon drops everything. It 
+does not matter what the rest of the portfolio does. That is the nature of 
+investing. You could make a 5% bet on a company, and you could be wrong 
+on the other 95% of your portfolio, and the 5% could become a hundred 
+bagger, and the rest will not matter. The asymmetric nature of investing 
+makes that possible. That is why that if you own an overvalued business, 
+which is a great business, but appears overvalued, you should give it a lot of 
+hope. For example, when I sold Ferrari, I did not have a problem anymore, 
+ 
+Pg 28 of 28 
+withholding a great business at a high valuation. I have made some 
+progress, no problem with that. The problem I have is paying up for a great 
+business. I have to learn to do that. For Mohnish, the business has to come 
+in cheap. After that, we are okay. But a lot of great investors can. For 
+example, I talked to Charlie about Costco. I said, “Charlie, you are so madly 
+in love with Costco, should I buy Costco?” He said, “If you were running a 
+pension fund with a 40, 50-year life, it is not bad holding 3, 4, 5% of the 
+portfolio. But for you, Mohnish, no, you do not need to buy Costco. because 
+it is a fully priced or even overpriced position. The investing business is very 
+forgiving. Even though I have all these imperfections, it still works out. We 
+have so much suboptimal execution, and we still have things to learn, which 
+makes it fun. We will keep learning and moving along and take it from there.  
+Durgesh: Thank you for that. 
+Mohnish: Thank you, thank you very much. 
+ 
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not 
+intended to be financial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not be 
+suitable for you, do not take into account your particular investment objectives, financial situation, or needs, and are not intended 
+to provide investment advice or recommendations appropriate for you. Before making any investment or trade, consider whether 
+it is suitable for you and consider seeking advice from your own financial or investment adviser. 
+ 

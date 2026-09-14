@@ -1,0 +1,731 @@
+ Pg 1 of 16 
+Mohnish Pabrai’s Talk at the SumZero Top Stocks Investor 
+Summit 2023 on February 9, 2023 
+ 
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not inte nded 
+to be, financial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not be suitable for you, 
+do not take into account your particular investment objectives, financial situation or needs and are not intended to provide investment 
+advice or recommendations appropriate for you. Before making any investment or trade, consider whether it is suitable for you a nd 
+consider seeking advice from your own financial or investment adviser. 
+ 
+Divya 
+Narendra: It's a great privilege, obviously, to have Mohnish. Mohnish, you're a bit of a 
+value investing legend. We've got Guy Spier here. He himself is very well 
+known in the community. Kind of itching to hear what you've got to say.  
+ 
+In the past, we've chatted. We went through a whole bunch of different 
+themes. Big tech being one of them. Turkey being another one. Let’s start 
+with Turkey. Obviously, super tragic what's going on there right now. It seems 
+like every time when I open a web browser, I see the death toll rise by a few 
+thousand. It's just kind of hard to believe.  
+ 
+You've been an investor in Turkey. You've visited Turkey, assuming you've 
+spent a decent amount of time there by this point. First off, before we even 
+get into Reysas, do you have any just sort of reflections on what's going on 
+there recently? If you have any thoughts, feel free to sort of share them with 
+us. 
+ 
+Mohnish: Yeah, it's very tragic. We keep seeing the death toll rise, but what they don't 
+report is the number that are missing, and that number will unfortunately be 
+approximated in the actual death toll. We are going to see some miracles. I 
+hope we see a lot of miracles, but it's been more than three days. As the time 
+goes by, my friends in Turkey tell me could be as much as 100,000. It's a very 
+large number.  
+ 
+SumZero has been very generous to Dakshana. I would say that anything 
+you're planning to do this year for Dakshana, you should redirect to Turkey to 
+the relief efforts. If it comes to us, then we'll redirect it anyway. Also, the same 
+to your viewers, I think to the extent that they are thinking about Turkey, I 
+would say think about the relief efforts. Any way we can help because it's a 
+serious human tragedy and we don’t know the scale yet. But it’s really bad.  
+Divya  
+Narendra: Yeah, I think that makes a ton of sense. We'll certainly follow up with you on 
+that.  
+ 
+Mohnish: The Turkish market is closed until the 14 th. Basically stocks can go up or down, 
+at most 10% a day. For a couple of days, they hit the 10% lower limit. It didn't 
+ Pg 2 of 16 
+really matter which stock it was. Almost the whole market was hitting the 
+lower circuit even though a lot of the companies are not directly affected or 
+may not be that affected by the tragedy. I think the regulators felt that and 
+give it some time for people to not panic selling or whatever else. When the 
+market opens up on the 14th, prices are likely to be more attractive than they 
+were a few weeks ago. 
+Divya  
+Narendra: Yeah. Well, it's a good thing. We have Guy on the call here. One of the 
+questions that a listener had for Guy, which is sort of a philosophical one. How 
+do you think about investing and getting comfortable investing in certain 
+countries? To the extent values may be different from the West, people have 
+lots of different views on this.  
+ 
+Guy had previously sort of passed on Reysas even though he knew you were 
+invested in it. He wasn't as comfortable with the region, the jurisdiction, the 
+governance, things like that.  
+ 
+Taking a step back, I mean, we've talked about Reysas before as being the 
+way you described it as sort of an unbelievable value. How did you personally 
+get comfortable with Turkey as a market? What kind of helped you get over 
+that hurdle? 
+ 
+Mohnish: In investing, we are always going to be looking at several different factors 
+around an investment. One of the difficulties that comes up in investing is 
+what weight we give to those factors and how we think about them. If I go 
+back 46 years ago, 1977, Charlie Munger got a phone call from a friendly 
+broker offering him 300 shares of a company called Belridge Oil, which was a 
+large oil field in Bakersfield, California for $115 a share. Charlie said, “I'll take it.” 
+It was very thinly traded, pink sheet stock, and that was about $35,000. He 
+made that investment. Charlie knew from what he knew about Belridge, that 
+it was probably trading at10 to 15% of liquidation value. It was cheap. Two days 
+later, the broker called again and said that he had another 1,200 shares at the 
+same price. This time Charlie didn't have the cash and so he would have to 
+either sell something or borrow the money. He told the broker, “I’ll call you 
+back.” He thought about it and decided to take a pass on the second 1,200 
+shares. The first 300 shares, Belridge had a market cap of about $115 million in 
+1977, and two years later in 1979 Shell Oil bought the company for $3.6 billion. 
+It was about 30x plus the very fat dividend that he collected for a couple of 
+years. His $35,000 became about a million dollars in 1979, which he then 
+proceeded to put into Berkshire at approximately $300 a share. Now, it’s close 
+to $500,000 a share. That's about 1,500x. The million today is about a billion 
+and a half. That $35,000 became about a billion and a half. It's about 45,000x 
+over that period.  
+ 
+Now, Charlie says, Belridge was his biggest mistake because the 1,200 shares 
+that he chose not to buy, that he knew were worth at least five or 10 times 
+ Pg 3 of 16 
+what they were being offered would have given him about another four 
+million in proceeds. That would've converted in about six billion and counting 
+into Berkshire shares. He said that the CEO of Belridge was a bit of an 
+alcoholic. He knew the oil field was spectacular. This was an oil field that 
+owned all the rights, which is very unusual. They owned it into perpetuity. 
+Just to give you a sense of what happened with Shell from 1979 until today, 
+Shell has pumped out and collected more than 60 billion from that oilfield 
+since 1979 buying it. It's still pumping it, still producing oil for them. It's a very 
+prolific field and Charlie knew that.  
+ 
+When he reflected on Belridge, he said the oilfield didn't drink. He said it was 
+the CEO who drank and needed to separate from the oilfield. He says, “I 
+overrated the CEO's alcoholism, and I underrated the basic economics of the 
+field.” You couldn't really screw up whether the guy running it at the time was 
+an alcoholic or not.  
+ 
+When we look at Turkey, obviously you're going to see macro issues. You're 
+going to see very high inflation. You're going to see monetary policies that 
+don't make sense. You have all these things going on at a kind of high level 
+over the country. Let's leave Reysas aside for a second.  
+ 
+Let's talk about the Coke bottler in Turkey because that's a business that 
+everyone will be more familiar with. You can understand what the bottling 
+business looks like around the world. It's very similar. The Coke bottle in 
+Turkey has an exclusive right to sell all Coke products in Turkey. Not only in 
+Turkey, they're in 12 other countries including Pakistan. They do all the Coke 
+bottling and sales in Pakistan. They own 49% of the Pakistani Coke bottler. The 
+Coca-Cola company in Atlanta owns 51%, which probably in the next few 
+years will sell to the Turkish company. Coke sits on the board of the Coca-Cola 
+bottler in Turkey. It's a Coca-Cola İçecek. Coke owns 20% of that business, and 
+they sit on the board of that company. Basically, when Coke has bottlers that 
+come up in the region, I think it was Turkmenistan, one of those central Asian 
+countries, where the government was the bottler. That wasn't doing that 
+great. Basically, what Coke did is they arranged a sale to the Turkish company 
+and they even subsidized the sale for them. I would say that when we look at 
+the Coke bottler in Turkey, and you look at another Coke bottler in Europe, or 
+somewhere in the US, or Latin America, they are very similar businesses they 
+have very similar economics.  
+ 
+Unless Turkey did something strange like put capital controls or something 
+else these businesses should be valued very similarly. But they are not. The 
+Coke bottler basically trades barely hitting double digit multiples now. It used 
+to be less than half the price a year ago, trading at four or five times cash flow. 
+When we look at businesses and places like Turkey, I met them twice actually. 
+There's a video I had done a few years back, a talk at UC Irvine. It's about two 
+hours just on the Coke business model. I asked them to look at that video, 
+ Pg 4 of 16 
+which they did. When I met them the second time, they didn't really want to 
+talk to me about the merits of investing in their company. They really wanted 
+to pick my brain on the strategy they should adopt, which was kind of fun. 
+They were asking me a bunch of questions about different folks in the road 
+and what they should do, so forth and so on. That business is owned.  
+ 
+The promoter of the business in Turkey is one of the highest quality families 
+and management teams in Turkey. They have two other listed businesses. 
+They have a beer business, in which they have 50% market share. They have a 
+very dominant supermarket. All three businesses are very high quality. The 
+people that I met running these businesses were the highest quality 
+management team of any team I met in Turkey. They were exceptional. Some 
+of them had Ivy League education in the US. The CFO of the Coke bottler used 
+to work in Atlanta for the Coca-Cola company. He then worked in Delhi for 
+Pepsi Bottler. He’s been all over the place. He's Ukrainian. He's not Turkish. I 
+found with that company, a great management team. I found a monopoly 
+business, a duopoly business you could say in terms of the dominance of the 
+brand. Then you have the overlay of Turkey.  
+ 
+When you are the investor, look at these things. It’s important that you weigh 
+the factors correctly. There is some weight that you should give to the fact 
+that it's in Turkey. To say that I'm going to reject it because it's in Turkey. One 
+of the interesting things about investing is that we don't usually get pure 
+pristine bets that we can make. There's always some hair on them.  
+Time flies, but the last time we spoke was about a year ago. It seems like it 
+was shorter, but when we spoke about business, like Meta, there are very 
+great aspects to the business. There are some not so great aspects to the 
+business. You must weigh those factors and we don't always get it right. The 
+more rational we are in looking at those factors probably the better decision 
+we end up making. 
+Divya  
+Narendra: Mohnish, the interesting thing about you is that you are known for taking 
+concentrated bets. You're also known for holding onto positions without any 
+kind of hard line or bright line cap. 10% of my portfolio, I better sell it. It's back 
+down to 5% or something. As far as I understand it, you're not of that school of 
+thought. When you were looking at Reysas from a waiting standpoint and 
+trying to handicap it for the fact that it is in Turkey, how did that affect your 
+position size? 
+ 
+Mohnish: Well, the problem I had with Reysas was that the day I met them for the first 
+time the market cap was 16 million. No matter what I tried to do at that time, 
+we were managing around 700 million. By the time I finished buying the 
+position, I ended up owning about a third of the business, $7 million. We 
+invested $7 or $8 million. I didn't want to make it a 1% bet. I ideally like to 
+make 10% bets. On a $20 million position to put $70 million into it, I couldn't 
+do that.  
+ Pg 5 of 16 
+ 
+Now, with the earthquake, it's dropped a little bit hovering around $250 to 
+$300 million now. It’s moved up a bit. Their liquidation value, which used to be 
+about $600 or $700 million when I was making the investment. Probably 
+north of one and a half billion now. That's also moved up quite a bit. It's no 
+longer at 2% of liquidation value. It's probably more like maybe 20 to 25% of 
+liquidation value, something like that. It's not the liquidation value that really 
+interested me. What interested me was that this was a company that was 
+extremely smart about reinvestment. The father-son team that run the 
+business, really don't want to make investments if they're not getting the 
+money back in dollars within two or three years. Their reinvestment hurdles 
+are 25% to 35% IRS. They're very creative. They've entered several businesses 
+in the past, which they weren't in. They start small to get competence. They 
+have moved into a number of different businesses, and they've gotten scale in 
+those businesses. I didn't even value all those other businesses because those 
+were harder to value all the numbers, I gave you. It's just for their one real 
+estate business. If a business is reinvesting at very high rates, the leadership is 
+relatively young.  
+ 
+My take on Reysas was that we are going to let this ride for about 20 years. It 
+might be 10, 20 billion, 30 billion, who knows what it is in 2040 or 2043. Just 
+leave it alone. If I look at my funds, an offshore fund, there are two bets in 
+Turkey that collectively made up about half the fund, not because we put half 
+into it. One was Reysas, which went up, the other was TAV airports, which is 
+another great business. For the most part, it is a closed fund to new money 
+coming in. I told my investors that it's very concentrated. We are not going to 
+lighten up because when we look at what we own. They're very cheap and 
+very good assets. Even if it gets to 80% in these two stocks, we don't plan to 
+lighten up. I told them that if they don't like that approach that I'm taking, 
+they can get off the bus, they can redeem, and move on. I'm not going to 
+change my perspective on that. The way I look at it is that if you look at the 
+Walton family and the ownership in Walmart, Sam Walton's passed away a 
+very long time ago. No Waltons are really running that business. There's only 
+one Walton on the board. They don't have control of Walmart. Most of them 
+have kept the stake. For most of the Waltons, the Walmart stake represents 
+most of their wealth, probably in many cases more than 90%. That's not 
+diversified. If you talk to them, they will say, “It's perfectly fine.” They're very 
+comfortable with that.  
+ 
+The way I look at Reysas is we are not the founder, or the promoter, or the 
+owner of the business. But we can think of it like that. If we own the Coco-
+Cola company in Turkey, we should think of ourselves like a minority owner. If 
+we were a minority owner of a high-quality business like that, we shouldn't 
+even sell it. If it gets fully priced, we should not even sell it when it gets 
+overpriced. We should sell it when it's egregiously overpriced. If Walmart 
+ Pg 6 of 16 
+went to something like a 100x normalized, trailing earnings, maybe the family 
+should look at selling. But at 40x, 30x, 20x, it’s a good idea not to do anything.  
+Divya  
+Narendra: Just because you think the earnings will continue to compound and that most 
+will compress over a longer time horizon. 
+ 
+Mohnish: There are very few businesses in the universe, listed companies that would 
+qualify as great businesses. Probably, I would say less than 5% or 3% of listed 
+companies would qualify as great businesses. If you find yourself in the very 
+happy situation of fractional ownership of one of those businesses, hang on 
+for dear life. This is the one of the biggest mistakes I've made over time.  
+ 
+Guy owns a stake in Ferrari. Mohnish doesn't own Ferrari. When I made the 
+investment in Fiat Chrysler in 2012 when the market cap was $5 billion, their 
+sales were 140 billion. Fiat Chrysler was trading at less than 4% of revenue. 
+Just the equity was 80% of Ferrari, 6 billion. Plus, there was all the Jeeps, 
+Rams, and Maserati, everything else in there. At that time, Pabrai Investment 
+Funds owned something north of 1% of Ferrari. When I looked through the 
+Ferrari stake, we made a lot of money on the investment, and one of the 
+dumbest things I did was Ferrari looked optically expensive to me. I sold. We 
+would probably have three times that amount of money if I just kept the 
+position.  
+ 
+Like Charlie says, old too soon and wise too late. One of the lessons I've 
+learned the hard way is that very few businesses have the characteristics as 
+Ferrari has. The higher the price of the product, the greater the demand. They 
+recently released their SUV, which they don't even want to call an SUV. It's 
+going to start at $421,000. You're not going to be able to get one for $421,000. 
+By the time you auction it out, it's probably $600,000 or something. They all 
+sold out. If you actually try to buy one from someone who's got one, you are 
+probably going to spend over a million on that. I mean, that's an incredible 
+business. 
+Divya  
+Narendra: Yeah. 
+ 
+Mohnish: 80% margins. 
+Divya  
+Narendra: I was a little annoyed by the SUV, but I know they had to do it. Putting aside 
+Ferrari for a second, do you still own a third of Reysas? Is that roughly kind of 
+your stake at this point? 
+ 
+Mohnish: I hope I go to my grave with it. 
+Divya  
+Narendra: Do you feel as a large shareholder or minority shareholder that you have some 
+say in terms of how getting back to corporate governance. Do they see you as 
+sort of an equal or close to equal? 
+ Pg 7 of 16 
+ 
+Mohnish: I have a good relationship with the founders. In fact, last year they came to 
+Omaha for the Berkshire meeting the son did, which was excellent. I thought 
+that might help them in their journey to understand Berkshire more. Buffett 
+says that if they need my help, they're both in trouble. I'm a lazy guy, Divya. I 
+really don't want to serve on boards. I don't want to be telling companies, I 
+mean, the management team at Reysas can run circles around running that 
+business better than I ever could. I don't think I could come up with any 
+strategy that would be superior to what they're doing. Basically, I think that 
+business works because of the incentives the team has. I am happy to be a 
+cheerleader on the side lines. I don't have any desire. I haven't seen them do 
+anything dumb in 15 years? One smart thing after another smart thing is what 
+I would have done if I was running it.  
+Divya  
+Narendra: Who is the broker that you use to build the position in the first place? 
+ 
+Mohnish: Turkey is difficult to access. You can access it if you have a prime broker 
+relationship. We use UBS. Any of the major prime brokers would be able to 
+get you access to Turkey for retail investors in the US. There is only one way 
+that I'm aware of to invest in Turkey, which is True Fidelity. If you open an 
+account at Fidelity on IRA or whatever, you can't really trade it on their 
+platform. You can call their international desk and kind of place trades on the 
+phone with them. It’s higher fees. It’s $80 or $90 per trade, FX conversion fee 
+and all of that. There's some frictional cost, but it's still okay.  
+Divya  
+Narendra: Speaking of FX, I think you mentioned this to me. You mentioned this to me 
+via email. Val Lira obviously has had a tough time over the last year or so. As 
+far as I understand it, you're not hedging FX at all? 
+ 
+Mohnish: No, Reysas has gone from the 16 million to the 250 odd million in dollars over 
+the last three and a half years. I don't even know how much has gone up in 
+Lira, probably four times. The lira was five liras to the dollar when I invested. 
+It's now approaching 19 liras to the dollar. We lost 75% of value in the lira. It 
+was not relevant to me because I knew that the asset was automatically 
+inflation index. A warehouse is steel, iron, concrete, cement land, all these 
+things are going to move with inflation. Basically, their rents are inflation 
+index as well, and some of the liras in dollars are euros. Basically, there was 
+really no reason and these are the only inv6estments I'm interested in Turkey. 
+Even when I look at Coke bottlers, they have the ability to raise prices, to keep 
+lock strap with inflation. I don't expect inflation to have a big detrimental 
+impact on their business. 
+Divya  
+Narendra: What was the other? 
+ 
+Mohnish: They don't need to hedge the lira if  you are invested in companies in Turkey 
+that are unaffected by inflation. 
+ Pg 8 of 16 
+Divya  
+Narendra: Right. What was the other Turkish name that you bought on? 
+ 
+Mohnish: It's TAV Airports, T-A-V. It is another wonderful business. They have 15 
+different airports in eight countries. The airport business is a fascinating 
+business. It's a complicated business. It's like 10 businesses in one. These are 
+very favorable economics if you don't overpay for the right to run the airport. 
+Typically, with the airports, what happens is it's a BOT model (build, operate, 
+transfer.) You'll get a 25, 30, 50-year concession with some airport where you 
+say, “Okay, I'll build a new terminal. I'll do the X, Y, Z. I'll give the government 
+half a billion dollars.” Against that, I get the right to run the airport for 30 years 
+or 50 years. There are portions of the revenue that are regulated, like the 
+passenger fees and all of that. There are portions of the revenue that are not 
+regulated, like duty free, food and beverage, and that sort of thing. When you 
+blend it all together and you look at the economics, especially if you don't 
+overpay for these things, it's a monopoly asset. It's a cash cow.  
+ 
+In the case of TAV, they have a very unusual situation. They acquired one 
+airport during the middle of the pandemic when air traffic was close to zero in 
+Almaty in Kazakhstan. Almaty is the largest city in Kazakhstan. That was an 
+outright purchase. It is the only airport I'm aware of in the world’s major 
+airport that's privately owned forever. This wasn't a 30-year or 50-year 
+concession. It's a permanent concession. They own it permanently and that's 
+a very unusual situation. That deal got done when there was no traffic. There 
+was $400 million for the airport and another $250 million for the capex. 
+They're building a new terminal. Just that airport alone in 2026 or something 
+is going to be cash flowing north of $200 million a year. It's going to be 
+increasing that cash flow close to 5% or 7% a year from there on almost to 
+perpetuity. It has no competition. Kazakhstan is landlocked. It's got a very 
+high per capita income. Basically, it's an asset that was purchased for three 
+times cash flow, and airports like that should trade at 30x to 40x cash flow. 
+Divya  
+Narendra: Really interesting. 
+ 
+Mohnish: Something like that would not be av ailable at those type of prices on the New 
+York Stock Exchange. 
+Divya  
+Narendra: Yeah. This is another airport or asset that you see yourself owning for 20 
+years. 
+ 
+Mohnish: Again, extremely high-quality management team. I mean, I looked at the 
+business. I thought it was an exceptional business. The risk you run with 
+airports is animal spirits. When a new airport comes up for bid, if it gets 
+compared, people are not willing to lose it. They overpay, then it's not going 
+to work well. I think that the biggest risk with TAV is, there will be only about 
+4% or 5% of the airports in the world that are privately run airports run a lot 
+ Pg 9 of 16 
+better. LaGuardia now is a private airport. If you look at LaGuardia five years 
+ago and you look at LaGuardia today, you can't even compare the two. That 
+would not happen under government ownership. 
+Divya  
+Narendra: Moving beyond Turkey for a second, you've been in the news a little bit 
+recently about your investment in Brookfield. Is that something you can speak 
+to a little bit? 
+ 
+Mohnish: We have an investment. I don't th ink we have anywhere near the upsides we 
+have in places like Turkey. It's a very high-quality business. It's a very high-
+quality team. They actually give you a five-year outlook on what they expect 
+their business to look like in four or five years. They've been doing it for a 
+while, and they were actually exceeding what they set as their targets in the 
+past. If the management team is to be believed, and if we buy into their 
+targets, it'll be a great investment. Brookfield is a very strong recurring 
+revenue business. It's got multiple facets to the business.  
+ 
+One side is asset management where they have other people's money that 
+they're putting out to work, getting fees and such. They also have their own 
+balance sheet. Minorities take in other companies they've listed in the past 
+and so on. They've just got the quality of the assets that they own across 
+different industries is truly exceptional. They've gone after the very best real 
+estate properties. They've got great hydro plants, railroads, and several 
+different interests. Recently, they did a deal with Intel to partially own 
+boundaries. They’re going to set up together. They've also now entered the 
+music business, the music licensing business, and such. It's a very good team. 
+I've always liked Bruce Flat a lot. 
+Divya  
+Narendra: Why Brookfield over say a Blackstone? 
+ 
+Mohnish: Yeah. You could probably buy a basket of these and do well. If you bought 
+Brookfield, Blackstone, KKR, Apollo, all of them, just put them all in a basket 
+and buy them, they would all do well. Brookfield may do better than the rest, 
+mainly because of the DNA differential between them. If you look at KKR or at 
+Blackstone, they come from a private equity world. If you go back to the 
+history of the original kind of funds and deals.  
+ 
+LBO private equity type starting point, Brookfield's starting point goes back a 
+long range, several decades. They really were not a manager of other people's 
+money. They were really investing their own money. When Bruce Flat came 
+on the scene and became CEO maybe more than two decades ago, he got rid 
+of all the businesses, which he didn't think were that high quality. They were 
+in a bunch of mining and different things. He got rid of those businesses and 
+he focused on extremely high quality, long-lived infrastructure assets. The 
+private equity world, because it's so competitive did not, has not recently. 
+Even historically, it has high filters on the quality of the business. They always 
+ Pg 10 of 16 
+felt that they could buy a mediocre business, do some financial engineering, 
+and still make a good return.  
+ 
+Brookfield didn't take that approach. Their approach was that at the core. 
+They want to have a great asset and then later they want to look at how they 
+can finance and do other things, with it to make it great. I think the KKRs, and 
+Blackstone’s of the world have moved towards Brookfield in the way they 
+think about it. I think that when I look at just the long-term DNA of how these 
+companies think. I just think that Brookfield from day one had the right DNA. 
+Divya  
+Narendra: Was there anything from the valuation appeal to you? From a pure evaluation 
+standpoint? 
+ 
+Mohnish: It's not optically cheap. None of these guys are optically cheap. They were not 
+expensive either. If you're a sovereign wealth fund, you're like the Qatar 
+investment Authority, Abu Dhabi sovereign Wealth Fund. You have very large 
+amounts of money to put to work. There are very few entities or places that 
+you can put this capital with, which are very high-quality places, very high-
+quality teams. They can be there with them for a very long time. It's an 
+oligopoly type business where they're like three or four players that all these 
+guys must come to.  
+ 
+At the end of the day, when they want to invest, they have to come to one of 
+these three or four toll bridges to make the investment. The assets under 
+management they have is going to grow a lot. The carried interest is going to 
+grow a lot. The fees are going to grow a lot and they are creative about 
+entering new areas like music, semiconductor foundries, and so on.  
+Divya  
+Narendra: Has the work from Home Trend affected them at all? 
+ 
+Mohnish: I think, yeah. I would say office pr operties in general across the world are 
+facing much higher vacancy rates than they did before because of this trend. 
+Obviously that demand has gone down because Brookfield sits at the very top 
+end. They've always wanted to invest in tier one cities, in the very best 
+properties, the kind of the trophy properties like Brookfield Place, or Canary 
+Wharf, and so on. These would be the last ones affected. Their rents will go 
+down, but the ones at the periphery will just have high vacancy. Whereas the 
+trophy properties will just have lower rents. They have some challenges with 
+their properties. These are long leases, so it takes a while. Even if the A Tower 
+had a lot of vacancy, Brookfield may still be collecting rent on it.  
+ 
+For example, Meta has the largest, the tallest building in Austin now. They 
+have signed a very long lease for that and it's still not going to be ready for a 
+year or two. They’ve already put it up for sublease. They're on the hook for 
+that rent, but whoever the landlord is not affected by Meta's decision that 
+they don't need that space. 
+ Pg 11 of 16 
+ 
+Divya  
+Narendra: Yeah. What did they take like a $2 billion charge last quarter? Just on office 
+consolidations? We actually have a guy speaking about Alts later in the 
+session to talk about Apollo. Some of these other names as well. It'll be 
+interesting to get his thoughts on some of the stuff you said. One kind of 
+question somewhat related to Turkey, what are the other countries where 
+you're seeing huge discrepancies between fundamental asset quality and 
+price? I've heard you mentioned South Korea before. What are the other 
+countries that screen well for you in terms of just places where things are not 
+picked over?  
+ 
+Mohnish: Well, I find the whole world is very heavily picked over. It’s difficult to find. I 
+think that I haven't found any market with the characteristics that Turkey has. 
+That's a very unusual situation. Who knows how long that'll last? Korea is 
+always cheap. One of the big challenges we have with Korea is that they're 
+birth rates are now well below even China. Couples have 2.1 kids to keep the 
+population break even. Korea's actually alarming. It's down to 0.7 or 0.8. 
+Japan is at 1.4. They have a declining population. The Korean population 
+decline quite frankly is alarming. That's a very strong headwind in investing in 
+any country. If you're going to see negative population growth, China also is 
+facing that, it’s a serious issue. But Korea out of all of them, between China, 
+Korea, and Japan, Korea has the most extreme problems with the birth rate.  
+ 
+In Japan, there's been an attitude change towards immigration. They're trying 
+to bring in more people. All three of the countries in the long run, has huge 
+advantages over the United States. United States is the only developed nation 
+which has population growth. No other developed nation has that dynamic. 
+We've had that dynamic for a very long time. We still have a population group 
+growing on today. I wish Congress would get its act together and fix 
+immigration. I think for a lot of the China, Japan, Korea, especially Korea, 
+that's a big headwind. 
+ 
+Divya  
+Narendra: Speaking of China, the last time we chatted, you were bullish on Ali Baba. I 
+don't know if you had a position in that or not? You may?  
+ 
+Mohnish: Yeah, I switched the Ali Baba position. I have studied them and their process. I 
+actually studied Tencent, and I just found that there was a big difference in 
+business quality and leadership. We had a loss with Ali Baba. Instead of taking 
+a tax loss, I just switched it over. 
+Divya  
+Narendra: And you've kept your position? 
+ 
+Mohnish: Yeah, for the most part. We kept the process position. 
+ 
+ Pg 12 of 16 
+Divya  
+Narendra: Have you noticed that just on Ali Baba? Any sort of change in the approach or 
+just kind of stuff that gone on in China over the last year?  
+ 
+Mohnish: The number of things with Ali Baba would, in my opinion for me, would fall 
+into the two hard pile. It's very hard to handicap what the CCP does with 
+them. I think Tencent is a little bit different in the sense that they've always 
+been very cooperative with the government. They've had very great 
+relationships with the government. Ali Baba for the most part, from what I can 
+tell, has fixed a lot of those issues. I don't believe their relationships with the 
+government is as good even today. 
+Divya  
+Narendra: Yeah. The other thing that's interesting is India. Guy has invested in India 
+Energy Exchange. I asked him about corporate governance and anybody he 
+mentioned was highly regulated, it’s counterparties.   
+You've said India's been difficult for you to invest in, and I'm just curious if you 
+have any new thoughts on it? 
+ 
+Mohnish: We have an investment in Indian Energy Exchange. I think we own like one or 
+one and a half percent of the company. It's one of the highest quality 
+businesses I've seen anywhere in the world. Extremely good management 
+team, very creative, and extremely good execution. Even when I bought it, 
+before the pandemic, I owned 4.99% of Energy Exchange, which is the 
+maximum the government allows foreign investors to own. I paid up. I paid up 
+significantly 30x to 40x earnings for that stake. The business quality was so 
+high.  
+ 
+Today, for example, about 8% of all the power that is consumed in India is 
+going through IEX. Approximately 1% of the value of that power is their fees, 
+their revenue. About 70% to 80% of that just drops the bottom line. That 8% of 
+power that's going through, it's probably going to end up somewhere 
+between 15% and 30% of the entire country. India's per capita power 
+consumption today is low. There's the movement towards EVs and all of that. 
+Our usage will go up a lot in India. India and GDP expect to grow up like 6% to 
+7% a year. Power might grow up 8% to 9% a year over a relatively long period 
+of time. With that type of growth, with a complete monopoly position where 
+they are at 8% of the pie today, it becomes 25% or something in five or 10 
+years that's an exceptional business. 
+ 
+They started a second business, the Indian Gas Exchange, which really 
+shocked me in terms of their traction. They just started the gas exchange 
+about two years ago. Now they're hitting some months where 5% of all the 
+natural gas consumed in India is running through the gas exchange servers. 
+Even though the business doesn't have the scale of the power exchange 
+something like two thirds of the revenue is net income, pre-tax. That two 
+thirds will probably go to 80%. There is a way you cannot show the profits on 
+ Pg 13 of 16 
+your income statement because your regulator can see them. Of course, 
+they're not going to do anything of the sort, it's very high-quality team. That's 
+Guy's biggest worry is economics. I think that the regulators really love IEX 
+and IGX and they really look at it as a national asset. That part of the reason 
+they do so well, and they put so much to the bottom line is just how well the 
+businesses runs. The regulators understand that under different leadership 
+and ownership they would not have those numbers. It's just a good business. I 
+am looking at it again to see if we should increase our stake. The gas 
+exchange is forced to divest its position down to 25% in a couple of years, 2 to 
+3 years. They'll do an IPO and the market cap in a few years will probably 
+match or exceed what they have for the whole business. 
+Divya  
+Narendra: Have you been following this fiasco with the Adani group? 
+ 
+Mohnish: Indian Mutual funds by and large, other than the index funds, don't own Adani 
+companies, even though it's a very large portion of the market. I don't know 
+any investors. I interact with in India who've ever had any stake in Adani. 
+Divya  
+Narendra: Is that because of his reputation, valuation, or some other reason?  
+ 
+Mohnish: It's clearly optical and otherwise it's very expensive. It's always been 
+expensive. It's difficult to justify those numbers. Even in the Hindenburg 
+Report, they start off with the first thing they say is valuation. They bring up a 
+bunch of other things. Now, I have no idea. The quality of the businesses and 
+the quality of the assets they own is exceptional. They own most of the 
+private airports in India ports, a lot of the petrochemical infrastructure 
+pipelines, transformation lines. These are very high-quality assets. The 
+questions are swirling around the rest of it. I don't need to have an opinion on 
+98% of what goes on. I only need to have an opinion on the stuff that we were 
+going to invest in. It's irrelevant from my point of view. We'll buy some 
+popcorn and watch the movie. 
+Divya  
+Narendra: Yeah. As far as just following up on kind of our previous discussion, you've 
+always been a big fan of Jeff Bezos and Andy Jassy and all that. Have your 
+thoughts on Amazon changed at all over the last year? 
+ 
+Mohnish: I think it’s the mo st exceptional business ever created in the history of 
+mankind. It's amazing what they have put together and what they do. The 
+DNA of Amazon is just incredible.  I've always hated retail and stuff. He seems 
+to think like that too. He's not a big fan of that business. It's easy to not be a 
+big fan because when you look at the numbers, they're not that great.  
+ 
+But other aspects of their business, doing fulfillment, advertising, and all of 
+those are great. I think of Amazon as a consumer commerce business that has 
+a massive footprint in enterprise core web infrastructure and that’s a big leap. 
+Amazon is the kind of company where you don't even know what businesses 
+ Pg 14 of 16 
+they'll spawn and be in 10 years. That spawning engine is very much alive and 
+kicking. He's going to deemphasize the businesses and have lower returns, 
+equity, and all of that. I've even seen they're looking at buybacks and things 
+where they're starting to generate more cash than they need. Incredible 
+business. I've always been too dumb to buy it and I'll probably be too dumb to 
+buy it forever, you know? We'll see. 
+Divya  
+Narendra: Well, I was going to ask, I mean, the stocks obviously struggled for the last 
+two years. It's not at its low over that period, but it's certainly got a long way 
+to go before it gets back to its highs. Do you have a price point in mind where 
+you would potentially take a position? 
+ 
+Mohnish: One of the mental blocks I have, which probably hurts me more than it helps 
+me is the law of large numbers. When I look at businesses, $500 billion trillion, 
+$2 trillion market caps which are the highest they've ever been for any 
+business in the history of mankind. Then when I look at how many businesses, 
+large businesses like that survive for 100 years, 50 years, and that sort of thing, 
+the death rate is really high. If you look at a business like Apple, I don't think I 
+can see anything on the radar that's going to affect Apple for 10 years. It's just 
+a great franchise. It'll keep going. I don't know if I can make that statement for 
+20 years, 30 years, or 40 years. I can make it in 10 years. When you are trying 
+to buy Apple, 2 trillion, whatever it's at, you need to have a view 15 to 20 years 
+out. You need to have some view on that. Ferrari will be cranking for 15 to 20 
+years from now.  Hermes will be cranking 20 years from now, 40 years from 
+now, 80 years from now. I was having a discussion with Charlie a few months 
+back where I told him that. If I look out at 100 or 200 years, I think the railroad 
+in Berkshire will be intact and doing great. Even if we get to Maglev or some 
+new technology, the right of way and the need for humans to move goods 
+that's probably the most efficient way to move goods. Indestructible moat.  
+ 
+Most other things I see in Berkshire, I can't make a comment that 100 or 200 
+years from now will still be here. Charlie corrected me. He said, “Well, our 
+power business is pretty good too.” He's right. The utilities and power 
+business that they have is another amazing business. That's unlikely to 
+change, in terms of how we get our electricity and power and all of that. 
+When you get to these very large market caps this is the issue that bothers 
+me, you look at something like LVMH. There is a huge market cap. I would say 
+someone like LVMH has a much stronger chance of being with us 50 years 
+from now than Amazon does. Even though Amazon looks just totally 
+dominant today. My take is that when I get to some of these really large 
+market caps, Tencent was an exception for us. So that's kind of where I end 
+up. 
+Divya  
+Narendra: Would you put Microsoft in the same bucket as Apple? 
+ 
+ Pg 15 of 16 
+Mohnish: No, I think between the two business es, I'd be more interested in Microsoft 
+than Apple. One of the reasons is that, if you think about the iPhone, it's 
+actually a very cloogy device. This is kind of where Mark Zuckerberg is going 
+too. The iPhone, most of us don't particularly care about the phone part of the 
+iPhone. That's irrelevant. It's really a computer we carry around. If I’m using it 
+to map where I'm walking to or where I'm going to, it's kind of a cloogy thing 
+to have in your hand. The human factors in the long run of how we interface 
+with technology which is we know we get to your favorite subject, the 
+Metaverse. There is an unpredictable direction that we will be heading in at 
+some point. When we head in that direction, it is a big unknown where Apple 
+fits.  
+ 
+ To me, it is more resilience than a purely consumer driven business that 
+Apple has. Apple has a lot of goodwill amongst the consuming public, a lot of 
+trust, a great brand, but it doesn't have the same kind of nuance with all those 
+companies in the app store giving them 30% and all of that. There's animosity 
+with that group.  
+ 
+Amazon for example, doesn't have that animosity. All the enterprises that 
+work with Amazon don't have a negative view on the company. A lot of app 
+store developers believe that 30% is too high. That part of the business is not a 
+win-win in my opinion. I think their take rate is too high. On the consumer 
+side, they do a great job. Apple's a great business. I think 10 years, like I said, I 
+don't see anything, they might be doing well in 20 years. But I wouldn't want 
+to make that bet. 
+Divya  
+Narendra: Mohnish, before we close, you'll find  this interesting. My wife is going to be 
+talking about inflation. She's the head of US inflation strategist at JP Morgan. I 
+was going to ask; we live in a world right now where there's just enormous 
+geopolitical risk and macro has just absolutely dominated the markets over 
+the last. I was curious, do you have any views on where inflation is heading? 
+How quickly it might be contained? I don’t know if you have thoughts on 
+wages, which is sort of part of the problem in terms of being stickier than 
+other parts of inflation. I'm just curious if you had any macro thoughts for this 
+and if it keeps you up at night? 
+ 
+Mohnish: Yeah, probably not my strong suit. I would just say that we've got a great 
+central bank, an independent central bank. They may not always get 
+everything correct. They may undershoot, overshoot, all of that, that's part of 
+the deal. They will look at the data and for the most part, they'll act prudently. 
+Over time we'll get to where we need to get to. I don't know if that happens in 
+one year or two years, or how long that takes. But the US economy is 
+surprisingly with all the amount of money that's been pumped into the 
+economy, the inflation is still pretty benign relative to all that. The 
+unemployment rate is unbelievable. If the economy is cranking really well, it’s 
+still on all cylinders. It’s a great engine. I wouldn't have predicted all these 
+ Pg 16 of 16 
+things given where we are coming from, but here we are, and we are doing 
+great.  
+Divya  
+Narendra: You don't foresee any sort of recession coming anytime soon, it sounds like. 
+ 
+Mohnish: I would probably be a really bad person to make those types of calls.  I never 
+saw 2008 coming either. I did see the bubble in 2000 before that happened, 
+so I was able to sidestep that one. But I took the full brunt of ‘08, ’09. I’m not a 
+good guy on that front. I don't know where things end up on that front. I'm 
+trying to make bets where those types of events don't have that much 
+impact, you know? I have an interest in things like IEX, Reysas, TAV, the Coke 
+bottler, and so on. Those are more interesting to me because I don't have to 
+think about these things too much. 
+Divya  
+Narendra: I think it's a fair point. Mohnish, this was great. Super interesting as always to 
+hear your thoughts on the world and obviously, your portfolio. We'll certainly 
+follow up regarding the Turkey donations. Thanks again for your time and 
+looking forward to chatting again soon. 
+ 
+Mohnish: Likewise. It is always fun Divya and Guy, thanks for attending. 
+  
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not inte nded 
+to be, financial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not be suitable for you, 
+do not take into account your particular investment objectives, financial situation or needs and are not intended to provide investment 
+advice or recommendations appropriate for you. Before making any investment or trade, consider whether it is suitable for you a nd 
+consider seeking advice from your own financial or investment adviser. 
+ 
+ 

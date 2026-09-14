@@ -1,0 +1,1204 @@
+  
+Page 1 of 28 
+Mohnish Pabrai’s Lecture at the Boston College (Carroll 
+School of Management) on October 8, 2020 
+ 
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not inte nded 
+to be, financial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not be suitable for you, 
+do not take into account your particular investment objectives, financial situation or needs and are not intended to provide investment 
+advice or recommendations appropriate for you. Before making any investment or trade, consider whether it is suitable for you a nd 
+consider seeking advice from your own financial or investment adviser. 
+ 
+Arvind: Thank you so much as always for being here. We're incredibly grateful. Let's get 
+started if you're ready. 
+Mohnish: Well Arvind, it's a pleasure to be here with you. I always look forward to this 
+session every year. Actually, the best way to learn is to teach. I always come 
+away slightly wiser at the end. Not so  much big because of what I said, but 
+because of some of the interactions and such. I'm very grateful. I'll go through 
+some prepared remarks. They're not rea lly prepared, but they're, let's say a 
+monologue. I have a few slides and then I think we can open up for questions, 
+which is the fun part for me, and we can focus on what I talked about, or we 
+can focus on pretty much anything under the sun maybe other than specific 
+portfolio positions and such. We can take it from there. Is that good?  
+Arvind: Yeah, here it is.  
+Mohnish: All right. In the early 2000, this book came out by Maggie Mahar, actually, 
+Buffett had recommended this book. It's a great book to read. Maggie pointed 
+out that, even though we have these, like if you look at the S&P over a hundred-
+year period, nine odd percent a year that's not the full truth if you will. There's 
+more to that than just that 9%. This is a chart of the Dow from 1896 till now. It's 
+covering about 124 years. You can see that there have been very long periods 
+where end to end, the result has been zero for investors. 
+For example, Famous One is after the crash of 29, it took a good quarter century 
+to get back to the same levels. More recently, if you look at the period from 65 
+to 82, the Dow was like, I think 870 or 865 or so at that time in 65. That's 
+approximately where it ended in 81, 82, 17-year period, when the US economy 
+grew quite a bit. But the Dow was flat. Then 82 to 99 which is also probably 
+before the time of most of the people attending the Dow was turbocharged. It 
+went from less than a 1000 to more than 12,000. Then more recently, from 99 
+to 2011 was flat. Then since 2011, we’ve been on the rise. 
+I'll show you a few more charts like this. But this particular one has some 
+symmetry. The symmetry is that we had a 17-year period, 65 to 82, where the 
+Dow was flat, and we had another exact 17 year period when the Dow did 
+incredible things. The reason we get these periods, and especially I think 17 
+years, is an important number in general, human memory does not go past 17 
+  
+Page 2 of 28 
+years. The reason we see these kinds of long periods of flat markets, and then, 
+similar periods of very euphoric rises in pr ices, if you will, or just rise in prices, 
+is usually like for example, in 1965, stocks were quite overheated. 
+Very high PE ratios high multiples. In 81, 82, they were extremely undervalued. 
+One could argue whether it's undervalued, because at that time, in 81 or so, 
+treasuries were yielding 18%. In the 81, 82 timeframes, you could have bought a 
+lot of blue chips at single digit multiples, Coke and McDonald's, and all kinds of 
+great businesses were available very cheap. Then when you got to 99, 2000, 
+those same businesses were priced for perfection. For example, in the year 
+2000, Microsoft became, for some time, the most valued company on the 
+planet. Cisco was right up there. Both these companies were about 600 billion 
+or so in value, and Microsoft, I think, was making less than 10 billion and such. I 
+think it was at 70 plus trailing earnings multiple. 
+These charts are very relevant to me because I always have great timing in life.  
+I started my fund in 1999 and what a beau tiful time to start a fund. I actually 
+knew pretty soon after I started that. I assumed at that time that there was 
+poetry and symmetry, and history did not just rhyme, but history repeats itself. 
+I just assumed that till 2016 we were going to be flat. I assume we were going 
+to be flat on the Dow on the S&P till 2016 or so. The NASDAQ, I didn't even know 
+when that would come back because that had crashed and burned from 5000 
+down to 1000. I thought that was just done for a very long time. 
+ I started my journey as an investor in 94. That was the first time I heard about 
+Warren Buffett. It opened up a whole big world for me.1994 was one of the 
+years of maximized learning and growth for me. It was a completely new area 
+for me, and I was just like a sponge. I was just drinking from a fire hydrant, and 
+it was great. At that time, life was really good because pretty much anything 
+you did went up. I was running an IT business. 
+I was kind of, around the software business and so on. Some of the investments 
+were tech investments at that time. In that period, I was only running my 
+personal money at that time. There was no fund. In that period, I captured more 
+than a hundred baggers. Unfortunately, there wasn't much of a net worth. For 
+example, one business in India, I put about 10 or $12,000, and I cashed out about 
+1.5 million. Of course, I should not have any regrets about that. That's pretty 
+good. Then there was another business here in the US. The India business was 
+Satyam computers and the one in the US which was a way to kind of ride the 
+internet wave and so on. 
+On the upside the downside company called CMGI. I actually visited them in 
+Massachusetts around that period. That  was about a hundred bagger, which I 
+captured in there. I had actually put in more money. I put in about a hundred 
+thousand. There is also pretty good there, about 10 million. But then, when I 
+was starting the funds in 99 and 2000 and so on, I knew I was really facing these 
+huge headwinds. I knew that pretty much anything you looked at, all the 
+  
+Page 3 of 28 
+popular stuff was euphoric. But actually, the day the NASDAQ peaked in March 
+9th or something, 2000, was the day that Berkshire hit multi-year low. Basically, 
+what was happening is that money was going from Berkshire Hathaway into 
+pets.com, there was that transfer going on. 
+A lot of stuff which was very basic stuff, was undervalued in 99, 2000. But if you 
+were trying to play any kind of momentum game or, flavor of the day or any of 
+that stuff, you very quickly got your head handed to you. Because then, the 
+NASDAQ went from like 5,000 to 1000 next two, three years. The modus 
+operandi I took on when I started my fund was, I really didn't care about the 
+market much, I knew the market was going to give me a headwind, but I said, 
+“How does it matter what these market levels and all that are, or whether it's 
+euphoric or not? If all I do is I focus on buying a dollar for 50 cents, and when 
+that dollar gets to 90 cents or more, I sell it”. 
+That became the cornerstone of how I in vested, I looked for dollar bills that 
+were trading for 50 cents or less, and then as they get to nine, got to 90 cents 
+or more, I was unloading them, which was different from the previous five years 
+where, for example, the company I bought in India, I just took those shares and 
+I actually got physical shares, stuck them in a drawer. My mental model was to 
+never open that drawer. I wasn't even concerned with the multiple, I knew that 
+they had so much tailwinds in terms of growth that I didn't want to really mess 
+with any calculations. I just said, set it and forget it kind of thing. The same thing 
+with CMGI, I could not tell kind of what the upper limits of CMGI were. 
+It was kind of very nebulous, but I was buying at a pretty floor price because 
+CMGI was spawning dotcoms. How many dotcoms they’re going to spawn? I 
+have no idea. What valuations are those going to have? no idea, but it all looks 
+wild and crazy. we'll just keep the mothership that keeps producing these eggs 
+and see where it goes. Eventually got to a ridiculous valuation. Thankfully I was 
+smart enough to sell and move on but in the last 20 years or 21 years, I took this, 
+buy at 50 or less and sell it 90 or more. That actually works quite well in this 
+environment from 1999 to 2011.What I'm trying to say is that, if I look at my 25 
+year or 26-year journey, I was using two different models for two different 
+periods, okay? 
+One of the things I forgot, because it had been so long that I’d been doing the 
+buying at 50 and selling at 90, that it completely left my mind that I’m supposed 
+to, at some point, switch back. Okay? I never really, I just thought this buy at 50 
+and sell at 90 is kind of the way I go through permanently. Let me just go 
+through some of these slides and then I'll continue with the kind of, because 
+the year 2020, most humans want to go from the year 2019 straight to 2021. 
+They want to purge 2020, they want to behave like 2020 never happened. 
+That's how they would like to go through life. In my case, 2020, I would say, has 
+been probably the second highest year of learning after 94. I've had incredible 
+learning and growth this year. 
+  
+Page 4 of 28 
+I'm very grateful for the learning and growth. Who knows if the pandemic had 
+anything to do with it, maybe it did, because I got so much time to stare at my 
+navel. When I contemplate my navel, good things happen. I had a lot of 
+contemplation of the navel this year. Anyway, this is the Dow, and you look at 
+the S and P and it's somewhat similar. It  didn't have the exact 17, but recently 
+till 2013, it was completely flat. Then you look at the NASDAQ and what a 
+beautiful chart. You look at the NASDAQ, and from 1980 to 2000, 20% a year. 
+Awesome. Great. Of course, you can see the head handed to you from 2000 till 
+2003 or something, when it, gets close to a thousand, and then it takes 16 years 
+to get back to the 5,000 level. 
+Then more recently, it's been doing th at 21% or so. The NASDAQ is kind of 
+interesting because it's actually gone through this. Actually, if you think about 
+the NASDAQ, from 1980 to 2000, there was incredible technological 
+innovations in tech and software and hardware and so on. But so was the case 
+from 2000 to 2016. I mean, even till now , there have been incredible changes, 
+but what happened is that, the valuations in 2000 were so high that all the 
+growth and profits and all of that were not enough to get the index back to 
+where it was. A good example is Microsof t. I remember in 2000 I just started 
+the fund. 
+There was a guy who was one of the earl y employees at Microsoft pretty high 
+up, and he had retired, and he said he joined my fund. He said, “Mohnish, if you 
+are ever in Seattle, I could introduce you to some of my former colleagues and 
+some people have left, they may have an interest in your fund, and so on”. I told 
+him, “hey, I'm going to be in Seattle the day after tomorrow, what a 
+coincidence”. he said, Oh, that's great”. We spent a day where he took me to 
+Microsoft headquarters, and I went from one office to the other, he was a great 
+sales guy for me, trying to convince these guys to give me money. I got a lot of 
+commitments and a lot of investors from Microsoft or former Microsoft people; 
+some current, some former, it was great. 
+But I told them all at that time when we were just talking, I said, “Look, you guys 
+have, in many cases, 90% of your net worth in Microsoft's stock and options, 
+and your livelihood comes from the same place. I said, “I hate to burst your 
+bubble, but this is not going to end we ll”. They all told me, “Oh, you don't 
+understand our business. The stock just goes up like clockwork, and we get our 
+options, and we hang on to them, and life is great”. I told them that was not 
+going to be the case. But none of them actually even wanted to hear the math 
+about the 70 times trailing earnings or whatever else. Until 2015 or 16, Microsoft 
+was zero returns. It wasn't just zero returns. 
+It was a very violent ride with a huge drop in the next two or three years, and 
+then another huge drop during the financial crisis. It had been very hard to hold 
+the stock over that period. Of course, finally they've kind of digested that, and 
+now we are back on the upswing. Then we get to the Nike which peaked in 
+1990 and has not yet come back. It's been 30 or 31 years of minus 2% a year. The 
+  
+Page 5 of 28 
+more fun the party, the more extreme the hangover. This was a very fun party. 
+This was a party like no other. At that  time, I think in 1990, and this was 
+anecdotal evidence, I looked it up. 
+They said the Imperial Palace in Tokyo was valued more than all the real estate, 
+I mean the entire state of California in terms of real estate. I actually found that 
+statistic pretty hard to believe. I actually researched it, and it was absolutely 
+true, actually, if you looked at the transaction prices of the properties right 
+around the Imperial Palace, and then extrapolate it to the square footage and 
+acreage of the Imperial Palace, you would get to a valuation that would exceed 
+the state of California. Of  course, that's a ridiculous valuation. We have a 
+beautiful coastline for thousands of miles here in California, and there's some 
+very valuable real estate. That bubble popped, and we haven't come back yet. 
+We'll have to see when we come back. Then you look at the Korean Cosby, and 
+this is another one where if you ignore that 2009 to 2011 period, it's pretty 
+similar to Japan. It's basically been about 30 plus years of pretty much nothing, 
+and especially the last few years and Korea. I mean, if you look at Korea in 89, 
+the Korea economy, as we know, it doesn't exist at that time. I mean, it's an 
+incredible miracle growth economy. I mean, Japan was already an advanced 
+civilization. Korea was yet to have its run. In spite of all that run, Cosby hasn't 
+moved. Actually, Korea as quite a chea p market, it's a place I'm actually 
+interested in and excited to invest in. 
+Anyway, those are the slides I wanted to share. If we look at all of this, in the 
+year 2000, I told you that I had this really terrific growth and learning. When I 
+tell you about what I learned you're going to say, what a dummy, like it took 
+him 26 years to learn this stupid stuff. Well, some of us are dense and it takes 
+some time to learn these lessons. Charlie Munger says, “we are old too soon 
+and wise too late”. But I still feel it's not too late. I mean, I'm 56, hopefully, there 
+is a good three decades of compounding ahead. 
+If I can get two and a half or three decades of compounding life is great. One 
+of the things that Munger has mentioned is, he said that there's no intellectual 
+way to defend it, but he does not sell businesses he owns when they get above 
+intrinsic value. He won't buy them above intrinsic value, but he won't sell them 
+if they are somewhat above intrinsic va lue, even reasonably above intrinsic 
+value. I think if it gets egregiously above intrinsic value, I think he would look at 
+it. But the Berkshire history is that, even  when they looked at, for example, if 
+you look at Coke, which in the year 2000 was at 40 plus times earnings, and it 
+didn't do anything for a long time because it was quite overvalued. 
+They haven't touched their coke position in 32 years. My guess would be, they 
+won't touch it for another few decades. It'll go on for a while. When Munger 
+says that he's willing to hold businesses above intrinsic value, that kind of goes 
+against what I'm trying to do with the 50 cents to 90 cents, right? Because the 
+two are different frameworks. But when I studied that some more, I realized 
+  
+Page 6 of 28 
+that, the key, and this is especially true, I believe if we look at this period, I wish 
+I had made this change. Ideally, if I'd made this change in thinking about two 
+or three years ago, I would've hit the nail on the head perfectly if I'd made this 
+because till 2016 or so, the markets hadn't done a whole lot. 
+Actually, the previous approach worked re ally well in terms of returns and so 
+on. I think I'm probably two or two years or so behind. But in a 26-year history, 
+we can be forgiven for being a couple of years behind on something. A few 
+things kind of came together for me this year. Some of you may have looked at 
+a company called NVR, and NVR is a home builder, I think in Virginia, the mid-
+Atlantic and so on. They have had religion related to buybacks, which has been 
+very intense. From 1994 till now, (other than for a couple of years, in 2008 or 
+2009 when their business was upside down), they pretty much bought back 
+their stock every year. 
+Over this period, they have spent at least a hundred percent of owner earnings 
+on buybacks, and probably over a hundred percent, they were actually even 
+willing to spend beyond their own earnings on buybacks. The NVR business 
+itself, if I look at it from 2000, like the last 20 years, the top line's gone up maybe 
+three, four times. It's not a company that has any intellectual property, it's a 
+home builder. The top line has gone up three, or four times. They've bought 
+back in the last 20 years, 56% of their shares outstanding, over the last 26 years, 
+I haven't looked at it exactly, but it's over 80%. It may be approaching 90% of 
+the share outstanding have been bought back, but in the last 20 years, the 56% 
+reduction in share count, the stock has up 55 times. 
+The company delivered 55 x returns in th e last 20 years against the headwind 
+of the overheated index. That didn't  even matter for a company like NVR. I 
+looked at NVR, and then, I have a friend, Nick Sleep, who's in the UK. Nick had 
+most of his money, I believe he was running his fund in three stocks. It was 
+Amazon, Costco, and Berkshire. I think it was in 2015 or so, he hung up his boots 
+and returned all the capital he was running. I think he returned probably 3 billion 
+or so to his investors and basically told them that in effect, I have three stocks, 
+10 years from now, I'm going to have these three stocks. 
+There's no need for you to pay me ridi culous fees, just go buy these three 
+stocks. Of course, his institutional investors freaked out when they got the 
+money back. I got some calls asking, “hey, we got to mark this money back. 
+What should we do?” I said, “He told you what to do” and then they'd say, “oh, 
+our mandate doesn't allow us to buy stocks”. Then I said, “would you like me to 
+set up a vehicle where I buy those three stocks for you, and then you can pay 
+me a carry.” The life is kind of funny that way. If you look at Nick, Nick also, like, 
+Charlie, once he finds these great comp ounders and he's got a number of 
+models he's using, he's looking to let them run and looking to let them run for 
+decades. 
+  
+Page 7 of 28 
+Actually, in Nick's portfolio, it didn't even matter what he owned as long as he 
+owned Amazon. What I’m saying is that, he didn't have much of an error rate. 
+But even if you're wrong on a few of these but you end up with a few 
+compounders in the mix over a long period of time, or a diehard cannibal, which 
+has a very stable business, results are very non-linear. I operated in a very linear 
+fashion for the last two decades. What I learned this year is two or three things. 
+One thing I learned is, “Hey, Mohnish we are back to that curve going up. The 
+flat curve period is over, okay?” The second is that, you can look at the Berkshire 
+examples, or the Nick Sleep examples, or number of other examples you could 
+look at. 
+Chuck Akre can look at the number of investors, and you'll see that, if they've 
+held these compounders for long periods of time, the results are really good. I 
+mean, it works out well. It would not have worked out well from 2000 to 2015, 
+2016. I think what I was doing worked a lot better in that period because if 
+you're buying these compounds at 50 times earnings, not very many good 
+things are going to happen to you probably. Valuation and price matter, and it 
+was hard to find a lot of compounders in 2000. You could have bought 
+Berkshire, for example, you'd run fairly well for at least 10 years. But for the most 
+part, what worked in that period was this buy and sell, which is tax inefficient. 
+But it definitely was better than holding Microsoft from 2000 to 2016, for 
+example. The period we're in right now, right? What I'm assuming, even though 
+I don't use macro or any of the things, but what I'm assuming will end up 
+happening is what has happened in the past and this party that's underway 
+right now will end when we get to extreme euphoria, and at some point, we 
+will get to extreme euphoria. I don't kn ow if that extreme euphoria comes in 
+2025 or 2030 but my guess is somewh ere between the late 2020s and maybe 
+the early 2030s is my best guess, this  is when we would get to ridiculous 
+valuations again, because the human memory doesn't go back that far. People 
+always say, oh, these companies are different. 
+They don't have an insight into the companies in the past. There's no real 
+correlation. But there are correlations. As long as humans are involved in 
+markets, we will go from extreme underva luation to extreme valuation. If you 
+look at the period from 82 to 99, extreme undervaluation to extreme more 
+valuation, and then 99 to again, 20 15, 2016, extreme overvaluation to 
+undervalued, and then you again start going. I don't believe we will have these 
+boom and bust periods go away. I don't know whether they'll be 17 years long 
+or 30 years long, or 10 years long. We've seen a few examples where they go on 
+for different periods. I mean, if you get to extreme binges you will go for longer 
+periods. In general, I think that's true. 
+For me, the learnings I have been focused on are the compounders. The wiring 
+of Mohnish doesn't allow him to pay up. I'm too cheap to pay up, right? I'm 
+stuck in a world where I have to buy th ings fairly cheap. But there's 50,000 
+stocks in the world. There are stocks  from time to time, which are great 
+  
+Page 8 of 28 
+compounders or great cannibals, and which do get cheap periodically. We don't 
+need too many of them. I mean, for the most part, great compounders are well 
+recognized by the world, and they typi cally trade at premium valuations like 
+they should. But that's not always the case. If we can find two or three things 
+or even one idea a year, which is a great compounder or a great cannibal or 
+both, and we can get it at a reasonable price, then set it and forget it, great. 
+When I look at my portfolio today, it needs some work to get positioned where 
+it needs to be, but it's on its way. I'm actually very happy with the way it looks. 
+I will make a few more changes over the next few years to get it more aligned 
+to where I want it to be as these id eas show up. But the framework is very 
+simple, that I'm not looking for a 50 cent dollar bill. That's not what I'm looking 
+for anymore. What I'm looking for is very long runways at very reasonable prices 
+with a lot of stability. With that, I think we can open up for questions, comments 
+on this subject, or whatever else you'd like to talk about. 
+Student 1: Hi, Sir. I want to ask question. Can you talk about one example of the failure of 
+your investment experien ce that gives you the most impression? I mean, the 
+failure in your investment experience? 
+Mohnish: There are a lot of failures and there are a lot of investing mistakes. I think that's 
+just far from the course. You're not going to be able to go through an investing 
+career without a number of things that don't work out. I mean, in general, what 
+we are trying to do is, we are trying to extrapolate deep into the future, and 
+businesses are kind of living, breathing things. Capitalism is brutal. There are a 
+lot of competitive forces acting a lo t of businesses. There are a number of 
+reasons why things may not work out. If I go back and look at the failures or the 
+businesses that I've invested in that did not work out, probably the number one 
+reason why a number of investments didn't work out was leverage. I had a few 
+zeros and a few near zeros because busi nesses were over-leveraged and they 
+couldn't handle the leverage they had. 
+I've had a difficult time with financials, for example. In the financial crisis in 
+2008 or 2009, there was a company I owned called Delta Financial, which was 
+a mortgage lender that went bankrupt; went to zero. I used to own another 
+company called CompuCredit that didn't go to zero, but we had a significant 
+loss there. I would say that, probably, the area that stands out, and it's not just 
+me, when I built my checklist and I look ed at, what were the businesses that 
+create, invested in, and where they didn't work out well, the number one reason 
+for the investment not working out wa s leverage. I've become a lot more 
+cautious but I'm still not there, in the sense that, I think there are businesses in 
+my portfolio which have leverage, and I wish they had less of it. But that's 
+definitely a lesson that has been well received 
+Student 2: I was just wondering when you' re valuing a company, what are the most 
+important criteria or metrics you use in determining its intrinsic value? 
+  
+Page 9 of 28 
+Mohnish: It depends on the business. I think for different industries and different 
+companies, you have to use different yardsticks. For example, I used to own a 
+company in China called Moutai which makes premium liquor. It’s a business I 
+should have held onto. But in my infinite wisdom, I sold it because of the 50, 90 
+and such. But I think Moutai went up over a four, five-year period, about six, 
+seven times. That's a business where the cost of the product is, I mean, a bottle 
+of the amount I buy due is maybe their cost  is $3, $4 and it goes for like $150. 
+Anytime you have a business like that, you're going to do really well. 
+The $150 in a few years can be $300, because they've got this incredible brand 
+and this massive growth of China backdrop and it's a status symbol to be able 
+to serve Moutai and so on. When you are valuating, when you're looking at a 
+business like that, it's going to be quit e a different analysis than, for example, 
+when I looked at another business we owned I think in 2012, we bought Fiat 
+Chrysler. The calculus was very different, there, we had a star manager, it was 
+a business that was doing 130 plus billion in revenue and a five, 6 billion market 
+cap. Pretty much, if they were able to just, even slightly, right the ship and even, 
+eke out 2, 3%, 4% in profit s, that stock was going to be a multi-bagger. It just 
+depends on each business and each indust ry. The key is that, you have to get 
+to the factors that matter. 
+If you look at a company like NVR, and every year they are taking a hundred 
+percent of their own earnings and putting it into buybacks and you can own 
+the stock, those owner earnings are not coming to you, okay? You’re owning a 
+bigger and bigger portion of the buy, but you're not seeing any cash come to 
+you, right? All that matters when you own a business like that is that, whatever 
+end point you want to look at, the question is, what the shares outstanding at 
+that end point are? What is the stability and cash flow of the business at that 
+point? Because that's how the market would value it. It's a very different 
+calculus of Moutai, it's a very different calculus from Fiat Chrysler. 
+Each business that you're looking at, I think you, you need to look at. The first 
+question, even before you get to all those things is, do I understand the 
+business? Is it within my circle of competence? Can I figure out the two or three 
+variables that really matter? For exam ple, one of the things about the NVR 
+home building businesses is, they don't start building a home till there's already 
+a person who's bought it. They don't build any speculative homes. I go to them 
+and I look at the model and say, Yeah, that's great. I'll buy the home. We sign a 
+contract, they see I have a bank loan, an d that's when they start building that 
+home. Which means that, they do not put any capital in till there's a confirmed 
+sale, right? 
+The second thing about NVR is they do not own land, which is the biggest 
+investment for a lot of builders. They have options on land. They basically 
+believe in just in time manufacturing where they're saying all the factors of 
+production that I need to build this home, I want to be bringing those together 
+as close to the sale point as possible. When you look at a business like that, 
+  
+Page 10 of 28 
+what that means is that, if the business ebbs and flows, which is the number of 
+homes they build, goes up and down wi th the economy and so on, it doesn't 
+really matter as long as their core overheads are low. 
+Let's say, for example, their corporate ov erhead, if they built zero homes in a 
+year is 25 million. If they didn't build any homes, they would lose 25 million, for 
+example. If you can see that the balance sheet can handle that for several years, 
+then you're fine. If they build more than a thousand homes, they'll make money 
+or more than 500 homes, they'll make money. You figure out the metric, at 
+what point they break even, and maybe they're building 5,000 homes a year, 
+and the number of homes they build typically fluctuates between 2000, 5,000. 
+I'm just pulling these numbers out, and I'm not, NVR is a train, (according to 
+me), that left the station. But who knows, maybe in the next 20 years, they 
+prove me wrong, where they'll buyback another 9% of those stock and be 1% 
+shares outstanding. Anyway, what I'm tryi ng to say is that each business is 
+completely different. The key is, can you understand two or three variables that 
+are going to drive the outcome? It’s very  important that you’ve honed in on 
+those key variables. Then usually, the entrepreneur or the CEO running the 
+business needs to be honed in on the same variables. If you have gotten to the 
+point where you can see the business an d visualize it the way the CEO does, 
+then it's typically that you've got the right variables 
+Student 3: Thanks much for being here. In Dhandho investor, you advised the reader to 
+look for low-risk, high-uncertainty businesses, and I thought that was a 
+fascinating construct. But also last year, in this class, I watched the recording 
+and you mentioned that you hate retail. I'd be curious if you could go a little bit 
+more into that analysis and kind of how you see the retail landscape, let's say, 
+over the next decade or two. Then mayb e if you could tie that in with your 
+observation about this period that you see going until perhaps the late 2020s 
+or early 2030s, but specifically, how that low risk, high uncertainty formulation 
+links to how you see retail right now. 
+Mohnish: I hate retail and Arvind loves retail. If you ever want the other point of view on 
+why retail is awesome, you should talk to Arvind. But yeah, I've never liked 
+retail. One of the things about investing is, this morning I wa s on a bike ride 
+with another money manager. He was sayi ng to me that he really doesn't get 
+these restaurants. Like he doesn't get Burger king, he doesn't get Domino’s and 
+so on. I tried to explain some of those businesses to him, makes the bike ride 
+go quickly. But I also told him, I said, you can have a very happy life. Never 
+understanding what makes these, like his complaint to me was that, he can 
+understand Starbucks really well, okay? 
+He understands that the substitution options on Starbucks, for most humans, 
+is pretty limited. Like, if you get to a routine, nowadays we don't go to work or 
+whatever, you get to a routine, you're not going to be switching your coffee 
+every day to a different place or whatever, right? You get to a routine, but you 
+may change the place you have lunch every day, okay? The recurrence of 
+  
+Page 11 of 28 
+Starbucks and the recurrence of Chipotle are not the same. His perspective was 
+that, if I look at Wendy's, there's so many options besides Wendy's when you 
+go to eat, right? I told him, “Listen, whether that framework is correct or wrong 
+in terms of taking a bypass on Wendy's, it doesn't matter. All that matters is 
+what you do invest in. 
+If you unfairly get rid of, because it might be a good business because they have 
+90 plus percent franchise and all that stuff and they just introduce breakfast 
+and so on no issues. We are in a business of no call strikes, okay? You can take 
+entire industries and say, I'm not interested, and there’s no penalty. I have taken 
+this entire industry of retail and in one big lump, just dumped it on the side. We 
+have Arvind, though the other hand, who's pouring through each one, okay? I 
+don't even want to pull through each one. I won't take the whole chunk; I can 
+just get rid of it as quic kly as possible. In fact, even now, I don't understand 
+Amazon's retail business. I don't understand, because I say that the last mile is 
+so expensive, like if I order a $7 item, they deliver it to my doorstep. 
+The cost of that has to be like 10 bucks, 15 bucks just to get it to my door. I 
+mean, all the things you have to go through. But somehow Amazon makes 
+money and it probably works because not everything I order will be $7 and so 
+on. Statistically probably works out, but the thing is that, I don't get it right. If I 
+don't get it, it doesn't matter. I’ll just let it go. The problem with retail, traditional 
+retail, brick and mortar retail is, it's the most transparent of businesses. Sam 
+Walton took advantage of that. Sam Walton spent an incredible amount of time 
+in his competitor stores, and he would constantly, I mean, he would go to any 
+town, any place he was going, he'd always take his team into, and it didn't even 
+need to be the big guys. 
+He would go to little stores, big stores. He was going all over the world, right? 
+One time in Brazil, there's a supermarket and some old guys flat on the ground, 
+they call the paramedics, okay? Then th ey find out it's Sam Walton, and he 
+wanted to measure the space between aisles, and he didn't have a tape 
+measure. He said, I'll use my body because I know how tall I am. What I'm saying 
+is, he was fanatical about the inches between the aisles, okay? Every minor 
+thing. The problem in retail is that, ther e are no trade secrets, okay? For every 
+single thing that you're doing, your competitors can just walk in and get 
+everything. The second problem is, if I look at a business, let's say a business 
+like ADP, payroll processing. How frequently do businesses change their payroll 
+processor? 
+Let me just tell you, I hate ADP. I use ADP, I hate them. Why do I hate them? I 
+look at all the costs I'm paying, and I'm saying, this is ridiculous. It's a bunch of 
+digital stuff they're doing, and why do  t h e y  c h a r g e  m e  s o  m u c h ?  E v e r y  f e w  
+years, I look to get out of ADP, okay? Then I figure out that, yeah, I can do it the 
+middle of the year and what ever, they'll give two W-2s and all that. But really, 
+for the employees, what is seamless is to do it just once at the end of the year, 
+right? It's simpler. You are switching is limited, like one day, okay? Then the 
+  
+Page 12 of 28 
+other guy I talked to Paychex, there's no  difference. I talk to the Paychex guy 
+and I'm not getting any special deal. 
+Then I go to like, smaller guys. In the end, I'm back to ADP. ADP has something 
+very important, in my opinion, the most important thing in business is RRS, 
+(RRS recurring revenue streams). It's  an acronym I just made up, okay? 
+Recurring revenue streams is the Holy Grail. What we want in a business, we 
+want franchises, which are just pounding. The reason retail is such a massive 
+graveyard of all these companies going under is because the customer has no 
+contract with you. I go to a Kmart, an d if for whatever reason, I'm not very 
+happy with something or the other, or someone else offers something on sale, 
+I don't have any obligation to go to them. I can go to someone else. 
+It's totally different from ADP. I mean, ADP, they've got another business there, 
+which is automating these auto dealerships. Every time you go to an auto 
+dealer, they pull up and they give you either your sale contract or your 
+maintenance stuff. All that is running on a, I think this spun off that company, 
+but that'll all based on ADP All of th ese businesses that ADP had with these 
+recurring revenue businesses. Those businesses have another one that is spun 
+out Broadridge, we send out all the filings all these companies, public 
+companies that send out to the investors and all that. Broadridge gets paid per 
+investor, whether they send it digitally on in the mail. What does it cost them 
+to send up digitally? Zero. Approaching zero. But they're still charge. It's a great 
+business. 
+What I'm trying to say is that most retail doesn't have those attributes, okay? 
+Now, there are retailers. For example, when I take this whole industry and 
+dump it, what happens is, when I dump  the industry, part of the dumping 
+includes Costco, part of the dumping includes Amazon, or even Walmart, I 
+dump all of them, right? Th en I look at the stock char t on these, and it looks 
+great, but the thing is, even when I look at Walmart, I say it's a business that 
+does well, but they need to be so g ood. Costco needs to be so good. Now, 
+Costco has so much goodwill with its customers and so much that they do for 
+their customers, that Moat is very solid. 
+I think I understand Costco’s moat, but I understand it at 40 times earnings, I 
+did not understand it at eight times earnings or whatever, right? It's okay, that 
+train has left the station, there’s no problem, there are a million trains yet to 
+come. What I find is that, when I look at these businesses, Home Depot and 
+Costco and Walmart and all this stuff, they are very good businesses. But what 
+is hidden beneath the surface is, these businesses require incredible execution. 
+They have to, every day win back the loyalty of their customers. Because there's 
+constant erosion taking place from new entrants, right? I mean, Amazon comes 
+in and no matter how well Walmart executes, it's a paradigm shift. It's difficult. 
+Walmart has to kind of change the way it is. 
+  
+Page 13 of 28 
+I think I find retail very hard. In general, I'm not interested. One of the things is, 
+if you look at someone like Buffett and look at someone like Berkshire 
+Hathaway. Berkshire Hathaway has made lots of retail investments, okay? They 
+bought many jewelers, and they bought many furniture guys. Now, if you look 
+at Warren's track record, when you invest in financials or when you invest in 
+banks or anything like that, he's batting a thousand. It's a flawless record. I've 
+never seen him lose money investing in a bank. He's really good at it. But in 
+retail Berkshire, I mean, they don't talk about it because he doesn't want to 
+have the managers lose all motivation. But it's a graveyard, basically. I think 
+every furniture operation they bought other than Nebraska Furniture Mart, did 
+not work. Every jewelry operation they bought other than Borsheims did not 
+work. On and on. They made a lot of forays into retail, and by and large, they 
+didn't work. Now, it didn't matter to Berkshire because by and large, they've 
+been small relative to the size of Be rkshire, and they ca rry a lot of those 
+businesses, and it's okay. But it didn't work so well. 
+Arvind: To clarify, Mohnish’s reference to my retail love is really a Costco love. 
+Mohnish: I think Arvind goes beyond Costco. Costco is like a corporate Affair. Costco is 
+not just an affair too. Costco is like g one off the chart, but the others are still 
+there. 
+Arvind: Costco is more, 
+Mohnish: There's still some love with the others. 
+Arvind: Costco is more like my wife. There's just my wife and I 
+Mohnish: Make sure she can't hear that 
+Arvind: I did that 
+Mohnish: To Costco. 
+Arvind: I think she may love Costco  
+Mohnish: More than you, than me.  
+Arvind: All right, more than me. But did I see you raised your hand as well. 
+Student 4: Mohnish, thank you for being here. As a South Asian immigrant, obviously, I 
+enjoyed the Dhandho investor, so thanks again. I was curious, you mentioned 
+earlier in your remarks,  50,000 stocks. You clearly have breadth across 
+geography and industries and business mo dels. Where do you start, sort of, 
+what is the top of funnel for you especially since it seems like, with the 50 cent 
+and exit at 90 cent strategy, you have form velocity and po rtfolio than many 
+other value investors. I've sort of read about and spoken with. 
+Mohnish: Well, hopefully that Velocity is going to zero soon. That's where we want to get 
+to. When Buffett is asked that question, he says, start with the A's. Okay, But I'll 
+  
+Page 14 of 28 
+try to give you a better answer than Warren. There are some hacks. 50,000 
+stocks is a lot. Actually, when Warren says, start with the A, he's not kidding 
+because he went through the Moody's manual, every page of it and they start 
+publishing the Moody's Manual several decades ago. I bought a few of those 
+on eBay just to get a feel of what the Messiah used. It's pretty dense stuff and 
+got like four or five businesses per page, very small fine print. He went through 
+all that. He and Li Lu did the same thing. 
+Definitely, you can put your nose to the grindstone, and you can start pounding 
+through these businesses. I tried to get Warren interested in Capital IQ, one 
+time in his office, he was going through the Japan Company handbook. I said, 
+“Warren, if we get you to splurge on capi tal, like you can run screens and this 
+and that”. I even got to showing one of his assistants how to do all that and 
+everything. He's not going to spend that money. He wants his $50 book, and 
+that's all he wants. Anyway, it's worked fine for him. But you can hack this a 
+little bit. One way I hack it is, you can look at what other great investors have 
+bought. 
+You can make a list of investors, and it's interesting to actually categorize them. 
+If you look at someone like Chuck Akre, you'll see a certain pattern to what he 
+buys. You look at David Tepper, you'll see some different patterns, or you look 
+at Jeff Urban and so on. You can find different patterns with the different 
+investors. DataRoma does a good job of giving you a whole bunch of investors 
+and what they own and such, pretty easily the price is zero. That 50,000 share 
+can take the 50,000 stocks down by mo re than 90%, maybe even 98%. Okay? 
+The second hack you can do is, the first question I ask myself when I look at a 
+business, is it within the circle of competence? 
+You can winnow that list in different ways. You could run screens for lope or 
+whatever, but I think that, looking at other great investors is a good filter, 
+because they already gone through one filter, especially if they’re larger 
+holdings. Then the second question you ask yourself is, is it within your circle 
+of competence? That'll take out quite a few businesses as well. If you're like me, 
+like, anything retail, gone, anything financials, gone, anything Pharma, gone, 
+healthcare, gone, all of that. I can take out a lot of stuff relatively quickly, and it 
+doesn't matter if I'm doin g this mass stuff and there's good stuff going away, 
+there's no penalty for that. There's infinite amount of good stuff, so you can 
+keep throwing away a lot of stuff. Then you get down to some things that strike 
+your fancy, or you get interested in, and then you go deep. 
+Arvind: Feel, feel free to jump in. I saw, Rusty, Sam, all at questions. 
+Sam: Take us back a couple of questions, but to kind of piggyback off what Frank had 
+mentioned, as far as valuations, a lot of your investments are emerging markets 
+overseas where accounting standards aren't exactly a thing. Management may 
+be a little bit more difficult to get in touch with. What sort of extra legwork do 
+  
+Page 15 of 28 
+you have to go through in order to make your investments arrive at an 
+investment decision? 
+Mohnish: I think most of the international stuff, I think I've usually had to go see the 
+business and kick the tires and assess the management and so on. It's definitely 
+involved more work. But it's a lot of fun work, actually. I enjoy that. You do have 
+a few more layers to peel as you go from…, I mean, one of the things I don't 
+have to worry too much about is that I think the odds that I would lose money 
+in the US on an investment because of fraud approach is zero. They make the 
+headlines here and there, the Enron and stuff, but the odds that something like 
+that enters your portfolio is very low, especially if you're doing research, work 
+on it and you understand the business. 
+I think something like Enron would be just beyond my understanding, a pretty 
+easy pass. If I can understand Amazon, Enron is very far from that. Basically, I 
+think you have a little more work to do, but you also have more reward in the 
+sense that, sometimes the tailwinds can be a lot stronger.  I think, in general, 
+entrepreneurs around the world, most of them are trying to make a go at it 
+fairly honestly. I think that's a general trade across, and yeah, you do have to 
+kind of check that box and test it a little carefully, but you can get there. Not a 
+problem. 
+Student 6: Mohnish, thank you so much for doing this. This is so much fun so far. I have 
+two quick questions for you. You mentioned earlier that you've learned a lot 
+during this pandemic. I was just curious to learn more about like, how you 
+managed your portfolio during the pandemic, or are managing your portfolio, 
+and what have you learned so far? My second question is, we had someone 
+from Fidelity last week and that portfolio manager told us that a lot of people 
+currently are investing in growth. I'm just wondering if value investing is dead, 
+or do you still believe that value investing has a place today? 
+Mohnish: Yeah, I think regarding the pandemic, so couple of things. I think in the March 
+timeframe, when this data was kind of coming out about how big this was 
+going to be and the shutdowns were st arting and so on, I was trying to 
+understand what kind of impacts it would have on the existing portfolio. The 
+thing is that capitalism is very brutal, and in the best of times, most businesses 
+are very fragile. Most businesses cannot withstand the kind of shock of 
+shutdowns and stuff. Most businesses cannot handle that. It's really hard. When 
+I looked at my portfolio, for example, I owned some real estate companies in 
+India. These businesses, they don't have much leverage. 
+Their sales velocity was going to go down, but I didn't have any concern about 
+stability of the business. I say, Yeah, they'll have less sales, and they've got 
+some, poppet overhead, and can they handle that? I said, Yeah, it’s not a 
+problem for them to handle the overhead. I was not concerned about those 
+businesses. I got quite concerned about one of our companies, Fiat Chrysler, 
+because the car business is so much operating leverage. When you shut down 
+  
+Page 16 of 28 
+a car plant, I mean, you've taken that whole thing in reverse. I actually could not 
+see, I was very concerned about how this is going to affect them, how long it's 
+going to last, et cetera. We completely  exited the position and I exited at a 
+significant discount to where it was trading before the pandemic. 
+E v e n  n o w ,  i t ' s  c o m e  b a c k  i n  a  m a n n er that was different from the way I 
+expected. If I had done nothing, I would've been better off, but I couldn't see it. 
+Its uncertainty levels are way too high. I had seen that business have trouble in 
+the past. We didn't take a lot of actions in the portfolio. We took some actions. 
+But on the flip side, what also happene d at that time was, there were great 
+opportunities. Especially towards the end of March when the markets were 
+tanking, we were able to put money to work. I made two investments and they 
+have done very well. I'm very happy that we made those. The pandemic, there's 
+more clarity about it and it's still going to last for quite a while. 
+I think that it'll take a while because we need to get to the point where, in effect, 
+people have some kind of certificate or passport or something which says, I'm 
+vaccinated and whatever, and such. For business to come back and business 
+people to have meetings, everyone needs to have that sort of thing in place. 
+That'll take a while. But we are already finding in California, for example, the 
+freeways are getting clogged up and things are coming. This is really stressful. 
+They have nots, and it's really, unfortunately widened the gap between the 
+haves and have nots. It's a very sad thing in terms of what's happened with the 
+pandemic, in terms of who it has impacted, growth and value are joined at the 
+hip. 
+There's no difference. All intelligent investing is value investing. If a company is 
+growing, all that means is that you've got more coupons in the future, and 
+they've got higher coupons, and then you discount them to whatever rate. It 
+doesn't matter whether those coupons ar e growing at 20% a year, or they're 
+growing at 0% a year, or they're declining 5% a year, all three cases will give you 
+a valuation on which you can invest. You're better off having high return on 
+equity and high growth in general. That's really what's going to and long 
+runways with that, but I don't particularly see it as, one is different from the 
+other. I think if I have a choice, I want to invest in growth. Anyway, I told you 
+that, the 50 to 90 cents is not of much interest. I want to get to the long 
+runways and such, but I want to get to the long runways without paying up too 
+much.  
+Student 7: Thank you for joining us today. My question for you relates to one of the points 
+that you made in your book that when I read it a couple of years ago, I thought 
+was really brilliant, which is that embedded options tend to be mispriced. Since 
+I've read that, it's something I've been on lookout for, for a few years now, and 
+one of the things that I've observed is that, actually these things tend to be 
+understood at least in the businesses that I've looked at. I'm wondering 
+whether you think that's a concept that now tends to be more widely 
+  
+Page 17 of 28 
+understood by the markets, or whether you still find options that are in fact, 
+mispriced. 
+Mohnish: You're talking of the optionality in a business, right? 
+Student 7: Exactly. 
+Mohnish: I think that persists always; I mean markets don't like this kind of wide outcome 
+ranges. I think what markets are really good at is, they want to see a cookie 
+cutter, and they want to be able to s ee what that cookie cutter can do over a 
+long period of time, and they want a straight line, right? If I have a business like 
+Costco that gets as much as a cookie cutter, you can imagine, right? They have 
+a pretty well-defined model. They do in novate within that model, but they 
+know the path they're going down. I would say optionality on Costco would be 
+like, they're in such a small number of countries they could expand that quite 
+dramatically. 
+Mohnish: China just started for them and so on. But it's also richly priced. I found out that 
+what markets don't appreciate, (because most markets risk participants did not 
+run businesses or have not run businesses), is they don't appreciate the 
+messiness of the real world, and they don't like the messiness of the real world. 
+That actually gives an advantage to an investor who appreciates that. The 
+reality we know in businesses is that things don't go in a straight line, you're 
+going to have ups and downs, and businesses will open up brand new things 
+that you never imagined. Things that were not part of the model, like Starbucks 
+starts reserve, right? They kind of go higher end on the coffee or even starts 
+serving alcohol, for example. If those kinds of tangents work, it changes the 
+paradigm, but the market's not willing to recognize those typically because 
+they see a lot of uncertainty with those. If you can figure out optionality of the 
+business and you can handicap the probabilities of the option, or you're not 
+paying for it at all, you're paying for the core business, you're not paying for the 
+optionality, then those can be really good absolutely. 
+One of the things I didn't appreciate bu t came out later was, like when we 
+bought Fiat Chrysler in 2012, I was just looking at this as a car business with a 
+great CEO who was going to right the ship. If you right to the ship, they would 
+make a few billion dollars a year, and the market cap would go to four or five 
+times. What I did not appreciate about Fi at Chrysler was that, I knew that, for 
+example, Ferrari was embedded inside th e company. But at the time when I 
+made the investment, Ferrari was making less than 150 million a year. I said, 
+“Okay, you can give this a 15 multiple or something, and it's got maybe, a couple 
+of billion of value or something. What I was looking at is that, can this 5, 6 billion 
+get to 30 billion, for example, right? 
+I could see that the core business could get to that, right? But I just dismissed 
+Ferrari. And as it turned out, we paid ab out $16 a share for Ferrari inside Fiat 
+Chrysler, and it went to 190 or 200, ri ght? We eventually got one third of the 
+value. It did way better than the rest of the other pieces. They had several parts 
+  
+Page 18 of 28 
+businesses, which they got rid of and sp un out and so on. There was a lot of 
+stuff that came out of Fiat Chrysler, which was not part of my original analysis. 
+I just said, “Okay, we've got a gifted manager and he's going to make sure that 
+we get good value from these pieces”.  The optionality there was not even 
+something I was focused on, but then, after a few years, I realized there's a lot 
+of different pieces here that I haven't accounted for, and that worked out very 
+well. 
+Student 8: You've talked about long runways, and I was just wondering, how do you find 
+long runways and where do you see long runways 
+Mohnish: For on long runways is Arvind, that's  what you need to do. You need to put your 
+arms around Arvind and ask him.  
+Arvind: It's hard to do that in a COVID world. 
+Mohnish: He's a Mr. Long runway guy, his fu ll name is Arvind Long runway Navaratnam, 
+it's his middle name., I think that it's a really good question, and I think the best 
+way I can answer that is that if you make 10 bets, carefully selected, all with 
+long runways at leads, your perception that they have long runway. One of the 
+problems with long runways is that I already told you capitalism is very brutal. 
+I mean, there's all these forces comi ng from left field and center and 
+everywhere else, trying to chip away any competitive advantage, right? People 
+look at ADP and they look at that incredible moat and they want to constantly 
+hammer against that moat or people look at Visa and MasterCard, look at that 
+moat, and they want to keep going against that moat. 
+Many times, they will succeed. They will succeed at collapsing that boat. That's 
+the nature of, I mean, if you look at dominant businesses 50 years ago, a 
+hundred years ago, even 30 years, ago how many of those are dominant today? 
+I mean, most have gone by the wayside because capitalism is really hard. But if 
+you make eight or 10 bets and you're careful on the valuation and what you're 
+willing to pay, and you are convinced that the modes are quite resilient, even if 
+you're wrong 40% of the time, you will still end up very wealthy. 
+You are not going to bat a hundred percent on the long runway game. I mean, 
+look at, Warren and Charlie. All they're doing is trying to buy long runways. But 
+if you looked at every acquisition Berkshire has made, and you equal weight 
+every acquisition, I would say easily a third have not worked. Right now, if you 
+dollar weight it, probably 80, 90% have worked. But if you equally weigh it, a lot 
+of the decisions didn't work. These are th e guards of investing, right? We are 
+going to have mistaken, we are going to have things that we think are going to 
+work and they won't work. Bottom line is  that, if you make 10 bets and each 
+one is 10% and one of them becomes a 30 bagger, and three or four go by the 
+wayside, and some of them are five or 10 baggers over 20, 30 year period, you 
+do just fine. 
+  
+Page 19 of 28 
+Student 9: I have a question kind of on that topic about moats. When you're assessing 
+moats, is it more conceptually or do you do it more analytically? How confident 
+in a moat do you have to be, to ultimately invest in that company? 
+Mohnish: What should be really obvious to you? I think you should be able to look at it, 
+and you should have very high degrees. Let's say we look at a business like 
+Starbucks, right? I mean, if you were investing in Starbucks, the big question is 
+that what does this company look like 20 years from now, or 10 years from now? 
+Is the moat intact? Are people still going in? Who are their competitors at that 
+point? These are the questions you need to answer, how big the runway is, how 
+far they can go, what can happen. Ther e's a range of outcomes, but you need 
+to be convinced, probabilistically, that most of that is skewed towards a great 
+answer. If you look at a business like Chipotle, for example, a lot of people will 
+look at Chipotle and say, what's the difference between Chipotle and Taco? 
+I think there's a difference. I think ther e's a big difference between almost all 
+Mexican restaurants and Chipotle and, in my opinion, they've widened and 
+deepened the out. I mean, their app is great. They have, in the pandemic, done 
+a really good job with keeping the business profitable with deliveries, and all of 
+that. I mean, the dining rooms are shut down, but they've been able to survive 
+all that. The infinite customization you can do on it. There's a number of things 
+there, but again, the question would be, when you look out 10 years, 15 years, 
+what does that business look like? Does it become Chipotles all over Europe, all 
+over Asia, all over Latin America? Does that happen? What are the probabilities 
+of that happening? 
+Who else has entered a space? Will they  keep executing? What will be their 
+ROEs in the future? There's a whole bunch of things that come up. I think what 
+I'm saying is that, you've got to start out with admiring the business and the 
+mode. Like you've got to intrinsically know that, even before I look at any ADP 
+numbers, I know it's a great business, okay? Even before I look at any visa 
+numbers, I know it's a great business, right? First thing is, you've got to mentally 
+have a kind of framework in your head that tells you, yes, I like this business, 
+and I think it's great. I think that, busi nesses like Chipotle are harder because 
+they don't have recurring revenue and all these things. I think some businesses 
+like ADP may have more resilience beca use, even if there's a disruptor, 
+businesses are not going to be wanting to change payroll quickly because it's 
+such a small portion of their costs. 
+Like, for me, messing around with payroll makes no economic sense. It just 
+irritates me. I go down these irrational paths but basically, for most businesses, 
+it's not worth the time of day. Its payroll is running fine for leave it alone, right? 
+Those businesses have a much higher degree of resilience, in my opinion, than 
+a Chipotle, right? Because, there, yo u got to keep earning the customers 
+confidence and trust every day and so on. I think moats come in so many, 
+widely different shapes and sizes and all kinds of things happen. Boeing, what 
+an incredible moat and then yeah, hell breaks loose. I mean, if you looked at 
+  
+Page 20 of 28 
+Boeing three or four years ago, you would say, this is unbelievable. They were 
+this huge pipeline. They don't produce a white tail. I mean, just like NVR doesn't 
+produce a home that's not already sold, Boeing doesn't produce an airplane 
+that isn't already sold, right? There's no white tails, and they've got a big auto 
+book, and they're a duopoly, and they'v e got a great defense business and all 
+that. It's just an incredible business. But look where we are,  such as life. 
+Student 10: Thanks for being here too. It's really great to have you here. My question is more 
+on the selling side. You talk earlier about the 50 to 90% and you sell 90% 
+internship value. Now we're talking ab out long, wrong runways, but you keep 
+on looking for new business opportunities, I'm sure as well. At what point do 
+you say, I thought this was a good business. I think it has good growth 
+opportunities, but I got this business here  that I'm looking at, and it looks like 
+it's more valuable. How do you go about this part probably selling off, I don't 
+know how you do it, but do you sell good positions for what you think might be 
+even better? 
+Mohnish: No, it's all opportunity cost. I thin k those are why you get paid the big bucks. I 
+think that, you have to continuously do that. But , it's a difficult exercise 
+because the mistress always looks hotter than the wife, and actually the wife 
+may be hotter, but you think the mistress is hotter, so you got to make sure 
+that the mistress is actually hotter, not just that, you think it's that way. 
+Anything that we know really well, we also know all the blemishes really well, 
+right? This new shiny thing on the side, we don't know all the blemishes yet. 
+That's one of the things is that the greater your familiarity with the business, 
+the greater your familiarity is going to be with all the negative issues, like, 
+Arvind’s probably really familiar with all the negative issues with Costco. Okay. 
+He knows those really well. Even, I can't believe Costco has anything negative. 
+Student 10: Long 
+Mohnish: I'm sorry, what? 
+Student 10: Long lines? 
+Mohnish: Oh yeah, long lines. Yeah. Like every time I pass a Costco gas station, I think I'm 
+in some socialist country. I think I'm in Russia 30 years ago or something, I'm 
+thinking why in a capitalist society do we have these long lines for gas? But 
+that's the way it is, such is life. Yeah. I think you have to be careful that you don't 
+fall into the mistress trap. And as long as you are genuinely looking at 
+something that is better than what you own, that has better value than what 
+you own. You consider the tax implications and all of that. I have a good friend, 
+Guy Spier, and another friend of mine, the way he describes Guy is, he says he 
+has the highest return of any investor on the planet based on effort expended. 
+Okay? On every hour of effort expended , Guy is off the charts. The thing with 
+Guy is that, and I bounce a lot of ideas off it, anytime I bring up any new idea to 
+him, it doesn't matter how good it is, he is not changing anything. I tell him, 
+“Guy, listen, you've got Nestle. Okay, Nestle has done 30, 40 times earnings, 
+  
+Page 21 of 28 
+whatever, done. Okay? We’ve got this thing at three times earnings, which has 
+got this massive runway. 
+Can we please sell Nestle? Please. I get nowhere”. He's not willing to make any 
+changes, okay? Then after I keep badgering him over and over, he'll buy 2%. I 
+mean, he loves long runways, okay? He loves deep moats. He loves all these 
+things. I told him about Moutai, I mean, great brand, blah, blah, blah. Also I said, 
+“this is it, Guy, I know you don't like all the shit I bring to you, but this is like a 
+real runway”. He says, “I'm not buying any Chinese company. I'm not going”. I 
+said its fine. There’s no issue there. 50% pay out all this stuff, good governance, 
+blah, blah, blah. Okay? He said, I'm not going there. Then I kept badgering him, 
+and I think he put like a hundred thousand dollars into it just to get me off his 
+back. 
+Then after a few years, we went to China together, and we visited Moutai 
+headquarters. By that time, it's now gone up about five times. Then the whole 
+trip was, “Oh, I missed this. Oh, I should have bought this”. I said, “Do you 
+remember all the calls I made? I was pounding and I couldn't get through”. Oh, 
+yeah, I don't know what was happening. This is such a no brainer. This is so easy, 
+blah, blah, blah. But, actually in action is what saves Guy. The best thing that 
+you can do is, don't make switches if it's 60:40. Don't make switches if, this is a 
+little bit better, and I'll make the switch. No, make the switch hurdle really high. 
+Like the mistress has to be really hot. Okay? Not just better than the wife. 
+They're all better than the wife, but really hot. Then you're fine. 
+Student11: Question about competitive advantages. You have a role of only investing in 
+copycats as opposed to innovators. My question is, do you believe that there's 
+a first mover advantage? 
+Mohnish: That's a really good question. I think that one of the mental models, which has 
+served me really well, and it's a weird nuance of humans. I still don't understand 
+why humans are this way, but they are this way. Humans are bad at cloning and 
+copying. Most humans and most companies almost think that it's beneath 
+them. What that does is, it opens up a significant window of opportunities that 
+would not exist without it. Obviously, we are right on the innovators and the 
+innovators grow and scale and whatever we do really well. If we look at a 
+company like Microsoft for example, Microsoft is the ultimate cloner okay? 
+After they came up with the basic comp iler in 1976 in New Mexico, everything 
+has been copied or stolen from then on. They're not even very good at cloning. 
+Like, when they tried to clone the Mac, it took them like 15 years and 10 versions 
+to get there.  Excel was copied from Lotus, and Word was copied from Word 
+perfect. PowerPoint was acquired, access copied Oracle and Sybase, and they 
+finally gave up on search and they kind of went with Google. But the acronym 
+for it is Bing, but it's not Google. They are not only a good cloner, many a times 
+they fail, like forever they tried to clone Quicken and they came out with 
+money, and they were never able to get traction there. 
+  
+Page 22 of 28 
+They put a lot of effort into search. They could never get traction there. Even 
+with being a bad cloner, like for exam ple, now Microsoft has teams, right? 
+Teams copied slate, right? They will probably kill slate because they're so good 
+at eventually getting these things working. Then eventually, the incumbent has 
+a problem. If you look at something, when someone like Walmart, for more than 
+10 or 15 years after Sam Walton founded Walmart, for at least the first 15 years, 
+there was no innovation. Every single thing about Walmart was copied from 
+Kmart and Sears. They just lifted that model. The reason why Sam Walton spent 
+all this time in all the competitor stores is that he had no ideas of his own. 
+He just looked at what other people are doing, and he copied the best of what 
+he could find. If you look at Walmart, I mean, what is the intellectual property 
+of Walmart? After 15, 20 years, they got a bunch of competitive advantage with 
+scale and logistics and all of that, but in  the first 10 or 15 years, there's no 
+advantage. All they're doing is execution. It's great execution on a base model. 
+If you look at Costco, everything about Costco was copied from Price Club. 
+Someone asked Jim Senegal, what did you learn from Sole Price? He said, it’s 
+the wrong question. There's nothing I know that I didn't learn from sole Price. 
+The whole Costco model, everything about it. Actually, the cloner became 
+better than the original. Like Walmart became better than Kmart and Microsoft 
+became better than so many other companies. I think that, yes, you can invest 
+in the innovators, but I think that's much harder to get right if some businesses 
+are consistent cloners and they're good at it. I don't think markets recognize 
+the power of great cloning. If you can identify, I think even at some level, if you 
+look at someone like Starbucks, he looked at what was happening in Italy and 
+he said, I think this would play in Peoria. He took that Italian cafe and brought 
+it to Peoria. The funny thing is, now Starbucks is scaling in Italy. Who would've 
+thought that they can scale in Italy, but they're scaling in Italy. I always feel that 
+if you can identify a business that is good at cloning and has kind of embraced 
+it the way NVR embraced the buybacks. That's a great mental model and 
+advantage to have in your arsenal.  
+Student 12: Well, I really appreciate it. I was curious if you could talk a little bit about how 
+you document your investing process. Earlier you mentioned a bit of a checklist 
+and you mentioned a little bit about focusing and really honing in on those two 
+or three variables that you really have to understand. Maybe just talk about that 
+checklist. Do you write things down? Do you do Excel models or, what gets put 
+to paper and what's the output along the way from idea to purchase? 
+Mohnish: For most of my career, I functioned alone. Because I had another entity and I’ve 
+got horsepower, I've got two guys who help me and work with me. I have never 
+built Excel models or anything like that. They will do that sometimes and such, 
+but the precision can lead you astray because businesses are not linear, and 
+they don't grow 15% every year and so on. I think that model in your head, where 
+you're able to figure out kind of what is going on and how this business works 
+and how it makes money, and then you go deeper and see if all the facts check 
+out, the checklist comes in before the investment. The main benefit the 
+  
+Page 23 of 28 
+checklist has is that we are driven by greed. When we encounter some new 
+shiny investment ideas, we can be enamored by it. The checklist kind of puts a 
+lot of cold water and a lot of stuff. It asks a bunch of questions, that’s the big 
+advantage it has is that many times I've not even thought about those 
+questions. I think I've thought about every side of it, but when I actually go 
+through the individual questions, like I think our checklist are about 160 
+questions on it, and I'll find that I don't know the answers to 10 questions, which 
+means that I have more work to do. That's the big advantage. It identifies and 
+holds in the analysis and then I go back and do the work to be able to answer 
+those 10 question s. That's where the checklist come s. It's really just trying to 
+make sure you've thought about things in a complete manner. What it also 
+shows you is, there are no businesses, maybe other than Costco, that go 
+through a checklist with no blemishes. Like everything is fine. Every business 
+has issues, and those issues will get highlighted by the checklist. The question 
+you got to decide is, is this issue going to be the one that does the NEP, right? 
+You got to make a judgment call on that. I think that it's part of art, part of 
+science, so you can look at the areas where the business has vulnerabilities and 
+issues, and then you got to just see, hey, does it still make sense when I know 
+these are the areas where the business ma y have difficulty? Does it still make 
+sense?  
+Student 13: Hi Sir. Thank you for your time. I saw one of your sp eech, and you mentioned 
+that you invested in one steel company that is unvalued, and you made over 
+100% returns in just half and one year. What tools do you use to find out a 
+company that is unvalued? You read the balance sheet, or you have other tools? 
+Mohnish: We made a 14:03 4X on that company in a couple of years. That was a company 
+called IPSCO. It was a Canadian steel company. There, I think, it was a relatively 
+simple thesis where the stock was in th e low 40s and they had no debt. They 
+had about $15 a share in cash, and the next two years of contracts that they had 
+on their books was going to give them abou t $15 a year in earnings. It's a very 
+high uncertainty business with a lot of fluctuation in earnings because they 
+made tubular steel, which went into pipeli nes. If a big pipeline is being built, 
+then they have contracts and there could be no contracts after a couple of 
+years, right? The situation was, I'm paying $45 a share and I fast forward to two 
+years, I have $45 on the balance sheet, and all the plants and equipment and 
+inventory is free. 
+I said that doesn't make sense. The business has to have a value over $45 
+because all those things can be liquidate d for some price if you're not a going 
+concern. If you're a going concern, it has even more value than a liquidation 
+scenario. I said, “what I'm going to do is, I'm just going to buy this company and 
+own it for two years and just see what the market does to the price”, because I 
+said, “let the $30 come in and let's s ee what the market does”. I think about 
+eight or 10 months after I bought it, the company said that they have one more 
+year of $15 a share in earnings. I said, “Oh, so now we are at $60, right?” Because 
+  
+Page 24 of 28 
+we got three years or $15 and the stock went to, by that time, it had gone to 
+$70, $80 a share at that time. 
+Then it was inching up to maybe ab out $90. Then a Swedish company came 
+and offered to buy them for $160 a share in 2006. I didn't even wait for the deal 
+to close. The stock went to like 150 something and five minutes after that I was 
+out of there. That was fine. If you look at Value Investors Club and you read 
+write-ups there, that's a good place to understand and find businesses. If you 
+have a subscription to some zero or you're a member of some zero, that's 
+another area where you can get some of  this. Sometimes there are articles 
+seeking Alpha and so on. There are a few different places. You can look at Data 
+Roma, and then you can try to reverse engineer, why does David Tepper own 
+this, or why does Haken owned something and so on. 
+You can try to reverse engineer some of those and take it from there. Different 
+things happen, last year I visited a company in Turkey, in Istanbul, they have a 
+few different businesses, but they have a bunch of warehouses. They have like 
+12 million square feet of warehouses, and they're the largest warehouse 
+operator in Turkey. Their tenants are all like, IKEA, car for Amazon and so on. I 
+mean, they've got really blue-chip tenants, and the market cap of the company 
+was less than 30 million dollars and the liquidation value was somewhere 
+between maybe three, four hundred million to a billion dollars. Once, I had 
+kicked the tires enough to know that all those things were real, we spent an 
+afternoon going to all the warehouses and so on. We loaded up even better 
+than IPSCO, right? 
+If I can buy an asset for 30 million, that, on a bad day, is worth 300 million, 
+Turkey has a lot of challenges, but in many cases, micro will trump macro and 
+at some price, your risk levels go down. That business has gone up about seven, 
+eight times in value in the last 13, 14 months, in spite of the pandemic and all 
+that. What I'm saying is that, you keep poking around and once in a while, things 
+hit you in the head like a two by four. When they hit you in a head, would say 
+"what was that?” When you're really sh ocked and surprised, that's when you 
+act. It was like, if you just say, Ah, yeah, okay, whatever. Just ignore all of those. 
+Look at the ones that totally blow you away, and then go for those, shock it all.  
+Student 15: I look in your book, you talked a lot about the Kelly criteria, but you kind of say, 
+you never go full Kelly or anything like that. How much of a role does it play in 
+your capital asset allocation decisions? Is it more of a guideline or hard and fast, 
+like do the math out kind of thing? The follow-up would be like, do you apply it 
+to your entire portfolio or just your dry powder? 
+Mohnish: If I ever do a revision to The Dhandho Investor, I will take out the Kelly 
+discussion entirely. In fact, I will even say that it doesn't apply to investing. I 
+don't use the Kelly, and it was a mistake to put in the book. The main issue with 
+the Kelly criteria is that, it works really well if we get to make a bunch of similar 
+bets. Like if we do a hundred coin toes, where heads is 51% and tails is 49%, and 
+  
+Page 25 of 28 
+I keep betting heads, you can use that formula to figure out if you have a 
+hundred dollars, how much you should put on each bet? It's good when you 
+get an opportunity to make many bets, which are very similar in odds, but it 
+doesn't apply. Like when I talked about  the company in Turkey or the steel 
+company, whatever else. I mean, those are investing we are making one bet at 
+a time, and we don't have the luxury of making a second or third bet like that. I 
+would just ignore Kelly completely. I know it sounds exciting and everything, 
+but it's not relevant. 
+Student15: How do you manage the balance between diversification and then also you 
+talked a lot about staying within y our sugar of competence. How do you 
+manage those things without throwing away everything?  
+Mohnish: You can throw away nearly everything, and that's fine. Arvind has heard me talk 
+many times about Charlie's friend, John Arriaga in northern California who's a 
+billionaire, and all he's done in his career is invest in real estate within a couple 
+of miles of the Stanford campus. John Arriaga’s circle of competence is like this 
+small, it's really tiny. It's not even real estate in California, and it’s not even real 
+estate in Northern California. It's real estate in a very narrow geography. If you 
+showed him a deal in Sacramento, it would take him a femtosecond to say, I'm 
+not interested because he doesn't want to go there.  With being in a very 
+narrow circle of competence, it did not prevent him from becoming extremely 
+wealthy. The good thing about investing is that it doesn't matter how big your 
+circle of competence is, what really important is to not step out of it. 
+What is even more important is to try to play in the epicenter of that circle. If 
+you look at a business and you say, I'm not sure about this, or I don't understand 
+this, or whatever, be a harsh grader and get rid of it. Focus on the most obvious 
+stuff. Some of the most obvious stuff is things that we are consumers of. If 
+you're using a certain brand, you're using some service or whatever else, like, I 
+like to bike. A lot of the biking parts come from a company called Shimano in 
+Japan. I know from biking that Shimano has very strong brand recognition and 
+they've got pricing power and all these th ings. I've never looked at a balance 
+sheet; I just know this from the way they dominate in cycling and then when I 
+looked at them, I also found they dominated in fishing. Even in the fishing area, 
+they've got, and they've innovated a lot in their area. I looked at Shimano and 
+it didn't look obviously cheap like I was hoping that no one else would 
+understand Shimano, and it'll be two times earnings and the rest would be 
+history, but it wasn't that easy. I said, “Oh, it's like double-digit earnings, 
+whatever, forget about it, move on”. If it was really cheap,  I would've spent 
+more time on it, I only looked at that because I was just familiar with it from 
+cycling, right? It can come to you from different places. 
+Student 16: You mentioned Sergio from Fiat, then obviously Howard Schultz, Starbucks, 
+Sam Walton obviously all of the very great leaders. I'm kind of curious, what do 
+you look for, the certain traits that you look for in a board or a CEO management 
+team when you're making those investments, how you kind of judge a 
+  
+Page 26 of 28 
+management team. Then if there's any ot her specific leaders that have really 
+stuck out in today's market. 
+Mohnish: Good question. The way to figure out the quality of the leader is to not focus 
+on what they're saying, but to focus on what they've done. Typically, these guys 
+have track records, and you can look back at the track record. I mean, it 
+would've been hard to invest in Walmart in 1970 unless you were really familiar 
+with Sam. But if you're investing in 1980 or 1990, you've got quite a track record 
+to look at. Sergio, it was very obvious to me in 2012, he was a very unusual and 
+good leader, and I was very excited, and actually as that investment 
+progressed, my assessment of him kept getting better. Like I had 
+underestimated how good he was, and he just kept getting better and better 
+and such. 
+I think, the one thing that public market investors have, which venture investors 
+don't have is, we do have trend marks that we can look at, and we do have 
+relatively long histories that you can look at. I think that is really helpful and 
+that's really important. It's really important to get a mental model in your mind 
+about the nature of the leader, the quality of the leader, and their nuances. You 
+don't need to always get this right. I mean, there's an error rate. When I bought 
+Fiat, I also bought GM. We made some money in GM. I think we made 40, 50% 
+on what we invested after several years, but eventually, I sold it because I just 
+saw very big differences. 
+That was a good example, because, I fe lt like, GM had competent leadership, 
+but it was nothing like Sergio. If you look at someone like Elon, I mean, he's on 
+a different planet. I don't know if you guys saw Battery Day when he had the 
+battery day and the annual meeting recentl y, I mean, if I was a comparator of 
+Elon, any OEM car manufacturer, I'd be very afraid because those guys, every 
+other CEO has no understanding of first principles of physics and so I think 
+they're going to have a very hard time. He's increasing the distance. We don't 
+know how that works out, but I would just say that he’s an extremely impressive 
+guy and kind of strange, somewhat weir d. I'm on the Charlie Munger board, 
+which is saying, don't go long or don't go short Elon. It's hard to go long Elon 
+because it’s just so expensive. But I would not want to short a guy who lands 
+two rockets simultaneously backwards. I mean, I don't know why anyone would 
+want a short guy like that. I think that you study the history and the credit 
+marks. 
+Arvind: Mohnish, you’ve being so generous with your time, thank you so much. I guess 
+maybe I would end with one last question, which is, on this Zoom call, there are 
+students who are graduating from business school, from college just that, the 
+world has shifted dramatically. They ma y feel for their opportunity set. Are 
+there any thoughts that you have or any advice that you would give over or the 
+decades to long and also the short term?  
+  
+Page 27 of 28 
+Mohnish: A couple of thoughts. One is that, in an advanced civilization like the United 
+States, the odds that any of you will be homeless or not have enough food to 
+eat or can’t pay a rent or any of that, is zero. Basically, the bottom line is that, 
+the society has enough safety nets and has enough opportunities that none of 
+you will ever face those circumstances. Given that reality, what I would focus 
+on, if I were you, is, I would focus on the pursuit of passion. I would really try to 
+figure out what is really exciting for me and what I really like to do. One of the 
+things Buffett talks about is, “people will say, oh, I'm going to do banking for 
+three years, then I'm going to get my MBA, then I'm going to do X, Y, Z and 
+then, after 10 years, I'm going to do my own thing”. You don't need to take these 
+long circuitous paths. Think about what you want to do and just go for it, get 
+there without making a 20-year plan to get there. I think one of the problems 
+that comes up when you graduate from elite institutions, the problem you have 
+when you graduate from Boston College or Harvard, is the opportunity cost. 
+What happens is that the wo rld is willing to pay quite a bit for your services, 
+and many times the world is willing to pay more for your services than you 
+would make if you pursued your passion. If you pursue your passion, you are 
+giving up a lot of certainty. But given that, I told you that you're not going to 
+end up homeless and you're not going to end up with no food on your table, I 
+would say that stretch a bit. 
+Try to understand internally what you love to do. Then the other thing is that, 
+even if you take the easy path, which is some guys giving you a great offer and 
+it looks great, whatever, you still have plenty of time, evenings, weekends, 
+etcetera, to try to think about what else might be your passion or interest, and 
+to try to build something. Like my first business, I got off the ground part-time 
+while I was working full time, and then when I got enough to action, I resigned, 
+and I didn't have any money or anything. I actually was on credit cards and so 
+on to try to get it up and running. What I would say is that the younger you are 
+when you do that, the easier. 
+When you don't have kids and do that, it's easier. When you're single and you 
+do that, it's easier. For many of you, all of those are true. What I would suggest 
+is, if you really want to go down a certain path, I think you should really think 
+about, humans are driven by peers and we like to compare ourselves to peers, 
+and you have a lot of peers in the institutions you're at. It can be difficult to do 
+something. I remember that the founder of Staples went to Harvard Business 
+School and then after that, he joined some grocer and I think while he was in 
+school, he was working in a grocery store, kind of doing the shelves and 
+whatever else. He said some Harvard Professor walked into the store, saw him 
+doing that, and didn't want to embarrass him, and just kind of went the other 
+way. 
+He went out and reached out to the Professor, and said, “how you're doing”. He 
+was not at all concerned. That guy wanted to go into retail in spite of all the 
+things I've said. He was passionate about it, and he turned down a lot of other 
+offers, which were probably higher paying, and he went into that area and 
+  
+Page 28 of 28 
+eventually founded Staples and went from there. You have to be willing to get 
+off the beaten path, and what I would sugge st is to be willing and bold to do 
+that. 
+Arvind: Well, what a great note to end on Mohnish. Thank you so much. This was 
+fantastic as always. 
+Mohnish: Thank you, Arvind. It was a pleasure. Thank you. 
+ 
+  
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not inte nded 
+to be, financial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not be suitable for you, 
+do not take into account your particular investment objectives, financial situation or needs and are not intended to provide investment 
+advice or recommendations appropriate for you. Before making any investment or trade, consider whether it is suitable for you a nd 
+consider seeking advice from your own financial or investment adviser. 
+ 
+ 

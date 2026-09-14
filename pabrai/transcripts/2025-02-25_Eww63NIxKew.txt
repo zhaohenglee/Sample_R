@@ -1,0 +1,642 @@
+Pg. 1 of 14 
+Mohnish Pabrai's Interview at The Capital Compounders 
+Show on February 25, 2025 
+ 
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not 
+intended to be financial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not be 
+suitable for you, do not take into account your particular investment objectives, financial situation, or needs, and are not intended 
+to provide investment advice or recommendations appropriate for you. Before making any investment or trade, consider whether 
+it is suitable for you and consider seeking advice from your own financial or investment adviser. 
+ 
+Robin: Welcome back to the show everyone. This is a very special episode for me 
+and I am sure for many of you. We have Mr. Mohnish Pabrai today. Mohnish, 
+welcome to the show.  
+Mohnish: Robin. It is a pleasure to be with you. 
+Robin: For those who do not know, Mohnish is the founder and the hedge fund 
+manager behind Pabrai Investment Funds and more recently the Pabrai 
+Wagons Fund. Collectively, in aggregate, I believe Mohnish, you manage 
+around a billion US dollars. 
+Mohnish: That is correct. 
+Robin: In 2022, Mohnish, you moved from California to Austin, Texas. What was the 
+catalyst behind the move? 
+Mohnish: There were a few different catalysts. We had been evacuated twice in the 
+last few years in California due to the fires. After we came back, there was 
+residual smoke and burning smell in the home for several weeks even 
+though we were running air purifiers. I did not think that was going to stop, 
+and it has not stopped. That was one reason. The second is that California 
+has among the highest state income tax rates in the country. They do not 
+really care whether your income is coming from long term gains or ordinary 
+income; it is all the same. The federal tax system in the US does give you a 
+lower rate for long term gains, which California does not. When I was paying 
+my taxes in California, approximately a third of that went to the state. There 
+were several states in the US that I could have moved to where that one 
+third would go to zero. Fires were one reason, some optimization on taxes. 
+I looked at these states that are zero tax. In one case, not only is the state 
+zero tax, the state pays you every year. That state is Alaska. They pay all their 
+residents a few thousand dollars a year based on their oil revenues. In the 
+end, for most people, it boils down to Texas and Florida, and Austin was 
+interesting. That is what I decided to do. 
+Robin: That is a smart move all around. A couple of years ago, The Wall Street 
+Journal did a feature on you, but specifically your big library, which we can 
+see behind you, it is immaculate. How many books would you say are in your 
+library right now? 
+Mohnish: Oh, I have never tried to count it. Maybe a couple of thousand. I do not 
+know. 
+Robin: That is amazing. Did you have a lot of input into the design itself, or just 
+leave it up to the design firm? 
+Pg. 2 of 14 
+Mohnish: Well, I had a gifted designer I was working with. I had a library in California, 
+which was inspired by a wonderful author in New Delhi. In fact, Guy Spier 
+and I had visited that author's home and we loved his library. It was just 
+great. I tried to incorporate some elements of his library in my California 
+home. Then, when I was moving to Texas, my California library had run out 
+of room. There were books everywhere. It could maybe accommodate 40% 
+of the books I had. There was a need to increase the size and also have some 
+room for future growth. I mentioned to my designer what I was looking for, 
+and I had another requirement, which was a weird requirement for her. I 
+told her I need to sleep in a room with no windows. I like it to be completely 
+dark, and even blackout curtains did not quite work for me. In California, we 
+did not build a custom home, but the builder was able to accommodate 
+that. He gave me one small room, 12 by 12, which had no windows, and that 
+was awesome for me to sleep in. It was pitch dark. I told her any home I was 
+going to buy anywhere was never going to have such a room. No one else 
+has this. I told her that I needed a room created, which would be my primary 
+bedroom that did not need to be large, but needed to have no windows. 
+This space that you see behind me, which is the library, she did something 
+very interesting. This space used to be just an empty kind of a den type 
+space upstairs in the home. It was pretty large. What she did was she put 
+my windowless room in the middle of it and she surrounded it with the 
+library. The exterior walls of that room are some of the walls of the library. 
+For example, you see a Charlie Munger bust and part of a Buddha painting 
+behind me. That is one of the walls of my bedroom. 
+Robin: I see. But here you have a nice light just beaming through. 
+Mohnish: Yes. What she did is she made the library around another room. The flowing 
+space goes around and it is a beautiful space to hang out in. You see the 
+blue color? That is all her. That is way above my pay grade to come up with 
+such stuff. But what she did was there is a ridiculously expensive paint 
+company in the UK, which makes this kind of pigment paints called Farrow 
+and Ball. They are kind of like a designer paint company. She said that when 
+the sunlight hits that paint, you just get a kind of a great effect. I never got 
+tired of it. The library changes color throughout the day. I love the way she 
+did it with the blue. My office is integrated into the library, and she made 
+my desk and everything marble. It is Italian marble. After I moved in, it was 
+so comfortable to work here that I stopped going to work outside home. I 
+work out of my home office. 
+Robin: I do not blame you. 
+Mohnish: All the time, which is great. The productivity went up. The nap room is 10 
+feet away, and life is good. 
+Robin: Well, it is the ultimate ROI. You got your return on investment because the 
+blue is calming. It is wonderful. It is just an amazing design. 
+Mohnish: One other thing is that she somehow got contacted by a reporter in The Wall 
+Street Journal, and she said, “Hey, you guys might have an interest in this 
+library because he is a finance type guy.” The Wall Street Journal in the 
+mansion section; that is where I run it. They featured the library, which was 
+a lot of fun. The funny thing is, after that story ran, the realtor who sold me 
+this house, he knew when we had done the deal that this is my last home. I 
+hate to move. For the rest of my days on earth, this is it. The realtor calls me 
+Pg. 3 of 14 
+and says, “Look, I know that this conversation is not going to go anywhere, 
+but I kind of had a responsibility to at least call you. There is a couple in 
+Connecticut that saw The Wall Street Journal article, and they would like to 
+buy your home. I told them that it is not on the market.” The realtor 
+representing them says to my realtor, “Well, my client says that everything 
+on the planet is on sale for a price.” I told him, “They are absolutely right. 
+Everything is on sale for a price, and they can have the home.” I gave a 
+ridiculously high price. It was more than three times what I paid for the 
+house. I thought that would be the end of it. I am a value guy. How can I 
+ignore someone giving a euphoric price at a place that I do not want to ever 
+leave? I said, “If they gave me this price, I could bite the bullet and actually 
+think of a move.” They do not go away. They come back and ask for more 
+pictures. I did not really want to spend a lot of time chasing things or 
+wasting time. I told my realtor to tell them that before I sent pictures, I had 
+two requirements. The first requirement was that they had to disclose their 
+identities, which I did not know yet. The second was that they had to write 
+me at least a three-paragraph essay (it did not need to be more than a page 
+or a page and a half) explaining why they wanted to pay two or three times 
+the market price for this home. Humans hate to write. Except for you, Robin. 
+Humans hate to write. They came back and they did not write the essay. It 
+is amazing, they offered 75% of my asking price without any pictures or 
+anything else. I turned them down, and that was that. I just wanted to give 
+you that little bit of story that I have never told anyone. 
+Robin: Oh, it was a great story. Were you surprised, Mohnish, when they revealed 
+their identities? 
+Mohnish: They never revealed their identities. 
+Robin: Oh, they did not? 
+Mohnish: They never sent me the essay. They never revealed their identities. They just 
+made an offer. 
+Robin: If they are smart about it, they could have just asked ChatGPT to write it for 
+them. Which leads to my next question. It was actually on ChatGPT where I 
+asked, “How old is Mr. Mohnish Pabrai now?” I believe you turned 60 last 
+year, if it is correct. How did it feel to turn 60, Mohnish? Has your philosophy 
+on life changed now that you are in a different stage of your life? 
+Mohnish: Well, the funny thing is that as I got older, in my head, I always felt like I was 
+25. If you ask me when I was 45 years old, “How old do you feel?” I would say 
+25. I just felt like I was a 25-year-old. I do not feel like I am a 25-year-old 
+now, but I do not feel I am 60. It is a number significantly less than 60, which 
+is good, but it is not 25. It has actually moved up a bit. The other interesting 
+thing is that if you go to MetLife's website (the life insurance company) and 
+you answer a few questions, they will actually tell you when you are going 
+to die. It is beautiful. You could also do that with ChatGPT. I used to think 
+that I was going to leave planet Earth on June 11, 2044. 
+Robin: Oh my goodness. 
+Mohnish: MetLife told me that it is actually going to be 2054. I used to think I would 
+be dead and gone at 80 and now they tell me I will be dead and gone at 90. 
+That is pretty good. That is in almost 30 years from now. 
+Pg. 4 of 14 
+Robin: It is a whole lifetime, and there is just so much more to do. You are doing so 
+many amazing things and impacting lives in a positive way with the 
+Dakshana Foundation. By 2050, how many lives will you have impacted by 
+then? Let us give another 25 years because you are doing incredible things. 
+Mohnish: I have never thought in those terms. But, one way to think about it is that 
+Dakshana's annual budget currently is about $3 million a year. We have 
+about a thousand kids a year graduating from our program or coming into 
+our program. That is approximately $3,000 a kid. That answer depends on 
+what has happened with the compounding and how much we are spending. 
+If we were, for example, at that point, spending something like 100 million 
+a year, then yes, and the format may change. In fact, it will change. It will 
+not be because this program cannot scale more than 6, 7 million USD a year. 
+I have never thought about that question. My modus operandi is to try to 
+generate the highest social return on invested capital; try to figure out 
+which initiatives deliver the biggest bang for the buck to society. It may not 
+even be kids. It could be unrelated to kids, for example. It could be 
+something else; could be environment, could be health. But that is how I 
+would measure it. How can we have the most impact? 
+Robin: I am sure it must feel really nice to receive letters from the students who 
+have successfully gone through the program and benefited. 
+Mohnish: Yes. I enjoy interacting with the students. The few days a year I get to 
+interact with them always tend to be the best days of the year for me. They 
+are wonderful. But in terms of driving me, if you will, I am wired, weirdly. I 
+like to play games. A lot of the games I like to play are mathematical games. 
+I play bridge regularly. Compounding is a game, bridge is a game, blackjack 
+is a game, and Dakshana is a game. What is interesting to me about 
+Dakshana and how I kind of slice it, which is not the way most people would 
+slice it, is that it is a math game. The math game actually has two sides to it. 
+The compounding game and the Dakshana math game are joined at the hip, 
+if you will. One game is trying to maximize returns and net worth, and all 
+that, and the other game is trying to give it all away. If I am absolutely 
+successful in playing the game perfectly, which is what I am trying to do, 
+play the game perfectly, then one day before I die, there should be around 
+$10,000 left. If you think about it, I have got little less than 30 years of 
+compounding left. Hopefully the brain is still functioning then, and we are 
+going to try to, on a risk-adjusted basis, get the best possible returns. The 
+challenge will not be so much on the compounding side. The challenge 
+would be on the give back side. As the numbers get larger, I will have to 
+lower the bar. Right now I am in a hog heaven situation that I can be 
+extremely picky about which program and what we do. Dakshana's 
+program, currently, I am not aware of anything any non-profit is doing 
+anywhere in the world that delivers the highest social return on invested 
+capital. But that particular endeavor cannot take more than 6, 7 million a 
+year. Once we get to 10, 20, or 30 million a year, by definition, I will have to 
+lower the bar. Not the end of the world. The absolute dollars will increase, 
+but we will have to lower our sights, and that is fine. To me, the whole thing 
+is a math game. It is okay. What is the next best? I still have not figured this 
+out. What is the next best program we could focus on, and what are great 
+investments we should focus on? To me, it is just a game on both sides. 
+Pg. 5 of 14 
+Robin: What is the next personal game for you now that you have moved to Austin? 
+As you look around, as you ingrain yourself in the community, is there 
+something you have had in mind that you want to tackle, that you want to 
+learn and perfect? 
+Mohnish: The thing is that the games I am playing are such long and fun games that I 
+do not need any more games. What I am saying is I have four games I spend 
+my time on now. There is bridge, compounding, Dakshana, and golf. I used 
+to play some blackjack. It is a boring game because everything is kind of cut 
+and dry, and I am not very interested in flying three hours to Vegas and all 
+that. Blackjack is kind of gone by the wayside. I have a bridge coach now 
+who is a former world champion Caltech grad. We play every week and I go 
+to tournaments. He is my partner. That has been fantastic. I have a huge 
+learning curve that I am going through on bridge. I have an even bigger 
+learning curve I am going through on golf. Then, these two compounding 
+and give back games, these are going to go on for several decades. That is 
+great. 
+Robin: How good at bridge was the late, great, outstanding Mr. Charlie Munger? 
+You did play bridge with him quite a bit. 
+Mohnish: Warren and Charlie both play bridge. Warren is extremely serious about his 
+bridge. His bridge partner is Sharon Osberg. She is a former world champion 
+and Warren is a very good bridge player. I have only played bridge with 
+Warren once. Normally, when you are playing bridge with someone, it might 
+take several years to build an understanding and a convention. You 
+understand how each player plays. We were accidentally playing together 
+as partners online without ever having done even a 10-minute conversation 
+before. In the chat window while we were playing, I was like pounding 
+questions at him. “Do you play this convention? You play that? Do you do 
+this?” He responds, “Yes, I do. I play this. I do not do this.” We were on the fly 
+trying to figure out how we are going to do this. In the end, my biggest 
+concern was I am going to screw up and he is going to be so disappointed. 
+I was really focused on, “Do not screw up, Mohnish. This is Warren Buffett. 
+Do not screw up.” First of all, we did really well. We whipped the opponents. 
+The funny thing about the opponents was they had no idea they were 
+playing against Warren Buffett. They were just playing with some guy 
+online. 
+Robin: They had no idea? What was his username at the time? Do you remember? 
+Mohnish: T Bone. 
+Robin: That sounds so unlike Warren. Right? 
+Mohnish: Bill Gates’ username on Bridge used to be Challenger. Because there was a 
+limitation on the number of letters you could have in your username, it was 
+C, H, A, L, N, G, R or something. Buffett used to joke with him, saying, “You 
+cannot blame Bridge. He is a college dropout. He cannot spell.” I played with 
+Warren. I thought we did okay. When we play online, what happens is there 
+is a record kept of every hand and everything that happened. There is a rich 
+archive you can go back to. I get a message from Warren's assistant, Debbie. 
+She says, “Hey, Warren wanted me to reach out to you and let you know 
+that he went back and looked at all the hands and everything that you guys 
+played, and he was very impressed with your play.” The guy has stuff to do. 
+Pg. 6 of 14 
+He had 300,000 employees at that time, and tens of billions of dollars to 
+invest and all that, and he is sitting around going through bridge hands that 
+he played with Mohnish. Then he is coming back to his assistant and asking 
+her to send me a message. Really funny. Warren is very serious about his 
+bridge. Charlie is purely a social bridge player. Warren plays duplicate 
+bridge, which is very competitive. Charlie does not play duplicate bridge. He 
+only plays social bridge, and he could not be bothered about the 
+conventions. The two of them are like night and day. For Charlie, I was really 
+surprised because Charlie is so serious about other things in life, investing 
+and this and that. But bridge, it was just for social fun. Sometimes, I would 
+play with Charlie as his partner, and sometimes I would be his opponent, 
+because the club would just switch around. What I discovered about Charlie 
+was that while on the investing side, he would never take a flyer or he would 
+never go see to the pants or something. It was very kind of regimented. In 
+playing bridge, he was a gambler. He would take chances. I figured out that 
+he bluffs sometimes. I used to catch him. Sometimes he would bid, he 
+overbid, and whatever, and then, I doubled the contract. He would be 
+sweating, trying to get it done. It was a lot of fun. Warren and Charlie are 
+just night and day in terms of bridge. They are identical as far as investing 
+goes, but they are very different as far as bridge goes. It is a lot of fun. 
+Robin: It is not really taught anymore. It is not played. Do you recommend that kids 
+today pick up bridge? What skill sets come out of playing it and perfecting 
+the game? 
+Mohnish: Bridge is a game that takes 15 minutes to learn. It is a very simple game to 
+learn. It cannot be mastered in a lifetime. If you started playing bridge when 
+you were 10 years old and you played your whole life and you died at the 
+age of 100, you would still be learning because there is such a wide range of 
+patterns, which is what makes the game interesting. It is like investing; you 
+are never going to get to a point in investing where you are going to say, 
+“This is it. I have plateaued out. There is nothing more to learn.” That is just 
+not going to happen. You could live a thousand years and that would not 
+happen. That is the fun part of bridge. More bridge players die every year 
+than new ones who take up the game. Some kids are playing the game. They 
+tend to be mostly Asian kids. It kind of plays to their math sensibilities or 
+their Tiger mom mothers. But anyway, the unfortunate thing is that bridge 
+is not number one on the list for young people, which is unfortunate. They 
+would get a lot of joy and excitement out of it because it is a social game. 
+You are not looking at an iPad or a screen all the time. Bridge actually makes 
+you a better investor. It teaches you to think probabilistically. Each time a 
+card is played, the odds change and you have to recalculate. It is honing that 
+muscle memory of probabilities, because that is what investing is. It is all 
+about probabilities. I started playing bridge a long time before I became an 
+investor. I just never actually thought that I would be doing both things. But 
+I found later when I became an investor that the bridge playing actually 
+helped me with the probabilistic thinking, which is fantastic. 
+Robin: Super interesting. Most people who know you, Mohnish, have read your 
+book The Dhandho Investor, but they probably do not know about your very 
+first book, Mosaic: Perspectives of Investing. I check every now and then on 
+Amazon. Have you gone to check what the price is right now for your first 
+book, Mosaic? 
+Pg. 7 of 14 
+Mohnish: Someone told me it is 800 or something. 
+Robin: Yes, it is and that is crazy. It goes from 500 to 800, and obviously it is not in 
+print. It is hard to get. 
+Mohnish: I tried to bring the price down. What I have done is I put all the chapters of 
+Mosaic as PDFs on my blog. 
+Robin: Okay. 
+Mohnish: With Pabrai, there is no login or anything. It is free. As you know, Robin, the 
+best things in life are free. If someone wanted to read the book, they can 
+just print off a bunch of PDFs. They do not need to pay even a dollar to 
+Amazon and they are fine. But yes, some people like to have the physical 
+book in their hands, and then they are going to pay for that. 
+Robin: Can we talk about your mental models, how you approach the stock 
+market? Mohnish, you made this popular very early on, but it is what you 
+call cloning. Is this something that you still implement in your investment 
+strategy? 
+Mohnish: Well, for me, cloning is like breathing. It is really fundamental. I could not do 
+what I do as an investor if I did not have cloning as part of the DNA. It is one 
+of the most important models for investing. I still do not know why, but 
+humans in general have an aversion to cloning. They mostly think it is 
+beneath them or they think it is like cheating in some way. Most humans 
+either do not focus on cloning, do not get it, or just are indifferent to it. But 
+there is a small sliver of humans who have gone all in on cloning in a very 
+big way. Those humans who have gone all in on cloning in a big way have 
+ended up being some of the best entrepreneurs we have ever seen. The 
+ultimate cloner was Sam Walton. Sam Walton himself used to say, “There is 
+no human in history who has been on the inside of more retail stores, which 
+are not named Walmart, than I have.” Anytime Sam Walton went anywhere 
+(even if on vacation with his family and they were passing some retail store), 
+he would stop the family, stop the car, and say, “I will be back in 20 minutes.” 
+He would go in and check the store out. I remember there was a story I read 
+one time, a city in Brazil, they called the paramedics because there was an 
+old guy flat on the floor. They find out it is Sam Walton, and that there is 
+nothing wrong with him. He was trying to measure the space between the 
+aisles; how many feet were between the aisles. He did not have a ruler with 
+him or a tape measure, so he laid his body down because he knew how tall 
+he was, so he could estimate. The space between the aisles for a retailer is 
+critical. That is square foot efficiency. You cannot make it too close because 
+humans are not going to like that. You can make it like the 5th Avenue or 
+something, where you are going to then lose money because you are 
+wasting square footage. You have to get that right.  
+He was always looking at every minutiae aspect. Sometimes, he would go 
+in with his management team into some retail store and one of his 
+managers would say, “Well, Sam, that is such a useless operation. That store 
+was terrible.” Sam would say to him, “Yes, but did you see the candle 
+display? That candle display was awesome.” He was not focused on whether 
+the retailer was great or not. What he was focused on is, “What can I learn 
+from here?” Even if it is a useless operator.  Sam always felt that if you talk 
+to anyone, you can learn. In fact, the group he liked to talk to the most inside 
+Pg. 8 of 14 
+Walmart was the truckers. What he said is, “I would go into the Walmart 
+distribution center at 5 a.m. with donuts and coffee. I would sit down with 
+a half a dozen of the truckers. Even without the donuts, they are the bluntest 
+and most candid people on earth. They do not really have a filter.” He would 
+ask them questions like, “You visit all these Walmarts, what do you notice?” 
+The guy would say, “Well, I went to this and this and I saw a lot of good 
+product in the trash. I saw this and I saw that these things were not being 
+done properly.” Real low down problems in Walmart. His truckers would tell 
+him and would cost him 10 bucks in donuts. He was extracting stuff. Another 
+phenomenal cloner is Bill Gates. Everything that has worked in Microsoft has 
+been cloned. Microsoft has spent billions of dollars on R&D, which for the 
+most part has yielded them nothing. Word came from WordPerfect and 
+Excel came from Lotus and Windows came from Apple. Even now AI and 
+everything. “Nothing comes from inside the browser search,” like Buffett 
+used to say. He was telling me once, “Do you know what Bing stands for? 
+But It's Not Google.” 
+Robin: That is really clever. 
+Mohnish: If you look at great businessmen, a number of them are shameless cloners. 
+That is what I have tried to be. I have tried to be the shameless cloner 
+because there are lots of smart investors who have done a lot of great work. 
+If you can understand their thesis, and it is within your circle of competence, 
+it is going to be far better than trying to figure everything out on your own. 
+Even Berkshire's Apple position came from one of the lieutenants. Warren 
+took the idea from one of his two managers, and of course he put 50x the 
+capital they put in, and went from there. Cloning would give you a big 
+advantage. 
+Robin: It is challenging for some because you have to step outside of your own ego 
+a lot of the time. 
+Mohnish: Yes, that might be me. 
+Robin: Coming up with the idea. 
+Mohnish: Yes. Even Dakshana has only gotten success because we cloned a great 
+model. The model that Dakshana follows is way beyond my pay grade. I 
+would never be able to come up with it. I am just not that smart. It was 
+already there and I could see it was a great model. I could not come up with 
+it, but I could appreciate the model. That is the same with some great 
+investment ideas that I cannot come up with. But if someone tells me about 
+them, I can tell this is exceptional. 
+Robin: Going back to Sam Walton. He was an incredible, genius fanatic. I remember 
+reading his book; his autobiography. Everyone should read it. Made in 
+America. There is a chapter (this is years ago), in which he wrote that he 
+would hire a helicopter to take him around cities to scout out sites for new 
+Walmart locations. 
+Mohnish: He was a pilot; he and Buddy Walt and his brother.  Sam was spending a lot 
+of time, 10, 12, 14, 15 hours driving because Walmart was growing. Then he 
+thought, “Hey, if I have a tiny plane, it is going to be 45 minutes instead of 
+seven hours or something.” Once he took to the skies, he was just 
+unstoppable. 
+Pg. 9 of 14 
+Robin: Yes. 
+Mohnish: They would dive down, and look at different sites. They would see two 
+towns and they would see nothing in the middle of the two towns. But they 
+would say, “Hey, if we put Walmart in the middle of these two towns, we 
+will pull from both of them.”  
+Robin: That is incredible. 
+Mohnish: Maybe the first 50, 70 Walmarts, it was all Sam Walton just flying around and 
+it actually made him very efficient. He learned one thing that people do not 
+appreciate about Walmart, which is that Walmart embraced technology 
+very early, big time. If you think about the airplane as technology or you 
+think about computers, the amount of CapEx he put into IBM mainframes 
+very early when Walmart was a very small company, they were way ahead 
+because his managers told him “We are not able to run this place unless we 
+automate; we will not be able to run it,” so he stepped up and invested big 
+time. 
+Robin: That is an incredible vision. The next mental model is around compounders 
+and how you scout out compounders. I remember you really brought to 
+light the late investor Mr. Rakesh from India to the North American 
+European market. I had never heard from him. I think no one did until you 
+started talking about him. But he had invested in that company Titan. That 
+was just an incredible story, I believe you had bucketed into a compounder. 
+How do you look at compounders? What criteria do you use to select these 
+next up and coming companies? 
+Mohnish: One of the things to keep in mind is that you really only truly understand a 
+business after you own it. We may have an understanding that some 
+businesses are great before we own them because they are obvious. For 
+example, we can say MasterCard is a great business, we could say Google is 
+a great business, and so on. But for the most part, most companies, you are 
+going to really learn about them after you own them. What I have found is 
+that the truly great compounders, it may take you a long time, it may take 
+you a few years of ownership to appreciate that this is the compounder.  
+One thing to keep in mind is that in the late 60s, early 70s, there was this 
+concept of the Nifty-Fifty, which is, you bought these 50 totally blue chip 
+stocks, 2% of portfolio in each of them. You did not bother with valuations; 
+it did not matter how expensive they were. These were like Coke, Kodak, 
+Polaroid, Xerox, Colgate, Palmolive, McDonald's, and so on. The idea was 
+you buy these with no price discipline and you hold them forever and life is 
+great. The Nifty-Fifty in the crash of 73, 74 got taken out back and shot. 
+There was no place to hide and it got decimated. That collapse in prices in 
+73, 74 was something. Coke was down to like six times earnings or 
+something. There is some controversy whether Walmart was part of the 
+Nifty-Fifty or not. There is one group that thinks it was, one group that 
+thinks it was not. Let us just assume it was part of the Nifty-Fifty, and let us 
+assume that the Nifty-Fifty had a 2% weight in Walmart when Walmart had 
+its IPO in 70 or 71. Let us also say the other 98% went to zero. From then till 
+now, which is more than 50 years, you would have blown out the S&P. Wow. 
+With a 98% zero portfolio going to zero. 49 out of 50 bets not working. You 
+would still have beaten the S&P. There is a big lesson there; first of all, that 
+investing is an extremely forgiving business. In this case, a 98% error rate 
+Pg. 10 of 14 
+has been forgiven. The second is that the absolute key to doing well is 
+letting the great businesses stay in your portfolio. One of the mistakes I have 
+made throughout my career is that I have sold so many great businesses 
+because of valuation. One of the dumbest things you can do. It took me a 
+long time to figure out that that is extremely stupid.  
+We had an investment in 2012 in Fiat Chrysler. At that time, the market cap 
+of Fiat Chrysler was about 5 or 6 billion dollars. We had invested maybe 50 
+or 60 million in Fiat Chrysler. In other words, we had a 1% ownership of Fiat 
+Chrysler. Insight that 5, 6 billion was 80% of Ferrari, which today has a 
+market cap of $90 billion. It was a very small part of Fiat Chrysler at that time 
+(in 2012). Now it is 90 billion. If we had been so smart as to do nothing with 
+it, that would be a $900 million position for us. My total assets are a billion. 
+We probably captured maybe 150 million or something of value in a moment 
+of brilliance when we sold Ferrari because it looked expensive; really stupid. 
+If you look at the Walton family, Sam Walton had passed on all the shares of 
+Walmart to his kids way before the IPO, when it was just a nothing company. 
+In fact, they paid no estate tax when he passed away because the shares 
+were already owned by the kids. At the time of Walmart's IPO, the Walton 
+family had 38% of the business. It has been almost 55 years since that IPO. 
+The family ownership of Walmart today is 44%. 
+Robin: It has gone up. 
+Mohnish: What I am saying is that in 55 years, Sam Walton would have been dead and 
+gone for like a quarter century or more. He has been dead and gone for, like, 
+30 years. It has been a long time and there is no Waltons running the place. 
+There are a couple of them on the board. 
+Robin: The ultimate passive investment. 
+Mohnish: Yes. The thing is, how brilliant is that? They have increased ownership over 
+that period, which is awesome. I have this notion.  Munger should talk to me 
+about it sometimes. He says, “Mohnish, you only need to get rich once.” It is 
+a mistake. One of the things that took me a long time to learn, several 
+decades. It is a mistake to try to optimize compounding. I tried to optimize 
+the compounding and it blew up in my face, actually. What you really want 
+to do is to hold onto these compounders. Well, the answer is you may or 
+may not know what a compounder is for some years after you have actually 
+owned the stock. It might take a while. The important thing is that once you 
+do know that you have a compounder on your hands and that you have 
+ownership, you do not sell because of valuation. Even if it looks expensive, 
+you do not sell. You sell if there are truly secular declines. Not wiggles or a 
+down quarter or some recession or something, but true secular decline in 
+the business. That might be a worthy reason to think about doing something 
+else.  
+Munger used to say that in a lifetime, you are not going to get too many 
+trips to the pie counter. He also said that the key when you get to go to the 
+pie counter is to load up on a lot of pie because the next time you go to the 
+pie counter might be several decades later. Just load up and keep it. Almost 
+every time I would meet him, he would go through the math going on in his 
+head about his trips to the pie counter. He said, “Mohnish, the Munger 
+family, we have Berkshire, we have Costco, we have Li Lu. Now we have 
+these apartment houses.” I would meet him after three months, he would 
+Pg. 11 of 14 
+say the same thing. I would meet him again after three months, he would 
+say the same thing. In his head, these were successful trips to the pie 
+counter.  
+Robin: Just keep on loading up on the Costco pie. 
+Mohnish: You do not need to mess with it. Just keep these pies and keep loading up 
+on them and be very discerning about it. His view was, “If there are no more 
+trips to the pie counter, that is perfectly fine.” We are not going to, as 
+humans, get more than three or four trips to the pie counter in a lifetime. 
+Robin: Yes. 
+Mohnish: I already blew my one trip to the pie counter with Ferrari. I blew another trip. 
+If I go back and look at the number of trips to the pie counter that I blew, it 
+is a long list. God has been benevolent and gives me more than one time to 
+try to make up for the stupidity. I used to own a shipping company, 
+Frontline. I sold when it was a double in about eight months or something. 
+It ended up being like a 70x. 
+Robin: Wow. 
+Mohnish: In about three years. That was another trip to the pie counter that I truly 
+blew. The thing is that we had a few years back, and I did not think this was 
+going to be a trip to the pie counter, but it turned out to be a good trip, 
+which is a company in Turkey called Reysas. 
+Robin: Reysas. 
+Mohnish: Now, after having taken all the arrows in the back with Ferrari and others 
+and listening to Charlie about the pie counter, it is really simple. We just 
+hang on until we see the business going to hell. We hang on. 
+Robin: It is an incredible stock chart. I do look at it. It is like a brilliant, perfect 
+staircase just going up over time. You got in early. I believe you got in four 
+or five years ago? 
+Mohnish: Yes. The position is almost six years old. At that time, we had paid about $8 
+million for 1/3 of the company. 
+Robin: Eight million for one-third, and there were so many doubters right there.   
+Mohnish: Well, at that time, everyone was exiting Turkey. Even now they are exiting 
+Turkey. 
+Robin: Yes. 
+Mohnish: The market value of the business is over a billion, and the liquidation value 
+is probably around 2 billion (might even be more than that). From my point 
+of view, it is still undervalued. We do not even have to scratch our heads like 
+Ferrari. It is 50 times trailing earnings. What do you want to do here? That 
+actually gives you some room for pause. Here, we are at a billion plus market 
+value gone up some 40x in the last six years in dollars, and we are still 
+undervalued. Very simple. 
+Robin: That was an incredible investment. Then, there are no more tasty pies. You 
+keep on going back to the pie store.  
+Pg. 12 of 14 
+Mohnish: We have 30 years. There might be a couple more trips to the pie counter. I 
+am hoping there might be two or three more trips. But what we have to do 
+is that the pies we already have, we cannot let them go. 
+Robin: Yes. 
+Mohnish: What I have learned and seen as my life experience is it has taken me five or 
+six years to actually understand Reysas. They do not have an investor deck. 
+They do not really explain the business.  I am still learning. Every time I go 
+to Turkey, I am still surprised about the business, something that I did not 
+know because there is very little data that is in the public domain about it. I 
+am still learning on that front. What I have realized is that when you find that 
+you have a great business with great economics, with great management in 
+your portfolio, do not mess with it, let it ride. Because we do not know which 
+one of the ten is the Walmart? That is hard to tell in advance. But if you own 
+them all, you are going to be just fine. 
+Robin: I have heard Buffett say the same as he reflects on his 50-plus career, his 
+track record. He says it comes down to a dozen private and public 
+companies. 
+Mohnish: Buffett has made probably more than 400 or 500 investments in his 70 or 
+75-year career in investing, and he said 12 move the needle. One of the 12 is 
+the hiring of Ajith Jain. Munger used to say that the highest return Berkshire 
+ever got on any investment was the search fee to hire Ajith Chain. They 
+probably paid less than $100,000 to get Ajith on board, and he has probably 
+created something like a couple of hundred billion dollars of value. What is 
+the analysis compounding on that? 
+Robin: That is incredible. That is an amazing ROI. Oh my goodness. Then, when it 
+comes to the next mental model, which is a punch card, which Buffett and 
+Munger have talked about extensively, your philosophy, Mohnish, on 
+concentration. Has that evolved over time or do you believe the true path 
+to wealth is a concentrated portfolio? 
+Mohnish: Well, I would say if you go back to our Nifty-Fifty example. What would end 
+up happening in that scenario is that one position would end up going from 
+2% to 100%. If we look at the Walton family and we look at their degree of 
+concentration, it is pretty extreme. They probably have a bunch of what 
+Buffett would call helpers telling them they need to diversify. Thankfully, 
+they did not listen to the helpers who really are more interested in helping 
+themselves than helping you. They paid no frictional costs, they paid no 
+taxes, and they have compounded like crazy, which is great. That is 
+awesome. A natural outcome of successful investing is you will end up 
+extremely concentrated. Berkshire Hathaway was a small part of Buffett's 
+pie, and it is almost the entire pie now. It was a very large portion of 
+Munger's pie. It is a very natural outcome that as time goes on, if you keep 
+your winners, the best winners are going to become 70, 80, 90% of your 
+portfolio. Very successful entrepreneurs are going to get very concentrated. 
+I find the case of Steve Ballmer really, really interesting. I meet all kinds of 
+large fund managers. They hate the Steve Ballmer era of Microsoft. If you 
+look at the annualized returns on Microsoft stock when Steve Ballmer was 
+the CEO, it is 4% a year or something less than that. Of course, it is not fair 
+to him because he started out with a very elevated valuation and he ended 
+Pg. 13 of 14 
+up with a modest valuation when he handed the reins to Satya Nadella. But 
+look at this. His net worth exceeds Bill Gates’ net worth. 
+Robin: That is incredible. 
+Mohnish: He is a yo-yo that Bill Gates hired; a poker buddy, and to his credit, there 
+was an article in The Wall Street Journal a few months ago where they were 
+talking about Steve Ballmer's investing prowess. How smart was he? He 
+understood Microsoft extremely well and did not understand a lot of other 
+things. He said his whole portfolio is Microsoft and the S&P, and of course, 
+he has the LA Clippers. The S&P is a small part of the piece. Microsoft is the 
+800-pound gorilla for him. Again, in that case, this is the hired gun. This is 
+not a founder. He is a hired gun who in his own tenure did not do that well. 
+But, he put Satya in place. 
+Robin: Yes, genius. 
+Mohnish: The rest is history. 
+Robin: Yes. As the kids would say, Ballmer just huddled. He just stayed patient. He 
+is not really selling a lot of shares at all, and as you said, he surpassed Gates. 
+Mohnish: Yes. 
+Robin: In terms of wealth, when it comes to, as you call it, Uber cannibalism or 
+share cannibals. Is that something that you still seek out in companies that 
+you invest in? 
+Mohnish: Cannibals is a tremendous mental model. One of the reasons why the 
+Walton family stake went up is because they sold shares. They have sold 
+shares here and there for charity or whatever else. But Walmart has bought 
+back stock and so it has netted out that they are higher. It is one of those 
+things where when you do the math, if you have ownership of a truly great 
+business with great economics, and that business is able to buy back shares 
+at modest valuations, you do not have the tax leakage of dividends. You 
+have a lot of efficiency in how that is getting redeployed. It is really going to 
+add a lot of turbocharge to your portfolio. Like Munger used to say, “Pay 
+attention to the Cannibals.” It is worth looking at businesses now. The thing 
+with Cannibals is that Eddie Lampard bought back a lot of Sears’s stock, 
+which was a great way to incinerate wealth. 
+Robin: Yes, both ways.  
+Mohnish: We have to make sure that it is a great business and we have to make sure 
+that the buyback price is not overpaying and hopefully it is at a bargain 
+price. But if those two are true and you are an owner for a long time, you are 
+going to do extremely well. 
+Robin: One very last quick question. What is your bridge username online? 
+Mohnish: My bridge username is extremely simple. It is MPabrai. 
+Robin: Awesome. Okay. 
+Mohnish: I do not have too much creativity. I have set up the account. That is what I 
+set it up as. Every once in a while I get fans asking, “Oh, are you Mohnish? Is 
+this Mohnish?” and I say, “Yes, sure. Let us play.” 
+Pg. 14 of 14 
+Robin: This has been a lot of fun. Thanks for the conversation. I wish you the best 
+2025. Thanks, Mohnish.  
+Mohnish: Robin I look forward to all your videos. Thank you so much. 
+Robin: I appreciate it. Cheers. 
+ 
+ 
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not 
+intended to be financial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not be 
+suitable for you, do not take into account your particular investment objectives, financial situation, or needs, and are not intended 
+to provide investment advice or recommendations appropriate for you. Before making any investment or trade, consider whether 
+it is suitable for you and consider seeking advice from your own financial or investment adviser. 
+ 
+ 
+ 

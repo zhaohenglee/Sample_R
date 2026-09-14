@@ -1,0 +1,581 @@
+Page 1 of 13 
+Mohnish Pabrai's Interview at the Investor’s Podcast 
+on April 25, 2023 
+ 
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not intended 
+to be financial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not be suitable for 
+you, do not take into account your particular investment objectives, financial situation, or needs, and are not intended to provide 
+investment advice or recommendations appropriate for you. Before making any investment or trade, consider whether it suits you 
+and seek advice from your financial or investment adviser. 
+ 
+ 
+Stig: Welcome to the Investors Podcast. I'm your host, Stig Brodersen, and it's 
+Berkshire Weekend. At least it's Berkshire weekend whenever you're listening 
+to this. I'm thrilled to have invited no other than Mohnish Pabrai to join us 
+today. Mohnish, thank you so much for taking the time to speak with us 
+today. 
+ 
+Mohnish: Stig, it's always a pleasure at this time of the year just before the Woodstock 
+for capitalist gets underway. It's like our tradition, right? This is the kind of 
+pre-game tailgate party. 
+ 
+Stig: My first question to you is, how do you make sure to stay objective whenever 
+you process information from people that you really like, perhaps you even 
+admire them and you have this lot of Palooza cascade of different biases that 
+can make you susceptible to not seeing the world the way it really is? 
+ 
+Mohnish: That's a great question Stig. It's difficult to do and I think most of us, including 
+myself, fail at it. Our brains have evolved over millennia, and they're not 
+optimized for being great investors. They were really a brain with optimized to 
+help us survive and surviving on the African Savannah needed a certain type 
+of wiring and we need a different kind of wiring to be great investors. Our 
+brains have a lot of quirks and a lot of biases. I would say reading Munger's 
+essay and reading Cialdini’s book is going to be helpful in at least being aware 
+of the pitfalls. But we are susceptible to commitment and consistency biases, 
+several biases that come in and that are very much part and parcel of who we 
+are is just part of who we are. The best that we can do is try to be aware of it 
+and try to sidestep as many of the pitfalls as we can. But I don't think anyone 
+has succeeded in sidestepping all the pitfalls. I mean I think that's a great 
+essay and it is helpful to reread it and it's helpful to be aware that we are 
+quirky living creatures with quirky brains which don't necessarily follow a 
+rational path all the time. 
+ 
+Stig: You also talked about how whenever you translate the Turkish word into 
+“don't invest”, it's like play the stock market. That sort of makes me think 
+about what that dynamic does to the efficiency of a market. Graham said, 
+decades ago it took like 18 months to revert back to intrinsic value. What do 
+Page 2 of 13 
+you think about the whole inverting to intrinsic value? How is that different 
+than say the data series we have about the states, if at all? 
+ 
+Mohnish: Well, I mean I think Graham's bedrock that we all believe in is that, in the long 
+run, the stock market is a weighing machine and in the short run, it's an 
+awarding machine. I think that applies universally. I think in the end, all 
+companies get correctly valued and if they're undervalued, they're going to go 
+up. If they're overvalued, they're going to come down. I think that is part of 
+the bedrock that applies globally. But I think that in a place like Turkey, and 
+actually when I mentioned to local Turks about the nine days, they're actually 
+surprised they expected it to be a lot shorter because all the people they 
+know basically invest at 10 o'clock and want to wrap it up by two o'clock. They 
+expected that the holding period would be like, two or three days on average.  
+They were surprised that it's as long as nine days because, as I mentioned 
+earlier, the way they look at the stock market is that they're playing the 
+market, not really investing. That's really the only explanation one can come 
+up with for the wide mispricing. We've seen businesses like Reyes, for 
+example, where no one is weighing the companies; they're just dancing in and 
+out of them. Warren Buffett has a great quote that says the stock market is a 
+mechanism to transfer wealth from the active to the inactive, and it could not 
+be truer than in a place like Turkey. I enjoy it; it's kind of like a time warp. It's 
+like going back to the sixties and seventies in the US, or it feels like the early 
+nineties in India where you had a lot of very high-quality businesses at single-
+digit multiples. These places will always have fear and greed, and there will 
+always be mispricing, but the degree of mispricing that I can find in a place 
+like the US is much, much less than in many other places. 
+ 
+Stig: I heard you say in another video that here in 2023 you wanted to study 50 
+businesses if they pass those first few hours of tests. I'm curious what you 
+learned, and again, not to put you on a spot of any kind of specific stocks, but 
+whether you found, perhaps, a new mental model you want to share or a new 
+perspective on things. 
+ 
+Mohnish: Yeah, and I've made some good progress on the 50 businesses. I think it's 
+close to 20 so far and I have to pull it up maybe like 17 or 18 or something like 
+that, which is I'm on track because basically, I’m behind if I'm not at least one 
+per week. I'm very pleased with that. When I made a trip to Turkey, I see all 
+these new companies, so I get a lot done during a week like that. But yeah, I 
+think that one of the things I am excited about is kind of a new way of me 
+looking at things is what I call “the circle the wagons approach to investing”.  
+This year, for example, Buffett in his letter mentioned that Berkshire has a few 
+truly extraordinary businesses, many pretty good businesses, and a very large 
+number of mediocre or below-average businesses. He also mentioned that in 
+58 years it's really been 12 decisions that have created most of the great 
+outcomes for Berkshire. Most of the other decisions have just been at best so 
+so. If you look at something like Berkshire Hathaway, over 58 years, Warren 
+Page 3 of 13 
+has bought more than 80 companies in that period, he's probably made at 
+least 10 key hires and probably bought at least 210 stocks over that period. 
+Collectively well over 300 decisions. When he says that 12 stand out, it's like 
+one in 25, it's like a 4% hit rate for someone as great as Warren Buffett.  
+Charlie Munger said many times if you took our top 15 decisions and took 
+them out, our record would be useless. We see this phenomenon of this 4% 
+play out over and over. For example, if you look at the Nifty 50 in the early 
+seventies, which was very popular with the 50 blue strip stocks and don't 
+worry about the valuation, kind of set it and forget it. Some controversy over 
+whether Walmart was part of the Nifty 50 or not. If you assume that Walmart 
+is part of the Nifty 50, we'll take two cases here, but let's say you assume 
+Walmart is part of the Nifty 50 and you assume that it has a 2% weight in the 
+Nifty 50 because they're 50 stocks, each one has a 2% weight and you assume 
+that the other 49 stocks go to zero, they just get wiped out. You assume that 
+you bought Walmart at the IPO in 1970 and you held today it till the Nifty 50 
+with 49 out of 50 gone to zero would've ended up with something like a 13.3% 
+annualized return and the S&P is 10 and change, you know, 10.3% or 
+something. With just 2% of the portfolio surviving and being there for the 
+entire 52-year period, you still significantly outperform the S&P. Of course, 49 
+of the other names didn't go to zero. They were like McDonald's and Coke and 
+Procter & Gamble. There were a lot of good companies, and there were some 
+bad companies like Polaroid and Xerox and Kodak and Burrows, and a lot of 
+these companies basically went to zero. But you can just see that the one 
+decision whether Walmart is part of the group and whether you keep it or not, 
+has such an outsized impact.  
+Now if you take the other case, which is that, let's assume that Walmart is not 
+part of the Nifty 50 and you assume that you invest in the Nifty 50 at the all-
+time high in 1972 just before the big crash of 73-74 and you run it till today, 
+what you find is that the annualized return is 10.2% annualized and the S & P is 
+10.3%. Even with buying at ridiculous valuations, but just holding them, of 
+course, what happened in 73-74 is the Nifty 50 went down 50%. Nobody was 
+in the Nifty 50 and by 1975 everyone exited. But if they had held on and if they 
+had held on to till today, they would pretty much be toe to toe with the S&P. 
+It's not that much of a difference.  
+ 
+This lesson again plays out when we had this great investor in India who 
+passed away last year, Rakesh Jhunjhunwala. He never managed money 
+professionally. He was an individual investor, maybe close to the end of his 
+life. He was starting a business basically he was all passive investing and he 
+started with $400 when he was 25 years old. At 62 when he passed away, it 
+was 5.8 billion.  
+In 2003, Rakesh put 4% of his portfolio into a company in India called Titan 
+Industries. It was a $3.4 million bet on Titan. He had about $85 million in total 
+assets at that time. He invested $3.4 million. If you, again, like the Nifty, take 
+everything to zero that he had in 2003 except for Titan and he owned like 
+little over 5% of Titan, you run it till when he passed away. Now his widow has 
+Page 4 of 13 
+kept Titan, so it's still compounding. It became $1.4 billion excluding 
+dividends. If you reinvest the dividends, it's even higher. $3.4 million was a 
+400x return. Even if you took everything else to zero, he would still have $1.4 
+billion. These are not venture investments, right? I mean when Buffett buys 
+Coke or See’s Candy, these aren't early stage like Sequoia making a bet on 
+Amazon when it's early-stage business. These are mature businesses with a 
+lot of history, and we see the same thing with Nick Sleep with Amazon. I 
+mean if you pull Amazon out of the equation, Nick Sleep's record isn't that 
+great. When you put it in, it's an exceptional record.  
+ 
+Then of course the most extreme case of all of this is Naspers in South Africa. 
+It's an almost a hundred-year-old newspaper company. That's how it started, 
+about a hundred years ago. In 2001, they have a market cap of about 500 
+million dollars. They put $32 million into Tencent, and they get a 46% stake in 
+Tencent. The most surprising thing about the Naspers Tencent adventure is 
+they basically never sell. They sold a little bit of the IPO, but they still owned 
+36% of the company in 2018. In 2018 their stake was worth $170 billion. In 2021, 
+at the peak of Tencent, their stake was worth $270 billion. Here's a sleepy, old, 
+media company in South Africa, they suddenly start seeing some Chinese 
+company become 99% or even more than 99% of their total assets. They don't 
+trim it and they don't hedge it, they just keep it and they end up with an 
+astronomical annualized return over the last 20 years. If you look at the 
+Tencent bet, it was approximately 6% of the value of Naspers at that time. 
+Naspers made hundreds of bets. Everything else really didn't matter. There 
+were only two things that mattered, buying Tencent and more importantly 
+not selling Tencent.  
+So, the circle the wagons concept comes from the 19th century on the 
+American frontier. When the pioneers and the settlers were moving west to 
+stake out and take over land and start farming it and so on, these wagons 
+used to get attacked by the American Indians. The defensive posture they 
+took to defend against the Indians was to circle the wagons, which means, 
+you put everything, your crown jewels in the center of the circle, and then you 
+fight, and you try to protect the center. It's a similar concept in investing with 
+the Nifty 50 with Walmart, you really need to not touch it. It only works if you 
+don't touch it.  
+Similarly with See’s Candy and American Express and Coke for Berkshire, all of 
+these, hiring G.I. Jane and so on, you need the long runway and Naspers 
+needs the very long runway with Tencent. The key to investing is to recognize 
+two things. One, we are going to make a lot of mistakes. Two, this is a very 
+forgiving business. You can be wrong even 98% of the time still come out 
+smelling nice. Three, that is only going to happen if you can buy businesses 
+with great economics at reasonable valuations and then hang on to them 
+forever. When they get fully priced, they don't get sold. When they get 
+overpriced, they don't get sold. It's only possibly when they get completely 
+ridiculously egregiously overpriced that you can consider selling. This 
+framework of circle the wagons is very fundamental. I think it's very hard to 
+Page 5 of 13 
+beat the market if you don't have this framework because you're going to be 
+cutting the flowers and watering the weeds. What we need to do is make sure 
+we don't cut the flowers. It really doesn't matter whether you water the 
+weeds or not, but the important thing is you just don't cut the flowers. It's 
+okay if you want to water the weeds. 
+ 
+Stig: It's so well said Mohnish. I think you brought up this stat of the index is like 5% 
+which generates all the returns because the index is too dumb to sell Amazon 
+and Alphabet. They're not cutting the flowers and then you had this joke 
+where you're like, yeah, you don't want to pay out for it. Good luck finding 
+them. Of course, there are exceptions where you can get wonderful company 
+for a small multiple.  
+ 
+Mohnish: Stig, that is why we hang out in Istanbul. 
+ 
+Stig: Yeah 
+ 
+Mohnish: You must see how the jigsaw puzzle fits. We must find great businesses, okay. 
+And we must go fishing where the fish are. 
+ 
+Stig: Perhaps we can talk about one of your previous holdings, Shinoken. I know 
+there are also some cultural differences in terms of Japan and how they do 
+capital allocation. But could you paint some colors around why are founders 
+who are clearly very good at capital allocation, not necessarily good at buying 
+back their own stock whenever it's clearly below their liquidation value, which 
+they would know better than anyone, but their liquidation value is of their 
+asset. Why is that the case? 
+ 
+Mohnish: Just to give you an update on Shinoken, there was a take under, and they did 
+a tender offer, offering a small premium and they took the company private. 
+The founder, with some investors basically in effect did what you are 
+suggesting they should do. It took them some time to understand.  I had 
+several conversations which Shinoken. I actually sent them a PowerPoint in 
+Japanese. 
+ 
+Stig: Wow. 
+ 
+Mohnish: The benefits of buybacks I realized that an entrepreneur, such as a builder, 
+may not understand their advantages.  What ended up happening is they took 
+my advice in very large doses. Instead of nibbling at a buyback like I was 
+suggesting, I mean we had already sold the stock because we were a little bit 
+frustrated that they were not really acting the way they should because they 
+had significant amounts of cash flow, and they could retire a significant 
+number of shares. But they were nibbling a very small amount that they were 
+buying back. Then we exited and I think a year or two later, they basically took 
+one big gulp and bought it all at a actually a spectacular discount to what the 
+Page 6 of 13 
+business was worth. Shinoken was an exceptional business because it has 
+very strong recurring revenues from all the properties they're managing. I 
+mean, the visibility into cash flows goes out for many years. It's actually an 
+exceptional business.  
+One of the things that had attracted me to Shinoken in the first place was that 
+it was founder run and that he did not fit the template of most Japanese 
+management. Most Japanese managements and boards run the business for 
+the benefit of the employees, not for the shareholders. Therefore, the number 
+one concern is to make sure that the business is very stable and can survive 
+downturns without layoffs. However, the shareholders pay a very high price 
+for such an approach, making Japan difficult to invest in. The second reason is 
+the demographics of the declining population.  
+Last year, 1.6 million Japanese citizens died, and 800,000 new ones were 
+born. Therefore, we are looking at a net one million reduction in population in 
+a single year. We did see the founder of Shinoken acts very rationally 
+eventually for his own self-interest. In the case of Reysas, they were very 
+focused on building and have woken up to the fact that they made a mistake. 
+If they look back, they wish they had given a 50% premium and bought the 
+whole company, taking the whole company private, for example. They have 
+been trying to fix that mistake by increasing their holdings. They have been 
+buying back shares in the last couple of years or so. They did wake up to the 
+fact that they should have approached this differently, but it's not easy for 
+CEOs, even founder-led CEOs, to look at things like buybacks. Basically, what 
+ends up happening is you see cash leave your treasury, and you don't 
+immediately see a pop in the stock price. Therefore, you have to have faith, 
+the way Henry Singleton had faith that when you retire a significant number 
+of shares, you are going to see the stock react to that. 
+ 
+Stig: Thank you for elaborating on that and thank you for painting some color  
+If you look at the stock market or if you look at the game of investing well as a 
+game, has that changed since you started in 1999? If it has, how have you 
+adapted to the new rules of the game? 
+ 
+Mohnish: Well, I very much enjoy the game and one of the things with this particular 
+game, it's actually very similar to Bridge, is that Bridge is a game that would 
+take you 15 minutes to learn and you cannot master it in a lifetime. You can 
+keep learning forever. There's really no plateau that shows up in bridge. Even 
+if you were playing 30, 40 hours a week for your whole life, you would still be 
+learning. I think investing is very similar in the sense that this is a game with a 
+lot of twists and turns. Anytime you look at a business, the myriad of factors 
+that affect where it might be in the long run are so diverse. Some of them you 
+may be able to understand, some of them may be within your circle of 
+competence, and a lot of them may not be. Lifelong learning is going to serve 
+you very well. I think I am as excited about the investing game as I was nearly 
+30 years ago. But I think what has happened in the previous, almost three 
+decades, is that more competencies have been built up. More mental models 
+Page 7 of 13 
+have been refined and incorporated. Pattern recognition is probably faster 
+now than it used to be and it's broader now than it used to be. 
+ 
+Stig: Interesting. I wanted to talk a bit about shares and dilution and buying back 
+shares. It's just such a fascinating thing. I heard you talk about NVR over the 
+past few years and how they have been doing a wonderful job buying back 
+shares. They've also been diluting some of their shares, giving shares to 
+management and whatnot. Do you have a threshold for how much 
+shareholder dilution you will tolerate in companies you invest in? 
+ 
+Mohnish: Well, we would ideally like compensation, I think you can set compensation 
+and incentives quite well without giving out equity and you could encourage 
+management to buy equity. For example, constellation Software does that, 
+and they do an excellent job. Berkshire does that in the sense that a lot of the 
+Berkshire managers have significant ownership of Berkshire, but they've 
+basically taken after tax earnings and bought it with those earnings. That's 
+worked out well for them and everyone. I think Silicon Valley and the tech 
+world is overdosed on a certain model, which is that you give away equity to 
+everyone and their brother and boards don't understand the value of this 
+equity. Many times, CEOs don't understand it and because it is non-cash, it 
+becomes attractive because you're not really using the company's cash. One 
+good thing that happened in accounting is that the GAAP-based accounting 
+rules changed a while back to force them to treat talk-based compensation as 
+an expense and to show it as an expense on the income statement. The 
+companies have gone to metrics like adjusted EBITDA or adjusted net income 
+and adjusted whatever. It's an unfortunate situation. It is suboptimal. We can 
+still do well in some businesses, even with that drag can still work out okay, 
+but it's far from ideal. 
+ 
+Stig: I'm happy you say that because it sounds like such a plausible thing that you 
+give out options, everyone's now an owner, so now everyone's going to work 
+a lot harder. What you basically see is just the existing shareholders are being 
+diluted. 
+ 
+Mohnish: It's heads, they win and not tails. They don't lose. 
+ 
+Stig: Yeah. 
+ 
+Mohnish: There's no real skin in the game there. I really like the plan that Mark Leonard 
+put in place at Constellation. I think that if you don't believe that, just cash 
+comp alone is going to do it for you, you could go with a plan like that and the 
+results at Constellation speak for themselves. 
+ 
+Stig: I'm happy that you mentioned Constellation. I want to say it's between 25 and 
+75% of the compensation or bonuses, I should say, that must be brought back 
+in the open market. Mark Leonard is just amazing. Now he's traveling a bit 
+Page 8 of 13 
+more comfortably than he used to. But he's also paying it out of pocket, which 
+is an example to follow. 
+ 
+Mohnish: Yeah. He draws no salary. 
+ 
+Stig: Yeah. 
+ 
+Mohnish: He has no salary and no bonus. 
+ 
+Stig: Because he's the owner and he's thinking like an owner. 
+ 
+Mohnish: Yeah. But you can contrast that, for example, with someone like Larry Ellison 
+at Oracle. One can argue Larry is a founder, he has a significant ownership 
+stake. Why would he need a stock-based compensation plan to be aligned 
+with other shareholders? But if you study Oracle and you look at the historical 
+amount of compensation that's gone to Ellison, it's been quite spectacular. 
+Now he, I would argue that he's worth it, and I would say probably absolutely 
+he's probably worth it. But he would've worked just as hard because he had 
+the incentive with the ownership. It was an add-on that was a tax to the 
+shareholders. That never happened with Bill Gates at Microsoft. Gates 
+basically always had a very modest salary and never granted himself any 
+auctions or anything like that. 
+ 
+Stig: Constellation Software is so interesting for so many reasons. It's almost like 
+whenever you look at the asset manager, you're like, you want the long 
+runway, but you also want the long track record. You're like Constellation 
+software that makes a lot of sense to have a track record, but now there are 
+like 50 billion-plus what mark cap. It’s probably going to be hard to do for the 
+next two decades. 
+ 
+Mohnish: But I would also not bet against Mark. He has an uncanny ability to put rabbits 
+out of the hat. I don't have an investment in Constellation, and many times I 
+think it's a mistake even at the size and the multiple that they're at because 
+the quality of the manager is so exceptional and the business model is so 
+exceptional in many ways, constellation is embryonic. I would not be 
+surprised at all if Constellation continues to do very well in the years ahead. I 
+would also not be surprised at all if Leonard takes the company in some 
+different direction where he might allocate, he's not really a software guy, 
+he's a capital allocator and he found a mouse trap that worked really well, and 
+that mouse trap had a deep vein and they continued to mine that reign of 
+freight opportunities. But I know that they're looking at other sectors and 
+areas that could hold promise to deploy capital. 
+ 
+Stig: Hmm, interesting. On that note, I've heard you say it, and again, I'm probably 
+paraphrasing, but like don't look too much at what the management is saying, 
+look at the track record. That’s what's important. If you look at a serial 
+Page 9 of 13 
+acquirer, what is there to look out for other than the track record? Assume 
+that the management does not change. Would you have anything where 
+you're like, this is interesting? 
+ 
+Mohnish: Well, usually, I'm not a big fan of Rollups and I'm not a big fan of serial 
+acquirers. I think that companies like Constellation and Berkshire are cut from 
+a different cloth. If you look at Constellation, they have an internal list of 
+about 40,000 vertical market software companies, small companies, 40,000 
+of them. They nudge them probably two or three times a year, and basically, 
+they have a whole Biz Dev team, M&A team. Basically, kind of like what 
+Buffett would do with his letters to different companies like IKEA. He'd say, 
+“Hey, if you ever decide to do something, please think of us”, that sort of 
+thing. Amongst these 40,000 companies, there are founders who are getting 
+old, and may want to retire. They could be divorcees; there could be other 
+reasons why somebody wants to sell and move on. For most of them, 
+Constellation concentration might be the only buyer. These are usually not 
+rapidly growing companies. They may have stable revenues and cash flows or 
+might have just very small, very low growth. Private equity is not interested. 
+Venture capitalists are not interested. Even to venture capitalists 
+Constellation is a great exit. They make 20 bets in a portfolio and one outlier's 
+going to generate most of the returns they hope. 15 or 17 end up being either 
+they're going to disappear or just be on, flatlined, just kind of limping along. 
+The partners of these venture funds don't want to sit on those boards 
+anymore and waste their time. They want those companies off their 
+ownership. A place like Constellation is perfect for them. They can stop 
+babysitting. They get rid of these things that they thought might have a great 
+moon shot. Now they know there's no moon shot, and they can focus on their 
+one or two outliers and take it from there. Constellation is in the funeral 
+business. The funeral business, as I wrote about in my first book Mosaic, is a 
+good business. Somebody has to take care of these businesses at some point, 
+and Constellation's the caretaker and they're really good at it. When they 
+acquire a business, they have a lot of ways in which they can help the 
+business, not by being overbearing, but by telling them, listen, we've got 
+seven others like this and these are what we've learned could be helpful, and 
+so on. I think that mousetrap is exceptional and they're the only ones with 
+that mousetrap. 
+ 
+Stig: In a previous episode, we discussed Alibaba, tax harvesting, and other related 
+topics. Do we, as investors, whenever make a mistake, wait for the stock to 
+revert to the intrinsic value again, knowing that it can take a long time before 
+that happens? Perhaps we're even wrong in our new assessment of the 
+intrinsic value as, as much as we cut it. Or do we cut our losses. How do you 
+think about realizing a mistake, considering the opportunity cost involved?  
+ 
+Mohnish: Yeah, we must separate the signal from the noise as we saw with these 
+examples of the Nifty 50 and Naspers and Buffett and so on, this is a business 
+Page 10 of 13 
+with a high error rate. Even the best investors will be wrong at least half the 
+time. One of the backdrops we must keep in mind is that if you have a 
+portfolio of 10 stocks, more than likely half are mistakes. Now you may not 
+lose money on them, they may not just compound at a high rate, they may be 
+4% compounding instead of 15% you're expecting. For example, knowing that 
+there's a high error rate and separating the signal from the noise, when you 
+have a good amount of data telling you that the signal is saying that you were 
+probably wrong, then yeah, you cut your losses and you move on.  
+I think in the case of Alibaba, we saw actions by the Chinese government that 
+quite frankly become very hard to handicap in the future. We've seen a bunch 
+of actions in the past which we didn't see when the investment was made, 
+and those actions destroyed value for the investor. We don't know what the 
+end game is. So, I would say that what the Chinese government does and the 
+impact it has on Alibaba goes into the too-hard pile. We just don't know.  
+The second, which is one of the things that I've tried to avoid, the mega caps 
+and I made an exception for Alibaba, which didn't help me. I moved that 
+investment to process, which I think with Tencent is a better bet. But I think 
+the fact remains that if you're buying a business with a hundred or 200- or 
+300-billion-dollar market value, what is the runway? That remains a question. 
+You could buy Apple at $200 billion, and it could go to $2 trillion or $2.5 trillion 
+and that's fine, but those are few and far between. My bias has been to try to 
+look for businesses that were much smaller. The runway was not in question. 
+There was room for them to grow. It doesn't mean that they're always going 
+to work out, but that's the goal that they have, they're not sitting at these 
+massive mega cap numbers where you're saying, okay, even a double from 
+here may not be that easy. 
+ 
+Stig: Very interesting. Thank you for sharing that, Mohnish. 
+So, I wanted to talk to you about Power vs. Force which is this book by David 
+Hawkins. One of the lessons you took away from the book is that we 
+subconsciously can know if a person is lying, pattern recognition, and what 
+not. Perhaps you could share your journey in how you started cutting out the 
+small and the big lies and what that has meant for you and the way you live 
+your life today. 
+ 
+Mohnish: Yeah, well I think that's a great question. It is going to feel uncomfortable. I 
+think that the small white lies are just very comfortable. You don't hurt anyone 
+and why would anyone care? How is anyone ever going to know that you 
+really thought it didn't look great? You move on, but it's not authentic. I think 
+that many times when we meet people, we don't know why, but we 
+sometimes just don't want to be around certain people. We can't put our 
+finger on it. It may be that there's too many implicit and explicit lies around 
+what that person is saying or doing. I think that the inversion of that is that if 
+you want to build trust, you must make a commitment to the truth. The truth 
+is going to not be easy many times. But I think that once you cross that 
+Rubicon and are on the other side, what you're going to find is that trust goes 
+Page 11 of 13 
+up a lot. And basically, this world functions on trust. It doesn't function on 
+contracts. The best contracts are ones that you never look at after you sign 
+them. I think that if you want to have a lot of success in business, you have to 
+have a very high standard for candor and integrity. If you want to have great, 
+deep relationships or great friendships, then again that same thing is 
+important. I think your friends need to know that you've got their back and 
+that when they come to you, they're going to get very authentic answers, 
+even if the answers are not what they want to hear. I think these are very 
+powerful principles where once you kind of get comfortable with it and start 
+to apply it in your life, the paybacks are so enormous that it just becomes a 
+no-brainer. I think any other way of living is kind of dumb and it's going to 
+make your life a lot more pleasant. It's very easy when you don't lie because 
+you don't have to remember your lies, just makes it simple. Anytime you're 
+saying something or talking about something, you don't have to remember, 
+“oh, I said this and that and I got to keep consistent with that or any of that”. 
+Just tell the truth, and that's the end. 
+ 
+Stig: Like they say, it's simple but not easy. 
+ 
+Mohnish: But it's a great journey to go on and it's a journey which is going to lead to a 
+lot of growth. It'll feel unnatural and uncomfortable at times, but you'll start 
+noticing very quickly that you feel so much better. 
+ 
+Stig: That's so true. I just as a personal anecdote, I in my early twenties, I told all my 
+friends and families, I didn't want to go to their birthdays or go to weddings or 
+anything like that because I felt uncomfortable. It's hard whenever you say 
+that. It's not because I don't like you, it is because I don't want to sit next to 
+your uncle for six hours whenever I could be reading a book or doing 
+something else, I really want. I can say that's been one of the best decisions 
+that I've made. But it's hard. 
+ 
+Mohnish: Yeah, I think candor in that situation, you'll be surprised. You've probably 
+already seen that your friends and relatives really appreciate you for the 
+candor. They will understand. My take on weddings is painfully boring. 
+ 
+Stig: Yes. 
+ 
+Mohnish: I would say the only redeeming grace of weddings is if you get to meet a 
+bunch of long-lost friends and relatives that you've been longing to hang out 
+with. That can be a great upside. But you are also going to meet a lot of 
+dysfunctional relatives and hang out with them as well. That may not be so 
+much fun. I think the candor will be welcomed by everyone. 
+ 
+Stig: On that note, Mohnish, I wanted to ask the last question I have here for today. 
+My wife and I have a hard time talking about money in some settings with 
+other people. How has your journey into becoming financial independent and 
+Page 12 of 13 
+the success you have today, how has that changed your relationships with the 
+people you knew before and after you got financial independent? 
+ 
+Mohnish: Yeah, actually what I have found is that your remarks about people don't like 
+to talk about money. I think that is universal across cultures. Guy always gets a 
+chuckle because many times he and I will be in a conversation with someone 
+who has some important issues, folk in the road trying to figure out what to 
+do. I'll be asking a bunch of questions to try to get the data to try to help the 
+person. One of the first questions will go to really understand in detail the 
+financial situation, what's the network, what's the income, what's the expense 
+and all that. Guy always kind of goes into a cubby hole and says, “oh, there we 
+go again Mohnish asking all these uncomfortable questions”. But he's now 
+learned that Mohnish is going to ask those questions, okay? What I find 
+surprising is the people who hear those questions, who have never answered 
+those questions to anyone openly, give the answer. Then they say, “I want to 
+let you know, I have never discussed this with anyone. No one knows this. 
+Please don't say.” 
+I say, “it's all confidential. We are not going to talk about it to anybody.” But 
+people are relieved to be able to share the data. Recently I had a call with a 
+friend who wanted advice, career advice, and he's at an age where he could 
+retire, or he could take job A or job B or whatever. One of the first things I 
+asked him was, I needed to know his financial situation before I could tell him 
+what made sense for him. He shared his information that he's never shared 
+with anyone, I think other than his wife he had never talked about it, I don't 
+think his kids are aware of it, but dad gave me the information to be able to 
+be most helpful to him and also I think he felt relieved that he was not having 
+a conversation around eggshells, where I'm in a vacuum trying to say, well, if 
+this is your situation, then do this. I actually knew exactly what his situation 
+was, and I could tell him what I would do in that situation. I think people don't 
+like to talk about money, but many times when they're confronting different 
+issues, those conversations can lighten the load for them. I think it's important 
+that in a safe and confidential environment with the people near you when 
+you're trying to help them with some things where that information will be 
+relevant that go there, you go to the land you're not supposed to go to. That's 
+okay. 
+ 
+Stig: Wonderful. Perhaps you should end with that note, thank you so much for 
+your time. It's always a pleasure having this annual call here in April, just 
+before Berkshire. I just want to say thank you on behalf of all our listeners. 
+ 
+Mohnish: Stig, I always enjoy hanging out with you and it was a wonderful pleasure for 
+me to have you join as an investor. That added another dimension to our 
+relationship. That's wonderful, though I still feel you have kept the objectivity, 
+which is great. Yeah. I do enjoy hanging out with you and I also want to say 
+that you and Preston are doing God's work. I enjoy your podcast a lot. I listen 
+Page 13 of 13 
+to many of your guests, and I think you've done a tremendous service to the 
+community with the podcast. Thank you for that. 
+ 
+Stig: Wow. I don't think we can end on any better note. I just want to humbly say 
+thank you, Mohnish. It means a lot. 
+ 
+ 
+ 
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not intended 
+to be financial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not be suitable for 
+you, do not take into account your particular investment objectives, financial situation, or needs, and are not intended to provide 
+investment advice or recommendations appropriate for you. Before making any investment or trade, consider whether it is suitable 
+for you and consider seeking advice from your own financial or investment adviser. 
+The interview host is an investor in Pabrai Funds and therefore has a financial interest in the funds’ performance, which creates a 
+potential conflict of interest. The host was not compensated for this interview. The views expressed are those of the host and 
+Mohnish Pabrai and do not constitute investment advice or a recommendation to invest. 
+ 
+ 

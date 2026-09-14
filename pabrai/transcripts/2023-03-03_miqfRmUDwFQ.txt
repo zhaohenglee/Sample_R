@@ -1,0 +1,846 @@
+Pg 1 of 17 
+Mohnish Pabrai's Chat with students at the Rotman 
+School of Management and Rotman Student Investment 
+Fund on Mar 3, 2023 
+ 
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not intended 
+to be, ﬁnancial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not be suitable for 
+you, do not take into account your particular investment objectives, ﬁnancial situation or needs and are not intended to provide 
+investment advice or recommendations appropriate for you. Before making any investment or trade, consider whether it is 
+suitable for you and consider seeking advice from your own ﬁnancial or investment adviser. 
+ 
+Rinal: Okay. Hello everyone. A very good afternoon. Thank you for taking the time 
+out and joining us on a Friday afternoon. I am Rinal Shah one of the 
+portfolio managers at the Rotman Student Investment Fund. Before we 
+start, a few housekeeping rules. This event is being recorded. Kindly keep 
+your microphones muted until you have a question. This session is going to 
+be interactive. Please post your questions in the chat and we will moderate 
+them. Last but not the least, we would like to see your pretty faces. It'll be 
+nice if you can please keep your cameras on. Let's get started. We at, this 
+Rotman Student Investment Team is very excited to have Mr. Mohnish 
+Pabrai with us today. Mohnish is the Managing Partner of Pabrai 
+Investment Funds, which he founded in 1999. Mr. Pabrai is an ardent 
+disciple of Warren Buffett and closely follows Buffett's principles on value 
+investing and capital allocation. I am personally very excited about this talk, 
+because my ﬁrst interaction with Mohnish dates to the early days of the 
+pandemic, and I was truly inspired by his wealth of experience and 
+knowledge. We have a bunch of aspiring value investors amongst us today. 
+I am sure, and I hope that all of you will feel the same after his talk today. A 
+very warm welcome, Mohnish. Thank you for taking the time out of your 
+busy schedule and speaking with us today. I would now like to invite Sean 
+Swift, who is one of the founding members of RSIF to give the opening 
+remarks after which the current CIO of the fund, Phomolo Rabana will be 
+moderating the questions along with Mckoy Jackson, who is also one of the 
+portfolio managers at RSIF. Over to you, Sean. 
+Sean: Can everybody hear me, okay? 
+Rinal: Yes. 
+Sean: Good. Okay. Thanks, Rinal. Mohnish, thank you for taking the time. I can't 
+say how excited I was when Rinal brought this idea to the team. And, we 
+had reached out to people at the Columbia Business School before, like 
+Tom Russo, but I did not think we would get an investor of your caliber at 
+some point presenting. So, we really appreciate your time. And so, for the 
+students on the line, really what you want to do today is focus on 
+generating questions to learn more about an investment process. So, at 
+RSIF obviously we're focused on doing high quality, deep fundamental 
+research. So, I think Mohnish is one of the leading worlds experts in the 
+ﬁeld. So I take this opportunity to really dig in on how you can become a 
+better analyst and add value to the street once you get there. Mohnish, 
+maybe starting off, I'm curious, and I'm sure people read up on this, but 
+maybe if you could just give a little bit of background and maybe go into 
+the story on the lunch that you bid on with Warren Buffett, and then 
+Pg 2 of 17 
+subsequently how that kind of conversation unfolded or how that 
+interaction went. For reference students, the Oracle of Omaha himself has 
+frequently noted Mohnish to be one of the best investors he's ever seen. So, 
+I know Mohnish will be humble, but I think it's a two-way street here. 
+Mohnish: Well thank you Sean. Yeah. So, if we lived in the time of Newton or Einstein 
+or Gandhi and, if we had a chance to break bread with them at some point, 
+many of us would be excited to do that. And I had noticed that Buffett was 
+willingly taking bribes to have lunch once a year with whoever paid the 
+highest bribe. And the bribe used to be relatively small. They used to run a 
+charity lunch auction for the Glide Foundation in San Francisco. And they 
+used to do it at the Glide Annual Gala, so it was not online. I think in the late 
+90’s our lunches used to go for like $25,000 or something. And then Buffett 
+had the smart idea to tell them to move the lunch online to eBay. And then 
+it immediately jumped to like a quarter million. And I think the last year, I 
+think 2022 was the last year that he auctioned off lunch, it went for north of 
+$17 or $19 million, I forget. So anyway, I've plagiarized and, copied everything 
+of my investment philosophy from Warren. I think most of my net worth 
+comes from that all that cloning. So, in 2007 I think my net worth at that 
+time was north of like $80 million. And most of it was because of, cloning 
+Buffett. So, I said, why don't I try to bid for the lunch and why don't, maybe 
+2% of that amount is a good tuition fee to pay. So like, $1.6 million or 
+something would be perfectly ﬁne. And I decided I was going to bid for the 
+lunch. I had bid for the lunch a couple of years before that, but I had set it 
+like an upper limit of like, $200,000 or whatever, and I would always lose 
+out. So, in 2007, I decided, okay, we're going to kind of amp it up a bit. And 
+then my friend, Guy Spier, I asked him, he was the only guy I asked, 
+because you can bring seven people to the lunch. So, I asked him if he 
+wanted to join me on bidding for the lunch. And he said, yeah, he was ﬁne, 
+but he wasn't ﬁne with the $2 million, so he said he was good up to a 
+quarter million. So, I said, okay, we'll cap you at a quarter million and I'll take 
+care of the rest. And so actually we won the lunch for like, I think about 
+$650,000 and which, most people thought was a little ridiculous, but now 
+when I look back, it was like, kind of, I think kind of like buy one get inﬁnite 
+free. So, the lunch led to a very nice friendship with Warren. He introduced 
+me to Charlie Munger. And then we met Charlie Munger for lunch. And 
+then that led to a nice friendship with Charlie. And I usually meet Charlie 
+probably four or ﬁve times a year for dinner at his place. And I used to play 
+bridge with him on Friday afternoons at the LA Country Club. He doesn't do 
+that anymore, but that for several years whenever they were short one 
+player or something, they would call me. So, that was also a lot of fun where 
+we would meet for lunch on a Friday and then spend 4- or 5-hours playing 
+bridge. So, the lunch was terriﬁc. I just had a very simple objective in 
+bidding for the lunch. I just wanted to look Warren in the eye and thank 
+him I didn't have any other agenda, because I just felt so grateful for all the 
+learnings and teachings that I had gotten from him and the huge impact 
+he had had on my life. And so, everything else that happened was just 
+gravy. And so, the lunch with Warren, the ﬁrst lunch with Warren went on 
+for about I think about three hours and covered probably like, I don’t know 
+there were like 54 questions or something. So, it covered a very wide range 
+of things. In setting up the lunch, I had some interaction with Warren's 
+assistant Debbie Bozanek, who's a wonderful lady. And after the lunch for a 
+few years, Guy and I used to go to Omaha day before the Berkshire 
+Pg 3 of 17 
+meeting, and we would meet Debbie for lunch. And so, we had lunches 
+with Debbie for a few years, and I thought the lunches with Debbie were 
+better than the lunches with Warren. And, the ﬁrst lunch with Charlie, I also 
+thought was a lot better than lunch with Warren, even though Warren is a 
+tremendous lunch companion. And we had a great time. So yeah, I mean I 
+think there was a, a lot of take-home value with all of that, but just, it, it 
+spilled over into all these other relationships and meals and games and 
+whatnot, so it worked out wonderfully. 
+Sean: That's great. I'm sure there's a million follow up questions everybody would 
+like to ask, but maybe we can get to those later. Last question for me, really, 
+and I'm borrowing from the book that you wrote, the Dhandho Investor, 
+and the thing that we've tried to instill in the students consistently is a 
+repeatable investment process. And so, if I can distill my interpretation of 
+the book, it's buying quality businesses at the right price. And so, you've 
+mentioned things like emote or businesses with low competition or an 
+experienced business, and then a margin of safety. Maybe if you could just 
+highlight to the students a very simple breakdown of that investment 
+thesis or philosophy and how you think about it. And maybe if that's 
+changed over time, so changing market conditions, maybe we start there. 
+Mohnish: Yeah, sure. So, I think I'll, maybe I' ll try to slice it a little bit differently. 
+Buffett's letter came out recently last weekend and some of you may have 
+read it. If you haven't, I think it's a great read. It's one of his better-read 
+letters. And it's short. I'll just read maybe two or three sentences from what 
+he said, which I think you might ﬁnd interesting. So, he says that over the 
+years, I have made many mistakes. Consequently, our extensive collection 
+of businesses consists of a few enterprises that have truly extraordinary 
+economics, many that enjoy very good economic characteristics and are 
+very large group, and I'm not a very large group just, and a large group that 
+are marginal. And then, a little further down, he says at this point, a report 
+card on me is appropriate in 58 years of Berkshire management. Most of my 
+capital allocation decisions have been no better than, so I'll just reread that 
+sentence again, because this is, the greatest investing mind in the history of 
+humanity.  
+“In 58 years of Berkshire management, most of my capital allocation 
+decisions have been no better than”, so then he goes on to say, “our 
+satisfactory results have been the product of about a dozen truly good 
+decisions that would be about one every ﬁve years.” And then he goes on 
+from there, so basically if you look at Berkshire Hathaway talking about the 
+58-year history they bought probably around 80 odd businesses as 
+complete acquisitions over that 58-year period. And I would guess that over 
+the 58-year period, he's probably invested in maybe north of 100 stocks. It 
+might be 120, maybe if you take two a year, it might be 120. So, if you take, to 
+make it kind of way it take in even you have 120 stocks and 80 businesses, 
+so you have 200 decisions basically that took place over almost 60 year 
+period. And he points to 12 that really are responsible for most of the 
+outcome. And I think it's a lot more than 12 that were good decisions. But 
+he also points out that they own a very large group of marginal businesses. 
+So, if we look at the 80 companies that he's bought, so, one of the things 
+that Buffett doesn't like to do is he doesn't like to criticize speciﬁcally. 
+Because I think, like, so for example, if he said that Helzberg Diamonds was 
+a terrible investment, Jordan’s Furniture was a terrible investment, it would 
+Pg 4 of 17 
+really dissuade those managers, like make them feel bad. And what a 
+business is already that's struggling would probably have even more 
+headwinds thrown up. So, he would not be helping those businesses by 
+highlighting that they were useless decisions. But actually, we look at the 
+list of businesses, which I think the list in the annual report, it's not a 
+difﬁcult exercise to go through and ﬁgure out which businesses are kind of 
+mediocre or poor or useless and which are great or exceptional. I think in 
+general, in investing, it is not that difﬁcult to understand what a great 
+business is and what is a not-so-great business. I think that usually if you 
+look at the history of a business, what you'll ﬁnd is that usually a great 
+business, it'll be visible in the numbers. You'll have high returns and equity 
+without a use of leverage. You'll have long runways where they can reinvest 
+capital at high rates. And you would obviously recognize just from looking 
+at the names that this is a great business. So, if you look at a business like 
+Coca-Cola or if you look at a business like Visa or MasterCard or American 
+Express or like, Flight Safety, Geico and so on, we can run into many, many 
+great businesses, pretty obvious. So, one of the things before I kind of go a 
+little further on answering your question is maybe you can just help me 
+because that might help tailor the conversation, is in your student 
+investment fund, what are the investing rules? So, what is the amount of 
+money that you have to invest and what are the rules that you have to 
+follow? 
+Sean: Yeah, absolutely. Phomolo, maybe if you want to take over from here as the 
+chief investment ofﬁcer. 
+Phomolo: Sure. Thank you very much for your time ﬁrst of all, Mohnish. At this point in 
+time, we just started the fund. So, we've got a $100,000, Canadian dollars to 
+invest. We're going to get $150,000 more to invest. And our position sizes, 
+which is slightly different to I guess how you manage your money, is that 
+we are limited to 5% initial investment. So that's a key thing. And then we're 
+looking for companies which are compounding over time. Because we're 
+looking for 45 year holding period. So, those are the key sort of companies 
+we're looking for. We're looking for models, leverage as well, businesses, 
+which are easy to understand, and which we do expect to be able to grow 
+the value over time. 
+Mohnish: So, the 5% maximum bid size means that you would have at least 20 
+positions. 
+Phomolo: That's correct. 
+Mohnish: And the students who are managing the fund, are they involved in the 
+decisions on managing the fund while they're students? 
+Phomolo: Yes, that is correct. It is the ﬁve-executive team now. We have a team of 21 
+analysts, and they're the ones who are involved in terms of looking for the 
+stock pictures. And we have the ﬁnal stock picture coming up next month, 
+sorry, later this month. And they're going to pitch ﬁve or seven ideas. And 
+then from those seven ideas, we're going to the top ﬁve ideas. 
+Mohnish: Okay. And then what happens to the positions after everyone graduates? 
+Sean: So, the idea there is generally, so we're following the ﬁve-by-ﬁve model 
+from Tom Russo at Columbia Business School. But the idea is the portfolio 
+managers are responsible each year for taking over prior research 
+Pg 5 of 17 
+committed on stocks within the fund. The 21 analysts are responsible for 
+pitching either new ideas, supporting a current idea, and so, Phomolo 
+Rabana, Mckoy Jackson and team are responsible for saying, of the ﬁve we 
+bought last year, are there any that maybe we want to buy or sell or buy 
+more or sell? 
+Mohnish: Okay. So, that means each group picks ﬁve, is that correct? 
+Sean: Yeah, give or take, yeah. 
+Mohnish: Okay. Alright. Okay. That's pretty  good. And are you limited geographically? 
+Phomolo: Oh, North America at this point in time. 
+Mohnish: That's so sad. 
+Sean: Yeah. Yeah. The regulators in the school asked us for the ﬁrst three years 
+before we build a full track record that we keep it in developed North 
+America over time. However, the plan is to kind of unleash the student 
+powers internationally because Robin's actually a fairly international school. 
+I think it's a strength, so. 
+Mohnish: Yeah, I mean, I think that, when I read this year's letter from Buffett and I 
+thought about, his 12th grade decisions, out of the 200, I would say out of 
+the 200 just outright mistakes where he lost a lot of capital would be very 
+small. But a lot of businesses which either ﬂatlined or had some loss of 
+capital would be a fairly large number. So, one of the important lessons that 
+comes up from Buffett and his letter and his approach is what I would call, 
+the circle the wagons approach to investing. So, basically Buffett has an 
+incredible record in the sense that he has, he has compounded at 19.8% 
+annually for 58 years which is two times the rate of the S&P, which is at 
+9.9%. And the 9.9% compounded for the S&P has led to a 24,700% increase 
+in value. But the 19.8% for Buffett has led to a 3.8 million percent increase in 
+value. So, it's just not even in the same zip code. So, even though he says 
+that, most of my decisions are so-so, and, when we look at those 200 
+decisions, we would not be scratching our heads over many of them. And 
+many of them we would obviously say, well, I would've never bought it. and 
+such even with all those watts and everything else thrown in, the overall 
+results are incredible. And the reason the overall results are incredible is 
+because the ﬂowers were never cut, and the weeds were never watered. 
+And so, that's an important lesson here. So, what I mean by that, and I think 
+somewhere in the letter he brings up something about the ﬂowers and 
+weeds. I don't know if I can ﬁnd it on the ﬂy over here, but I'll see if I can ﬁnd 
+it later because he has some quote about that. So, basically if I just switch 
+gears a little bit, in the early 1970s there was this concept of investing called 
+the Nifty 50, where the idea was that you bought these 50 tremendous 
+businesses, equal weights, 2% in each, and you kind of set it and forget it, 
+and you made a lot of money. And the idea of the Nifty 50 was that you 
+really didn't care how extensive the business, it was a great business, you 
+bought it. And so for example, McDonald's was in there and Proctor & 
+Gamble's in there, Xerox and Kodak and all these, different businesses that 
+were really kind of strong and powerful, IBM and so on at that time. And the 
+Nifty 50 became so popular that those businesses went into stratospheric 
+valuations. And then in 73, 74, when we had the big, huge downturn in 
+equity markets, the Nifty 50 got taken out back and shot, and very little was 
+Pg 6 of 17 
+left off that portfolio, it was decimated. There's some controversy about 
+whether Walmart was part of the Nifty 50 or not. There's one group of 
+people who think that Walmart was part of the 50. There's another group of 
+people who think it wasn't, but let's go with the side that thinks that 
+Walmart was part of the Nifty 50. So, if you bought the Nifty 50 at whatever 
+ridiculous valuations it was trading at in the early seventies, and you went 
+through the whole 73, 74 downturn and never touched those 50 positions, 
+and you assume that 49 of those 50 positions went to zero except Walmart, 
+you ended up trouncing the S&P from 1970 to now by some signiﬁcant 
+margin, like, you'd be about like four percentage points over the S&P. So, I'm 
+taking a $100, I'm lighting ﬁre to 98 of those a $100 and taking those to zero, 
+I'm left with my $2 in Walmart, and my $2 in Walmart beats the pants off 
+the S&P and so that kind of data is somewhat in sync with Buffett's record. 
+the thing is that the, some of these investments he made are like holding 
+Walmart for 50 years. They're like that, they just had such powerful 
+economics. There was a very good investor in India who passed away 
+recently. He had a lot of health problems. He didn't live that long. He passed 
+away when he was 62 years old. And Rakesh Jhunjhunwala and he basically 
+never managed outside capital. He didn't have any money when he started. 
+He borrowed about I think about 10 thousand from someone to buy a few 
+stocks at 18% a year or something. He was paying that person. And he didn't 
+have any collateral when he was borrowing that 10 thousand, when the 
+person said, how do I know I'm going to get this money back? He said, I'll 
+put the stocks in your name so that, that you have those, and I have the 
+economic ownership, but if things go to hell and I can't pay you, you have 
+ownership of the stocks. And of course, he was able to pay him. But when 
+Rakesh passed away, so he never managed outside money, never started a 
+business or anything like that. When he passed away last year at the age of 
+62, he was worth about $7 billion. And half of that $7 billion, about three 
+and a half billion was one position. It was a company in India called Titan 
+Industries which is a jewelry, retailer and manufacturer. And about 25 or 27 
+years ago, Rakesh had put 4% of his net worth at that time into Titan 
+Industries. And he was a hyperactive trader where he'd sit, with three 
+screens and be in and out of all these positions all the time. But there were 
+three or four positions he had that he never touched. He just kept them 
+forever. And Titan was one of those positions. So, if you do the same thing 
+with Rakesh’s portfolio, where you torch 96% of the portfolio in the mid-
+nineties when he bought Titan, he still ends up with three and a half billion. 
+And so that's very similar to the Nifty 50.  
+So, the lesson, I think the lesson in investing is that it is a very forgiving 
+business. I mean, if you look at the Nifty 50, you could have been wrong 98% 
+of the time, 49 out of 50 times, and you still did okay, now you wouldn't 
+have done okay if you danced in and out of Walmart stock wouldn't have 
+worked. And in the last 50 years, nobody held Walmart stock. Nobody held 
+Walmart stock for the entire 50 years except the Walton family. And so here 
+was this great business, it was obvious it was a great business. It was doing 
+well; it was embryonic and going like crazy. People didn't hold onto it. So, 
+the key with investing in my opinion is not so much that we won't make 
+mistakes. We are destined to make a ton of mistakes. It's just the nature of 
+investing. John Templeton said, the best investment manager will be 
+wrong one out of three times, probably more likely would be wrong half the 
+Pg 7 of 17 
+time. If you look at the 200 bets Berkshire made, I will say probably a good 
+hundred would be mediocre or poor, and still didn't matter.  
+The concept that matters a lot is the concept of circling your wagons. So, 
+you don't really know a business till you invest in it. And it really takes you a 
+few years of ownership to really understand the business. You may have 
+some ideas about a business before, it's when it drops 40% in price after you 
+buy it, that's when you get a real education of what the business is all about 
+and what it's worth and everything else. Your analysis will be extremely 
+good at that point. It won't be so good before you buy the business. It'll be 
+good when it drops 40%, you'll be amazing at it. So, the important thing is 
+that all of us will ﬁnd ourselves in a happy situation every so often of 
+holding a small interest in a great business. And when that happens, what 
+you need to think about the portfolio, you need to think about the portfolio 
+in the form of a few concentric circles. So, at the very center of the circle 
+with a bunch of wagons circling around, if you go back to Rakesh 
+Jhunjhunwala is Titan Industries, and the next round of positions with a 
+bunch of wagons around it would be bets that he has less conviction on. He 
+might have like three or four others that he feels pretty good about, but not 
+as good as Titan. So, he puts, them in the next circle, and then you might 
+put the next set of positions in the next circle. So, one of the things I would 
+encourage you to do is that the portfolio you are inheriting, try to see if you 
+could put them in those different circles. So, we want to make sure that the 
+business or the businesses that we have that are just tremendous go at the 
+center. And the center needs to be a very rareﬁed space. So, it's not enough 
+for the business to be great. Like I said, it's very easy to tell. I mean, if I look 
+at the S&P 500, probably 200 of those 500 businesses are great businesses. 
+they wouldn't be in the S&P 500 if they weren't great businesses. So for me 
+to look at the S&P 500 and pick out, which are the best businesses, and in 
+fact even to even just rank them best to worst is a very trivial exercise. It 
+doesn't take much to do that. That'd be easy to do. What would be a much 
+harder exercise is which of the businesses will do the best for an investor 
+from today onwards, because when a business is great and the markets 
+recognize it as being great, then a lot of those prospects are discounted in. 
+And so when you become the 201st analyst to buy that business, what are 
+you bringing to the party? it's possible you have some insight that the rest 
+of the world missed. But if these are, widely followed, well understood 
+businesses those become difﬁcult and rare. So, for the innermost circle, 
+with the most precious cargo being circled by the, tightly formed wagons, 
+we need two or three things. We need a tremendous business which has a 
+tremendous growth runway which has very high returns on equity without 
+using leverage, which can reinvest capital at very high rates, and which has 
+a very modest price. The last one is the deal killer and the most difﬁcult 
+because everything else we can ﬁnd relatively easily. And the last one is 
+why, Munger says we need to go ﬁshing where the ﬁsh are. And he also, I 
+think few weeks back, there was a Daily Journal Annual Meeting, I think 
+about two weeks ago, and he was talking about, I think he was asked a 
+question about the single biggest ﬂaw a lot of humans have. And the 
+biggest ﬂaw humans have is denial. A lot of investment managers have 
+denial, where they are going up. If I am given a mandate to only buy S&P 
+500 names and beat the S&P by ﬁve percentage points a year, and I decide 
+to, and I need to have at least 20 names in the portfolio, I shouldn't even try, 
+that would be really hard to do. But a lot of other managers will try that, 
+Pg 8 of 17 
+and that's what Munger means by denial. So, with that, maybe we'll see 
+what else you guys want to talk about. 
+Phomolo: So, thank you very much. Just going back to great businesses, I read 
+somewhere that you think only about 5% of companies globally are great 
+businesses. So, I just wonder whether how you deﬁne a great business 
+might be different to other people. And also at the same time, perhaps 
+there were learnings that you went through your investment process or 
+decisions that you did make that actually made you think twice about what 
+actually a great business is versus what is not actually a great business. Can 
+you perhaps just take us through some of the mental models that you use 
+to make sure that what you are investing in is a great business? 
+Mohnish: Yeah, that's a great question. So, one of the hallmarks of a great business 
+would be durability. And one of the issues with capitalism is that if you have 
+a mouse trap that delivers high returns and equity grows a lot, does well, 
+etc., you have a target on your back. And other capitalists will try to come 
+and take market share from you, make the landscape far more competitive, 
+reduce the proﬁt margins, and even take you out of business. And the 
+reality is that most of those eroding invaders coming to take the castle will 
+succeed. So, if we look at how many businesses last 10 years after they have 
+formed, how many businesses last a year after they're formed? It's a very 
+small number. 10 years is an even smaller number, 20 years even smaller, 
+each time it's going down by a whole exponential, 30 years, 40 years, 50 
+years, just keeps going down. If we go look at the, another Dow Jones 
+Industrial average from a hundred years ago today you look at, kind of 30 
+most powerful businesses a hundred years back, it used to be only GE was 
+the one that came through. And then now GE is gone too, taken out back 
+and shot many times. And so basically a business, I mean, if you look at a 
+business like IBM, IBM is a very interesting case study because they were 
+able to morph and evolve and jump curves many times when they should 
+have died. when mainframes switched to many computers, switched to 
+PCs, switched to client server computing through many of those curves 
+IBM just kept plowing through, kept doing well, and now it's a shadow of its 
+former self. And investing in IBM hasn't been a pleasant exercise for maybe 
+a couple of decades now. So, one thing we must understand, so if we go 
+back and look at, okay, the oldest business in the world that I'm aware of is 
+about 700 years old. It's a very small boutique could hotel in Kyoto, Japan, 
+which is in the 36th generation of the same family running it. And so, when 
+we get to about three or 400 years or 500 years, you are left with, you're 
+basically left with liquor companies. liquor companies are great businesses 
+by the way. Tobacco companies, human vices. If you invest in the vices, you 
+do well. So, basically when we talk about great businesses, we must talk 
+about them with great humility. Because even if we look at a business like 
+Apple today, it absolutely dominates and is so entrenched alphabet, 
+Amazon, Microsoft dominant, well entrenched, deep remote businesses, 
+high returns and equity, just tremendous. Which of these will be with us 20 
+years from now, still thriving, 40 years from now, still thriving 60 years from 
+now? I don't know if I would make a bet that any of them will be thriving 40 
+years from, 40 years is a long time. 10 years, I don't think we can touch any 
+of them. I think they're all solid for 10 years. 20 years, maybe they're all still 
+there, after that who knows. So, one of the problems we run into in 
+investing is, on one hand I told you, circle the wagon. You ﬁnd this great 
+Pg 9 of 17 
+knight, controlling this great castle with a great moat around it. Just hang 
+onto it for dear life. And then on the other side, we have this, permanent, 
+creative destruction going on where even your most precious crown jewel 
+Numero Uno bet just gets decimated, taken out back. So, this is why, like 
+Charlie says, why should it be easy to get rich? so this is what makes it 
+challenging. So, what we must do is we have to circle the wagons that we 
+have to do, because without circling the wagons, you don't get to hold a 
+Walmart for 50 years. But the second thing we must do is we have to 
+separate signal from noise. So, what we must do is these businesses will go 
+through ups and downs. Nothing is straight forever. And so when they go 
+through these ups and downs, we have to separate normal cyclicality, 
+whatever's going on such as life from secular decline. And we cannot be 
+like, trigger happy. And when we are, we can be a little sloppy on the selling. 
+So, we can see something is declining, but let me be sure we are not 
+reacting to the noise. So, that's ﬁne, you can be a little bit careful on that, 
+but when you are absolutely convinced that some castle is in permanent 
+secular decline, you then must put the wagons around something else and 
+move from there. And those are not easy things to do, but that's why you 
+guys get paid the big bucks. 
+Phomolo: Thank you for that. You mentioned tobacco, you mentioned beverage 
+companies or alcoholic beverage companies, but when you look at a 
+company like Anheuser-Busch or BTI, they've pretty much done or they 
+haven't performed very well, as I say, over the past several years. So, even 
+they are great businesses, they've been great investments. So, what's your 
+sort of view of the disconnect then in terms of them performing? 
+Mohnish: Yeah, that's a great question, especially a great question to ask a teetotaler. 
+And so, I'll give you my best shot having never had a bud before. Basically, I 
+haven't really looked at those businesses, but I would say that, obviously 
+we've had some change in taste, where things have moved to the hard 
+seltzers and so on. It all tastes horrible to me, but some things taste less 
+horrible than some other things. Just to take a little detour is, me the 
+teetotaler had an investment in a liquor company in China called Moutai. 
+And I'll just tell you the story about Moutai for a second, and then we'll get 
+back to Anheuser-Busch after that. So, Charlie Munger when I got to know 
+him, he insisted that Li Lu and I should meet each other once a month for 
+lunch. So, I told Charlie, well, if Li Lu wants to waste his time with a yo-yo like 
+me, I'm more than happy to do that. So when I was in California, now Li Lu 
+has moved to Seattle. Do most of who Li Lu is? Most people don't know 
+who Li Lu is, so I'm like barking up the wrong tree. So, let me go a little 
+further back to ﬁrst explain Li Lu, and then we'll get to the Chinese liquor, 
+and then we'll get to Anheuser-Busch, and hopefully all that will happen 
+before it's all pumpkins and mice. But going back a little further, because 
+there's some lessons in each of this. So, Charlie Munger said that he read 
+Barron's for nearly 50 years. I think all what Barron’s is. And so, Barron would 
+show up every week at his home and he'd read it. And each issue of 
+Barron's probably has at least, 5 or 10 stock ideas, probably at least 10 
+different stock ideas. They have different write-ups, and people are, talking 
+about different businesses and all that. And so, if you take each Barron’s 
+issue, having 10 ideas, and you have 50 issues in a year, you have 500 ideas 
+in a year, and then if you go 50 years, it's 25,000 ideas. So, Charlie says that 
+for 50 years he read Barron’s and he read all these 25,000 ideas, and he 
+Pg 10 of 17 
+never acted on it, okay. And then in 2003, after 50 years of reading Barron’s, 
+he reads one idea in Barron’s that really excites him. So, suddenly Charlie is 
+seeing something in this writeup, which he could not see in the previous 
+25,000 writeups. And he had about $10 million of loose change lying 
+around. And he put the 10 million into this company that the world thought 
+was going to go bankrupt. It was Tenneco Auto Parts company. So, the 
+bonds were very distressed. The bonds were down to like 20 cents on the 
+dollar and the stock was very distressed, and the whole thing was very 
+distressed. But Charlie somehow was super excited about it, and he put $10 
+million into Tenneco. And then about three years later the $10 million had 
+turned into $80 million. Okay, well done, Charlie, well done. Okay. And then 
+Charlie decides to take the $80 million, give it to this Chinese guy that he's 
+met once to manage for him. And the Chinese guy who's met once is Li Lu. 
+Okay. So, I asked Charlie, I said, hey, Charlie, you meet this guy from China 
+one time, and you take the $80 million, which is little more than loose 
+change now, and just give it all to him. Why would you do that? So, he said, 
+“well, Mohnish, it was a no-brainer.” I said, “why was it a no-brainer?” He 
+said, “because I just looked at the guy's track record.” So, Li Lu was a 
+student leader in Tiananmen Square, and he was one of the main 
+instigators of Tiananmen Square. And the Chinese government basically 
+wanted to hang him at high no and be done with him. And so somehow, he 
+managed to escape to Hong Kong. And then a bunch of, Chinese, 
+dissidents in Hong Kong helped him come to the US and he got admitted 
+to Columbia University, and Columbia admitted him into three programs at 
+the same time. So, he did three simultaneous degrees at Columbia. He did 
+an undergraduate degree in physics, at the same time, an MBA at 
+Columbia, and at the same time he did a law degree at Columbia. And 
+when he entered Columbia, he spoke no English. And the university 
+basically gave him a free ride because he came with no money. So, they 
+said, okay, we'll fund you. And so, what they used to do is like, let's say there 
+was, $20,000 of expenses for the semester, they would give him the 
+$20,000, then he'd pay the fees and, have money for his living and all that. 
+The ﬂoat on that, on the money they get giving him every quarter or every 
+semester, he started to invest that. So, like for example, he's got money in 
+January, and it doesn't need to be paid to the landlord till March. we got 
+two months of ﬂoat. That's a long time, okay. So, he invested that two-
+months of ﬂoat. So, by the time Li Lu ﬁnished at Columbia with near the top 
+of his class in all three degrees he had converted that aﬂoat money into a 
+million dollars, okay. So, and then Charlie said, I just looked at what the guy 
+was doing, and to me it was a no-brainer. So, he gave 80 million to Li Lu, 
+which very quickly Li Lu turned into 800 million. And I think now that 
+money that Charlie gave to Li Lu might be sitting at like 1.2 or 1.3 or 1.4 
+billion or something. So now that we know what Li Lu is, and when Charlie 
+says, Mohnish, you should have lunch with Li Lu, I told Charlie, if he wants to 
+meet the yo-yo for lunch, the yo-yo is very ready to meet him. And so, I used 
+to meet Li Lu once a month for lunch, okay. And I told Li Lu, look, so 
+whenever I meet somebody for lunch, I don't drink alcohol and I don't 
+smoke, but I do like great food. So, I said, Li Lu, listen, near your home is Din 
+Tai Fung. Have any of you heard of Din Tai Fung? A few nods. That's 
+awesome. We have a few nods. It hasn't come to Toronto yet, but it'll come 
+soon. In the meanwhile, whenever you go to other cities, you can have Din 
+Tai Fung. Anyway, there was a great, it's a Taiwanese dumpling place. So, I 
+said, listen, while we are having great conversation, we'll meet at Din Tai 
+Pg 11 of 17 
+Fung once a month. He said, yeah, that's ﬁne. So, I meet Li Lu one time, and 
+he's telling me about this obscure Korean company called Amorepaciﬁc, 
+okay and he's trying to explain the, like the cosmetics business, this and 
+that, whatever. And I ﬁnished at lunch, I went back, I tried to look, 
+everything's in Korean, and then I found some places in California, which 
+carried their products. And I went to those stores. I could not make out 
+head or tail of this business, okay. Way outside circle of competence. So, I 
+said, okay, whatever aim or whatever. And then after about 18 months or 
+two years of meeting, he tells me, yeah, so did you invest in Amorepaciﬁc? I 
+said, Li Lu, I couldn't make head or tail. He said, it's gone up 600x. Okay. So, 
+then Li Lu tells me, Mohnish, you should buy Moutai. I said, Li Lu, I'm done 
+with these wacko names. So, here's what we are going to do. Don't tell me 
+go buy this and go buy that. Please spoon feed me everything I need to 
+know, because when I leave this lunch, everything in Moutai is going to be 
+in Chinese, and then I won't be able to do anything, and then I want to 
+meet you after two years, and it's gone up a 100x. And I'm again, the idiot 
+who did nothing with it. So, he said, well, you could have asked me that 
+about Amore, I would've explained it to you. I said, well, now I'm asking, 
+please explain spoon feed me Moutai. So, Moutai is the most, now it is the 
+most valued liquor company in the world. It's above every other liquor 
+company. It only has one product. Okay. The product costs about a dollar 
+50, less than $2 per bottle to make. And the last time I check it was about 
+$1,400 per bottle that they sell it for. So, like a 99.9% operating margin. And 
+so, I asked him a bunch of questions about Moutai, it was obvious, this was 
+a remarkable business, and it actually had gone down in place for 
+temporary reasons. And I made an investment in Moutai. And then and 
+Moutai instantly started elevating and moving up in price. Life is good. And 
+I told Li Lu, if you want to take the lunches to twice a month, I'm off that too. 
+In fact, if you want to meet me every day for lunch, that's also okay. He said, 
+we'll keep it to once a month. I said, okay, that's ﬁne, and so a few years after 
+that, I decided that the Moutai become such a big part of the portfolio that 
+maybe I should go visit the company.  
+So, I made a chip trip to China, and Moutai is in the middle, very obscure 
+remote area of China, which nobody would ever go to. And my friend Guy 
+Spier came with me and my daughter came with me, and we went to 
+Moutai headquarters. And because Li Lu was a big shareholder and he 
+helped set this up, they had arranged a great banquet for us at the Moutai 
+museum, and so at the banquet Guy Spier was with me, and my daughter 
+was with me. So, Guy Spier tells the host, “We don't want you to get 
+offended, but my friend Mohnish does not drink alcohol. And is it possible 
+to get him a Coke?” So, they said, “within this hallowed ground of this 
+restaurant, there are only two liquids that are served. It's water and Moutai, 
+and we would be offended if he did not consume Moutai.” So, if you ever 
+get a chance to have Moutai, tiny serving like this small, you have it neat. It's 
+like diesel going straight in. It's like concentrated diesel. That's all I can 
+describe it as. And I didn't want to offend the host, so I took one sip and 
+then my insides were burning for the next three days. So, that was my 
+experience, my one and only experience with liquor.  
+But anyway, coming back to Anheuser-Busch. So, I think the thing with 
+Anheuser-Busch is what we'd have to know is we have these kinds of 
+changes in human taste and trends. Is that noise or is that signal? It still has 
+Pg 12 of 17 
+a dominant position. It's still a great business in many ways. We must look 
+at the valuation. We've got to have some idea what it might do in the 
+future. And then if all of that becomes at the point of being a no-brainer, 
+like Tenneco was for Charlie, then we pull the trigger, otherwise we move 
+on. So, that's all I can say about liquor. 
+Phomolo: Cool. Thank you very much. I guess just to follow up, when are you meeting 
+management teams for instance, how do you go about assessing the 
+judgment between a good management team and a bad management 
+team? And I say that because usually when things are going well for a 
+company, everyone says, this is a fantastic management team. They say 
+they do fantastic work, XYZ, they're futuristic, they're thinking forward. But 
+when sending things do turn for that management team, people start 
+calling them naive. They're not really focused on what's the most important 
+thing for a company. So, I want to know how you go about differentiating 
+what makes a good management team versus the bad management 
+team? 
+Mohnish: Yeah. So, Warren has given us the framework on that. So, that's 
+straightforward. We simply look at the track record. So, all management 
+teams have one thing in common, especially all CEOs. They got to be CEO, 
+because they have great things, okay. And so, if you go meet a great 
+salesman and he talks to you about a subject on which he knows 
+everything, and nothing, and you rely on that information to make 
+decisions, you will not get to nirvana. You will get to the poor house. So, 
+basically the average public company CEO, being male and thereabout 
+would be someone you'd be happy to have your daughter married. They are 
+high quality, high integrity people, but they are optimists. And if they 
+weren't optimist, they couldn't lead. So, it's not like they're trying to mislead 
+you, they believe the Kool-Aid that they're trying to sell you. It's just that the 
+Kool-Aid may or may not be real Kool-Aid. So, the way to look at a business 
+and look at a management team is to look at what they've done in the past. 
+And if you go back and look at what they've done in the past, then it 
+becomes obvious. And also, sometimes you might be confused, was the 
+past great because the business was great, or was the past great because 
+the manager was great. And who was this? Who the American General 
+Patton. Patton used to always say that he didn't want his, the ofﬁcers, no, it 
+was Napoleon, sorry, Napoleon said he was not looking for his generals to 
+be great. He just wanted his generals to be lucky. He said, I want the 
+luckiest generals. I don't want the great generals. Okay, so when we look at 
+the history of a business under a given manager, did the business do well, 
+because the manager was great or did the business do well, because the 
+business was great. Like, if you look at a business like Coca-Cola, for 
+example, we know for a fact that for about 35 years or 40 years, it was 
+managed by idiot managers. And the business still did well. Despite the 
+idiots trying everything under the sun, they bought paramount pictures, 
+they bought shrimp farms in China, they bought all these stupid 
+businesses, which when the next team came in, they sold everything, okay. 
+They did all these stupid things, they couldn't kill the business, okay. So, 
+when we look back and we see great performance, it now doesn't matter 
+what we think of the manager, because more than likely that great 
+performance is mostly due to the quality of the business versus the quality 
+of the manager. And so, just like Napoleon, we want lucky generals. And so, 
+Pg 13 of 17 
+forget what the manager is saying, forget what he's forecasting, forget 
+what mumbo-jumbo tales their spinning for you. That's all hocus- pocus. All 
+we care about is what's happened in the past, and what's happened in the 
+past is not subject to debate, it's obvious. So, it becomes simple and 
+straightforward. 
+Phomolo: Thank you. Mckoy, you want to ask the question quick? 
+Mckoy: Yep. So, thanks Mohnish. Just turn into a few questions from the chat from 
+the students and other participants. So, this one is a bit of a segue into 
+what you mentioned about ﬁnding great businesses. So, the question is, 
+after you've identiﬁed a great business, what's your approach to valuation? I 
+know you hate Excel models and ﬁne tuning those models. So, what sort of 
+mental models do you use of value companies? And the second question 
+from the chat is on one of your commandments to look for the hidden PE 
+within your companies. What's your approach to that? And then how do 
+you go about, as a related question, how do you go about assessing the 
+normalized earning power of companies you're looking to invest in? 
+Mohnish: Yeah, so what we want to do is we don't want to use a lot of brain cells, 
+because we have limited brain cells. So, we want, what I would call no-
+brainers. And, like, I started making trips to Turkey about ﬁve years ago, and 
+in about two weeks, I'm going to Istanbul for about two weeks, and it 
+should be quite the orgasmic visit. But basically, I started going to Istanbul 
+about ﬁve years ago, just out of curiosity, because it was screening as 
+probably the cheapest market I'd ever looked at. And Turkey has very crazy 
+economic policies, 80% inﬂation. Everyone and their brother have exited, 
+and the local investors are gamblers. Their average holding period is like, six 
+hours. I have a good friend in Turkey. I told him to just if he would be, just 
+take me to the businesses that he already invested in, which he was very 
+happy to do. And in my second trip to Turkey, I ran to this company that he 
+was taking me to where the market cap was $16 million. And my friend was 
+telling me the liquidation value is like $700 or $800 million. So, I asked him 
+if it was a fraud. He said, no, I own part of the business and it's a perfectly 
+normal business. And I looked at the business and I really couldn't ﬁnd 
+anything wrong with it. I liked the people running it. And I really was kind of 
+scratching my head about the valuation. And then I thought, it's such a 
+nano cap, what am I going to be able to get for this? But for about $7 or $8 
+million, I got one third of the company. Now that market cap is about $350 
+million, and probably the liquidation value is around maybe one and a half 
+billion. It's a company, which what was exciting to know what that business 
+was, that it was trading at less than 3% of liquidation value, which is very 
+good for your health, because that's a straight 30x if liquidation value never 
+increases. And, but they were reinvesting capital at such high rates, 25%, 
+35% a year in dollars that I knew that that liquidation value was going to go, 
+as I'm tad ice. And so, I tried to buy as much as I could, and then I said, we 
+need to circle the wagons. So, I put it at the absolute epicenter that when 
+everything else is sold, you would still hold onto. So, I was only able to invest 
+1%, a little over 1%, maybe one and a half percent of my assets under 
+management into Reysas because it was such a small, like $8 million. And 
+now it's approaching like 25%, 30% of the portfolio, something like that. And 
+so, there was no need for excel. We could look at it was like, $12 million 
+square feet of warehouses, 80 bucks a square foot kind of replacement 
+value that gives you about $960 million, $200 million of debt at the time, 
+Pg 14 of 17 
+that's $760 million. And $16-$20 million market cap. You don't need to do 
+much more math than that if the warehouses are there and 99% lease and 
+inﬂation index leases, and Amazon is a tenant and car for the tenant, and 
+Ikea is a tenant and Toyota is a tenant, and Mercedes is a tenant, and 
+DuPont is a tenant, and none of those tenants are going to default on their 
+rents or try to bail out of the leases or anything like that. So, what we, now 
+something like Reysas, I know God loves me, but I know he only loves me 
+enough to give me one of these in my lifetime, one and done. He also 
+showed my tremendous love for me by putting me in front of Li Lu for 
+lunch. And then he also made Li Lu tell me about Amorepaciﬁc. But then 
+what God did was he took me, he took the horse to the water expecting the 
+stupid horse to drink, and the stupid horse was too dumb to drink the ﬁrst 
+time. And so, what we want to do, which is difﬁcult for you to do in your 
+fund, is we want to do what I would call anomaly-based investing. We 
+wanted to invest in things which make no sense. If it makes sense, don't 
+invest in it. So, like Mark Twain says, truth is stranger than ﬁction, because 
+ﬁction must make sense. We want to invest in things that don't make 
+sense. And when they don't make sense, that's when we've got a shot at 
+greatness. And excel is not going to help you make sense of something that 
+doesn't make sense. 
+Mckoy: It's hard to break away from the excel models. So, how another one? 
+Mohnish: the thing is that there's an AA program for people who have an Excel 
+addiction. You start by going to the meetings and say, I'm Mckoy and I'm 
+addicted to Excel. And then we'll all say, welcome Mckoy. And then the 
+healing will start. 
+Mckoy: I might sign up. So, I have another one here from the chat, and this one is 
+around Buffett's, I guess, famous approach of your circle of competence. So, 
+the questionnaire is, aren't you concerned about things outside of your 
+competence, great investments that you might be missing, because you're 
+sticking to that circle that you understand? 
+Mohnish: Yeah. So, it is important to not st ray outside your circle of competence. So, 
+the size of the circle is not relevant. You don't need to understand very 
+many things. I hate the defense sector. I don't like companies where there's 
+only one client and the client are the government. I hate the healthcare 
+sector because in the US it doesn't operate with market forces. There could 
+be great investments in the defense sector, great investments in the 
+healthcare sector. Moderna might be a great home run, etc., but they don't 
+fall within my circle of competence, so that's perfectly ﬁne. So, don't have 
+envy, oh I should do this, or someone else understands this, or my idiot 
+neighbor is becoming really wealthy because he bought salesforce or 
+whatever. The problem is if you invest without conviction, you will not be 
+able to hold the company, and you will also not be able to separate the 
+signal from the noise. So, it is important that you understand the business 
+well, because understanding the business well will help you decide, is this 
+something that I need to hold forever, or is this something that I could 
+possibly replace with something better and so on. So, I think there is no 
+substitute for circle of competence.  
+Charlie Munger has a billionaire friend who passed away recently John 
+Arrillaga. And the interesting thing is John Arrillaga’s daughter is married to 
+Mark Andreessen. So, she's already a daughter of a billionaire, and then she, 
+Pg 15 of 17 
+randomly chooses to date a billionaire and then it's billion to the power of a 
+billion. And I've lost count of the billions now. So anyway, John Arrillaga 
+basically only invested in real estate within two miles of the Stanford 
+University campus. And he never went beyond that. He did not invest in 
+Northern California real estate or Bay Area real estate, or California real 
+estate, or New York real estate, or Toronto real estate or any of that. And if 
+you were walking with him around the Stanford campus, he could tell you 
+the history of every building. He could tell you what the rents were, what 
+the price was, what everything was. And basically, when people became 
+very pessimistic about real estate around Stanford, he would load up on 
+these businesses. And when people became very euphoric about these 
+things, and they were bid up to crazy levels, he un-load them. He did that a 
+few times, and he ended up with, several billion dollars. He didn't 
+understand anything about an Anheuser-Busch. He never understood 
+anything about Moutai or Amorepaciﬁc, or, going to Turkey or anything 
+else, all irrelevant to him. So, I think sticking to circular competence, there's 
+no substitute for that. One of the most important things to do, and all of 
+you, when we start out our circular competence is very narrow. because we 
+haven't had a lot of experience, we can only really understand products that 
+we've used in the past, and a small spec level of them. We could probably 
+understand the economics, but that's okay. Over time, the circle will expand 
+naturally, we don't really need to worry about it. But even if it doesn't 
+expand, like it never expanded for John Arrillaga, it never really expanded 
+for Sam Walton. Every entrepreneur, for the most part, has very narrow 
+circle of competence. they're inch wide and a mile deep, and that's how 
+they succeed by being a inch wide and a mile deep. So, we want to really 
+make sure that the bets we make are businesses we really understand well. 
+Phomolo: Thank you very much. We're coming close to time. Just wanted to ask you a 
+quick question. Going back to your multi wage approach where some 
+companies want to hold for dear life, you've mentioned that you only want 
+to sell it when it gets egregiously overvalued. So, what's the difference 
+between egregiously overvalued and being greedy? Like, when do where to 
+sell off? 
+Mohnish: Well, you would want to basically make that decision when it's a no-brainer 
+decision. So, if you are confused about it, it's not yet time to sell. So, it's like 
+you couldn't possibly justify that valuation no matter what. no matter what 
+kind of, rose colored glasses you put on, you can justify it. I had made an 
+investment, this was one of the ﬁrst investments I made when I started 
+investing in 1994, almost 29 years ago. And at the time, I was running an IT 
+services company in Chicago, and I made this investment in this IT services 
+company in India called Satyam Computers. And I knew those people, they 
+used to come and meet me in Chicago periodically. So, I knew it was a good 
+company. I knew they were growing fast. And then I looked at their 
+valuation at that time. India was very undervalued then just the real estate 
+they owned in Hyderabad exceeded the value of the business. And this was 
+the IT company that was growing like 70% a year and, huge margins and 
+everything. So, I didn't put much, I think I put about $10,000. At that time, I 
+didn't have much money. I had about a million dollars. So, about 1% of my 
+portfolio, small. $10,000 went into this company. And I basically said, it's one 
+of the businesses I understand well, it's got a very long runway, all these 
+things, I'm not going to look at it. And in that time, in India, they didn't have 
+Pg 16 of 17 
+Demat. So, I got physical share certiﬁcates sent to me, which I just stuck at 
+the bottom of my drawer, and I said, okay, we'll open this when I'm a much 
+older man, see what we can do with it. And I just didn't really follow the 
+company much. And I noticed when the .com bubble was raging in early 
+2000, about ﬁve, six years after I bought the company, that it had gone 
+from 40 rupees of share to 7,000 rupees a share. It was trading at a, like a 
+150x including like some currency that went against me. So, it was 150x in 
+dollars. And I looked at it at that time. I mean, I knew their business was 
+doing well, but there was no way to come up with evaluation that would ﬁt 
+no matter how optimistic I was. And so, I said, as much as I like this, we got 
+to let this go. And I was also very skeptical about the whole process of 
+sending the certiﬁcates back, and I didn't know whether the Indian 
+government would allow me to repatriate the money. they said in theory, 
+you can take everything back, but I said, I only gave them 10,000 and I'm 
+going to, pull out 1.5 million or something, and they're going to like choke 
+on that. And so, I wasn't sure it all go through but it did, everything went 
+through and I sold within 10% of the peak. And about nine months later it 
+had dropped 85%. Still would've been a good home run, but that was my 
+ﬁrst a hundred bagger. And so, life was good. And so far, I've only had 200 
+baggers. I shouldn't say only, even one is good. And possibly with the one in 
+Turkey, we'll have a third one that'll be the most fun I think, because it has 
+the most meaningful amount of capital in it. So, basically when things get 
+to total no-brainer territory that it's just completely egregious, that's when 
+you add. 
+Mckoy: I'll take the last one from the chat before we close. This one is a, I guess a 
+more macro sort of question. It involves your investment thesis or your 
+investment approach to your Chinese investments, has it changed? Has it 
+evolved given what's happening with the fundamentals of the Chinese 
+economy? 
+Mohnish: Yeah, I think China is a dif ﬁcult place to invest. I think that we only have 
+really one investment. We still have a tiny amount of Alibaba left, which is a 
+mistake, but we have one investment which is in the South African 
+company called Prosus. But in effect, it's an investment in Tencent. We still 
+own it. I think Tencent is a very remarkable business, but there are aspects 
+of that business which are difﬁcult for someone like me to ﬁgure out how 
+the Chinese government thinks of them and all of that. It's also a mega cap. 
+One of the issues is, there's a law of large numbers. So, if I want to focus only 
+on hundred baggers and, Tencent have the $300, $400 billion market cap, 
+to get a 100x we are looking at $30, $40 trillion. And there are no $30, $40 
+trillion market cap businesses anywhere on the planet. They cap out at 
+about 5% of that number currently. So, that's the other thing. We may do 
+okay on it. If I ﬁnd something better, I will switch it. 
+Phomolo: Cool. Thank you very much for your time today. I think that brings us to the 
+closure of the event today. We do thoroughly appreciate you taking so 
+much time to speak with us today. We've learned a lot and I've learned a lot. 
+I'm sure our team also learned a lot. We're looking forward to seeing how 
+they put their learnings if you practice in a few weeks’ time when they do 
+their ﬁnal stock pitch. We'll see if they have DCFs or not, but we'll see how 
+that goes. And then obviously it says a lot about person on the take time 
+out of the day to speak with us when they have no reason to do so. So, it 
+does mean everything to us that you do take time today to speak with us. 
+Pg 17 of 17 
+We're highly appreciative and we do look forward to continuing this 
+relationship with you, and we wish you continue success, looking forward to 
+more talks and all the best for future. 
+Mohnish: All right. Well thank you very much. I very much enjoyed the session and 
+some great questions and I'm sorry for the long-winded answers and the 
+detours. But hopefully you got something out of it, and I wish you all the 
+very best. 
+Phomolo: Thank you very much. 
+Sean: Thank you. 
+Mohnish: Thank you. 
+Mckoy: Thank you. 
+Rinal: Thank you so much, Mohnish. 
+  
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not intended 
+to be, ﬁnancial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not be suitable for 
+you, do not take into account your particular investment objectives, ﬁnancial situation or needs and are not intended to provide 
+investment advice or recommendations appropriate for you. Before making any investment or trade, consider whether it is 
+suitable for you and consider seeking advice from your own ﬁnancial or investment adviser. 

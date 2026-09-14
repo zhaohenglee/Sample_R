@@ -1,0 +1,489 @@
+Pg. 1 of 12 
+Mental Models for Running Startups and Businesses,  
+SXSW 2026 on March 16, 2026 
+ 
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not intended 
+to be financial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not be suitable for you, 
+do not take into account your particular investment objectives, financial situation, or needs, and are not intended to provide 
+investment advice or recommendations appropriate for you. Before making any investment or trade, consider whether it suits you 
+and seek advice from your financial or investment adviser. 
+ 
+ 
+Mohnish: Great to be here, and thank you for taking the time to come to this session.  
+Charlie Munger gave a talk a few decades back at Harvard, The Psychology of 
+Human Misjudgment. Later, he revised that talk for Poor Charlie's Almanack , 
+which is wonderful. I try to reread it every year.  
+But it took me many years to understand what Charlie was talking about. Even 
+though he tried to dumb it down for all of us, it still took me a while. I wanted 
+to present some of these ideas related to mental models in a slightly different 
+context and format than he does.  
+Mental models are realities that, when we encounter them for the first time, 
+surprise us. We already understand a lot about how the world works, but we 
+periodically encounter things that make us think, “Huh, I did not think that was 
+true.” When we incorporate these truths into how we make decisions, we start 
+gaining advantages over other humans who may work harder or even be 
+smarter. It is when you start cascading the models together in the same 
+direction, for the same effort, that you get what Munger would call lollapalooza 
+effects; 1 plus 1 becomes 11, and 1 plus 1 plus 1 plus 1 becomes over 1,000, and so 
+on.  
+The bedrock model —and without this model, the others do not work —is this: 
+You take a simple idea, and you take it seriously. If you do not buy into this 
+model, there is no point in looking at anything else. When you encounter ideas 
+that sound strange or unusual, but you eventually become convinced they 
+reflect how the world works, you have to go all in. If you do not go all in, it just 
+does not work. No matter what we are doing, anytime we are using this 
+latticework of mental models, we must always include Model 1: take it very 
+seriously.  
+There was a kind of New Age guru in Sedona, Arizona —he has passed away 
+now—David Hawkins. He wrote a book called Power vs. Force. When I 
+recommend this book to people I know, I tend to get one of two reactions: They 
+either want to throw the book at me, hoping it hurts, or they love it. I never get 
+a middle reaction—it is always one extreme or the other. David Hawkins offers 
+a perspective that challenges how we think about truth. We tend to see truth 
+Pg. 2 of 12 
+as binary—1 or 0. You are either lying or telling the truth. But that is not how 
+truth and lies work. Instead, it exists on a logarithmic scale. 
+If you imagine a graph, at the top right-hand, you might have Jesus and 
+Buddha—extreme truth leading to extreme trust. That is aspirational; most 
+humans will not get there. A bit below that, you might place people like Warren 
+Buffett or Charlie Munger—about as high as you can get in the capitalist world. 
+Further significantly below that, you will find many of us. It is important in life 
+to try to move as far to the right of that curve as possible, because as you do, 
+the payoffs become exponential.  
+Let me give you an example of why this is not binary. Most of us think, “I always 
+tell the truth—I am not deceitful.” But let us say my partner and I are going out 
+on date night. She is ready and asks me, “How do I look?” Now, let us say I do 
+not think the dress looks great. I also know that if I say that and suggest she 
+change it, that might be the end of date night.  
+The pre-David Hawkins, Mohnish would have said, “Oh, you look great.  Let us 
+go.” The post-David Hawkins Mohnish does not want to deal with white lies, so 
+I would say, “I do not think the dress looks great—I think you should change.” It 
+might lead to no date that night, which is fine. But over time, what happens is 
+that trust goes up big time. As you go through life, you have to eliminate the 
+small lies. And those small lies happen all the time, because life often feels more 
+convenient with the white lies here and there. As you start thinking about this, 
+you will begin to see that there is a spectrum. It is not just 0 or 1, and moving 
+toward the right is not that easy.  
+If we look at a place like Costco, for example, they have a rule that nothing gets 
+marked up more than 15%, no matter what kind of deal they get. Sometimes —
+like in one case —they got a large batch of Levi's jeans in a closeout. They got 
+them cheap, like $14 a piece or something. The team wanted to price them 
+significantly below retail, which was maybe $50 or $60. They could have priced 
+them at $30, for example, and they would have flown off the shelves. But Jim 
+Sinegal, the founder and CEO, did not allow them to do that. He said, “We 
+cannot do that because once we start doing that, we would violate trust.” His 
+buyers and team told him, “Jim, there is a lot of money being left on the table.” 
+But he said they just could not do it. Costco does not mark up anything more 
+than 15%. The end result is that many of us are fanatical about Costco. We are 
+fanatical because that trust is there. That trust does not get built in one or two 
+days—it comes from cascading sets of actions that build over time.  
+Costco pays its people more than other retailers —a lot more than what 
+Walmart pays. They have low turnover, and people stay for a long time. The 
+current CEO started as a forklift operator, so people build entire careers there. 
+It is not just about customers ; they take care of vendors, employees, and 
+everyone in the ecosystem. It is a great system built on trust.  
+Pg. 3 of 12 
+To me, the second model—and the models I am going to talk about today, since 
+we do not have enough time to cover everything are just a sampler —are more 
+focused on today are more focused on building a startup or running a business. 
+But some of them also apply to everyday life. For example, Power vs. Force and 
+the idea of trust versus truth can help you in everything.  
+Then we have this Marc Andreesen quote: “The world is a very malleable place. 
+If you really want something and you go for it with maximum energy, drive, and 
+passion, the world will reconfigure itself around you much more quickly and 
+easily than you would think.” Going back about 2,700 years, I do not think Marc 
+plagiarized from the Upanishads in India, but they wrote: “As is your desire, so 
+is your will. As is your will, so is your deed. As is your deed, so is your destiny.” 
+The punchline—which is Model 2—is: Your deepest desire is your destiny.  
+Now, when I talked about Model 1—taking a simple idea seriously—you have to 
+go all in on this. If you want to benefit from it, you must believe in it completely. 
+If you really want something, it does not matter what you know or what your 
+expertise is. It will happen.  
+David Senra, whose podcast I really like – The Founders Podcast, says, “Belief 
+comes before capability.” If you study many of the greats in business, arts, 
+music, and film, it always starts with belief —the capability comes later. If we 
+truly have passion for something - if we truly believe the world should be 
+different in some way and we go all in - it is going to happen. This is an 
+important model to keep in mind when embarking on something new.  
+Jeff Bezos talks about asymmetric bets  - high upside, low downside. He says 
+that in baseball, if you hit a home run, you get four runs—that is the maximum. 
+But in business, there are possibilities of 1,000 runs or even 10,000 runs. 
+Whenever we are embarking on business ventures, Model 4 for me has always 
+been the bedrock: Heads I win, tails, I do not lose much. I configure things so 
+that if they do not work, it is almost irrelevant—almost no downside. And if they 
+do work, then it’s 1,000 runs.  
+We always have choices in how we approach things. For example, one of the 
+other models that will come up in a few more slides is that we do not need 
+capital to start a business. In fact, more than 99%+ of businesses in the U.S. and 
+around the world are started for less than $10,000. The largest businesses on 
+the planet - the Walmart’s of the world - were started with nothing.  
+This dovetails into another model: If you are looking to start a business, do not 
+waste time raising money, because you do not need money to start a business. 
+Moreover, if you do not put in capital, you do not have a downside. Model 4 is 
+an important one. If you study companies like Walmart, IKEA, and many others, 
+you will see a common thread: They took little risk, did not put in significant 
+capital, and scaled it.  
+Pg. 4 of 12 
+Another model, which ties into “heads I win, tails I do not lose much,” is this: 
+There are 168 hours in a week, and your employer only needs 40 of them. You 
+can walk and chew gum at the same time. The easiest way to eliminate risk 
+when starting a business is not to quit your job, but to reduce your effort to just 
+above the firing level. Once you want to change the world and pursue your 
+deepest desires, you are no longer focused on being employee of the month or 
+employee of the year. You are focused on covering your rent and groceries. If 
+you study the whole week with 168 hours, there are at least another 40 or 50 
+hours to put into your venture. When you put that time into your venture, the 
+cost is zero. When that venture starts to get some traction, you switch over. 
+That is what I did. If the venture fails, it is not a problem. You go back to square 
+one, come up with a new idea you are passionate about, and go for it. In my 
+case, it was the third venture. I never quit my job until that one worked—then I 
+moved on. It was fine.  
+Then, be a shameless cloner. Sam Walton said there has never been—and never 
+will be—a human who visited more non-Walmart stores than he did. He spent 
+an inordinate amount of time in his life going to competitors' stores. Whenever 
+he visited any Walmart, he would also visit nearby retail establishments and 
+study them. Walmart was built with no original ideas , everything was copied. 
+He did not come up with anything new.  
+Once, he visited a store with some of his managers. When they came out of the 
+store, one manager said, “Sam, that was such a poorly run operation—the whole 
+place was a mess.” Sam replied, “Yes, but did you see the candle display? It was 
+amazing.” He could learn from even the worst operators by extracting what he 
+could.  
+Everything that worked at Microsoft was stolen from elsewhere —Word from 
+WordPerfect, Excel from Lotus, Windows from the Mac. Even MS-DOS was not 
+stolen; it was bought. Microsoft has spent a lot of money on research, but 
+nothing has come out of that. Everything has come from cloning. Even now, 
+with AI and everything else they are doing, it is not coming from inside. It is 
+coming from outside. 
+Cloning is a powerful model. Many smart people have already figured things 
+out, and the world can accommodate multiples of the same thing. Just because 
+there is a Starbucks does not mean no one else can open another coffee shop.  
+Warren Buffett says that if you hang out with people who are better than you, 
+you get better. If you hang out with people who are worse than you, you get 
+worse. With Model 6, the important thing is that these models only work if you 
+take them seriously. If you truly buy into this model, you would list your friends 
+and categorize them —which ones are better than you, and which ones are 
+worse. The “worse” group would be wiped out. We do not care about loyalty. If 
+you buy into the model, then the model is what we care about. If you like Joe, 
+Pg. 5 of 12 
+but Joe is a yo-yo, he is going to pull you down. You have to decide: Do you 
+want to be pulled down, or do you want to go up?  
+Model 6 is difficult because you have to be a harsh grader. Even Model 2 is hard 
+because you have to get rid of the white lies. But when you start making these 
+changes, it opens up space. When Joe is gone, Steve can come in. That is what 
+is important. Bring Steve in, let Joe go.  
+Then, there are some hiring hacks, like “hire slow, fire fast,” and “hire for 
+capability, not scale.” I do not have many people in Austin—we have only three 
+full-time employees. All three were hired as fresh graduates. I do not have 
+anyone working for me full-time who had prior experience before they were 
+hired. Now, I cannot do without them because they know too much and are 
+good. When we go after fresh grads, we go after capability. We are going after 
+an amazing pool. When hiring, the important variables are: high integrity, high 
+intelligence, and high energy. We have to have all three. These are simple hiring 
+hacks that work well. 
+Incentives are a lot more powerful than you think. Charlie Munger used to say 
+that every year of his life, he encountered nuances about incentives that told 
+him that whatever he thought about the power of incentives in the past was 
+not enough, and that it was even more powerful than he thought. There are 
+two books that are good. One is Copy This!   by Paul Orfalea, the founder of 
+Kinko's and Les Schwab, who built a successful set of tire repair and service 
+shops in the Pacific Northwest. Both were smart about how they used 
+incentives to scale their operations. When building an organization, you have 
+to be smart about incentives. Humans are heavily driven by them.  
+Again, you do not need money to start a business —you can start with no 
+capital.  
+Zen and the Art of Motorcycle Maintenance  is a difficult book to read. If you 
+pick it up and read it, I suspect most of you will give up before you get to the 
+end—but please try. You may not fully understand it on the first read, and that 
+is okay—you can read it again. What Robert Pirsig talks about is the intense and 
+extreme pursuit of quality. He gets that message across in a roundabout but 
+beautiful way, so it takes time to understand where he is coming from. He even 
+talks about ghosts in the middle of the book —that is where many people get 
+lost—but push through and read it. The book shows the power of bringing 
+extreme quality into everything you do, which gives you a big leg up in life.  
+It is easier to build a great business than a shoddy one. If you focus on building 
+a great business with a great foundation, it becomes easier to attract people, 
+customers, and the whole ecosystem to work with you. Even though it may feel 
+harder upfront, playing the long game , never thinking of an exit, and making it 
+your life's work—those are wonderful things to do.  
+Pg. 6 of 12 
+The purpose of business is not to make money. The purpose of business is to 
+deliver a great product or service to humanity. If you do that, the money will 
+follow. If you start with the notion of becoming an entrepreneur just to get rich, 
+you are not going to get rich.  It will not be a fun journey. But if you start with 
+the idea of serving humanity in a great way, there will be a basis to get there, 
+which will be great.  
+When I started my first company, I put value on my own time. At that time, I 
+valued my time at $50, $75, or maybe $100 an hour. Anything that could be 
+done for less than that, I passed on. Almost everything you want done can be 
+done by someone else for less than $100 an hour , maybe much less. Certainly, 
+for a few hundred dollars an hour, almost everything can be done. Today, I 
+would value my time at a few thousand dollars an hour. I try to work only on 
+things that I am intensely excited about, and have a team that can work on the 
+rest. It is important to think about this from an efficiency point of view and bring 
+in a team that can help you.  
+I talked about these 13 models, and when you are building a business and apply 
+all of them at the same time, there is an exponential effect. Each one is 
+powerful on its own, but when you cascade them together, you gain a huge 
+edge. As I was reviewing these slides, I realized there are several other models 
+I use when running a business. For example, whatever idea you come up with 
+for a startup or business is probably not going to work because you came up 
+with it in some ivory tower between your ears. That is not a good place for great 
+ideas. What happens is that when you present your idea to potential customers, 
+they tweak it. The important thing for an entrepreneur is to be in listening 
+mode—to be listening carefully.  
+For example, when I was working on my third startup, just before I quit my job, 
+I had a slide deck and would take half-day vacations to present it to potential 
+customers. I was at a large bank in Chicago, going through my deck, when the 
+CIO in the room stopped me at slide 11 and said, “Go back to slide 10.” I went 
+back, explained it again, and moved to slide 11—he said, “Go back to slide 10.” It 
+happened again until he finally said, “Do not move past slide 10. I have no 
+interest in any other slide. We are going to stay on slide 10 for the rest of this 
+time." So, I said, “Okay —we are staying on slide 10.” What I realized was that 
+slide 10 addressed a severe pain point for him. None of the others mattered. I 
+had been saying we could do X, Y, and Z —but he was not interested. He was 
+only interested in one thing. Then, I realized it was not just him , everyone else 
+was only interested in slide 10. I had to listen. If you listen, your customers are 
+going to tell you what to do. I redid the deck. Slide 10 became 20 slides, and all 
+the other slides went away. At the next presentation, 15 minutes after I finished, 
+I received a purchase order. It kept happening because now it was a pinpointed, 
+laser-guided missile on a pain point. This guy’s pain point was everyone else’s 
+pain point as well. There was no way I could have come up with that. It was 
+beyond my pay grade to come up with that.  
+Pg. 7 of 12 
+Your customers will direct you to what you need to be doing. Whatever you tell 
+them that you want to do for them is not going to be correct. You have to listen. 
+Sometimes it will be slightly off, sometimes it will be significantly off. But if you 
+listen, they will educate you. That is a model I did not include, but it is an 
+important one: Your customers are going to tell you what is going on.  
+Another important model is this: In any market that you are going after, two or 
+three players will have 80-90% of the market. It does not matter whether it is 
+paperclips or airplanes. If you say, “This is a $10 billion market, and I only need 
+2%,” it is not going to work. What that means is that you have not done the 
+segmentation. What needs to happen is you need to say, “Okay, this is a market 
+of this size, and my offering is so good that I can take 70% market share.” If you 
+start out saying, “I am going to take 2% of a large market,” you are going to fail. 
+But if you say, “I am going to take 70% of the market,” you have a chance.  
+These models focus on starting and running a business, but Charlie Munger's 
+models are much broader—they apply across life in general.  
+I want to shift gears a little bit. I listen to The Founders Podcast every day. How 
+many of you listen to The Founders Podcast? Raise your hands. We have a few 
+hands, but it needs to be a lot more. What I have found is that he has around 
+400+ episodes. He reads a book—not a summary of a book—and he analyzes it 
+and correlates it with other books. There were books that I have read. Mostly 
+business biographies, but he also covers artists and leaders like Picasso, 
+Michelangelo, Winston Churchill, Alexander the Great, and Ernest Shackleton—
+people across many different fields. What I noticed is that when I had already 
+read a book and then listened to the podcast episode about it, I gained insights 
+about the book that I had not gotten when I read it. I noticed this with multiple 
+episodes. I realized that he is a far better reader than I am. He is much better at 
+extracting. He extracts insights—real nuggets—that I wish I had extracted from 
+these books myself. If I read on my own, I might get through one book a week, 
+maybe two at most. But the podcast takes about one hour, and I usually listen 
+to at least an hour a day. I thought, “This is like the old Miller commercial . It 
+tastes great, and it is less filling.” Only people my age will understand that. The 
+younger crowd has no idea what I said. What I realized is that it is better to 
+listen to a podcast episode about a book that Senra has done than to read the 
+book itself. The book might take 10-20 hours, while the episode would take 1 
+hour. After 20 hours, I still would not extract what he is giving me. It was 
+amazing. That was like taking Model 1: Take a simple idea and take it seriously.  
+Another thing is that when we read books, we censor them. We choose what 
+books we want to read. That narrows what data you take in. With the podcast, 
+I have no control over which books David Senra chooses. I decided to listen to 
+every episode, regardless of the subject or author, because I would be taking 
+all those inputs, and that would introduce randomness. 
+Pg. 8 of 12 
+That is another model: Introduce randomness into your life. Charlie Munger was 
+a big proponent of that. Randomness is important. The Founders Podcast  has 
+made me far more efficient. I have now listened to about 270 episodes. I started 
+with the most recent and worked backward. Right now, I am listening to 
+episodes that were recorded in September 2020, but I am going to go all the 
+way back and will likely finish all of them in the next 6-10 months. Other great 
+podcasts include Business Breakdowns and Acquired. I am going all in—taking 
+it seriously and extracting everything from these podcasts. Podcasts are great, 
+and we should go all in. 
+That is an example of another mental model where you combine Model 1 and 
+Model 14. It gets you somewhere, which is a great place to be.  
+If you read these three books —Poor Charlie's Almanack, works influenced by 
+Robert Cialdini, who is a good friend, and a most recent one by Kevin Kelly that 
+I discovered through The Founders Podcast—you will learn more than from any 
+college degrees. They are accessible, cheap, and excellent. The best things in 
+life are free. These are not all the models —there are a zillion more that we are 
+not going to be able to talk about today.  
+The first model: “fast is slow.” A good friend of mine, Duan Yongping—I call him 
+Ping—is the founder of OPPO and Vivo, which are among the largest mobile 
+phone brands in China. They are right after Apple and Samsung. They might 
+even be ahead of Samsung. Ping lives in the Bay Area, but his companies are 
+based in China. He is a multi-billionaire. He meets his management team once 
+a year—for about 15 minutes. One year, he went to China. He went into a large 
+boardroom and sat at the head of the table. He told me, “Every year I have a 
+different message, but one year, I went in and said three words and walked 
+out.” I asked what the three words are. He said, “I said ‘fast is slow’ and walked 
+out.” He said the entire team spent about three months trying to figure out 
+what those three words meant. When they did, they killed all the competition.  
+Question: At the beginning, everyone is better than you. Over time, what happens when 
+you become better than them? Do you boot them? 
+Mohnish:  Of course. We are not loyal. You have to decide: Do you want to be loyal or do 
+you want to grow? 
+Question:  Can you think of a decision in your life that demonstrates the power of mental 
+models in practice? 
+Mohnish: When Michelle introduced me, I forgot to tell her that whenever I am 
+introduced, I do not want them to talk about anything except that I have a 
+lifetime ban from playing blackjack in Vegas. To me, that is the highest 
+accomplishment—not everything else she said.  
+Pg. 9 of 12 
+I came up with a system for playing blackjack that did not involve counting 
+cards. Going back to the model that belief comes before capability, it took me 
+a while. I first believed it could be done, then I did it. I started going to casinos 
+and executed on it. I made a lot of money. Then I was at a seedy casino in Vegas 
+that had a single-deck blackjack game with thin odds, where my system would 
+work. The manager came and sat next to me when I was playing. I knew him 
+well. He told the dealer to stop dealing. She was in the middle of a hand and 
+tried to finish it, but he shouted, "Stop right now." She was taken aback, so she 
+stopped. He told me, "Mr. Pabrai, you can come to this casino anytime you 
+want, but you cannot sit at the blackjack table." I asked why. He said, "We 
+cannot beat your system." I told him, "I am not counting cards." He said, “We 
+know you are not —that is why it took us six months of watching all the tapes 
+to figure out that whatever you are doing, we are losing.”  
+That is one example. But repeatedly, I found that “belief comes before 
+capability” is powerful. When people start businesses —whether it is Ford or 
+Microsoft—the founders do not know what they are doing at the start. They 
+figure it out along the way. An important model — “the Power vs. Force model 
+of trust versus truth—makes life simpler. It is like breathing. You do not have to 
+lie; you just lay it out the way it is. It makes life simpler. There are many models. 
+And I use them all the time.  
+Question:  Which model has had the single biggest impact on your life? 
+Mohnish:  I would say it was the Charlie Munger talk. Even though he explained it simply, 
+it took me decades to figure out what he was talking about —the notion of 
+understanding that 1 plus 1 is 11. Charlie had mentioned it, but it took me a while 
+to figure it out. Once you start putting these models together, that is when you 
+start seeing these exponential effects. That is one thing that you can keep in 
+mind.   
+Question: What is the main outcome of the models? Do you think it is just success or 
+happiness also?  
+Mohnish:  The models are not just about success. They are definitely about happiness. I 
+am not focused on success. I am focused on happiness. The models crystallize 
+things. The harsh graders and getting rid of the yo-yos and all that sounds 
+harsh, but life becomes happier. When you have certain people in your life, you 
+cannot have certain other people in your life. Life is about choices, and many 
+times they are hard choices. We have to take that.  
+Question: Do these models mainly apply to tech startups, or can they also work for 
+something like opening a coffee shop or yoga studio? 
+Mohnish:  In fact, it applies more to the coffee shop or yoga studios than to a tech startup. 
+I am not a tech guy. One of the things that happens in the media is that venture-
+backed startups get a lot of press. There are more than a million businesses 
+Pg. 10 of 12 
+started in the United States every year. Less than 1/10 th or 1% of them are 
+venture-backed. That means 99.9% of them are coffee shops, yoga studios, and 
+Chinese restaurants. These models absolutely apply to them. In fact, that is 
+where they should be applied.  
+Question:  Do not leave us hanging. What was the blackjack system that got you banned?  
+Mohnish:  There is a casino in Vegas called El Cortez. It was built in 1942 by Bugsy Siegel, 
+who was later gunned down for overruns on the Flamingo. He had done the El 
+Cortez before he did the Flamingo. The El Cortez is in downtown Vegas, slightly 
+away from the main downtown drag. To induce people to come in, they came 
+up with a single-deck blackjack game with the best player odds anywhere. 
+There is also a website called bj21.com. Just to be clear, I have nothing to do 
+with this website, and I do not gain anything from whether you go there and 
+spend money on it or not. This is a disclaimer on that. It is run by someone I do 
+not know, but they publish monthly PDFs showing the odds of every blackjack 
+table across North America.  
+For example, if I look at Wynn Las Vegas, they have three or four different kinds 
+of blackjack games. It tells you how many tables there are of each one, the 
+exact rules of each one, and what the odds of each one are. When I looked at 
+BJ21 many years ago, I scanned the entire 30-40-page PDF for the odds of 
+everyone and found that El Cortez had the thinnest house edge of any casino—
+0.13%. I said, “Okay, this is the place to test my system because they only have 
+a 0.13% of house edge.” I do not have time to go through the whole system, and 
+I do not want to take away the fun that you guys will have with figuring it out, 
+but I will give you some hints. You can take those hints and then figure it out. 
+The hint is simple: Blackjack is a game that has streaks. It is not simply win one, 
+lose one, win one, lose one, even though the odds are roughly 50-50. You can 
+win five hands in a row, and you can lose five or six in a row, or win three and 
+lose three, and so on. There is a kind of dispersion in what is happening with 
+the wins and losses. I want to give you some rules. Suppose you are playing at 
+a $10 minimum bet table. This is just for illustration because a $10 minimum 
+may not even exist in Vegas anymore. The first rule is that you need 200 times 
+the minimum bet in your pocket. For a $10 table, you need $2,000 in your 
+pocket to take care of the roller coaster ride that is blackjack. You play a simple 
+progression: 10-10, 15-15, 20-20, 30-30, 50-50, 70-70, 100-100. Once you hit 
+$100, you stay there. What that means is if you won 15 hands in a row, your first 
+bet is $10, the second bet is $10, the third bet is $15, the fourth bet is $15, the 
+fifth is $20, sixth is $20 and so on. It would be 10-10, 15-15, 20-20, 30-30, 50-50, 
+70-70, 100-100. When you hit $100, it stays at $100. If you won 40 hands in a 
+row, you would just be doing $100 after that. The moment you lose a hand; you 
+go back to $10. For example, 10, 10, 15, 10 or 10, 10, 15, 15, 10 or 10, 10, 15, 15, 20, 
+10. If you lose 4 hands in a row, it will be 10, 10, 10, 10. If you get a blackjack, you 
+skip one level. If you get a double or a split and you win both, you skip two 
+levels. If you think about it mathematically, on average, your winning hand is 
+Pg. 11 of 12 
+going to have slightly more money bet than the losing hand because of the way 
+you are doing the progression. I was not counting cards. There was no need to 
+count cards. In fact, what confused the El Cortez people was that they were 
+playing single deck, and they only played half a deck. They were only playing 
+26 cards. But if I am in the middle of the progression and a new deck comes in, 
+it is irrelevant. I am continuing the progression. They said, “He is placing a big 
+bet on a brand-new deck.” A brand-new deck has no favorable odds for the 
+player, which took them 6 months to figure out. I do not think they figured it 
+out, but maybe once they watch this video, they will. What ends up happening 
+is your average losing bet might be $10.50, and your average winning bet might 
+be $10.75. If that delta is more than the 0.13% that the El Cortez is offering, they 
+are in big trouble, which happened to them. They got into big trouble. 
+Now, I need to go to the double-deck games in Vegas, but I am not so close. I 
+used to be in California, which was a 40-minute flight away. Now, there are 
+more frictional costs, and I lost interest. The best double-deck games are 0.19% 
+odds for the house, which is still good, and there are a few of them: Treasure 
+Island, MGM, Aria, Bellagio, and others, but the minimums are higher. Let us 
+suppose I play at the Aria with 0.19% house odds. It is a $500 minimum to play 
+200 times. 200 times 500. $5,000 - $50,000. I have to sit down with $100,000 
+if I go to the Aria. If I go to the MGM, it is a $100. I need to sit down with 20,000. 
+Usually, the problem that people run into is that they have $1,000 in their 
+pocket. They put a $1,000 bet down, a $100 bet down, and then that is the end 
+of that. That is more blackjack than I wanted to talk about today, but that is 
+fine.  
+Question: How do these models apply to professionals in creative industries, musicians, 
+writers, and artists? 
+Mohnish:  They absolutely apply. Seinfeld wrote a book called Is This Anything? You must 
+read it. Seinfeld said that he sits down every day with a yellow pad for an hour 
+and a half to two hours. He thinks about whatever has happened in the last one 
+or two days and writes them down. He also goes back to the thoughts he wrote 
+about in the last few days.  
+Stand-up comedy is hard. What Seinfeld and Larry David are doing is not 
+random. There is a lot of work and a structured approach to work. The guy who 
+did Charlie Brown passed away. He was worth billions by the time he died. 
+Every day he sat down, went to work for eight hours, and said cartoons were 
+simple, but the storylines and all were complicated. David Senra has a bunch of 
+podcast episodes on musicians. Some of them, he said, were extremely 
+structured. Look at people like Jay-Z and the amount of background research 
+they did on all the artists who came before them. The intensity of pursuit 
+applies in every field. It applies in the most creative fields, and it applies in the 
+most technical fields, and everything in the middle. If you are an artist or a 
+musician, I would say that even if you do not want to listen to everything Senra 
+Pg. 12 of 12 
+has on The Founders Podcast , just listen to the ones that he has on musicians 
+and artists. You will get a lot out of that.  
+Question:  Are there ever times you choose not to follow mental models? 
+Mohnish:  I have a lot of vices. I am human. Sometimes I do things that are self-sabotage. 
+That is just the way it is. 
+Question:  What hacks do you use to improve yourself? 
+Mohnish:  The mental models. I am a collector of mental models. When I encounter 
+something that I think is going to help me, I go all in. I bring those in and 
+definitely want to use them.  
+Question:  If you could say something or give some advice to your 18-year-old self, what 
+would it be? 
+Mohnish:  I am going to be 62 in a few months, and it would have been a huge advantage 
+for me to have if I had heard this talk when I was 18. I do not know if I would 
+have comprehended it, or would not have gone all in, but I am hoping I would 
+have liked to listen to my future self. Knowing that is a future Mohnish talking, 
+maybe I would pay attention. That could be helpful.  
+I hope you enjoyed this session. I certainly did. I wish you all the best, and I hope 
+you enjoy the rest of the week. 
+ 
+ 
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not intended 
+to be financial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not be suitable for you, 
+do not take into account your particular investment objectives, financial situation, or needs, and are not intended to provide 
+investment advice or recommendations appropriate for you. Before making any investment or trade, consider whether it suits you 
+and seek advice from your financial or investment adviser. 
+ 
+ 

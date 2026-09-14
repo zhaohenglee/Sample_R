@@ -1,0 +1,604 @@
+  
+Page 1 of 14 
+Mohnish Pabrai's Q&A Session at the William & Mary College 
+ on November 8, 2022 
+ 
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not inte nded 
+to be, financial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not be suitable for you, 
+do not take into account your particular investment objectives, financial situation or needs and are not intended to provide investment 
+advice or recommendations appropriate for you. Before making any investment or trade, consider whether it is suitable for you a nd 
+consider seeking advice from your own financial or investment adviser. 
+ 
+Myles: Mohnish started off his career as  an entrepreneur, starting his company 
+TransTech in the early 1990s, later sold it and invested that money too, and 
+eventually created an investment partnership with some of his other friends. 
+He started off investing their money and then realized he wanted to change the 
+model a little bit. He started his own hedge fund and now he's giving a lot of 
+that back through his foundation, Dakshana Foundation. The fourth highlight 
+of his career is, Mohnish, tell me if I get this wrong, but a couple of years ago, 
+he was kicked out of several casinos in Vegas for Blackjack. Is that right 
+Mohnish? 
+Mohnish: One, we've been ki cked out of one so far. 
+Myles: Okay. 
+Mohnish: My goal is to get kicked out of all of them, but we'll do it little by little. 
+Myles: Okay. All right. I did get some qu estions for some people, but unfortunately, 
+couldn't make it today. We do have some people on Zoom and obviously we 
+have all of you here today. Mohnish, how do you want to do this? Do you want 
+to have a monologue or go right into Q&A? How do you think we should go 
+about this? 
+Myles: I think we don't have that much time. Let's go with the Q&A format. I think that's 
+a good way to go, see what you guys have on your mind. 
+Myles: Perfect. Let's hear, what do you guys have in your mind? 
+Tiger: If I recall correctly, Micron is 37% of your funds certainly, right? 
+Mohnish: Micron is not 37%. Basically, all the holdings don't get reported. The 13F doesn't 
+report our foreign holdings and so on. I don't invest more than 10% of my assets 
+into anything. When we made the investment in Micron, it was a 10% bet. At 
+the peak it was maybe 25% or so a bet, and it's pulled back. It might be around 
+20 or a little less than that. 
+Tiger: I'm just wondering because I pitche d a stock, I did a stock pitch on the AMD. 
+I've just done a lot of research in the semiconductor industry in general and, I 
+got a friend from high school, he's a DRAM system engineer at Micron, and he's 
+  
+Page 2 of 14 
+been working there for just three months. He's not familiar with everything, but 
+DRAM markets are cyclical and like reading through Micron’s latest earnings. It 
+seems like the margins and revenue are just going down. If you could walk us 
+through some of the decision-making criteria that you had for specifically 
+Micron because you've got perhaps other options that are not as capital heavy, 
+not as capital intensive and AMD and va rious other examples, while they also 
+are subject to some cyclic nature of the industry, at least so far, it seems like 
+their margins and net income are holding up better than Micron. 
+Mohnish: Yeah, I think that's a good question. One thing we should always keep in mind 
+in investing is that there's a very high error rate, at least 40% and could even be 
+50% or more. Even with being wrong on half the bets, one can do well. Micron 
+is a case where we are not really going to know whether the bet worked or not 
+until the dust settles. We got to let the bet play out. But I would just say that 
+the cyclicality of the memory business has gone down a lot. DRAM used to be 
+a terrible business. There were more than  a dozen players. It's now down to 
+three players. Three players have over 95% of the market. I had a discussion a 
+while back with Charlie Munger. I didn't directly discuss Micron with him, but I 
+had discussed oligopolies and, especially oligopolies where they can't, so one 
+of the things about oligopolies is that if you are, let's say Coke and Pepsi, you 
+can't sit in a room and set prices, that's kind of antitrust violation and all kinds 
+of other illegal behavior. But if you don't engage in a whole bunch of irrational 
+actions, oligopolies can do really well. I asked Charlie about the nature of 
+oligopolies, and he said that Buffett had studied a long time ago, Coke and 
+Pepsi bottlers in a wide number of regions in the US and around the world, and 
+he found that in probably 95% or 97% of cases, both clerks made good money. 
+Basically, it's these strong brands and people have preferences and such. It's 
+not print pricing power. If Pepsi's on sa le and Coke is expensive, you might 
+switch, but in some geographies maybe the 3 to 5% of geographies, one of the 
+owners decided that they wanted a mu ch larger market share and so they 
+engaged in price wars and a lot of other behavior to try to market share. Of 
+course, your competitor is going to react to that. You ended up in some markets 
+where nobody made money, neither the Coke bottler nor the Pepsi bottler, 
+they were just bashing each other trying  to get market share. Nothing really 
+happened. The consumer won basically. But in 95 or more percent of the 
+market, there was rational  behavior and there was no collusion or illegal 
+behavior in these markets. But both players made money. What I see with 
+Micron and Hynix and Samsung is that I was really surprised originally when I 
+was looking at the businesses about the frequency with which they speak to 
+the markets. They seem to like, if they have the quarterly calls, then they'll have 
+some investor conference and they'll do updated guidance. There's a lot of stuff 
+going on. It's just not four times a year that they're telling the investing public 
+what's going on. It took me a while to realize that they were not talking to me, 
+they were talking to each other. 
+  
+Page 3 of 14 
+If Samsung goes on a rooftop and screams and says, “my Capex is going to be 
+$20 billion this year and I'm basically going to produce so many chips, for 
+example”. Two days later, Micron will make a similar announcement from a 
+rooftop saying “my Capex is going to be $10 billion a year this year and this is 
+the number I'm going to produce”. Then the third guy, SK Hynix would say that 
+too. They're really talking to each other and it's legal to talk to each other. 
+United and American Airlines, the Americ an will reduce fares on some routes 
+and five minutes later United will reduce their fare as well. If it's not done in a 
+room colluding and you're doing it through press releases or whatever else 
+saying, hey listen, basically, the unsaid message is I'm rational, I'm not trying to 
+take market share. I'm happy where I'm at. I met with all three companies, and 
+two of them are in Korea. When I met with Samsung, it used to be that Samsung 
+was the low-cost producer, so they have or used to have a cost advantage 
+versus the other two. I told Samsung that basically if you wanted to, you could 
+reduce prices to the point that the other two couldn't match you because they 
+would start losing money and you could take more market share, and we heard 
+them. Samsung's response was that “bad things happen to us when we get over 
+50% market share”. They said, “we re ally don't have much interest. Our 
+customers like to have the second source and they like to have large second 
+source options and the regulators and everyone else will not look kindly upon 
+someone of the three becoming 80% of the market or something. 
+Samsung says, “we are at 50% and we want to stay at 50%”. Basically, the other 
+two pretty much said the same thing. Now what's happened over the last few 
+y e a r s  i s  t h a t  M i c r o n  u s e d  t o  b e  a l w a y s  b e h i n d  b y  a  y e a r  o r  t w o  a n d  t h e y ' v e  
+caught up. Now I don't know how long they can keep that. They've run ahead 
+of the other two. They were a little bit of an edge right now, but I don't know if 
+that's sustainable or how the other two will, what that looks like in three years 
+or five years. But the bottom line is that we have three cooperative players, like 
+95% of the Coke and Pepsi bottlers, in the memory business there's really no 
+kind of alternative to it, at least as far as I can see. This is technology, they can 
+be disruptive, but the way software is written and the way the chips work and 
+the way logic chip talk to memory and all that, that has not changed in more 
+than 60 years. When I was going through my undergrad, I'm a computer 
+engineer and I studied the architecture of the IBM system 360, and later I was 
+working on firmware and chips and hardware and all of that and used a bunch 
+of DRAMs and so on. Later when I studied the architecture of the Intel 8386, 
+which was a chip in the late eighties, basically these two chips were almost 30. 
+These two architectures were 30 years apart. There was no difference. They 
+were identical. The only difference was size and, now if you look at computing 
+today, I haven't kept up with it the way I used to keep up. You've got some 
+changes that have taken place becaus e of arm holdings and people doing 
+specialized processes and Apple's doin g its own processes. People are not 
+taking off-the-shelf AMD and Intel products; they're trying to get more 
+specialized. There has been some ch ange based on the nature of the 
+computing they're doing, search as Google is doing, and that sort of thing. But 
+  
+Page 4 of 14 
+for the most part, these architectures have not changed and it's unlikely to 
+change in the near term and such. I don't think there'll be a fourth player in this 
+market, and I think even the NAN market might consolidate at some point and 
+that might become an even better busi ness. These are all the theories behind 
+why Micron makes sense. Once you get all this growth that's going to be 
+coming from AI and data centers and everything else going on, self-driving cars 
+or assisted driving cars, when we have  all these things take place, it's a 
+tremendous surge to the volume of memory needed. We are also hitting edges 
+of Moore's Law, so things don't double every 18 months anymore. In fact, 
+they're lucky to get doubled every four years or five years now based on all that. 
+I think that even though these are high Capex businesses, all three should do 
+well, but it remains to be seen whether being a high multiple or an NVIDIA or 
+an AMD in the long run of the better bet,  it could be that's the case, but we'll 
+see tuned. Stay tuned 
+Myles: All right. Other questions? 
+Shreya: Hi, my name is Shreya. Thanks for joining us today. I think my question is a little 
+bit geared toward the story of you starting your own company first and then 
+your hedge fund. What went into that process and how does it look like for you 
+now having your own Hedge funds? 
+Myles: I think there is a misnomer about entrepreneurs, people assume that 
+entrepreneurs are risk takers, that they ar e rolling the dice. If you look at kind 
+of non-venture back startups, which probably comprise more than 99% of 
+startups, probably 99.9% of startups are not venture back your neighborhood 
+Chinese restaurant or laundromat or consulting business I had started and that 
+sort of thing. Most businesses, more than the million businesses that get 
+started in the US every year are not venture back businesses. The common 
+theme amongst most of these businesses is they do everything in their power 
+to reduce risk. Basically, there's an asymmetry when you start a business where 
+if it fails, you may not really lose that much and if it works, your moonshot 
+works. That sort of asymmetry in bets is very attractive and one should make 
+those bets when one gets a chance to. Wh en I quit my job, or actually even 
+probably nine months before I quit my job and I was thinking about quitting my 
+job, I basically analyzed the situation and I said, okay, look, I'm 25 years old, I'm 
+going to take on, I took on eventually about $70,000 in credit card debt, visa 
+and MasterCard for my venture capitalists. They took no board seats, which was 
+great. Then I emptied out my 401(k), wh ich was about $30,000. At 25, I wasn't 
+too concerned about my retirement savings. I had a hundred thousand dollars, 
+and I could lose a hundred thousand and I was willing to lose a hundred 
+thousand. Now the $70,000 in credit card debt at that time, this is 91, they've 
+changed the laws now, but at that ti me I researched bankruptcy law and 
+basically if my business went kaput an d I declared personal bankruptcy that 
+$70,000 would get wipe d out and it wouldn't affect  my credit. I'd get a clean 
+slate, and not only would I get clean slate, but I actually become a really good 
+credit for seven years because I can't, at that time with the way the laws were, 
+  
+Page 5 of 14 
+you could not re-file for personal bankruptcy for seven years. Basically, you 
+become a very good credit risk because the credit card companies know, that 
+car loan companies know that if I make a five-year loan to him, he really can't 
+go back and file bankruptcy because that's not open to him. I knew that I could 
+just lose my $30,000 and I said, I'm qualified, I'm an engineer, I can get a job. 
+When this blows up and when I quit my job, my boss and his boss, they basically 
+told me, “Look, when your business fails, not if your business fail, but when your 
+business fails you can come back with higher pay promotion, et cetera”. I said, 
+wow, this is even better than I thought. I don't have to apply for jobs. I get a 
+higher salary and I get a higher position if things don't work. Basically, things 
+worked and there's a huge asymmetry because then, you're making millions in 
+revenue and profits and so on. There's a book by Amar Bhide called “The Origin 
+and Evolution of New Businesses”, which goes into what goes into the minds 
+of entrepreneurs when they're starting these businesses. He interviewed a 
+bunch of Inc. 500 CEOs over 10 years and what you see is a common theme 
+that most of them thought like me, I didn't know that. I didn't know that there 
+was this framework that people were using, but most entrepreneurs implicitly 
+use this framework even though they haven't really talked to each other about 
+it. 
+And starting a business for the most part for me was low risk, not starting it was 
+high risk because I felt li ke in a corporate path, once I was married with kids 
+and in my thirties or forties now, I would have a lot more to lose. If I'm single 
+and I go bankrupt and I declare bankru ptcy, that doesn't mean much. I can 
+bounce back. I felt like I had one open clear shot, and I should take that, the 
+hedge fund, basically the thing is I'm just looking to do things that I'm 
+passionate about and or excited about. I enjoyed investing. Then I found when 
+I had a few investors that it was to have this group that I was helping and 
+working with and they were a bunch of  entrepreneurs, so it was sometimes 
+they were analysts for me because some  business that I was studying was in 
+their area and so on, unpaid analysts, which is great. Then I just took it to the 
+next step. I said, this can be a profitable business and a hedge fund has 
+tremendous economics since that one person could be running, in my case, 
+hundreds of millions of dollars but you could even be the billions of dollars and 
+the upside potential is tremendous and it can be a great, great business. That's 
+why I lost interest in my IT business. I got more interest in investing and I 
+pursued it. 
+Myles: All right, thank you for the question. Just a reminder for the people on Zoom, if 
+you do have questions, just raise your hand that way I can know that you have 
+a question because I'm not able to s ee if anybody has their cameras on. But 
+yeah, other questions? 
+Speaker 2: Sir, we have two busi ness questions, I'm not really a business major, but thank 
+you for answering those questions. I learned from Myles that you are a 
+philanthropist as well outside work. I was just wondering and curious why 
+specifically you chose education and aiding or helping children go to elite 
+  
+Page 6 of 14 
+schools and agency? Why education speci fically as you're going with this 
+interest or is there any individual personal story you would like to share 
+throughout the journey? 
+Mohnish: Yeah. I found philanthropy really interesting when I first stepped into it. There 
+are some similarities in investing, but there are also plenty of differences. One 
+of the things you need to do well in terms of effectively channeling the 
+resources that a charity has at its dispos al, is to have a combination of heart 
+and head. You need a great heart, but you also need a business head. What I 
+founded most charities was that most of  them were run by people with great 
+hearts, but they didn't really understand capital allocation and things like social 
+return or invested capital or looking at two different initiatives and trying to 
+benchmark and compare which one is better and then you put more eggs in 
+the basket, that is better. I found it puzzling that people just did things mostly 
+for the pants. One of the things I al ways questioned was that when I saw a 
+charity which had 10 different initiatives, I said, okay, if you measure all 10, 
+you're going to find that initiative number one that does the best per dollar you 
+spend and number 10 that does the least good. Why wouldn't you, in the next 
+year, cut it to eight initiatives in the next year and the year after that six, if the 
+ones at the top can absorb more cash. But they don't think like that. I think that 
+their perspective is, “we want to appeal to wide range of donors, or the annual 
+report looks nice this way” or whatever else. There's a lot of inefficiency in the 
+way charities operate. My experience has been that education has such a 
+massive multiplier effect. Give a man fish, you feed them per day, teach a man 
+to fish, you feed them for a lifetime. Clearly teaching fishing is more up my alley 
+than giving fish, though they're plenty go od to be done by giving fish. I just 
+prefer teaching fishing so that we can get a multiplier effect and I ran across 
+this guy in 2006 in Bihar in India on th e organization called Super 30, which is 
+what we cloned because he wasn't willing to take money from me. I said, do 
+you mind if we clone your model? He said, “no, feel free”. He was taking 30 poor 
+kids families making less than $2 a day type thing. Laborers, farmers, illiterate 
+parents, and he was spending about a year coaching them and about 
+somewhere between 90 and a hundred percent of them were getting admitted 
+to the IITs. That's the MIT of India. Once you get admitted to the IIT, it's almost 
+free to attend. It’s heavily subsidized. The difficulty is getting in and the 
+coaching to get ready for IIT entrance exam, which is the toughest exam in the 
+world is expensive. It used to always be that the IITs took kids who were middle 
+class or higher and below that, you just didn't have the resources because the 
+tuition fees would exceed, or the coaching fees would be multiple to what your 
+parents are making. 
+I just saw that he was spending at that time $700 per kid. What would happen 
+is that the incremental earnings might be something like 50x or a 100x, it was 
+huge because once you go to IIT, then Microsoft wants to hire you and Alphabet 
+and Apple and so on. You have a lot of career options open to you which are 
+not there if you don't go to IIT and go to some other school. To me, that was a 
+  
+Page 7 of 14 
+great input output ratio. At Dakshana, we cannot do it for $700. His mom was 
+cooking for them and all that he was, and he was not scaled. It costs us about 
+$3,000 a person. It's been about 15 years, so there's tons of inflation in there. 
+But what that $3000 does is almost an  infinite payback because we've pretty 
+much transformed every generation from then on or that family and they've 
+pretty much gone from zero to hero. To me it was a no-brainer that we would 
+have a very high return to society by doing this. I have not come across anything 
+else which I can see is a higher SROI, social return on investment capital. If there 
+was and I could figure out how to do it, then I would switch. That's why we are 
+doing what we're doing. 
+Myles: Thanks for the question. 
+Speaker 3: What is the biggest setback of yo ur career and how did you overcome that 
+setback? 
+Mohnish: Yeah, Marcus Aurelius was one of the last Roman emperors and he shows up in 
+the movie “The Gladiator”. At the beginning of the movie, the old king who's 
+dying and Russell Crow has chosen his heir and then of course while hell breaks 
+loose after that, but he was a philosopher, who spent most of his life on the 
+battle feed. He had a lot of injuries and a lot of illnesses, a very tough life and 
+he came up with a stoic philosophy, which is worth delving into. But what 
+Marcus basically says is that “to encounter misfortune and overcome it is good 
+fortune”. What has happened to me in my life is, every time I've been beaten 
+down or something negative has happened or something terrible has 
+happened, there's been so much learning and growth that's come out of that. 
+Yeah, I couldn't see and at that time I' m down and out saying this is terrible. 
+What I've always noticed is that the paybacks are exponential. So, you can't see 
+it at the time, but now I just submit to Marcus Aurelius saying, “okay, when we 
+encounter bad times, they're not really bad times, we just don't know they're 
+actually good for us and we'll figure that out later”. When I look back at my life, 
+there were a few points which were low points. My parents went bankrupt 
+several times when I was growing up and my dad was a kind serial entrepreneur 
+and every three or four years his business would blow up. My parents are very 
+poor financial planners. Pretty much if the business was doing well, they lived 
+well and just blew up. We didn't have money for rent or groceries or anything, 
+it was really pretty dire, and we were trying to go to friends and family and 
+trying to just have money to get by. 
+There were a lot of kind of feast and famine going on. When I was a junior in 
+college, I would come to the US, my father was doing well, he went bankrupt 
+and at that time I was on a student visa and I couldn’t work and didn't really 
+have any job prospects, still had a like a year and a half of school left. I felt very 
+helpless, and I just thought my everything's over. I'm not going to be able to 
+finish my degree and I don't know what 's going to happen here. I was doing 
+well in school but that was a very traumatic time. Then a few days later one of 
+my uncles stepped in and said he woul d support us, which was amazing, my 
+  
+Page 8 of 14 
+favorite uncle still. But I remember the feelings I had at that time. It was very 
+sad and solemn and there've been other times in business or running the fund 
+in the financial crisis we were down li ke 65% to 70% but there were a lot of 
+lessons that came out of that. Ther e were mistakes I had made, and those 
+mistakes got seared in and it really helped the performance after that. I couldn't 
+see it then. But we don't really learn from success. We learn when we stumble. 
+Myles: Thank you for the question. Other questions from Zoom crowd here. All right. I 
+was emailed some questions beforehand, so I'll ask some of those and if 
+anybody in Zoom has a question, just raise your hand. I sent out your 10 
+commandments Mohnish the other day, your 10 investment commandments. 
+One of the ones that someone pointed out was, I don't remember, I think it was 
+maybe five or six where it was, “Thou Shall Not Use Excel at William and Mary” 
+that's a bit of heresy. Please explain what your philosophy is behind that. 
+Mohnish: In investing, you should be able to do the math in your head. If you need to 
+have a complex excel DCF model to tell you that something is a good 
+investment, it is not a good investment. I'll give you maybe some extreme 
+examples. But in 2019, I made an investment in this company in Turkey: Reysas 
+logistics. This was a 20-million-dollar market cap at the time and the liquidation 
+value was like $800 million or so. I was visiting them because a good friend of 
+mine in Turkey who's a very strong kind of Graham type investor, I just told him 
+I want to visit all the businesses that you've already invested in kind of one layer 
+of diligence already done because someone smart has filtered through. I asked 
+him, is it a fraud? What's going on here? 
+He said, “No, I have an investment and the company just doesn't have great IR 
+or anything”. They had a bunch of warehouses. It was very easy to value those 
+warehouses. They were in very prime areas, 99% leased, 10-year inflation index 
+leases to like Amazon, Ikea, Car Four, Dupont, Mercedes and so on. The very 
+strong recurring revenue business. Then you could just, in six months, liquidate 
+the whole portfolio and have about $800 million or $700 million or $900 million, 
+something like that and you are paying  $20 million for it. There's no excel 
+needed. Now, the business in the last th ree years, the Turkish leader has been 
+decimated and I invested at that 20 millio n market cap. It was five liras to the 
+dollar. It is now 10 and a half liras to the dollar. Very strong appreciation of the 
+lira. In dollar terms, we are up about 9x in the last three years. The company 
+now has a value of $180 million or so and the liquidation value they've improved. 
+They've done a bunch of things which have improved the business already. It's 
+over a billion. They are depressed. It could be in normal times a billion and a 
+half or two billion. We're still sitting at something like 10% or 20% of the 
+liquidation value. You don't need excel for that. One time I was in 2006, I was 
+looking at a steel manufacturer IFSCO and IFSCO was in a situation where they 
+made tubular steel that goes into pipeli nes, and they used to get these long-
+term contracts because some pipelines would take around two or three years 
+to get built. They want to have assurances of the steel supply and so on. IFSCO 
+had about $15 per share in cash on th e balance sheet. They had no debt and 
+  
+Page 9 of 14 
+they had publicly stated that for the next two years their earnings were going 
+to be $15 a share each year. The stock was at around 45 and between the cash 
+and the next two years that the company is saying they would make, and this 
+wasn't like normal guidance, they have contracts with these pipeline guys to 
+build these pipelines. It's not like Apple's making some forecast or something. 
+This is hard coded and after two years, because it's a cyclical business, earnings 
+could go to zero, it could even go negative. My take was, if we just hold the 
+stock for two years, we'll have $45 of cash in the business and plus all the plant 
+and inventory and everything else, I just want to see what the market values it 
+at that point. 
+I just want to see how Mr. Market's going to price that business. About a year 
+later, maybe eight or nine months later, they announced that they're going to 
+have one more year of earnings or $15 a share. They got some more contracts. 
+Now we were in the money, we were going to be at $60 guarantee and the 
+stock had now moved up to mid to high 60. Mr. Market was organizing some 
+of that and I was looking at it and I was thinking about what we should do when 
+it had gradually, over the next few months, moved up to close to $90 a share. 
+About 18 months we had a double and I was thinking this is a good deal, it's a 
+cyclical business, I think we should exit. As I was running through that math in 
+my head, I woke up one morning and some Swedish company had made an 
+offer to buy them out at $160 a share and the stock had immediately gone to 
+152 or something. I didn't even wait for understanding the odds or whether that 
+would happen or not, I sold all the stock because I was almost ready to sell at 
+90 and I'm getting 150 and I don't know  what these Swedish people are doing 
+two years back when you could have bought it for 45 or maybe paid 65 or 70 or 
+something that's the way the world works. I think the best way to invest is to, 
+first, make very few bets. You look fo r extremely asymmetric odds where you 
+just know that statistically, it might work for you. Now even when you do all 
+that, you may still have a 30-40% error rate, but that's okay, it doesn't matter 
+because the winners are so heavily doing so well that the losers don't matter. I 
+think that basically using Excel is a red flag. It should give you a red flag when 
+you are reaching Excel because you shouldn't need it. You shouldn't need it to 
+figure out, if I'm looking at something like Micron, I don't need Excel, I can look 
+at the sales, I can look at the Capex, I can look at the cash flows and I can look 
+at where the industry might be in a few years in terms of sales and cash flows 
+and margins and so on and can run the math in your head. It's not that hard. 
+Myles: All right. Any questions from the crowd or if you have a couple of ones on zoom. 
+Alex is here. 
+Alex: Hello sir. Sorry for coming in late, a big JB soccer game, and getting to where 
+you required a lot of risks and I'm just curious to know what was your biggest 
+risk along the way and how did you convince yourself to push forward rather 
+than just stay in your comfort zone? 
+  
+Page 10 of 14 
+Mohnish: We'll have to have you watch the replay because we went through our 
+discussion on risk. I don't know if your peers want me to regurgitate, but I would 
+just say this that, it’s a misnomer. We do everything in our power to minimize 
+risk. What I'm trying to do is I'm trying to pick up, I'm basically looking for bets 
+where the risk is low, and the reward is  high. In auction driven markets, from 
+time to time, you can get those sorts of odds. Not all the time. Many times, it 
+goes the other way where the risk is high, and the reward is low. But if you stay 
+disciplined and do your thing and are patient, it can work. 
+Myles: Alex, did you want another? 
+Alex: No, I'm good. That was it. 
+Myles: Okay. Yep. Any questions Tiger? We will go on with Tiger. Then Tommy, just ask 
+one more and wind up. 
+Tiger: You said you basically have the numbers of Micron, I went through their 
+revenue from $8 billion to $6.6, to $4.2, and then yeah four, two for next quarter 
+and close margins down to 0.6% then  become basically winning the bet. 
+Obviously that pricing is not much right now. How do you see the problem with 
+things here, obviously this is the next quarter we will have sold. 
+Mohnish: We don't care. In any business I own, we don't care about the next quarter or 
+even the next year, with Micron basicall y I think it's just destination analysis. 
+Basically, what they think will happen in  the industry is that the memory guys 
+are making about $150 billion a year top line, all three of them together. That 
+$150 billion they think goes to about $300 billion in seven or eight years. We 
+don’t know if that'll happen whether it’s $50 billion or $350 billion or where that 
+number is, but it's likely to be around $300 billion, maybe higher and Micron 
+might be $75, $85 billion or something thereabouts, maybe a hundred billion 
+off that number. Then you just say, wo uld they be banging out something like 
+$20, $30 billion a year cash flow? and ye ah, I think they could. By then, the 
+market might recognize that it's not the old DRAM business anymore. That 
+these guys, even in downturns, don't lose money and they still skim through 
+the cycles that used to be very high and low. We've already seen the cycles that 
+are reviewed. My take is, at some point, if the market believes that Micron can 
+produce $20-$30 billion in cash flow, they will value it accordingly. Who cares 
+about the rest? I'll give you another example. The company I invested in, it's in 
+India and it's our oldest position. I bought this talk in 2015. It's a company called 
+Rain Industries. At the time when we bought the company, the market cap was 
+$200 million and it's a very cyclical business. They provide parts to the 
+aluminum industry and so on. This was a company making $2 billion in revenue 
+with a market cap of $200 million, one 10th of sales. I thought the odds were 
+very good that they would come a single year when their cash flows in one year 
+would exceed $200 million. Just like with IPSCO, I said when that happens, I 
+just want to see what the market does, what is the market going to do when 
+they produce $200 million in cash flow. What happened is, in 2018 exactly that 
+  
+Page 11 of 14 
+happened, they had a year that they produced $200 million national and the 
+market took the market cap to $2 billion from $200 million. It was a 10x in less 
+than three. Of course, by then what ha ppened is I fell madly in love with the 
+company and the manager and all of that and I thought they would keep going 
+because he was doing so many good things. Then Covid happened and in 2020 
+it was down to I think about $300 million or less in market value and now it's 
+seven or 800 million. But I think that it'll go past that 2 billion again. They'll again 
+have a year where they'll make over $200 million. This time I said maybe I'll pay 
+more attention and we'll see if we need to get off the bus at that point. But 
+basically, let's say that happens by 2025, 3 years from now, probably high 
+probability that would happen and if we ex ited that point it would be a 10x in 
+10 years. Nothing wrong with the 10x in 10 years. Perfectly fine. Good for you. 
+Tiger: You said in general we don't really care about next quarter or next year? 
+Mohnish: Completely irrelevant. I think the next quarter is when I run a business, I don't 
+care about the next quarter, when Jeff Bezos runs a business, his arbitrage is 
+that he's looking out seven years that people are not willing to look out seven 
+years he's making bets which may not pay off for 10 years. Whenever you're 
+making an investment, your framework has to be the same as the guy running 
+the business. The way Jeff thinks about the business is the way Amazon 
+investors need to think about the business. If they don't think the way Jeff does, 
+then they're not going to really understand the business, and not going to be 
+able to hold it long enough. For the longest time, Amazon had no cash flow, 
+they're pumping everything into growth. If you didn't understand that and you 
+didn't understand what game he was playing and the long game he was 
+playing, you wouldn't get it. It is completely irrelevant to me what happens next 
+quarter to Micron’s earnings, is not even something I bothered to look at. It's 
+irrelevant. 
+Tiger: Really for you, like as an investor philosophy, you don't really care if you're 
+getting Micron for 120 bucks a share or 50 bucks a share if you believe it's going 
+to 500 bucks or thousand bucks a share, right? 
+Myles: After this let's go to Tommy, Tiger 
+Mohnish: I don't know whether we'll get to $5 00 a share from your mouth to God's years, 
+but I think we could get to a couple hundred bucks a share. Sure, no problem. 
+We bought in the thirties and if we get to $200 or $250, he's buying back stock 
+and so on and it's a decent return. It's  the thing about Micron, it's not my, I 
+would say, highest conviction idea, you made a 10% bet. There's nothing wrong 
+with a business, it's a good business. They've got good management, they 
+understand capital allocation, all these things. My take is, let it run, we've got 
+nine other bets and we want them non-correlated and yeah, probably at the 
+end of the day what'll happen is five of them or six of them will work and maybe 
+one or two might even have a loss and one or two might flatline or something 
+like that. If that transpires, we will have a massive home run. No problem. 
+  
+Page 12 of 14 
+Myles: In the interest of time, I think we only have time for maybe a couple more 
+questions. Tommy, I got an email from Jeremy and then we can have one more 
+and wrap up. Does that sound good Mohnish? 
+Mohnish: Absolutely. We can go if you want. No problem. 
+Myles: Unfortunately, we have a club meeting after this, and Ken is already giving me 
+a death stare, so I do have to move over eventually but Tommy? 
+Tommy: Yeah. I just want to ask; you've ex perienced several cycles and market crashes 
+I guess in your career. Is there anything that you think is unique about the one 
+that we're in now or facing right now obviously in a recession. 
+Mohnish: People always think that there is a kind of happening at the present time. Like 
+this is the worst time. They always think that the present time is the worst. Trust 
+me, the present time is not the worst. Also trust me, this too shall pass. There's 
+always doom and gloom at any point in time. There are always things you can 
+point to. The financial crisis was terribl e, the great depression was terrible. 
+Vietnam war, there are all kinds of things always going on. I think the bottom 
+line is that if you invested in Walmart and stayed invested throughout the 
+period, you did well through a very tumultuous period overall. It's the micro 
+factor around a business that will trump the macro factors. Turkey is a crazy 
+place to invest with a crazy monetary policy. Our best gains in 2022 are in 
+Turkey. We are up on our investment solidly up, which you can say about our 
+US investments and so on, but, and there's so much to hate about micro 
+trump's macro and this too shall pass. 
+Myles: Okay. Any other questions or shall I just go into the one with Jeremy, Summit 
+looks like you have one. 
+Summit: Hi, thank you for coming and meeting wi th us today. I just had a quick question. 
+Who is the best? 
+Mohnish: I'm sorry you dropped off. Who is the what? 
+Summit: Sorry. Who is the best investor and why? 
+Mohnish: I think the best investor, I would say, would probably be Warren Buffett. A look 
+at the length of time and the way he's compounded, the kinds of things he's 
+done, and he is a learning machine and so on. I think Warren would be up there. 
+Myles: Do you mind answering the why part too? I don't know if you are. 
+Mohnish: I think Warren, if you look at him in his early twenties and the kinds of things he 
+was doing, he's been a learning machine and he's evolved and grown and 
+changed significantly as an investor and gotten better. He's continuously 
+improved his game and he moved from buying fractions of businesses to 
+buying whole businesses to becoming a great leader to managing this huge 
+empire. He used to have more than 80 direct reports of CEOs reporting directly 
+  
+Page 13 of 14 
+to him. Any way you slice it, I think if you read some of the biographies on 
+Buffett, like Lowenstein’s biography or Snowball and so on, I think those are 
+wonderful books to read to get a good sense of who he is and why it's worth 
+studying him. 
+Myles: Thanks Summit for the question. Let's see, the last one was from Jeremy who 
+sent me this as soon as he saw the announcement that I sent out, sorry a 
+different Jeremy actually, but he said one of the investors that, sorry, I'm going 
+to reword this little, one of the investors that you know very well is Guy Spier 
+whom I know you are good friends with. Jeremy said that Guy posts a lot of his 
+letters and returns and just passes them all over the internet, but Jeremy 
+couldn't find yours and he was wondering why you don't follow the same, I'm 
+trying to reword this little, why don't you do the same thing as Guy and post 
+your annual letters, returns, et cetera. 
+Mohnish: Yeah, he is not supposed to do that. We have SEC rules that when we are 
+running a hedge fund, they give us a lot of kinds of light regulation but against 
+the right regulation you cannot basically expose things like your returns and so 
+on to non-credited investors. I think even if you contact Aquamarine funds, 
+they will ask you a bunch of questions related to whether you're credited and 
+qualified and so on before they give y ou the keys to the kingdom. It may be 
+that their third party is posting his stuf f, but I know that Guy doesn't send out 
+his stuff willy-nilly to anyone and everyone because that would be a violation 
+of the rules. If we were running mutual funds, then everything is out in the open 
+because it's a platform designed for th e general public and daily liquidity and 
+daily NAVs and all of that. But hedge funds are supposed to have a curtain 
+between them and the general public. That's what the SCC 
+Myles: Thanks Jeremy for the question by the way. Any other last burning questions? 
+Camp? 
+Camp: Yeah, one question. Thank you for coming by the way. When you sold 
+TransTech, how did you decide what to do next? 
+Mohnish: I think it's simple. I have a simple rule that I followed throughout my career, 
+which is that if on Monday morning I'm not fired up to go to work, I do two 
+things. Number one, I don't go to work. Number two, I hit the reading. This 
+happened two or three times in my career when I was working for someone a 
+couple of times and I just moved to a different part of the company. But when 
+I was starting my business, I was getting disillusioned with the kind of work I 
+was doing. The company was becoming ve ry corporate. We used to be eight 
+people when I joined them, and three years later there were 800 people. They 
+had done some acquisitions and they al so had a lot of organic roads. My job 
+description, which was basically no job description, became a very narrow job 
+and I preferred the good old days, and you were running wild. I said I liked it 
+better when it was smaller, and I coul d see some opportunities where it was 
+  
+Page 14 of 14 
+possible that a business around those opportunities could do well. I said I'll 
+pursue it because the risk was low. That's why I went for it. 
+Myles: Thanks Camp. Any last ones on Zoom? All right. Perfect. Thank you, Mohnish, 
+for coming again two years in a row now we all appreciate the time. Is there 
+any last parting words before we all say goodbye to each other? 
+Mohnish: Myles, I enjoy our sessions. I enjoyed the last one so I was happy to be invited 
+back and I enjoy our exchange and I would just kind of echo what Warren says 
+or many of you students who will be going into looking at different jobs and 
+careers and so on is, I love Buffett's advi ce, which is to go to work for people 
+you like, admire and trust. Basically, in that definition, it is not the highest pay 
+and is not the most well recognized brand. I think it's important to look at who 
+you will be working for and who you'll be working with because you spend such 
+a large portion of your life with those people, and you should be excited about 
+that. The money and the brands and all of that are secondary. 
+Myles: With that, thank you Mohnish. Thank you everybody for coming. Those in 
+person on Zoom, especially those who are technically affiliated with William 
+and Mary. Matt and Alex, thank you. I hope everybody got something out of it 
+and thank you Mohnish. 
+Mohnish: Thank you. All right. Bye. 
+ 
+  
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not intended 
+to be, financial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not be suitable for 
+you, do not take into account your particular investment objectives, financial situation or needs and are not intended to provide 
+investment advice or recommendations appropriate for you. Before making any investment or trade, consider whether it is suitable 
+for you and consider seeking advice from your own financial 

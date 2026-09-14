@@ -1,0 +1,850 @@
+Pg 1 of 17 
+Mohnish Pabrai’s Talk at the University of Texas 
+on February 28, 2023 
+ 
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not 
+intended to be financial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not be  
+suitable for you, do not take into account your particular investment objectives, financial situation, or needs, and are not intended 
+to provide investment advice or recommendations appropriate for you. Before making any investment or trade, consider 
+whether it suits you and seek advice from your financial or investment adviser. 
+ 
+Professor: Welcome to class today. It is a great pleasure to have Mohnish Pabrai here 
+today. He is a very successful value investor and was inspired by Warren 
+Buffett. He had lunch with Warren Buffett a while ago. They have this 
+celebrity or this charity auction where you can, and that is how he was 
+influenced by Warren Buffett. His performance has been exceptional. I 
+think starting in 1999 till today, a hundred thousand dollars would have 
+grown to 1.1 billion after fees and expenses, and then outperformed the S&P 
+by 4.5% per year, which is a very impressive performance, especially for 
+value in the last decade. Before being an asset manager, Pabrai was a tech 
+entrepreneur and won an award from KPMG Illinois for his 
+entrepreneurship. He has been quoted very widely in the media. He is very 
+active on social media, and it is a great pleasure to introduce you today and 
+to learn from you. Thank you very much. 
+Mohnish: Thank you. It is a pleasure and hono r to be with all of you. I just have a few 
+opening remarks and then I am probably more interested in what you 
+want to talk about. We can go to Q and A after that. Some of you, or maybe 
+all of you, read Buffett's letter that came out on Saturday. It was a pretty 
+short letter. God Google can take you to the letter, so that is good. I just 
+wanted to highlight two or three comments he made in the letter. I will just 
+read you Buffett's words because he is a lot more eloquent than I can ever 
+be. He says, “Over the years, I have made many mistakes. Consequently, our 
+extensive collection of businesses currently consists of a few enterprises 
+that have truly extraordinary economics, many that enjoy very good 
+economic characteristics and a marginal group.” Then going to another 
+section on the same page, “At this point, a report card for me is appropriate. 
+In 58 years of Berkshire management, most of my capital allocation 
+decisions have been no better than so-so. Our satisfactory results have 
+been the product of about a dozen truly good decisions that would be 
+about one every five years and sometimes forgotten advantage that favors 
+long-term investors such as Berkshire.” This is arguably probably the best 
+investor who has ever been around. His record is exceptional. Over the last 
+58 years, he has compounded at about 20% a year, and versus the S&P, it is 
+about 33.7 million percent up versus a few tens of thousands up, which can 
+be 24000% for the S&P. It is a very significant delta once you get even small 
+percentages above the S&P the aggregates line up. One of the things I 
+would recommend to all of you is a website called buffett.cnbc.com. It is 
+hosted by BC. What Buffett did a few years back is he posted all the videos 
+of all his annual meetings; I think going back from the mid-nineties to 
+today. They are all on that website and they have got annotations and so 
+on. I spent about seven or eight months listening to them, and I still do. I 
+have a waterproof Bluetooth speaker in my shower and I just listened to 
+different podcasts for about seven or eight months. I went through all the 
+Pg 2 of 17 
+meetings while I was shaving and showering and I went through them 
+twice actually. I am sure if I went through them again, I would learn even 
+more. It is a great resource. The price is right, it is free. You might enjoy that. 
+I think there is a lot to learn from those archives because each meeting is 
+about five or six hours and there are a lot of jokes which is fun. He was 
+talking about the dozen or so great decisions that have set Berkshire apart. 
+If you look at Berkshire Hathaway over the last 58 years, they have probably 
+acquired whole businesses, maybe around 80 whole businesses over that 
+period. They have bought and sold probably well over a hundred stocks, 
+which would be very little; less than two a year. Maybe it is 125 or 150 
+something. It is somewhere in that range, maybe two or three a year. With 
+all of that mess of let us say investments in 200 businesses wholly or 
+partially owned, there are only a dozen that he points to that he thinks are 
+responsible for setting Berkshire apart. I tried to come up with a list of the 
+12 based on everything I can think of; what he said in the past and so on. I 
+do not know whether this list is accurate, but I will put it up. It may be off by 
+a couple of names, but I think it is pretty close. The first name is Ajit Jain. 
+There is Apple, Berkshire Hathaway Energy, and Burlington Northern 
+Railway. These are not in any particular order. They could be more 
+important up and down, GEICO, then See’s Candy then The Washington 
+Post, Capital Cities/ABC, Coke, AmEx, and let me just see what I am missing 
+here. Bank of America and National Indemnity, which was the first 
+insurance company he bought. You look at this list and then you look at 
+this very astute investor who is the best that we have been able to produce 
+as humans. I estimate that out of the 80 or so businesses that they 
+acquired whole, at least half were just outright mistakes in the sense that 
+they have either disappeared or their annualized returns that they have 
+generated for Berkshire since they have been bought, or even in the first 10 
+years after buying them was well below the S&P and so on. On the 
+marketable security side, it is somewhat similar. I would say that probably 
+at least half are okay. The good news with the investing business is it is a 
+very forgiving business. There was a very good investor in India who passed 
+away recently; Rakesh Jhunjhunwala; some of you may have heard of him. 
+Rakesh never managed money as a profession. He just managed his own 
+capital. He started with less than a couple of hundred dollars. He died 
+pretty young. He was 62 when he passed away, so he did not have more 
+than four decades of compounding. In those four decades without ever 
+collecting fees or outside capital or anything, he passed away with about 7 
+billion or so. Half of that 7 billion was one company, which is a publicly 
+listed company in India called Titan Industries. Rakesh had put about 4% of 
+the total assets he had about maybe 27 or 28 years ago into Titan. He just 
+left it there. He had a kind of a split brain in the sense that he was a 
+hyperactive trader. Many times, he was in and out of positions in a few 
+minutes or a few hours, but at the same time, there were a few companies 
+that he just kept forever. If you think about someone like Rakesh, 96% of 
+the portfolio could have gone to zero, and if he just never touched Titan, he 
+would still have three and a half billion. It did not matter what happened 
+with the other 96%, as long as he did not touch Titan. I think Berkshire is 
+similar. The reason why these businesses have worked out so well is that 
+they have great fundamentals and high returns and equity and that Buffett 
+has held them for a very long period. It is the long-term compounding of a 
+great business that has delivered these great results. I think you guys have 
+probably what I think is the largest size investment fund being managed 
+Pg 3 of 17 
+by students anywhere that I ever heard of. But we are at UT Austin. This is 
+not a poor school by any means. That is a pretty good place to be. I think 
+one of the dilemmas that probably comes up, depending on the rules and 
+setup you have for managing those funds is that in most cases there is no 
+long enough time horizon. When we make investments, the payoffs may 
+come in 10, 20, or 30 years and then, you may be done with managing the 
+fund in two years or less. That is a little bit of a bummer, but hopefully, you 
+are making long-term investments. Let me ask you a question, what 
+happens to the positions when you guys graduate?  
+Student 1: Direct holding roll over into the next year and so we inherited the direct 
+holdings from the year before us. 
+Mohnish: Okay. Have you touched those holdings? 
+Student 1: Our group has not yet. 
+Mohnish: What is the plan? 
+Student 1: We will eventually. 
+Mohnish: There was some heavy-duty hors epower that went into buying those 
+positions. I guess we do not have as much respect for the past horsepower 
+because the present one is better. That is a somewhat difficult situation 
+because the fund managers have changed effectively. Hence, the number 
+one skill set that is important for investing is patience. There is an investor I 
+admire a lot; his name is Chuck Akre; some of you may have heard of him. 
+Chuck is now 80 years old and he manages about 14, 15 billion out of a one-
+traffic light town in Virginia, Middleburg. I wanted to connect with Chuck 
+and I did not know him, so I just wrote him a cold letter last year telling him 
+that I would love to meet him and love to visit the one traffic lights town 
+and so on. He responded and then I made the trip to Middleburg and met 
+with Chuck. Chuck's approach, I think if you go on YouTube or Google, you 
+will find it, he calls it the three-legged stool of investing and he only does 
+one kind of investing. I would say someone like Buffett or Charlie Munger is 
+a Swiss Army knife. They are doing different things and they are good at all 
+of them. Chuck claims that he is a very slow learner and he only does one 
+thing. He looks for businesses where, first of all, the businesses have great 
+economics. They generate very high returns on equity. The second is that 
+they have a very long runway so they can take those cash flows that are 
+coming out and redeploy them into these high, wonderful economic 
+businesses. The third is extremely high integrity management with skin in 
+the game. Those are the three legs of his stool. Whenever they look at any 
+business, they just look at these three factors and it has worked out well. 
+They have delivered well above the S&P and so on, a pretty straightforward 
+process. It is not very difficult to look at a business and look at its history 
+and see what the returns on equity have been over time. Of course, if you 
+want higher returns on equity, without the use of leverage, that is the kind 
+of hallmark of a great business. The whole idea of looking into the future 
+and trying to extrapolate what a business looks like 10 years or 20 years, or 
+30 years from now is a very difficult exercise. We have got creative 
+destruction and we have got things coming from left field. I remember that 
+when I was living in California and used to fly in and out of LAX many years 
+back, there was a really good parking operator near the airport, with good 
+service called Wally Park. First of all, what they had done in their parking lot 
+Pg 4 of 17 
+is that they had put these leather dividers between each car so that your 
+car could not get dinged. Once you parked any doors opening whatever, 
+you would never get dinged. The second is they just ran a very high 
+frequency of shuttles back and forth. It was just always really good service 
+when you parked there. It was very quick to get to the airport and picked 
+up. I used to think this is probably going back maybe 15, 20 years that Wally 
+Park is the kind of business that looks bulletproof. They have high customer 
+service and none of their competitors around ever cloned or copied the 
+leather dividers. I looked at all of them, and none of them ever did that, and 
+they never even bothered with the frequency of the shuttles and all of that. 
+I said these guys have been around for so many decades and it is great, and 
+if the business ever comes up for sale, I should think about buying it if it is 
+available at a reasonable price. These are just thoughts in my head. Then 
+the next thing you know is you have Uber and then people are not parking 
+at the airport. I was not driving to the airport anymore. You just have things 
+that come from left field, which are not on your radar at all. You just do not 
+think that there is anything that would create a distortion, but that is the 
+nature of capitalism with creative destruction. With that, I am probably 
+more interested in what you have on your mind and what you would like to 
+talk about. We can go from there. 
+Student 2: Thank you for being here. Could you kind of talk about how you developed 
+your investment philosophy, if that is still changing, and if you are still 
+growing into it? 
+Mohnish: Sure. I do not have anything  homegrown in terms of investment 
+philosophy. Everything is cloned and copied from someone; from Buffett 
+and Munger and Graham and Chuck Akre and a zillion other people. The 
+good news about the value investing community starting with Ben 
+Graham was that there is a culture of sharing knowledge and helping the 
+next generation to learn and grow and so on. I did not go to business 
+school and I just learned investing from reading initially Warren Buffett's 
+biographies, then the Berkshire letters, then the Buffett partnership letters, 
+and then Charlie Munger and all of that and Graham and so on. That is the 
+way I went about it and I self-educated myself. Then I started to make 
+investments. Buffett has a quote, he says, “I am a better investor because I 
+am a businessman and I am a better businessman because I am an 
+investor.” There is an interplay between running a business and running a 
+portfolio. One of the things that attracted me a lot to Warren Buffett was 
+that when I was running my IT business probably three or four or 5% of my 
+time used to go into figuring out strategy and direction. Every two or three 
+years I had to tweak that because the market had changed and probably 
+80-90 % of the time went into all the blocking and tackling and the heavy 
+lifting of making it happen and getting the people and all of that. I always 
+liked the three or 4% times a lot better than the 80, and 90% of blocking 
+and tackling. One of the kind of moments of epiphany that came to me 
+when I accidentally heard about Buffett and I read about how he invests 
+was that he had converted that 4% time to 80%. You are using the same 
+brain cells and you are using the same kind of mental models in effect. If I 
+am looking at an expansion of my business into a new area, I am looking at 
+the economics and what kind of risk I am going to take and what are likely 
+rewards, and so on, which are very similar to what you are looking at in 
+investing. To me, that was just very attractive to be able to take the 4% to 
+Pg 5 of 17 
+80%, 90%. I started to take my foot off being an entrepreneur to being an 
+investor where I think in 94 there was a small sale of a portion of my 
+business and after taxes, I got left with about a million and it was the first 
+time I had any money in my account because I had bootstrapped the 
+business with credit cards and so on, and I did not need the money. I 
+started to invest it using what I had learned till then about Buffett's 
+approach. In about five years, that million had become about 13 million. I 
+told myself, “Well done, Mohnish. That is pretty good.” I was not spending 
+that much time and I was spending more time on my business, but I was 
+getting less and less interested in the business and more and more 
+interested in investing, and around 99 I made the switch. I basically left the 
+company, found a CEO, and then Pabrai Investment Funds started really as 
+a hobby of a few friends who wanted me to manage their money and then 
+went from there. Other question? 
+Student 3: Thank you, Mohnish. I had a ques tion regarding this; I know there has been 
+a lot of change happening off late with the stoppage or the reduction of 
+the quantitative easing and perhaps there is a move back to value, but with 
+all the technological changes which are happening, are there any themes 
+you are thinking about for the next couple of decades, which might be 
+coming in from the left field, which we should be thinking about? 
+Mohnish: I tend not to thin k much at all about anything macro and anything the Fed 
+is doing or anything anyone says about interest rates and any of that. To 
+me, all of that is in the noise level. I have always felt that whether the prime 
+rate is 3% or 7% should not make much difference to what I am doing in 
+terms of investments and so on. The idea is that we want to look for no-
+brainers. We want to look for things where there is a very large gap 
+between price and value. We want to look for things where the returns on 
+equity are very high. We want to look for things where the runways are very 
+long. Just Chuck's three-legged stool, right? One of the difficulties that 
+come up in the US market is that it is a very heavily picked-over market. We 
+have more hedge funds than stocks, and that's a problem. We have more 
+mutual funds than stocks by some significant margin, and just right there, 
+which means that you have got in effect thousands, maybe even tens of 
+thousands of some really smart people picking over several businesses. To 
+be able to get a differentiated view versus that August group is not easy, 
+which is why we go back to what Buffett said about his record. Here is a 
+more difficult time because for example, when a company is offered for 
+sale as a whole company purchase, usually the seller controls the timing to 
+make it a very attractive time for the seller where the business is gone on 
+the up. Usually, sellers in the US will demand a premium because there is, I 
+have not even talked about the private equity funds. We have got 
+thousands of those as well. You have a lot of competition for wholly-owned 
+businesses. You have got a lot of competition for publicly traded businesses 
+and everything in between. When Buffett is presented with an opportunity 
+to buy a business, it may have some great qualities but may also have some 
+warts. He has got very little time and a lot of money. He has to make a 
+decision; do I just say no? Do I go for it because we are earning 2% 
+elsewhere and what do we do? Those are not easy decisions to make, 
+especially when you have got something like two or three billion coming in 
+every month in cash flows for Omaha to deploy. My answer to that 
+nowadays is to not spend much time looking at North American 
+Pg 6 of 17 
+businesses. I started making trips to Turkey about five years ago and I am 
+going there again in about two weeks. I found that it was a very hated, 
+extremely mispriced market with a lot of crazy macro situations going on 
+and I could not even get some of my best friends to look at some of the 
+businesses. Turkey has 80% inflation and the currency loses a lot of value 
+every year. But we have had some success investing there. It is a trillion-
+dollar economy and the total amount that all foreign investors have in 
+Turkey is like 20 billion. We have about 200 million in Turkey, which is like 
+1%. It wasn't 1%. We didn't put 200 million in, we put much less than that 
+and it just went up. But the thing is that I found very crazy mispricing and I 
+found that even with all the headwinds, we were not going to probably 
+have a problem. What I did in Turkey is I said, okay, let us only look at 
+businesses that do not have earnings in Turkish Lira. They should have 
+earnings in euros or dollars or they should have assets that have an 
+international value. Because the baby got thrown out of the bathwater, 
+nobody wants to go there because they think it is toxic. But I said if I look at 
+businesses where we do not have any currency issues, for example, I do not 
+have an investment in this, but there is a fruit juice manufacturer in Turkey 
+where 90% of 98% of their revenue comes from the export into the 
+European Union. Turkey is part of the European common market where 
+they can export and import from Europe with no duty or tariffs. It is free 
+trade. The more the lira collapses, the lower their cost in euros. Since they 
+are exporting, they get operating leverage. Their earnings in euros keep 
+going up even if they do not grow because of this dynamic. As long as this 
+craziness continues, they would end up doing pretty well, but because 
+everyone left, everything got mispriced. I found some extremely crazily 
+mispriced businesses. I said, okay, we have got a whole market that is 
+mispriced. What I will do is I will not go after the cheapest ones, which used 
+to be the old Mohnish after a few decades you learn. I said, “I will go after 
+very high-quality businesses.” I ended up in one case with an extremely 
+high-quality business, which was just extremely mispriced. We bought into 
+this operator of warehouses, the largest warehouse operator in Turkey. 
+They are kind of like a landlord. I remember the day I went to meet them in 
+2019 for the first time, my friend in Turkey whom I had told, listen, I just 
+want to go meet all the companies that you already have an investment in, 
+so do not take me to companies you have not invested in. I wanted one 
+layer of protection to start with. He was telling me, Mohnish, a company has 
+a market cap of $16 million and the liquidation value is probably like 600 to 
+800 million. I said, “Is it a fraud? Because that is the only reason we would 
+have such crazy pricing.” He said, “No, it is not a fraud, I own it in my 
+portfolio.” I said, “It is sitting at 2% of liquidation value.” He said, “Yeah, a lot 
+of things in Turkey are mispriced.” Before that, the previous day, actually 
+the previous year, the first company I visited in Turkey when I again made 
+the trip and I told him I want to visit companies in his portfolio, we were 
+going to visit one of the largest banks in Turkey. He tells me, “Mohnish the 
+PE is 0.1, okay, not one.” Which means you are buying a company at one 
+times the earnings. You would be buying the bank at one month's 
+earnings. I think my trips to Turkey are the most orgasmic. The food is 
+great, the weather is great, the company is great and the companies are 
+great to visit. As we are walking over to go visit this PE of 0.1, the only time 
+in my life I visited a 0.1 PE company, I asked my friend, “Is there hair on it?” 
+He said, “Yeah, there is a little bit of hair on it.” I said, “Can you tell me what 
+hair it has on it?” He said, “The bank was Halkbank. Halkbank is one of the 
+Pg 7 of 17 
+largest banks in Turkey. The chairman of the company decided to ignore 
+this UN embargo and sanctions against Iran with the fund transfers and all. 
+And he was doing N-mass, permitting all kinds of transfers to take place 
+and the US got wind of that. The CFO of the bank had made a personal trip 
+to the US where he was going to go to Disney World with his family. When 
+he landed at JFK, the Feds picked him up and sent him straight to Rikers 
+Prison. The family, I don't think continued to Disney World without him. 
+They went back to Istanbul. He was locked up in Rikers Prison. Then 
+Erdogan calls Trump to try to get the guy released and Trump is telling his 
+buddy Erdogan that it is the state of New York and it is the state of New 
+York's Attorney General that is going after this. The federal government has 
+no authority. He says, “I cannot even do anything. I do not have any power.” 
+He was trying to explain to Erdogan how the president of the United States 
+has no power to get one guy out of prison. When all of this hit the 
+newspapers and the US Federal Reserve was thinking about actions where 
+they would just kabash them, take them out of the SWIFT system, and out 
+of everything, the stock goes to the PE of 0.1.” I am getting this story as we 
+are going up the elevator to see the company and very high-quality, 
+honorable people. I think that CFO had nothing to do with any of this. They 
+just needed somebody to do that. I told my friend after that meeting that I 
+can deal with hair, but not so much hair. This is too much. Can we just take 
+it down one or two levels? Let's not do the 0.1 and 0.2, let us move up to the 
+PE ones. I think the PE ones I can deal with that. The next year we were 
+going to see this company Reysas and this time I could find no hair on it. I 
+could find nothing wrong with it. The father and son who ran it, seem like 
+really high-quality people. However, none of it made any sense. Their 
+warehouses, which are just works of art are really beautiful. 12 million 
+square feet in very prime areas in Turkey, 99% leased, 10-year inflation index 
+leases. A lot of the leases are in dollars and euros, Amazon, IKEA, Carrefour, 
+and Mercedes, DuPont, are the tenants. Anyway, I looked at it, and I could 
+not find anything wrong with it. Then I am looking at the market cap of 16 
+million and I am going to say, what can I invest? I got it, I was managing 
+like 600 million or something. I said, what are you going to do with this? So 
+anyway, I started buying and I said, we can buy whatever we can get and I 
+was surprised that for seven or $8 million, we got one-third of the company, 
+and nobody is interested. I remember we got a block of 5% of the company 
+from Templeton Funds, and some guy at Templeton in New York probably 
+issued some order saying, exit Turkey. There was no analysis or anything 
+done about what they own. They just got a blanket order that we are 
+nuking all our positions in the country. And I am saying, bring it on. John 
+Templeton would be turning in his grave with his firm selling at 2% of 
+liquidation value. That wasn't the best part about Reysas. The best part 
+about Reysas was that when I met the father and son, they told me that 
+their investment philosophy is that they do not want to put money out if 
+they cannot get it back in two or three years in dollars or euros. Basically, 
+not only did they have warehouses, they had the largest freight train 
+network in Turkey. The railways are owned by the government. The 
+government owns a track and they own their locomotives. But the rail cars, 
+the freight rail cars, those can be privately owned and they are the largest 
+operator of those, which is a great business. They have the largest truck 
+fleet in Turkey. I think they got 2000 trucks. They have the largest lift rental 
+business and vehicle inspections. Every business I looked at that they had 
+very favorable economics and it was interesting. The father had never been 
+Pg 8 of 17 
+to college. He, if I asked him, what is ROE ROI IRR he would have no idea 
+what I am talking about but he understands I put a dollar out, and I want it 
+back in two years. That is what he understands. That was the bar by which 
+they invested. Because they had this high bar, they always ended up in 
+great businesses. All their businesses were like recurring revenue, with very 
+good visibility deep into the future and so on. I said, “An asset is worth 
+seven or 800 million. The cash flows are being redeployed at 25 to 35%. 
+Where do I sign?” If they never increase the value of the business, we have 
+a 50x or a 30x. By the time I finished buying it, it moved up a little bit. We 
+would have a 3% liquidation value. So that 16 million market cap now is 
+more than 300 or 350 million. It has moved up a bit, but its liquidation value 
+is now a billion and a half or so. It may be more because a lot of the assets I 
+am not able to value. I'm just valuing the real estate and I am ignoring the 
+rest of it. I am not valuing the engine that redeploys. The engine that 
+redeploys is the most valuable piece of the whole puzzle. I think that if I 
+were you guys looking at the fund and so on, I would do what Charlie 
+Munger recommends, which is you go fishing where the fish are. Some of 
+these places can be uncomfortable and some of these will take some time 
+to get your arms around. It took me about, now I think this would be my 
+fifth year looking at Turkey. What I realized is that I understood everything 
+about the fear and all the foreign investors exiting and all of that. I realized 
+that there were a few businesses probably, I can think of at least four or five, 
+maybe more, maybe closer to 10, where when I met these management 
+teams, they had been US Ivy League educated MBAs from Cornell or 
+Harvard or Columbia, very high-quality people that I met, very high 
+integrity and very high-quality business that they were running, but 
+nobody was interested because of the stigma of where it was located. 
+There is an airport operator in Turkey, which is the other investment we 
+have. Operating airports can be a good business if you don't overpay. In the 
+US in the continental 48 states, all the airports used to be government-
+owned. We don't have the phenomena of this United Operators, but 
+LaGuardia Airport now is the only one. LaGuardia used to be an armpit of 
+the US as far as airports go. Now it is a spectacular airport. They gave it to a 
+private operator and it has become a great airport. But in other parts of the 
+world, private airports are much more prevalent, but still out of something 
+like I would say more than 10,000 airports around, only about 300 are 
+private. It is a very small number, but that number will grow. The number of 
+airports coming up in Africa and Asia will go up a lot and a lot of them will 
+end up in private hands because it is a win-win for everyone. This airport 
+operator, which is based in Istanbul, operates 15 airports, eight of which are 
+outside Turkey. But they still get the stigma of Turkey and even the airports 
+within Turkey, all their contracted revenues and everything is in euros. 
+Nothing is in Turkish Lira. It is completely insulated and in Turkey, their 
+costs are in Lira; the people and the labor and employees and all that is all 
+in Lira. All the devaluation and everything gives them tailwinds and all the 
+airports, the ones that are private in the world, operate on what they call 
+BOT to build, operate, and transfer. Typically, these concessions might be 
+20 years, 30 years, or 50 years, but, when they expire, they go back to the 
+government or they get renewed with another pound of flesh extracted by 
+the government, and so on. But in the middle of COVID TAV airports 
+acquired an airport in Kazakhstan, in Almaty. It is the only significant airport 
+I know of around the world, which is completely privately owned forever 
+and this deal happened when no planes were flying. The entire all-in cost of 
+Pg 9 of 17 
+that deal was 650 million. Most of it is financed at a three or 4% fixed rate 
+over a very long period. This airport in a few years will be producing 
+something like 150 million or more in cash flows. Those cash flows will be 
+growing at about five or 7% a year. I can see that because Kazakhstan is a 
+very wealthy country with a lot of oil. Anyway, we own a little 5% off the 
+airport, but just the Almaty airport alone, in my opinion, is worth several 
+billion dollars. The market cap of the company was like seven or 800 
+million. I am not counting the other 14 airports and I am not counting their 
+other subsidiaries; they have a whole bunch of other subsidiaries. This time 
+when I am going to Turkey, I am going to be visiting a bunch of businesses 
+that I haven't met before and I know people are not interested, which is 
+great. We will hopefully not go to the 0.1 PEs, we will try to keep it at the 1 
+PE, 1 PE is a good place to be. So anyway, next question. 
+Student 4: How do you decide when to sell? 
+Mohnish: Phil Fisher has a quote in his book Common Stock and Uncommon Profits; 
+a really good book if you haven’t read it. He says that if the job is done right, 
+every sell decision is a mistake. This took me a long time to figure out; a few 
+decades and I have made a gazillion selling mistakes. It is just such a long 
+list. Buffett thinks his list is long, but my list is even longer. Ideally, you want 
+to be like Chuck Akre, they run a mutual fund and you know how the 
+typical mutual fund has like 70, 80% annual turnover. The Akre fund is a 1% 
+annual turnover and that 1% I think is mostly coming because they have 
+some redemptions or whatever people going in and out of the funds 
+forcing them to sell something. Ideally what we want to be doing is we 
+want to be very patient. We want to be buying businesses that have 
+favorable economics and long runways. We can have a very high error rate 
+and still do okay. When you are convinced that you have made a mistake 
+where either you misunderstood the mote or you misunderstood the 
+runway or you misunderstood what the future of the business would look 
+like, then those may become candidates for sales. But I think that selling is 
+very hard. I think selling is much harder than buying. That is just the nature 
+of investing. But because it is such a forgiving business, we can be okay 
+with the selling. We can be sloppy on the selling and still be okay as long as 
+we keep the crown jewels intact.  
+Professor: You mentioned that there are fe wer opportunities in the US where you go 
+to Turkey or other markets abroad. What would your suggestion be for the 
+students since our mandate is to invest in US securities and they have now 
+this week to think about the pitch, what would you suggest for them to do, 
+how to generate ideas, how to evaluate the stock if it is a good value stock 
+or not? 
+Mohnish: I feel sorry for them; it is a difficult  job. I don't know what all the restrictions 
+are, but generally speaking, you will have more inefficiency in the smaller 
+names. I would say that given the time horizons, some areas like merger 
+arbitrage might be interesting. Then, we have this Microsoft-Activision 
+merger deal which has a pretty wide delta and Buffett seems to think that 
+delta is not justified that might fit in your timeframes. Before you leave, you 
+can have an outcome on that, which is good. What I would do in that case 
+is I would look for quirks and anomalies and what I would do is I would 
+zoom in on places and things like the Value Investors Club and because 
+those are a bunch of pretty high-quality write-ups and I would look at the 
+Pg 10 of 17 
+ones that were in the US or North America and see which ones of those I 
+would buy into and take it from there. That is what I would do. I think the 
+fact that you are running 20, 30 million is an advantage. That is a big 
+advantage. One of the things you could do is … Are they allowed to go Nano 
+cap? 
+Professor: No 
+Mohnish: What is the lowest cap they are allowed to do? 
+Professor: They have 1 billion. 
+Mohnish: Oh, so sad. It's like the knife we nt in and then got turned. Try to stick to 
+things that are under a couple of billion I would take other than something 
+like a merger arbitrage like Activision or something. I would take the whole 
+radar to be between one and 2 billion and I would not look at these Googles 
+and all of that. I would just look at that space and I would be trying to see if 
+I can find anomalies in that space. That's what you would try to do. And 
+how many positions minimum? 
+Professor: It is fairly 30 to 50  
+Mohnish: 30? They can't put it in one name? Buffett hired two managers, Todd and 
+Ted, who have 15, 20 billion each now, he said, “I don't care if you put it all in 
+one name.” The third issue is that you have a very wide number of names. 
+After five years of going to Turkey and drilling down all these businesses, I 
+have two investments there only. I just found two out of so many. On each 
+trip, I visited like 20 companies and it is a market that has been clobbered. 
+Even with all the clobbering and everything else, I still couldn't find that 
+many. I think the USA is an opportunity. I think the thing that you would 
+have to do is you would have to have a differentiated view on these 
+businesses which have a high probability of playing out, and those are just 
+difficult. There are a lot of smart people looking at things. But if you have an 
+edge in some area and you can see things a little bit differently then that 
+edge can give you a big advantage. That can work out. Other questions?  
+Student 5: How do you think your background, kind of specifically speaking from 
+either entrepreneurship or technology, is influenced or maybe 
+differentiated you as an investor, your philosophy? 
+Mohnish: I think what helped me a lot wa s accidental. It is what I ended up as 
+experiences during my childhood. It has to do with the human brain. First 
+of all, when we are born and the baby is coming out through the birth 
+canal, which is very narrow, the brain is the most underdeveloped organ 
+that a human infant has because the birth canal is just not wide enough. 
+The brain goes through, it is one of the fastest-growing organs in the first 
+five years of life. Massive amounts of growth in the brain and long infancy 
+for human kids. After the age of 10 or 11 till about 19 or 20, the brain is culling 
+neuron connections. It goes through a rapid increase in connections in the 
+first five years, then it slows down, and then after that, it starts culling 
+connections and it's optimally set up at that window of time. That is the 
+only window of time in our entire lives to specialize. If you can put a lot of 
+time and energy into what eventually becomes your calling in life, you get a 
+huge head start. One of the problems we have as modern humans are that 
+in that period, our education system and society expect us to be 
+generalists. You are sent to school and you have a set of subjects and you 
+Pg 11 of 17 
+have a set of things you do. The ability to specialize is for the most part non-
+existent. It may happen a little bit when you are 17 or 18 and may happen a 
+little bit when you enter college. But basically, the window closes by the 
+time the specialization starts and we end up with some quirks. You end up 
+with people like Bill Gates who from the age of 11 or so went all in on 
+computers and programming. By the time he was 18 or 19, he had spent 
+more than 10,000 hours coding and a 40-year-old could not compete with 
+a 25-year-old Bill Gates just because of that period where he completely 
+specialized. With Warren Buffett, he bought his first stock when he was 11 
+or 12. He read every finance book in the Omaha Public Library before he 
+was like 14 or 15. His father was a stockbroker and he would go to the office 
+every weekend. Warren got a lot of expertise in investing very early in that 
+window of time. If we look at people like Michelangelo and Leonardo da 
+Vinci and so on, we will see that a lot of the greats were able to go through. 
+We still have that situation in Germany where they start separating the kids 
+when they are like 13 or 14 where if you are going to go work in a factory, 
+you start doing apprenticeships and all of that in factories in Germany. 
+Germany is interesting because it's a manufacturing powerhouse with 
+some of the highest labor costs in the world. China hasn't been able to 
+uproot German manufacturing because of the quality of the workforce and 
+the quality of the workforce is high in Germany because they specialize 
+that early and so in my case, what happened is my father was an 
+entrepreneur, but he clock worked. Every three or four years he went out of 
+business; whatever he was doing. He was always really good at starting 
+businesses and identifying opportunities, but he was always 
+undercapitalized; didn't have enough money. When the business was 
+doing well, he just pushed on all cylinders, maxed the leverage, maxed 
+everything he could, and then the first headwinds that showed up would 
+destroy the company. My parents just didn't save. We would go from feast 
+to famine quite regularly. When my brother and I were around 11 or 12, my 
+father would sit down with us in the evening and we would have to figure 
+out how to make the business last for one more day. All the wall, the caving 
+in, all the creditors are coming in, it's just collapsing and it's a very kind of 
+intense time and all of that is affecting us; we don't have money for rent, we 
+don't have money for groceries, all of that. We would make it through one 
+day and then the next night was, how do you make it survive one more 
+day? When I was like 15 or 16, I used to go on sales calls with my dad and I 
+never realized that any of these things with the neurons and all of that. I 
+think I finished several MBAs before I was 18 and so I can actually look at 
+businesses and figure them out pretty quickly probably because of a lot of 
+experience and thinking about business in those years. Even though I was 
+running working, going to generalist schools, and all of that, there was a 
+decent amount of time that went into all of these things. Later when I 
+heard about Buffett and started reading, a lot of things came to me pretty 
+easily because I had looked at so many issues with these companies and 
+businesses. I also learned from my dad how to start businesses with 
+nothing. That was a great gift I got from him, which helped me get my first 
+business off the ground because I didn't have any money when I was doing 
+that. I think that experience helped me a lot. Then when I started running 
+my business, obviously there was a more direct experience I got, and then 
+when I got a proper framework from Buffett and Munger and so on, then 
+that just overlaid everything else and it worked out. Actually, for me, I am 
+Pg 12 of 17 
+just accidentally in the right place at the right time and pretty lucky I would 
+say. It worked out well.  
+Student 6: If we could get your thoughts on knowing how much you understand 
+about Charlie Munger and Warren Buffett’s side of investing; about their 
+foray into Occidental, because for the longest time, they had avoided 
+materials and very cyclical commodities and entering into Occidental, and 
+they keep ramping up their stakes. What do you think of that as an 
+investment? 
+Mohnish: I think both of them have been in vestors in oil and gas for a very long time. 
+Munger invested in what was eventually one of his biggest mistakes 
+because he didn't buy enough Belridge Oil in 1977 which is 46 years back. 
+Charlie will tell me things, I have a good friendship with Charlie, and I 
+usually see him four or five times a year for dinner. I used to play a lot of 
+bridge with him, but sometimes I would be at his place in Hancock Park in 
+LA and he would tell me that we are sitting on top of an oil field and he 
+explained to me how that whole area was an oil field. But because so many 
+humans moved in and the real estate prices became more attractive to 
+build homes and sell the real estate that way than to drill for oil, LA 
+developed without really extracting the oil, so to speak. It still sits there. One 
+time I was talking to him and he mentioned that he would love to have an 
+investment in Exxon and be able to get a commitment from the 
+management that they would do no more CapEx and they would simply 
+run all the fields with the cash flows going to the shareholders that he had 
+calculated would be a tremendous investment. Of course, oil companies 
+don't think that way but Occidental thinks that way. If you study occidental, 
+you will find they don't have exploration going on. If we look at the whole 
+fracking business and the Permian Basin and all of that, basically when you 
+drill a well, you have got a 90-plus percent shot of what is going to come 
+out. The probabilities are high and it's not like what used to be conventional 
+oil. Here you have got very definitive metrics going on and so OXY has 
+almost no speculative drilling going on. In effect, it looks like a CD, they are 
+clipping the coupons and what OXY is doing is they have a huge gusher of 
+cash flows coming out and that huge gusher of cash flows is only going 
+into buybacks and dividends. It is all being pumped out to shareholders 
+and he loves that. And then they invested in Chevron. I think the reason 
+they invested in Chevron is also Chevron has a very large position in the 
+Permian Basin and if OXY was large enough, they wouldn't have gone to 
+Chevron just like he bought all the US airlines a while back. He bought it all 
+because he couldn't make one bet as the size of the capital is so large. He 
+was forced, like you guys are forced when you find one airline you got to 
+buy all of them because you have 30 positions to put to work. I think the 
+Chevron bet is a heavy bet based on this non-exploration risk. The oil 
+business lately, of course, UT Austin knows this well with the 8 billion that is 
+coming out every year into the endowment, People think Harvard has the 
+biggest endowment but they don't understand we are the biggest 
+endowment here. I haven't seen a business school building as good as this 
+one. Long live the oil fields. I think that the bet with Chevron and OXY is a 
+coupon clipping bet. I think Buffett looked at what US treasuries are paying 
+him and he doesn't want downsides. He looked at OXY as US treasuries on 
+steroids and I think that is why he went with that bet. Other questions? 
+Pg 13 of 17 
+Student 7: You talked about the three-le gged stool and one of those legs being 
+management. I am just curious to know what is your process like. How do 
+you go about analyzing the quality of management? 
+Mohnish: Buffett and Munger have spoken qu ite a bit about this. They say that what 
+you should do is not listen to what they are saying, just look at the track 
+record. If you have a long enough history of the business with the same 
+manager, you will be able to tell whether they under-promised and over-
+delivered or whether they over-promised and under-delivered, whether 
+they have skin in the game or they don't have skin in the game, whether 
+their interests aligned with yours or not and how they think about it. You 
+can come to some judgment about humans based on their track record 
+and you should completely ignore the projections and what they are saying 
+will happen in the future. They are the optimists. They are not trying to be 
+deceitful in most cases they just see things from rose-colored glasses but I 
+think if you just look at the history of the business then that can tell you a 
+lot. Like the business in Turkey, Reysas, when the IPO they took in 40 
+million of capital and then recently they did a rights issue and they picked 
+up another 10 million. 50 million is the total amount that went into that 
+company. They have never issued dividends because they have been 
+reinvesting and we have something like a billion and a half or more of value 
+in not that many years, probably less than 15 years or something. That is a 
+remarkable record. I can look at that history and when I look at the last few 
+years when I look at the decisions they have made, I can't point to anything 
+that I would disagree with. They have been very sound decisions. I just look 
+at the past. The past is very easy to look at because we have got a lot of 
+data. I invested in 2012 and I think this is one of the larger mistakes I made 
+just because I should have held on and I didn't hold on long enough. In 
+2012, I invested in Fiat Chrysler automobiles. I always hated the auto 
+business. The auto business just badly sucks. You have very high CapEx, you 
+have unions, you have finicky customer taste, and you have four years it 
+takes to engineer and bring a car to market. Then people may not like the 
+shape or may not like various things about it and that could fail. It would 
+cost you hundreds of millions or billions to engineer a car that may or may 
+not work. On every front, it's just terrible, and especially in North America, 
+Detroit used to be one of the worst places to build a car. You had very high 
+labor costs and unions and all these different things going on, very kind of 
+calcified management. But what I had noticed was that during the 
+financial crisis, GM and Chrysler went through nearly that experience, and 
+the auto task force that was headed by Steve Rattner was put in place in 
+Washington DC to re-engineer these companies and bring them back to 
+life. When I was studying Fiat Chrysler, I was reading Steve Rattner's book 
+about the whole experience of doing that. He was talking about one time 
+that the four or five members of the task force had come up with what they 
+wanted the new union contract to be. Without talking to the union, they 
+had come up with a new set of what workers would get paid and all of that, 
+which was very widely off from the way it was. They had a meeting with the 
+UAW and they sat down with the UAW in the afternoon or something and 
+they told the UAW, “This is your new contract and please sign on the last 
+page and give it back to us.” The UAW said, “You don't understand how this 
+works. If you are giving up something, that is fine, we will take it. In a few 
+weeks, we will come back to you and we can just see from page one, we are 
+not going to accept 90% of this, so we are not going to deal with this. And 
+Pg 14 of 17 
+you don't understand how unions worked.” Steve Rattner tells him that our 
+plane leaves at five o'clock. He said that if I don't have a signed contract 
+without a comma change by five o'clock, I shut all the lights down in the 
+city tomorrow and all your jobs are gone. I don't particularly care if they are 
+in business or not. You are not dealing with some GM or Chrysler 
+management. The UAW signed at 4.45 PM with no changes, never in the 
+history of Detroit did that happen. Then I went to God Google and pulled 
+up the contract that they signed which was available and I read it and I 
+looked at the previous contract. They had knocked something like 70, 80% 
+off the labor cost and they took out the ability to fire anyone at will. They 
+just took out all kinds of things that had been bargained by the UAW over 
+decades because they could always strike, they would strike in one plant 
+that made transmissions and that would shut down the whole supply chain 
+and everything, you couldn't produce a single car. I realized when I was 
+looking at this thing in 2012 that Detroit had gone. The reason auto 
+manufacturing went to Detroit, to begin with, going back to the time of 
+Henry Ford and so on, is that area of the planet has tremendous iron ore 
+deposits. It has tremendous coal deposits. We have a huge iron and steel 
+industry and we have the Great Lakes which allow the movement of all 
+those goods by water and the Erie Canal and so on. You had that entire 
+footprint around the Great Lakes where you could bring in all the different 
+factors of production you could ship out. It was very efficient and that is 
+why Detroit rose because it had all those advantages and those advantages 
+have come back. But the market did not recognize that. The market 
+thought autos are terrible and unions are terrible and nobody was paying 
+attention that everything had changed. When I was looking at Fiat Chrysler 
+in 2012, they had hired a superstar manager, Sergio Marchionne. He 
+architected the acquisition of Chrysler by Fiat, which was a minnow-
+swallowing whale, and did that acquisition. When I was looking at it in 2012, 
+the market cap of Fiat Chrysler was 5 billion. The revenues were 140 billion. 
+We were back in Istanbul. In North America we were back in Istanbul, it was 
+the bazaar, the Grand Bazaar, and nobody was interested. We were at 4% of 
+sales, not only that, but we were also at 4% of sales. They had a lot of assets 
+in the company, but if I just looked at two of their franchises, their RAM 
+franchise, and their JEEP franchise; on the RAM franchise side, they have 
+this law in the US where imported trucks cannot come in, light duty trucks 
+cannot come in. There is some very old law. Even when Toyota wanted to 
+enter the truck market in the US, they had to start building trucks in Texas, 
+otherwise, they couldn't. Texas is the truck capital of the US I think 50% of 
+sales are trucks, and there are three players. All, not American players. Even 
+Toyota has not been able to make much of a dent because the brand 
+loyalty with those trucks is very high and they make $10,000 a truck. It is 
+very profitable, so if you just extrapolated the number of trucks sold every 
+year and the 10,000 per truck, you would make 3, 4 billion a year just in 
+trucks. Then the JEEP franchise, which was the other one, they were three 
+franchises. The truck franchise, the JEEP franchise, and the minivans, these 
+three were dominant for Chrysler, and the three of them together were 
+coming up to 10 billion in cash flow. Now they had a bunch of other stuff 
+that was bleeding, which these new contracts allowed them to kabash. But 
+besides this, they had Alfa Romeo, Maserati and most importantly, which I 
+didn't pay much attention to, 80% of Ferrari was sitting inside Fiat Chrysler. 
+I put $60 million into Fiat Chrysler 10% of the fund in 2012. And I thought 
+that we would probably have about four or 500 million in a few years 
+Pg 15 of 17 
+because it was just the economics. I thought that the 5, 6 billion market 
+cap, the after-tax earnings would be more than 5, 6 billion just based on 
+what was going on here. We had a really good star manager and we had 
+these different franchises. One of my big regrets is I owned around 1% of 
+Fiat Chrysler when we made that investment; about 60 million over 5, 6 
+billion which was about 1%. We owned about 0.7 or 0.8% of Ferrari. They 
+owned 80% of Ferrari, and about close to 1% of Ferrari was owned by me. 
+Ferrari's market cap now is about 50 billion. And they went public I think in 
+2017 or something. 2017, 20 18, they IPOed Ferrari and in effect, out of the 
+60 million, 20 million have been invested in Ferrari. I collected around 150 
+million from that. But what I should have done, which I never realized is the 
+quality of the business that should never have been sold. I got to know the 
+chairman and the owners of Ferrari. I went and visited the factory and they 
+also gave me a, let me bump the queue; I got a 488 in 2018, which was 
+great. That is when I realized it was a tremendous mod, but anyway, so just 
+Ferrari alone, out of that 60 million, 20 million as Ferrari is about 400 
+million, that is a 20x and the 40 million that went into Fiat would today be 
+sitting at around 200 million or so. I don't have a position in any of these 
+things now, collectively I collected about 250 million on this, which was still 
+okay, but it was stupid. The whole thing was stupid. The sell decision was 
+sloppy. Old too soon and wise too late. What I realized is that do not be 
+quick to sell. Like I told myself that Reysas in the 2040s will look at what to 
+do with it with TAV airports maybe into the 2050s. If I am still around, we 
+will see what we want to do with it. They will probably keep adding an 
+airport every year or two and they will keep the passenger counts, keep 
+going up and all of that. It is just a great business. We are at 5.30. Go ahead.  
+Professor: Maybe just one question, you disc uss little bit your Dakshana Foundation, 
+Warren Buffett says that your annual report is much better than his and 
+that is your charitable foundation. 
+Mohnish: We should not believe everything Buffett says. Sometimes he just makes us 
+feel good. But what has surprised me is Warren reads the Dakshana annual 
+report every year when I send it to him. Sometimes he will tell me, to send 
+him 20 copies and he will send them to his kids and his board members 
+and his friends, and so on. There have been two or three things that I think 
+have been … I will take a step back. I think you guys have heard of Peter 
+Thiel, some of you may have heard of or read his book Zero to One, which is 
+a great book on entrepreneurship and startups, and so on. One of the 
+questions Peter Thiel asked in interviews, he says, “What is the one truth 
+that you know to be true that most of the world disagrees with you on?” If 
+you ever go in front of Peter Thiel now you already know the question, so 
+please prepare so you don't blow the question. Okay? This is a great 
+question, right? If he asked me that question, I would say the mental model 
+of cloning. People think cloning is somehow like copying and it is beneath 
+them and whatever, and they want to come up with things on their own. It 
+is very dumb. I would say that let us leverage all the great giants who have 
+come before us. Let us stand on their shoulders and let's go as far as we can 
+by being on their shoulders. Let us not try to rise on our own because that 
+is hard. What I have noticed through the decades that I have tried to do 
+this is that humans have an aversion to cloning, just like they have an 
+aversion to buying Turkish stocks. I realize that you get irrational behavior 
+when you have these aversions. Go all in on those because you are going to 
+Pg 16 of 17 
+have some good advantages. Cloning has helped me a lot in many different 
+areas. Dakshana has done well because it is a cloned model. In 2006, I was 
+reading an article on Business Week. There is a guy in India who runs an 
+organization called Super 30. He takes 30 really poor kids who are like 18 
+years old. He is a gifted mathematician and he preps them for about 10 
+months. He operates out of a slum in Patna in Bihar, which is a pretty 
+desolate place. I visited him there in 2007. He had a kind of coaching 
+tutoring business and he would take some of the proceeds from that to 
+fund these 30 kids. His mother would cook for them and then he would 
+rent a few rooms in that slum for the kids. They lived there. Then after 
+about 10 months of prep, they would take the IIT entrance exam, which has 
+a 1.3% admission rate, and between 90 and hundred percent of the kids 
+would get into IIT, which is a stunning statistic. These kids came from really 
+poor backgrounds. They had illiterate parents, farmers, laborers, and so on. 
+They were very poor. When I looked at that model, I said, “Wow.” He was 
+spending about $800 per kid. That is a tremendous bang for the buck 
+because once you get out of IIT, it is willing to hire you. You pretty much 
+can join a global workforce. I contacted him, went and met him, and I said, 
+“Happy to fund you. Can we take 30 to 300?” He said, “I have no interest in 
+scaling. I don't want any outside money. I like it the way it is.” Then I knew 
+that cloning works well. I said, do you mind if I copy your model? He said, 
+“No, that will be a really good thing, I will help you.” I know what his model 
+is. I know that there is a large need. And so now Dakshana takes about a 
+thousand kids a year. We are not doing 90%, we are probably in a 60 to 80% 
+admit rate and it has worked out well. Our costs are not 800, it is about 
+3000 because we are not operating with my mom cooking or whatever. We 
+have got a little more industrial scale to it. Warren has seen that journey 
+because when I met him for lunch, the first Dakshana annual report had 
+just come out and I had sent it to him. The input-output ratio we have on 
+Dakshana is infinite. Recently there is a girl who was with us from 2010 to 
+2012, and then she joined IIT Guwahati in 2012, as a math major. She 
+finished in 2016. Goldman Sachs recruited her, in their Bangalore office. She 
+worked there in 2019 as an analyst and then she started a Ph.D. program at 
+Stony Brook University, which is where all the quant mathematicians are. 
+Stony Brook is the epicenter of the quant fund’s renaissance there and all 
+these things. She has been interning at a quant fund there for the last three 
+years. She is going to graduate in May and I think she will be heavily 
+recruited. She came from a family making $75 or $80 a month and she may 
+be in seven figures when she starts. It is just a huge delta. We only invested 
+less than 3000 in her. If you take us out of the picture, because she came 
+from such a remote rural area, these things wouldn't happen. It has worked 
+out well. The reason Dakshana has done well and why I look good is we 
+cloned a great model and I lucked out. I got a great team in India, so I don't 
+spend a lot of time on the foundation. I enjoy my visits, but I usually just 
+spend time with the kids and I still enjoy the Istanbul visits, so I have to 
+balance the two. Thank you for having me. A pleasure to be with all of you 
+and good luck with your stock picking. Try to focus on the cloning, look at 
+Dataroma, look at Value Investors Club, look at what other smart people are 
+saying, and try to find some anomalies and go from there. 
+Professor: Wonderful. Thank you very much. 
+Mohnish: Thank you very much. 
+Pg 17 of 17 
+Professor: It was very inspiring. Thank you so much. We hope to continue the 
+collaboration in the future. 
+Mohnish: Yeah, I am right in your backya rd, so it is easy. Thank you very much. 
+ 
+  
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not 
+intended to be financial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not be  
+suitable for you, do not take into account your particular investment objectives, financial situation, or needs, and are not intended 
+to provide investment advice or recommendations appropriate for you. Before making any investment or trade, consider 
+whether it suits you and seek advice from your financial or investment adviser. 
+ 
+ 

@@ -1,0 +1,1037 @@
+Page 1 of 24 
+Mohnish Pabrai’s Lecture at Peking University (Guanghua 
+School of Management) on October 14, 2016 
+ 
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not inte nded 
+to be, financial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not be suitable for you, 
+do not take into account your particular investment objectives, financial situation or needs and are not intended to provide investment 
+advice or recommendations appropriate for you. Before making any investment or trade, consider whether it is suitable for you a nd 
+consider seeking advice from your own financial or investment adviser. 
+ 
+Mohnish: It is a true pleasure and honor to be invited to speak to the students. Obviously, 
+Peking University is amongst the best of the best. I saw a few of the resumes 
+and they look exceptional. We've got lots of horsepower in the room, which is 
+great. Behind me, is a bust of Charlie Munger. Charlie will be overseeing the 
+proceedings for the next couple of hours. In case we go off track, he'll get us 
+right back on track. Anyway, the topic for today is “the quest for ten to hundred 
+baggers”. 
+The term 100 baggers comes from feed or lynch. It means making a hundred 
+times on your investment or making 10 times on your investments. If you say 10 
+baggers, it's 10 times, a 100 bagger is a hundred times. I haven't given this talk 
+before which is always a lot of fun for me because it's very boring if I must 
+repeat some talk that I've already gi ven before. In some ways you guys are 
+Guinea pigs, but in other ways I think it'll be exciting. Because I have not given 
+the talk before, I'm not exactly sure of the timing but I'm going to try to move 
+this along because there's a lot of material relatively fast. It'll feel like it's going 
+quickly, but that's why we have the reco rding. Later you can watch it kind of 
+more at your leisure if you want to, or certain parts but also certainly during the 
+Q & A, we can go through things that you have an interest in.  
+Anyway, I started my journey as a value investor 22 years ago. I quite by 
+accident heard about Warren Buffett for the first time. Unlike you, when I heard 
+about him, I was 30 years old, I was much older. When I read about him, I was 
+stunned. I haven't been to business school. I'm an engineer by training. All of 
+you probably know a lot more about finance than I do. But, I was stunned with 
+Warren Buffett's approach and the way he had been so successful. 
+The crux of his success, at least what I took away from what I read in 1994 was 
+a quote by Albert Einstein, which is “compounding is the eighth wonder of the 
+world”. Even though Einstein was a physicist, he figured out a few things about 
+compounding. Obviously, in 94 when I had read about Buffett, he had been 
+compounding at the rate of about 25, 26% a year. 26% is a magical number. I 
+thought of a magical number then, because if you compound money at 26%, it 
+doubles in exactly three years. If you have a thousand dollars, you compound 
+at 26%, you're going to have $2,000 in three years and so on. If you go for 30 
+years that's two to the power of 10. This group doesn't need me to tell you that 
+Page 2 of 24 
+2 to the power of 10 is 1024. We throw away the 24, it's a thousand times your 
+money. 
+If you had a thousand dollars and you compounded at 26%, 30 years later you 
+would have a million dollars. If you had a million dollars and you compounded 
+at 26%, 30 years later, you'd have a billion dollars. That's basically the key to 
+Buffett's success. I th ought it was worth trying to  do what Buffett did. Of 
+course, no, we are never going to have another Warren Buffett, but I thought it 
+was worth trying to compound at high rates. I gradually, (over five years), 
+switched from being a CEO of an engi neering company to eventually being a 
+hedge fund manager. 
+The key nuance, or you could say mental model I used was very simple, which 
+is, I looked for companies that were selling for half or less than what they were 
+worth in two or three years. If I could find a dollar bill for 50 cents, then what 
+that meant is that if it got valued as a dollar in two years or three years, I would 
+be compounding at 26%. If it happened in two years, it would be even higher. 
+It'd be like 35, 36%, and it happened in tw o years, it'd be 26%. I said, it's worth 
+trying to seeing if we can find these 50 cent dollars, because 26% sounds high, 
+but finding things that are half off in an auction driven market. I didn't think it 
+was that hard, and I thought  it was worth trying, b ecause the rewards are so 
+high. 
+That's what I embarked on doing, I said, Okay, let's try to find these dollar bill 
+for 50 cents, and then you just sit back and wait for two years or three years. 
+Markets are weighing machine in the long term, and they'll get reweighted 
+accordingly. For the most part, if I look at my performance from 95 until let's 
+say 2014 it's done about the 26%, approximately. Last two years. I'm down about 
+one third, so it would've taken it down a little bit. But we think in the next few 
+years we'll make it up. We'll see how it goes. I'll report to you next year when 
+I'm with you in person. But this journey, it's been 21 years since I started doing 
+this. 
+I had a million dollars in 90, 95, and I wanted to try to see if that million in 30 
+years could convert to a billion. I said, Okay, basically we have the million. I don't 
+need it for anything. I'm going to try to put it in this Buffett engine of 
+compounding, and I want to see what happens to it. The good news is that even 
+if I missed by 90%, it's still a big number. Even if I missed by 95%, it's still a big 
+number. They're all acceptable numbers. It sounded like a good game to play. 
+When I first set up the first set of stocks I bought in 1995, I had one year of 
+experience reading about Buffett. I didn't have a lot of experience. I hadn't gone 
+to business school, et cetera. 
+I basically used to just, if I found a company, I would make a 10% bet. My 
+portfolio for a million dollars, got divided into ten stocks, okay? I bought these 
+10 stocks, but then I had an interest at that time in making investments in the 
+Indian market because there were some companies I had noticed in the Indian 
+Page 3 of 24 
+stock market that looked very compelling. It was very complicated at that time 
+in 94, 95 to invest in India, especially as a US resident. For example, they didn't 
+have Demat. If you bought shares, this is like 21 years ago, they gave you 
+physical stock certificates. Also the Indian government said that if I brought in 
+dollars and I bought Indian stocks, I'd be able to take the money back without 
+taxes back in dollars. 
+The country had a lot of exchange controls, so I didn't believe them. I was a 
+little skeptical that a country that had all these exchange controls would kind 
+of honor these things that they were saying, if you will. I was skeptical. What I 
+did is, out of the million dollars, I only allocated $30,000 to India, and the 
+$30,000 I allocated to four stocks. I had to physically go to Mumbai. I opened a 
+brokerage account, opened a bank account, and then I bought these stocks. 
+Then a few weeks later, I got these physical stock certificates in California, and 
+they were almost falling apart. Like, they looked like they almost were 
+worthless. They looked so beat up. One stock I bought, which was half of the 
+30,000; 15,000 was an IT services company. 
+That was the business I was in, and Satyam computers, and then three others. 
+One was a broker to whom I bought the stocks, and two were courier 
+c o m p a n i e s ,  k i n d  o f  l i k e  F e d E x  o r  D HL because India had a very bad postal 
+system. I thought that as the economy grew, these companies were basically 
+doing what the postal system should be doing, but were doing it in private ways 
+like FedEx and DHL and UPS. I thought th ese were all very long-term plays. 
+When I got these certificates, I said, Okay, I'm going to stick them in my drawer 
+and not look at them for 10 years, just let them be. But what I noticed is after 
+about five years one of the stocks, the IT company, Satyam computers, I had 
+bought it for 45 rupees, and it was trading at 7,000 rupees. 
+It was up 130 or 140 times what I paid fo r it. At that point,  actually, I'd been 
+tracking a little bit, but in about 1999 which was about four years after I bought, 
+I said, let me just study this business again because I know the business, but 
+this is ridiculous. I noticed that the multiple it was trading at, it was trading at 
+more than a hundred times earnings. It was just a ridiculously low price. One of 
+the reasons it was priced that way is because they had spun off A dotcom 
+Company, which they still owned a piece of, and the market at that time was in 
+a major bubble for all these dotcom. This company, which was just a  system 
+integration IT company had spun out a subsidiary that was doing some nifty 
+things on the web. 
+The market gave that spun-out company a huge valuation. Because of that, this 
+company got a big valuation. Anyway, I thought this was complete bubble 
+territory, and I was also concerned the 15,000, the exchange rate had moved 
+against me. The 15,000 was worth over 1.5 million. I started with a million 
+dollars. I'm going to tell you whether the remaining 985,000 in a second, but 
+15,000 of the portfolio was sitting at one and a half million. I was concerned 
+whether the Indian government would allow me to take the money back, 
+Page 4 of 24 
+whether I could even sell the stocks, whether the shares were fake or real, I had 
+a lot of questions. I said, we're going to test this out. I contacted the broker, I 
+said, I'm ready to sell these shares. I sent them the shares, they sold the shares. 
+I sold within 5% of the all-time high of that company. They put the money in my 
+Indian bank account. Then the next day, I asked them to wire it to the US and 
+they wired it. Everything went flawless exactly as the government had 
+promised, no issues, okay? I was blown away. I said, Wow, no taxes. I gave them 
+15,000, five years later, they gave me 1.5 million no questions asked, what a 
+country. Then these other stocks that I had, they were all kind of, you can say 
+old economy stocks. They hadn't done much. The remaining 15,000 maybe was 
+worth 20,000 or 25,000. It had not moved much. In fact, everything else was 
+going down in price at that time, except the frenzy for the dotcom. Even Shire 
+Hathaway hit a multi-year low at that time. 
+In 2001, I decided to completely exit my  Indian positions, and I sold all the 
+remaining three. One of them was down  50%, but the other two, we made a 
+little bit of money, were basically part of the remaining 15,000. I got like 20,000 
+back or something. The overall result  in India obviously was more than 
+acceptable. 30,000 in one and a half million out is perfectly fine. Then the other 
+970,000 I had, there was one company I had in there, which went up 100 X and 
+I had a hundred thousand dollars. This US Company, CMGI went up a hundred 
+times. That one company became 10 million. Now I had 10 million in that one 
+company. I had one and a half million in this one Indian company. The rest of 
+the portfolio had done okay, because at that time, from 1995 to 2000, the US 
+markets had gone up like 25% a year, so that it had moved up, but nothing like 
+these other companies. 
+I had 13, 14 million out of the million dollars in five years. I said, Mohnish, forget 
+about 26%. We've just kind of blown it out of the park. Very well done. Good 
+job. I was very happy, it was a fantasti c job, especially for never having even 
+attended a single class with the professor at Peking University. Just winging it 
+on my own, if you will. Now recently I went back. What happened is, these other 
+stocks, when I went to sell the other three Indian stocks, they told me one 
+particular stock certificate was fake. It was a very small amount of shares, but 
+they said it was a fake certificate. The broker said, we’re not responsible for fake 
+certificate. I didn't care. It was a small amount, and I just kept that one 
+certificate in my desk. 
+Recently I looked at it again, I said, No, it doesn't look fake to me. I sent it again 
+to a broker in India to sell, and I asked them, Can you sell these hundred shares 
+of this company? Now what had happened is, I had held this one company, Blue 
+Dart, which was like the FedEx of India for 21 years, and I held it for 21 million 
+years by accident, because that one littl e piece can get sold because of this 
+kind of fake thing. I trace back, because I kept getting these dividend checks all 
+this time and all that, that Blue Dart wa s ultimately a 60 X. If I had kept those 
+Page 5 of 24 
+shares, I'd invested in Blue Dart, I had invested $7,700, and I would've had about 
+half a million if I'd kept those shares. 
+Then I went back and said, let me check  all the four stocks in India. What 
+happened to the other three if I'd not touched them? Because they were 
+designed to not be touched. I was stupid . I sold it after si x years. What ended 
+up happening is that Blue Dart was 60X. There was another one, Kotak 
+Mahindra, which was my broker that was up 50X. The third one which was 
+SkyPack, which was competitive Blue Dart that basically went down to half that 
+didn't do anything. But what ended up happening in that portfolio of 14 stocks 
+in 1995 is, I had four out of the 14 that all eventually went up more than 50 times. 
+In one of them, I had a serious position. I had a 10% position, which completely 
+altered my net worth. I started thinking that this is not good, that I ended up 
+with these companies in my portfolio, and I never recognize how great they 
+were. 
+I recognize it in two cases. In both cases, I cashed out a hundred X both because 
+of the bubble, not because of valuations went up. They probably should have 
+been worth 10 X or 15 X, but not a hundred x. But we over kind of collected more 
+than we should have, which was fine. Bu t these other ones, these were real 
+businesses like the FedEx of India the,  the Goldman Sachs of India, and these 
+were businesses I should not have sold, and I sold them. I started thinking, how 
+often has this happened in my portfolio? How often has it happened where we 
+had these companies where I was smart enough to buy them but not smart 
+enough to hold them? 
+Why is that happening? Which is the subject of the talk today, is kind of a 
+framework. The best way to learn is to teach. I have to admit that one of the 
+reasons I wanted to do this talk and this lecture is because I'm trying to learn. 
+Whether or not any of you guys learn anything from me, I am definitely going 
+to learn from this talk. Because what I want to do is I'm 52 years old, hopefully 
+I have another 30 or 40 years left, and the next 30 or 40 years, when these 
+hundred baggers show up in my portfolio, and they're guaranteed to show up 
+I am at least smart enough to figure out that some of them are 50 bagger or a 
+hundred bagger, and I hold onto them and I do not sell them. 
+What I did is, I said, Okay, how do we identify these hundred baggers? What I 
+discovered is that if I just looked at  the examples in my own portfolio and 
+obvious examples around me, there are basically about five different categories 
+that these 10, 200 baggers fall into. Now, it could be more than five, but five is 
+the one I was able to come up with before it was time for this lecture. If I come 
+up with more, I'll update you next year, but we at least have five very distinct 
+kinds of companies, which should give us clues that these are businesses that 
+we want to hold onto. The first category of companies that has the potential 
+for these 10 to 100 by a hundred baggers is these are businesses that have huge 
+tailwinds. 
+Page 6 of 24 
+Tailwinds mean they just have all the factors moving in their favor. They have 
+very deep moats, they have very long runways, and they have a very high return 
+on equity. They typically don't need any debt. The most important condition an 
+idiot can run these companies. Like Warre n Buffett says, “Invest in businesses 
+that idiot can run because one day an idiot will run them”. Which are the 
+companies that a complete moron, stupid idiot can run? The businesses like 
+‘See’s Candies, Coca-Cola, Moodys, Visa, MasterCard, American Express are the 
+types of businesses that are deep in the moats. in fact, if you look at a company 
+like Coca-Cola, they have more than a hundred-year history. In the hundred-
+plus year history, for several decades, the company was poorly managed. 
+You have a company in China, Maotai, maybe some of you even consume the 
+product, and with due respect, I think Maotai probably has great management, 
+but with due respect to Maotai, an Idiot can run that company, Okay? You do 
+not need anything between your ears. You can put me in charge of Maotai and 
+I can run it. Even a person like me can run that company. That is an 
+unbelievable, fantastic business. There's a good friend of mine, you might have 
+heard of him. His name is Guy Spier, and he lives in Zurich, I think he's going to 
+try to also speak to you next year. Maybe we'll both come together we'll see if 
+we can do. (back to lectures). Guy has a mental model he uses, and his mental 
+model, which is used for more than 15 years is that, if he identifies a company 
+like Moody's or S&P as a great business, or let's say if he identifies Coca-Cola as 
+a great business, or let's say the Coca-Cola Bottlers as a great business, then he 
+looks around the world for Coca-Cola Bottlers in other countries. 
+If he finds that being a Coca-Cola Bottler is great in Tennessee in the US, then I 
+want to find the same business in Brazil. I want to find the Bottler in China. I 
+want to find the Bottler in India, and I want to go around the world looking for 
+the Coke Bottler, and I want to find which one is being undervalued, and then I 
+want to invest in it. Because the economics of these Coke Bottlers, no matter 
+where in the world they are, is about the same. They all are great businesses. 
+One of the businesses, which is the ultimate deep business is Moody’s. They do 
+the debt ratings. Even in the financial crisis, when they gave all bad and flawed 
+and garbage debt ratings, it still did not  destroy the company. This is a great 
+business that an idiot can run. 
+Guy said to himself, what are the credit creating agencies all around the world, 
+which have the same business model like Moody’s? Because Moody’s is a model 
+where they'll hire an analyst, they pay him maybe a hundred thousand dollars 
+for each analyst, they pay a hundred thousand, and they’re probably collecting 
+$4 million in fees. It's just a great business. Just the economics are fantastic. He 
+found a company in 2001 in India, which was very small, but was a number one 
+credit rating agency in India, exactly like Moody's was in the US. He found that 
+and S &P 500 owned 10% of that company. S & P had done a lot of due diligence, 
+and they bought 10% stake in the company. That company was called Crystal. 
+Guys Pier at that time was managing about 30, 40 million. 
+Page 7 of 24 
+He made a small investment in Crystal, an d it went up, it doubled or tripled in 
+two, three years, and then he bought a little bit more. Then another year or two 
+later, he sold it all. He had made like four times his money. Sometimes I like to 
+pour salt on the wounds of Guy Spier. Like sometimes I want to have fun with 
+him. I spoke to him last night when I was preparing to talk. I said, hey, Guy, you 
+know that crystal position that you owned, which you sold if you had not sold 
+it, it went up 130 times after he sold, okay? He's the kind of guy who doesn't 
+even trade that much. He just buys and holds. I said, hey, by the way, that 
+Crystal you sold back then, why’d you sell it? 
+He said, Mohnish do not remind me. That's the dumbest thing I did. Because 
+basically, if he had kept Crystal, he manages 160 million, the crystal position 
+would've exceeded the entire portfolio he has today. 1 decision. What was so 
+hard about that decision? Well, it wasn't hard. They were a replica of Moody’s. 
+I'd already told you, an idiot can run Moody’s, just like an idiot can run Coca-
+Cola. Idiots have run it, and they've not been able to destroy these businesses. 
+The first thing to do is when you run into businesses that idiots are running or 
+can run, and they still continue to be in business, buy those companies if they 
+have these characteristics, and then fo rget the PE ratio. Just buy and hold 
+forever, because probably those are very few businesses on the planet. Like, I 
+can almost bet that maybe 10 or 20 years from now, Maotai looks very different. 
+But it's hard to tell the path it takes. But it looks like a great business. That's the 
+first one. The businesses that idiots can run. The second is exactly like the first, 
+except these cannot be run by idiots. These are businesses which are exactly 
+like the first kind, which is they have huge tailwinds, they have deep moats, 
+they have ultra-long runways, they have high ROE, they don't need any debt, 
+but they need great management, and they do have great management. These 
+are businesses like Amazon, Costco, Geico, Ammo Pacific Kotak Mahindra 
+Bank, the one I bought in India, which went up 60 times or something, Blue 
+Dart, which is the FedEx I bought in India, Satyam, the IT company. Then 
+Restaurant Brands, which is the one that owns Burger king, Tim Hortons, 
+McDonald's, and Yum Brands, Domino’s Pizza. 
+These are all great businesses, but they do need solid management on top of 
+them to make sure that they keep those franchises. But these businesses have 
+economics that are just phenomenal. Just great economics. That's the second 
+type of business you want to keep and look for in your portfolio. You get these 
+massive runs as we saw with Blue Dart and others in India. Then the third kind 
+is the ones which have shown up the most in my portfolio. I have never had the 
+good fortune of having the first kind of business, which is huge tailwinds and 
+idiots for management. I've never had that. If I ever get that in my portfolio we 
+are never going to sell those. We're goin g to keep that forever. Now the third 
+one is when the market gets confused  between risk and uncertainty. What I 
+want to do over here is I want to go through some examples from my own 
+portfolio. In the past, in some cases, I was able to capture the upside. In other 
+Page 8 of 24 
+cases, I was too stupid and I missed the upside. I made some money, but I didn't 
+make a lot of money. 
+The first company I want to talk about, and sorry, these are not businesses you 
+may have heard of, but that's the nature of this game. The ones that are going 
+to be a hundred bagger they're not going to be the biggest names around that 
+you've heard of. In 2005, I invested in a steel company which was based in 
+Canada. They were traded in the US ca lled IPSCO. IPSCO made two types of 
+steel. They made plate steel, and they made tubular steels, kind of like pipelines 
+drilling for drilling oil wells and all that. They made this kind of these specialized 
+steel, which was either in pipe form  or plate form. The company had the 
+following characteristics. 
+When I invested in it, the market cap was two and a half billion. They had 900 
+million of extra cash on the balance sheet. The company had contracts on the 
+book because there are these pipelines that were going to buy this steel for the 
+next couple of years. They had a two year backlog where they knew that their 
+earnings for the next two years were going to be 650 million each year. You had 
+a two and half million, two and half billion dollar market cap, and you had 2.2 
+billion between cash they already had, and then cash that was coming in the 
+next two years. You would collect about 90% of the market cap in cash in two 
+years. After two years, you still had all the plants and equipment and people 
+and everything was still there. But after two years, there was no visibility into 
+earnings, and we know the steel business can go up and down. 
+The way I looked at it, I said, what we are going to do is, I'm going to make a 
+bet. I'm going to put 10% of my assets into this. I'm going to just sit there for 
+two years, and if it doesn't work, we probably get back 90% of the company's 
+completely gone, but I don't think it's completely gone. I think it's a real 
+business. What happened is a year later,  they made the 650 million, and the 
+year later they had visibility for one more year. Now they said that they would 
+make 650 million for the third year. Now they had three years of 650 million, 
+which was almost 2 billion plus the 900 million. Now we were above my 
+purchase price. The stock that I bought at  45 a year later was sitting at $70. I 
+said, well, we are above what we paid , but we still don't know what the 
+business does after three years. 
+Why don't we just wait for another couple of years? See what happens? In 2007, 
+I waited one more year, and by now the stock had gone to maybe $105, and 
+they got a buyout offer. Another company came and bought them for $160 a 
+share. When the deal was announced for $157 something, I sold the stock. We 
+ended up with almost a four X in about two and a half years. We captured the 
+entire 4X, right? This was a situation where it's a highly cyclical business and 
+markets hate uncertainty. It's a highly uncertain business. But the risk for this 
+business was very low. It is what I call very low risk and very high uncertainty. 
+When you find a combination of low risk and high uncertainty, usually that 
+Page 9 of 24 
+combination is going to give you a high  reward because markets are not very 
+good at pricing in uncertainty. 
+They hate uncertainty. We get some benefit from that. In fact, there's a 
+business in my portfolio currently, and I don't talk much about my portfolio, but 
+I'll just make an exception because I love you guys so much. I own a company 
+called Fiat Chrysler, which is based in partially Italy and partially in Detroit. Fiat 
+Chrysler is very similar to IPSCO. The stock is at $6 and change, and the 
+management of the company says that in the year 2018, their earnings are 
+going to be around $5. If the management is correct about the future prospects 
+of the business, then basically the business is being priced at 1.2 times earnings 
+for one year. My answer to that is, okay, we'll hold this stock to 2018. If it's 
+completely worthless as a business, I mean, they have 130 billion in sales of cars. 
+They just started manufact uring Jeep in China. The Chinese love their Jeeps. 
+Raise your hand if you think Chinese love Jeeps. 
+All right? At least a few Chinese love their Jeeps, That's great. Their Jeep sales 
+are going up like five times in the next three years in China. But anyway, I 
+happen to think that what they are saying makes sense. The market thinks it 
+doesn't make sense. No problem. Just like IPSCO, we put the stock in the 
+portfolio and forget about it. I'll wake up in January 2019 and see what 
+happened. If you invite me back in 2019, I'll tell you what happened to Fiat and 
+between us girls, we may end up with five times our money if it trades at five 
+times earnings or seven times our money if it trades at seven times earnings 
+and such. That's IPSCO. Then there's another company too; Tesoro Petroleum. 
+This is one which we did not capture, we should have, but we didn't. IPSCO is 
+in the steel business. Tesoro is in the oil refining business. They have oil 
+refineries in the United States. In the United States in the last 30 years, not even 
+one new oil refinery has been built be cause of NIMBY. NIMBY is Not- In-My-
+Backyard. Nobody wants the oil refinery near them. In the entire US anyone 
+who wants to build an oil refinery never get the permits. The oil refineries that 
+we've had for 30 years ago are the same ones we have today. They keep trying 
+to tweak the oil refineries in the US to get more and more capacity, but they're 
+not able to build new ones. 
+Anyway, Tesoro had a bunch. The oil refining business in the US is a good 
+business. The reason is good because all the different states have different 
+requirements for how the gasoline or petroleum is to be produced and the 
+amount of emissions and all that. You n eed different refineries for different 
+states to meet the standards, which makes it difficult for other competitors to 
+come in. Even though oil refining may be a commodity business, it's not a 
+commodity business because it's got these kinds of local aspects to it. Anyway, 
+what happened with Tesoro is that there was another merger taking place with 
+two large oil refiners. In order to make that merger happen, they were forced 
+to sell one of the oil refineries to make the merger happen. 
+Page 10 of 24 
+Tesoro bought that refinery; they leveraged their balance sheet to buy that 
+refinery. After they leveraged the balance sheet, the crack spread, which is the 
+spread that refiners get to make crud e oil into gasoline, the crack spread 
+narrowed to almost nothing. Their profits went next to nothing at the same 
+time when they had a huge amount of debt. Markets looked at the debt and 
+they saw a lot of uncertainty because it is very hard to predict the crack spread. 
+Just like the uncertainty of steel pr ices, the refining margins are always 
+uncertain and markets project presence, and circumstances to infinity. Markets 
+said, Hey, the crack spread is small, it'll always be small. They have all this debt; 
+they may not be able to pay the debt. What happens if they don't pay the debt? 
+Well, what happens if they don't pay the debt is they have many refineries. 
+They can just sell a refinery. They don't need to go bankrupt. They can just sell 
+some assets and they can get out of the jam they're in. I looked at the company, 
+the balance sheet, the debt and so on, and the stock was at seven and a half 
+dollars. It had gone down a lot. It used to be at almost $30. It had gone down 
+to 25% of the price. I bought 10% of assets at seven and a half dollars, three 
+months after I bought the stock, It was trading at $1 and 33 cents. The 10% of 
+assets I put in just this alone took my portfolio down by 8%, this one position. 
+But one of the things that always happens to me, but it only happens to me, it 
+doesn't happen to you, is every stock I buy goes down first and it always goes 
+down. 
+I don't know why it doesn't go down before I buy, but they all go down after I 
+buy somehow it knows. Bruce Berkowitz is a fund manager. He calls it 
+premature accumulation. I always have premature accumulation and anyway, 
+so 750, we're down to a dollar 33, we are used to that. We're not going to sell 
+anything. We sit there and then a few months later, the crack spreads widens 
+and they're paying down debt. The stocks is at $15. I said, Hallelujah. From a 
+dollar 33 to 15, 10 times from 750 to 15, double less than three years still on track 
+for 26%, we are out of here. Or like Arnold Schwarzenegger would say, as to we 
+release the baby sold the stock and moved on. Now, what I didn't realize is that 
+Tesoro had a phenomenal manager, Bruce Smith, just a kickass manager. 
+He was just a master at extracting va lue from these refineries. He bought 
+pipelines and refineries when the financia l prices took place. If I had kept the 
+Tesoro from the bottom tick of a dollar 33, it went up 200 times till today. Okay? 
+From the time I bought it went up about 40 times. I only captured a double. But 
+the rest of the ride I completely missed because what this guy was able to do 
+was, he was a master at buying these assets, extracting more value, getting 
+more ghetto, getting more assets. They spun off a pipeline company. A lot of 
+things they did, he de leveled the ba lance sheet and all of that. Even now, I 
+think it's done well. 
+That was an example of a low risk, high  uncertainty business where I already 
+knew in the period I owned the stock th at I was dealing with an exceptional 
+manager. Because in the conference calls,  I was in love with Bruce Smith. He 
+Page 11 of 24 
+was just a great guy. He was doing all the right things, but we missed that 40 X 
+and there was a chance to get a 200 X. Then we are going to go to another one, 
+which is a shipping company. All these wonderful businesses, steel business, 
+refining business, shipping. You thought you can only make the money on 
+Alibaba and Baidu. No, you can make the money without Alibaba and Baidu. 
+You can make it at other places too. For example, Frontline was a shipping 
+company. This company basically focused on transporting crude oil. 
+They had something known as VLCCs (v ery large crude carriers) that they 
+owned. Global Fleet at the time I invested, I haven't looked at the shipping 
+business lately, but this was an investment I made. I think in around 2000, 2002, 
+there were about 400 VLCC in the world. Frontline was the largest among all of 
+them. They had about 70 of them in th eir fleet. 70 out of 400 were owned by 
+Frontline. This is the ultimate high uncertainty business. The VLCCs have 
+chartered two different ways. Either they  are time charters or they’re daily 
+charters. The entire frontline fleet of 70 ships was on daily charters. The daily 
+charter rate for these ships can vary from $5,000 a day to $300,000 a day. It is 
+a huge variance. That time, I don't know what the economics are now, but in 
+2002, once the rates went below 12 or 13,000, they were not making any 
+money. 
+They were losing money. Once the rates went over 30 or 40,000, they were just 
+super normal profits, exponential profits. But the exponential profits, you didn't 
+know what would happen the next day because every day these prices 
+fluctuate. But there's a particular nuance in the shipping business that I 
+understood, and I understood this because a friend of mine in the real estate 
+business explained this to me, he said, “when you build these large office 
+towers in the US, in China's probably mu ch faster, but in the US it takes three 
+to five years to get the permits and build these 20, 30, 40 story buildings”. What 
+happens is that when office space is ve ry tight and fully occupied, all the real 
+estate developers rush out to build new buildings. 
+They all rush out to build new buildings at the same time. The banks finance all 
+of them at the same time because ev erything looks great. It's a booming 
+business, they can see a hundred percent occupancy. Then five years later, all 
+these buildings come on the market at the same time. What happens is the 
+occupancy and the rents collapse at the same time. In this kind of high end 
+office buildings, you have this boom and bust cycle of very high occupancy and 
+then low occupancy, then high occupancy and low occupancy just keep going 
+back and forth because the property developers just think whatever's 
+happening right now is the way it's going to be forever. The people who are in 
+the shipping business are even worse than the property developers. They 
+believe everything that's happening right now is the way it's going to be 
+forever. 
+What happens is that when these VLLCs are trading at 200,000, 250,000 a day, 
+they all go to the Korean shipyards and place a huge number of orders for ships. 
+Page 12 of 24 
+They say, build me the ships. Same like the building. It takes three years, or four 
+years or two years to build the ship. By the time the ships are built, all these 
+ships get delivered at the same time, those rates collapse, and then they go 
+scrambling again, and they got a bunch of bankruptcies. The business goes 
+through the ups and downs. Now, one of the things that happens is that when 
+rates go to 5,000 a day or 10,000 a day, scraping off ships increases a lot 
+because they're losing money. What they do is, they take the old ships and just 
+scrap them. They make some money. The size of the fleet goes down at the 
+time when the rates are low. 
+As the fleet size goes down, it sets up the conditions for rates to go up. Then 
+when the capacity goes down, the rates start going up. You cannot bring in 
+more capacity because it takes three year s to build a ship. The only thing that 
+can happen is price goes exponential. Anyway, I bought Frontline at a point 
+when these prices were at 5 or 10,000 a day, the stock had collapsed, and it was 
+trading at something like I think at about $6 a share. Just like with the Tesoro, 
+a few weeks after I bought it, it was trading at $4 a share, lost one third, not as 
+bad as Tesoro, but one third is gone. Then it went from $6 to $9 in a short time. 
+I wanted to just capture that spread. 
+It was above the liquidation value of the company. I sold the company anyway 
+because of the very high uncertainty in rates. This company, if I had held the 
+stock throughout, even with all the recent collapse in shipping, it would've been 
+a (40 times investment from four to 160 I’m sorry, not, 40) it'd be from six to 160, 
+about 30, 35 times my money. Another company, which I just wanted to talk 
+about is Teck Cominco. This is again low risk, high uncertainty. During the 
+financial crisis commodity prices collapsed in 2008. They went to nothing, 
+right? This company, Teck Cominco, like the IBM of mining, they have huge 
+reserves of metallurgical coal and huge reserves of Iron ore and lots of trade 
+with China and such. 
+But they had done an acquisition just before the financial crisis; large 
+acquisition. They had taken a bridge loan to close that acquisition. Then the 
+financial prices happened. They couldn't refinance. All the prices collapsed, and 
+this stock went from $50 to $4. It dropped by more than 90% in seven weeks. 
+When I look at the company, it's again,  like the refineries. They had all these 
+different minds and assets all over the world. Some of them were the lowest 
+cost minds you could imagine. The banks did not want to take over this 
+company. The banks don't want to be in the shipping business. The banks were 
+probably going to do what I would call extend and protect, which is they would 
+take some fees and penalties from them, but they would extend their loans. In 
+fact China came in as an investor in Teck Cominco. 
+In a few months, the stock was up seven times. We bought at 4 or $5, we sold 
+at $30, and then it kept going. It went to $50. We didn't capture all of it, but we 
+kept most of it. Anyway, that was the third criteria, which is the low risk, high 
+uncertainty. Then the fourth criteria is what I call bankruptcies, reorganizations 
+Page 13 of 24 
+public LBOs, special situations. How many of you have heard of Sam Zell? Raise 
+your hand if you heard of Sam Zell. 
+At least one person, the professor. Well, I think you should extend an invitation 
+to Sam to come speak to your class. Sam is called the Grave Dancer. He dances 
+on the graves of companies that are left for dead. If you get a chance to invest 
+with Sam, generally speaking, it's going to go well. Warren Buffett, Sam Zell, 
+and the Pritzker’s, these are some of the very best people on the US tax code. 
+They know US Tax Code better than anyone else, way better than Donald 
+Trump. They know the tax code. I don't think Sam Zell has ever send much of a 
+tax bill to the US government because he's just so efficient with the way he runs 
+his tax affairs. Anyway, this story is interesting story, but it goes back about 26 
+years. 
+In 1990, there was an insurer called Mission Insurance th at went bankrupt. 
+When this insurer went bankrupt, they had 630 million in NOLs (net operating 
+losses). These net operating losses that the company has, have a lot of value if 
+you can bring that shell company into a company that has profits, because you 
+can shield 630 million of profits because of that loss. Sam was able to buy that 
+company for like 30 million because it had nothing other than the losses, and 
+you have to find something so he bought the 630 million of losses for 30 million 
+about seven, eight years after the bankruptcy. This was in 98 or 99. Then there's 
+another investor, Martin Whitman from Third Avenue, who also bought some 
+of the shares in this Mission insurance. Then the two of them went looking for 
+a profitable business that they could join with this operating losses, so that they 
+would suddenly have no taxes on the business. 
+They found a barge shipping company on the Mississippi River, Like Tom 
+Sawyer on the Mark Twain on the Mississippi River. They found this barge 
+company, which used to send goods up  and down to Miss issippi, and it was 
+profitable. They said, Okay, we'll bu y the barge company. Now the barge 
+company is not going to pay any taxes because we got these NOLs, and that's 
+how we'll make our money. Then what happened right after they bought the 
+barge company is the barge business went to debt. The rates collapsed, and 
+the barge company went bankrupt. They now had bankruptcy to the power of 
+bankruptcy. I don't know whether you teach them professor, how to calculate 
+bankruptcy to the power of bankrupt cy, but it's not good. They had two 
+bankruptcies now instead, one. 
+Instead of having 630 million in NOLs, they now had 800 million in NOLs, even 
+higher. Then they went looking for anot her company that they could buy, so 
+they could take both these things and pair it together. They had a company 
+called Daniel Steel holding, that was trading at $1 share. Then they found a 
+waste to energy recycler. What this co mpany does, it's a plant where you put 
+garbage in on one end, and you get electricity on the other end. It's a German 
+process. There's a bunch of these pl ants in the US which convert waste 
+materials, garbage into electricity. The economics of this purchase was this 
+Page 14 of 24 
+company had 2 billion in assets. It had 2 billion in debt, and they bought it for 
+30 million. It was very highly leveraged, but it had this kind of energy business, 
+and they thought that they could tie it in. 
+They tied it in, and then they needed so me capital. Then they started to do a 
+rights issue. That's when I found them. The stock was a dollar. By the time I was 
+able to invest in them, it was at $9. It had already gone up like nine times. Then 
+did two rights issues. They bought another company. Basically in about 13 
+months, I had a double and I sold it, basi cally if I had kept the position, it was 
+about a 40 X from that dollar price they had, and about a four x from where I 
+had bought. As you can see, we have all these companies that are in these 
+weird places. 
+They're not great businesses, but they do well. Then the final one I want to talk 
+about, which is the fifth model is upside without downside. I also call this 
+playing the bubble. What happened in the late nineties, the dotcom boom was 
+in a big way, and everyone thought it's going to be transformational, it's going 
+to change everything. These companies like pets.com, et cetera, they had huge 
+valuations. Even Amazon was a huge valuation, Yahoo, all these companies. 
+Now, I had spent some time in technology. I knew that the internet was 
+important, but I also could not tell which company would make it and which 
+company would not make it. I was definitely not interested in buying anything 
+which I was even trading at 10 times earnings. I like to buy things at three times 
+earnings, or even better, like Fiat one times earnings, that's even better. 
+I was not interested in buying these businesses, but there was a bank in Silicon 
+Valley called Silicon Valley Bank. good bank. It was a normal bank, except that 
+they had one thing. What they did was, see, in Silicon Valley, what happens is 
+that if you are a landscaper, a garden er for Google, they'll give you stock 
+options. If you are a chef for Google, you'll get stock options. If you are a waiter 
+in a restaurant, they'll give you stock options. Stock options is like breathing in 
+Silicon Valley. This company, Silicon Valley Bank, whenever they made loans to 
+all these dot-com companies, besides getting all their loan terms, they always 
+got warrants and the companies didn't ca re. They gave them warrants. Every 
+time they would do some loan or so me deal, they would get these warrants 
+from these dot coms. 
+They never disclosed how many warrants they had, what warrants they had, 
+and what the strike prices were. No disc losure, they only said that we just get 
+warrants. They were the unknown element to what these warrants were worth. 
+But the bank itself was trading at a very low valuation, just slightly above book 
+value and very well-run bank, even now, it's existence has done well over the 
+years. I said, Okay, this is the way to play the bubble, which is to buy Silicon 
+Valley Bank. If those warrants turn out to be useless or worthless, we don't lose 
+any money. We still have the bank, and it turned out to be something. Then we 
+have a huge run. Basically, I think we had a two and a half, yeah, we made two 
+and a half times of our money in two and a half years on the stock. 
+Page 15 of 24 
+If I had held it a little bit more another year, I would've made five times the 
+money, because then they disclosed th e warrant just as the 99, 2000 bubble 
+was speaking. Then they started selling those warrants. They monetized them, 
+which worked great. Then the other company, which was the first company in 
+my portfolio, that went a hundred x was a company called CMGI. They were an 
+incubator of internet businesses. I bought them just slightly above book value, 
+because at that time, people didn't fu lly understand what that business was 
+doing. They just kept taking stakes in dozens and dozens of internet companies, 
+and then they had to hold basket of th em. Then the markets fell in love with 
+these kinds of companies. They took it to the stratosphere, our hundred 
+thousand became 10 million, and I sold almost, nearly at the top, I think maybe 
+20, 30% off the top I sold. 
+This is kind of something that comes into play. When you have bubbled, it's 
+probably not the most elegant way to make money but sometimes you can get 
+these upsides without downside situations when that can play out. With that, 
+those are the kind of the five models. We have the huge tailwinds with the idiots 
+who can run the company, and the compan y does well. Then the second is a 
+huge tailwind, but you cannot have idiots. You need smart people running it, 
+kind of like Amazon and Geico. Then the third is Market get confused between 
+risk and uncertainty. We talk about IPSCO, Tesoro, Frontline, and Teck Cominco 
+on that. The final one was the grav e answer. Sam Zell, bankruptcy 
+reorganizations, public LBOs, busted, LBOs, special situations. Those can all 
+work out quite well as well. Then you'll finally have the upside without 
+downside which happened only once to me. The most mega bubble I had in 22 
+years was in the late nineties with the dotcom, when most of you were still, I 
+think maybe not even in kindergarten, but maybe just in kindergarten. With 
+that, I think we can talk about what you want to talk about. 
+Professor: Thank you very much. I feel excited.  I think I quit my professor job and go into 
+billion aspect, many hundred baggers in Chinese market. I just don't have time. 
+Okay, now I’ll open the floor to the students to ask questions. This is one very 
+valuable opportunity. Every word works like quite a lot of money. If you have a 
+question, just press the button push for the speaker in front of you. If the light 
+goes bright, then you are on. All right. 
+Student: Okay. Can you hear me? 
+Mohnish: Yeah, sure. 
+Student: First of all, thank you very much for your insightful speech. The question I want 
+to ask here is that, what do you think is the core competence of an investor? 
+how do investor differentiate from the huge investor group? Thank you. 
+Mohnish: Okay, Well I think that's a great question. Yeah. I think that the number one 
+skillset that an investor needs to have is extreme patience. In fact, one of the 
+things I learned when I was putting this talk together is like, if I look at a 
+company like Blue Dart, which was the Fe dEx of India, I held the company for 
+Page 16 of 24 
+six years, and it didn't do anything for si x years, and I sold it, and it had its run 
+in the next 15 years. There was no good reason to sell it. The number one skill 
+set is patience. If you are the kind of the kind of person who loves to watch 
+paint dry then this is the business for you. If you love to watch paint dry, and so 
+if you are a hyperactive person who's always looking for action this is not the 
+business for you. 
+I think that in many ways, the investment business is a strange business. I think 
+it's a business that is best for people who are, what I would call gentlemen or 
+general women of leisure, where they have some other activity, which is their 
+primary focus. Investing is a secondary focus, so they don't have a compelling 
+reason to act. Usually, investors hurt themselves every time you trade. Charlie 
+Munger says that you don't make money when you buy a stock and you don't 
+make money when you sell a stock. You make money by waiting. In fact, what 
+some of the things I talked about today show us is the huge advantage that you 
+only learn about a business after you own it. 
+If you do the analysis of a business before you own it, you may know something 
+about it, but you're going to know more about it after you own it. That's when 
+you have an opportunity to perhaps understand which ones have truly multi-
+bagger possibilities and are the ones that  you should not touch. Just let them 
+play out for long periods. Patience is very important, and that's what separates 
+people. In fact, one of the things about stock markets is they're deceptive 
+because if you look at the market or the board, which shows all the stock prices, 
+you see them changing all the time. All the lights are changing and flashing it, 
+all the signals it's telling you is to be active. It gives you all the signals to do 
+something. 
+What you have to do is ignore all that. For example, one of the rules I follow is, 
+I do not submit any orders when the ma rkets are open. Anytime I'm trying to 
+buy or sell something, I usually sell it, and send it at this time, after midnight to 
+my broker to execute the next day, because there are no price changes taking 
+place, there's nothing taking place. Ever ything is calm. Then during the time 
+when the markets are open, it's very rare that I will trade. I basically avoid that. 
+You can set up some tricks, if you will, to help you, because everything is 
+designed to make you active. Your broker does not make any money if you 
+don't buy and sell stocks. If you just buy one company and just keep it forever, 
+then I want to make any money, but it's good for you, it’s not good for them. 
+All the signals are the wrong signal. Patience is number one. That's what I would 
+say. 
+Student 2: My question is, among the five categories that you mentioned, what's your 
+proportion like? In your portfolio, how much do you put in these five 
+categories? What are the reasons for the same? 
+Mohnish: Well, let me put it this way. Charlie Munger says that each of us has a very 
+limited quota of stocks that truly may have the potential to make us rich. There 
+Page 17 of 24 
+are very few times that we are going to end up with things in our portfolio that 
+truly got the potential to make us very rich. Usually, it is not apparent before 
+you make the investment. Usually it'll become apparent, maybe after you own 
+the business for some time, it takes so me time. I mean, I can think of many 
+examples. When I invested in the business, I thought, I'll get a double and move 
+on, but then I start to learn more about the business. It's the wrong way to think 
+about it by saying, I want to put 10% in number one or 20% in number two, or 
+whatever. 
+This is an opportunistic business. You need to be very flexible. Like I said, the 
+number one skill set is patience. What that means is, it could be a long time 
+before anything shows up, or it could be that five of them show up in one week. 
+Like for example, during the financial crisis in December, 2008 and January, 
+February, 2009, there were so many ideas coming at me that I literally had less 
+than one or two days to process each one. Whereas normally I will have weeks, 
+even months to process an idea. It's not a good idea to do this top down. I have 
+never done a top down. What I think you need to be is, you need to be kind of 
+a bargain hunter. You go into a bizarre and you're just looking for what looks 
+exciting or cheap. 
+I'll give you the example of kind of  the difference between Ben Graham and 
+Charlie Munger. Ben Graham will go into a supermarket and he'll look for what 
+is the most heavily discounted item, deeply on sale, and then he'll buy that and 
+come out, and Charlie Munger will go into a supermarket and look for the things 
+t h a t  h e  l o v e s .  T h e n  h e  k e e p s  g o i n g  b a c k  e v e r y  d a y  u n t i l  w h a t  h e  l o v e s  h a s  
+dropped in price, and that's when he buys it. The Munger approach, in my 
+opinion, is more superior to the Graham approach. But the Munger approach 
+requires patience, and it requires you to understand what you truly like, and 
+then you wait for the right opportunity. It is a very good exercise to make a list 
+of assets that you truly think are remar kable assets, and also make a list of, at 
+what prices those assets would be interesting or exciting for you. 
+When you have that list, then you just sit back and wait for the world to come 
+to you as opposed to taking my list and trying to go top down. The second thing 
+about top down that doesn't work is it's very unpredictable when these things 
+are available and when they're not available. What is within your circle of 
+competence and what is not? Like the professor said that there are a hundred 
+bagger, I would say, in every market. Definitely in China, you have a huge 
+number of a hundred baggers at any given time. The problem is most of us do 
+not have the ability to see it, because we either don't have the circle of 
+competence or we don't have enough knowledge about this. This is a business 
+where you want to be a student, you want to learn, you are to keep educating 
+yourself. 
+Every once in a while, there'll be a business that'll show up in your portfolio. 
+Like I can think of right now at least three or four companies in my portfolio 
+that could end up being huge home runs. Now, I cannot tell you which one, I 
+Page 18 of 24 
+don't know which one, but I'm willing to be patient and watched and let them 
+play out, because even if one of them is a 10 X, it's worth letting that play out 
+because they're so rare. That's how I would suggest going about it. 
+Student 3: Well, thank you for a great talk. Mr. Pabrai you spoke about the cyclical nature 
+of the shipping industry. When freight rates are high, ship owners essentially 
+order a lot of ships, and once they arrive, freight rates go down. Do you think 
+the ship owners are going to learn from their mistakes? Or is this going to be a 
+problem that we keep on seeing in that industry? 
+Mohnish: The ship owners will never learn. The property developers will never learn, 
+humans and our genetic makeup isn't going to change in five years or 10 years 
+or 50 years. We vacillate between fear and greed. As long as there are humans 
+driving action in industries like shipping, you are going to see that vacillation. 
+In fact, there's a good book, it's in fact a work of fiction. It's called The Shipping 
+Man. I forget the name of the author, but I think if you Google it, you can find 
+it. The Shipping Man is the guy with an investment banker in the shipping 
+business who wrote that book. It's a funny book because it talks about the 
+Greeks, it talks about the Norwegians, it  talks about all these kinds of Castro 
+characters, the Americans in this business. 
+It's funny as hell, and it teaches you the business while entertaining you. That 
+author has written a book to read and in fact Frontline, one of the companies I 
+invested in is run by a guy named John Fredrickson Norwegian guy. He has a 
+character in the book who I think is a clone of Fredrickson, which is why I found 
+the book kind of funny. I haven't looked at the shipping business in a lot of detail 
+lately, but it's a challenging business right now. What that means is there's 
+probably opportunity in that business. But I would also say that tread carefully 
+Student 4: My question is, out of the five st rategies you mentioned require deep research 
+in the Business model, and to how much extent you rely on the open data 
+source to the public. Do you have any unique or special channels for 
+information to help you to make the decision? 
+Mohnish: Yeah, all my data sources are open because I am a very lazy investor. I never 
+meet management; I never talk to management. I never travel to see any plants 
+or anything. I've never done that for any investments. The results still work out. 
+We are not looking for superior information. What we are looking for is superior 
+analytics on commonly known information. For example, I mentioned the 
+boom and bust of the shipping industry, and the gentleman asked me about, is 
+that going to change? Well, number one, it's never going to change because we 
+have humans involved and humans are host on the emotions. The second is the 
+market participants, we have two advantages against market participants. 
+One is we have analytics which can help us because we have some 
+understandings that maybe markets are missing. The second is that we have 
+patients. Most investors don't have multi-year horizons. I want to buy a stock 
+at 10 and two weeks later I want to sell it at 12, and then I want to buy something 
+Page 19 of 24 
+else at 12 and sell it at 15, and I want to keep doing that. Well, good luck. If that 
+worked, they'd be Warren Buffett because the compounding rate would blow 
+away Buffett compounding rate. But clearl y, we still have Warren Buffett in 
+place, so therefore that approach doesn't work. If you have the patience and if 
+you have the interest to dig deep. Then what you're going to find is that with 
+commonly held information or no known information, you may come up with 
+insights that others have not 
+This is what Charlie Munger talks about, the latest work of mental models, you 
+look at things through a different lens to try to see what can be different. Like, 
+I would say that when my friend Guy Spier uses the mental model saying that 
+if Moody’s are the great business in the US, what other businesses are like that 
+in the other parts of the world, that's  a great model because you may be able 
+to find a business in another part of the world where people have not realized 
+what a great business they have. That's why these things get to where they are. 
+For example, I think all my life, or at least all my investing life, I hated the 
+automobile industry because it's high  Capex (Capital Expenditure) it's 
+unionized. 
+You got consumer taste and you got a lot of things that are not good about the 
+business. But when I studied the business, I spent one time about six weeks 
+studying the business, I realized that many of my underlying assumptions were 
+wrong. That the reason the auto comp anies problems were for different 
+reasons than what people think they have problems. I did not have access to 
+any data that is not publicly known but I just synthesized it from many different 
+sources to come up with some insights and those insights were helpful. I think 
+the thing is that if you are a curious person, and if you are a person who's very 
+deeply interested in business and how business works and understanding 
+different business or industries then you can do quite well. 
+Professor: I have a question that's related. Could you tell us a little bit about your lifestyle? 
+How much time you spend on thinking about investment every day? Because 
+the size of your asset and management very easily places you into one of the 
+top 10 active stock funds from China. I know many of those fund managers had 
+life and pressure and are very busy and lo t of overwork is not a good lifestyle 
+for those fund managers who are managing the similar size of what you 
+manage. How is the lifestyle different? 
+Mohnish: I should not advertise this, but it's the best lifestyle you could possibly have. I, 
+maybe, have three or four ideas in a year. Sometimes we don't have any in a 
+year, and sometimes we have many more than that. It varies. If you follow the 
+Buffett Munger model, which I do, your life is going to be fantastic. Here's what 
+happens in the Buffett Munger model. Number one, I have no staff. There are 
+no analysts, there are no associates. If you send me your resume, I'll be excited 
+to read it, but I can help you with a job because there are no job openings 
+because we've never had a job opening. On e part of the Buffett model is that 
+Page 20 of 24 
+you do not delegate your investment research. Warren Buffett, even today 
+when he buys IBM or whatever he buys, he does all the work himself. 
+He doesn't have anyone under him doing any of the work. There's no one 
+building spreadsheets for him or anything like that. That's the same thing at the 
+Pabrai Investment funds. I have a few part-time admin assistants who are great, 
+they help run many of the back office things if we have, but even there, we 
+don't have much going on. In a typical month, I don't get any phone calls or any 
+emails from my investors. Zero. Okay. I have about 400 families who have 
+invested with me, and these families basically got select ed because I have 
+some very strange rules with how I operate. For example, before people invest 
+I don't meet them and I don't do phone calls with them. The only people who 
+can invest are people who are willing to do reading of their own. 
+We can give them access to our website,  they can read various things, if it 
+makes sense to them, they can invest. Th at doesn't work for most people, but 
+for the people it works for, since they  invested the money without talking to 
+me they are not looking to have a lot of conversations even after that. What I 
+tell my investors is that we have a couple of annual meetings every year where 
+they can come and they can ask any questions they want, and they come from 
+all over the world. I have investors from everywhere, and they show up at the 
+annual meetings. In effect, we are open for business two days a year. It's a lot 
+of fun to meet them and talk to them. Basically, if you don't have any staff, you 
+don't have any HR problems and you have no issues. 
+What is the reason that Buffett and Munger don't have analysts? Well, the 
+reason they don't have analysts is that the investment business is a very strange 
+business. You need your brain at unpredictable times, and the rest of the time 
+you don't need your brain. If I hired a super smart analyst, someone in the 
+audience here who I think each person knew is exceptional, that person would 
+want to do something constructive with their lives. They would either look to 
+me to tell them what to research, or if I don't give them any direction and say, 
+Listen, just go look and tell me when you find some great talk. Let's say, I just 
+tell them that listen, you work on your own and just figure out when you have 
+a great talk idea and bring it to me. 
+Let's say I did that, for example. Well, what would happen is that because we 
+have different circles of competence 90, 95% of the time, whatever they come 
+up with, I would say no to it, because 95% of the time, what I come up with, I 
+say no to myself. Since I would’ve liked this person when I hired them, I would 
+feel bad about saying no all the time because, it’ll just be unpleasant. Eventually 
+I would give up and say, okay, I'll buy the stock that you want, even though I'm 
+not sure about it. Then you've just destroyed the model. What you have to do 
+if you bring in people is you have to give them their own pools of capital, so 
+they have full autonomy to do whatever they want, and they don't come and 
+ask you what to do. 
+Page 21 of 24 
+That's what Warren Buffett has done with Ted Weschler and Todd Coombs. He 
+just gave them each 9 billion. They do whatever they want, they don't talk to 
+him. That works. When I look at investment operations, like you mentioned a 
+bunch of operations in China, et cetera, I look for violations of the model. Moses 
+came up with the 10 Commandments. We have commandments in investing as 
+well. They come from the guy with the bus behind me, and they come from 
+Warren Buffett, and they come from  Ben Graham. They've rewritten the 
+commandments. One should follow those commandments. When I look at an 
+investment operation, the first question I ask is, how many violations are there? 
+The first place I look for violations is team size. I can almost guarantee that the 
+investment managers you're talking about, who seem to be stressed out, are 
+not operating with a team size one. Do they have more than one person on the 
+team? 
+Professor: Much more than one. Like that team? 
+Mohnish: Yeah. Like how many? 5, 10? 
+Professor: No, different firms, they have different structures, 
+Mohnish: But 
+Professor: Employ analyst, they also have assistance. 
+Mohnish: Yeah. 
+Professor: All sort of things, 
+Mohnish: All that is hocus po cus. There's no need for any of that. I mean, the bottom line 
+is what is the model? The model is buy things at half off, you have 5,000 stocks 
+in the US and you have several thousand outside the US in China, wherever. We 
+are bargain hunters. Why do you need a team to find bargains? You don't. We 
+didn't talk about it in this talk, but the simplest way to find bargains is to be a 
+cloner. I am what you would call a shameless cloner. I met Li Lu who's a hundred 
+times smarter than me. I say, Li Lu, can we meet for lunch? Occasionally, I'll ask 
+him, Li Lu, what do you own? In a moment of weakness, he'll tell me what he 
+owns, and then I just go buy it, and I'm done. 
+I don't even need to pay Li Lu. It's great. Probably, a better analyst than anyone 
+I would hire. Then in the US we have 13F filings where every quarter of the 
+people must file what they own. Just figure out who smart people are, look at 
+what they're buying, reverse engineer them. You don't need an analyst. It's fun. 
+I think my job would not be fun if I had many times by the time I get to the 
+office half the trading days over, I mean , in California, the stock market opens 
+at 6:30 in the morning. I can assure you I am drooling on my pillow. I am fast 
+asleep. If I'm not sleeping till two in the morning, I'm not getting up at 6:30 
+tomorrow morning. 
+Page 22 of 24 
+Please don't tell this to anyone. This is just between us. Okay? Tomorrow 
+morning, I will wake up at around 9:00 AM, I may wake up at 9:30 AM there’s 
+no alarm. I'll wake up whenever I w ake up. There are no meetings because 
+there's no staff and there's nothing on the calendar because that's what Warren 
+Buffett told me, keep your calendar empt y, and I have no id ea what I'm going 
+to do tomorrow. No idea. But I know it'll be an exciting day because I have so 
+many books to read. I've at least got 30 books on my desk that I want to get to. 
+I'll pick some book, if that's of intere st. If some company shows up, I'll read 
+about the company. If I want to watch a movie with my wife, we'll do that. 
+Whatever, man. I mean, the key to life is find Chrystal, that's the Moody’s of 
+India, and then just go to sleep for 20 years. 
+That's it. The purpose of this talk is for me to understand that, to become even 
+less active is not even wake up at 9:30 in the morning, wake up at two in the 
+afternoon, who cares? Because we found Crystal and then the guys that own 
+Crystal would make all the money for us, we don't need to do anything. Warren 
+Buffett says that it is not a good idea to get married for money, right? Usually if 
+you marry someone because they're rich, that's a bad thing. Usually, it doesn't 
+work out very well, but it's a terrible id ea to marry for money if you're already 
+rich. Okay? That's terrible. The fund managers you're talking about, I would 
+guess that they are wealthy. Are they wealthy? Are they rich? 
+Professor: Especially for the younger genera tion of young managers. Yeah. When they get 
+promoted, go up the hierarchy, they become good. 
+Mohnish: Yeah. The young managers, it's very simple. If you believe in the power of 
+compounding, then a small amount of money on the side can get you to 
+independence relatively quickly. The analysts and the young managers and so 
+on, I think the key is that you spend less than you earn. You put something 
+away, and then that little something can become more and more. Eventually 
+what you want to do is, you want to be your own boss. Forget trying to chase 
+the corporate dream. Forget all of that. I think one should only be in this 
+business if you love this business. In my opinion, the way to love this business, 
+there are some rules. Number one, no staff, number two, no trading during 
+office hours. Number three - don't even go to work when the market is open. 
+Just be a gentleman of leisure or a gentlewoman of leisure. Thats it. 
+I was very lucky that I never worked in the investment business. I didn't even 
+understand the investment business. I kind of stumbled upon it. Because I 
+never worked anywhere, the only models I had was Warren and Charlie. I just 
+looked at how did Warren run his partnership? I set up the partnership the same 
+way. How do they run their life? Oh, if you look at Warren Buffett's calendar, it's 
+completely empty. Let's keep it empty and let's do things that are fun. I think, 
+the reason I'm doing this talk is because it's fun. Number one, it's fun. That has 
+to be fun. Number two, I want to get better at the multi-bagger. I'm using you 
+guys to pound into my brain to be even more patient, to be patient for 20 years. 
+I never held a stock except that one stock by accident for 20 years. I want to 
+Page 23 of 24 
+hold something for 20 years and get a hundred x on it. I want to do that, and 
+it'll show up. It might show up when I'm 60, and we'll hold it till we are 80, and 
+I hope that happens. 
+Student 1: I have another question on your opinion on the differences between value 
+investor and strategic investor. We noticed that many Chinese companies took 
+equity of overseas companies to help them go into China. Like the China 
+Foshan took equity of Climate Le Meridian. Climate the very big tour tourist and 
+hotel group and help Chinese customers have access to those hotels. China 
+acquires many good film companies in Hollywood. Of course, they make a lot 
+of money in China's film industry. We often typically assume that a value 
+investor is an outsider of the business. They don't want to do anything to help 
+the business. What's your opinion on being a value investor or being a strategic 
+investor? Do you think it will get information on the movement or the action of 
+the strategic investor and go behind with them, like follow their equity taking? 
+Mohnish: That's a good question and a question I've never thought about before. It's a 
+good question to ask because at least I can think about it and I'll mumble some 
+answers right now. But maybe I'll think about it some more and next year I 
+might have a better answer. Buffett says that “I'm a better investor because I'm 
+a businessman and I'm a better businessman because I'm an investor”. There is 
+clearly an interplay and advantage on th ose. One of the things that happens 
+with entrepreneurs or CEOs who are running specific businesses is they have 
+two things going on. One is, usually their circle of competence is limited to that 
+business. If they're in the hotel business, they understand the hotel business. If 
+they're in the shipping business, they understand the shipping business and 
+that competence can be an advantage because if they understand the movie 
+business in China, they probably have a better shot at understanding the movie 
+business in the US than a person who's not in the business at all. 
+Domain knowledge is a huge advantage.  The disadvantage that strategic 
+investors normally have is they may not understand, or they may not have a 
+good understanding of value investing. For example, a lot of companies buy 
+back their own stock. Now, if you're in the hotel business, it means you 
+understand the hotel business, it means that you should understand when it is 
+undervalued and when it is overvalued . Most company CEOs are not good at 
+understanding when their businesses are undervalued. One of the reasons they 
+don't understand that is because if you are going to be a great leader, you have 
+to be an optimist and you have to be a builder. You always see the grasses green 
+on the other side and value investors are always skeptical. They're always 
+looking for what is wrong. 
+One of the reasons I sold all these companies much sooner than I should have 
+is because I'm always skeptical about what might go wrong, for example. There 
+are different skill sets. If you have some data which tells you that the CEO of 
+the film company in China is a good capital allocator, then that can be a huge 
+tailwind if you have some data that tells you that. The thing that you have to 
+Page 24 of 24 
+evaluate is, are they good capital allocators? Then those are rare. For example, 
+obviously Warren Buffett is good at buying companies. John Malone is good 
+buying companies. Sam Zell is good at buying companies. But lots of the 
+Japanese came into the US markets in the 1980s and they bought all kinds of 
+real estate, trophy real estate all over the country, and they grossly overpaid for 
+it because they looked at their experience in Japan where these properties are 
+much more valuable because they were in a bubble. 
+They misunderstood what proper valuations were, and they didn't do well, even 
+though they understood real estate in their own country. I think that it's a good 
+idea to follow the strategic investors into  other markets. If you can figure out 
+whether they are value guys, they understand value. For example, the deal for 
+Starwood, I forget the name of the Chinese company, the insurance company 
+that was chasing starboard. Charles Starboard is a very prime asset. It's a great 
+asset, but I don't know enough to know whether that would or would not have 
+been a good deal for them. They were clearly paying up significantly more than 
+what the market had priced that company. You would have to understand how 
+those people think and whether they think correctly. 
+Professor: Other questions? Okay. Alright, well, It’s almost two hours. We’ll leave 20 
+minutes for internet discussion to absorb what you said. Today is a great 
+l e c t u r e ,  w e  h a v e  r e c o r d e d  i t  a n d  m y s e l f  w i l l  h a v e  t o  l i s t e n  t o  i t  a g a i n .  I t ' s  
+motivating, makes me think about the change of career. Right?  
+Mohnish: Right. Yeah, and I enjoyed it very much as well, and I look forward to seeing you 
+guys in person next year. Even if you're not in the class, maybe you can ask the 
+professor to let you in. 
+Professor: Yeah. Everybody's welcome to this class. When you come next year, he'll still 
+be here. Most of them are not graduating. We have also recorded this lecture. 
+We will send you and you should tell us which editor you are using so we can 
+ask him or her to edit this lecture according to instruction. I’ll put it on the 
+YouTube in China’s version. That will get a better audience. Yeah. Great. 
+Mohnish: Thank you very much. It was a lot of fun. 
+Professor: Yeah. Well, timely will see you in person next year. 
+Mohnish: That sounds great. All right. Bye. 
+Professor: Enjoy. Good evening. We  give you a good applause. Yeah. 
+ 
+  
+The contents of this transcript are for educational and entertainment purposes only, and do not purport to be, and are not inte nded 
+to be, financial, legal, accounting, tax, or investment advice. Investments or strategies that are discussed may not be suitable for you, 
+do not take into account your particular investment objectives, financial situation or needs and are not intended to provide investment 
+advice or recommendations appropriate for you. Before making any investment or trade, consider whether it is suitable for you a nd 
+consider seeking advice from your own financial or investment adviser. 
