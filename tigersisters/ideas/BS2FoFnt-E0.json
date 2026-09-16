@@ -1,0 +1,235 @@
+{
+ "video_id": "BS2FoFnt-E0",
+ "date": "2026-08-17",
+ "title": "How to Use Claude to Build a Million-Dollar Business | CatGPT's Prompts & Agents",
+ "guest": "Kat Getzy (CatGPT), founder of Physical Phones and Cat Labs, AI content creator",
+ "summary": "Kat Getzy explains how she used AI tools like Claude and ChatGPT to build Physical Phones into a million-dollar business in under a year with only two or three freelancers, and walks through beginner-to-advanced agent setups, automations and metaprompting techniques. Key takeaways: treat AI like a new hire that needs tools, context and clear success criteria; pick one platform and go deep; always double-check agent output; ask the AI to interview you and to argue the bear case; and be direct in feedback to both AI and people.",
+ "ideas": [
+  {
+   "idea": "AI does not create a business out of thin air; you still need business know-how, grit and market intuition, and AI just gets you there faster with less capital.",
+   "topic": "Entrepreneurship & startups",
+   "detail": "Kat used ChatGPT and Claude to research factories, write copy and automate systems for Physical Phones, so two to three freelancers did the work of six to ten hires.",
+   "who": "Kat Getzy",
+   "names_or_cases": [
+    "Physical Phones",
+    "ChatGPT",
+    "Claude"
+   ]
+  },
+  {
+   "idea": "AI is like a hundred mediocre interns, and you upgrade them by training them with tools, access and context like you would a human hire.",
+   "topic": "AI & technology",
+   "detail": "Connect the AI to Slack, Google Drive, Gmail and calendar, and organize chats into projects so it accumulates context and learns your preferences over time.",
+   "who": "Kat Getzy",
+   "names_or_cases": [
+    "Slack",
+    "Google Drive",
+    "Gmail"
+   ]
+  },
+  {
+   "idea": "Graduating from chatbot to agent takes about ten minutes: download the Claude desktop app, turn on Cowork, connect your apps and ask it to do analyst-level work.",
+   "topic": "AI & technology",
+   "detail": "Kat says agents are not 'witchy' terminal stuff; insiders have an incentive to make it sound scary so they keep the advantage, but demystifying it democratizes building companies and financial independence.",
+   "who": "Kat Getzy",
+   "names_or_cases": [
+    "Claude Cowork",
+    "Anthropic"
+   ]
+  },
+  {
+   "idea": "An agent is simply an AI that can do stuff, such as crawling nine months of Slack brand-deal pitches into a Notion database and updating it every day at 9 a.m.",
+   "topic": "AI & technology",
+   "detail": "Kat had Cowork parse messy Slack threads from her management team into a Notion database with company, dollar amount, deliverables and dates, then scheduled a daily automation to keep it current as a source of truth on inbound deals.",
+   "who": "Kat Getzy",
+   "names_or_cases": [
+    "Claude Cowork",
+    "Notion",
+    "Slack"
+   ]
+  },
+  {
+   "idea": "Scheduled automations can now be described in plain English inside the desktop app, replacing the fiddly data-mapping required by tools like Zapier.",
+   "topic": "AI & technology",
+   "detail": "You click the scheduling button, describe what you want, confirm a couple of questions about tools, and toggle it on.",
+   "who": "Kat Getzy",
+   "names_or_cases": [
+    "Zapier",
+    "Claude"
+   ]
+  },
+  {
+   "idea": "AI literacy does not mean knowing every tool; pick one platform, click every button and go deep, because the intelligence layer is commoditizing and the product layer is what differs.",
+   "topic": "AI & technology",
+   "detail": "Kat calls the 'must know all tools' belief the most common wrong assumption; frontier labs are converging and copying each other, so learning Claude's voice deeply is a better bet.",
+   "who": "Kat Getzy",
+   "names_or_cases": [
+    "Claude",
+    "Claude Design"
+   ]
+  },
+  {
+   "idea": "Switching costs between AI platforms are overblown because you can ask a tool to tell you everything it knows about you and paste that into the next one.",
+   "topic": "AI & technology",
+   "detail": "Every conversational tool is already summarizing and compressing your history, so no tool has perfect memory of you anyway.",
+   "who": "Kat Getzy",
+   "names_or_cases": []
+  },
+  {
+   "idea": "Professionals should pay for at least the $20-a-month pro tier of an AI platform, ideally expensed through work, because the jump in intelligence and access is significant.",
+   "topic": "AI & technology",
+   "detail": "Kat and the hosts are on the Max plan, roughly an order of magnitude more expensive, which she acknowledges is not in everyone's budget.",
+   "who": "Kat Getzy",
+   "names_or_cases": [
+    "Claude Max",
+    "ChatGPT"
+   ]
+  },
+  {
+   "idea": "An accounts-receivable agent that reconciles a payouts database against a weekly bank export and posts late payments to Slack saves huge manual effort, but must still be double-checked.",
+   "topic": "Entrepreneurship & startups",
+   "detail": "The bank is the source of truth; the automation has had snafus, so a responsible owner should not hand final financial say to an agent until it has been right time and time again without mistakes.",
+   "who": "Kat Getzy",
+   "names_or_cases": [
+    "Claude Cowork",
+    "Slack"
+   ]
+  },
+  {
+   "idea": "When an agent makes an error, tell it directly: 'this was the success criteria, this is what you did, do you understand the delta, don't do it again.'",
+   "topic": "AI & technology",
+   "detail": "Kat says to treat the model like a programming language: the more concrete and specific you are, the better, just as with an employee.",
+   "who": "Kat Getzy",
+   "names_or_cases": []
+  },
+  {
+   "idea": "Set up a dedicated folder per project before starting a Cowork session so the AI writes and reads its own memory (.md markdown files) there, and you can inspect and correct hallucinated logic in those files.",
+   "topic": "AI & technology",
+   "detail": "The hosts compare this to corporate folder hygiene and to writing an onboarding doc for a new team member.",
+   "who": "Kat Getzy",
+   "names_or_cases": [
+    "Claude Cowork",
+    "Claude Code"
+   ]
+  },
+  {
+   "idea": "For creative or open-ended tasks, end your prompt with 'ask me any questions you have to ensure you have the context to complete this job' so the model finds the holes itself.",
+   "topic": "AI & technology",
+   "detail": "Example: give 15 bullet points for a community-manager job description and let Claude interview you rather than racking your brain for all possible context; explicit success criteria matter more for unattended, repeated automations.",
+   "who": "Kat Getzy",
+   "names_or_cases": [
+    "Claude"
+   ]
+  },
+  {
+   "idea": "The future is far less typing and far more talking to devices; dictation apps like Whisper Flow let you dump rambly context that LLMs can process.",
+   "topic": "AI & technology",
+   "detail": "Kat says every desk in SF startups now has a gooseneck mic and everyone is whispering to their AI; she talks to agents hands-free in the car for brainstorming and nerdy rabbit holes like how billionaires borrow against assets.",
+   "who": "Kat Getzy",
+   "names_or_cases": [
+    "Whisper Flow",
+    "ChatGPT"
+   ]
+  },
+  {
+   "idea": "For voice learning sessions, append 'give me the response as a transcript that could be read aloud' and hit play, because the default voice mode is too short and header-heavy answers make no sense read aloud.",
+   "topic": "AI & technology",
+   "detail": "Jean uses voice mode to practice Mandarin and Hong Kong Cantonese, and notes you can ask it to slow down.",
+   "who": "Kat Getzy",
+   "names_or_cases": [
+    "ChatGPT"
+   ]
+  },
+  {
+   "idea": "Be wary of using AI for personal disputes because models reflect you back at yourself and hype you up, so you stop seeing other viewpoints; real friends who push back are more valuable.",
+   "topic": "Mindset, confidence & psychology",
+   "detail": "Kat keeps her AI use almost entirely in her business; hosts counter that you can ask for the bull and bear case or 'play devil's advocate', though you have to remember to ask every time and many users mistake sycophancy for objectivity.",
+   "who": "Kat Getzy",
+   "names_or_cases": []
+  },
+  {
+   "idea": "Claude pushes back by default more than ChatGPT, which will hype you up no matter what.",
+   "topic": "AI & technology",
+   "detail": "The hosts liken ChatGPT's default to a friend who always empathizes unless you explicitly ask for solutions or opposing views.",
+   "who": "Kat Getzy",
+   "names_or_cases": [
+    "Claude",
+    "ChatGPT"
+   ]
+  },
+  {
+   "idea": "The honest position on AI's environmental impact is that nobody has reliable numbers, with sources ranging from 'scourge of the earth' to 'less than a hair dryer'.",
+   "topic": "AI & technology",
+   "detail": "Kat feels guilty not because she knows it is bad but because she does not know the impact; she submitted this as her question to Anthropic's 'Hard Questions' campaign and suspects the impact is overblown but cannot prove it.",
+   "who": "Kat Getzy",
+   "names_or_cases": [
+    "Anthropic Hard Questions campaign"
+   ]
+  },
+  {
+   "idea": "Use the metaprompt 'this is an important X; read it, assess its goal, analyze it for shortcomings against that goal, then rewrite it to address them' to get structural rather than sentence-level edits.",
+   "topic": "Networking, communication & influence",
+   "detail": "Kat uses it for sensitive documents like negotiation emails and job descriptions; the hosts compare it to the SAT writing section.",
+   "who": "Kat Getzy",
+   "names_or_cases": []
+  },
+  {
+   "idea": "When an AI says it cannot do something, push back with 'yes you can, try harder' and it often finds a creative workaround.",
+   "topic": "AI & technology",
+   "detail": "Claude claimed it could not read video, then split the video into screenshots every five seconds and inferred content from frames and captions.",
+   "who": "Kat Getzy",
+   "names_or_cases": [
+    "Claude"
+   ]
+  },
+  {
+   "idea": "There is no AI playbook yet, so the best learning comes from friends experimenting in real time and screen-sharing exactly what they built and how.",
+   "topic": "AI & technology",
+   "detail": "Cat Labs exists for this: at its 'How I Built This' events people show the result for one minute and then four minutes of the actual prompts and tools, because trust in AI claims is at an all-time low and grifters should be told 'share your screen, prove it'.",
+   "who": "Kat Getzy",
+   "names_or_cases": [
+    "Cat Labs",
+    "Claude Code"
+   ]
+  },
+  {
+   "idea": "These models are the dumbest they will ever be; even with zero further improvement we would spend 20 years deploying them across the economy, so becoming literate now is one of the most important things you can do.",
+   "topic": "AI & technology",
+   "detail": "Kat says intelligence is increasing exponentially and the world in a few years will look wildly different.",
+   "who": "Kat Getzy",
+   "names_or_cases": []
+  },
+  {
+   "idea": "Giving an employee or an AI explicit success criteria seems stern but is actually kind, because it hands them the playbook; broad roles without it go off the rails.",
+   "topic": "Leadership & management",
+   "detail": "Most managers never articulate what success looks like, leaving employees and agents to fill in the blanks and do random things.",
+   "who": "Kat Getzy",
+   "names_or_cases": []
+  },
+  {
+   "idea": "Direct feedback is a sign of respect: clarity signals you think the person is smart and value their time, while fluff signals you think they are stupid, fragile or that their time is worthless.",
+   "topic": "Leadership & management",
+   "detail": "Kat's most common critical feedback in seven years of corporate was 'you're too direct', a trait women especially are told to soften; she role-plays a $1,000 credit overspend to contrast soft, hedging feedback with a clear version that names the issue, asks what happened and states consequences.",
+   "who": "Kat Getzy",
+   "names_or_cases": []
+  },
+  {
+   "idea": "Owning up to mistakes is non-negotiable on a team; the worst thing you can do is sweep it under the rug.",
+   "topic": "Leadership & management",
+   "detail": "Kat coaches people to talk through what went wrong without emotion, and says anyone who will not take accountability cannot work at CatGPT.",
+   "who": "Kat Getzy",
+   "names_or_cases": [
+    "CatGPT"
+   ]
+  },
+  {
+   "idea": "At a big event, find allies you are comfortable debriefing with at the end of the night in your pajamas, because that is where the real nuggets of wisdom surface.",
+   "topic": "Networking, communication & influence",
+   "detail": "From a week as roommates in Cannes: the 3 a.m. fast-food kitchen-table conversations were the ones Kat wrote down and kept thinking about, and they plan to film that debrief next year.",
+   "who": "hosts",
+   "names_or_cases": [
+    "Cannes"
+   ]
+  }
+ ]
+}

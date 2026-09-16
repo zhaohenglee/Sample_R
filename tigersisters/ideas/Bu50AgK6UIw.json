@@ -1,0 +1,187 @@
+{
+ "video_id": "Bu50AgK6UIw",
+ "date": "2025-07-14",
+ "title": "VC 101: How Venture Capital Works (No Finance Degree Needed)",
+ "guest": "",
+ "summary": "A five-part primer on venture capital: what VC is and its funding stages, how VCs evaluate startups (team, market, traction), why VC is a signaling and social-capital power game, the dark side of grow-at-all-costs incentives, and how to borrow VC frameworks (portfolio approach, conviction over consensus, optionality) for your own career and life. Each section ends with a mini exercise, and the hosts draw on their own VC and seed-investing experience plus HBS and GSB case studies.",
+ "ideas": [
+  {
+   "idea": "Venture capital is high-risk, high-reward investing where VCs buy equity in early-stage startups rather than lending money, winning big if the startup takes off and losing everything if it fails.",
+   "topic": "Finance industry: VC, PE, banking, hedge funds",
+   "detail": "Airbnb raised a roughly $600,000 seed round in 2009 and IPO'd 11 years later in 2020 at around a $100 billion valuation.",
+   "who": "hosts",
+   "names_or_cases": [
+    "Airbnb"
+   ]
+  },
+  {
+   "idea": "Funding stages (pre-seed, seed, Series A, B, C, D, then growth equity) track the startup's size and growth stage, with Series A typically $3 million to $10-15 million.",
+   "topic": "Finance industry: VC, PE, banking, hedge funds",
+   "detail": "Growth equity is the most mature bucket, usually after Series E, where revenue and numbers make success more predictable; the earliest startups may be just an idea with no traction or product-market fit.",
+   "who": "hosts",
+   "names_or_cases": []
+  },
+  {
+   "idea": "VCs specialize by industry vertical or by stage, and the two are linked: later-stage investing requires deeper industry expertise to parse the information.",
+   "topic": "Finance industry: VC, PE, banking, hedge funds",
+   "detail": "AI used to be a vertical five to ten years ago but is now a horizontal, since every startup Cherie advises is being asked by investors how it uses AI.",
+   "who": "hosts",
+   "names_or_cases": []
+  },
+  {
+   "idea": "B2B SaaS (business-to-business software as a service) is a category VCs love because it is super scalable: build software once and sell it to more and more companies.",
+   "topic": "Finance industry: VC, PE, banking, hedge funds",
+   "detail": "Salesforce, a CRM sold to other businesses, is the canonical example; use Crunchbase or PitchBook to look up a startup's valuation, last raise and investors.",
+   "who": "hosts",
+   "names_or_cases": [
+    "Salesforce",
+    "Crunchbase",
+    "PitchBook"
+   ]
+  },
+  {
+   "idea": "VCs evaluate startups on three metrics, team, market and traction, and team is the most important, especially at pre-seed and seed when there are no numbers to look at.",
+   "topic": "Finance industry: VC, PE, banking, hedge funds",
+   "detail": "Early pitch decks lead with team credentials; ex-Meta or ex-Google engineers signal training and a high hiring bar, while lacking a technical co-founder can count against you.",
+   "who": "hosts",
+   "names_or_cases": [
+    "Meta",
+    "Google"
+   ]
+  },
+  {
+   "idea": "Most problems that sink a company later are people problems, so poor team makeup or conflict resolution is a red flag; couples founding together are seen as a risk despite counterexamples like Canva.",
+   "topic": "Entrepreneurship & startups",
+   "detail": "Investors weigh whether a personal breakup could spill into the business, but Canva, founded by a couple, was a massive success.",
+   "who": "hosts",
+   "names_or_cases": [
+    "Canva"
+   ]
+  },
+  {
+   "idea": "VCs need a multi-billion-dollar outcome, so they demand a large TAM, but an indefensible 'ten trillion dollar' TAM works against a founder.",
+   "topic": "Entrepreneurship & startups",
+   "detail": "What matters is not just total addressable market but how many of those people will actually convert; the hosts note Tiger Sisters has a narrower TAM than comedians but hits its audience more deeply.",
+   "who": "hosts",
+   "names_or_cases": [
+    "Tiger Sisters"
+   ]
+  },
+  {
+   "idea": "Traction means the product is working and has product-market fit, measured by things like app downloads, month-over-month revenue and paying customers.",
+   "topic": "Entrepreneurship & startups",
+   "detail": "Mini exercise: pick a problem, estimate whether millions or billions of people have it, and articulate why you are the right team to solve it.",
+   "who": "hosts",
+   "names_or_cases": []
+  },
+  {
+   "idea": "VC is not just about money; it is about signaling, social proof, access and warm intros, which is why it is seen as clubby and who-you-know.",
+   "topic": "Power, status & office politics",
+   "detail": "Landing Sequoia, a16z or Lightspeed on the cap table signals other funds to pile in; getting into Y Combinator is itself a signal and Demo Day gives exposure to every major VC.",
+   "who": "hosts",
+   "names_or_cases": [
+    "Sequoia",
+    "Andreessen Horowitz (a16z)",
+    "Lightspeed",
+    "Y Combinator"
+   ]
+  },
+  {
+   "idea": "Choose investors for the specific expertise they bring, not just the check, the way Shark Tank founders target a particular shark.",
+   "topic": "Entrepreneurship & startups",
+   "detail": "Robert Herjavec or Mark Cuban for software, Daymond John for apparel, Barbara Corcoran for real estate, Lori Greiner for CPG; the cap table (capitalization table) lists every investor in your company.",
+   "who": "hosts",
+   "names_or_cases": [
+    "Shark Tank",
+    "Mark Cuban",
+    "Barbara Corcoran",
+    "Lori Greiner",
+    "Daymond John",
+    "Robert Herjavec"
+   ]
+  },
+  {
+   "idea": "Map your social capital: who in your network trusts you enough to vouch for you and make introductions.",
+   "topic": "Networking, communication & influence",
+   "detail": "This exercise comes from Stanford GSB's 'Paths to Power' class and mirrors how warm intros work in VC.",
+   "who": "hosts",
+   "names_or_cases": [
+    "Paths to Power (Stanford GSB)"
+   ]
+  },
+  {
+   "idea": "VC money is not free: it comes with the expectation of extreme growth, which pushes startups into spend-now, figure-it-out-later behavior that can flame out.",
+   "topic": "Entrepreneurship & startups",
+   "detail": "WeWork and Quibi started strong with heavy funding and then collapsed; some investors demand biweekly or monthly updates, adding constant pressure.",
+   "who": "hosts",
+   "names_or_cases": [
+    "WeWork",
+    "Quibi"
+   ]
+  },
+  {
+   "idea": "VC funds invest in portfolios of 20 to hundreds of startups expecting most to go to zero and a few to return 100x to 1000x, so a 3x or 5x outcome that is a win for you is an 'egg', a loser, to them.",
+   "topic": "Finance industry: VC, PE, banking, hedge funds",
+   "detail": "Because of this, VC advice pushes founders toward small-probability moonshots rather than solid 3x-5x growth, and may not be the advice they would give if they were in your shoes.",
+   "who": "hosts",
+   "names_or_cases": []
+  },
+  {
+   "idea": "Do not take on investment unless you really have to; taking money too early or at all is one of the most common regrets founders share.",
+   "topic": "Entrepreneurship & startups",
+   "detail": "In Stanford GSB's 'Managing Growing Enterprises' class, founders' retrospectives repeatedly cite raising too early as a major mistake; investor money complicates hiring and operations and gives you an overlord.",
+   "who": "hosts",
+   "names_or_cases": [
+    "Managing Growing Enterprises (Stanford GSB)"
+   ]
+  },
+  {
+   "idea": "Who you take on as an investor matters enormously because VC is a people business; founders vet investors through back channels and reputation.",
+   "topic": "Entrepreneurship & startups",
+   "detail": "'We're hands-off, smart capital' is often just a sales pitch; the YC intranet has Yelp-style investor reviews where founders warn each other about investors who ghost after a term sheet.",
+   "who": "hosts",
+   "names_or_cases": [
+    "Y Combinator"
+   ]
+  },
+  {
+   "idea": "Before taking any opportunity, ask what the incentives are, who is involved and what they are optimizing for, and whether that aligns with your values.",
+   "topic": "Life design, goals & reinvention",
+   "detail": "The mini exercise for the 'dark side of VC' section, generalizing the lesson that investors optimize for their own bottom line.",
+   "who": "hosts",
+   "names_or_cases": []
+  },
+  {
+   "idea": "Take a portfolio approach in life: like VCs who never put the whole fund in one company, don't put all your eggs in one basket, including in dating.",
+   "topic": "Life design, goals & reinvention",
+   "detail": "The hosts joke that this is why people keep a dating 'roster'.",
+   "who": "hosts",
+   "names_or_cases": []
+  },
+  {
+   "idea": "Practice conviction over consensus: identify what you deeply believe that others don't, and live a contrarian life on it.",
+   "topic": "Mindset, confidence & psychology",
+   "detail": "Both hosts left highly successful corporate tracks to be creators, and Cherie counts being unmarried and child-free in her 30s as contrarian choices.",
+   "who": "hosts",
+   "names_or_cases": []
+  },
+  {
+   "idea": "Bake optionality into your life the way VCs bake pro-rata rights into contracts: always have multiple options in a job search or school applications so you choose from information, not desperation.",
+   "topic": "Career strategy & promotions",
+   "detail": "Apply to reach, target and safety schools; Cherie applied to both HBS and Stanford GSB, got into both and turned down Harvard, while Jean was rejected by Goldman Sachs twice.",
+   "who": "hosts",
+   "names_or_cases": [
+    "Harvard Business School",
+    "Stanford GSB",
+    "Goldman Sachs"
+   ]
+  },
+  {
+   "idea": "Write down one bet you have honestly been too scared to make.",
+   "topic": "Life design, goals & reinvention",
+   "detail": "Final mini exercise, since venture capital shapes the companies we work for, the products we use and the headlines we read.",
+   "who": "hosts",
+   "names_or_cases": []
+  }
+ ]
+}

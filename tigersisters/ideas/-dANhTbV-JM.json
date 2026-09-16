@@ -1,0 +1,114 @@
+{
+  "video_id": "-dANhTbV-JM",
+  "date": "2026-07-27",
+  "title": "How to Build a Career That Takes You to the C-Suite | Reddit COO Jen Wong",
+  "guest": "Jen Wong, COO of Reddit",
+  "summary": "Recorded at Cannes Lions, the sisters interview Reddit COO Jen Wong about joining Reddit in 2018 from Time Inc., choosing advertising over subscriptions to build the business, and taking the company through its 2024 IPO. Wong explains why anonymity and community structure make Reddit's data uniquely valuable to advertisers and AI companies, how the Google and OpenAI licensing deals came about, how founders should show up on Reddit, and why her own career was a journey of discovery rather than an architected plan.",
+  "ideas": [
+    {
+      "idea": "Always take the recruiter's call, and if the role isn't right for you, nominate three great people you know for it.",
+      "topic": "Networking, communication & influence",
+      "detail": "Wong was not on Reddit's original COO call list because the search targeted San Francisco and she is a diehard New Yorker; a friend who was called said it wasn't for him but recommended her, which led to a meeting with Steve Huffman at an SFO airport lounge.",
+      "who": "Jen Wong",
+      "names_or_cases": ["Reddit", "Steve Huffman", "Time Inc."]
+    },
+    {
+      "idea": "A pillar of the internet with a huge audience and no business is a rare open canvas, worth cutting a planned sabbatical short for.",
+      "topic": "Career strategy & promotions",
+      "detail": "After selling Time Inc. in January, Wong planned six to nine months off with a newborn but took only three; she wanted pure growth, had watched her editors at Time Inc. and PopSugar mine Reddit for trends, had been a long-time user, and became the company's only remote executive flying back and forth.",
+      "who": "Jen Wong",
+      "names_or_cases": ["Reddit", "Time Inc.", "PopSugar"]
+    },
+    {
+      "idea": "Reddit chose advertising over subscriptions as its first business because ads scale with users and keep the platform open and frictionless.",
+      "topic": "Entrepreneurship & startups",
+      "detail": "In 2018 Reddit had some programmatic ads and a small subscription business; IPO was always the dream, but the company needed a business first. Ad platforms are very expensive to build, so you only do it if you believe you will be big; eight years in, Wong calls it one of the best bets they made.",
+      "who": "Jen Wong",
+      "names_or_cases": ["Reddit"]
+    },
+    {
+      "idea": "You can build an ad business in harmony with user privacy by targeting on context and intent rather than first-party identity data.",
+      "topic": "AI & technology",
+      "detail": "Reddit users are anonymous, so instead of collecting personal data, the platform converts the high-intent signals people give in communities (e.g. reading about vegan spices) into ad outcomes. Jean relates it to building affinity and lookalike targeting from AR ad work at Snapchat.",
+      "who": "Jen Wong",
+      "names_or_cases": ["Reddit", "Snapchat"]
+    },
+    {
+      "idea": "Anonymity makes people reveal what they hide under their real name, which makes Reddit users incremental customers advertisers cannot find elsewhere.",
+      "topic": "AI & technology",
+      "detail": "Wong went through her whole first-car-buying journey on Reddit because she was embarrassed to do it with friends; conditions like illness or buying a car are universal human circumstances where demographics like gender barely matter. Cherie contrasts this with the posturing on LinkedIn, where identity and resume are attached to every post.",
+      "who": "Jen Wong",
+      "names_or_cases": ["Reddit", "LinkedIn"]
+    },
+    {
+      "idea": "Reddit's quality comes from its community structure: each community has a purpose, its own rules and moderators, so conversation stays on topic and self-curates.",
+      "topic": "AI & technology",
+      "detail": "A succulents community is full of people passionate about succulents who are not there to talk politics. Reddit layers universal policies (no hate, harassment or incitement) on top of community-specific rules, whether a relentlessly positive curly-hair community or a debate space like Change My Mind.",
+      "who": "Jen Wong",
+      "names_or_cases": ["Reddit", "r/changemyview"]
+    },
+    {
+      "idea": "Reddit has room for the full breadth of human experience, including loneliness and resentment, as long as discourse stays safe and civil under its policies.",
+      "topic": "AI & technology",
+      "detail": "Wong acknowledges a period in Reddit's 21 years when policies were not applied at scale and that perception lingers, but says the first thing Steve Huffman focused on returning, and her focus since 2018, was policy enforcement, moderator relationships, community tooling and brand safety; in her eight years she sees overwhelming kindness and helpfulness.",
+      "who": "Jen Wong",
+      "names_or_cases": ["Reddit", "Steve Huffman"]
+    },
+    {
+      "idea": "Use human analogs for how you show up on Reddit: it is like a dinner party, so add value to the conversation instead of selling.",
+      "topic": "Entrepreneurship & startups",
+      "detail": "Cherie's Stanford founder WhatsApp group asked how to use Reddit for product placement. Wong says founders can share expertise, do an AMA, or ask communities what they want, but marketing a product organically fails at scale because most community rules ban selling; to tableset the conversation, use the paid marketing platform.",
+      "who": "Jen Wong",
+      "names_or_cases": ["Reddit", "Stanford GSB"]
+    },
+    {
+      "idea": "Reddit has outlasted MySpace, Vine, Clubhouse and others because it wins by being Reddit rather than mirroring what other platforms do.",
+      "topic": "Entrepreneurship & startups",
+      "detail": "Through mobile, video, social and now AI, Reddit kept growing as the only platform structured around communities where moderation and the business model both scale with users. It refused follower models, address-book dumps and identity-based ad targeting, so it is a consistent grower rather than a viral one, with quality maintained in tandem.",
+      "who": "Jen Wong",
+      "names_or_cases": ["Reddit", "MySpace", "Vine", "Clubhouse"]
+    },
+    {
+      "idea": "AI doesn't know anything unless humans tell it, which turned Reddit's trove of human conversation into one of its most valuable assets.",
+      "topic": "AI & technology",
+      "detail": "Reddit adds value from pre-training to post-training to grounding and search reference because it shows how people talk, stay on topic, and form opinions on products released yesterday. Reddit didn't build for this purpose; it built for its mission of empowering communities and making their knowledge accessible.",
+      "who": "Jen Wong",
+      "names_or_cases": ["Reddit"]
+    },
+    {
+      "idea": "Reddit's rise as a destination was timing, not design: its first 10 years were word of mouth, then the corpus got big enough to be indexed, and now 'reddit' is a top-16 search term.",
+      "topic": "AI & technology",
+      "detail": "People began finding Reddit via queries like 'best running shoes,' then started appending 'reddit' to searches, and the next incarnation is AI answer engines citing it. Cherie notes the shift from SEO to AEO (answer engine optimization).",
+      "who": "Jen Wong",
+      "names_or_cases": ["Reddit", "AEO"]
+    },
+    {
+      "idea": "Once LLMs went from research projects to commercial businesses, Reddit needed licensing deals to secure value exchange and protect users' rights to deletion and privacy.",
+      "topic": "AI & technology",
+      "detail": "Reddit struck partnerships with OpenAI and Google that govern how data is used for training and as a reference resource; at the time nobody knew Reddit would become one of the most cited sources. Wong says the economy of the internet is changing so fundamentally that nobody knows where it lands.",
+      "who": "Jen Wong",
+      "names_or_cases": ["Reddit", "OpenAI", "Google", "Gemini"]
+    },
+    {
+      "idea": "Reddit aims to be the most human place on the internet, complementing LLMs' efficient answers with the validation people increasingly seek.",
+      "topic": "AI & technology",
+      "detail": "Users now literally post 'ChatGPT told me these were the best running shoes, what do you think?' or run the same query on Reddit to compare. Wong believes this triangulation behavior is becoming more common and will not go away.",
+      "who": "Jen Wong",
+      "names_or_cases": ["Reddit", "ChatGPT"]
+    },
+    {
+      "idea": "Each stage of education gave something different: Yale taught broad thinking about society, a Stanford engineering master's gave technical confidence, and business school gave business vernacular plus a lifelong sounding board.",
+      "topic": "MBA & elite education",
+      "detail": "Technical confidence means being able to dive into infrastructure and ML models and lead teams doing that work. Business school also gave Wong her first community of LGBTQ business professionals.",
+      "who": "Jen Wong",
+      "names_or_cases": ["Yale", "Stanford", "Harvard Business School"]
+    },
+    {
+      "idea": "It is very hard to architect a career; for most people it is a journey of discovery and reinvention that only makes sense in retrospect.",
+      "topic": "Life design, goals & reinvention",
+      "detail": "Wong never dreamed of being a business leader or a technical person and could not have predicted what she got from each experience; she holds out hope for another reinvention. The hosts add that you can reinvent yourself at any time in multiple chapters.",
+      "who": "Jen Wong",
+      "names_or_cases": []
+    }
+  ]
+}

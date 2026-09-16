@@ -1,0 +1,200 @@
+{
+ "video_id": "4J3C-Rrzpo4",
+ "date": "2026-03-16",
+ "title": "How to Use AI to Become Healthier, Hotter, & Happier",
+ "guest": "",
+ "summary": "Jean and Cherie share a tactical blueprint of prompts and workflows for using AI tools (ChatGPT, Gemini, Claude) to improve fitness and nutrition, appearance and styling, and mood and self-reflection. The through-line is 'garbage in, garbage out' (feed the tool your real data and constraints, use role-play and specificity), balanced by disclaimers that AI is a tool not a doctor or therapist, that it hallucinates, is sycophantic, and that personal data privacy is unknown.",
+ "ideas": [
+  {
+   "idea": "Women are 25% less likely than men to use generative AI, and the people who learn to use it to their advantage are the ones getting ahead, so women cannot let this gender gap happen.",
+   "topic": "AI & technology",
+   "detail": "The hosts cite a recent Harvard study for the 25% figure and say it makes them mad; AI has replaced almost every Google search for both of them.",
+   "who": "hosts",
+   "names_or_cases": [
+    "Harvard"
+   ]
+  },
+  {
+   "idea": "The number one axiom for using AI is 'garbage in, garbage out': the more accurate personal data you give it, the more personalized and useful the output.",
+   "topic": "AI & technology",
+   "detail": "Jean says this is the same rule they follow when building AI tools and training models, and it is why AI companies spend so much acquiring data sources.",
+   "who": "hosts",
+   "names_or_cases": []
+  },
+  {
+   "idea": "Use AI as a low-cost personal trainer by uploading screenshots of fitness-tracker output and asking it to analyze the workout and build a multi-week plan toward a stated goal.",
+   "topic": "Health, wellness & burnout",
+   "detail": "Cherie uploads Whoop/Oura/Garmin/Apple Watch summaries (calories, strain, duration) to ChatGPT; after aimless lap swimming it produced a structured plan (4 warm-up laps, 30-second rests, 8 at medium intensity) like a real swim coach would.",
+   "who": "hosts",
+   "names_or_cases": [
+    "ChatGPT",
+    "Whoop",
+    "Oura",
+    "Garmin",
+    "Apple Watch"
+   ]
+  },
+  {
+   "idea": "Dial workouts up or down in the moment by telling the AI your current state, such as four hours of sleep or an injury.",
+   "topic": "Health, wellness & burnout",
+   "detail": "After straining her groin doing three days of yoga in Hawaii, Cherie asked whether she should snorkel and the tool told her to rest and recover.",
+   "who": "hosts",
+   "names_or_cases": []
+  },
+  {
+   "idea": "Expert-level tip: upload InBody scan results (muscle and fat percentage per body part) to get detailed body-recomposition plans.",
+   "topic": "Health, wellness & burnout",
+   "detail": "Both sisters have done InBody scans; the extra data makes recommendations far more specific, but only share health data you would be comfortable having leaked and consider blurring your name.",
+   "who": "hosts",
+   "names_or_cases": [
+    "InBody"
+   ]
+  },
+  {
+   "idea": "Good prompts combine role-play ('act as my certified personal trainer'), specificity ('ask me 10 questions, then build a four-week program with warmups, form cues and modifications') and constraints (time windows, no heavy lifting, prioritize glutes and posture).",
+   "topic": "AI & technology",
+   "detail": "Jean's example: 'I have 25 minutes three times a week and do not work out before 9 AM or after 8 PM; build a plan that maximizes my time.' Role-play generalizes to life coach, social media manager and more.",
+   "who": "hosts",
+   "names_or_cases": []
+  },
+  {
+   "idea": "AI-generated exercise advice is roughly 90% accurate but only about 40% comprehensive, so without your own data the output is cookie-cutter and needs your discretion.",
+   "topic": "AI & technology",
+   "detail": "They cite a 2024 study in the journal JMIR Medical Education and say to apply critical thinking and reading comprehension to everything the tool returns.",
+   "who": "hosts",
+   "names_or_cases": [
+    "JMIR Medical Education"
+   ]
+  },
+  {
+   "idea": "Use AI for nutrition from both directions: list what is in your fridge to generate a novel recipe, or ask at the grocery store for three healthy meal-prep recipes that last four days and get a shopping list.",
+   "topic": "Health, wellness & burnout",
+   "detail": "Cherie does this weekly to use up produce; the tool also suggests substitutions (flaxseed for egg whites, cilantro for parsley). Adding 'must last in the fridge four days' avoids meals that turn mushy by day three.",
+   "who": "hosts",
+   "names_or_cases": [
+    "ChatGPT"
+   ]
+  },
+  {
+   "idea": "Use dictation or voice mode to work hands-free with AI while cooking, asking for substitutions, oven temperatures or boil times.",
+   "topic": "AI & technology",
+   "detail": "Cherie talks back and forth with a British male voice she finds more authoritative, effectively using the tool as a sous chef.",
+   "who": "hosts",
+   "names_or_cases": []
+  },
+  {
+   "idea": "Photograph your meals in a single thread and ask AI to estimate macros, tally them by day, week and month, then build a nutrition plan from your real eating habits.",
+   "topic": "Health, wellness & burnout",
+   "detail": "This replaces manual trackers like MyFitnessPal where you have to remember that one egg has 6 grams of protein; it also works for cutting sodium or sugar, e.g. if you are pre-diabetic. Jean notes you cannot spot-reduce fat in one body area.",
+   "who": "hosts",
+   "names_or_cases": [
+    "MyFitnessPal"
+   ]
+  },
+  {
+   "idea": "Upload a well-lit photo, ask in the third person how old the person looks, ask why it did not guess 25, then ask for non-invasive procedures, makeup and skin treatments to bridge the gap.",
+   "topic": "Health, wellness & burnout",
+   "detail": "A friend gets 36-38 and is planning under-eye PRP based on the advice; asking in third person avoids refusals. Jean tried it and got 32-36, which is younger than she is, with a 'shit sandwich' explanation that she looks settled and executive. You have to be strong enough to take the blunt feedback, or instruct it to be nicer.",
+   "who": "hosts",
+   "names_or_cases": []
+  },
+  {
+   "idea": "Send mirror selfies to get feedback on fit, accessorizing and makeup, and coax the tool into a 1-to-10 hotness rating and a path to 10.",
+   "topic": "Health, wellness & burnout",
+   "detail": "The tool initially says a 10 is an unreasonable societal standard and must be pushed; a friend also photographs her finished makeup and asks how to look hotter with very little extra effort. The sisters are taking an in-person makeup class to pair with this.",
+   "who": "hosts",
+   "names_or_cases": []
+  },
+  {
+   "idea": "Feed AI your week's commitments and workouts to optimize your hair-wash and blowout schedule around how sweaty you will get.",
+   "topic": "Health, wellness & burnout",
+   "detail": "A friend calls it silly but the hosts call it genius: if a machine can optimize a schedule everyone knows exists, why not.",
+   "who": "hosts",
+   "names_or_cases": []
+  },
+  {
+   "idea": "After a color analysis, screenshot the available colors of a garment and ask AI which suits your season to stay consistent with your most flattering palette.",
+   "topic": "Health, wellness & burnout",
+   "detail": "Jean was typed as a warm spring at a friend's bachelorette and says dressing in her season has been a huge unlock.",
+   "who": "hosts",
+   "names_or_cases": []
+  },
+  {
+   "idea": "AI is a good starting place for people who have no one to talk to, using prompts like 'act as an expert life coach, ask me questions one at a time, no personally identifiable information, then give five actionable strategies.'",
+   "topic": "Mindset, confidence & psychology",
+   "detail": "The prompt comes from a Forbes article and targets procrastination but can be adapted to anything, such as late-night sleep habits; it follows up their episode on male loneliness.",
+   "who": "hosts",
+   "names_or_cases": [
+    "Forbes"
+   ]
+  },
+  {
+   "idea": "AI solves the cold-start problem of journaling by asking you a daily question that covers your day and your progress on self-improvement goals.",
+   "topic": "Mindset, confidence & psychology",
+   "detail": "Both sisters have journaled on and off for years and say the awkward 'what do I write' moment stops many people; a friend also asks for tailored affirmations to step into her power as a startup founder.",
+   "who": "hosts",
+   "names_or_cases": []
+  },
+  {
+   "idea": "Upload photos of handwritten journal entries and ask what behaviors or actions to think about further, as a supplement to, not replacement for, therapy.",
+   "topic": "Mindset, confidence & psychology",
+   "detail": "A friend who already sees a therapist uses this for thought starters; the hosts suggest using it as pre-work so you arrive at therapy sessions better prepared.",
+   "who": "hosts",
+   "names_or_cases": []
+  },
+  {
+   "idea": "Flip the prompt: ask the AI what you are missing and what else it should be asking you, the way you would ask an interviewer 'what question didn't you ask?'",
+   "topic": "AI & technology",
+   "detail": "Cherie uses this for creative gift brainstorming with parameters (friend got engaged in the redwoods, loves skateboarding and the beach, $100 budget).",
+   "who": "hosts",
+   "names_or_cases": []
+  },
+  {
+   "idea": "Offload life-draining but cookie-cutter dispute emails, such as airline and customer-service complaints, to AI so you can be firm yet polite.",
+   "topic": "AI & technology",
+   "detail": "In 2022-2023 Cherie used ChatGPT to complain to Hawaiian Airlines after an 8-hour delay at the Maui airport; her TikTok went viral with millions of views and international coverage from outlets like the New Zealand Herald and India Times.",
+   "who": "hosts",
+   "names_or_cases": [
+    "Hawaiian Airlines",
+    "ChatGPT",
+    "TikTok",
+    "New Zealand Herald",
+    "India Times"
+   ]
+  },
+  {
+   "idea": "Use AI as a reframing device for relationship problems, even through a playful lens like astrology, because having something to react to helps you see what feels right.",
+   "topic": "Relationships, dating & marriage",
+   "detail": "A friend uploads dating conflicts and asks for an interpretation based on the partner's sign; the value is a third POV that pushes you to think differently, not advice to follow.",
+   "who": "hosts",
+   "names_or_cases": []
+  },
+  {
+   "idea": "AI hallucinates confidently, so fact-check anything high stakes.",
+   "topic": "AI & technology",
+   "detail": "Google AI told Cherie she has a net worth of $2.8 billion 'confirmed by Forbes', which is false; they also caution that nobody knows how uploaded personal data is used.",
+   "who": "hosts",
+   "names_or_cases": [
+    "Google AI",
+    "Forbes"
+   ]
+  },
+  {
+   "idea": "AI is not a therapist and tends to be sycophantic, agreeing with whatever you say, so be careful when using it for emotional processing and wary of AI boyfriends and girlfriends.",
+   "topic": "AI & technology",
+   "detail": "Example: ask whether to ice out a man and it says 'yes queen', whereas a real therapist would suggest confronting him in a healthy way; human connection is the healthiest route, and companies are only now adding protections for teens.",
+   "who": "hosts",
+   "names_or_cases": []
+  },
+  {
+   "idea": "AI output needs human intervention because readers can now clock AI writing instantly by its tenor and patterns, and it gets you only about 63% of the way.",
+   "topic": "Networking, communication & influence",
+   "detail": "Tells: 'not this, but that' constructions, lists of three, rhetorical questions answered in the next sentence, identical LinkedIn formatting. Cherie says what she writes is better than ChatGPT and she must carry it to the finish line in her own voice.",
+   "who": "hosts",
+   "names_or_cases": [
+    "LinkedIn",
+    "ChatGPT"
+   ]
+  }
+ ]
+}

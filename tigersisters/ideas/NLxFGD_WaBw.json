@@ -1,0 +1,100 @@
+{
+  "video_id": "NLxFGD_WaBw",
+  "date": "2025-08-04",
+  "title": "Everything We Learned at Stanford Business School in 19 Minutes",
+  "guest": "",
+  "summary": "Part 1 of a two-part series on the mental frameworks from Stanford GSB that the sisters say rewired how they make decisions: design thinking, test-and-learn (lean startup / MVP), and Bezos's Type 1 vs Type 2 (irreversible vs reversible) decisions. Each framework comes with company case studies (Snapchat AR shopping, Dropbox, Zappos, ClassPass, DoorDash, FarmVille) and a mini exercise to apply it to work and life.",
+  "ideas": [
+    {
+      "idea": "The most valuable things from a $250,000 Stanford MBA were not strategy or finance content but mental frameworks for making decisions faster and living better.",
+      "topic": "MBA & elite education",
+      "detail": "Cherie frames the episode around three of the six most important GSB tools, each taught case-study style with a real company example and a practice exercise.",
+      "who": "hosts",
+      "names_or_cases": ["Stanford GSB"]
+    },
+    {
+      "idea": "Design thinking means designing around what the user actually needs, not what you think the problem is; most products fail because they solve the wrong problem.",
+      "topic": "Entrepreneurship & startups",
+      "detail": "Invented at Stanford's d.school and popularized by IDEO (designers of the original Apple mouse), it works for any problem, from Google to the Gates Foundation, and is about empathy rather than being a designer.",
+      "who": "hosts",
+      "names_or_cases": ["Stanford d.school", "IDEO", "Apple", "Gates Foundation"]
+    },
+    {
+      "idea": "Design thinking has five steps: empathize, define the root problem, ideate without censoring, prototype something scrappy, and test by watching what users do, not just what they say.",
+      "topic": "Entrepreneurship & startups",
+      "detail": "User research is now an entire function at tech companies; observing behavior in testing is more reliable than self-report.",
+      "who": "hosts",
+      "names_or_cases": ["design thinking"]
+    },
+    {
+      "idea": "Before building, spend real time observing customers in their natural setting.",
+      "topic": "Entrepreneurship & startups",
+      "detail": "Building AR beauty shopping at Snapchat, Jean's team spent an afternoon in a beauty store on Abbot Kinney in LA watching and interviewing shoppers to learn whether they needed to see color on their skin or needed to be in person. She says user research is one of the most enlightening and fun parts of building.",
+      "who": "hosts",
+      "names_or_cases": ["Snapchat"]
+    },
+    {
+      "idea": "Apply design thinking to a stuck personal problem by writing down what the other person (boss, partner, customer) fears and needs before brainstorming any solution.",
+      "topic": "Networking, communication & influence",
+      "detail": "Observe feelings and behaviors first; the mini exercise is to walk one life problem through the five steps.",
+      "who": "hosts",
+      "names_or_cases": []
+    },
+    {
+      "idea": "Test and learn: stop waiting to be perfect, ship a scrappy MVP, because a well-thought-out business plan is often nothing more than a fantasy.",
+      "topic": "Entrepreneurship & startups",
+      "detail": "Taught in Stanford's Startup Garage and in the book 'The Lean Startup'; the MVP teaches you what you need to know and your plan will almost certainly pivot once customers respond. It's a wake-up call for perfectionist students.",
+      "who": "hosts",
+      "names_or_cases": ["Stanford Startup Garage", "The Lean Startup"]
+    },
+    {
+      "idea": "Tiger Sisters itself is a pivot: the original pitch deck was for a reality TV show, and the MVP podcast launched with one camera at a kitchen table and bad mics.",
+      "topic": "Entrepreneurship & startups",
+      "detail": "Testing the TV idea with many conversations showed the macro environment wasn't right. Launching the podcast at low quality got audience feedback faster than perfecting the set first; they have been test-and-learning for nine months.",
+      "who": "hosts",
+      "names_or_cases": ["Tiger Sisters"]
+    },
+    {
+      "idea": "Famous MVPs had almost no product: Dropbox's 3-minute video got 75,000 signups in a day, Zappos bought shoes at local stores and shipped them by hand, ClassPass ran on a spreadsheet, and DoorDash's founders delivered Palo Alto orders themselves.",
+      "topic": "Entrepreneurship & startups",
+      "detail": "Each proved demand manually before investing in technology or fulfillment; the DoorDash lore with Tony Xu began as a 'Palo Alto Delivery' website run by Stanford students.",
+      "who": "hosts",
+      "names_or_cases": ["Dropbox", "Zappos", "ClassPass", "DoorDash", "Tony Xu"]
+    },
+    {
+      "idea": "The clarity you're seeking is probably hiding behind one very simple test, and if you wait for the perfect moment someone scrappier will beat you.",
+      "topic": "Mindset, confidence & psychology",
+      "detail": "The mini exercise: pick an untackled problem and test it today with a Google Form, an Instagram post or a text message.",
+      "who": "hosts",
+      "names_or_cases": []
+    },
+    {
+      "idea": "Sort decisions into Type 1 (irreversible, go slow and strategic) and Type 2 (reversible, experiment fast); treating every decision as irreversible slows you down and kills innovation.",
+      "topic": "Leadership & management",
+      "detail": "From Jeff Bezos's Amazon memo. Hiring your first engineer is Type 1; changing a button color is Type 2 and deserves little brainpower.",
+      "who": "hosts",
+      "names_or_cases": ["Jeff Bezos", "Amazon", "Type 1 vs Type 2 decisions"]
+    },
+    {
+      "idea": "Entire companies run on Type 2 experimentation: at Zynga every element on the FarmVille screen, down to sharp versus rounded button corners, was A/B tested.",
+      "topic": "AI & technology",
+      "detail": "Jean worked on every iteration of FarmVille; seemingly throwaway UI decisions measurably moved results, and treating them as reversible let the team move very quickly.",
+      "who": "hosts",
+      "names_or_cases": ["Zynga", "FarmVille"]
+    },
+    {
+      "idea": "Speed is a skill, but knowing which decisions deserve speed versus deep thought is strategy; startups die from slow decisions more than bad ones.",
+      "topic": "Leadership & management",
+      "detail": "Mini exercise: list all pending decisions, sort them into Type 1 and Type 2, and run a small test on one reversible decision today.",
+      "who": "hosts",
+      "names_or_cases": []
+    },
+    {
+      "idea": "The reversible/irreversible lens applies to life too: dating is reversible, marriage is much harder to reverse because of the legal ties.",
+      "topic": "Relationships, dating & marriage",
+      "detail": "The sisters joke about which bucket divorce belongs in, noting it is sometimes reversible and sometimes not, and that marriage adds legal loopholes to any breakup.",
+      "who": "hosts",
+      "names_or_cases": []
+    }
+  ]
+}

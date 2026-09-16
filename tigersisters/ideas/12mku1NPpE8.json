@@ -1,0 +1,142 @@
+{
+  "video_id": "12mku1NPpE8",
+  "date": "2024-11-18",
+  "title": "Ambitious women dream big",
+  "guest": "",
+  "summary": "Answering mailbag questions about their startup process, Cherie and Jean explain their vision to build a 'new-age Disney' content-to-commerce company that empowers a billion people, how they run it tactically (Trello boards, sprint planning, weekly standups), and why they are building in public rather than in stealth. They share lessons learned so far, including pivoting quickly from a reality-TV idea to the podcast, running several hypotheses in parallel, and the differences between building a CPG product (Sisters Matcha) versus software.",
+  "ideas": [
+    {
+      "idea": "Start with an ambitious long-term vision and make sure short-term goals ladder up to medium-term goals which ladder up to the long-term goal.",
+      "topic": "Entrepreneurship & startups",
+      "detail": "The hosts' stated vision is to build the 'new-age Disney', a media empire combining content, IP, commerce and experiences, with several hypotheses being tested in parallel toward that end.",
+      "who": "hosts",
+      "names_or_cases": ["Disney"]
+    },
+    {
+      "idea": "The 'why' behind the company is to empower a billion people to level up in their personal and professional lives, going beyond Disney's goal of making people happy.",
+      "topic": "Life design, goals & reinvention",
+      "detail": "Media plus commerce channels (like Disney's movies, Disneyland and cruises) are the model for reaching the most people with educational content.",
+      "who": "hosts",
+      "names_or_cases": ["Disney", "Disneyland"]
+    },
+    {
+      "idea": "Be unafraid to edit strategy and pivot early, even when it feels like a major change; 'strong convictions, loosely held'.",
+      "topic": "Entrepreneurship & startups",
+      "detail": "Their first plan was a Tiger Sisters reality TV show; after researching with LA agents and producers they concluded it was not viable in this market and let it go within about a week. Jean notes many companies she has worked with would have been better off pivoting earlier, and that corporate pressures (aligning people, morale, politics) make course changes much harder than for two founders managing only themselves.",
+      "who": "hosts",
+      "names_or_cases": ["Tiger Sisters"]
+    },
+    {
+      "idea": "Be sensitive and reactive to market trends when positioning a company.",
+      "topic": "Entrepreneurship & startups",
+      "detail": "Every company now pitches itself as an AI company; four years ago it was web3, which nobody would claim today, and five years ago pitching as AI was less fruitful.",
+      "who": "hosts",
+      "names_or_cases": []
+    },
+    {
+      "idea": "Build on your existing strengths rather than always starting as a newbie, while leaving room for a few bets in new territory.",
+      "topic": "Entrepreneurship & startups",
+      "detail": "Feedback they received was to leverage Cherie's year of podcasting and self-built audience, which led to the podcast; Sisters Matcha, a CPG product they know nothing about (supply chain etc.), is the deliberate opposite bet.",
+      "who": "hosts",
+      "names_or_cases": ["Sisters Matcha"]
+    },
+    {
+      "idea": "Run the startup like a tech team: Trello boards with P0/P1/P2 priorities and an in-progress column, weekly sprint planning and standups on Monday, and a shared calendar for everything.",
+      "topic": "Entrepreneurship & startups",
+      "detail": "They keep three boards (podcast planning, broader startup/admin planning, and Sisters Matcha), assign each other tasks, and use the Monday session to knock out annoying operational tasks together.",
+      "who": "hosts",
+      "names_or_cases": ["Trello"]
+    },
+    {
+      "idea": "Stealth mode is dead; building in public gets you help, engagement and rapid customer feedback that stealth startups miss.",
+      "topic": "Entrepreneurship & startups",
+      "detail": "Jean came from secretive cultures (Goldman's no-talking-in-the-elevator rule, siloed secret projects at Snap, similar at Apple) and found building in public uncomfortable, but people want to be involved because they find the work interesting, the same reason she advises three startups. Comments on the matcha canister's blue color (appetite suppressant vs versatile) gave immediate customer input.",
+      "who": "hosts",
+      "names_or_cases": ["Goldman Sachs", "Snap", "Apple", "Sisters Matcha"]
+    },
+    {
+      "idea": "When your friends know what you are building, your network becomes an infinite board of advisors with thousands of years of combined expertise across industries.",
+      "topic": "Networking, communication & influence",
+      "detail": "Because friends see their posts, 30-minute conversations regularly produce nuggets that could change the company's trajectory, and they discover hidden skills, like a fellow head of product who turned out to be a great marketer.",
+      "who": "hosts",
+      "names_or_cases": []
+    },
+    {
+      "idea": "Building in public requires protecting yourself: secure handles and domains before announcing names.",
+      "topic": "Entrepreneurship & startups",
+      "detail": "After announcing Sisters Matcha before creating the Instagram page, someone grabbed the account name; after a LinkedIn post announcing another name, the free domain was bought within two days and listed for $200; a sisters.com-style domain was offered to them for three quarters of a million dollars.",
+      "who": "hosts",
+      "names_or_cases": ["Sisters Matcha", "Instagram", "LinkedIn"]
+    },
+    {
+      "idea": "It is fine to test several initiatives at once because each one teaches something invaluable and leads to opportunities that would never have happened otherwise.",
+      "topic": "Entrepreneurship & startups",
+      "detail": "Beyond the podcast and matcha they speak at conferences, write for Forbes, invest, build community and plan a Japan trip in May 2025; Cherie calls herself a 'multi-hyphenate' and admits it is hard to package for friends.",
+      "who": "hosts",
+      "names_or_cases": ["Forbes"]
+    },
+    {
+      "idea": "They are building a new kind of enterprise, a 'content-to-commerce company' that builds and monetizes IP, brands and community, which has no acronym or playbook yet.",
+      "topic": "Entrepreneurship & startups",
+      "detail": "Jean says she has always worked on the cutting edge; Emma Chamberlain (lifestyle vlogs, podcast) and Mr. Beast (media company on new platforms) are adjacent but different flavors. Having total conviction and ownership in your own thing is like the best corporate 100-hour-week project 'times a million'.",
+      "who": "hosts",
+      "names_or_cases": ["Emma Chamberlain", "Mr. Beast"]
+    },
+    {
+      "idea": "Physical products have far slower turnaround than software: with software an idea can ship the next day and be used billions of times, while a physical canister means waiting on samples.",
+      "topic": "Entrepreneurship & startups",
+      "detail": "At Snap Jean could conceive an AR lens one day, have it built the next and in the app the day after; with matcha the digital logo work was fast but the physical prototype now sits in a wait cycle.",
+      "who": "hosts",
+      "names_or_cases": ["Snap"]
+    },
+    {
+      "idea": "Software scales indefinitely once built, but an ultra-premium physical product is constrained by the supplier's operational capacity, which can be a deliberate fit for a small-batch brand.",
+      "topic": "Entrepreneurship & startups",
+      "detail": "Sisters Matcha is single cultivar, single estate, ceremonial grade from one family farm with three non-farmer employees; they are selling 300 canisters small batch, and scaling to 3 million would be a problem, but small batch matches their ethos versus influencer matcha brands made in giant factories.",
+      "who": "hosts",
+      "names_or_cases": ["Sisters Matcha"]
+    },
+    {
+      "idea": "Differentiate a consumer product through storytelling, because every purchase is now 'ego-expressive' and people opt in with their dollars.",
+      "topic": "Entrepreneurship & startups",
+      "detail": "The matcha story is a 7th-8th generation family tea farm Cherie worked on, and Japan's aging population leaving farmers without successors; buying the matcha supports the regeneration of small family tea farming, a documentary-style angle no other brand is telling.",
+      "who": "hosts",
+      "names_or_cases": ["Sisters Matcha"]
+    },
+    {
+      "idea": "The 'yassification' of everyday categories: consumables like olive oil have become heavily branded, artisanal and intentional over the last decade, partly because inflation makes people more deliberate about even small purchases.",
+      "topic": "Entrepreneurship & startups",
+      "detail": "Ten years ago nobody had a favorite olive oil brand; now people have favorite varietals (Jean's is Picual); younger consumers care about provenance and heritage, unlike the Forever 21/Zara generation.",
+      "who": "hosts",
+      "names_or_cases": ["Forever 21", "Zara"]
+    },
+    {
+      "idea": "Consumers do fast fashion and intentional consumption at the same time, choosing where in their daily habits to express themselves based on their wallet.",
+      "topic": "Money, investing & personal finance",
+      "detail": "People buy Shein for clothes but pay $7 for matcha at their favorite shop every week because it says something about them; vintage shopping is booming because it provides story, uniqueness and environmental clout at an affordable price.",
+      "who": "hosts",
+      "names_or_cases": ["Shein", "Loewe"]
+    },
+    {
+      "idea": "Paper prototypes are a cheap way to iterate on a physical product design before manufacturing.",
+      "topic": "Entrepreneurship & startups",
+      "detail": "Cherie applied an engineering-class technique to the matcha canister; the sisters designed it themselves with principles guidance from her designer-turned-PM friend Ian rather than hiring an agency, and every design element has an intentional meaning.",
+      "who": "hosts",
+      "names_or_cases": ["Sisters Matcha"]
+    },
+    {
+      "idea": "When stretched thin across many good projects, get deliberate about which are meaningful and don't sacrifice things like monthly volunteering for more work.",
+      "topic": "Health, wellness & burnout",
+      "detail": "Cherie juggles matcha, the podcast, a weekly newsletter, Forbes writing, LinkedIn growth, social life and dating; Jean has consciously been less social lately, noting there are different seasons, and that the same load in a corporate job would feel far more stressful because here they are excited about every project.",
+      "who": "hosts",
+      "names_or_cases": []
+    },
+    {
+      "idea": "Conference networking is draining, so learn to exit conversations gracefully.",
+      "topic": "Networking, communication & influence",
+      "detail": "At the Snap Partner Summit, Cherie crashed by 3:30 after floating between conversation circles and they left before Rufus Du Sol played; both admit they need to get better at ending conversations with 'so great talking to you, I need to run'.",
+      "who": "hosts",
+      "names_or_cases": ["Snap Partner Summit", "Rufus Du Sol", "Lala Milan"]
+    }
+  ]
+}

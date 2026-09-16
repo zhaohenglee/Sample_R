@@ -1,0 +1,177 @@
+{
+  "video_id": "gxzHnCraPqI",
+  "date": "2026-07-13",
+  "title": "Everything I Learned At Stanford's Business School in 86 Minutes",
+  "guest": "",
+  "summary": "A three-part mashup in which Cherie and Jean walk through nine frameworks from Stanford GSB (design thinking, test and learn, type 1/type 2 decisions, jobs to be done, decision trees, OKRs, SBI feedback, power mapping, SCQA) with company case studies, mini exercises and a debrief recorded a year later. The main takeaways are to make reversible decisions faster, use MVPs and expected value to get unstuck, give observation-grounded feedback, and deliberately build a power map and clear communication because excellence without visibility does not get you promoted.",
+  "ideas": [
+    {
+      "idea": "Design thinking means designing around what the user actually needs rather than what you think the problem is, because most products fail from solving the wrong problem, not from being badly built.",
+      "topic": "Entrepreneurship & startups",
+      "detail": "Invented at Stanford's d.school and popularized by IDEO (which designed the original Apple mouse), the five steps are empathize, define, ideate, prototype and test, watching what users do rather than what they say. At Snapchat, Jean's AR beauty-shopping team spent an afternoon in a beauty store on Abbot Kinney observing and interviewing shoppers before building anything.",
+      "who": "hosts",
+      "names_or_cases": ["Stanford d.school", "IDEO", "Apple", "Snapchat", "Google", "Gates Foundation"]
+    },
+    {
+      "idea": "Test and learn is a mindset: stop waiting to be perfect, ship a scrappy MVP, and let customer response rewrite your business plan, which is usually a fantasy anyway.",
+      "topic": "Entrepreneurship & startups",
+      "detail": "Taught in Stanford's Startup Garage and in The Lean Startup. Tiger Sisters itself pivoted from a reality-TV pitch deck to a podcast, and the first episodes were shot with one camera at a kitchen table with bad mics; waiting for a perfect set would have delayed learning what the audience wanted.",
+      "who": "hosts",
+      "names_or_cases": ["Stanford Startup Garage", "The Lean Startup", "Tiger Sisters"]
+    },
+    {
+      "idea": "The best MVPs often involve building zero technology and doing the work manually to prove demand first.",
+      "topic": "Entrepreneurship & startups",
+      "detail": "Dropbox released a three-minute marketing video and got 75,000 signups in one day before building the product; Zappos bought shoes from local stores and shipped them by hand; ClassPass matched people to classes with a spreadsheet; DoorDash began as Palo Alto Delivery with the co-founders taking phone orders and delivering food themselves.",
+      "who": "hosts",
+      "names_or_cases": ["Dropbox", "Zappos", "ClassPass", "DoorDash", "Tony Xu", "Palo Alto Delivery"]
+    },
+    {
+      "idea": "The clarity you are looking for is probably hiding behind one very simple test, and if you wait for the perfect moment someone scrappier will beat you to it.",
+      "topic": "Mindset, confidence & psychology",
+      "detail": "The mini exercise is to take a problem you have not tackled and test it today with the simplest possible tool: a Google Form, an Instagram post or a text message.",
+      "who": "hosts",
+      "names_or_cases": []
+    },
+    {
+      "idea": "Use the Bezos type 1 versus type 2 framework: think slowly and strategically about irreversible decisions, but move fast and experiment on reversible ones, because treating every decision as irreversible slows you down and kills innovation.",
+      "topic": "Life design, goals & reinvention",
+      "detail": "Hiring your first engineer is type 1; changing a button color is type 2. At Zynga on FarmVille, Jean's team A/B tested every element on screen, down to sharp versus rounded button corners, because those were reversible. Startups die not from bad decisions but from slow ones.",
+      "who": "hosts",
+      "names_or_cases": ["Jeff Bezos", "Amazon", "Zynga", "FarmVille"]
+    },
+    {
+      "idea": "Most decisions people think are irreversible are actually reversible at a minor cost, so make your decisions faster.",
+      "topic": "Life design, goals & reinvention",
+      "detail": "Cherie's classmate got into both Harvard and Stanford, enrolled at HBS, declared in the first week that he had made a grave error, unenrolled, reapplied and ended up in her Stanford class. Dating is reversible; marriage is harder to reverse because of legal entanglements.",
+      "who": "hosts",
+      "names_or_cases": ["Harvard Business School", "Stanford GSB"]
+    },
+    {
+      "idea": "Look for ways to convert seemingly irreversible type 1 decisions into reversible type 2 decisions, and take things off the binary.",
+      "topic": "Career strategy & promotions",
+      "detail": "An internship is a built-in mechanism that turns accepting a job or industry into a reversible trial. Cherie's late professor Joel Peterson taught 'take things off the binary': when something seems black and white, find the gray option in between.",
+      "who": "hosts",
+      "names_or_cases": ["Joel Peterson"]
+    },
+    {
+      "idea": "Jobs to be done: people do not buy products, they hire them to do a job in their life, and that job is usually emotional rather than purely functional.",
+      "topic": "Entrepreneurship & startups",
+      "detail": "Created by Clay Christensen at HBS. At LinkedIn, asking whether people update their profile for visibility, validation or to get hired determines what to build. Customers buy Sisters Matcha partly for the story of the small family farm in Wazuka, Japan, and the community, not just the quality. The exercise is to ask honestly what people hire you for at work: competence, confidence, calm, or personality.",
+      "who": "hosts",
+      "names_or_cases": ["Clay Christensen", "LinkedIn", "Sisters Matcha", "Wazuka, Japan"]
+    },
+    {
+      "idea": "Use decision trees and expected value to make big life decisions: list options, sketch outcomes, assign a probability and payoff to each, and multiply.",
+      "topic": "Life design, goals & reinvention",
+      "detail": "Jean modeled a job offer that looked amazing on paper as best, worst and most likely cases and found it was a mediocre offer, while entrepreneurship looks risky but has huge option value and upside when mapped out. Netflix uses this to greenlight shows, VC firms to pick investments, and Amazon for pricing; gut instinct is cute but billion-dollar companies use math.",
+      "who": "hosts",
+      "names_or_cases": ["Netflix", "Amazon"]
+    },
+    {
+      "idea": "Staying stuck is worse than being wrong; a decision framework lets you be wrong safely, so adopt 'I may be wrong, but I'm not confused.'",
+      "topic": "Mindset, confidence & psychology",
+      "detail": "People delay decisions out of fear of looking wrong. Cherie quotes LinkedIn chief product officer Tomer Cohen's saying, which she would adapt to 'I may be wrong but I have clarity.' The exercise is to map two or three outcomes for a decision living rent-free in your brain; it does not have to be perfect, just on paper.",
+      "who": "hosts",
+      "names_or_cases": ["Tomer Cohen", "LinkedIn"]
+    },
+    {
+      "idea": "Run your personal life on OKRs: set an objective and two or three measurable key results per quarter, and share them with your team for support and social accountability.",
+      "topic": "Life design, goals & reinvention",
+      "detail": "OKRs were invented by Andy Grove at Intel and popularized by Google. On Cherie's LinkedIn team, people shared personal OKRs like going to the gym three days a week or learning piano, and teammates would tell someone to skip a late task to make their gym class. Example: objective 'improve my mental health' with KRs of three therapy sessions, journaling twice a week and one full rest day.",
+      "who": "hosts",
+      "names_or_cases": ["Andy Grove", "Intel", "Google", "LinkedIn"]
+    },
+    {
+      "idea": "OKRs act as a guardrail: when everything feels urgent, written objectives let you decline requests that do not ladder up to your goals, but it is disastrous when your OKRs do not ladder up to your org's.",
+      "topic": "Career strategy & promotions",
+      "detail": "You can say 'I would love to, but I have to focus on XYZ first because that's my stated OKR,' pointing to a goal everyone has visibility into. Much of the value is in the exercise of figuring out which key results actually ladder up to the objective.",
+      "who": "hosts",
+      "names_or_cases": []
+    },
+    {
+      "idea": "Do a 'life accounting': list your personal assets and liabilities, and write your family history, because you need to know where you are starting from to figure out where you want to go.",
+      "topic": "Life design, goals & reinvention",
+      "detail": "From Joel Peterson's sold-out Stanford class Engineering a Remarkable Life, which applied business principles to personal life. Assets can be financial, physical or personality traits; liabilities include student debt or being a caretaker for a family member. Class one was a one-page write-up of your roots.",
+      "who": "hosts",
+      "names_or_cases": ["Joel Peterson", "Engineering a Remarkable Life", "Stanford GSB"]
+    },
+    {
+      "idea": "The 'ten lives' exercise: when unsure about a big choice, ask in how many of ten imagined lives you would make it, which converts a yes/no into a probability.",
+      "topic": "Life design, goals & reinvention",
+      "detail": "Cherie learned it from her classmate Peter; for having children she would choose it in seven of ten lives (70% sure), and living abroad in two of ten. Jean reframes it as chapters of one timeline: her eight-year relationship with her ex-fiance was the right amount of time for the state she was in, and a new state calls for a different person.",
+      "who": "hosts",
+      "names_or_cases": ["A Wrinkle in Time", "Interstellar"]
+    },
+    {
+      "idea": "The most important things learned at business school were the invisible soft skills for building trust and influence, not the hard frameworks.",
+      "topic": "MBA & elite education",
+      "detail": "Cherie spent over $250,000 on her Stanford MBA; you can hit deadlines, be a team player and over-deliver and still not be seen as a leader without these mental operating systems.",
+      "who": "hosts",
+      "names_or_cases": ["Stanford GSB"]
+    },
+    {
+      "idea": "Give feedback with the SBI model (situation, behavior, impact), grounded in specific observation no one can contest, and say 'I felt' rather than 'you made me feel'.",
+      "topic": "Networking, communication & influence",
+      "detail": "Taught in Stanford's Touchy Feely (Interpersonal Dynamics) course, where 12 classmates sit in a circle for three hours with no curriculum and practice on the conflicts that arise; it is also part of Netflix's culture deck, Microsoft trains new managers on it, and Adobe used it to move away from annual reviews. Feedback fails when people jump straight to impact and skip situation and behavior.",
+      "who": "hosts",
+      "names_or_cases": ["Touchy Feely", "Interpersonal Dynamics", "Netflix", "Microsoft", "Adobe", "SBI framework"]
+    },
+    {
+      "idea": "Never assume another person's intent ('crossing the net'); speak only to observed behavior and its impact on you, which defuses defensiveness.",
+      "topic": "Networking, communication & influence",
+      "detail": "Cherie used this with a guy she was dating and he thanked her for telling him. Workplace example: 'In yesterday's client pitch you interrupted me while I was presenting, and I felt undermined and less confident in front of the client.' She warns results may vary with immigrant parents.",
+      "who": "hosts",
+      "names_or_cases": []
+    },
+    {
+      "idea": "Flip SBI around to ask for feedback: don't just wait for feedback, design for it.",
+      "topic": "Career strategy & promotions",
+      "detail": "Example: 'When I shared the product plan in the meeting, what stood out to you about how I presented it, and what was the impact on the team's decision making?' That is how you grow faster.",
+      "who": "hosts",
+      "names_or_cases": []
+    },
+    {
+      "idea": "Success is not about merit; it is about influence, visibility and alliances, and if you don't understand power you will lose to people who do.",
+      "topic": "Power, status & office politics",
+      "detail": "From Jeffrey Pfeffer's Stanford class Paths to Power (and his book). Power is not title; it is who controls resources, influences decisions and pulls strings. Jean says she benefited from these dynamics unknowingly for the first half of her career and only started to play a part in the last three years as she got senior enough to see how the sausage is made.",
+      "who": "hosts",
+      "names_or_cases": ["Jeffrey Pfeffer", "Paths to Power"]
+    },
+    {
+      "idea": "Accumulate influence across sectors rather than titles, because power is not about being right but about having enough support and alliances to survive being right.",
+      "topic": "Power, status & office politics",
+      "detail": "Sheryl Sandberg built a power map as chief of staff at Treasury, then as a cross-functional biz-ops leader reporting to Eric Schmidt at Google, so when she met Mark Zuckerberg at a 2007 Christmas party her web of influence was her most valuable asset. Carol Bartz, a highly capable CEO brought in to turn around Yahoo, focused only on tactics, never built allies, and was fired by phone call.",
+      "who": "hosts",
+      "names_or_cases": ["Sheryl Sandberg", "Eric Schmidt", "Google", "Mark Zuckerberg", "Facebook", "Carol Bartz", "Yahoo"]
+    },
+    {
+      "idea": "Being excellent without visibility is a silent career killer, and you cannot ignore power dynamics even if, and especially if, you are brilliant.",
+      "topic": "Power, status & office politics",
+      "detail": "These dynamics are dangerous because they are invisible and the people who understand them will not tell you, since they do not want to give away their edge. Exercise: map five people who will influence your next raise, role or deal, classify them as advocate, neutral or unaware, and connect with one this week.",
+      "who": "hosts",
+      "names_or_cases": []
+    },
+    {
+      "idea": "Make power mapping less transactional by figuring out how you can help the people on your map; the first step of networking is having something to offer.",
+      "topic": "Networking, communication & influence",
+      "detail": "In one morning Cherie connected a friend leaving big tech to her classmate Alex for solopreneur advice, and in turn introduced Alex, who was fundraising, to a partner at the VC firm she used to work at. People who hoard connections play it close to the chest; putting pieces together with an abundance mindset makes more things blossom, and you want to be thought of as 'an Alex' who is willing to help.",
+      "who": "hosts",
+      "names_or_cases": []
+    },
+    {
+      "idea": "Your ideas are only as powerful as your ability to communicate them, so use SCQA (situation, complication, question, answer) to get to the point in 30 seconds because being clear is more powerful than being smart.",
+      "topic": "Networking, communication & influence",
+      "detail": "From Barbara Minto, taught by Matt Abrahams, who coached Cherie for her TED talk. Example pitch: 'CAC is rising faster than LTV; if we don't adjust we'll overspend; we shift 40% of spend to UGC creators.' Amazon uses SCQA in the six-page memo and mock press release written before every product launch. Test: if a friend can repeat your idea back in one sentence, you did it right.",
+      "who": "hosts",
+      "names_or_cases": ["Barbara Minto", "Matt Abrahams", "SCQA", "Amazon", "Think Fast Talk Smart"]
+    },
+    {
+      "idea": "Being too smart can hold you back if you cannot convey ideas simply; practice simplifying your language.",
+      "topic": "Networking, communication & influence",
+      "detail": "The hosts point to Donald Trump's communication ('this bad, very bad', 'big beautiful bill') as an example of why dumbed-down words land. In Glenn Kramon's Winning Writing class at Stanford, each session opened with ten terms to simplify.",
+      "who": "hosts",
+      "names_or_cases": ["Donald Trump", "Glenn Kramon", "Winning Writing"]
+    }
+  ]
+}

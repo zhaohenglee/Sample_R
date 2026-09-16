@@ -1,0 +1,211 @@
+{
+ "video_id": "109Xypx-hM4",
+ "date": "2025-03-03",
+ "title": "Overthinking will ruin your future (advice from 1st Snapchat Investor, Jeremy Liew)",
+ "guest": "Jeremy Liew, Partner at Lightspeed Venture Partners (first investor in Snapchat; also Affirm, The Honest Company, blockchain.com)",
+ "summary": "Jeremy Liew answers rapid-fire questions on career advice, failure, and hot takes: go directly at the thing you want, or slipstream behind people you admire; he shares the story of being fired at IAC for disrespecting a new boss out of a lack of self-awareness; and he floats a strongly-held-weakly hot take that AI companies should be nationalized to internalize job-loss externalities and concentrate talent. The hosts then debrief, debating whether 'go directly' needs caveats, praising his ownership of a character failure, and endorsing 'strong opinions loosely held' and 'disagree and commit.'",
+ "ideas": [
+  {
+   "idea": "If you know what you want to do, go directly to that thing rather than collecting prerequisite experiences first; the more experience you have doing the thing, the better you get at it.",
+   "topic": "Career strategy & promotions",
+   "detail": "He gives the example of aspiring VCs who think they must first get startup operating experience; he says no, just go be an investor. The hosts add the caveat that some people need to build a financial safety net or skills for 2-4 years first, but agree that 'I have to do these three things first' often becomes complacency.",
+   "who": "Jeremy Liew",
+   "names_or_cases": [
+    "Lightspeed Venture Partners"
+   ]
+  },
+  {
+   "idea": "If you don't know what you want to do, find people you greatly admire and blindly follow them wherever they go, slipstreaming behind them into new organizations where they lack trusted people.",
+   "topic": "Career strategy & promotions",
+   "detail": "Truly good people make well-informed choices about where to go next, and they arrive somewhere needing people they trust personally and professionally. Jeremy followed IAC's president to AOL in 2002 and became his chief of staff and SVP of corporate development.",
+   "who": "Jeremy Liew",
+   "names_or_cases": [
+    "IAC",
+    "AOL"
+   ]
+  },
+  {
+   "idea": "Following a leader is hierarchical and only requires that they trust you, which jump-starts a junior career; cofounding is peer-based and trust must run both ways.",
+   "topic": "Entrepreneurship & startups",
+   "detail": "Jeremy draws this distinction when Cherie compares slipstreaming to how founders pick cofounders from people they've worked with before.",
+   "who": "Jeremy Liew",
+   "names_or_cases": []
+  },
+  {
+   "idea": "Seeing what 'good' truly looks like can tell you to change fields: meeting a 14-year-old Terry Tao on the Australian Math Olympiad team convinced Jeremy to leave mathematics for business, where the bar was lower.",
+   "topic": "Guest life story & lessons",
+   "detail": "He had assumed he'd become a math professor, but realizing how far he was from the standard of excellence, he finished his degree and went to McKinsey, then a decade of Web 1.0 companies (Netscape, AOL, Citysearch, IAC) before joining Lightspeed in 2006.",
+   "who": "Jeremy Liew",
+   "names_or_cases": [
+    "Terry Tao",
+    "International Math Olympiad",
+    "McKinsey",
+    "Netscape",
+    "AOL",
+    "Citysearch",
+    "IAC"
+   ]
+  },
+  {
+   "idea": "The failure he is most grateful for was getting fired from IAC for disrespecting a new boss placed between him and the CFO, a failure of self-awareness about how much he lacked in presence, judgement and breadth of experience.",
+   "topic": "Guest life story & lessons",
+   "detail": "As a 'snotty 28-29 year old' VP of Strategic Planning under Dara Khosrowshahi (later CEO of Expedia and Uber), he thought running spreadsheets was the job when it was a tiny sliver; he did not give Dan Marriott the respect he deserved and the role became untenable. It's hard to close the gap between where you are and where you need to be until you can see it.",
+   "who": "Jeremy Liew",
+   "names_or_cases": [
+    "IAC / USA Networks",
+    "Dara Khosrowshahi",
+    "Dan Marriott",
+    "Expedia",
+    "Uber"
+   ]
+  },
+  {
+   "idea": "Strategic planning at IAC meant deciding which company to buy next, a transformative set of deal experiences.",
+   "topic": "Finance industry: VC, PE, banking, hedge funds",
+   "detail": "During his time they bought Expedia, Hotels.com, Match, Citysearch and Ticketmaster and sold USA Networks, Bravo, Sci-Fi channel and the TV/movie studio.",
+   "who": "Jeremy Liew",
+   "names_or_cases": [
+    "Expedia",
+    "Hotels.com",
+    "Match",
+    "Citysearch",
+    "Ticketmaster",
+    "USA Networks",
+    "Bravo"
+   ]
+  },
+  {
+   "idea": "Hot take (held strongly but weakly): there is a good argument for nationalizing AI companies, because foundation model companies answer only to shareholders and the externalities of mass white-collar job loss fall on society and government.",
+   "topic": "AI & technology",
+   "detail": "A company is happy to replace a $150,000 salary with a $20,000 AI, but the cost of job loss isn't borne by shareholders; nationalization would internalize that externality. He expects meaningful impact within roughly a four-year horizon.",
+   "who": "Jeremy Liew",
+   "names_or_cases": [
+    "OpenAI",
+    "Microsoft"
+   ]
+  },
+  {
+   "idea": "AI will dramatically raise senior white-collar productivity and therefore eliminate entry-level roles, because junior staff were the historical mechanism for scaling a senior person's output.",
+   "topic": "AI & technology",
+   "detail": "Any job whose input and output are digital (analysts, L1 developers, law and accounting firms) is exposed, unlike fixing a car or doing surgery; this will propagate further as autonomous agents improve.",
+   "who": "Jeremy Liew",
+   "names_or_cases": []
+  },
+  {
+   "idea": "China is 6 months to 2.5 years behind the US in AI but gaining faster due to more power, more data and greater talent density; US talent is dispersing across 10-15 foundation model companies and consolidating it could re-accelerate innovation.",
+   "topic": "AI & technology",
+   "detail": "Talent density drives innovation; people spinning out of OpenAI to start niche companies spreads it thinner. The hosts note the collective mindset of Eastern countries versus US individualism.",
+   "who": "Jeremy Liew",
+   "names_or_cases": [
+    "OpenAI",
+    "China"
+   ]
+  },
+  {
+   "idea": "The economics of frontier models don't add up with many duplicative players: next-generation models cost about $1B to train, then $10B, then $100B, and five companies at $100B each is $500B against a $600B annual US software market.",
+   "topic": "AI & technology",
+   "detail": "Foundation models are tightly clustered in performance with the most recent release leapfrogging, so the spend is largely replicated work; consolidating from 15 to 5 to 2 or 1 would remove duplication and align incentives. Historically training cycles were 18 months.",
+   "who": "Jeremy Liew",
+   "names_or_cases": []
+  },
+  {
+   "idea": "What makes sense from an investor's perspective and what makes sense at the level of a country can give different answers when you zoom out.",
+   "topic": "AI & technology",
+   "detail": "He frames the nationalization take explicitly as speaking for himself, not Lightspeed, and as a thought experiment.",
+   "who": "Jeremy Liew",
+   "names_or_cases": [
+    "Lightspeed Venture Partners"
+   ]
+  },
+  {
+   "idea": "A family gap year and safari in Tanzania and Kenya is a strong recommendation: it reminds you humans are 'just bags of meat' who got to the top only through our brains.",
+   "topic": "Life design, goals & reinvention",
+   "detail": "Jeremy stepped back from new investments at Lightspeed at the end of 2021 and traveled internationally with his family from summer 2022 to summer 2023, spending a month each in Tanzania and Kenya. He skipped Kilimanjaro because 'that sounds like a lot of work.'",
+   "who": "Jeremy Liew",
+   "names_or_cases": [
+    "Tanzania",
+    "Kenya"
+   ]
+  },
+  {
+   "idea": "The value of a cross-industry conference is perspectives orthogonal to your day-to-day, unlike tech conferences that are purely transactional networking.",
+   "topic": "Networking, communication & influence",
+   "detail": "He learned that the next administration's attention will go to the urgent expiring Trump-era tax cuts in 2025 rather than AI, which was obvious to political people but new to him. The hosts add that different worlds run different algorithms and the cross-learning is where the best ideas come from.",
+   "who": "Jeremy Liew",
+   "names_or_cases": []
+  },
+  {
+   "idea": "'The two most dangerous words anyone can say are not now': people delay their real goal with excuses that aren't real blockers, so first clock how often you say it.",
+   "topic": "Life design, goals & reinvention",
+   "detail": "Cherie cites Stanford GSB lecturer Graham Weaver ('not now, I'll wait for the promotion / until the kids leave'). Jean adds the PM maxim that you can't improve what you don't measure.",
+   "who": "hosts",
+   "names_or_cases": [
+    "Graham Weaver",
+    "Stanford GSB"
+   ]
+  },
+  {
+   "idea": "Leaders who own a failure of character rather than spinning it earn more respect; Jeremy's honest 'I was disrespectful and got fired' is rare and made him more credible.",
+   "topic": "Leadership & management",
+   "detail": "Most people, even when prompted, blame the business or don't frame failures as personal; being fired was also part of his origin story that led to the AOL role.",
+   "who": "hosts",
+   "names_or_cases": []
+  },
+  {
+   "idea": "Your greatest weakness is often your greatest strength in a different context: the self-confidence that got Jeremy fired is likely what let him seize the big next opportunities.",
+   "topic": "Mindset, confidence & psychology",
+   "detail": "Cherie's example: she reads rooms extremely well (even on Zoom at LinkedIn) but historically over-analyzed people's feelings and softened her own expression to avoid hurting anyone, which she is now unlearning post-Stanford 'Touchy Feely'.",
+   "who": "hosts",
+   "names_or_cases": [
+    "LinkedIn",
+    "Stanford Touchy Feely (Interpersonal Dynamics)"
+   ]
+  },
+  {
+   "idea": "Tech, finance and consulting are small worlds: the people you work for and with all go on to run things, so relationships compound.",
+   "topic": "Networking, communication & influence",
+   "detail": "Jeremy's CFO boss Dara became CEO of Uber and the IAC president became CEO of AOL; the hosts say this is especially true at FAANG companies and bulge bracket banks.",
+   "who": "hosts",
+   "names_or_cases": [
+    "Dara Khosrowshahi",
+    "Uber",
+    "AOL",
+    "IAC"
+   ]
+  },
+  {
+   "idea": "Being a childhood 'rule exceeder' out of fear of authority doesn't preclude eventually making your own rules; seeing someone a few steps ahead who started the same way shows what could be for you.",
+   "topic": "Mindset, confidence & psychology",
+   "detail": "Jean strongly identified with Jeremy's 'rule exceeder' phrase and his statement that at some point you get to make your own rules and follow your interests. Cherie was 'shaken to her core' by a friend casually turning left on a red light with no cars around.",
+   "who": "hosts",
+   "names_or_cases": []
+  },
+  {
+   "idea": "'Strong opinions, loosely held' is the hallmark of the best leaders: real conviction combined with willingness to change your mind when new inputs arrive.",
+   "topic": "Leadership & management",
+   "detail": "Jeremy said he holds the nationalization view 'strongly but weakly' because he's still learning the AI ecosystem's fundamental structures. Cherie saw this on her LinkedIn Learning team where passionate debates ended with people changing their minds.",
+   "who": "hosts",
+   "names_or_cases": [
+    "LinkedIn"
+   ]
+  },
+  {
+   "idea": "Disagree and commit: you can hold an opposing view but must genuinely commit to the chosen path, and the worst colleagues are those who disagree and then commit begrudgingly with no plan forward.",
+   "topic": "Leadership & management",
+   "detail": "A big cultural tenet at LinkedIn. Related: taking an action and being wrong beats taking no action, and not making a choice is itself a choice.",
+   "who": "hosts",
+   "names_or_cases": [
+    "LinkedIn"
+   ]
+  },
+  {
+   "idea": "A deeper layer of intelligence is breaking a complicated idea into a McKinsey-style set of numbers anyone can follow, like the best professors versus brilliant ones no one can understand.",
+   "topic": "Networking, communication & influence",
+   "detail": "Jeremy backed his hot take with the $1B/$10B/$100B training cost progression, 18-month cycles, a $600B software market and 5 foundation model companies; the hosts recommend he become a professor as his next act.",
+   "who": "hosts",
+   "names_or_cases": [
+    "McKinsey"
+   ]
+  }
+ ]
+}

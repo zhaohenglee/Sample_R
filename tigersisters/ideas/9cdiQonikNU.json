@@ -1,0 +1,149 @@
+{
+  "video_id": "9cdiQonikNU",
+  "date": "2026-04-01",
+  "title": "How to Sound Smart About Money in Any Room",
+  "guest": "",
+  "summary": "A compilation of the sisters' Venture Capital 101 and Private Equity 101 episodes, designed to give listeners the vocabulary to hold their own in conversations about money. They explain how VC works (stages, team/market/traction, signaling, the dark side of investor incentives) and how PE works (2-and-20, LBOs, why PE gets a bad reputation, and what an acquisition means for employees and customers), then apply VC frameworks like portfolio thinking, conviction and optionality to life decisions.",
+  "ideas": [
+    {
+      "idea": "Money language is social currency; learning a few key VC and PE phrases lets you feel calm and confident in any room without an MBA.",
+      "topic": "Networking, communication & influence",
+      "detail": "The episode is framed as a toolkit for work dinners, networking events and founder circles where terms like 'raised a Series B' come up; once you have the vocabulary you can ask follow-ups like who led the round and what the money will fund. 'Information is power.'",
+      "who": "hosts",
+      "names_or_cases": []
+    },
+    {
+      "idea": "Venture capital is high-risk, high-reward equity investing: VCs buy ownership in startups rather than lending, winning big on hits and losing everything on failures.",
+      "topic": "Finance industry: VC, PE, banking, hedge funds",
+      "detail": "Funding stages run pre-seed, seed, Series A, B, C, D and beyond into growth equity; Series A is typically $3-15 million. Airbnb raised a roughly $600K seed in 2009 and IPO'd 11 years later at around $100 billion.",
+      "who": "hosts",
+      "names_or_cases": ["Airbnb", "Crunchbase", "PitchBook"]
+    },
+    {
+      "idea": "VC firms specialize by stage and by industry, and later-stage investing requires deeper industry expertise.",
+      "topic": "Finance industry: VC, PE, banking, hedge funds",
+      "detail": "Series A and Series E companies are evaluated with very different tactics. AI used to be an investable vertical 5-10 years ago but is now a horizontal since every company is AI-enabled; B2B SaaS (e.g. Salesforce) is a favorite category because software is highly scalable.",
+      "who": "hosts",
+      "names_or_cases": ["Salesforce"]
+    },
+    {
+      "idea": "VCs evaluate startups on three things, team, market and traction, and team matters most at the earliest stages.",
+      "topic": "Entrepreneurship & startups",
+      "detail": "Pre-seed and seed companies often have no revenue, so investors bet on founders' credentials (ex-Meta or Google engineers signal training). Lacking a technical co-founder, or founding with a romantic partner, are seen as risks, though Canva was founded by a couple.",
+      "who": "hosts",
+      "names_or_cases": ["Canva", "Meta", "Google"]
+    },
+    {
+      "idea": "TAM must be defensible; claiming a $10 trillion market for 'all men and women' works against a founder.",
+      "topic": "Entrepreneurship & startups",
+      "detail": "Investors want multi-billion-dollar outcomes, but what matters is how much of the total addressable market will actually convert. Cherie uses Tiger Sisters as an example of a narrower but deeper TAM versus comedians' broad but shallow one.",
+      "who": "hosts",
+      "names_or_cases": ["Tiger Sisters"]
+    },
+    {
+      "idea": "VC is a power game built on signaling, social proof, access and warm intros, not just money.",
+      "topic": "Finance industry: VC, PE, banking, hedge funds",
+      "detail": "Getting Sequoia, a16z or Lightspeed on your cap table signals to other funds to pile in; getting into Y Combinator is itself a signal, and Demo Day gives exposure to every major VC. As on Shark Tank, founders want specific investors for their expertise, not just the check.",
+      "who": "hosts",
+      "names_or_cases": ["Sequoia", "Andreessen Horowitz", "Lightspeed", "Y Combinator", "Shark Tank"]
+    },
+    {
+      "idea": "Map your social capital: know who in your network trusts you enough to vouch for you and make introductions.",
+      "topic": "Networking, communication & influence",
+      "detail": "This exercise comes from Stanford GSB's 'Paths to Power' class and mirrors how warm intros work in venture capital.",
+      "who": "hosts",
+      "names_or_cases": ["Paths to Power (Stanford GSB)"]
+    },
+    {
+      "idea": "Do not take VC money unless you really have to; taking investment too early is one of the most common founder regrets.",
+      "topic": "Entrepreneurship & startups",
+      "detail": "Founders visiting Stanford's Managing Growing Enterprises class repeatedly cite taking funding too early or at all as a top mistake because it adds pressure and complicates hiring and operations. 'You have an overlord at that point.'",
+      "who": "hosts",
+      "names_or_cases": ["Managing Growing Enterprises (Stanford GSB)", "WeWork", "Quibi"]
+    },
+    {
+      "idea": "Understand VC incentives: funds need 100x-1000x outliers from a portfolio of dozens or hundreds, so a 3x or 5x outcome that is great for you is a zero for them.",
+      "topic": "Entrepreneurship & startups",
+      "detail": "This is why investors push grow-at-all-costs strategies and their advice may not match what they'd do in your exact shoes; the fund is optimizing its own bottom line. Before any opportunity, ask who is involved and what they are optimizing for.",
+      "who": "hosts",
+      "names_or_cases": []
+    },
+    {
+      "idea": "Who you take on as an investor matters as much as the money, and founders vet investors' reputations behind the scenes.",
+      "topic": "Entrepreneurship & startups",
+      "detail": "Some VCs pitch themselves as hands-off 'smart capital'; YC has an internal Yelp-style review system where founders warn each other about investors who, for example, ghosted after issuing a term sheet.",
+      "who": "hosts",
+      "names_or_cases": ["Y Combinator"]
+    },
+    {
+      "idea": "Apply VC thinking to your life: take a portfolio approach and don't put all your eggs in one basket, including in dating.",
+      "topic": "Life design, goals & reinvention",
+      "detail": "Just as a VC wouldn't put the whole fund in one company, people keep 'rosters' to capture upside without losing it all on one bet.",
+      "who": "hosts",
+      "names_or_cases": []
+    },
+    {
+      "idea": "Choose conviction over consensus and live a contrarian life based on something you believe that others don't.",
+      "topic": "Mindset, confidence & psychology",
+      "detail": "Both sisters left hyper-successful corporate tracks to be creators; Jean adds that being unmarried and childless by choice is her contrarian bet.",
+      "who": "hosts",
+      "names_or_cases": []
+    },
+    {
+      "idea": "Bake optionality into your life the way VCs bake pro-rata rights into contracts: never have only one job offer or one school application.",
+      "topic": "Career strategy & promotions",
+      "detail": "Multiple options let you make an informed choice and have a BATNA. Apply to reach, target and safety schools; Cherie got into both HBS and Stanford GSB and turned down Harvard (while noting Goldman rejected her twice).",
+      "who": "hosts",
+      "names_or_cases": ["Harvard Business School", "Stanford GSB", "Goldman Sachs"]
+    },
+    {
+      "idea": "Private equity is defined by private ownership, majority control and a turnaround mindset: buy, improve, sell for profit.",
+      "topic": "Finance industry: VC, PE, banking, hedge funds",
+      "detail": "Unlike VC's early risky bets, PE targets larger, bloated 'fixer-upper' companies, like flipping a house. Burger King, Neiman Marcus, Dollar General, Dunkin' and Dell have all been PE-owned.",
+      "who": "hosts",
+      "names_or_cases": ["Burger King", "Neiman Marcus", "Dollar General", "Dunkin' Donuts", "Dell"]
+    },
+    {
+      "idea": "PE firms make money on '2 and 20': a 2% management fee plus 20% carried interest on successful deals, funded by LPs, the firm's own skin in the game, and debt.",
+      "topic": "Finance industry: VC, PE, banking, hedge funds",
+      "detail": "A $1 billion fund earns $20 million a year in fees alone; carry is where the real money is. LPs are endowments, pensions, high-net-worth individuals and other funds, who like seeing the GP invest its own money.",
+      "who": "hosts",
+      "names_or_cases": []
+    },
+    {
+      "idea": "A leveraged buyout uses borrowed money to buy a company and the company's own profits to repay the debt, multiplying returns on a small equity check.",
+      "topic": "Finance industry: VC, PE, banking, hedge funds",
+      "detail": "Buy a $1 million house with $100K down and $900K debt, improve it and earn $100K, and you've made 2x on your own money, like rent paying off a mortgage. But Toys R Us's $6.6 billion 2005 LBO carried $5.2 billion of debt, interest ate the cash needed to compete with Amazon, and it went bankrupt by 2017 with 30,000 jobs lost.",
+      "who": "hosts",
+      "names_or_cases": ["Toys R Us", "Amazon"]
+    },
+    {
+      "idea": "PE gets a bad reputation for four reasons: layoffs, short-termism, asset stripping and sensitivity in industries like healthcare and education.",
+      "topic": "Finance industry: VC, PE, banking, hedge funds",
+      "detail": "Cutting headcount is the strongest cost lever; hospital layoffs carry huge headline risk. Vice Media raised $1.6 billion including from TPG and went bankrupt in 2023; J.Crew and Payless closed hundreds of stores.",
+      "who": "hosts",
+      "names_or_cases": ["Vice Media", "TPG", "J.Crew", "Payless"]
+    },
+    {
+      "idea": "Most PE exits are sales to another PE firm rather than IPOs; the goal is to hit a profit level and pass the company on.",
+      "topic": "Finance industry: VC, PE, banking, hedge funds",
+      "detail": "Cherie learned this in a Stanford private equity class; different fund sizes buy different-sized companies and hand them up the chain.",
+      "who": "hosts",
+      "names_or_cases": ["Stanford GSB"]
+    },
+    {
+      "idea": "Not all PE is bad: Blackstone bought Hilton, expanded it globally, re-IPO'd it and made $14 billion without mass layoffs.",
+      "topic": "Finance industry: VC, PE, banking, hedge funds",
+      "detail": "Outcomes depend on the firm's size, industry and turnaround strategy; many firms can improve operations and customer experience by cutting bloat.",
+      "who": "hosts",
+      "names_or_cases": ["Blackstone", "Hilton"]
+    },
+    {
+      "idea": "If PE buys your employer, expect cost cutting, new outside leadership from the firm's operators, and restructuring; as a customer expect higher prices and leaner offerings.",
+      "topic": "Career strategy & promotions",
+      "detail": "When Zimmermann was acquired by PE, Jean and her friends rushed to buy current-season pieces expecting quality to drop and prices to rise as margins were squeezed.",
+      "who": "hosts",
+      "names_or_cases": ["Zimmermann"]
+    }
+  ]
+}

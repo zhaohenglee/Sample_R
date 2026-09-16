@@ -1,0 +1,170 @@
+{
+  "video_id": "x9IXVlikKpk",
+  "date": "2026-06-22",
+  "title": "Everything I Learned at Harvard Business School",
+  "guest": "",
+  "summary": "A re-release of the sisters' two-part HBS playbook with fresh commentary one year later. Part one races through strategy (Porter's five forces, cost leadership vs differentiation), marketing (STP), product development (customer problem identification and A/B testing) and five finance terms, using Starbucks, Warby Parker and Netflix as cases; part two covers four leadership styles (servant, transformational, transactional, laissez-faire) and how to build and maintain a network. Updated takes cover Luckin and Blank Street challenging Starbucks, Tim Cook handing Apple to John Ternus, and a classmate's Groons exit.",
+  "ideas": [
+    {
+      "idea": "Strategy at HBS is a roadmap for where to compete and how to win, and Porter's five forces is the classic tool for evaluating any company's landscape.",
+      "topic": "MBA & elite education",
+      "detail": "The five forces are threat of new entrants, bargaining power of suppliers, bargaining power of buyers, threat of substitutes and rivalry among existing competitors; Porter's framework was invented at HBS. They grade Starbucks on each: low threat of new entrants due to brand, supply chain and real estate scale; strong supplier power like Walmart and Costco; loyalty programs and the prepaid app reduce buyer power; expansion into pods and beans keeps substitute risk moderate.",
+      "who": "hosts",
+      "names_or_cases": ["Michael Porter", "Porter's five forces", "Starbucks", "Walmart", "Costco", "Dunkin Donuts"]
+    },
+    {
+      "idea": "Companies must choose between cost leadership and differentiation; you cannot be the cheapest, the best and the highest quality all at the same time.",
+      "topic": "Entrepreneurship & startups",
+      "detail": "Walmart is the cost leader ('everyday savings'); Starbucks chose differentiation via premium pricing, the third space, customer service and small touches like writing names on cups. Sisters Matcha went the differentiation route because its Okumidori cultivar makes up only 2% of Japanese matcha and supplier costs make a cost-leadership brand impossible and off-brand for them.",
+      "who": "hosts",
+      "names_or_cases": ["Porter's generic strategies", "Walmart", "Starbucks", "Sisters Matcha"]
+    },
+    {
+      "idea": "STP (segmenting, targeting, positioning) is the backbone of any marketing campaign: pick one segment and build the whole brand around its hopes, frustrations and values.",
+      "topic": "Entrepreneurship & startups",
+      "detail": "Warby Parker broke Luxottica's near-90% grip on eyewear by segmenting buyers into luxury, cost-conscious and millennial groups, targeting cost-conscious millennials at a $95-$100 price point who are online-first and care about social impact (buy a pair, give a pair), and positioning as modern, chic, accessible and digital-first. If you try to serve everyone you serve no one; Warby Parker is now valued at over a billion dollars.",
+      "who": "hosts",
+      "names_or_cases": ["Warby Parker", "Luxottica", "Ray-Ban", "Toms", "Rothy's", "Blueland"]
+    },
+    {
+      "idea": "The number one product-development lesson from HBS is that you cannot guess at a customer's problem; you have to identify it precisely, test relentlessly and pivot when new data arrives.",
+      "topic": "Entrepreneurship & startups",
+      "detail": "Netflix is the case: it A/B tests everything down to the thumbnail shown per user (Jean notes she always gets Henry Golding thumbnails). Cherie met Reed Hastings at Stanford GSB and did a book report on his book.",
+      "who": "hosts",
+      "names_or_cases": ["Netflix", "Reed Hastings", "A/B testing"]
+    },
+    {
+      "idea": "HBS teaches finance so that future CEOs can hold intelligent conversations with their CFO and board, not so every student can build DCF models alone.",
+      "topic": "MBA & elite education",
+      "detail": "The CFO is the expert and right-hand; the leader's job is to understand what is presented well enough to make decisions with confidence and represent them to the board. Cherie says she dislikes being in the weeds of models but loves adjusting projections with finance counterparts.",
+      "who": "hosts",
+      "names_or_cases": ["DCF"]
+    },
+    {
+      "idea": "Five finance terms every leader must know are revenue vs profit, cash flow, unit economics, forecast and runway, and valuation metrics.",
+      "topic": "Money, investing & personal finance",
+      "detail": "Revenue is money in the door, profit is what remains after bills; Netflix's billions in content spend show up as assets, so cash flow can differ sharply from profit. Unit economics is margin per subscriber (a $10 subscription that costs $12 loses money) or per can for Sisters Matcha; runway is cash divided by burn ($200k at $100k/year burn equals two years); P/E and EV/EBITDA only mean something relative to the company's category.",
+      "who": "hosts",
+      "names_or_cases": ["Netflix", "Sisters Matcha", "price-to-earnings ratio", "EV/EBITDA"]
+    },
+    {
+      "idea": "Starbucks' competitive moat looks weaker a year later because Luckin Coffee and Blank Street are taking share with novel drinks and younger cachet.",
+      "topic": "Entrepreneurship & startups",
+      "detail": "Luckin has a $10B market cap vs Starbucks' $110B but already 31,000 stores (including its first ten in the US) vs Starbucks' roughly 30,000, and won China with products like a coconut velvet latte and a Moutai baijiu coffee. Blank Street, valued at $500M and reportedly raising $100M at about a $1B valuation, appeals to Gen Z in a way Starbucks struggles to.",
+      "who": "hosts",
+      "names_or_cases": ["Luckin Coffee", "Blank Street Coffee", "Starbucks", "Blue Bottle", "Moutai"]
+    },
+    {
+      "idea": "A new coffee entrant can beat Starbucks on how fast it iterates its menu and how good the drinks are, because many customers are tired of Starbucks.",
+      "topic": "Entrepreneurship & startups",
+      "detail": "Cherie says Starbucks 'is not really for me' anymore and that special items like coconut foam or sea salt maple lattes live in smaller cafes; if Luckin iterates like that it puts Starbucks in a pinch. Jean counters that Starbucks keeps innovating (e.g. jumping on the matcha craze) to hold share, even if its matcha is bad.",
+      "who": "hosts",
+      "names_or_cases": ["Starbucks", "Luckin Coffee"]
+    },
+    {
+      "idea": "Business school case studies should be updated to include a company's socio-political controversies, because customers and investors now factor those into everyday buying decisions.",
+      "topic": "MBA & elite education",
+      "detail": "Starbucks has faced public scrutiny and international and domestic issues over the last few years; the hosts stress they are not defending it but see it as a case in crisis management as well as business innovation.",
+      "who": "hosts",
+      "names_or_cases": ["Starbucks"]
+    },
+    {
+      "idea": "Leadership style directly shapes company culture, how performance is judged and how people grow, and ultimately shows up in stock price.",
+      "topic": "Leadership & management",
+      "detail": "HBS's biggest pillar is leadership; the true value of the degree is said to be discovering your own leadership style plus the network. The hosts walk through four styles: servant, transformational, transactional and laissez-faire.",
+      "who": "hosts",
+      "names_or_cases": ["Harvard Business School"]
+    },
+    {
+      "idea": "Servant leadership flips the hierarchy so the leader serves the team, and it pays off in the bottom line because invested employees create better customer experiences.",
+      "topic": "Leadership & management",
+      "detail": "Howard Schultz was among the first CEOs to give benefits to part-time baristas so employees could feel the third space too; Cherie's LinkedIn boss Albert gave her two miniature terracotta soldiers on promotion as a reminder that 'servant leadership is how we serve.' Military classmates and the book Leaders Eat Last embody the same idea of leading from the back.",
+      "who": "hosts",
+      "names_or_cases": ["Howard Schultz", "Starbucks", "Leaders Eat Last", "LinkedIn"]
+    },
+    {
+      "idea": "Transformational leaders like Steve Jobs spark massive innovation and cult followings, but they need strong management teams behind them to maintain stability after they leave.",
+      "topic": "Leadership & management",
+      "detail": "Jobs could look you in the eye and make you deliver the impossible; people lined up overnight for iPhones to get whatever he dreamed up. Elon Musk is the modern example. The downside showed when Jobs died and Tim Cook, an operationally focused leader, 'doesn't hit the same' even though Apple stayed wildly successful.",
+      "who": "hosts",
+      "names_or_cases": ["Steve Jobs", "Apple", "Elon Musk", "Tim Cook"]
+    },
+    {
+      "idea": "Transactional (carrot-and-stick) leadership with clear rewards and penalties works in numbers-driven functions like sales and finance but creates cutthroat cultures at the expense of mental health.",
+      "topic": "Leadership & management",
+      "detail": "Jack Welch's rank-and-yank at GE fired the bottom 10% yearly and lavishly rewarded the top 10%; Goldman did the same when Jean started, and banking, PE and consulting run up-or-out. Sales orgs 'eat what they kill' because they are judged within the quarter, while product and engineering work on multi-year projects that resist discrete metrics.",
+      "who": "hosts",
+      "names_or_cases": ["Jack Welch", "GE", "Goldman Sachs", "rank and yank", "up or out"]
+    },
+    {
+      "idea": "Outsized sales incentives are the ultimate carrot: early Snap ad salespeople kept 1% of what they sold and top performers at LinkedIn and Zynga earned lavish reward trips.",
+      "topic": "Power, status & office politics",
+      "detail": "LinkedIn's top 1% went to 'club' trips like Bali; Zynga's best-performing studio each quarter (60-120 people) went to Hawaii, Vegas or ski trips together. Jean says those glory days have since been clamped down on.",
+      "who": "hosts",
+      "names_or_cases": ["Snap", "LinkedIn", "Zynga"]
+    },
+    {
+      "idea": "Laissez-faire leadership, where people self-organize around self-identified goals, unleashes creativity but only works with small, high-trust teams of hungry people who take extreme ownership.",
+      "topic": "Leadership & management",
+      "detail": "Valve, maker of Steam, is the famous case. Cherie's big-tech experience is that without structure teams go complacent and 'rest and vest'; Jean argues it works for their two-person company and could scale to six equally trusted people. Zynga's 'be your own CEO' motto and independent studios each with their own GM were laissez-faire applied at scale.",
+      "who": "hosts",
+      "names_or_cases": ["Valve", "Steam", "Zynga"]
+    },
+    {
+      "idea": "Leadership style should evolve with company stage: laissez-faire for a two-person startup, transactional once you add people who need a rubric, then transformational once roles are clear and you aim for the stars.",
+      "topic": "Leadership & management",
+      "detail": "No style is one-size-fits-all even within one company; the best leaders weave elements of each into a culture of their own depending on stage, industry and personal style.",
+      "who": "hosts",
+      "names_or_cases": []
+    },
+    {
+      "idea": "Tim Cook handing Apple's CEO role to hardware chief John Ternus on September 1 is a live test of how much a CEO's temperament and style can turn a company's direction.",
+      "topic": "Leadership & management",
+      "detail": "Cook moves to executive chairman focused on policy and global relationships; the hosts ask whether Ternus will be a stay-the-path executor of the Jobs/Cook plan or bring something different to product development and innovation, since 'the CEO is the captain of the ship.'",
+      "who": "hosts",
+      "names_or_cases": ["Tim Cook", "John Ternus", "Apple", "Steve Jobs"]
+    },
+    {
+      "idea": "An MBA network has three layers a founder should use: classmates, faculty and professors, and alums who are often the investors.",
+      "topic": "MBA & elite education",
+      "detail": "Cherie's classmates were beta guests on her first podcast Cherie's Corner, Stanford lecturers Joel Peterson and Glenn Kramon appeared on it, and lecturer Allison Kluger advised her on media and entertainment. One classmate she interviewed, Chad Jennings, founded Gruns, which reportedly sold to Unilever for $1.2B within three years.",
+      "who": "hosts",
+      "names_or_cases": ["Stanford GSB", "Joel Peterson", "Glenn Kramon", "Allison Kluger", "Chad Jennings", "Gruns", "Unilever", "Cherie's Corner"]
+    },
+    {
+      "idea": "The real power of an elite network is casual, reciprocal access: you are not really friends unless you can text someone and get a reply right away.",
+      "topic": "Networking, communication & influence",
+      "detail": "When companies pitched the sisters CPG deals in an industry they knew nothing about, Cherie texted a friend who is a top expert; she reviewed the contract and sent back a quick spreadsheet on the math within minutes. This echoes Imran Khan's line from an earlier episode that you're not his friend unless he can just text you.",
+      "who": "hosts",
+      "names_or_cases": ["Imran Khan"]
+    },
+    {
+      "idea": "Networking is all about intentionality: whenever you think of someone, act on it immediately with a short, casual note rather than agonizing over the email.",
+      "topic": "Networking, communication & influence",
+      "detail": "Cherie sends articles to professors like Glenn Kramon (former New York Times editor of 36-37 years) the moment she thinks of them, adding a quick update on what she is working on. Jean admits she over-edits emails and creates a barrier; the fix is to write as if texting a friend. It is a muscle that gets less scary with repetition.",
+      "who": "hosts",
+      "names_or_cases": ["Glenn Kramon", "New York Times"]
+    },
+    {
+      "idea": "Treat people like they are already your friends, because people generally want to be friends with you and will reciprocate.",
+      "topic": "Networking, communication & influence",
+      "detail": "Jean says adopting a casual, friend-like mindset toward intentional networking outreach is what she is trying to do more of; unless you're emailing the prime minister of Norway, a 'hey' is fine.",
+      "who": "hosts",
+      "names_or_cases": []
+    },
+    {
+      "idea": "To replicate an Ivy League network without the degree, offer help before you ever ask for it; networking and mentorship are giving-first, two-way streets.",
+      "topic": "Networking, communication & influence",
+      "detail": "Networking gets a bad reputation because most people 'take take take.' Even a junior person can help someone five steps ahead: Cherie sent Glenn Kramon an article about LinkedIn profiles and he replied within 15 minutes that he would include it in his next lecture, a tangible contribution that built goodwill without trying.",
+      "who": "hosts",
+      "names_or_cases": ["Glenn Kramon", "LinkedIn"]
+    },
+    {
+      "idea": "Conscious consumerism and give-back programs, once a novel differentiator for millennial brands, are now taken for granted as part of many companies' DNA.",
+      "topic": "Entrepreneurship & startups",
+      "detail": "Toms' buy-a-pair-give-a-pair shoes 10-15 years ago and Warby Parker's glasses program created brand loyalists who felt the brand represented their morals; later brands like Rothy's and Blueland carried the sustainability bend forward.",
+      "who": "hosts",
+      "names_or_cases": ["Toms", "Warby Parker", "Rothy's", "Blueland"]
+    }
+  ]
+}

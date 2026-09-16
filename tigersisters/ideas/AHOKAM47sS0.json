@@ -1,0 +1,142 @@
+{
+  "video_id": "AHOKAM47sS0",
+  "date": "2026-04-06",
+  "title": "How a Hedge Fund Manager Picks Stocks (The Rules He Uses)",
+  "guest": "Imran Khan, founder of hedge fund Proem Asset Management, former Chief Strategy Officer at Snap and Jean's former boss",
+  "summary": "Hedge fund founder Imran Khan explains how the next generation should approach investing now that information has been democratized: understand what you own, read the primary documents, ask why repeatedly, and be most fearful when everyone agrees. He argues retail 'YOLO' investors are no more speculative than 2008-era professionals, shares how he uses AI to compare filings and gauge sentiment, and describes his biggest mistakes (buying because something is cheap, buying on someone else's tip), advising newcomers to start small and build pattern recognition and pain tolerance.",
+  "ideas": [
+    {
+      "idea": "The biggest change in investing is the democratization of knowledge: Reg FD, the internet, social media and now AI give retail investors the same information professionals once got from private management meetings.",
+      "topic": "Money, investing & personal finance",
+      "detail": "Thirty years ago Wall Street got one-on-one meetings and exclusive conferences; now CEOs debate on X and Reddit and you can hear from customers who hate a product as well as those who love it, giving a more holistic view than the five customers a pro might meet at a user conference.",
+      "who": "Imran Khan",
+      "names_or_cases": ["Reg FD", "X", "Reddit"]
+    },
+    {
+      "idea": "The first rule of investing is to understand what you are investing in, because if you don't understand it you don't understand the risk, and investing is ultimately pricing risk.",
+      "topic": "Money, investing & personal finance",
+      "detail": "Khan says even professionals make this mistake, which is why there are many sectors he simply doesn't touch; don't listen to somebody else, be educated about it yourself.",
+      "who": "Imran Khan",
+      "names_or_cases": []
+    },
+    {
+      "idea": "Read the boring legal documents (S-1, 10-K, 10-Q) on a company's investor relations site, because companies spend hundreds of hours writing them and they legally must be accurate.",
+      "topic": "Money, investing & personal finance",
+      "detail": "Khan worked on the Alibaba IPO and took Snap public; he also listens to what management says, and when he sees something questionable on social media he reads the comments and verifies against other sources.",
+      "who": "Imran Khan",
+      "names_or_cases": ["Alibaba", "Snap"]
+    },
+    {
+      "idea": "Curiosity is the essential trait of a good investor: don't ask one question, ask ten whys, and don't believe anything you read on social media until you've dug through it.",
+      "topic": "Money, investing & personal finance",
+      "detail": "The hosts summarize his method as read the source material, ask why five times, and apply critical thinking to every source.",
+      "who": "Imran Khan",
+      "names_or_cases": []
+    },
+    {
+      "idea": "The market likes to make a fool of the greatest number of people, so whenever something is consensus you should be most fearful because the risk is probably not priced in.",
+      "topic": "Money, investing & personal finance",
+      "detail": "The market by default prices consensus, so the sharpest moves in any asset (stocks, bonds, art, real estate) happen when something non-consensus occurs; this does not mean you must take a contrarian bet, only that you must be careful.",
+      "who": "Imran Khan",
+      "names_or_cases": []
+    },
+    {
+      "idea": "Being contrarian for its own sake is wrong because consensus can be right for years and a contrarian can be wrong for a very long time; timing matters.",
+      "topic": "Money, investing & personal finance",
+      "detail": "He cites the investor in 'The Big Short' who was wrong for a long period before the housing crisis proved him right, and the hosts add shorting Japanese bonds as another example.",
+      "who": "Imran Khan",
+      "names_or_cases": ["The Big Short"]
+    },
+    {
+      "idea": "The market has always been speculative, because buying anything is predicting the future; retail YOLO traders are no more speculative than the 'sophisticated' professionals who took down the economy trading CDS in 2008.",
+      "topic": "Money, investing & personal finance",
+      "detail": "Khan says demeaning retail investors is unfair: many are smart, tech-savvy people who work at tech companies and understand the businesses, they simply lacked the East Coast Wall Street background he also lacked until junior year of college; being right 51 percent of the time makes you a genius in the market.",
+      "who": "Imran Khan",
+      "names_or_cases": ["Robinhood"]
+    },
+    {
+      "idea": "Professional investors exhibit groupthink too: the 13F filings of the biggest hedge funds show a huge overlap in the stocks they own.",
+      "topic": "Finance industry: VC, PE, banking, hedge funds",
+      "detail": "13F is the quarterly document every major hedge fund must file disclosing its holdings; Khan uses it to argue the market isn't more dangerous, it's just a new group of investors arriving as wealth transfers from baby boomers to younger generations who take more control of their own financial decisions.",
+      "who": "Imran Khan",
+      "names_or_cases": ["13F"]
+    },
+    {
+      "idea": "Use AI to compare a company's filings year over year or quarter over quarter, because subtle language changes like 'may' to 'will' signal something worth investigating.",
+      "topic": "AI & technology",
+      "detail": "Read the first document fully yourself, then upload consecutive documents to an AI to surface incremental changes and new data points; he cautions that ChatGPT summaries can miss things hidden in a final line item, so still read the documents.",
+      "who": "Imran Khan",
+      "names_or_cases": ["ChatGPT"]
+    },
+    {
+      "idea": "AI is a fast way to get basic knowledge of a business or any domain, but it must be followed by primary research.",
+      "topic": "AI & technology",
+      "detail": "Khan learned the basics of wine entirely through ChatGPT two years ago and then got better through tasting; the same applies to learning a business.",
+      "who": "Imran Khan",
+      "names_or_cases": ["ChatGPT"]
+    },
+    {
+      "idea": "Use AI to track sentiment about a company across social media, Substacks and research, because the stock market is a voting machine and sentiment direction reveals consensus.",
+      "topic": "AI & technology",
+      "detail": "He does this manually now (e.g., pasting Reddit comments to see whether sentiment shifted positive or negative) and wants to build tools to automate it; he cites Warren Buffett's voting machine line.",
+      "who": "Imran Khan",
+      "names_or_cases": ["Warren Buffett", "Reddit", "Substack"]
+    },
+    {
+      "idea": "Never buy a stock because someone told you to, because they may have a different pain threshold and time horizon; do your own work and make your own decision.",
+      "topic": "Money, investing & personal finance",
+      "detail": "Banks call his fund constantly pitching stocks and convincing pitches sometimes trigger trades too early without full understanding, which never work out; if you don't enjoy investing, go to a professional instead.",
+      "who": "Imran Khan",
+      "names_or_cases": []
+    },
+    {
+      "idea": "Never buy a stock just because it is cheap or short one just because it is expensive, since anyone can compute a P/E; ask why the market is pricing it that way and whether that fear is true.",
+      "topic": "Money, investing & personal finance",
+      "detail": "A stock at 10x earnings is cheap because the market fears something; if the consensus fear is wrong you can earn incredible returns, but sometimes the consensus is right for a long time. Valuation should be the last stop, telling you how much risk (or good news) is already priced in.",
+      "who": "Imran Khan",
+      "names_or_cases": []
+    },
+    {
+      "idea": "The entire US capital market runs on trust, and when a stock is very cheap you must ask whether management or the company broke that trust.",
+      "topic": "Money, investing & personal finance",
+      "detail": "Nobody verifies every line of a filing; investors trust disclosures, auditors and non-omission of material facts. Trusted, predictable businesses earn higher multiples. America's trust-based markets and tolerance for honest failure let it fund Chinese tech like Alibaba and Tencent in the 1990s-2010s when their home markets could not.",
+      "who": "Imran Khan",
+      "names_or_cases": ["Alibaba", "Tencent"]
+    },
+    {
+      "idea": "If investing feels intimidating, start small, even $5 via fractional shares, but only if you are genuinely curious; never give up something because of fear, and never do something that doesn't excite you.",
+      "topic": "Money, investing & personal finance",
+      "detail": "Barriers to investing have fallen dramatically over his 30-year career; like marathoners, take baby steps and don't put all your money in on day one.",
+      "who": "Imran Khan",
+      "names_or_cases": ["Robinhood"]
+    },
+    {
+      "idea": "Investing is something you get better at the longer you do it because pattern recognition compounds; start small so you don't put all your chips in before you have built it.",
+      "topic": "Money, investing & personal finance",
+      "detail": "A peer who joined a hedge fund straight out of college from an East Coast investing family had 15-20 years of cycle experience while Khan was still figuring out banking; the hosts add that pattern recognition transfers across verticals and is why they built Tiger Sisters so quickly using lessons from prior roles.",
+      "who": "Imran Khan",
+      "names_or_cases": ["Tiger Sisters"]
+    },
+    {
+      "idea": "Nobody stays very successful for long without strong pain tolerance; start small to learn your pain threshold, because when you can't take the pain you make mistakes.",
+      "topic": "Mindset, confidence & psychology",
+      "detail": "He has seen hedge fund managers whose losses wrecked their lives and marriages; such people should never be in investing. The same applies to athletes and founders.",
+      "who": "Imran Khan",
+      "names_or_cases": []
+    },
+    {
+      "idea": "Get children interested in investing early, even with fake money, because financial sophistication and discipline matter and it is much easier to ruin assets than to earn them.",
+      "topic": "Money, investing & personal finance",
+      "detail": "Khan admits he failed to get his own kids interested so far; the hosts mention wanting to write a children's personal finance book.",
+      "who": "Imran Khan",
+      "names_or_cases": []
+    },
+    {
+      "idea": "Sometimes you should not dogfood your own product: to move fast, Snap's early ads team deliberately hid test advertisements in cities where Snap employees lived to avoid internal debate.",
+      "topic": "Leadership & management",
+      "detail": "While building Snap's advertising business, employees would see direct-response ads and start email debates, so the team broke the ad algorithm in New York, Venice and other employee locations so they could test many advertiser types and learn the best ad stack.",
+      "who": "Imran Khan",
+      "names_or_cases": ["Snap"]
+    }
+  ]
+}

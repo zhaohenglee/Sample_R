@@ -1,0 +1,93 @@
+{
+  "video_id": "Y95go30wv18",
+  "date": "2025-07-28",
+  "title": "Private Equity 101: Everything You Need to Know to Be Dangerous in 20 Minutes",
+  "guest": "",
+  "summary": "A hosts-only explainer of private equity in five parts: what PE is (private ownership, control, turnaround mindset), how firms make money (2 and 20), how leveraged buyouts work, why PE gets vilified in the media, and what a PE acquisition means for employees and customers. Their verdict is that PE isn't inherently evil but you should understand its incentives because it touches your hospital, your salad chain and your favorite brands.",
+  "ideas": [
+    {
+      "idea": "Private equity is defined by three things: private ownership, control (buying a majority stake), and a turnaround mindset of buying, improving and selling for profit.",
+      "topic": "Finance industry: VC, PE, banking, hedge funds",
+      "detail": "Unlike buying a few shares on Robinhood, PE firms buy the whole company or a majority, increase efficiencies, and flip it.",
+      "who": "hosts",
+      "names_or_cases": []
+    },
+    {
+      "idea": "PE differs from VC in that VC makes risky early-stage bets while PE targets larger, more developed 'fixer-upper' companies with inefficiencies, like flipping a house.",
+      "topic": "Finance industry: VC, PE, banking, hedge funds",
+      "detail": "Brands that have been through PE include Burger King, Neiman Marcus, Dollar General, Dunkin' Donuts and Dell.",
+      "who": "hosts",
+      "names_or_cases": ["Burger King", "Neiman Marcus", "Dollar General", "Dunkin' Donuts", "Dell"]
+    },
+    {
+      "idea": "PE firms make money via '2 and 20': roughly 2% annual management fees on the fund plus 20% carried interest on successful deals, where the real money is.",
+      "topic": "Finance industry: VC, PE, banking, hedge funds",
+      "detail": "A $1B fund earns $20M a year just in management fees before any carry.",
+      "who": "hosts",
+      "names_or_cases": ["2 and 20"]
+    },
+    {
+      "idea": "A PE fund's capital comes from three sources: limited partners (endowments, pensions, high-net-worth individuals, other funds), the firm's own money for skin in the game, and debt.",
+      "topic": "Finance industry: VC, PE, banking, hedge funds",
+      "detail": "LPs like to see the management team invest its own money alongside the fees it charges. The debt portion was the most surprising to Cherie when she first learned about PE.",
+      "who": "hosts",
+      "names_or_cases": []
+    },
+    {
+      "idea": "A leveraged buyout uses borrowed money to buy a company, then uses the company's profits to pay down the acquisition debt, letting the firm do a lot more with less of its own money.",
+      "topic": "Finance industry: VC, PE, banking, hedge funds",
+      "detail": "Like buying a $1M house with $100K of your own money and $900K of debt, renting it out to cover the mortgage, and earning $100K on improvements for a 2x return on equity.",
+      "who": "hosts",
+      "names_or_cases": ["LBO"]
+    },
+    {
+      "idea": "Leverage cuts both ways: Toys R Us's $6.6B LBO in 2005 carried $5.2B of debt, and interest payments starved the company of money to compete with Amazon, ending in 2017 bankruptcy and 30,000 lost jobs.",
+      "topic": "Finance industry: VC, PE, banking, hedge funds",
+      "detail": "Debt can make millions or 'burn down the house'; the sisters remember Toys R Us as a childhood mecca.",
+      "who": "hosts",
+      "names_or_cases": ["Toys R Us", "Amazon"]
+    },
+    {
+      "idea": "PE gets its villain reputation from four levers: mass layoffs, prioritizing short-term profit over long-term health, asset stripping, and operating in sensitive industries like hospitals and education.",
+      "topic": "Finance industry: VC, PE, banking, hedge funds",
+      "detail": "Selling a manufacturer's expensive machines raises profit but hurts long-term health; laying off 30% of hospital workers creates headline risk and the PE firm gets blamed for downstream effects. Media portrayals amplify the slimy parts.",
+      "who": "hosts",
+      "names_or_cases": []
+    },
+    {
+      "idea": "A 'dirty secret' of PE is that most exits are sales to another PE firm, so funds aim to hit a profit level and move on rather than steward the company long term.",
+      "topic": "Finance industry: VC, PE, banking, hedge funds",
+      "detail": "Jean learned in a Stanford private equity class that most PE exits are to other PE firms that take the company at its next size stage.",
+      "who": "hosts",
+      "names_or_cases": ["Stanford GSB"]
+    },
+    {
+      "idea": "PE failures span industries, from Vice Media ($1.6B raised including from TPG, bankrupt 2023) to retail like J.Crew and Payless, but Blackstone's Hilton deal shows PE done well.",
+      "topic": "Finance industry: VC, PE, banking, hedge funds",
+      "detail": "Blackstone bought Hilton, improved and expanded it globally, re-IPO'd it and made about $14B without mass layoffs. Outcomes depend on the firm's incentives, size, industry and turnaround style.",
+      "who": "hosts",
+      "names_or_cases": ["Vice Media", "TPG", "J.Crew", "Payless", "Blackstone", "Hilton"]
+    },
+    {
+      "idea": "If your employer is bought by PE, expect three things: efficiency moves and tighter budgets, new leadership often brought in from the PE firm's own operators, and restructuring layoffs.",
+      "topic": "Career strategy & promotions",
+      "detail": "PE firms install people they trust to execute their strategy.",
+      "who": "hosts",
+      "names_or_cases": []
+    },
+    {
+      "idea": "As a customer of a PE-acquired brand, expect higher prices, worse service or leaner offerings, though operations can sometimes improve.",
+      "topic": "Money, investing & personal finance",
+      "detail": "When Zimmermann was PE-acquired, Cherie and her friends rushed to buy current stock expecting lower quality and higher prices as margins get squeezed. Devil's advocate: cutting bloat can improve customer experience.",
+      "who": "hosts",
+      "names_or_cases": ["Zimmermann"]
+    },
+    {
+      "idea": "PE as a financing mechanism isn't inherently evil, but you should understand it and follow the money to see what firms are optimizing for, because it affects your daily life.",
+      "topic": "Money, investing & personal finance",
+      "detail": "'Hot people understand incentives.' Knowing what PE is and what it optimizes for lets you predict how it affects your salad chain, hospital or clothing brand.",
+      "who": "hosts",
+      "names_or_cases": []
+    }
+  ]
+}
