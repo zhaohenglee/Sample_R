@@ -19,8 +19,8 @@ SHEETS = {"Financials": "xl/worksheets/sheet1.xml", "Call-out": "xl/worksheets/s
 # Template row per input field (Financials sheet, columns D..M).
 ROWS = {
     "revenue": 31, "cogs": 32, "sga": 36, "other_opex": 37, "int_other": 41, "taxes": 44,
-    "minority": 46, "cash": 53, "inventories": 54, "ar": 55, "tca": 56, "ppe_lease": 57,
-    "ta": 58, "ap": 60, "tcl": 62, "ltd_lease": 64, "tl": 65, "intangibles": 69, "da": 79,
+    "minority": 46, "cash": 53, "nc_securities": 59, "inventories": 54, "ar": 55, "tca": 56, "ppe_lease": 57,
+    "ta": 58, "ap": 60, "tcl": 62, "cur_debt_lease": 63, "ltd_lease": 64, "tl": 65, "intangibles": 69, "da": 79,
     "one_time": 83, "capex": 106,
 }
 OLD_PPE_COLS = YEAR_COLS[:6]  # D..I use rows 110/111; J..M link to row 57.

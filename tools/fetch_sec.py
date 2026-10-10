@@ -31,6 +31,13 @@ TAGS = {
     "capex": ["PaymentsToAcquirePropertyPlantAndEquipment", "PaymentsToAcquireProductiveAssets"],
     "cash": ["CashAndCashEquivalentsAtCarryingValue",
              "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents", "Cash"],
+    "sec_cur": ["MarketableSecuritiesCurrent", "ShortTermInvestments",
+                "AvailableForSaleSecuritiesDebtSecuritiesCurrent"],
+    "sec_nc": ["MarketableSecuritiesNoncurrent", "LongTermInvestments",
+               "AvailableForSaleSecuritiesDebtSecuritiesNoncurrent"],
+    "debt_cur": ["LongTermDebtCurrent", "DebtCurrent", "LongTermDebtAndCapitalLeaseObligationsCurrent"],
+    "cp_stb": ["CommercialPaper", "ShortTermBorrowings"],
+    "lease_cur": ["OperatingLeaseLiabilityCurrent"],
     "inventories": ["InventoryNet", "InventoryFinishedGoodsNetOfReserves"],
     "ar": ["AccountsReceivableNetCurrent", "ReceivablesNetCurrent"],
     "tca": ["AssetsCurrent"],
@@ -172,8 +179,8 @@ def main():
     g = lambda f, y: raw[f].get(y)
     z = lambda f, y: raw[f].get(y) or 0.0
     fields = {k: {} for k in ["revenue", "cogs", "sga", "other_opex", "int_other", "taxes", "minority",
-                              "cash", "inventories", "ar", "tca", "ppe_lease", "ta", "ap", "tcl",
-                              "ltd_lease", "tl", "intangibles", "da", "capex", "ppe_gross", "accum_dep"]}
+                              "cash", "nc_securities", "inventories", "ar", "tca", "ppe_lease", "ta",
+                              "ap", "tcl", "cur_debt_lease", "ltd_lease", "tl", "intangibles", "da", "capex", "ppe_gross", "accum_dep"]}
     missing = set()
     checks = {"net_income": {}, "operating_income": {}, "assets": {}}
 
@@ -207,7 +214,9 @@ def main():
         fields["minority"][y] = (ni - (pretax - tax)) if None not in (ni, pretax, tax) else 0.0
         checks["net_income"][y], checks["operating_income"][y], checks["assets"][y] = ni, oi, g("ta", y)
 
-        fields["cash"][y] = z("cash", y)
+        # Row 53 = cash + current securities; row 59 = non-current securities (both reduce EV).
+        fields["cash"][y] = z("cash", y) + z("sec_cur", y)
+        fields["nc_securities"][y] = z("sec_nc", y)
         fields["inventories"][y] = z("inventories", y)
         fields["ar"][y] = z("ar", y)
         fields["tca"][y] = z("tca", y)
@@ -215,7 +224,13 @@ def main():
         fields["ta"][y] = z("ta", y)
         fields["ap"][y] = z("ap", y)
         fields["tcl"][y] = z("tcl", y)
-        fields["ltd_lease"][y] = z("ltd", y) + z("lease_liab", y)
+        # Row 63 = current debt + commercial paper / short term borrowings + current operating lease.
+        # DebtCurrent and LongTermDebtAndCapitalLeaseObligationsCurrent usually already include
+        # commercial paper, so CP/STB is only added on top of LongTermDebtCurrent (or when no
+        # current debt tag exists).
+        cp = z("cp_stb", y) if src["debt_cur"].get(y) in (None, "LongTermDebtCurrent") else 0.0
+        fields["cur_debt_lease"][y] = z("debt_cur", y) + cp + z("lease_cur", y)
+        fields["ltd_lease"][y] = z("ltd", y) + z("lease_liab", y) + fields["cur_debt_lease"][y]
         tl = g("tl", y)
         if tl is None and g("ta", y) is not None and g("equity_total", y) is not None:
             tl = g("ta", y) - g("equity_total", y)
@@ -242,6 +257,15 @@ def main():
     if no_debt:
         notes.append(f"No long term debt tag for {no_debt[0]}-{no_debt[-1]} ({len(no_debt)} yrs): "
                      "debt set to 0 (lease liabilities still included). Confirm the company has no debt.")
+    for f_, label in [("sec_cur", "current securities"), ("sec_nc", "non-current securities"),
+                      ("debt_cur", "current debt"), ("cp_stb", "commercial paper / short term borrowings"),
+                      ("lease_cur", "current operating lease")]:
+        used = sorted({v for v in src[f_].values()})
+        if used:
+            notes.append(f"{label} tags used: {', '.join(used)}")
+    for y in years:
+        if src["debt_cur"].get(y) not in (None, "LongTermDebtCurrent") and g("cp_stb", y):
+            notes.append(f"{y}: {src['cp_stb'][y]} not added because {src['debt_cur'][y]} already includes it")
     save_json(out_dir(t) / "inputs.json", {
         "ticker": t, "name": name, "cik": cik,
         "years": years, "fy_end": {y: anchor[y].isoformat() for y in years},

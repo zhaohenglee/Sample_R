@@ -77,15 +77,15 @@ def main():
         b, v = by[y], (lambda k: f.get(k, {}).get(y) or 0.0)
         if v("cash") > v("tca") + 0.5 or v("tca") > v("ta") + 0.5 or v("tcl") > v("tl") + 0.5:
             fails.append(f"{y} balance sheet subtotals inconsistent (cash/TCA/TA or TCL/TL)")
+        if v("cur_debt_lease") > v("tcl") + 0.5:
+            fails.append(f"{y} current debt + lease {v('cur_debt_lease'):.0f} exceeds current liabilities "
+                         f"{v('tcl'):.0f} (row 63 mapping)")
         if b["tax_rate"] is not None and not 0 <= b["tax_rate"] <= 0.40:
             warns.append(f"{y} tax rate {b['tax_rate']:.0%} distorts NOPAT (row 121 uses actual rate)")
         if b["invested_capital"] <= 0:
             warns.append(f"{y} invested capital {b['invested_capital']:.0f} <= 0, ROIC meaningless")
         elif b["roic"] is not None and abs(b["roic"]) > 1.0:
             warns.append(f"{y} ROIC {b['roic']:.0%} extreme (small or negative working capital base)")
-        if b["ebitda"] and abs(v("int_other")) > 0.10 * abs(b["ebitda"]):
-            warns.append(f"{y} interest/other income {v('int_other'):.0f} is >10% of EBITDA; "
-                         "template adds it twice (see model_review.md)")
         if abs(v("minority")) > 0.05 * max(abs(b["net_income"]), 1):
             warns.append(f"{y} row 46 plug {v('minority'):.0f} (NCI, equity income or discontinued ops)")
         if i:

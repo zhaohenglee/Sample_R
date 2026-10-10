@@ -23,17 +23,19 @@ def year_calc(f, y, price, shares, coc, ppe_old):
     tax = v("taxes")                                       # row 44
     ni = pretax - tax + v("minority")                      # row 48
     tax_rate = div(tax, pretax)                            # row 45
-    ebitda = ni + tax + v("int_other") + v("da")           # rows 76-80 (template adds row 41)
+    ebitda = ni + tax - v("int_other") + v("da")           # rows 76-80 (row 78 = -row 41, issue 1 fixed)
     ebitda_adj = ebitda + v("one_time")                    # row 84
     maint = v("da")                                        # row 107: maintenance capex = D&A
     nopat_simple = op - tax + v("da") - maint              # row 93
     pre_tax = ebitda_adj - maint                           # row 120
     nopat = pre_tax - pre_tax * (tax_rate or 0.0)          # row 123
     ppe = ppe_old if ppe_old is not None else v("ppe_lease")   # row 112
-    nwc = (v("tca") - v("cash")) - v("tcl")                # row 129
+    # row 128 = tcl - current debt/leases (they sit in EV debt, row 63); row 129
+    nwc = (v("tca") - v("cash")) - (v("tcl") - v("cur_debt_lease"))
     ic = ppe + nwc                                         # row 130
     mcap = price * shares if price is not None and shares else None
-    ev = mcap - v("cash") + v("ltd_lease") if mcap is not None else None   # row 15
+    # row 15: cash row 53 includes current securities (row 13 = 53 + 59); row 64 includes current debt
+    ev = mcap - v("cash") - v("nc_securities") + v("ltd_lease") if mcap is not None else None
     epv = nopat / coc                                      # row 140
     r.update(revenue=rev, gross_profit=gp, operating_profit=op, op_margin=div(op, rev),
              pretax=pretax, taxes=tax, tax_rate=tax_rate, net_income=ni, ebitda=ebitda,
