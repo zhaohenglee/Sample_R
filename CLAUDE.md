@@ -20,6 +20,8 @@ Concise, plain English. Structured and logical. Honest feedback, no filler. Avoi
 
 ## Stock evaluation workflow
 
+Fixed assumptions (user decision): cost of capital = 10%, discount rate = 10%. Do not change without the user.
+
 Entry point: `/evaluate-stock TICKER [TICKER ...]` (see `.claude/skills/evaluate-stock/SKILL.md`).
 
 Pipeline (one ticker):
