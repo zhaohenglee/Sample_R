@@ -1,0 +1,224 @@
+<title>Cash runway, not accounting scores, decides Unisys</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&family=Source+Sans+3:wght@400;600&family=Source+Code+Pro:wght@400;500&display=swap">
+<style>
+:root {
+  --paper:#F2F4F6; --surface:#FFFFFF; --ink:#18232E; --ink2:#41505E; --muted:#6F7C89; --line:#D6DCE2;
+  --accent:#1F5F8B; --accent-ink:#164A6E; --accent-bg:#E4EEF5;
+  --neg-bg:#F6DEDB; --neg-fg:#8A2A22; --low-bg:#EEF0F2; --low-fg:#41505E; --mid-bg:#E1EEE6; --mid-fg:#245A3C; --high-bg:#BFDCCB; --high-fg:#173F29;
+  --verdict-bg:#F5E8D8; --verdict-fg:#7A3E0C; --verdict-line:#C98A4B;
+  --cite-bg:#EAEEF2; --cite-fg:#5B6975;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --paper:#12181E; --surface:#1A2229; --ink:#E6EBEF; --ink2:#B4BEC8; --muted:#8593A0; --line:#2C3740;
+  --accent:#6FB0DC; --accent-ink:#9CC9EA; --accent-bg:#1E3140;
+  --neg-bg:#4A2320; --neg-fg:#F0A79F; --low-bg:#232C34; --low-fg:#B4BEC8; --mid-bg:#1F3A2B; --mid-fg:#A9DBBB; --high-bg:#25563A; --high-fg:#D2F0DC;
+  --verdict-bg:#3A2A18; --verdict-fg:#F1C892; --verdict-line:#9A6A34;
+  --cite-bg:#232C34; --cite-fg:#8FA0AE;
+} }
+:root[data-theme="dark"] {
+  --paper:#12181E; --surface:#1A2229; --ink:#E6EBEF; --ink2:#B4BEC8; --muted:#8593A0; --line:#2C3740;
+  --accent:#6FB0DC; --accent-ink:#9CC9EA; --accent-bg:#1E3140;
+  --neg-bg:#4A2320; --neg-fg:#F0A79F; --low-bg:#232C34; --low-fg:#B4BEC8; --mid-bg:#1F3A2B; --mid-fg:#A9DBBB; --high-bg:#25563A; --high-fg:#D2F0DC;
+  --verdict-bg:#3A2A18; --verdict-fg:#F1C892; --verdict-line:#9A6A34;
+  --cite-bg:#232C34; --cite-fg:#8FA0AE;
+}
+* { box-sizing:border-box; }
+body { margin:0; background:var(--paper); color:var(--ink); font-family:"Source Sans 3","Helvetica Neue",Arial,sans-serif; font-size:16px; line-height:1.55; padding-block:40px 80px; padding-inline:20px; }
+.page { max-width:800px; margin:0 auto; display:grid; gap:36px; }
+h1,h2,h3 { font-family:"Source Serif 4",Georgia,serif; margin:0; text-wrap:balance; letter-spacing:-0.005em; }
+h1 { font-size:34px; font-weight:600; line-height:1.15; }
+h2 { font-size:22px; font-weight:600; padding-top:8px; }
+h3 { font-size:17px; font-weight:600; margin-top:6px; }
+p { margin:0; max-width:70ch; }
+a { color:var(--accent); word-break:break-all; }
+.eyebrow { font-size:11.5px; letter-spacing:.09em; text-transform:uppercase; color:var(--muted); font-weight:600; }
+header { display:grid; gap:14px; padding-bottom:24px; border-bottom:1px solid var(--line); }
+.meta { display:flex; flex-wrap:wrap; gap:6px 24px; font-size:13.5px; color:var(--ink2); }
+.meta b { color:var(--ink); font-weight:600; }
+.num, td.num, .tile .val { font-family:"Source Code Pro",Menlo,Consolas,monospace; font-variant-numeric:tabular-nums; }
+.banner { background:var(--verdict-bg); color:var(--verdict-fg); border-left:4px solid var(--verdict-line); padding:18px 20px; display:grid; gap:14px; }
+.banner .big { font-family:"Source Serif 4",Georgia,serif; font-size:30px; font-weight:600; line-height:1.1; }
+.banner .sub { font-size:14px; }
+.tiles { display:grid; grid-template-columns:repeat(4,1fr); gap:10px; }
+.tile { background:var(--surface); border:1px solid var(--line); padding:12px 14px; display:grid; gap:4px; align-content:start; }
+.tile .lab { font-size:11.5px; letter-spacing:.06em; text-transform:uppercase; color:var(--muted); font-weight:600; }
+.tile .val { font-size:22px; font-weight:500; color:var(--ink); }
+.tile .note { font-size:12.5px; color:var(--ink2); }
+nav.toc { display:flex; flex-wrap:wrap; gap:6px 14px; font-size:13.5px; padding:12px 0; border-top:1px solid var(--line); border-bottom:1px solid var(--line); }
+nav.toc a { text-decoration:none; color:var(--accent-ink); }
+nav.toc a:hover, nav.toc a:focus-visible { text-decoration:underline; }
+section { display:grid; gap:14px; }
+.verdict-line { font-family:"Source Serif 4",Georgia,serif; font-size:19px; font-weight:600; color:var(--verdict-fg); }
+.label { font-size:12px; letter-spacing:.07em; text-transform:uppercase; color:var(--muted); font-weight:600; margin-top:6px; }
+ol,ul { margin:0; padding-left:22px; display:grid; gap:10px; max-width:70ch; }
+.scroll { overflow-x:auto; border:1px solid var(--line); background:var(--surface); }
+table { border-collapse:collapse; width:100%; font-size:13.5px; }
+th,td { text-align:left; vertical-align:top; padding:9px 11px; border-bottom:1px solid var(--line); }
+th { font-size:11.5px; letter-spacing:.06em; text-transform:uppercase; color:var(--muted); font-weight:600; white-space:nowrap; }
+tbody tr:last-child td { border-bottom:0; }
+td.num { text-align:right; white-space:nowrap; }
+table.grid td { text-align:right; }
+table.grid td.neg { background:var(--neg-bg); color:var(--neg-fg); }
+table.grid td.low { background:var(--low-bg); color:var(--low-fg); }
+table.grid td.mid { background:var(--mid-bg); color:var(--mid-fg); }
+table.grid td.high { background:var(--high-bg); color:var(--high-fg); font-weight:500; }
+.cite { display:none; margin-left:4px; font-family:"Source Code Pro",monospace; font-size:10.5px; background:var(--cite-bg); color:var(--cite-fg); padding:0 4px; border-radius:2px; white-space:nowrap; vertical-align:baseline; }
+body.show-cites .cite { display:inline; }
+.toggle { display:flex; align-items:center; gap:8px; font-size:13.5px; color:var(--ink2); }
+.toggle input { width:16px; height:16px; }
+.toggle input:focus-visible { outline:2px solid var(--accent); outline-offset:2px; }
+footer { color:var(--muted); font-size:12.5px; border-top:1px solid var(--line); padding-top:16px; display:grid; gap:6px; }
+@media (max-width:720px) { .tiles { grid-template-columns:1fr 1fr; } h1 { font-size:28px; } }
+@media (max-width:420px) { .tiles { grid-template-columns:1fr; } }
+@media (prefers-reduced-motion: no-preference) { html { scroll-behavior:smooth; } }
+
+sup a { text-decoration: none; }
+.footnote { font-size: 0.92em; color: var(--muted); border-top: 1px solid var(--line); margin-top: 2rem; padding-top: 1rem; }
+.footnote ol { padding-left: 1.4em; }
+</style>
+<div class="page">
+<header>
+  <div class="eyebrow">Deep research report, coordinated on Fable 5.1, 2026-10-11</div>
+  <h1>Cash runway, not accounting scores, decides Unisys</h1>
+</header>
+<nav class="toc" aria-label="Sections"><a href="#s1">Seven framework families rank by how well they see pension cash</a><a href="#s2">Every Unisys figure here is snippet grade, and six of them conflict</a><a href="#s3">Cash runway and ratings put one year risk near 3 percent</a><a href="#s4">Accounting scores flash distress, but the deficit is history</a><a href="#s5">Equity prices distress while the secured notes stayed near par</a><a href="#s6">Precedents point to the 2030 refinancing as the real test</a><a href="#s7">Conclusion</a></nav>
+<section id="s0"><p><em>Research report, 11 October 2026. Every Unisys figure below comes from web search snippets of filings, releases and aggregators, not from the filings themselves. Several figures conflict; the conflicts are listed in their own section.</em></p>
+<p>Unisys should be judged first on a pension adjusted liquidity and cash flow framework and on its agency ratings mapped to historical default rates, with market signals as a cross check; the classic accounting scores (Altman, Ohlson, Zmijewski) rank last because negative book equity and a $2.6 billion accumulated deficit saturate them. Applied to the public data available in October 2026, the frameworks split cleanly. The cash and rating view puts near term risk low: no debt matures before January 2031, cash was <strong>$324.3 million</strong> at 30 June 2026 with an undrawn ABL, both agencies rate Unisys single B with stable outlooks, and S&amp;P history maps a B rating to roughly <strong>3% one year and 15% to 16% five year cumulative default</strong>. Every accounting score except Grover reads distress, and Zmijewski implies a 97% to 99.9% failure probability, but that reading comes almost entirely from decades of past losses, not from current liquidity. The equity market sits closer to the alarmist end: at $2.44 the company was worth about <strong>$178 million</strong> against about <strong>$733 million</strong> of secured debt. The real exposure is medium term. Free cash flow is negative in 2026, interest cost rose by about two thirds after the 2025 refinancing, revenue is shrinking, and arithmetic on guidance shows Unisys cannot repay the 2031 notes from cash, so default risk concentrates around refinancing in 2029 and 2030. Treat all of this as provisional: the inputs are snippet grade, several conflict, and no October 2026 bond price, equity volatility or rating update was found.</p>
+</section>
+<section id="s1"><h2 id="seven-framework-families-rank-by-how-well-they-see-pension-cash">Seven framework families rank by how well they see pension cash</h2>
+<p>The ranking turns on one question: does the framework see what can actually push Unisys into default? For this company that is cash leaving through pension contributions and a 10.625% coupon, set against a shrinking legacy IT business, with the one funded debt maturity in January 2031. Book equity is negative largely because of accumulated losses and pension charges, so any model that leans on book equity or retained earnings will read distress regardless of liquidity. The table ranks the families on fitness for that profile and on whether public data allowed them to be applied.</p>
+<div class="scroll"><table>
+<thead>
+<tr>
+<th>Rank</th>
+<th>Framework</th>
+<th>Fit for Unisys</th>
+<th>Could it be applied?</th>
+<th>What it says</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="num">1</td>
+<td>Pension adjusted liquidity and cash flow runway (agency style leverage, ASC 205-40 one year test)</td>
+<td>Best. Sees maturities, pension cash calls, coupon, ABL terms</td>
+<td>Mostly, from snippets</td>
+<td>Low 12 month risk; refinancing risk by 2030</td>
+</tr>
+<tr>
+<td class="num">2</td>
+<td>Agency rating mapped to historical default tables</td>
+<td>Strong. Agencies add pension deficits to debt</td>
+<td>Yes, but ratings last moved in 2024 and 2025</td>
+<td>B / B2 stable: about 3% one year, about 15% to 16% five year</td>
+</tr>
+<tr>
+<td class="num">3</td>
+<td>Market based (bond spread PD, Merton or naive distance to default, CHS hazard model)</td>
+<td>Strong in theory; literature favours market plus accounting models</td>
+<td>No. Equity volatility, dated bond yield and risk free inputs missing</td>
+<td>Equity prices heavy distress; notes were near par at end 2025</td>
+</tr>
+<tr>
+<td class="num">4</td>
+<td>Precedent analysis (filers versus non filers)</td>
+<td>Useful cross check on triggers</td>
+<td>Partly</td>
+<td>Unisys resembles non filers so far, but its FCF is negative</td>
+</tr>
+<tr>
+<td class="num">5</td>
+<td>Ohlson O and Zmijewski (logit and probit)</td>
+<td>Weak. Liabilities above assets saturate the leverage term</td>
+<td>Zmijewski yes; Ohlson only partly</td>
+<td>Near certain failure, not credible as a probability</td>
+</tr>
+<tr>
+<td class="num">6</td>
+<td>Altman Z'' (best Altman variant for a non manufacturer)</td>
+<td>Weak. The retained earnings term swamps everything</td>
+<td>Yes</td>
+<td>Distress in every period and variant</td>
+</tr>
+<tr>
+<td class="num">7</td>
+<td>Original Z, Z', Springate, Grover, Beneish, Piotroski</td>
+<td>Poor. Out of sample, blind to leverage, or not default models</td>
+<td>Some</td>
+<td>Mixed; Grover reads falsely healthy</td>
+</tr>
+</tbody>
+</table></div>
+<p>The ordering rests on three sourced points. Moody's standard adjustment treats the gross underfunded pension (PBO less plan assets) as debt (<a href="https://www.ipe.com/moodys-clarifies-ratings-for-unfunded-pensions/940.article">IPE</a>), and Moody's named future US pension contributions as a risk in its 2025 Unisys action (<a href="https://www.investing.com/news/stock-market-news/unisys-credit-rating-downgraded-by-moodys-outlook-now-stable-93CH-3938020">Investing.com</a>), so the agency framework is built to see the pension. Campbell, Hilscher and Szilagyi found that a model combining accounting and market measures forecasts failure better than leading alternatives (<a href="https://econbiz.de/Record/in-search-of-distress-risk-campbell-john/10003823141">EconBiz</a>), and Bharath and Shumway found even a naive distance to default does as well as the full Merton model (<a href="https://ideas.repec.org/a/oup/rfinst/v21y2008i3p1339-1369.html">IDEAS/RePEc</a>), which is why market models would rank higher if their inputs existed. Against the accounting scores, the Altman family shows only about <strong>0.75 accuracy</strong> internationally (<a href="https://international.vlex.com/vid/financial-distress-prediction-in-855618057">vLex abstract</a>), practitioners note it is blind to unfunded pensions (<a href="https://pro.stockalarm.io/blog/altman-z-score-guide">StockAlarm guide</a>), and the samples behind Altman, Ohlson and Zmijewski contained manufacturers and industrials, not IT services firms with negative equity (<a href="https://metricgate.com/docs/altman-z-score/">MetricGate</a>; <a href="https://th.tradingview.com/support/solutions/43000597850/">TradingView</a>). Beneish and Piotroski are screens for earnings manipulation and value returns, not default (<a href="https://bpb-us-w2.wpmucdn.com/u.osu.edu/dist/3/40936/files/2016/12/M-Score-pa6gdy.pdf">Ohio State handout</a>; <a href="https://alphaarchitect.com/?p=18498">Alpha Architect</a>). No source tested any of these models on firms that combine negative book equity with a large pension deficit, so the ranking is reasoned from model design, not from a head to head study.</p>
+</section>
+<section id="s2"><h2 id="every-unisys-figure-here-is-snippet-grade-and-six-of-them-conflict">Every Unisys figure here is snippet grade, and six of them conflict</h2>
+<p>Web fetches of sec.gov, unisys.com and the rating agencies failed throughout the research, so each Unisys number was read from a search summary of the cited page. Where two sources disagree, both are shown below. Some conflicts resolve once the dates are aligned; others do not.</p>
+<div class="scroll"><table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Conflicting values</th>
+<th>Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Total debt</td>
+<td>$741.7M at 31 Dec 2025 (<a href="https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm">10-K</a>); $733.5M at 30 Jun 2026 (<a href="https://www.sec.gov/Archives/edgar/data/0000746838/000074683826000027/uis-20260630.htm">10-Q</a>); about $745M (secondary summary); <strong>$1,198.2M</strong> on the 1Q26 slide, flagged as a jumbled extraction (<a href="https://www.unisys.com/siteassets/investor-relations/earnings-files/2026/1q-2026-presentation.pdf">1Q26 presentation</a>)</td>
+<td>$1,198.2M is close to debt plus the $448.5M pension deficit ($1,190M), which suggests the slide counts the pension, but this is unconfirmed</td>
+</tr>
+<tr>
+<td>Net leverage including pension</td>
+<td>2.8x (YE2025), 2.9x (Mar 2026), 3.1x (Jun 2026); excluding pension 1.3x and 1.5x (<a href="https://www.marketbeat.com/earnings/reports/2026-2-24-unisys-co-stock/">MarketBeat</a>; <a href="https://www.sec.gov/Archives/edgar/data/0000746838/000074683826000027/uis-20260630.htm">10-Q summary</a>)</td>
+<td>Reconciles by date: ($733.5M − $324.3M + $448.5M) / $276.9M trailing adjusted EBITDA = 3.1x; without pension 1.5x</td>
+</tr>
+<tr>
+<td>2026 pension contributions</td>
+<td>About $87M (10-K), $92M, $97M (10-Qs), $100M to $102M (guidance incl. postretirement) (<a href="https://www.unisys.com/siteassets/investor-relations/earnings-files/2025/2026-2q-10q.pdf">Q2 10-Q</a>; <a href="https://www.nasdaq.com/press-release/unisys-announces-1q26-results-2026-05-05">Nasdaq</a>)</td>
+<td>Partly vintage and scope; treat as about $100M</td>
+</tr>
+<tr>
+<td>Pension deficit mid 2026</td>
+<td>About $420M (management estimate); $485.1M balance sheet liability; "improved about $30M" (<a href="https://www.mychesco.com/a/news/regional/unisys-cuts-u-s-pension-liabilities-by-another-200-million/">MyChesCo</a>; <a href="https://www.sec.gov/Archives/edgar/data/0000746838/000074683826000025/q22026earningsrelease.htm">Q2 release</a>)</td>
+<td>Different measures; unresolved</td>
+</tr>
+<tr>
+<td>Q2 2026 free cash flow</td>
+<td>−$49.0M (<a href="https://www.placera.se/pressmeddelanden/unisys-unisys-announces-2q26-results-20260729">Placera</a>) versus −$38.3M (<a href="https://stocktaper.com/earningsCallSummary/UIS/2026/Q2">Stock Taper</a>)</td>
+<td>Unresolved; the company release figure is preferred</td>
+</tr>
+<tr>
+<td>2026 revenue guidance</td>
+<td>−6.5% to −4.5% (February), −5.0% to −3.5% "reaffirmed" (July); Benzinga reports a lowered sales outlook, undated (<a href="https://www.nasdaq.com/press-release/unisys-announces-2q26-results-2026-07-29">Nasdaq</a>; <a href="https://www.benzinga.com/quote/UIS/financials">Benzinga</a>)</td>
+<td>Unresolved</td>
+</tr>
+</tbody>
+</table></div>
+<p>Smaller conflicts also matter. ClearPath revenue fell 20.4% or 22.9% in Q2 2026 depending on source. Share counts range from 71.3 to 72.9 million. Published Altman Z values for Unisys run from −1.37 to −0.17, undated (<a href="https://www.gurufocus.com/stock/UIS">GuruFocus</a>; <a href="https://www.roic.ai/quote/UIS/statistics">ROIC.ai</a>). Two aggregator "bankruptcy probabilities" sit at <strong>1.1%</strong> (<a href="https://new.alphaspread.com/security/nyse/uis/solvency">AlphaSpread</a>) and <strong>49.69%</strong> over 24 months (<a href="https://valueinvesting.io/UIS/probability-of-bankruptcy">valueinvesting.io</a>); their methods are opaque and neither belongs in an analysis. The model inputs are also uneven. The Ohlson coefficients for three terms, both Zmijewski coefficient sets and the Z' coefficients could not be checked against the original papers. No Taffler score was computed because its coefficients are disputed. No going concern paragraph, auditor opinion or ABL covenant text was read directly, so "none found" means absent from snippets, not confirmed absent.</p>
+</section>
+<section id="s3"><h2 id="cash-runway-and-ratings-put-one-year-risk-near-3-percent">Cash runway and ratings put one year risk near 3 percent</h2>
+<p>On the top ranked framework Unisys looks liquid for now. The debt stack is essentially one instrument: <strong>$698.4 million</strong> face of 10.625% senior secured notes due 15 January 2031, issued in June 2025 to retire the 6.875% notes due 2027 and to fund part of the US pension (<a href="https://www.sec.gov/Archives/edgar/data/0000746838/000074683826000027/uis-20260630.htm">10-Q</a>; <a href="https://www.unisys.com/siteassets/collateral/news/closing-private-offering-senior-secured-notes-062725.pdf">Unisys closing release</a>). The $125 million ABL is undrawn and now runs to June 2030; at year end 2025 its borrowing base allowed <strong>$92.2 million</strong> of availability net of letters of credit (<a href="https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm">10-K</a>). Management says it expects to meet all covenants and liquidity needs for at least 12 months (<a href="https://quartr.com/events/unisys-corporation-uis-q2-2026_ofaJGMo3">Quartr</a>). That clears the ASC 205-40 bar, which asks only whether failure to meet obligations within one year is probable (<a href="https://www.gaapdynamics.com/reminders-about-going-concern-requirements-asc-205-40/">GAAP Dynamics</a>). The pension links to the revolver through a springing maturity: the ABL falls due 91 days before any year in which required US contributions exceed <strong>$100 million</strong>, unless liquidity exceeds $130 million and a coverage test is met (<a href="https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm">10-K</a>). Disclosed 2026 US contributions are about $47 million, so the trigger is not close.</p>
+<p>The pension itself is shrinking as a balance sheet claim but not yet as a cash claim. The global funding deficit fell from <strong>$750.2 million to $448.5 million</strong> in 2025, mostly because Unisys put in $343.7 million of cash, including a $250 million discretionary contribution largely funded by the new notes (<a href="https://www.unisys.com/siteassets/investor-relations/earnings-files/2025/4q-2025-022426.pdf">4Q25 release</a>). Annuity purchases from plan assets have since removed about <strong>$520 million</strong> of US liabilities, including a roughly $200 million New York Life contract closed on 16 September 2026, with no company cash cost but an expected noncash settlement charge of about $150 million in Q3 2026 (<a href="https://www.placera.se/pressmeddelanden/unisys-unisys-transfers-approximately-200-million-of-its-u-s-defined-benefit-pension-obligations-to-new-york-life-through-the-purchase-of-a-group-annuity-contract-20260916">Placera</a>). Required contributions remain heavy relative to cash generation: about <strong>$105 million in 2027 and $241 million across 2028 to 2030</strong> (<a href="https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm">10-K</a>).</p>
+<p>Cash generation is the weak point. Free cash flow was <strong>−$74.5 million</strong> in the first half of 2026 and is guided to about −$25 million for the year, or about +$75 million before pension, with capex of about $85 million (<a href="https://www.placera.se/pressmeddelanden/unisys-unisys-announces-2q26-results-20260729">Placera</a>; <a href="https://www.sec.gov/Archives/edgar/data/0000746838/000074683826000027/uis-20260630.htm">10-Q summary</a>). Cash fell $89.6 million in six months. Interest expense rose from $31.9 million in 2024 to $53.4 million in 2025 and ran at $36.8 million in the first half of 2026, an annual pace near $74 million (<a href="https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm">10-K</a>; <a href="https://www.sec.gov/Archives/edgar/data/0000746838/000074683826000027/uis-20260630.htm">10-Q</a>). Coverage depends entirely on the earnings measure. Trailing adjusted EBITDA of $276.9 million covers that pace about <strong>3.8 times</strong>; FY2025 GAAP operating profit of $78.5 million covered FY2025 interest about 1.5 times; trailing GAAP operating profit of $26.4 million covers the current pace only about <strong>0.4 times</strong>. In 2027 the pension, coupon and capex together come to roughly $264 million, nearly all of adjusted EBITDA before taxes, restructuring and working capital.</p>
+<p>The agency framework turns this into a probability. S&amp;P cut Unisys from B+ to B in 2024 and Moody's cut it from B1 to B2 in 2025, both with stable outlooks as of the FY2025 10-K (<a href="https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm">10-K</a>); Moody's cited flat revenue and debt to EBITDA near 4.5x (<a href="https://www.investing.com/news/stock-market-news/unisys-credit-rating-downgraded-by-moodys-outlook-now-stable-93CH-3938020">Investing.com</a>). No 2026 action was found, though the agency sites could not be reached. A third party reproduction of S&amp;P's 1981 to 2024 data gives B category cumulative default rates of <strong>2.93% at one year, 10.46% at three and 15.60% at five</strong> (<a href="https://ledgertouch.com/blog/planning-and-costs/default-rates-by-credit-rating">Ledgertouch</a>); another page puts five years at 14.69% (<a href="https://legalclarity.org/historical-default-rates-by-credit-rating/">LegalClarity</a>), and S&amp;P reports a 21.2% lifetime default rate for issuers first rated B (<a href="https://maalot.co.il/Publications/FTS20250331162126.pdf">Maalot copy of S&amp;P study</a>). These are category averages, not notch specific, and the primary table was not retrieved. The line that matters is CCC, which S&amp;P reserves for issuers facing at least a one in two likelihood of default (<a href="https://www.maalot.co.il/publications/mt20131212112800d.pdf">Maalot copy of S&amp;P criteria</a>). Unisys is two notches above it.</p>
+</section>
+<section id="s4"><h2 id="accounting-scores-flash-distress-but-the-deficit-is-history">Accounting scores flash distress, but the deficit is history</h2>
+<p>Every accounting model built on retained earnings or leverage puts Unisys in distress. Using Z'' with its sourced coefficients and cutoffs of 1.1 and 2.6 (<a href="https://en.wikipedia.org/wiki/Altman_Z-score">Wikipedia</a>) and inputs from the 10-K and 10-Q snippets, Unisys scores <strong>−2.99 at FY2025 and −4.28 at June 2026</strong>, or 0.26 and −1.03 in the emerging market version with its constant. Both sit below 1.1 in every variant. The original Z reads −0.41 and −0.75, inside the range data sites publish. Zmijewski returns probit scores of 1.9 to 3.7, implying failure probabilities of <strong>97% to 99.9%</strong> under either conflicting coefficient set (<a href="https://th.tradingview.com/support/solutions/43000597850/">TradingView</a>; <a href="https://arxiv.org/pdf/2606.05623">arXiv</a>). A partial Ohlson score, missing the size and funds from operations terms, already sums to +4.5, which points to a very high probability but cannot be finished (<a href="https://en.wikipedia.org/wiki/Ohlson_O-score">Wikipedia</a>). Springate falls below its 0.862 cutoff for any non positive pretax result, and H1 2026 pretax loss was $102.9 million (<a href="https://www.growingscience.com/dsl/Vol13/dsl_2023_51.pdf">Growing Science</a>). Grover alone reads healthy, at 0.52 and 0.36, because it ignores equity and retained earnings (<a href="https://eudl.eu/pdf/10.4108/eai.8-10-2018.2288689">EUDL</a>).</p>
+<p>The decomposition shows why these readings deserve little weight. In Z'' the retained earnings term alone contributes <strong>−4.38</strong> at FY2025, because the accumulated deficit of $2.48 billion exceeds total assets of $1.85 billion (<a href="https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm">10-K</a>). Remove that one term and the FY2025 emerging market score would be about 4.6, comfortably safe. The pension itself barely moves the result: adding the $517.7 million balance sheet pension liability back to equity lifts Z'' by under 0.3 points and changes no zone. So the scores are measuring decades of losses and charges, including the $227.7 million pension settlement loss in 2025, rather than current solvency. A Zmijewski probability of 99.9% for a company whose secured notes were marked above par on the same balance sheet date is a calibration failure, not a forecast. The useful information these models carry is narrower: positive working capital (current ratio about 1.4) and a thin operating margin, which is exactly what Grover picks up and what the stronger frameworks already see.</p>
+</section>
+<section id="s5"><h2 id="equity-prices-distress-while-the-secured-notes-stayed-near-par">Equity prices distress while the secured notes stayed near par</h2>
+<p>The market signals diverge, and no market model could be completed. The stock closed at $2.44 on 22 September 2026, giving a market value of about <strong>$178 million</strong>, roughly a quarter of the face value of debt and about 73% below the $8.93 52 week high cited in mid 2025 (<a href="https://uk.investing.com/equities/unisys-corp">Investing.com</a>; <a href="https://www.zacks.com/stock/news/2574213/unisys-declines-12-in-a-month-time-to-buy-sell-or-hold-the-stock">Zacks</a>). Shares fell about 9% after Q2 results, which included a $95.3 million net loss, a $47.2 million goodwill impairment and a 20% drop in ClearPath revenue (<a href="https://www.webull.com/news/15319076896777216">Webull/Simply Wall St</a>; <a href="https://www.nasdaq.com/press-release/unisys-announces-2q26-results-2026-07-29">Nasdaq</a>). Analysts still frame the stock as a Hold with targets near $4.50 to $5.00, and no source found said Unisys was likely to file (<a href="https://www.marketbeat.com/instant-alerts/unisys-nyseuis-given-new-500-price-target-at-needham-company-llc-2026-07-30/">MarketBeat</a>).</p>
+<p>The bond evidence is thinner and older. Fair value of the notes was <strong>$717.5 million on $700 million face</strong> at 31 December 2025 (<a href="https://www.sec.gov/Archives/edgar/data/746838/000130817926000085/uis014724a.pdf">FY2025 ARS</a>), about 102.5 cents, which is not a distress price. In the first half of 2026 Unisys repurchased $1.6 million face for $1.4 million, about 87.5 cents, but the trade was tiny and its date unknown (<a href="https://www.sec.gov/Archives/edgar/data/0000746838/000074683826000027/uis-20260630.htm">10-Q</a>). TradingView listings show prices from 99 to 108 with no timestamps (<a href="https://www.tradingview.com/symbols/GETTEX-USY1/bonds">TradingView</a>). No dated October quote, Treasury spread or CDS was found, so a spread implied default probability cannot be computed. The gap between equity and debt is consistent with structure: the notes hold liens on substantially all assets (<a href="https://www.sec.gov/Archives/edgar/data/746838/000074683820000140/exhibit991pressrelease.htm">8-K</a>), so lenders can feel safe while the equity absorbs the pension and refinancing risk. A Merton or naive distance to default run needs equity volatility, a current price and a risk free rate, none of which were retrieved, plus a judgment on whether the pension deficit belongs in the default point. Adding it would raise the debt measure by roughly 60%, so the sensitivity would be large.</p>
+</section>
+<section id="s6"><h2 id="precedents-point-to-the-2030-refinancing-as-the-real-test">Precedents point to the 2030 refinancing as the real test</h2>
+<p>The precedent companies show what usually triggers a filing: debt service and refinancing against falling earnings, with pensions as a secondary claim. Diebold Nixdorf was cut to the triple C category about 13 months before its June 2023 prepackaged Chapter 11, and its FY2022 10-K warned of insufficient liquidity over the next 12 months because its ABL borrowing base was constrained (<a href="https://www.creditflux.com/CLOs/2022-05-23/Problem-in-checkout-area-as-CLO-favourite-Diebold-Nixdorf-slips-to-triple-C?d=1">Creditflux</a>; <a href="https://www.sec.gov/Archives/edgar/data/28823/000002882323000078/dbd-20221231.htm">Diebold 10-K</a>). Avaya filed twice with about $6 billion of debt, and the PBGC took its salaried plan each time (<a href="https://www.channelweb.co.uk/news/3015219/avaya-close-exiting-chapter">ChannelWeb</a>). Sears's pension became an unsecured claim of about $800 million in its case (<a href="https://ai-cio.com/news/pbgc-sears-reach-chapter-11-bankruptcy-settlement">AI-CIO</a>). Non filers pushed maturities out and kept cash flow positive: Pitney Bowes generated $358 million of FCF in 2025 (<a href="https://www.businesswire.com/news/home/20260217119288/en/Pitney-Bowes-Discloses-Financial-Results-for-Fourth-Quarter-and-Full-Year-2025-and-Issues-CEO-Letter">Business Wire</a>), while Xerox, with 2028 maturities and leverage near 6x, was cut to Caa2 in March 2026 (<a href="https://www.action-intell.com/2026/03/16/moodys-downgrades-xerox-debt-further-into-junk-territory/">Action Intell</a>). Unisys's own history fits the non filer pattern: it was widely expected to file around 1989 to 1991 but cut debt from $4 billion to $1.1 billion by 1993 (<a href="https://washingtontechnology.com/1994/10/unisys-troubling-transformation/325534">Washington Technology</a>).</p>
+<p>Today Unisys shows none of Diebold's warning signs: no CCC rating, no liquidity warning found, no maturity before 2031. It also lacks Pitney Bowes's main defence, positive FCF after all claims. Simple arithmetic on guidance makes the issue concrete. If pre pension FCF held at the 2026 guide of about $75 million a year for 2027 to 2030, it would roughly offset the $346 million of scheduled pension contributions, leaving cash near $280 million against $698 million of notes due January 2031. That is a scenario, not a forecast, but it shows the notes must be refinanced, and on what terms will depend on whether management reaches its stated target of net leverage including pension below 2.0x by 2029 (<a href="https://www.marketbeat.com/earnings/reports/2026-2-24-unisys-co-stock/">MarketBeat</a>) and on whether revenue stops shrinking.</p>
+</section>
+<section id="s7"><h2 id="conclusion">Conclusion</h2>
+<p>The frameworks disagree less than they first appear. The accounting scores are not wrong about Unisys's past; they are simply answering a question nobody needs answered, since a $2.5 billion accumulated deficit says nothing about whether the company can pay its January 2031 coupon. The frameworks that see cash all say the same thing: low risk for the next year, rising risk toward 2030, and a single B rating that is honest about both. The best single estimate the public data supports is the rating implied range of about 3% in one year and about 15% over five, weighted to the later years because the pension calls, the 10.625% coupon and the refinancing all cluster there. A sharper number needs a dated bond yield and equity volatility, which would let a naive distance to default and a spread implied PD be run side by side.</p>
+<p>Four signals would move the estimate, and all are observable: a downgrade toward CCC or Caa, a drawn ABL or a springing maturity test coming into view, a 2027 FCF guide below zero after pension, and the bond price falling well below par. If none of these appear by the time the last US annuity settlement closes, expected by January 2027, the pension will have shifted from a balance sheet threat to a manageable cash schedule, and Unisys's default risk will rest almost entirely on whether ClearPath and the services business can support a refinancing in 2029 or 2030. Before anyone relies on these figures, the 10-K, the Q2 and Q3 2026 10-Qs, a dated TRACE quote and the current agency reports should replace the snippets used here.</p></section>
+<footer>
+  <div>Research report produced by a coordinated deep research run: four parallel research tracks on web sources, synthesised by a report writer, with every claim footnoted to its source. Figures reached this environment through web search results only; filing pages were not fetchable. This is analysis, not investment advice.</div>
+</footer>
+</div>
