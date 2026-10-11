@@ -2,7 +2,7 @@
 30-day volume check; rank ascending; keep 700 (500 + 200 buffer).
 Usage: 02_shares_prices.py [--test]  (--test reads universe_test.json)"""
 import sys
-from datetime import date, datetime, timezone
+from datetime import date, datetime, timedelta, timezone
 from _util import *
 
 TEST = "--test" in sys.argv
@@ -94,30 +94,32 @@ for n, r in enumerate(rows):
         flags.append("no_sec_shares"); cnt["yahoo_shares_fallback"] += 1
         sh = ysh
     else:
-        def factor(sd): 
+        def factor(sd):
             f = 1.0
             for sdate, fac in ch["splits"]:
                 if sdate > sd:
                     f *= fac
             return f
+        chart_start = (today.replace(year=today.year - 1)).isoformat()
         F = factor(s["end"])
-        sh = s["val"] * F
+        sh = s["val"] * F          # always apply Yahoo split events dated after the SEC share date
         if ysh and not in_range(sh / ysh):
             nw = cf_dei(r["cik"])  # newer SEC value?
-            if nw and nw["end"] > s["end"]:
+            if nw and nw["end"] > s["end"] and nw["val"] > 0:
                 s, src = nw, "companyfacts"
                 F = factor(s["end"]); sh = s["val"] * F
-        if ysh and not in_range(sh / ysh) and F != 1.0 and in_range(s["val"] / ysh):
-            sh, F = s["val"], 1.0  # SEC value already reflects the split
+        stale = (today - d(s["end"])).days > 150
+        unadjustable = s["end"] < chart_start  # older than the 1y chart window: split history unknown
+        splits_after = any(sd > (d(s["end"]) - timedelta(days=120)).isoformat() for sd, _ in ch["splits"])  # split after, or shortly before, the SEC date
         if F != 1.0:
             flags.append("split_adjusted")
         if ysh and not in_range(sh / ysh):
             flags.append("split_check")
-            if ysh > 2.0 * sh:
-                # Reverse splits can only make Yahoo's count smaller, so Yahoo >> SEC means the SEC dei value
-                # is a single class / wrong scale / pre-dilution: use Yahoo, keep the flag.
+            if stale or unadjustable:
                 sh, src = ysh, "yahoo"
-            # else Yahoo << SEC: Yahoo applied an announced reverse split early; keep SEC shares.
+            elif ysh > 2.0 * sh and not splits_after:
+                sh, src = ysh, "yahoo"   # fresh SEC count covers one class / wrong scale; Yahoo is current
+            # else keep (split adjusted) SEC shares
     mc = px * sh
     if mc >= 1e9:
         cnt["cap_ge_1B"] += 1; continue

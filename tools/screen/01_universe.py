@@ -77,7 +77,7 @@ stats["after_yahoo_prefilter"] = len(keep)
 
 # Submissions
 INV = {"N-54A", "N-2", "N-2/A", "N-2ASR", "N-CSR", "N-CSRS", "40-17G", "40-17F2", "497", "N-8A"}
-final, drop = [], {"investment_company_bdc": 0, "no_recent_10K_10Q": 0, "sic6770": 0, "foreign_only_20F_40F": 0, "submissions_missing": 0}
+final, drop = [], {"preferred_or_notes": 0, "investment_company_bdc": 0, "no_recent_10K_10Q": 0, "sic6770": 0, "foreign_only_20F_40F": 0, "submissions_missing": 0}
 for n, r in enumerate(keep):
     cik10 = f"{r['cik']:010d}"
     s = cached(RAW / f"sub_{cik10}.json", lambda: sec_get(f"https://data.sec.gov/submissions/CIK{cik10}.json") or {})
@@ -103,6 +103,23 @@ for n, r in enumerate(keep):
             drop["foreign_only_20F_40F"] += 1
         else:
             drop["no_recent_10K_10Q"] += 1
+        continue
+    # subsidiary preferred stock / notes quoted under the parent registrant's CIK
+    q = quotes.get(r["ticker"], {})
+    px = q.get("regularMarketPrice") or 0
+    fs = sfr.get(r["cik"])
+    if fs is None and px > 20:
+        cf = cached(RAW / f"cf_{cik10}.json", lambda: sec_get(f"https://data.sec.gov/api/xbrl/companyfacts/CIK{cik10}.json") or {})
+        best = None
+        for arr in cf.get("facts", {}).get("dei", {}).get("EntityCommonStockSharesOutstanding", {}).get("units", {}).values():
+            for e in arr:
+                if best is None or e["end"] > best["end"]:
+                    best = {"val": e["val"], "end": e["end"]}
+        fs = best
+    nm = (q.get("longName") or "") + " " + (q.get("shortName") or "") + " " + (r["name"] or "")
+    if (fs and (fs["val"] < 1000 or (px > 20 and fs["end"] < "2023-10-11"))) or \
+            re.search(r"\d%|\bpreferred (?:stock|shares)\b|\bnotes\b|\bdepositary\b|\bdebentures?\b", nm, re.I):
+        drop["preferred_or_notes"] += 1
         continue
     r = dict(r)
     r.update(sic=s.get("sic"), sic_desc=s.get("sicDescription"), sec_name=s.get("name"),
