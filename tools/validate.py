@@ -92,6 +92,10 @@ def main():
             s0, s1 = inp["shares_current_basis"].get(years[i - 1]), inp["shares_current_basis"].get(y)
             if s0 and s1 and abs(s1 / s0 - 1) > 0.25:
                 warns.append(f"{y} shares changed {s1 / s0 - 1:+.0%}; check split adjustment")
+    for fld in ("ppe_gross", "accum_dep"):
+        gaps = [y for y in years[:6] if f.get(fld, {}).get(y) is None]  # template cols D..I
+        if gaps:
+            info.append(f"{fld} null for {', '.join(gaps)} (template columns D..I); gross PP&E rows not populated")
     ic = {y: by[y]["invested_capital"] for y in years}
     if "2018" in ic and "2019" in ic and ic["2018"] > 0 and ic["2019"] / ic["2018"] > 1.3:
         info.append(f"IC jumps {ic['2019'] / ic['2018'] - 1:+.0%} in 2019: ASC 842 operating leases "
