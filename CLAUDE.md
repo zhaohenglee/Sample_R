@@ -18,6 +18,15 @@ Rules:
 
 Concise, plain English. Structured and logical. Honest feedback, no filler. Avoid "-" as a prose connector.
 
+## HTML outputs
+
+Every HTML report (e.g. `output/TICKER/report.html` from `tools/report_html.py`) is published as a claude.ai Artifact and pinned to the user's sidebar, and the link is given in the reply. Republish the same file path to keep the same URL.
+
+Published reports:
+| Report | Link |
+|---|---|
+| Amazon EPV Valuation | https://claude.ai/artifact/VGGyuqzYHGe3ZSp9Lzyyjf |
+
 ## Stock evaluation workflow
 
 Fixed assumptions (user decision): cost of capital = 10%, discount rate = 10%. Do not change without the user.
