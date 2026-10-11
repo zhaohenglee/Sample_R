@@ -16,16 +16,7 @@ today = date.fromisoformat(TODAY)
 TARGET = 500
 
 
-def shell(cik):
-    p = RAW / f"cf_{cik:010d}.json"
-    if not p.exists():
-        return False
-    best = None
-    for arr in json.loads(p.read_text()).get("facts", {}).get("dei", {}).get("EntityShellCompany", {}).get("units", {}).values():
-        for e in arr:
-            if best is None or e["end"] > best["end"]:
-                best = e
-    return bool(best and best["val"] is True)
+SHELL = json.loads((OUT / f"shell{sfx}.json").read_text())
 
 
 rows = []
@@ -37,7 +28,8 @@ for r in CAPS["rows"]:
     elif n["end"] < "2025-07-11": flags.append("fy_older_than_15m")
     if n["src"] == "companyfacts": flags.append("nopat_from_companyfacts")
     if dsc.get("src") == "sic": flags.append("desc_sic_fallback")
-    if shell(r["cik"]): flags.append("shell_company")
+    if SHELL.get(r["ticker"]): flags.append("shell_company")
+    if SHELL.get(r["ticker"]) is None: flags.append("shell_undetermined")
     m = lambda x: None if x is None else round(x / 1e6, 4)
     rows.append(dict(
         cik=r["cik"], ticker=r["ticker"], company=r["sec_name"] or r["name"], exchange=r["exchange"],

@@ -88,3 +88,16 @@ class Yahoo:
         s = urllib.parse.quote(",".join(symbols), safe=",")
         d = self.get("https://query2.finance.yahoo.com/v7/finance/quote?symbols=" + s)
         return (d or {}).get("quoteResponse", {}).get("result", [])
+
+
+def share_frames():
+    """Latest dei shares outstanding per CIK across CY2025Q4I..CY2026Q3I frames."""
+    frames = {}
+    for p in ("CY2025Q4I", "CY2026Q1I", "CY2026Q2I", "CY2026Q3I"):
+        j = cached(RAW / f"frame_shares_{p}.json",
+                   lambda: sec_get(f"https://data.sec.gov/api/xbrl/frames/dei/EntityCommonStockSharesOutstanding/shares/{p}.json") or {"data": []})
+        for e in j["data"]:
+            c = e["cik"]
+            if c not in frames or e["end"] > frames[c]["end"]:
+                frames[c] = {"val": e["val"], "end": e["end"]}
+    return frames
