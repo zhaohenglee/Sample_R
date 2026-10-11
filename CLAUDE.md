@@ -26,6 +26,7 @@ Published reports:
 | Report | Link |
 |---|---|
 | Amazon EPV Valuation | https://claude.ai/artifact/VGGyuqzYHGe3ZSp9Lzyyjf |
+| Smallest 500 US Listed Companies | https://claude.ai/artifact/GMjewxW5DFjMajMKHmFty7 |
 
 ## Stock evaluation workflow
 
