@@ -68,12 +68,14 @@ for n, r in enumerate(rows):
         cnt["stale_trade"] += 1; continue
     flags = []
     s = frames.get(r["cik"])
-    if s and (today - d(s["end"])).days > 150:
+    if s and ((today - d(s["end"])).days > 150 or s["val"] <= 0):
         s = None
     if not s:
         s = cf_dei(r["cik"])
         if s and (today - d(s["end"])).days > 150:
             flags.append("shares_stale")
+    if s and s["val"] <= 0:
+        s = None  # zero/invalid dei value (e.g. empty class); use Yahoo fallback below
     ysh = q.get("sharesOutstanding")
     # cheap pre-screen before the chart call: obviously huge caps skip the chart
     approx = px * (s["val"] if s else (ysh or 0))
@@ -105,11 +107,17 @@ for n, r in enumerate(rows):
             if nw and nw["end"] > s["end"]:
                 s, src = nw, "companyfacts"
                 F = factor(s["end"]); sh = s["val"] * F
+        if ysh and not in_range(sh / ysh) and F != 1.0 and in_range(s["val"] / ysh):
+            sh, F = s["val"], 1.0  # SEC value already reflects the split
         if F != 1.0:
             flags.append("split_adjusted")
         if ysh and not in_range(sh / ysh):
-            # SEC (split adjusted) shares kept; Yahoo gap not explained by a split event
             flags.append("split_check")
+            if ysh > 2.0 * sh:
+                # Reverse splits can only make Yahoo's count smaller, so Yahoo >> SEC means the SEC dei value
+                # is a single class / wrong scale / pre-dilution: use Yahoo, keep the flag.
+                sh, src = ysh, "yahoo"
+            # else Yahoo << SEC: Yahoo applied an announced reverse split early; keep SEC shares.
     mc = px * sh
     if mc >= 1e9:
         cnt["cap_ge_1B"] += 1; continue
