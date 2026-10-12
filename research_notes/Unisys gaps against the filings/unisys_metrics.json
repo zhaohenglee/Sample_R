@@ -1,0 +1,5490 @@
+{
+ "meta": {
+  "as_of": "2026-10-12",
+  "units": "USD millions unless stated",
+  "script": "compute_unisys.py",
+  "python": "3.11.15",
+  "run_flags": "python3 -I, standard library only",
+  "debt_basis": "Carrying value for balance sheet models; face shown as alternative in notes.",
+  "labels": "Runway is arithmetic on stated guidance, not a forecast."
+ },
+ "inputs": {
+  "units": "USD millions unless stated",
+  "FY2024": {
+   "table": [
+    {
+     "key": "cash",
+     "label": "Cash and cash equivalents",
+     "value": 376.5,
+     "unit": "USD millions",
+     "source_item": "Cash and cash equivalents",
+     "source_period": "FY2024 (31 Dec 2024)",
+     "ledger": "fy2025_10k_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm",
+     "quote": "Cash and cash equivalents | 413.9 | 376.5"
+    },
+    {
+     "key": "tca",
+     "label": "Total current assets",
+     "value": 979.3,
+     "unit": "USD millions",
+     "source_item": "Total current assets",
+     "source_period": "FY2024 (31 Dec 2024)",
+     "ledger": "fy2025_10k_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm",
+     "quote": "Total current assets | 1,004.0 | 979.3"
+    },
+    {
+     "key": "tcl",
+     "label": "Total current liabilities",
+     "value": 628.0,
+     "unit": "USD millions",
+     "source_item": "Total current liabilities",
+     "source_period": "FY2024 (31 Dec 2024)",
+     "ledger": "fy2025_10k_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm",
+     "quote": "Total current liabilities | 655.9 | 628.0"
+    },
+    {
+     "key": "wc",
+     "label": "Working capital",
+     "value": 351.3,
+     "unit": "USD millions",
+     "derived": "total current assets minus total current liabilities"
+    },
+    {
+     "key": "ta",
+     "label": "Total assets",
+     "value": 1872.3,
+     "unit": "USD millions",
+     "source_item": "Total assets",
+     "source_period": "FY2024 (31 Dec 2024)",
+     "ledger": "fy2025_10k_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm",
+     "quote": "Total assets | 1,846.2 | 1,872.3"
+    },
+    {
+     "key": "tl",
+     "label": "Total liabilities",
+     "value": 2141.6,
+     "unit": "USD millions",
+     "derived": "total assets minus total deficit",
+     "note": "The balance sheet prints no total liabilities line."
+    },
+    {
+     "key": "re",
+     "label": "Accumulated deficit",
+     "value": -2139.1,
+     "unit": "USD millions",
+     "source_item": "Accumulated deficit",
+     "source_period": "FY2024 (31 Dec 2024)",
+     "ledger": "fy2025_10k_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm",
+     "quote": "Accumulated deficit | (2,478.9) | (2,139.1)"
+    },
+    {
+     "key": "deficit_total",
+     "label": "Total deficit (incl. NCI)",
+     "value": -269.3,
+     "unit": "USD millions",
+     "source_item": "Total deficit",
+     "source_period": "FY2024 (31 Dec 2024)",
+     "ledger": "fy2025_10k_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm",
+     "quote": "Total deficit | (268.3) | (269.3)"
+    },
+    {
+     "key": "deficit_unisys",
+     "label": "Unisys stockholders deficit",
+     "value": -283.4,
+     "unit": "USD millions",
+     "source_item": "Total Unisys Corporation stockholders' deficit",
+     "source_period": "FY2024 (31 Dec 2024)",
+     "ledger": "fy2025_10k_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm",
+     "quote": "Total Unisys Corporation stockholders' deficit | (282.6) | (283.4)"
+    },
+    {
+     "key": "ltd",
+     "label": "Long term debt",
+     "value": 488.2,
+     "unit": "USD millions",
+     "source_item": "Long-term debt",
+     "source_period": "FY2024 (31 Dec 2024)",
+     "ledger": "fy2025_10k_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm",
+     "quote": "Long-term debt | 729.0 | 488.2"
+    },
+    {
+     "key": "cur_debt",
+     "label": "Current maturities of debt",
+     "value": 5.0,
+     "unit": "USD millions",
+     "source_item": "Current maturities of long-term debt (current debt)",
+     "source_period": "FY2024 (31 Dec 2024)",
+     "ledger": "fy2025_10k_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm",
+     "quote": "Current maturities of long-term debt | 12.7 | 5.0"
+    },
+    {
+     "key": "total_debt",
+     "label": "Total debt, carrying",
+     "value": 493.2,
+     "unit": "USD millions",
+     "source_item": "Total debt (long-term debt note total incl. finance leases)",
+     "source_period": "FY2024 (31 Dec 2024)",
+     "ledger": "fy2025_10k_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm",
+     "quote": "Total | 741.7 | 493.2",
+     "note": "Carrying amount (net of issuance costs, includes finance leases)."
+    },
+    {
+     "key": "pension_bs",
+     "label": "Long term pension and postretirement liabilities",
+     "value": 816.4,
+     "unit": "USD millions",
+     "source_item": "Long-term pension and postretirement liabilities",
+     "source_period": "FY2024 (31 Dec 2024)",
+     "ledger": "fy2025_10k_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm",
+     "quote": "Long-term pension and postretirement liabilities | 517.7 | 816.4"
+    },
+    {
+     "key": "pension_deficit",
+     "label": "DB pension funding deficit",
+     "value": 750.2,
+     "unit": "USD millions",
+     "source_item": "Funded status, total defined benefit plans",
+     "source_period": "FY2024 (31 Dec 2024)",
+     "ledger": "fy2025_10k_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm",
+     "quote": "Funded status at end of year | $ | (281.2) | $ | (557.4) | $ | (167.3) | $ | (192.8)",
+     "note": "Funding deficit of the defined benefit plans, positive number."
+    },
+    {
+     "key": "revenue",
+     "label": "Revenue",
+     "value": 2008.4,
+     "unit": "USD millions",
+     "source_item": "Revenue",
+     "source_period": "FY2024",
+     "ledger": "fy2025_10k_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm",
+     "quote": "Revenue | 1,950.1 | 2,008.4 | 2,015.4"
+    },
+    {
+     "key": "ebit",
+     "label": "Operating profit (EBIT)",
+     "value": 97.4,
+     "unit": "USD millions",
+     "source_item": "Operating income (operating profit)",
+     "source_period": "FY2024",
+     "ledger": "fy2025_10k_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm",
+     "quote": "Operating income | 78.5 | 97.4 | 76.9"
+    },
+    {
+     "key": "interest",
+     "label": "Interest expense",
+     "value": 31.9,
+     "unit": "USD millions",
+     "source_item": "Interest expense",
+     "source_period": "FY2024",
+     "ledger": "fy2025_10k_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm",
+     "quote": "Interest expense | 53.4 | 31.9 | 30.8"
+    },
+    {
+     "key": "ebt",
+     "label": "Pre tax loss",
+     "value": -75.3,
+     "unit": "USD millions",
+     "source_item": "Loss before income taxes (pretax)",
+     "source_period": "FY2024",
+     "ledger": "fy2025_10k_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm",
+     "quote": "Loss before income taxes | (272.2) | (75.3) | (347.8)"
+    },
+    {
+     "key": "ni",
+     "label": "Net loss attributable to Unisys",
+     "value": -193.4,
+     "unit": "USD millions",
+     "source_item": "Net loss attributable to Unisys Corporation",
+     "source_period": "FY2024",
+     "ledger": "fy2025_10k_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm",
+     "quote": "Net loss attributable to Unisys Corporation | (339.8) | (193.4) | (430.7)"
+    },
+    {
+     "key": "ni_consol",
+     "label": "Consolidated net loss",
+     "value": -193.2,
+     "unit": "USD millions",
+     "source_item": "Consolidated net loss (incl. noncontrolling interests)",
+     "source_period": "FY2024",
+     "ledger": "fy2025_10k_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm",
+     "quote": "Consolidated net loss | (340.0) | (193.2) | (427.1)"
+    },
+    {
+     "key": "ocf",
+     "label": "Cash from operations",
+     "value": 135.1,
+     "unit": "USD millions",
+     "source_item": "Net cash (used for) provided by operating activities",
+     "source_period": "FY2024",
+     "ledger": "fy2025_10k_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm",
+     "quote": "Net cash (used for) provided by operating activities | (140.0) | 135.1 | 74.2"
+    },
+    {
+     "key": "capex",
+     "label": "Capex (software + properties)",
+     "value": 79.8,
+     "unit": "USD millions",
+     "source_item": "Total capex (marketable software + properties and other assets)",
+     "source_period": "FY2024",
+     "ledger": "fy2025_10k_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm",
+     "quote": "Capital additions of properties and other assets | (30.0) | (32.3) | (32.7)",
+     "note": "Ledger sign is negative; shown here as a positive outflow."
+    },
+    {
+     "key": "pension_contrib",
+     "label": "Pension and postretirement contributions",
+     "value": 27.1,
+     "unit": "USD millions",
+     "source_item": "Pension and postretirement contributions (cash flow line)",
+     "source_period": "FY2024",
+     "ledger": "fy2025_10k_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm",
+     "quote": "Pension and postretirement contributions | (345.3) | (27.1) | (48.0)",
+     "note": "Cash flow line, pension plus postretirement; positive outflow."
+    },
+    {
+     "key": "fcf_company",
+     "label": "Free cash flow (company definition)",
+     "value": 55.3,
+     "unit": "USD millions",
+     "source_item": "Free cash flow (company definition), earnings release",
+     "source_period": "FY2024",
+     "ledger": "fy2025_10k_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000003/q42025earningsrelease.htm",
+     "quote": "Free cash flow 85.8 55.7 (217.6) 55.3"
+    },
+    {
+     "key": "fcf_prepension_company",
+     "label": "Pre pension free cash flow (company)",
+     "value": 82.4,
+     "unit": "USD millions",
+     "source_item": "Pre-pension and postretirement free cash flow, earnings release",
+     "source_period": "FY2024",
+     "ledger": "fy2025_10k_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000003/q42025earningsrelease.htm",
+     "quote": "Pre-pension and postretirement free cash flow 112.9 61.8 127.7 82.4"
+    },
+    {
+     "key": "da",
+     "label": "Depreciation and amortization",
+     "value": 106.4,
+     "unit": "USD millions",
+     "source_item": "Total depreciation and amortization (sum of four cash flow lines)",
+     "source_period": "FY2024",
+     "ledger": "fy2025_10k_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm",
+     "quote": "Amortization of intangible assets | 4.3 | 7.2 | 9.7"
+    },
+    {
+     "key": "adj_ebitda",
+     "label": "Adjusted EBITDA (company)",
+     "value": 292.1,
+     "unit": "USD millions",
+     "source_item": "Adjusted EBITDA, earnings release",
+     "source_period": "FY2024",
+     "ledger": "fy2025_10k_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000003/q42025earningsrelease.htm",
+     "quote": "Adjusted EBITDA | $ | 129.0 | $ | 91.4 | $ | 278.8 | $ | 292.1"
+    }
+   ],
+   "vs_snippet": [
+    {
+     "key": "revenue",
+     "filing_value": 2008.4,
+     "snippet_value": 2008.4,
+     "difference_filing_minus_snippet": 0.0,
+     "note": ""
+    },
+    {
+     "key": "ebit",
+     "filing_value": 97.4,
+     "snippet_value": 97.4,
+     "difference_filing_minus_snippet": 0.0,
+     "note": ""
+    },
+    {
+     "key": "interest",
+     "filing_value": 31.9,
+     "snippet_value": 31.9,
+     "difference_filing_minus_snippet": 0.0,
+     "note": ""
+    },
+    {
+     "key": "ni",
+     "filing_value": -193.4,
+     "snippet_value": -193.4,
+     "difference_filing_minus_snippet": 0.0,
+     "note": ""
+    },
+    {
+     "key": "pension_bs",
+     "filing_value": 816.4,
+     "snippet_value": null,
+     "difference_filing_minus_snippet": null,
+     "note": "Earlier note did not report it."
+    },
+    {
+     "key": "pension_deficit",
+     "filing_value": 750.2,
+     "snippet_value": 750.2,
+     "difference_filing_minus_snippet": 0.0,
+     "note": ""
+    },
+    {
+     "key": "tca",
+     "filing_value": 979.3,
+     "snippet_value": 982.4,
+     "difference_filing_minus_snippet": -3.1,
+     "note": "Earlier snippet used 982.4 (FY2024 10-K as originally filed); the FY2025 10-K comparative is 979.3 (recast)."
+    }
+   ]
+  },
+  "FY2025": {
+   "table": [
+    {
+     "key": "cash",
+     "label": "Cash and cash equivalents",
+     "value": 413.9,
+     "unit": "USD millions",
+     "source_item": "Cash and cash equivalents",
+     "source_period": "FY2025 (31 Dec 2025)",
+     "ledger": "fy2025_10k_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm",
+     "quote": "Cash and cash equivalents | 413.9 | 376.5"
+    },
+    {
+     "key": "tca",
+     "label": "Total current assets",
+     "value": 1004.0,
+     "unit": "USD millions",
+     "source_item": "Total current assets",
+     "source_period": "FY2025 (31 Dec 2025)",
+     "ledger": "fy2025_10k_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm",
+     "quote": "Total current assets | 1,004.0 | 979.3"
+    },
+    {
+     "key": "tcl",
+     "label": "Total current liabilities",
+     "value": 655.9,
+     "unit": "USD millions",
+     "source_item": "Total current liabilities",
+     "source_period": "FY2025 (31 Dec 2025)",
+     "ledger": "fy2025_10k_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm",
+     "quote": "Total current liabilities | 655.9 | 628.0"
+    },
+    {
+     "key": "wc",
+     "label": "Working capital",
+     "value": 348.1,
+     "unit": "USD millions",
+     "derived": "total current assets minus total current liabilities"
+    },
+    {
+     "key": "ta",
+     "label": "Total assets",
+     "value": 1846.2,
+     "unit": "USD millions",
+     "source_item": "Total assets",
+     "source_period": "FY2025 (31 Dec 2025)",
+     "ledger": "fy2025_10k_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm",
+     "quote": "Total assets | 1,846.2 | 1,872.3"
+    },
+    {
+     "key": "tl",
+     "label": "Total liabilities",
+     "value": 2114.5,
+     "unit": "USD millions",
+     "derived": "total assets minus total deficit",
+     "note": "The balance sheet prints no total liabilities line."
+    },
+    {
+     "key": "re",
+     "label": "Accumulated deficit",
+     "value": -2478.9,
+     "unit": "USD millions",
+     "source_item": "Accumulated deficit",
+     "source_period": "FY2025 (31 Dec 2025)",
+     "ledger": "fy2025_10k_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm",
+     "quote": "Accumulated deficit | (2,478.9) | (2,139.1)"
+    },
+    {
+     "key": "deficit_total",
+     "label": "Total deficit (incl. NCI)",
+     "value": -268.3,
+     "unit": "USD millions",
+     "source_item": "Total deficit",
+     "source_period": "FY2025 (31 Dec 2025)",
+     "ledger": "fy2025_10k_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm",
+     "quote": "Total deficit | (268.3) | (269.3)"
+    },
+    {
+     "key": "deficit_unisys",
+     "label": "Unisys stockholders deficit",
+     "value": -282.6,
+     "unit": "USD millions",
+     "source_item": "Total Unisys Corporation stockholders' deficit",
+     "source_period": "FY2025 (31 Dec 2025)",
+     "ledger": "fy2025_10k_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm",
+     "quote": "Total Unisys Corporation stockholders' deficit | (282.6) | (283.4)"
+    },
+    {
+     "key": "ltd",
+     "label": "Long term debt",
+     "value": 729.0,
+     "unit": "USD millions",
+     "source_item": "Long-term debt",
+     "source_period": "FY2025 (31 Dec 2025)",
+     "ledger": "fy2025_10k_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm",
+     "quote": "Long-term debt | 729.0 | 488.2"
+    },
+    {
+     "key": "cur_debt",
+     "label": "Current maturities of debt",
+     "value": 12.7,
+     "unit": "USD millions",
+     "source_item": "Current maturities of long-term debt (current debt)",
+     "source_period": "FY2025 (31 Dec 2025)",
+     "ledger": "fy2025_10k_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm",
+     "quote": "Current maturities of long-term debt | 12.7 | 5.0"
+    },
+    {
+     "key": "total_debt",
+     "label": "Total debt, carrying",
+     "value": 741.7,
+     "unit": "USD millions",
+     "source_item": "Total debt (long-term debt note total incl. finance leases)",
+     "source_period": "FY2025 (31 Dec 2025)",
+     "ledger": "fy2025_10k_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm",
+     "quote": "Total | 741.7 | 493.2",
+     "note": "Carrying amount (net of issuance costs, includes finance leases)."
+    },
+    {
+     "key": "pension_bs",
+     "label": "Long term pension and postretirement liabilities",
+     "value": 517.7,
+     "unit": "USD millions",
+     "source_item": "Long-term pension and postretirement liabilities",
+     "source_period": "FY2025 (31 Dec 2025)",
+     "ledger": "fy2025_10k_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm",
+     "quote": "Long-term pension and postretirement liabilities | 517.7 | 816.4"
+    },
+    {
+     "key": "pension_deficit",
+     "label": "DB pension funding deficit",
+     "value": 448.5,
+     "unit": "USD millions",
+     "source_item": "Funded status, total defined benefit plans",
+     "source_period": "FY2025 (31 Dec 2025)",
+     "ledger": "fy2025_10k_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm",
+     "quote": "Funded status at end of year | $ | (281.2) | $ | (557.4) | $ | (167.3) | $ | (192.8)",
+     "note": "Funding deficit of the defined benefit plans, positive number."
+    },
+    {
+     "key": "revenue",
+     "label": "Revenue",
+     "value": 1950.1,
+     "unit": "USD millions",
+     "source_item": "Revenue",
+     "source_period": "FY2025",
+     "ledger": "fy2025_10k_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm",
+     "quote": "Revenue | 1,950.1 | 2,008.4 | 2,015.4"
+    },
+    {
+     "key": "ebit",
+     "label": "Operating profit (EBIT)",
+     "value": 78.5,
+     "unit": "USD millions",
+     "source_item": "Operating income (operating profit)",
+     "source_period": "FY2025",
+     "ledger": "fy2025_10k_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm",
+     "quote": "Operating income | 78.5 | 97.4 | 76.9"
+    },
+    {
+     "key": "interest",
+     "label": "Interest expense",
+     "value": 53.4,
+     "unit": "USD millions",
+     "source_item": "Interest expense",
+     "source_period": "FY2025",
+     "ledger": "fy2025_10k_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm",
+     "quote": "Interest expense | 53.4 | 31.9 | 30.8"
+    },
+    {
+     "key": "ebt",
+     "label": "Pre tax loss",
+     "value": -272.2,
+     "unit": "USD millions",
+     "source_item": "Loss before income taxes (pretax)",
+     "source_period": "FY2025",
+     "ledger": "fy2025_10k_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm",
+     "quote": "Loss before income taxes | (272.2) | (75.3) | (347.8)"
+    },
+    {
+     "key": "ni",
+     "label": "Net loss attributable to Unisys",
+     "value": -339.8,
+     "unit": "USD millions",
+     "source_item": "Net loss attributable to Unisys Corporation",
+     "source_period": "FY2025",
+     "ledger": "fy2025_10k_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm",
+     "quote": "Net loss attributable to Unisys Corporation | (339.8) | (193.4) | (430.7)"
+    },
+    {
+     "key": "ni_consol",
+     "label": "Consolidated net loss",
+     "value": -340.0,
+     "unit": "USD millions",
+     "source_item": "Consolidated net loss (incl. noncontrolling interests)",
+     "source_period": "FY2025",
+     "ledger": "fy2025_10k_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm",
+     "quote": "Consolidated net loss | (340.0) | (193.2) | (427.1)"
+    },
+    {
+     "key": "ocf",
+     "label": "Cash from operations",
+     "value": -140.0,
+     "unit": "USD millions",
+     "source_item": "Net cash (used for) provided by operating activities",
+     "source_period": "FY2025",
+     "ledger": "fy2025_10k_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm",
+     "quote": "Net cash (used for) provided by operating activities | (140.0) | 135.1 | 74.2"
+    },
+    {
+     "key": "capex",
+     "label": "Capex (software + properties)",
+     "value": 77.6,
+     "unit": "USD millions",
+     "source_item": "Total capex (marketable software + properties and other assets)",
+     "source_period": "FY2025",
+     "ledger": "fy2025_10k_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm",
+     "quote": "Capital additions of properties and other assets | (30.0) | (32.3) | (32.7)",
+     "note": "Ledger sign is negative; shown here as a positive outflow."
+    },
+    {
+     "key": "pension_contrib",
+     "label": "Pension and postretirement contributions",
+     "value": 345.3,
+     "unit": "USD millions",
+     "source_item": "Pension and postretirement contributions (cash flow line)",
+     "source_period": "FY2025",
+     "ledger": "fy2025_10k_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm",
+     "quote": "Pension and postretirement contributions | (345.3) | (27.1) | (48.0)",
+     "note": "Cash flow line, pension plus postretirement; positive outflow."
+    },
+    {
+     "key": "fcf_company",
+     "label": "Free cash flow (company definition)",
+     "value": -217.6,
+     "unit": "USD millions",
+     "source_item": "Free cash flow (company definition: cash from operations less capex), earnings release",
+     "source_period": "FY2025",
+     "ledger": "fy2025_10k_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000003/q42025earningsrelease.htm",
+     "quote": "Free cash flow 85.8 55.7 (217.6) 55.3"
+    },
+    {
+     "key": "fcf_prepension_company",
+     "label": "Pre pension free cash flow (company)",
+     "value": 127.7,
+     "unit": "USD millions",
+     "source_item": "Pre-pension and postretirement free cash flow, earnings release",
+     "source_period": "FY2025",
+     "ledger": "fy2025_10k_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000003/q42025earningsrelease.htm",
+     "quote": "Pre-pension and postretirement free cash flow 112.9 61.8 127.7 82.4"
+    },
+    {
+     "key": "da",
+     "label": "Depreciation and amortization",
+     "value": 95.2,
+     "unit": "USD millions",
+     "source_item": "Total depreciation and amortization (sum of four cash flow lines)",
+     "source_period": "FY2025",
+     "ledger": "fy2025_10k_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm",
+     "quote": "Amortization of intangible assets | 4.3 | 7.2 | 9.7"
+    },
+    {
+     "key": "adj_ebitda",
+     "label": "Adjusted EBITDA (company)",
+     "value": 278.8,
+     "unit": "USD millions",
+     "source_item": "Adjusted EBITDA, earnings release",
+     "source_period": "FY2025",
+     "ledger": "fy2025_10k_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000003/q42025earningsrelease.htm",
+     "quote": "Adjusted EBITDA | $ | 129.0 | $ | 91.4 | $ | 278.8 | $ | 292.1"
+    }
+   ],
+   "vs_snippet": [
+    {
+     "key": "ta",
+     "filing_value": 1846.2,
+     "snippet_value": 1846.2,
+     "difference_filing_minus_snippet": 0.0,
+     "note": ""
+    },
+    {
+     "key": "tca",
+     "filing_value": 1004.0,
+     "snippet_value": 1004.0,
+     "difference_filing_minus_snippet": 0.0,
+     "note": ""
+    },
+    {
+     "key": "tcl",
+     "filing_value": 655.9,
+     "snippet_value": 655.9,
+     "difference_filing_minus_snippet": 0.0,
+     "note": ""
+    },
+    {
+     "key": "wc",
+     "filing_value": 348.1,
+     "snippet_value": 348.1,
+     "difference_filing_minus_snippet": 0.0,
+     "note": ""
+    },
+    {
+     "key": "re",
+     "filing_value": -2478.9,
+     "snippet_value": -2478.9,
+     "difference_filing_minus_snippet": 0.0,
+     "note": ""
+    },
+    {
+     "key": "deficit_total",
+     "filing_value": -268.3,
+     "snippet_value": -268.3,
+     "difference_filing_minus_snippet": 0.0,
+     "note": ""
+    },
+    {
+     "key": "deficit_unisys",
+     "filing_value": -282.6,
+     "snippet_value": -282.6,
+     "difference_filing_minus_snippet": 0.0,
+     "note": ""
+    },
+    {
+     "key": "tl",
+     "filing_value": 2114.5,
+     "snippet_value": 2114.5,
+     "difference_filing_minus_snippet": 0.0,
+     "note": ""
+    },
+    {
+     "key": "cash",
+     "filing_value": 413.9,
+     "snippet_value": 413.9,
+     "difference_filing_minus_snippet": 0.0,
+     "note": ""
+    },
+    {
+     "key": "ltd",
+     "filing_value": 729.0,
+     "snippet_value": null,
+     "difference_filing_minus_snippet": null,
+     "note": "Earlier note: gap."
+    },
+    {
+     "key": "total_debt",
+     "filing_value": 741.7,
+     "snippet_value": null,
+     "difference_filing_minus_snippet": null,
+     "note": "Earlier note: gap (aggregator 729 was long term debt only)."
+    },
+    {
+     "key": "pension_bs",
+     "filing_value": 517.7,
+     "snippet_value": 517.7,
+     "difference_filing_minus_snippet": 0.0,
+     "note": ""
+    },
+    {
+     "key": "pension_deficit",
+     "filing_value": 448.5,
+     "snippet_value": 448.5,
+     "difference_filing_minus_snippet": 0.0,
+     "note": ""
+    },
+    {
+     "key": "revenue",
+     "filing_value": 1950.1,
+     "snippet_value": 1950.1,
+     "difference_filing_minus_snippet": 0.0,
+     "note": ""
+    },
+    {
+     "key": "ebit",
+     "filing_value": 78.5,
+     "snippet_value": 78.5,
+     "difference_filing_minus_snippet": 0.0,
+     "note": ""
+    },
+    {
+     "key": "interest",
+     "filing_value": 53.4,
+     "snippet_value": 53.4,
+     "difference_filing_minus_snippet": 0.0,
+     "note": ""
+    },
+    {
+     "key": "ebt",
+     "filing_value": -272.2,
+     "snippet_value": null,
+     "difference_filing_minus_snippet": null,
+     "note": "Earlier note: gap."
+    },
+    {
+     "key": "ni",
+     "filing_value": -339.8,
+     "snippet_value": -339.8,
+     "difference_filing_minus_snippet": 0.0,
+     "note": ""
+    },
+    {
+     "key": "ocf",
+     "filing_value": -140.0,
+     "snippet_value": -140.0,
+     "difference_filing_minus_snippet": 0.0,
+     "note": ""
+    },
+    {
+     "key": "adj_ebitda",
+     "filing_value": 278.8,
+     "snippet_value": null,
+     "difference_filing_minus_snippet": null,
+     "note": "Earlier note: not collected."
+    }
+   ]
+  },
+  "Q2_2026": {
+   "basis": "Balance sheet at 30 Jun 2026; flows are LTM = FY2025 minus H1 2025 plus H1 2026",
+   "table": [
+    {
+     "key": "cash",
+     "label": "Cash and cash equivalents",
+     "value": 324.3,
+     "unit": "USD millions",
+     "source_item": "Cash and cash equivalents",
+     "source_period": "2026-06-30",
+     "ledger": "q2_2026_10q_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm",
+     "quote": "Cash and cash equivalents | $ | 324.3 | $ | 413.9"
+    },
+    {
+     "key": "tca",
+     "label": "Total current assets",
+     "value": 846.1,
+     "unit": "USD millions",
+     "source_item": "Total current assets",
+     "source_period": "2026-06-30",
+     "ledger": "q2_2026_10q_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm",
+     "quote": "Total current assets | 846.1 | 1,004.0"
+    },
+    {
+     "key": "tcl",
+     "label": "Total current liabilities",
+     "value": 600.3,
+     "unit": "USD millions",
+     "source_item": "Total current liabilities",
+     "source_period": "2026-06-30",
+     "ledger": "q2_2026_10q_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm",
+     "quote": "Total current liabilities | 600.3 | 655.9"
+    },
+    {
+     "key": "wc",
+     "label": "Working capital",
+     "value": 245.8,
+     "unit": "USD millions",
+     "derived": "total current assets minus total current liabilities"
+    },
+    {
+     "key": "ta",
+     "label": "Total assets",
+     "value": 1641.6,
+     "unit": "USD millions",
+     "source_item": "Total assets",
+     "source_period": "2026-06-30",
+     "ledger": "q2_2026_10q_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm",
+     "quote": "Total assets | $ | 1,641.6 | $ | 1,846.2"
+    },
+    {
+     "key": "tl",
+     "label": "Total liabilities",
+     "value": 1993.5,
+     "unit": "USD millions",
+     "derived": "total assets minus total deficit"
+    },
+    {
+     "key": "re",
+     "label": "Accumulated deficit",
+     "value": -2610.0,
+     "unit": "USD millions",
+     "source_item": "Accumulated deficit",
+     "source_period": "2026-06-30",
+     "ledger": "q2_2026_10q_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm",
+     "quote": "Accumulated deficit | (2,610.0) | (2,478.9)"
+    },
+    {
+     "key": "deficit_total",
+     "label": "Total deficit (incl. NCI)",
+     "value": -351.9,
+     "unit": "USD millions",
+     "source_item": "Total deficit",
+     "source_period": "2026-06-30",
+     "ledger": "q2_2026_10q_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm",
+     "quote": "Total deficit | (351.9) | (268.3)"
+    },
+    {
+     "key": "deficit_unisys",
+     "label": "Unisys stockholders deficit",
+     "value": -367.4,
+     "unit": "USD millions",
+     "source_item": "Total Unisys Corporation stockholders' deficit",
+     "source_period": "2026-06-30",
+     "ledger": "q2_2026_10q_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm",
+     "quote": "Total Unisys Corporation stockholders' deficit | (367.4) | (282.6)"
+    },
+    {
+     "key": "ltd",
+     "label": "Long term debt",
+     "value": 721.9,
+     "unit": "USD millions",
+     "source_item": "Long-term debt",
+     "source_period": "2026-06-30",
+     "ledger": "q2_2026_10q_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm",
+     "quote": "Long-term debt | 721.9 | 729.0"
+    },
+    {
+     "key": "cur_debt",
+     "label": "Current maturities of debt",
+     "value": 11.6,
+     "unit": "USD millions",
+     "source_item": "Current maturities of long-term debt (current debt)",
+     "source_period": "2026-06-30",
+     "ledger": "q2_2026_10q_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm",
+     "quote": "Current maturities of long-term debt | $ | 11.6 | $ | 12.7"
+    },
+    {
+     "key": "total_debt",
+     "label": "Total debt, carrying",
+     "value": 733.5,
+     "unit": "USD millions",
+     "source_item": "Total debt (carrying amount: notes + finance leases + other debt)",
+     "source_period": "2026-06-30",
+     "ledger": "q2_2026_10q_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm",
+     "quote": "Finance leases | 37.3 | 41.2 | Other debt | 9.3 | 13.3 | Total | 733.5 | 741.7 | Less – current maturities | 11.6 | 12.7 | Total long-term debt | $ | 721.9 | $ | 729.0",
+     "note": "Carrying amount, used for balance sheet models. Face alternative in total_debt_face."
+    },
+    {
+     "key": "total_debt_face",
+     "label": "Total debt, face",
+     "value": 745.0,
+     "unit": "USD millions",
+     "source_item": "Total debt at face value (notes face + finance leases + other debt) (derived)",
+     "source_period": "2026-06-30",
+     "ledger": "q2_2026_10q_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm",
+     "quote": "Derived: notes face 698.4 + finance leases 37.3 + other debt 9.3 = 745.0 (carrying 733.5 is after 11.5 of unamortized issuance costs on the notes)",
+     "note": "Face 745.0 = notes 698.4 + finance leases 37.3 + other debt 9.3. Alternative to carrying 733.5."
+    },
+    {
+     "key": "notes_face",
+     "label": "2031 notes face",
+     "value": 698.4,
+     "unit": "USD millions",
+     "source_item": "10.625% senior secured notes due 2031, face value outstanding",
+     "source_period": "2026-06-30",
+     "ledger": "q2_2026_10q_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm",
+     "quote": "(Face value of $698.4 million and $700.0 million less unamortized issuance costs of $11.5 million and $12.8 million at June 30, 2026 and December 31, 2025, respectively)"
+    },
+    {
+     "key": "notes_fv",
+     "label": "2031 notes fair value",
+     "value": 658.0,
+     "unit": "USD millions",
+     "source_item": "2031 notes fair value (Level 2)",
+     "source_period": "2026-06-30",
+     "ledger": "q2_2026_10q_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm",
+     "quote": "10.625% senior secured notes due January 15, 2031 | $ | 686.9 | $ | 658.0 | $ | 687.2 | $ | 717.5"
+    },
+    {
+     "key": "pension_bs",
+     "label": "Long term pension and postretirement liabilities",
+     "value": 485.1,
+     "unit": "USD millions",
+     "source_item": "Long-term pension and postretirement liabilities",
+     "source_period": "2026-06-30",
+     "ledger": "q2_2026_10q_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm",
+     "quote": "Long-term pension and postretirement liabilities | 485.1 | 517.7"
+    },
+    {
+     "key": "prepaid_pension",
+     "label": "Prepaid pension asset",
+     "value": 38.2,
+     "unit": "USD millions",
+     "source_item": "Prepaid pension and postretirement assets",
+     "source_period": "2026-06-30",
+     "ledger": "q2_2026_10q_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm",
+     "quote": "Prepaid pension and postretirement assets | 38.2 | 21.3"
+    },
+    {
+     "key": "pension_bs_net",
+     "label": "Net balance sheet pension position",
+     "value": 446.9,
+     "unit": "USD millions",
+     "derived": "long term pension and postretirement liability minus prepaid pension asset",
+     "note": "Balance sheet measure, not the funding deficit."
+    },
+    {
+     "key": "pension_deficit_stale",
+     "label": "DB funding deficit (last stated, 31 Dec 2025)",
+     "value": 448.5,
+     "unit": "USD millions",
+     "source_item": "Defined benefit pension funding deficit, 31 Dec 2025 (company release)",
+     "source_period": "2025-12-31",
+     "ledger": "q2_2026_10q_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000003/q42025earningsrelease.htm",
+     "quote": "Defined benefit pension plans funding deficit status of $448.5 million compared to funding deficit of $750.2 million in 2024, improved by $301.7 million",
+     "note": "Last figure stated by the company. No 30 Jun 2026 funding deficit exists in the filings."
+    },
+    {
+     "key": "abl_avail",
+     "label": "ABL availability",
+     "value": 99.7,
+     "unit": "USD millions",
+     "source_item": "ABL availability, net of letters of credit",
+     "source_period": "2026-06-30",
+     "ledger": "q2_2026_10q_ledger.json",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm",
+     "quote": "Availability under the Amended and Restated ABL Credit Facility was $99.7 million, net of letters of credit issued."
+    },
+    {
+     "key": "revenue_ltm",
+     "label": "LTM revenue",
+     "value": 1945.8,
+     "unit": "USD millions",
+     "derived": "FY2025 revenue - H1 2025 + H1 2026"
+    },
+    {
+     "key": "ebit_ltm",
+     "label": "LTM operating profit",
+     "value": 26.4,
+     "unit": "USD millions",
+     "derived": "FY2025 ebit - H1 2025 + H1 2026"
+    },
+    {
+     "key": "interest_ltm",
+     "label": "LTM interest expense",
+     "value": 73.8,
+     "unit": "USD millions",
+     "derived": "FY2025 interest - H1 2025 + H1 2026"
+    },
+    {
+     "key": "ebt_ltm",
+     "label": "LTM pre tax loss",
+     "value": -355.1,
+     "unit": "USD millions",
+     "derived": "FY2025 ebt - H1 2025 + H1 2026"
+    },
+    {
+     "key": "ni_ltm",
+     "label": "LTM net loss attributable",
+     "value": -421.3,
+     "unit": "USD millions",
+     "derived": "FY2025 ni - H1 2025 + H1 2026"
+    },
+    {
+     "key": "ni_consol_ltm",
+     "label": "LTM consolidated net loss",
+     "value": -421.8,
+     "unit": "USD millions",
+     "derived": "FY2025 ni_consol - H1 2025 + H1 2026"
+    },
+    {
+     "key": "ocf_ltm",
+     "label": "LTM cash from operations",
+     "value": 112.2,
+     "unit": "USD millions",
+     "derived": "FY2025 ocf - H1 2025 + H1 2026"
+    },
+    {
+     "key": "capex_ltm",
+     "label": "LTM capex",
+     "value": 81.0,
+     "unit": "USD millions",
+     "derived": "FY2025 capex - H1 2025 + H1 2026"
+    },
+    {
+     "key": "pension_contrib_ltm",
+     "label": "LTM pension and postretirement contributions",
+     "value": 115.8,
+     "unit": "USD millions",
+     "derived": "FY2025 pension_contrib - H1 2025 + H1 2026"
+    },
+    {
+     "key": "fcf_ltm_company",
+     "label": "LTM free cash flow",
+     "value": 31.2,
+     "unit": "USD millions",
+     "derived": "FY2025 company FCF - H1 2025 + H1 2026"
+    },
+    {
+     "key": "adj_ebitda_ltm",
+     "label": "LTM Adjusted EBITDA",
+     "value": 276.9,
+     "unit": "USD millions",
+     "derived": "FY2025 278.8 - H1 2025 + H1 2026"
+    },
+    {
+     "key": "da_ltm",
+     "label": "LTM depreciation and amortization",
+     "value": null,
+     "unit": "USD millions",
+     "derived": "FY2025 D&A - H1 2025 D&A + H1 2026 D&A",
+     "note": "Depreciation and amortization for H1 2025 and H1 2026 are not in the 10-Q ledger (no cash flow D&A lines), so LTM D&A and LTM funds from operations cannot be built."
+    },
+    {
+     "key": "ni_prior_ltm",
+     "label": "Prior LTM net loss",
+     "value": null,
+     "unit": "USD millions",
+     "derived": "FY2024 NI - H1 2024 NI + H1 2025 NI",
+     "note": "Prior LTM net income (12 months to 30 Jun 2025) needs H1 2024 net income, which is in neither ledger."
+    }
+   ],
+   "vs_snippet": [
+    {
+     "key": "ta",
+     "filing_value": 1641.6,
+     "snippet_value": 1641.6,
+     "difference_filing_minus_snippet": 0.0,
+     "note": ""
+    },
+    {
+     "key": "tca",
+     "filing_value": 846.1,
+     "snippet_value": 846.1,
+     "difference_filing_minus_snippet": 0.0,
+     "note": ""
+    },
+    {
+     "key": "tcl",
+     "filing_value": 600.3,
+     "snippet_value": 600.3,
+     "difference_filing_minus_snippet": 0.0,
+     "note": ""
+    },
+    {
+     "key": "wc",
+     "filing_value": 245.8,
+     "snippet_value": 245.8,
+     "difference_filing_minus_snippet": 0.0,
+     "note": ""
+    },
+    {
+     "key": "re",
+     "filing_value": -2610.0,
+     "snippet_value": -2610.0,
+     "difference_filing_minus_snippet": 0.0,
+     "note": ""
+    },
+    {
+     "key": "deficit_total",
+     "filing_value": -351.9,
+     "snippet_value": -351.9,
+     "difference_filing_minus_snippet": 0.0,
+     "note": ""
+    },
+    {
+     "key": "deficit_unisys",
+     "filing_value": -367.4,
+     "snippet_value": -367.4,
+     "difference_filing_minus_snippet": 0.0,
+     "note": ""
+    },
+    {
+     "key": "tl",
+     "filing_value": 1993.5,
+     "snippet_value": 1993.5,
+     "difference_filing_minus_snippet": 0.0,
+     "note": ""
+    },
+    {
+     "key": "cash",
+     "filing_value": 324.3,
+     "snippet_value": 324.3,
+     "difference_filing_minus_snippet": 0.0,
+     "note": ""
+    },
+    {
+     "key": "ltd",
+     "filing_value": 721.9,
+     "snippet_value": 721.9,
+     "difference_filing_minus_snippet": 0.0,
+     "note": ""
+    },
+    {
+     "key": "total_debt",
+     "filing_value": 733.5,
+     "snippet_value": 733.5,
+     "difference_filing_minus_snippet": 0.0,
+     "note": ""
+    },
+    {
+     "key": "pension_bs",
+     "filing_value": 485.1,
+     "snippet_value": 485.1,
+     "difference_filing_minus_snippet": 0.0,
+     "note": ""
+    },
+    {
+     "key": "revenue_ltm",
+     "filing_value": 1945.8,
+     "snippet_value": 1945.8,
+     "difference_filing_minus_snippet": -0.0,
+     "note": ""
+    },
+    {
+     "key": "ebit_ltm",
+     "filing_value": 26.4,
+     "snippet_value": 26.4,
+     "difference_filing_minus_snippet": 0.0,
+     "note": ""
+    },
+    {
+     "key": "ni_ltm",
+     "filing_value": -421.3,
+     "snippet_value": -421.3,
+     "difference_filing_minus_snippet": 0.0,
+     "note": ""
+    },
+    {
+     "key": "ocf_ltm",
+     "filing_value": 112.2,
+     "snippet_value": null,
+     "difference_filing_minus_snippet": null,
+     "note": "Earlier note: gap."
+    },
+    {
+     "key": "ebt_ltm",
+     "filing_value": -355.1,
+     "snippet_value": null,
+     "difference_filing_minus_snippet": null,
+     "note": "Earlier note: gap."
+    },
+    {
+     "key": "pension_deficit_stale",
+     "filing_value": 448.5,
+     "snippet_value": null,
+     "difference_filing_minus_snippet": null,
+     "note": "Earlier note: gap; still not stated in filings for 30 Jun 2026."
+    }
+   ]
+  },
+  "ledger_vs_ledger_31dec2025": [
+   {
+    "fy_ledger_item": "Cash and cash equivalents",
+    "q2_ledger_item": "Cash and cash equivalents",
+    "fy_ledger_value": 413.9,
+    "q2_ledger_value": 413.9,
+    "difference": 0.0
+   },
+   {
+    "fy_ledger_item": "Total current assets",
+    "q2_ledger_item": "Total current assets",
+    "fy_ledger_value": 1004.0,
+    "q2_ledger_value": 1004.0,
+    "difference": 0.0
+   },
+   {
+    "fy_ledger_item": "Total assets",
+    "q2_ledger_item": "Total assets",
+    "fy_ledger_value": 1846.2,
+    "q2_ledger_value": 1846.2,
+    "difference": 0.0
+   },
+   {
+    "fy_ledger_item": "Total current liabilities",
+    "q2_ledger_item": "Total current liabilities",
+    "fy_ledger_value": 655.9,
+    "q2_ledger_value": 655.9,
+    "difference": 0.0
+   },
+   {
+    "fy_ledger_item": "Long-term debt",
+    "q2_ledger_item": "Long-term debt",
+    "fy_ledger_value": 729.0,
+    "q2_ledger_value": 729.0,
+    "difference": 0.0
+   },
+   {
+    "fy_ledger_item": "Current maturities of long-term debt (current debt)",
+    "q2_ledger_item": "Current maturities of long-term debt (current debt)",
+    "fy_ledger_value": 12.7,
+    "q2_ledger_value": 12.7,
+    "difference": 0.0
+   },
+   {
+    "fy_ledger_item": "Long-term pension and postretirement liabilities",
+    "q2_ledger_item": "Long-term pension and postretirement liabilities",
+    "fy_ledger_value": 517.7,
+    "q2_ledger_value": 517.7,
+    "difference": 0.0
+   },
+   {
+    "fy_ledger_item": "Accumulated deficit",
+    "q2_ledger_item": "Accumulated deficit",
+    "fy_ledger_value": -2478.9,
+    "q2_ledger_value": -2478.9,
+    "difference": 0.0
+   },
+   {
+    "fy_ledger_item": "Accumulated other comprehensive loss",
+    "q2_ledger_item": "Accumulated other comprehensive loss",
+    "fy_ledger_value": -2427.9,
+    "q2_ledger_value": -2427.9,
+    "difference": 0.0
+   },
+   {
+    "fy_ledger_item": "Total Unisys Corporation stockholders' deficit",
+    "q2_ledger_item": "Total Unisys Corporation stockholders' deficit",
+    "fy_ledger_value": -282.6,
+    "q2_ledger_value": -282.6,
+    "difference": 0.0
+   },
+   {
+    "fy_ledger_item": "Total deficit",
+    "q2_ledger_item": "Total deficit",
+    "fy_ledger_value": -268.3,
+    "q2_ledger_value": -268.3,
+    "difference": 0.0
+   },
+   {
+    "fy_ledger_item": "Prepaid pension and postretirement assets",
+    "q2_ledger_item": "Prepaid pension and postretirement assets",
+    "fy_ledger_value": 21.3,
+    "q2_ledger_value": 21.3,
+    "difference": 0.0
+   },
+   {
+    "fy_ledger_item": "Goodwill",
+    "q2_ledger_item": "Goodwill",
+    "fy_ledger_value": 193.8,
+    "q2_ledger_value": 193.8,
+    "difference": 0.0
+   },
+   {
+    "fy_ledger_item": "Total liabilities (the balance sheet prints no total)",
+    "q2_ledger_item": "Total liabilities (derived)",
+    "fy_ledger_value": 2114.5,
+    "q2_ledger_value": 2114.5,
+    "difference": 0.0
+   },
+   {
+    "fy_ledger_item": "Total debt (long-term debt note total incl. finance leases)",
+    "q2_ledger_item": "Total debt (carrying amount)",
+    "fy_ledger_value": 741.7,
+    "q2_ledger_value": 741.7,
+    "difference": 0.0
+   },
+   {
+    "fy_ledger_item": "Adjusted EBITDA, earnings release",
+    "q2_ledger_item": "Adjusted EBITDA (company definition)",
+    "fy_ledger_value": 278.8,
+    "q2_ledger_value": 278.8,
+    "difference": 0.0
+   },
+   {
+    "fy_ledger_item": "Estimated cash contributions to global DB plans: 2027",
+    "q2_ledger_item": "Expected 2027 global DB contributions (Q2 10-Q)",
+    "fy_ledger_value": 105.0,
+    "q2_ledger_value": 104.0,
+    "difference": 1.0,
+    "note": "10-K and Q1 10-Q say 105; Q2 10-Q says 104. The spec schedule uses 105 (10-K)."
+   },
+   {
+    "fy_ledger_item": "Estimated cash contributions to global DB plans: 2026",
+    "q2_ledger_item": "Expected total 2026 global DB contributions (Q2 10-Q)",
+    "fy_ledger_value": 87.0,
+    "q2_ledger_value": 97.0,
+    "difference": -10.0,
+    "note": "87 (10-K, superseded) versus 97 (Q2 10-Q)."
+   },
+   {
+    "fy_ledger_item": "Total current assets (FY2024 comparative)",
+    "q2_ledger_item": "(same ledger) as originally reported in FY2024 10-K",
+    "fy_ledger_value": 979.3,
+    "q2_ledger_value": 982.4,
+    "difference": -3.1,
+    "note": "Recast: prepaid and other current assets 106.3 to 103.2. Recast figure 979.3 used."
+   }
+  ],
+  "debt_choice_note": "Balance sheet models use carrying total debt (733.5 at 30 Jun 2026; 741.7 at 31 Dec 2025). Face alternatives: 745.0 and 754.5. The 1,198.2 'total debt' on the Q1 2026 slide adds the pension deficit and is not funded debt.",
+  "market_vs_snippet": [
+   {
+    "key": "share_price",
+    "filing_or_market_value": 2.22,
+    "snippet_value": 2.44,
+    "difference": -0.22,
+    "note": "Snippet price 2.44 (22 Sep 2026, third party); market_inputs.json close 2.22 on 9 Oct 2026."
+   },
+   {
+    "key": "market_cap_musd",
+    "filing_or_market_value": 161.873422,
+    "snippet_value": 177.9,
+    "difference": -16.026578,
+    "note": "Same share count 72,915,955 (10-Q cover); different price date."
+   }
+  ]
+ },
+ "accounting_scores": {
+  "method_notes": [
+   "EBIT is GAAP operating profit. Book equity is total deficit incl. noncontrolling interests. Total liabilities = total assets minus total deficit.",
+   "Debt is not an input to these scores except through total liabilities, which uses the balance sheet (carrying) basis.",
+   "Original Altman Z uses market cap 161.87 (9 Oct 2026) for both periods; period end market caps are not in market_inputs.json.",
+   "Taffler: null, no verified coefficients.",
+   "Ohlson size term: no GNP price level index in the inputs and no GDP deflator in the market note, so SIZE is null and O is null; partial sums are reported."
+  ],
+  "FY2025": {
+   "label": "FY2025 (balance sheet 31 Dec 2025, FY2025 flows)",
+   "altman_z_1968": {
+    "value": -0.411001,
+    "formula": "1.2*WC/TA + 1.4*RE/TA + 3.3*EBIT/TA + 0.6*MktCap/TL + 1.0*Sales/TA",
+    "inputs": {
+     "ta": {
+      "value": 1846.2,
+      "source": "fy2025_10k_ledger.json | Total assets | FY2025 (31 Dec 2025)"
+     },
+     "tca": {
+      "value": 1004.0,
+      "source": "fy2025_10k_ledger.json | Total current assets | FY2025 (31 Dec 2025)"
+     },
+     "tcl": {
+      "value": 655.9,
+      "source": "fy2025_10k_ledger.json | Total current liabilities | FY2025 (31 Dec 2025)"
+     },
+     "wc": {
+      "value": 348.1,
+      "source": "derived: total current assets minus total current liabilities"
+     },
+     "tl": {
+      "value": 2114.5,
+      "source": "derived: total assets minus total deficit"
+     },
+     "re": {
+      "value": -2478.9,
+      "source": "fy2025_10k_ledger.json | Accumulated deficit | FY2025 (31 Dec 2025)"
+     },
+     "deficit_total": {
+      "value": -268.3,
+      "source": "fy2025_10k_ledger.json | Total deficit | FY2025 (31 Dec 2025)"
+     },
+     "revenue": {
+      "value": 1950.1,
+      "source": "fy2025_10k_ledger.json | Revenue | FY2025"
+     },
+     "ebit": {
+      "value": 78.5,
+      "source": "fy2025_10k_ledger.json | Operating income (operating profit) | FY2025"
+     },
+     "market_cap_musd": {
+      "value": 161.873422,
+      "source": "market_inputs.json | equity.market_cap_usd | 2026-10-09 (price 2.22 x 72,915,955 shares)"
+     }
+    },
+    "note": "Out of population (listed manufacturers). Market cap is the 9 Oct 2026 value for both periods.",
+    "ratios": {
+     "X1": 0.188549,
+     "X2": -1.342704,
+     "X3": 0.04252,
+     "X4": 0.076554,
+     "X5": 1.056278
+    },
+    "weighted_terms": {
+     "X1": 0.226259,
+     "X2": -1.879786,
+     "X3": 0.140315,
+     "X4": 0.045932,
+     "X5": 1.056278
+    },
+    "zone": "distress",
+    "cutoffs": "safe > 2.99, grey 1.81 to 2.99, distress < 1.81"
+   },
+   "altman_zprime_1983": {
+    "value": 0.130902,
+    "formula": "0.717*WC/TA + 0.847*RE/TA + 3.107*EBIT/TA + 0.420*BookEq/TL + 0.998*Sales/TA",
+    "inputs": {
+     "ta": {
+      "value": 1846.2,
+      "source": "fy2025_10k_ledger.json | Total assets | FY2025 (31 Dec 2025)"
+     },
+     "tca": {
+      "value": 1004.0,
+      "source": "fy2025_10k_ledger.json | Total current assets | FY2025 (31 Dec 2025)"
+     },
+     "tcl": {
+      "value": 655.9,
+      "source": "fy2025_10k_ledger.json | Total current liabilities | FY2025 (31 Dec 2025)"
+     },
+     "wc": {
+      "value": 348.1,
+      "source": "derived: total current assets minus total current liabilities"
+     },
+     "tl": {
+      "value": 2114.5,
+      "source": "derived: total assets minus total deficit"
+     },
+     "re": {
+      "value": -2478.9,
+      "source": "fy2025_10k_ledger.json | Accumulated deficit | FY2025 (31 Dec 2025)"
+     },
+     "deficit_total": {
+      "value": -268.3,
+      "source": "fy2025_10k_ledger.json | Total deficit | FY2025 (31 Dec 2025)"
+     },
+     "revenue": {
+      "value": 1950.1,
+      "source": "fy2025_10k_ledger.json | Revenue | FY2025"
+     },
+     "ebit": {
+      "value": 78.5,
+      "source": "fy2025_10k_ledger.json | Operating income (operating profit) | FY2025"
+     }
+    },
+    "note": "Private firm model; coefficients from the earlier note (background knowledge, not verified against the paper).",
+    "ratios": {
+     "X1": 0.188549,
+     "X2": -1.342704,
+     "X3": 0.04252,
+     "X4": -0.126886,
+     "X5": 1.056278
+    },
+    "weighted_terms": {
+     "X1": 0.13519,
+     "X2": -1.13727,
+     "X3": 0.132109,
+     "X4": -0.053292,
+     "X5": 1.054165
+    },
+    "zone": "distress",
+    "cutoffs": "safe > 2.90, grey 1.23 to 2.90, distress < 1.23"
+   },
+   "altman_zpp": {
+    "no_constant": {
+     "value": -2.987828,
+     "formula": "6.56*WC/TA + 3.26*RE/TA + 6.72*EBIT/TA + 1.05*BookEq/TL",
+     "inputs": {
+      "ta": {
+       "value": 1846.2,
+       "source": "fy2025_10k_ledger.json | Total assets | FY2025 (31 Dec 2025)"
+      },
+      "tca": {
+       "value": 1004.0,
+       "source": "fy2025_10k_ledger.json | Total current assets | FY2025 (31 Dec 2025)"
+      },
+      "tcl": {
+       "value": 655.9,
+       "source": "fy2025_10k_ledger.json | Total current liabilities | FY2025 (31 Dec 2025)"
+      },
+      "wc": {
+       "value": 348.1,
+       "source": "derived: total current assets minus total current liabilities"
+      },
+      "tl": {
+       "value": 2114.5,
+       "source": "derived: total assets minus total deficit"
+      },
+      "re": {
+       "value": -2478.9,
+       "source": "fy2025_10k_ledger.json | Accumulated deficit | FY2025 (31 Dec 2025)"
+      },
+      "deficit_total": {
+       "value": -268.3,
+       "source": "fy2025_10k_ledger.json | Total deficit | FY2025 (31 Dec 2025)"
+      },
+      "revenue": {
+       "value": 1950.1,
+       "source": "fy2025_10k_ledger.json | Revenue | FY2025"
+      },
+      "ebit": {
+       "value": 78.5,
+       "source": "fy2025_10k_ledger.json | Operating income (operating profit) | FY2025"
+      }
+     },
+     "note": "Book equity is total deficit incl. noncontrolling interests (as in the earlier note); the Unisys-only deficit changes X4 by under 0.001.",
+     "ratios": {
+      "X1": 0.188549,
+      "X2": -1.342704,
+      "X3": 0.04252,
+      "X4": -0.126886
+     },
+     "weighted_terms": {
+      "X1": 1.236884,
+      "X2": -4.377215,
+      "X3": 0.285733,
+      "X4": -0.13323
+     },
+     "zone": "distress",
+     "cutoffs": "safe > 2.6, grey 1.1 to 2.6, distress < 1.1"
+    },
+    "with_3.25_constant": {
+     "value": 0.262172,
+     "formula": "Z'' no constant + 3.25",
+     "inputs": {
+      "ta": {
+       "value": 1846.2,
+       "source": "fy2025_10k_ledger.json | Total assets | FY2025 (31 Dec 2025)"
+      },
+      "tca": {
+       "value": 1004.0,
+       "source": "fy2025_10k_ledger.json | Total current assets | FY2025 (31 Dec 2025)"
+      },
+      "tcl": {
+       "value": 655.9,
+       "source": "fy2025_10k_ledger.json | Total current liabilities | FY2025 (31 Dec 2025)"
+      },
+      "wc": {
+       "value": 348.1,
+       "source": "derived: total current assets minus total current liabilities"
+      },
+      "tl": {
+       "value": 2114.5,
+       "source": "derived: total assets minus total deficit"
+      },
+      "re": {
+       "value": -2478.9,
+       "source": "fy2025_10k_ledger.json | Accumulated deficit | FY2025 (31 Dec 2025)"
+      },
+      "deficit_total": {
+       "value": -268.3,
+       "source": "fy2025_10k_ledger.json | Total deficit | FY2025 (31 Dec 2025)"
+      },
+      "revenue": {
+       "value": 1950.1,
+       "source": "fy2025_10k_ledger.json | Revenue | FY2025"
+      },
+      "ebit": {
+       "value": 78.5,
+       "source": "fy2025_10k_ledger.json | Operating income (operating profit) | FY2025"
+      }
+     },
+     "note": "",
+     "zone": "distress",
+     "cutoffs": "same cutoffs as the no constant version"
+    }
+   },
+   "ohlson": {
+    "value": null,
+    "formula": "O = -1.32 - 0.407 SIZE + 6.03 TLTA - 1.43 WCTA + 0.0757 CLCA - 1.72 OENEG - 2.37 NITA - 1.83 FFOTL + 0.285 INTWO - 0.521 CHIN; P = e^O/(1+e^O)",
+    "inputs": {
+     "ta": {
+      "value": 1846.2,
+      "source": "fy2025_10k_ledger.json | Total assets | FY2025 (31 Dec 2025)"
+     },
+     "tca": {
+      "value": 1004.0,
+      "source": "fy2025_10k_ledger.json | Total current assets | FY2025 (31 Dec 2025)"
+     },
+     "tcl": {
+      "value": 655.9,
+      "source": "fy2025_10k_ledger.json | Total current liabilities | FY2025 (31 Dec 2025)"
+     },
+     "wc": {
+      "value": 348.1,
+      "source": "derived: total current assets minus total current liabilities"
+     },
+     "tl": {
+      "value": 2114.5,
+      "source": "derived: total assets minus total deficit"
+     },
+     "re": {
+      "value": -2478.9,
+      "source": "fy2025_10k_ledger.json | Accumulated deficit | FY2025 (31 Dec 2025)"
+     },
+     "deficit_total": {
+      "value": -268.3,
+      "source": "fy2025_10k_ledger.json | Total deficit | FY2025 (31 Dec 2025)"
+     },
+     "ni": {
+      "value": -339.8,
+      "source": "fy2025_10k_ledger.json | Net loss attributable to Unisys Corporation | FY2025"
+     }
+    },
+    "note": "Value is null: SIZE (no GNP price level index in the inputs; no GDP deflator in the market note). Partial sum shown covers every other term. FFO defined as net income plus D&A = -244.6 (FFOTL term 0.212). Adding back the 227.7 non cash pension settlement loss would give FFO -16.9. CHIN uses FY2024 and FY2025 attributable net loss. INTWO = 1 (losses in FY2024 and FY2025). To reach O <= 0 the SIZE term -0.407*ln(TA/index) would have to be <= -4.72, i.e. TA/index >= 109336 (unit convention of TA, thousands versus millions, is itself undefined without the index).",
+    "terms": {
+     "intercept": -1.32,
+     "TLTA": 6.906313,
+     "WCTA": -0.269626,
+     "CLCA": 0.049454,
+     "OENEG": -1.72,
+     "NITA": 0.436207,
+     "INTWO": 0.285,
+     "FFOTL": 0.21169,
+     "CHIN": 0.14305
+    },
+    "partial_sum_excluding_missing": 4.722088,
+    "missing_terms": [
+     "SIZE (no GNP price level index in the inputs; no GDP deflator in the market note)"
+    ],
+    "probability": null,
+    "zone": null,
+    "breakeven_TA_over_index_for_O_equal_zero": 109336.20696
+   },
+   "zmijewski": {
+    "set_A": {
+     "value": 3.005061,
+     "formula": "X = -4.336 - 4.513*NI/TA + 5.679*TL/TA + 0.004*CA/CL",
+     "inputs": {
+      "ta": {
+       "value": 1846.2,
+       "source": "fy2025_10k_ledger.json | Total assets | FY2025 (31 Dec 2025)"
+      },
+      "tca": {
+       "value": 1004.0,
+       "source": "fy2025_10k_ledger.json | Total current assets | FY2025 (31 Dec 2025)"
+      },
+      "tcl": {
+       "value": 655.9,
+       "source": "fy2025_10k_ledger.json | Total current liabilities | FY2025 (31 Dec 2025)"
+      },
+      "wc": {
+       "value": 348.1,
+       "source": "derived: total current assets minus total current liabilities"
+      },
+      "tl": {
+       "value": 2114.5,
+       "source": "derived: total assets minus total deficit"
+      },
+      "re": {
+       "value": -2478.9,
+       "source": "fy2025_10k_ledger.json | Accumulated deficit | FY2025 (31 Dec 2025)"
+      },
+      "deficit_total": {
+       "value": -268.3,
+       "source": "fy2025_10k_ledger.json | Total deficit | FY2025 (31 Dec 2025)"
+      },
+      "ni": {
+       "value": -339.8,
+       "source": "fy2025_10k_ledger.json | Net loss attributable to Unisys Corporation | FY2025"
+      }
+     },
+     "note": "Probit probability = Phi(X). Cutoff X > 0 (P > 0.5) classifies as bankrupt. Set A (TradingView) and set B (recalled, unsourced) from the earlier note; a 2026 arXiv paper prints the CACL coefficient of set A with the opposite sign (-0.004), which would move X by about 0.012.",
+     "probability": 0.998672,
+     "zone": "distressed",
+     "coefficient_set": "A: -4.336, -4.513, 5.679, 0.004"
+    },
+    "set_B": {
+     "value": 1.897967,
+     "formula": "X = -4.803 - 3.599*NI/TA + 5.406*TL/TA - 0.100*CA/CL",
+     "inputs": {
+      "ta": {
+       "value": 1846.2,
+       "source": "fy2025_10k_ledger.json | Total assets | FY2025 (31 Dec 2025)"
+      },
+      "tca": {
+       "value": 1004.0,
+       "source": "fy2025_10k_ledger.json | Total current assets | FY2025 (31 Dec 2025)"
+      },
+      "tcl": {
+       "value": 655.9,
+       "source": "fy2025_10k_ledger.json | Total current liabilities | FY2025 (31 Dec 2025)"
+      },
+      "wc": {
+       "value": 348.1,
+       "source": "derived: total current assets minus total current liabilities"
+      },
+      "tl": {
+       "value": 2114.5,
+       "source": "derived: total assets minus total deficit"
+      },
+      "re": {
+       "value": -2478.9,
+       "source": "fy2025_10k_ledger.json | Accumulated deficit | FY2025 (31 Dec 2025)"
+      },
+      "deficit_total": {
+       "value": -268.3,
+       "source": "fy2025_10k_ledger.json | Total deficit | FY2025 (31 Dec 2025)"
+      },
+      "ni": {
+       "value": -339.8,
+       "source": "fy2025_10k_ledger.json | Net loss attributable to Unisys Corporation | FY2025"
+      }
+     },
+     "note": "Probit probability = Phi(X). Cutoff X > 0 (P > 0.5) classifies as bankrupt. Set A (TradingView) and set B (recalled, unsourced) from the earlier note; a 2026 arXiv paper prints the CACL coefficient of set A with the opposite sign (-0.004), which would move X by about 0.012.",
+     "probability": 0.97115,
+     "zone": "distressed",
+     "coefficient_set": "B: -4.803, -3.599, 5.406, -0.100"
+    }
+   },
+   "springate": {
+    "value": 0.473351,
+    "formula": "1.03*WC/TA + 3.07*EBIT/TA + 0.66*EBT/CL + 0.4*Sales/TA",
+    "inputs": {
+     "ta": {
+      "value": 1846.2,
+      "source": "fy2025_10k_ledger.json | Total assets | FY2025 (31 Dec 2025)"
+     },
+     "tca": {
+      "value": 1004.0,
+      "source": "fy2025_10k_ledger.json | Total current assets | FY2025 (31 Dec 2025)"
+     },
+     "tcl": {
+      "value": 655.9,
+      "source": "fy2025_10k_ledger.json | Total current liabilities | FY2025 (31 Dec 2025)"
+     },
+     "wc": {
+      "value": 348.1,
+      "source": "derived: total current assets minus total current liabilities"
+     },
+     "tl": {
+      "value": 2114.5,
+      "source": "derived: total assets minus total deficit"
+     },
+     "re": {
+      "value": -2478.9,
+      "source": "fy2025_10k_ledger.json | Accumulated deficit | FY2025 (31 Dec 2025)"
+     },
+     "deficit_total": {
+      "value": -268.3,
+      "source": "fy2025_10k_ledger.json | Total deficit | FY2025 (31 Dec 2025)"
+     },
+     "revenue": {
+      "value": 1950.1,
+      "source": "fy2025_10k_ledger.json | Revenue | FY2025"
+     },
+     "ebit": {
+      "value": 78.5,
+      "source": "fy2025_10k_ledger.json | Operating income (operating profit) | FY2025"
+     },
+     "ebt": {
+      "value": -272.2,
+      "source": "fy2025_10k_ledger.json | Loss before income taxes (pretax) | FY2025"
+     }
+    },
+    "note": "C uses pre tax loss, now available (earlier note could only bound it).",
+    "ratios": {
+     "A": 0.188549,
+     "B": 0.04252,
+     "C": -0.415002,
+     "D": 1.056278
+    },
+    "zone": "failing",
+    "cutoffs": "S < 0.862 is failing"
+   },
+   "grover": {
+    "value": 0.515789,
+    "formula": "1.650*WC/TA + 3.404*EBIT/TA - 0.016*NI/TA + 0.057",
+    "inputs": {
+     "ta": {
+      "value": 1846.2,
+      "source": "fy2025_10k_ledger.json | Total assets | FY2025 (31 Dec 2025)"
+     },
+     "tca": {
+      "value": 1004.0,
+      "source": "fy2025_10k_ledger.json | Total current assets | FY2025 (31 Dec 2025)"
+     },
+     "tcl": {
+      "value": 655.9,
+      "source": "fy2025_10k_ledger.json | Total current liabilities | FY2025 (31 Dec 2025)"
+     },
+     "wc": {
+      "value": 348.1,
+      "source": "derived: total current assets minus total current liabilities"
+     },
+     "tl": {
+      "value": 2114.5,
+      "source": "derived: total assets minus total deficit"
+     },
+     "re": {
+      "value": -2478.9,
+      "source": "fy2025_10k_ledger.json | Accumulated deficit | FY2025 (31 Dec 2025)"
+     },
+     "deficit_total": {
+      "value": -268.3,
+      "source": "fy2025_10k_ledger.json | Total deficit | FY2025 (31 Dec 2025)"
+     },
+     "ebit": {
+      "value": 78.5,
+      "source": "fy2025_10k_ledger.json | Operating income (operating profit) | FY2025"
+     },
+     "ni": {
+      "value": -339.8,
+      "source": "fy2025_10k_ledger.json | Net loss attributable to Unisys Corporation | FY2025"
+     }
+    },
+    "note": "Ignores retained earnings and equity, so it reads healthy.",
+    "ratios": {
+     "X1": 0.188549,
+     "X2": 0.04252,
+     "X3": -0.184054
+    },
+    "zone": "healthy",
+    "cutoffs": "healthy >= 0.01, distressed <= -0.02, grey between"
+   },
+   "taffler": {
+    "value": null,
+    "formula": "Taffler Z (1983)",
+    "inputs": {},
+    "note": "Null: the earlier note found no verified coefficients (sources conflict or were never published), and the no credit interval needs cash operating costs not collected."
+   }
+  },
+  "Q2_2026_LTM": {
+   "label": "Q2 2026 (balance sheet 30 Jun 2026, LTM flows to 30 Jun 2026)",
+   "altman_z_1968": {
+    "value": -0.759101,
+    "formula": "1.2*WC/TA + 1.4*RE/TA + 3.3*EBIT/TA + 0.6*MktCap/TL + 1.0*Sales/TA (LTM flows)",
+    "inputs": {
+     "ta": {
+      "value": 1641.6,
+      "source": "q2_2026_10q_ledger.json | Total assets | 2026-06-30"
+     },
+     "tca": {
+      "value": 846.1,
+      "source": "q2_2026_10q_ledger.json | Total current assets | 2026-06-30"
+     },
+     "tcl": {
+      "value": 600.3,
+      "source": "q2_2026_10q_ledger.json | Total current liabilities | 2026-06-30"
+     },
+     "wc": {
+      "value": 245.8,
+      "source": "derived: total current assets minus total current liabilities"
+     },
+     "tl": {
+      "value": 1993.5,
+      "source": "derived: total assets minus total deficit"
+     },
+     "re": {
+      "value": -2610.0,
+      "source": "q2_2026_10q_ledger.json | Accumulated deficit | 2026-06-30"
+     },
+     "deficit_total": {
+      "value": -351.9,
+      "source": "q2_2026_10q_ledger.json | Total deficit | 2026-06-30"
+     },
+     "revenue_ltm": {
+      "value": 1945.8,
+      "source": "derived: FY2025 revenue - H1 2025 + H1 2026"
+     },
+     "ebit_ltm": {
+      "value": 26.4,
+      "source": "derived: FY2025 ebit - H1 2025 + H1 2026"
+     },
+     "market_cap_musd": {
+      "value": 161.873422,
+      "source": "market_inputs.json | equity.market_cap_usd | 2026-10-09 (price 2.22 x 72,915,955 shares)"
+     }
+    },
+    "note": "Out of population (listed manufacturers). Market cap is the 9 Oct 2026 value for both periods.",
+    "ratios": {
+     "X1": 0.149732,
+     "X2": -1.589912,
+     "X3": 0.016082,
+     "X4": 0.081201,
+     "X5": 1.185307
+    },
+    "weighted_terms": {
+     "X1": 0.179678,
+     "X2": -2.225877,
+     "X3": 0.05307,
+     "X4": 0.04872,
+     "X5": 1.185307
+    },
+    "zone": "distress",
+    "cutoffs": "safe > 2.99, grey 1.81 to 2.99, distress < 1.81",
+    "alternative": {
+     "value": -0.727499,
+     "market_cap_musd": 266.872395,
+     "note": "Alternative with the 30 Jun 2026 close of 3.66 quoted in market_data_and_ratings.md (price text only, not in market_inputs.json) times 72,915,955 shares."
+    }
+   },
+   "altman_zprime_1983": {
+    "value": -0.080535,
+    "formula": "0.717*WC/TA + 0.847*RE/TA + 3.107*EBIT/TA + 0.420*BookEq/TL + 0.998*Sales/TA (LTM flows)",
+    "inputs": {
+     "ta": {
+      "value": 1641.6,
+      "source": "q2_2026_10q_ledger.json | Total assets | 2026-06-30"
+     },
+     "tca": {
+      "value": 846.1,
+      "source": "q2_2026_10q_ledger.json | Total current assets | 2026-06-30"
+     },
+     "tcl": {
+      "value": 600.3,
+      "source": "q2_2026_10q_ledger.json | Total current liabilities | 2026-06-30"
+     },
+     "wc": {
+      "value": 245.8,
+      "source": "derived: total current assets minus total current liabilities"
+     },
+     "tl": {
+      "value": 1993.5,
+      "source": "derived: total assets minus total deficit"
+     },
+     "re": {
+      "value": -2610.0,
+      "source": "q2_2026_10q_ledger.json | Accumulated deficit | 2026-06-30"
+     },
+     "deficit_total": {
+      "value": -351.9,
+      "source": "q2_2026_10q_ledger.json | Total deficit | 2026-06-30"
+     },
+     "revenue_ltm": {
+      "value": 1945.8,
+      "source": "derived: FY2025 revenue - H1 2025 + H1 2026"
+     },
+     "ebit_ltm": {
+      "value": 26.4,
+      "source": "derived: FY2025 ebit - H1 2025 + H1 2026"
+     }
+    },
+    "note": "Private firm model; coefficients from the earlier note (background knowledge, not verified against the paper).",
+    "ratios": {
+     "X1": 0.149732,
+     "X2": -1.589912,
+     "X3": 0.016082,
+     "X4": -0.176524,
+     "X5": 1.185307
+    },
+    "weighted_terms": {
+     "X1": 0.107358,
+     "X2": -1.346656,
+     "X3": 0.049966,
+     "X4": -0.07414,
+     "X5": 1.182936
+    },
+    "zone": "distress",
+    "cutoffs": "safe > 2.90, grey 1.23 to 2.90, distress < 1.23"
+   },
+   "altman_zpp": {
+    "no_constant": {
+     "value": -4.278152,
+     "formula": "6.56*WC/TA + 3.26*RE/TA + 6.72*EBIT/TA + 1.05*BookEq/TL (LTM flows)",
+     "inputs": {
+      "ta": {
+       "value": 1641.6,
+       "source": "q2_2026_10q_ledger.json | Total assets | 2026-06-30"
+      },
+      "tca": {
+       "value": 846.1,
+       "source": "q2_2026_10q_ledger.json | Total current assets | 2026-06-30"
+      },
+      "tcl": {
+       "value": 600.3,
+       "source": "q2_2026_10q_ledger.json | Total current liabilities | 2026-06-30"
+      },
+      "wc": {
+       "value": 245.8,
+       "source": "derived: total current assets minus total current liabilities"
+      },
+      "tl": {
+       "value": 1993.5,
+       "source": "derived: total assets minus total deficit"
+      },
+      "re": {
+       "value": -2610.0,
+       "source": "q2_2026_10q_ledger.json | Accumulated deficit | 2026-06-30"
+      },
+      "deficit_total": {
+       "value": -351.9,
+       "source": "q2_2026_10q_ledger.json | Total deficit | 2026-06-30"
+      },
+      "revenue_ltm": {
+       "value": 1945.8,
+       "source": "derived: FY2025 revenue - H1 2025 + H1 2026"
+      },
+      "ebit_ltm": {
+       "value": 26.4,
+       "source": "derived: FY2025 ebit - H1 2025 + H1 2026"
+      }
+     },
+     "note": "Book equity is total deficit incl. noncontrolling interests (as in the earlier note); the Unisys-only deficit changes X4 by under 0.001.",
+     "ratios": {
+      "X1": 0.149732,
+      "X2": -1.589912,
+      "X3": 0.016082,
+      "X4": -0.176524
+     },
+     "weighted_terms": {
+      "X1": 0.982242,
+      "X2": -5.183114,
+      "X3": 0.10807,
+      "X4": -0.18535
+     },
+     "zone": "distress",
+     "cutoffs": "safe > 2.6, grey 1.1 to 2.6, distress < 1.1"
+    },
+    "with_3.25_constant": {
+     "value": -1.028152,
+     "formula": "Z'' no constant + 3.25 (LTM flows)",
+     "inputs": {
+      "ta": {
+       "value": 1641.6,
+       "source": "q2_2026_10q_ledger.json | Total assets | 2026-06-30"
+      },
+      "tca": {
+       "value": 846.1,
+       "source": "q2_2026_10q_ledger.json | Total current assets | 2026-06-30"
+      },
+      "tcl": {
+       "value": 600.3,
+       "source": "q2_2026_10q_ledger.json | Total current liabilities | 2026-06-30"
+      },
+      "wc": {
+       "value": 245.8,
+       "source": "derived: total current assets minus total current liabilities"
+      },
+      "tl": {
+       "value": 1993.5,
+       "source": "derived: total assets minus total deficit"
+      },
+      "re": {
+       "value": -2610.0,
+       "source": "q2_2026_10q_ledger.json | Accumulated deficit | 2026-06-30"
+      },
+      "deficit_total": {
+       "value": -351.9,
+       "source": "q2_2026_10q_ledger.json | Total deficit | 2026-06-30"
+      },
+      "revenue_ltm": {
+       "value": 1945.8,
+       "source": "derived: FY2025 revenue - H1 2025 + H1 2026"
+      },
+      "ebit_ltm": {
+       "value": 26.4,
+       "source": "derived: FY2025 ebit - H1 2025 + H1 2026"
+      }
+     },
+     "note": "",
+     "zone": "distress",
+     "cutoffs": "same cutoffs as the no constant version"
+    }
+   },
+   "ohlson": {
+    "value": null,
+    "formula": "O = -1.32 - 0.407 SIZE + 6.03 TLTA - 1.43 WCTA + 0.0757 CLCA - 1.72 OENEG - 2.37 NITA - 1.83 FFOTL + 0.285 INTWO - 0.521 CHIN; P = e^O/(1+e^O)",
+    "inputs": {
+     "ta": {
+      "value": 1641.6,
+      "source": "q2_2026_10q_ledger.json | Total assets | 2026-06-30"
+     },
+     "tca": {
+      "value": 846.1,
+      "source": "q2_2026_10q_ledger.json | Total current assets | 2026-06-30"
+     },
+     "tcl": {
+      "value": 600.3,
+      "source": "q2_2026_10q_ledger.json | Total current liabilities | 2026-06-30"
+     },
+     "wc": {
+      "value": 245.8,
+      "source": "derived: total current assets minus total current liabilities"
+     },
+     "tl": {
+      "value": 1993.5,
+      "source": "derived: total assets minus total deficit"
+     },
+     "re": {
+      "value": -2610.0,
+      "source": "q2_2026_10q_ledger.json | Accumulated deficit | 2026-06-30"
+     },
+     "deficit_total": {
+      "value": -351.9,
+      "source": "q2_2026_10q_ledger.json | Total deficit | 2026-06-30"
+     },
+     "ni_ltm": {
+      "value": -421.3,
+      "source": "derived: FY2025 ni - H1 2025 + H1 2026"
+     }
+    },
+    "note": "Value is null: SIZE (no GNP price level index in the inputs; no GDP deflator in the market note); FFOTL (funds from operations needs LTM depreciation and amortization, not in the 10-Q ledger); CHIN (prior LTM net income needs H1 2024 net income, in neither ledger). Partial sum shown covers every other term. INTWO = 1 (net loss in FY2024, FY2025 and the LTM). Partial sum above excludes SIZE, FFOTL and CHIN; the CHIN term can only lie between -0.521 and +0.521 (arithmetic bound), SIZE and FFOTL are unbounded here.",
+    "terms": {
+     "intercept": -1.32,
+     "TLTA": 7.322615,
+     "WCTA": -0.214117,
+     "CLCA": 0.053708,
+     "OENEG": -1.72,
+     "NITA": 0.608236,
+     "INTWO": 0.285
+    },
+    "partial_sum_excluding_missing": 5.015443,
+    "missing_terms": [
+     "SIZE (no GNP price level index in the inputs; no GDP deflator in the market note)",
+     "FFOTL (funds from operations needs LTM depreciation and amortization, not in the 10-Q ledger)",
+     "CHIN (prior LTM net income needs H1 2024 net income, in neither ledger)"
+    ],
+    "probability": null,
+    "zone": null
+   },
+   "zmijewski": {
+    "set_A": {
+     "value": 3.724227,
+     "formula": "X = -4.336 - 4.513*NI/TA + 5.679*TL/TA + 0.004*CA/CL (LTM flows)",
+     "inputs": {
+      "ta": {
+       "value": 1641.6,
+       "source": "q2_2026_10q_ledger.json | Total assets | 2026-06-30"
+      },
+      "tca": {
+       "value": 846.1,
+       "source": "q2_2026_10q_ledger.json | Total current assets | 2026-06-30"
+      },
+      "tcl": {
+       "value": 600.3,
+       "source": "q2_2026_10q_ledger.json | Total current liabilities | 2026-06-30"
+      },
+      "wc": {
+       "value": 245.8,
+       "source": "derived: total current assets minus total current liabilities"
+      },
+      "tl": {
+       "value": 1993.5,
+       "source": "derived: total assets minus total deficit"
+      },
+      "re": {
+       "value": -2610.0,
+       "source": "q2_2026_10q_ledger.json | Accumulated deficit | 2026-06-30"
+      },
+      "deficit_total": {
+       "value": -351.9,
+       "source": "q2_2026_10q_ledger.json | Total deficit | 2026-06-30"
+      },
+      "ni_ltm": {
+       "value": -421.3,
+       "source": "derived: FY2025 ni - H1 2025 + H1 2026"
+      }
+     },
+     "note": "Probit probability = Phi(X). Cutoff X > 0 (P > 0.5) classifies as bankrupt. Set A (TradingView) and set B (recalled, unsourced) from the earlier note; a 2026 arXiv paper prints the CACL coefficient of set A with the opposite sign (-0.004), which would move X by about 0.011.",
+     "probability": 0.999902,
+     "zone": "distressed",
+     "coefficient_set": "A: -4.336, -4.513, 5.679, 0.004"
+    },
+    "set_B": {
+     "value": 2.544553,
+     "formula": "X = -4.803 - 3.599*NI/TA + 5.406*TL/TA - 0.100*CA/CL (LTM flows)",
+     "inputs": {
+      "ta": {
+       "value": 1641.6,
+       "source": "q2_2026_10q_ledger.json | Total assets | 2026-06-30"
+      },
+      "tca": {
+       "value": 846.1,
+       "source": "q2_2026_10q_ledger.json | Total current assets | 2026-06-30"
+      },
+      "tcl": {
+       "value": 600.3,
+       "source": "q2_2026_10q_ledger.json | Total current liabilities | 2026-06-30"
+      },
+      "wc": {
+       "value": 245.8,
+       "source": "derived: total current assets minus total current liabilities"
+      },
+      "tl": {
+       "value": 1993.5,
+       "source": "derived: total assets minus total deficit"
+      },
+      "re": {
+       "value": -2610.0,
+       "source": "q2_2026_10q_ledger.json | Accumulated deficit | 2026-06-30"
+      },
+      "deficit_total": {
+       "value": -351.9,
+       "source": "q2_2026_10q_ledger.json | Total deficit | 2026-06-30"
+      },
+      "ni_ltm": {
+       "value": -421.3,
+       "source": "derived: FY2025 ni - H1 2025 + H1 2026"
+      }
+     },
+     "note": "Probit probability = Phi(X). Cutoff X > 0 (P > 0.5) classifies as bankrupt. Set A (TradingView) and set B (recalled, unsourced) from the earlier note; a 2026 arXiv paper prints the CACL coefficient of set A with the opposite sign (-0.004), which would move X by about 0.011.",
+     "probability": 0.994529,
+     "zone": "distressed",
+     "coefficient_set": "B: -4.803, -3.599, 5.406, -0.100"
+    }
+   },
+   "springate": {
+    "value": 0.287303,
+    "formula": "1.03*WC/TA + 3.07*EBIT/TA + 0.66*EBT/CL + 0.4*Sales/TA (LTM flows)",
+    "inputs": {
+     "ta": {
+      "value": 1641.6,
+      "source": "q2_2026_10q_ledger.json | Total assets | 2026-06-30"
+     },
+     "tca": {
+      "value": 846.1,
+      "source": "q2_2026_10q_ledger.json | Total current assets | 2026-06-30"
+     },
+     "tcl": {
+      "value": 600.3,
+      "source": "q2_2026_10q_ledger.json | Total current liabilities | 2026-06-30"
+     },
+     "wc": {
+      "value": 245.8,
+      "source": "derived: total current assets minus total current liabilities"
+     },
+     "tl": {
+      "value": 1993.5,
+      "source": "derived: total assets minus total deficit"
+     },
+     "re": {
+      "value": -2610.0,
+      "source": "q2_2026_10q_ledger.json | Accumulated deficit | 2026-06-30"
+     },
+     "deficit_total": {
+      "value": -351.9,
+      "source": "q2_2026_10q_ledger.json | Total deficit | 2026-06-30"
+     },
+     "revenue_ltm": {
+      "value": 1945.8,
+      "source": "derived: FY2025 revenue - H1 2025 + H1 2026"
+     },
+     "ebit_ltm": {
+      "value": 26.4,
+      "source": "derived: FY2025 ebit - H1 2025 + H1 2026"
+     },
+     "ebt_ltm": {
+      "value": -355.1,
+      "source": "derived: FY2025 ebt - H1 2025 + H1 2026"
+     }
+    },
+    "note": "C uses pre tax loss, now available (earlier note could only bound it).",
+    "ratios": {
+     "A": 0.149732,
+     "B": 0.016082,
+     "C": -0.591538,
+     "D": 1.185307
+    },
+    "zone": "failing",
+    "cutoffs": "S < 0.862 is failing"
+   },
+   "grover": {
+    "value": 0.362907,
+    "formula": "1.650*WC/TA + 3.404*EBIT/TA - 0.016*NI/TA + 0.057 (LTM flows)",
+    "inputs": {
+     "ta": {
+      "value": 1641.6,
+      "source": "q2_2026_10q_ledger.json | Total assets | 2026-06-30"
+     },
+     "tca": {
+      "value": 846.1,
+      "source": "q2_2026_10q_ledger.json | Total current assets | 2026-06-30"
+     },
+     "tcl": {
+      "value": 600.3,
+      "source": "q2_2026_10q_ledger.json | Total current liabilities | 2026-06-30"
+     },
+     "wc": {
+      "value": 245.8,
+      "source": "derived: total current assets minus total current liabilities"
+     },
+     "tl": {
+      "value": 1993.5,
+      "source": "derived: total assets minus total deficit"
+     },
+     "re": {
+      "value": -2610.0,
+      "source": "q2_2026_10q_ledger.json | Accumulated deficit | 2026-06-30"
+     },
+     "deficit_total": {
+      "value": -351.9,
+      "source": "q2_2026_10q_ledger.json | Total deficit | 2026-06-30"
+     },
+     "ebit_ltm": {
+      "value": 26.4,
+      "source": "derived: FY2025 ebit - H1 2025 + H1 2026"
+     },
+     "ni_ltm": {
+      "value": -421.3,
+      "source": "derived: FY2025 ni - H1 2025 + H1 2026"
+     }
+    },
+    "note": "Ignores retained earnings and equity, so it reads healthy.",
+    "ratios": {
+     "X1": 0.149732,
+     "X2": 0.016082,
+     "X3": -0.25664
+    },
+    "zone": "healthy",
+    "cutoffs": "healthy >= 0.01, distressed <= -0.02, grey between"
+   },
+   "taffler": {
+    "value": null,
+    "formula": "Taffler Z (1983)",
+    "inputs": {},
+    "note": "Null: the earlier note found no verified coefficients (sources conflict or were never published), and the no credit interval needs cash operating costs not collected."
+   }
+  },
+  "sensitivity": {
+   "FY2025": {
+    "base": {
+     "altman_z_1968": {
+      "value": -0.411001,
+      "zone": "distress"
+     },
+     "altman_zprime_1983": {
+      "value": 0.130902,
+      "zone": "distress"
+     },
+     "altman_zpp_no_constant": {
+      "value": -2.987828,
+      "zone": "distress"
+     },
+     "altman_zpp_with_3.25": {
+      "value": 0.262172,
+      "zone": "distress"
+     },
+     "ohlson_partial_excl_missing": {
+      "value": 4.722088,
+      "zone": null
+     },
+     "zmijewski_A_X": {
+      "value": 3.005061,
+      "zone": "distressed"
+     },
+     "zmijewski_A_prob": {
+      "value": 0.998672,
+      "zone": null
+     },
+     "zmijewski_B_X": {
+      "value": 1.897967,
+      "zone": "distressed"
+     },
+     "zmijewski_B_prob": {
+      "value": 0.97115,
+      "zone": null
+     },
+     "springate": {
+      "value": 0.473351,
+      "zone": "failing"
+     },
+     "grover": {
+      "value": 0.515789,
+      "zone": "healthy"
+     }
+    },
+    "pension_moved_from_liabilities_to_equity": {
+     "definition": "TL minus 517.7, equity plus 517.7 (balance sheet long term pension and postretirement liability moved one for one; ignores tax and AOCI effects)",
+     "adjusted_TL": 1596.8,
+     "adjusted_equity": 249.4,
+     "OENEG_after": 0,
+     "scores": {
+      "altman_z_1968": {
+       "value": -0.396109,
+       "zone": "distress",
+       "change_vs_base": 0.014892
+      },
+      "altman_zprime_1983": {
+       "value": 0.249793,
+       "zone": "distress",
+       "change_vs_base": 0.118891
+      },
+      "altman_zpp_no_constant": {
+       "value": -2.690601,
+       "zone": "distress",
+       "change_vs_base": 0.297227
+      },
+      "altman_zpp_with_3.25": {
+       "value": 0.559399,
+       "zone": "distress",
+       "change_vs_base": 0.297227
+      },
+      "ohlson_partial_excl_missing": {
+       "value": 4.819825,
+       "zone": null,
+       "change_vs_base": 0.097737
+      },
+      "zmijewski_A_X": {
+       "value": 1.412591,
+       "zone": "distressed",
+       "change_vs_base": -1.59247
+      },
+      "zmijewski_A_prob": {
+       "value": 0.921112,
+       "zone": null,
+       "change_vs_base": -0.07756
+      },
+      "zmijewski_B_X": {
+       "value": 0.38205,
+       "zone": "distressed",
+       "change_vs_base": -1.515917
+      },
+      "zmijewski_B_prob": {
+       "value": 0.648788,
+       "zone": null,
+       "change_vs_base": -0.322362
+      },
+      "springate": {
+       "applicable": false,
+       "reason": "No liability or equity term in this score; unchanged."
+      },
+      "grover": {
+       "applicable": false,
+       "reason": "No liability or equity term in this score; unchanged."
+      }
+     }
+    },
+    "accumulated_deficit_term_set_to_zero": {
+     "definition": "RE set to 0 in every score that has a retained earnings term",
+     "scores": {
+      "altman_z_1968": {
+       "value": 1.468785,
+       "zone": "distress",
+       "change_vs_base": 1.879786
+      },
+      "altman_zprime_1983": {
+       "value": 1.268172,
+       "zone": "grey",
+       "change_vs_base": 1.13727
+      },
+      "altman_zpp_no_constant": {
+       "value": 1.389387,
+       "zone": "grey",
+       "change_vs_base": 4.377215
+      },
+      "altman_zpp_with_3.25": {
+       "value": 4.639387,
+       "zone": "safe",
+       "change_vs_base": 4.377215
+      },
+      "ohlson_partial_excl_missing": {
+       "applicable": false,
+       "reason": "No accumulated deficit term in this score, so not applicable."
+      },
+      "zmijewski_A_X": {
+       "applicable": false,
+       "reason": "No accumulated deficit term in this score, so not applicable."
+      },
+      "zmijewski_A_prob": {
+       "applicable": false,
+       "reason": "No accumulated deficit term in this score, so not applicable."
+      },
+      "zmijewski_B_X": {
+       "applicable": false,
+       "reason": "No accumulated deficit term in this score, so not applicable."
+      },
+      "zmijewski_B_prob": {
+       "applicable": false,
+       "reason": "No accumulated deficit term in this score, so not applicable."
+      },
+      "springate": {
+       "applicable": false,
+       "reason": "No accumulated deficit term in this score, so not applicable."
+      },
+      "grover": {
+       "applicable": false,
+       "reason": "No accumulated deficit term in this score, so not applicable."
+      }
+     }
+    },
+    "ebit_as_pretax_plus_interest": {
+     "definition": "EBIT = pre tax result + interest expense (-272.2 + 53.4 = -218.8) instead of GAAP operating profit; pulls non operating pension and other costs into EBIT",
+     "scores": {
+      "altman_z_1968": {
+       "value": -0.942411,
+       "zone": "distress",
+       "change_vs_base": -0.53141
+      },
+      "altman_zprime_1983": {
+       "value": -0.369429,
+       "zone": "distress",
+       "change_vs_base": -0.500331
+      },
+      "altman_zpp_no_constant": {
+       "value": -4.069973,
+       "zone": "distress",
+       "change_vs_base": -1.082145
+      },
+      "altman_zpp_with_3.25": {
+       "value": -0.819973,
+       "zone": "distress",
+       "change_vs_base": -1.082145
+      },
+      "ohlson_partial_excl_missing": {
+       "value": 4.722088,
+       "zone": null,
+       "change_vs_base": 0.0
+      },
+      "zmijewski_A_X": {
+       "applicable": false,
+       "reason": "No EBIT term in this score."
+      },
+      "zmijewski_A_prob": {
+       "applicable": false,
+       "reason": "No EBIT term in this score."
+      },
+      "zmijewski_B_X": {
+       "applicable": false,
+       "reason": "No EBIT term in this score."
+      },
+      "zmijewski_B_prob": {
+       "applicable": false,
+       "reason": "No EBIT term in this score."
+      },
+      "springate": {
+       "value": -0.021022,
+       "zone": "failing",
+       "change_vs_base": -0.494373
+      },
+      "grover": {
+       "value": -0.032369,
+       "zone": "distressed",
+       "change_vs_base": -0.548158
+      }
+     }
+    },
+    "zpp_term_decomposition": {
+     "WC/TA": 1.236884,
+     "RE/TA": -4.377215,
+     "EBIT/TA": 0.285733,
+     "BookEq/TL": -0.13323
+    },
+    "zpp_with_constant_if_RE_term_removed": 4.639387
+   },
+   "Q2_2026_LTM": {
+    "base": {
+     "altman_z_1968": {
+      "value": -0.759101,
+      "zone": "distress"
+     },
+     "altman_zprime_1983": {
+      "value": -0.080535,
+      "zone": "distress"
+     },
+     "altman_zpp_no_constant": {
+      "value": -4.278152,
+      "zone": "distress"
+     },
+     "altman_zpp_with_3.25": {
+      "value": -1.028152,
+      "zone": "distress"
+     },
+     "ohlson_partial_excl_missing": {
+      "value": 5.015443,
+      "zone": null
+     },
+     "zmijewski_A_X": {
+      "value": 3.724227,
+      "zone": "distressed"
+     },
+     "zmijewski_A_prob": {
+      "value": 0.999902,
+      "zone": null
+     },
+     "zmijewski_B_X": {
+      "value": 2.544553,
+      "zone": "distressed"
+     },
+     "zmijewski_B_prob": {
+      "value": 0.994529,
+      "zone": null
+     },
+     "springate": {
+      "value": 0.287303,
+      "zone": "failing"
+     },
+     "grover": {
+      "value": 0.362907,
+      "zone": "healthy"
+     }
+    },
+    "pension_moved_from_liabilities_to_equity": {
+     "definition": "TL minus 485.1, equity plus 485.1 (balance sheet long term pension and postretirement liability moved one for one; ignores tax and AOCI effects)",
+     "adjusted_TL": 1508.4,
+     "adjusted_equity": 133.2,
+     "OENEG_after": 0,
+     "scores": {
+      "altman_z_1968": {
+       "value": -0.743433,
+       "zone": "distress",
+       "change_vs_base": 0.015668
+      },
+      "altman_zprime_1983": {
+       "value": 0.030693,
+       "zone": "distress",
+       "change_vs_base": 0.111228
+      },
+      "altman_zpp_no_constant": {
+       "value": -4.000081,
+       "zone": "distress",
+       "change_vs_base": 0.278071
+      },
+      "altman_zpp_with_3.25": {
+       "value": -0.750081,
+       "zone": "distress",
+       "change_vs_base": 0.278071
+      },
+      "ohlson_partial_excl_missing": {
+       "value": 4.953552,
+       "zone": null,
+       "change_vs_base": -0.061891
+      },
+      "zmijewski_A_X": {
+       "value": 2.046057,
+       "zone": "distressed",
+       "change_vs_base": -1.678169
+      },
+      "zmijewski_A_prob": {
+       "value": 0.979625,
+       "zone": null,
+       "change_vs_base": -0.020277
+      },
+      "zmijewski_B_X": {
+       "value": 0.947056,
+       "zone": "distressed",
+       "change_vs_base": -1.597497
+      },
+      "zmijewski_B_prob": {
+       "value": 0.828195,
+       "zone": null,
+       "change_vs_base": -0.166334
+      },
+      "springate": {
+       "applicable": false,
+       "reason": "No liability or equity term in this score; unchanged."
+      },
+      "grover": {
+       "applicable": false,
+       "reason": "No liability or equity term in this score; unchanged."
+      }
+     }
+    },
+    "accumulated_deficit_term_set_to_zero": {
+     "definition": "RE set to 0 in every score that has a retained earnings term",
+     "scores": {
+      "altman_z_1968": {
+       "value": 1.466776,
+       "zone": "distress",
+       "change_vs_base": 2.225877
+      },
+      "altman_zprime_1983": {
+       "value": 1.266121,
+       "zone": "grey",
+       "change_vs_base": 1.346656
+      },
+      "altman_zpp_no_constant": {
+       "value": 0.904962,
+       "zone": "distress",
+       "change_vs_base": 5.183114
+      },
+      "altman_zpp_with_3.25": {
+       "value": 4.154962,
+       "zone": "safe",
+       "change_vs_base": 5.183114
+      },
+      "ohlson_partial_excl_missing": {
+       "applicable": false,
+       "reason": "No accumulated deficit term in this score, so not applicable."
+      },
+      "zmijewski_A_X": {
+       "applicable": false,
+       "reason": "No accumulated deficit term in this score, so not applicable."
+      },
+      "zmijewski_A_prob": {
+       "applicable": false,
+       "reason": "No accumulated deficit term in this score, so not applicable."
+      },
+      "zmijewski_B_X": {
+       "applicable": false,
+       "reason": "No accumulated deficit term in this score, so not applicable."
+      },
+      "zmijewski_B_prob": {
+       "applicable": false,
+       "reason": "No accumulated deficit term in this score, so not applicable."
+      },
+      "springate": {
+       "applicable": false,
+       "reason": "No accumulated deficit term in this score, so not applicable."
+      },
+      "grover": {
+       "applicable": false,
+       "reason": "No accumulated deficit term in this score, so not applicable."
+      }
+     }
+    },
+    "ebit_as_pretax_plus_interest": {
+     "definition": "EBIT = pre tax result + interest expense (-355.1 + 73.8 = -281.3) instead of GAAP operating profit; pulls non operating pension and other costs into EBIT",
+     "scores": {
+      "altman_z_1968": {
+       "value": -1.37765,
+       "zone": "distress",
+       "change_vs_base": -0.618549
+      },
+      "altman_zprime_1983": {
+       "value": -0.662908,
+       "zone": "distress",
+       "change_vs_base": -0.582373
+      },
+      "altman_zpp_no_constant": {
+       "value": -5.537743,
+       "zone": "distress",
+       "change_vs_base": -1.259591
+      },
+      "altman_zpp_with_3.25": {
+       "value": -2.287743,
+       "zone": "distress",
+       "change_vs_base": -1.259591
+      },
+      "ohlson_partial_excl_missing": {
+       "value": 5.015443,
+       "zone": null,
+       "change_vs_base": 0.0
+      },
+      "zmijewski_A_X": {
+       "applicable": false,
+       "reason": "No EBIT term in this score."
+      },
+      "zmijewski_A_prob": {
+       "applicable": false,
+       "reason": "No EBIT term in this score."
+      },
+      "zmijewski_B_X": {
+       "applicable": false,
+       "reason": "No EBIT term in this score."
+      },
+      "zmijewski_B_prob": {
+       "applicable": false,
+       "reason": "No EBIT term in this score."
+      },
+      "springate": {
+       "value": -0.288135,
+       "zone": "failing",
+       "change_vs_base": -0.575438
+      },
+      "grover": {
+       "value": -0.275136,
+       "zone": "distressed",
+       "change_vs_base": -0.638043
+      }
+     }
+    },
+    "zpp_term_decomposition": {
+     "WC/TA": 0.982242,
+     "RE/TA": -5.183114,
+     "EBIT/TA": 0.10807,
+     "BookEq/TL": -0.18535
+    },
+    "zpp_with_constant_if_RE_term_removed": 4.154962
+   }
+  },
+  "comparison_with_earlier_note": {
+   "FY2025": [
+    {
+     "metric": "altman_z",
+     "now": -0.411001,
+     "earlier_note": -0.406,
+     "difference": -0.005001
+    },
+    {
+     "metric": "altman_zp",
+     "now": 0.130902,
+     "earlier_note": 0.131,
+     "difference": -9.8e-05
+    },
+    {
+     "metric": "zpp",
+     "now": -2.987828,
+     "earlier_note": -2.988,
+     "difference": 0.000172
+    },
+    {
+     "metric": "zpp_c",
+     "now": 0.262172,
+     "earlier_note": 0.262,
+     "difference": 0.000172
+    },
+    {
+     "metric": "zmij_A",
+     "now": 3.005061,
+     "earlier_note": 3.005,
+     "difference": 6.1e-05
+    },
+    {
+     "metric": "zmij_B",
+     "now": 1.897967,
+     "earlier_note": 1.898,
+     "difference": -3.3e-05
+    },
+    {
+     "metric": "grover",
+     "now": 0.515789,
+     "earlier_note": 0.516,
+     "difference": -0.000211
+    }
+   ],
+   "Q2_2026_LTM": [
+    {
+     "metric": "altman_z",
+     "now": -0.759101,
+     "earlier_note": -0.754,
+     "difference": -0.005101
+    },
+    {
+     "metric": "altman_zp",
+     "now": -0.080535,
+     "earlier_note": -0.081,
+     "difference": 0.000465
+    },
+    {
+     "metric": "zpp",
+     "now": -4.278152,
+     "earlier_note": -4.278,
+     "difference": -0.000152
+    },
+    {
+     "metric": "zpp_c",
+     "now": -1.028152,
+     "earlier_note": -1.028,
+     "difference": -0.000152
+    },
+    {
+     "metric": "zmij_A",
+     "now": 3.724227,
+     "earlier_note": 3.724,
+     "difference": 0.000227
+    },
+    {
+     "metric": "zmij_B",
+     "now": 2.544553,
+     "earlier_note": 2.545,
+     "difference": -0.000447
+    },
+    {
+     "metric": "grover",
+     "now": 0.362907,
+     "earlier_note": 0.363,
+     "difference": -9.3e-05
+    }
+   ]
+  },
+  "comparison_with_earlier_note_remarks": "Differences come from: market cap 161.87 versus 177.9 in original Z; none for Z'', Zmijewski and Grover, which use the same balance sheet and flow inputs. Springate and Ohlson earlier values were bounds or partial sums, now complete or partial with a different term set."
+ },
+ "cash_and_leverage": {
+  "pension_adjusted_leverage": {
+   "FY2024": {
+    "label": "31 Dec 2024, FY2024 Adjusted EBITDA 292.1, carrying debt",
+    "gross_debt_plus_pension_over_adj_ebitda": 4.256761,
+    "net_debt_plus_pension_over_adj_ebitda": 2.967819,
+    "gross_debt_over_adj_ebitda_excl_pension": 1.688463,
+    "net_debt_over_adj_ebitda_excl_pension": 0.399521,
+    "inputs": {
+     "debt": {
+      "value": 493.2,
+      "source": "fy2025_10k_ledger.json | Total debt (long-term debt note total incl. finance leases) | FY2024 (31 Dec 2024)"
+     },
+     "pension_deficit": {
+      "value": 750.2,
+      "source": "fy2025_10k_ledger.json | Funded status, total defined benefit plans | FY2024 (31 Dec 2024)"
+     },
+     "cash": {
+      "value": 376.5,
+      "source": "fy2025_10k_ledger.json | Cash and cash equivalents | FY2024 (31 Dec 2024)"
+     },
+     "adj_ebitda": {
+      "value": 292.1,
+      "source": "fy2025_10k_ledger.json | Adjusted EBITDA, earnings release | FY2024"
+     }
+    },
+    "formula": "(debt + pension deficit [- cash]) / Adjusted EBITDA",
+    "note": ""
+   },
+   "FY2025": {
+    "label": "31 Dec 2025, FY2025 Adjusted EBITDA 278.8, carrying debt (primary)",
+    "gross_debt_plus_pension_over_adj_ebitda": 4.26901,
+    "net_debt_plus_pension_over_adj_ebitda": 2.784433,
+    "gross_debt_over_adj_ebitda_excl_pension": 2.66033,
+    "net_debt_over_adj_ebitda_excl_pension": 1.175753,
+    "inputs": {
+     "debt": {
+      "value": 741.7,
+      "source": "fy2025_10k_ledger.json | Total debt (long-term debt note total incl. finance leases) | FY2025 (31 Dec 2025)"
+     },
+     "pension_deficit": {
+      "value": 448.5,
+      "source": "fy2025_10k_ledger.json | Funded status, total defined benefit plans | FY2025 (31 Dec 2025)"
+     },
+     "cash": {
+      "value": 413.9,
+      "source": "fy2025_10k_ledger.json | Cash and cash equivalents | FY2025 (31 Dec 2025)"
+     },
+     "adj_ebitda": {
+      "value": 278.8,
+      "source": "fy2025_10k_ledger.json | Adjusted EBITDA, earnings release | FY2025"
+     }
+    },
+    "formula": "(debt + pension deficit [- cash]) / Adjusted EBITDA",
+    "note": "",
+    "alt_face_debt": {
+     "gross_incl_pension": 4.314921,
+     "net_incl_pension": 2.830344,
+     "net_excl_pension": 1.221664,
+     "note": "Face debt 754.5 at 31 Dec 2025 (source: Q2 ledger derived face). Matches the earlier derived 2.83x and 1.22x."
+    }
+   },
+   "Q2_2026_LTM": {
+    "label": "30 Jun 2026, LTM Adjusted EBITDA 276.9, carrying debt (primary), pension deficit 448.5 stale from 31 Dec 2025",
+    "gross_debt_plus_pension_over_adj_ebitda": 4.268689,
+    "net_debt_plus_pension_over_adj_ebitda": 3.097508,
+    "gross_debt_over_adj_ebitda_excl_pension": 2.648971,
+    "net_debt_over_adj_ebitda_excl_pension": 1.47779,
+    "inputs": {
+     "debt": {
+      "value": 733.5,
+      "source": "q2_2026_10q_ledger.json | Total debt (carrying amount: notes + finance leases + other debt) | 2026-06-30"
+     },
+     "pension_deficit": {
+      "value": 448.5,
+      "source": "q2_2026_10q_ledger.json | Defined benefit pension funding deficit, 31 Dec 2025 (company release) | 2025-12-31"
+     },
+     "cash": {
+      "value": 324.3,
+      "source": "q2_2026_10q_ledger.json | Cash and cash equivalents | 2026-06-30"
+     },
+     "adj_ebitda": {
+      "value": 276.9,
+      "source": "derived: FY2025 278.8 - H1 2025 + H1 2026"
+     }
+    },
+    "formula": "(debt + pension deficit [- cash]) / Adjusted EBITDA",
+    "note": "No 30 Jun 2026 funding deficit is stated in the filings; 448.5 (31 Dec 2025) is the last stated figure, so these are upper bound style figures if the deficit has fallen.",
+    "alt_face_debt": {
+     "gross_incl_pension": 4.31022,
+     "net_incl_pension": 3.139039,
+     "net_excl_pension": 1.519321,
+     "note": "Face debt 745.0. Gives the 3.14x and 1.52x in the 10-Q note."
+    },
+    "alt_balance_sheet_pension": {
+     "pension_measure": 446.9,
+     "net_incl_pension": 3.09173,
+     "gross_incl_pension": 4.262911,
+     "note": "Uses the 30 Jun 2026 balance sheet net pension position (485.1 liability less 38.2 prepaid asset = 446.9). Different measure from the funding deficit."
+    }
+   }
+  },
+  "interest_coverage": {
+   "FY2024": {
+    "label": "FY2024",
+    "interest_expense": 31.9,
+    "adj_ebitda": 292.1,
+    "cash_from_operations": 135.1,
+    "pension_contributions": 27.1,
+    "adj_ebitda_over_interest": 9.15674,
+    "ocf_over_interest": 4.23511,
+    "ocf_before_pension_over_interest": 5.084639,
+    "formula": "Adjusted EBITDA / interest expense; cash from operations / interest expense; (cash from operations + pension and postretirement contributions) / interest expense",
+    "note": "Interest expense is the income statement line (gross)."
+   },
+   "FY2025": {
+    "label": "FY2025",
+    "interest_expense": 53.4,
+    "adj_ebitda": 278.8,
+    "cash_from_operations": -140.0,
+    "pension_contributions": 345.3,
+    "adj_ebitda_over_interest": 5.220974,
+    "ocf_over_interest": -2.621723,
+    "ocf_before_pension_over_interest": 3.844569,
+    "formula": "Adjusted EBITDA / interest expense; cash from operations / interest expense; (cash from operations + pension and postretirement contributions) / interest expense",
+    "note": "FY2025 interest only includes six months of the 10.625% notes and the old 6.875% notes for part of the year."
+   },
+   "H1_2026": {
+    "label": "H1 2026",
+    "interest_expense": 36.8,
+    "adj_ebitda": 99.7,
+    "cash_from_operations": -30.7,
+    "pension_contributions": 58.1,
+    "adj_ebitda_over_interest": 2.709239,
+    "ocf_over_interest": -0.834239,
+    "ocf_before_pension_over_interest": 0.744565,
+    "formula": "Adjusted EBITDA / interest expense; cash from operations / interest expense; (cash from operations + pension and postretirement contributions) / interest expense",
+    "note": "Half year ratios, not annualised."
+   },
+   "LTM_Jun_2026": {
+    "label": "LTM to 30 Jun 2026",
+    "interest_expense": 73.8,
+    "adj_ebitda": 276.9,
+    "cash_from_operations": 112.2,
+    "pension_contributions": 115.8,
+    "adj_ebitda_over_interest": 3.752033,
+    "ocf_over_interest": 1.520325,
+    "ocf_before_pension_over_interest": 3.089431,
+    "formula": "Adjusted EBITDA / interest expense; cash from operations / interest expense; (cash from operations + pension and postretirement contributions) / interest expense",
+    "note": "LTM = FY2025 minus H1 2025 plus H1 2026."
+   }
+  },
+  "free_cash_flow": {
+   "FY2024": {
+    "label": "FY2024",
+    "cash_from_operations": 135.1,
+    "capex": 79.8,
+    "fcf_company_definition_computed": 55.3,
+    "fcf_company_definition_reported": 55.3,
+    "difference_computed_vs_reported": 0.0,
+    "pension_and_postretirement_contributions": 27.1,
+    "fcf_before_pension_contributions": 82.4,
+    "note": "The company definition (cash from operations less capex) is already after pension contributions, because they sit in operating cash flow. The 'before pension' line adds them back (matches the company's pre pension FCF)."
+   },
+   "FY2025": {
+    "label": "FY2025",
+    "cash_from_operations": -140.0,
+    "capex": 77.6,
+    "fcf_company_definition_computed": -217.6,
+    "fcf_company_definition_reported": -217.6,
+    "difference_computed_vs_reported": 0.0,
+    "pension_and_postretirement_contributions": 345.3,
+    "fcf_before_pension_contributions": 127.7,
+    "note": "The company definition (cash from operations less capex) is already after pension contributions, because they sit in operating cash flow. The 'before pension' line adds them back (matches the company's pre pension FCF)."
+   },
+   "H1_2026": {
+    "label": "H1 2026",
+    "cash_from_operations": -30.7,
+    "capex": 43.8,
+    "fcf_company_definition_computed": -74.5,
+    "fcf_company_definition_reported": -74.5,
+    "difference_computed_vs_reported": 0.0,
+    "pension_and_postretirement_contributions": 58.1,
+    "fcf_before_pension_contributions": -16.4,
+    "note": "The company definition (cash from operations less capex) is already after pension contributions, because they sit in operating cash flow. The 'before pension' line adds them back (matches the company's pre pension FCF)."
+   },
+   "LTM_Jun_2026": {
+    "label": "LTM to 30 Jun 2026",
+    "cash_from_operations": 112.2,
+    "capex": 81.0,
+    "fcf_company_definition_computed": 31.2,
+    "fcf_company_definition_reported": 31.2,
+    "difference_computed_vs_reported": -0.0,
+    "pension_and_postretirement_contributions": 115.8,
+    "fcf_before_pension_contributions": 147.0,
+    "note": "The company definition (cash from operations less capex) is already after pension contributions, because they sit in operating cash flow. The 'before pension' line adds them back (matches the company's pre pension FCF)."
+   }
+  },
+  "liquidity": {
+   "FY2025": {
+    "cash": 413.9,
+    "abl_availability": 92.2,
+    "liquidity": 506.1,
+    "source": [
+     "fy2025_10k_ledger.json | Cash and cash equivalents | FY2025 (31 Dec 2025)",
+     "fy2025_10k_ledger.json | ABL availability, net of letters of credit | FY2025 (31 Dec 2025)"
+    ]
+   },
+   "Q2_2026": {
+    "cash": 324.3,
+    "abl_availability": 99.7,
+    "liquidity": 424.0,
+    "ledger_derived_check": 424.0,
+    "source": [
+     "q2_2026_10q_ledger.json | Cash and cash equivalents | 2026-06-30",
+     "q2_2026_10q_ledger.json | ABL availability, net of letters of credit | 2026-06-30"
+    ],
+    "note": "Of the 324.3 cash, 197.6 is held by foreign subsidiaries (10-Q ledger)."
+   }
+  },
+  "runway": {
+   "label": "Arithmetic on stated guidance held flat, not a forecast.",
+   "inputs": {
+    "cash_30_jun_2026": 324.3,
+    "fcf_h1_2026_actual": -74.5,
+    "fcf_2026_guidance": -25.0,
+    "h2_2026_remainder": 49.5,
+    "capex_per_year": 85.0,
+    "cash_taxes_per_year": 70.0,
+    "other_payments_per_year": 30.0,
+    "net_interest_2026_guidance": 70.0,
+    "pension_and_postretirement_2026": 102.0,
+    "notes_face": 698.4,
+    "coupon_pct": 10.625,
+    "cash_interest_2027_30": 74.205,
+    "revenue_decline_per_year_constant_currency_midpoint": -0.0425,
+    "non_gaap_margin_midpoint": 0.1,
+    "revenue_2025": 1950.1,
+    "pension_2027_10k": 105.0,
+    "pension_2028_30_aggregate_10k": 241.0,
+    "pension_2028_29_30_each": 80.333333,
+    "pre_item_cash_base_2026": 332.0,
+    "implied_non_profit_cash_items_K": 145.277925
+   },
+   "sources": {
+    "fcf_2026": "q2_2026_10q_ledger.json | FY2026 free cash flow guidance (Investor Day deck) | 2026-06-02",
+    "capex_2026": "q2_2026_10q_ledger.json | FY2026 capital expenditures guidance (Investor Day deck) | 2026-06-02",
+    "taxes_2026": "q2_2026_10q_ledger.json | FY2026 cash taxes guidance (Investor Day deck) | 2026-06-02",
+    "net_interest_2026": "q2_2026_10q_ledger.json | FY2026 net interest payments guidance (Investor Day deck) | 2026-06-02",
+    "other_2026": "q2_2026_10q_ledger.json | FY2026 other payments (primarily restructuring) guidance (Investor Day deck) | 2026-06-02",
+    "pension_2026": "q2_2026_10q_ledger.json | 2026 pension and postretirement contributions guidance (Investor Day deck) | FY2026",
+    "pension_2027": "fy2025_10k_ledger.json | Estimated cash contributions to global DB plans: 2027 | FY2027 estimate",
+    "pension_2028_30_agg": "fy2025_10k_ledger.json | Estimated cash contributions to global DB plans: 2028 to 2030 in aggregate | FY2028-FY2030 estimate",
+    "notes_face": "q2_2026_10q_ledger.json | 10.625% senior secured notes due 2031, face value outstanding | 2026-06-30",
+    "coupon_pct": "q2_2026_10q_ledger.json | 2031 notes coupon | 2025-06-27",
+    "revenue_2025": "q2_2026_10q_ledger.json | Revenue, FY2025 (base for guidance dollar translation) | FY2025",
+    "h2_fcf_ledger": "q2_2026_10q_ledger.json | FY2026 implied H2 free cash flow if the full-year guide of ~(25) is met (derived) | H2 2026"
+   },
+   "method": [
+    "Start: cash 324.3 at 30 Jun 2026. H2 2026 FCF = full year guidance (-25) minus H1 actual (-74.5) = +49.5; end 2026 cash = 373.8.",
+    "2026 pre item cash base = FCF guidance + capex 85 + cash taxes 70 + net interest 70 + other payments 30 + pension and postretirement 102 = 332 (arithmetic on the Investor Day guidance items).",
+    "2027 to 2030: revenue falls 4.25% a year (midpoint of constant currency (5.0)% to (3.5)%); non GAAP operating margin held at 10% (midpoint of 9% to 11%); pre item cash = revenue x 10% + K, K = 332 - 2026 margin profit (D&A and other non profit items implied by guidance, held flat).",
+    "Deductions each year: capex 85, cash taxes 70, other payments 30 (all held at 2026 guidance), cash interest 698.4 x 10.625% = 74.2, pension per the 10-K schedule: 105 for 2027; 241 for 2028 to 2030 spread evenly (80.33 a year; the 10-K gives no split by year).",
+    "Not modelled: the other debt amortisation and finance lease payments (5.4, 4.3, 2.4, 1.2, 0.0 scheduled excl. leases), FX, any ABL draw, any note repurchases, postretirement contributions after 2026 (about 3 a year, not in the 10-K DB schedule), working capital swings.",
+    "The 2027 DB figure is 105 in the 10-K and Q1 10-Q, 104 in the Q2 10-Q; the spec figure 105 is used.",
+    "Pension 2026 uses the 102 Investor Day figure (pension plus postretirement) because the 332 base is built from the deck items. The 10-Q basis is 97 + 3 = 100."
+   ],
+   "table_margin_method_primary": [
+    {
+     "year": "30 Jun 2026 (start)",
+     "revenue": null,
+     "fcf_after_pension": null,
+     "cash_end": 324.3
+    },
+    {
+     "year": "2026",
+     "revenue": 1867.22075,
+     "fcf_full_year_guidance": -25.0,
+     "fcf_h1_actual": -74.5,
+     "fcf_h2_remainder": 49.5,
+     "fcf_after_pension": 49.5,
+     "cash_end": 373.8,
+     "shortfall_vs_698_4": 324.6,
+     "note": "H2 only counts from the 30 Jun 2026 start; full year guidance is about -25."
+    },
+    {
+     "year": "2027",
+     "revenue": 1787.863868,
+     "non_gaap_op_profit_at_10pct": 178.786387,
+     "pre_item_cash": 324.064312,
+     "capex": 85.0,
+     "cash_taxes": 70.0,
+     "other_payments": 30.0,
+     "cash_interest": 74.205,
+     "pension_contributions": 105.0,
+     "fcf_after_pension": -40.140688,
+     "cash_end": 333.659312,
+     "shortfall_vs_698_4": 364.740688
+    },
+    {
+     "year": "2028",
+     "revenue": 1711.879654,
+     "non_gaap_op_profit_at_10pct": 171.187965,
+     "pre_item_cash": 316.46589,
+     "capex": 85.0,
+     "cash_taxes": 70.0,
+     "other_payments": 30.0,
+     "cash_interest": 74.205,
+     "pension_contributions": 80.333333,
+     "fcf_after_pension": -23.072443,
+     "cash_end": 310.586869,
+     "shortfall_vs_698_4": 387.813131
+    },
+    {
+     "year": "2029",
+     "revenue": 1639.124768,
+     "non_gaap_op_profit_at_10pct": 163.912477,
+     "pre_item_cash": 309.190402,
+     "capex": 85.0,
+     "cash_taxes": 70.0,
+     "other_payments": 30.0,
+     "cash_interest": 74.205,
+     "pension_contributions": 80.333333,
+     "fcf_after_pension": -30.347931,
+     "cash_end": 280.238937,
+     "shortfall_vs_698_4": 418.161063
+    },
+    {
+     "year": "2030",
+     "revenue": 1569.461966,
+     "non_gaap_op_profit_at_10pct": 156.946197,
+     "pre_item_cash": 302.224122,
+     "capex": 85.0,
+     "cash_taxes": 70.0,
+     "other_payments": 30.0,
+     "cash_interest": 74.205,
+     "pension_contributions": 80.333333,
+     "fcf_after_pension": -37.314212,
+     "cash_end": 242.924726,
+     "shortfall_vs_698_4": 455.475274
+    },
+    {
+     "year": "15 Jan 2031 (maturity)",
+     "cash_end": 242.924726,
+     "principal_due": 698.4,
+     "final_coupon_due": 37.1025,
+     "shortfall_vs_698_4": 455.475274,
+     "shortfall_incl_final_coupon": 492.577774,
+     "note": "Cash before any 2031 flows equals end 2030 cash; the final coupon is paid with the principal."
+    }
+   ],
+   "table_scale_all_alternative": [
+    {
+     "year": "30 Jun 2026 (start)",
+     "revenue": null,
+     "fcf_after_pension": null,
+     "cash_end": 324.3
+    },
+    {
+     "year": "2026",
+     "revenue": 1867.22075,
+     "fcf_full_year_guidance": -25.0,
+     "fcf_h1_actual": -74.5,
+     "fcf_h2_remainder": 49.5,
+     "fcf_after_pension": 49.5,
+     "cash_end": 373.8,
+     "shortfall_vs_698_4": 324.6,
+     "note": "H2 only counts from the 30 Jun 2026 start; full year guidance is about -25."
+    },
+    {
+     "year": "2027",
+     "revenue": 1787.863868,
+     "non_gaap_op_profit_at_10pct": 178.786387,
+     "pre_item_cash": 317.89,
+     "capex": 85.0,
+     "cash_taxes": 70.0,
+     "other_payments": 30.0,
+     "cash_interest": 74.205,
+     "pension_contributions": 105.0,
+     "fcf_after_pension": -46.315,
+     "cash_end": 327.485,
+     "shortfall_vs_698_4": 370.915
+    },
+    {
+     "year": "2028",
+     "revenue": 1711.879654,
+     "non_gaap_op_profit_at_10pct": 171.187965,
+     "pre_item_cash": 304.379675,
+     "capex": 85.0,
+     "cash_taxes": 70.0,
+     "other_payments": 30.0,
+     "cash_interest": 74.205,
+     "pension_contributions": 80.333333,
+     "fcf_after_pension": -35.158658,
+     "cash_end": 292.326342,
+     "shortfall_vs_698_4": 406.073658
+    },
+    {
+     "year": "2029",
+     "revenue": 1639.124768,
+     "non_gaap_op_profit_at_10pct": 163.912477,
+     "pre_item_cash": 291.443539,
+     "capex": 85.0,
+     "cash_taxes": 70.0,
+     "other_payments": 30.0,
+     "cash_interest": 74.205,
+     "pension_contributions": 80.333333,
+     "fcf_after_pension": -48.094795,
+     "cash_end": 244.231547,
+     "shortfall_vs_698_4": 454.168453
+    },
+    {
+     "year": "2030",
+     "revenue": 1569.461966,
+     "non_gaap_op_profit_at_10pct": 156.946197,
+     "pre_item_cash": 279.057188,
+     "capex": 85.0,
+     "cash_taxes": 70.0,
+     "other_payments": 30.0,
+     "cash_interest": 74.205,
+     "pension_contributions": 80.333333,
+     "fcf_after_pension": -60.481145,
+     "cash_end": 183.750402,
+     "shortfall_vs_698_4": 514.649598
+    },
+    {
+     "year": "15 Jan 2031 (maturity)",
+     "cash_end": 183.750402,
+     "principal_due": 698.4,
+     "final_coupon_due": 37.1025,
+     "shortfall_vs_698_4": 514.649598,
+     "shortfall_incl_final_coupon": 551.752098,
+     "note": "Cash before any 2031 flows equals end 2030 cash; the final coupon is paid with the principal."
+    }
+   ],
+   "alternative_note": "Alternative scales the whole 332 base with revenue (more conservative because D&A style items fall too).",
+   "break_even_rows": {
+    "fcf_after_pension_zero_from_1_jul_2026": {
+     "label": "FCF after pension zero from 1 Jul 2026 (H2 2026 also zero)",
+     "rows": [
+      {
+       "year": "30 Jun 2026 (start)",
+       "cash_end": 324.3
+      },
+      {
+       "year": "2026",
+       "fcf_after_pension": 0.0,
+       "cash_end": 324.3,
+       "shortfall_vs_698_4": 374.1
+      },
+      {
+       "year": "2027",
+       "fcf_after_pension": 0.0,
+       "cash_end": 324.3,
+       "shortfall_vs_698_4": 374.1
+      },
+      {
+       "year": "2028",
+       "fcf_after_pension": 0.0,
+       "cash_end": 324.3,
+       "shortfall_vs_698_4": 374.1
+      },
+      {
+       "year": "2029",
+       "fcf_after_pension": 0.0,
+       "cash_end": 324.3,
+       "shortfall_vs_698_4": 374.1
+      },
+      {
+       "year": "2030",
+       "fcf_after_pension": 0.0,
+       "cash_end": 324.3,
+       "shortfall_vs_698_4": 374.1
+      },
+      {
+       "year": "15 Jan 2031 (maturity)",
+       "cash_end": 324.3,
+       "shortfall_vs_698_4": 374.1,
+       "shortfall_incl_final_coupon": 411.2025
+      }
+     ]
+    },
+    "h2_2026_at_guidance_then_zero": {
+     "label": "H2 2026 at guidance (+49.5), then zero for 2027 to 2030",
+     "rows": [
+      {
+       "year": "30 Jun 2026 (start)",
+       "cash_end": 324.3
+      },
+      {
+       "year": "2026",
+       "fcf_after_pension": 49.5,
+       "cash_end": 373.8,
+       "shortfall_vs_698_4": 324.6
+      },
+      {
+       "year": "2027",
+       "fcf_after_pension": 0.0,
+       "cash_end": 373.8,
+       "shortfall_vs_698_4": 324.6
+      },
+      {
+       "year": "2028",
+       "fcf_after_pension": 0.0,
+       "cash_end": 373.8,
+       "shortfall_vs_698_4": 324.6
+      },
+      {
+       "year": "2029",
+       "fcf_after_pension": 0.0,
+       "cash_end": 373.8,
+       "shortfall_vs_698_4": 324.6
+      },
+      {
+       "year": "2030",
+       "fcf_after_pension": 0.0,
+       "cash_end": 373.8,
+       "shortfall_vs_698_4": 324.6
+      },
+      {
+       "year": "15 Jan 2031 (maturity)",
+       "cash_end": 373.8,
+       "shortfall_vs_698_4": 324.6,
+       "shortfall_incl_final_coupon": 361.7025
+      }
+     ]
+    }
+   },
+   "required_average_fcf_2027_30_to_repay_principal": 81.15,
+   "required_average_fcf_2027_30_to_repay_principal_and_final_coupon": 90.425625,
+   "shortfall_jan_2031_primary": 455.475274,
+   "shortfall_jan_2031_scale_alternative": 514.649598,
+   "shortfall_after_using_current_abl_availability_primary": 355.775274,
+   "abl_note": "ABL (125 commitment, 99.7 available at 30 Jun 2026) matures June 2030, before the January 2031 notes, so it is not treated as a source for the maturity."
+  }
+ },
+ "market": {
+  "naive_distance_to_default": {
+   "drift_mu_equals_1y_stock_return": {
+    "value": -0.970808,
+    "formula": "V = E + F; sigma_D = 0.05 + 0.25 sigma_E; sigma_V = E/V sigma_E + F/V sigma_D; DD = [ln(V/F) + (mu - 0.5 sigma_V^2) T] / (sigma_V sqrt T); PD = N(-DD); T = 1; mu = past 1 year stock return",
+    "inputs": {
+     "market_cap_musd": {
+      "value": 161.873422,
+      "source": "market_inputs.json | equity.market_cap_usd | 2026-10-09"
+     },
+     "debt_F_musd": {
+      "value": 733.5,
+      "source": "market_inputs.json | merton_naive_main.F | 30 Jun 2026"
+     },
+     "sigma_E": {
+      "value": 0.642352,
+      "source": "market_inputs.json | equity.vol_252_annualised | 252d to 2026-10-09"
+     },
+     "return_1y": {
+      "value": -0.437975,
+      "source": "market_inputs.json | equity.return_1y | 2025-10-09 to 2026-10-09"
+     }
+    },
+    "note": "Debt F is 10-Q carrying total debt 733.5; volatility taken as is from market_inputs.json.",
+    "PD": 0.834178,
+    "V": 895.373422,
+    "sigma_D": 0.210588,
+    "sigma_V": 0.288646,
+    "mu": -0.437975,
+    "published_in_market_inputs": {
+     "DD": -0.970808,
+     "PD": 0.834178
+    }
+   },
+   "drift_mu_equals_1y_treasury": {
+    "value": 0.701396,
+    "formula": "V = E + F; sigma_D = 0.05 + 0.25 sigma_E; sigma_V = E/V sigma_E + F/V sigma_D; DD = [ln(V/F) + (mu - 0.5 sigma_V^2) T] / (sigma_V sqrt T); PD = N(-DD); T = 1; mu = 1 year Treasury 4.47%",
+    "inputs": {
+     "market_cap_musd": {
+      "value": 161.873422,
+      "source": "market_inputs.json | equity.market_cap_usd | 2026-10-09"
+     },
+     "debt_F_musd": {
+      "value": 733.5,
+      "source": "market_inputs.json | merton_naive_main.F | 30 Jun 2026"
+     },
+     "sigma_E": {
+      "value": 0.642352,
+      "source": "market_inputs.json | equity.vol_252_annualised | 252d to 2026-10-09"
+     },
+     "rf_1y_pct": {
+      "value": 4.47,
+      "source": "market_inputs.json | risk_free.y1 | 2026-10-09"
+     }
+    },
+    "note": "Sensitivity drift; the two rows are not averaged.",
+    "PD": 0.241528,
+    "V": 895.373422,
+    "sigma_D": 0.210588,
+    "sigma_V": 0.288646,
+    "mu": 0.0447,
+    "published_in_market_inputs": {
+     "DD": 0.701396,
+     "PD": 0.241528
+    }
+   },
+   "alt_face_debt_745": {
+    "drift_1y_return": {
+     "V": 906.873422,
+     "sigma_D": 0.210588,
+     "sigma_V": 0.287656,
+     "DD": -0.982872,
+     "PD": 0.837165
+    },
+    "drift_1y_treasury": {
+     "V": 906.873422,
+     "sigma_D": 0.210588,
+     "sigma_V": 0.287656,
+     "DD": 0.695086,
+     "PD": 0.243501
+    },
+    "note": "Same model with F = face debt 745.0 instead of carrying 733.5."
+   }
+  },
+  "bond_implied_default_probability": {
+   "quote": {
+    "price": 94.5,
+    "ytm_pct": 12.290376,
+    "date": "2026-10-07",
+    "treasury_matched_pct": 4.971903,
+    "years_to_maturity": 4.273785,
+    "source": "market_inputs.json bond (FINRA feed via TradingView); one print, 200,000 face on the bar; indicative"
+   },
+   "formula": "spread s = YTM - matched Treasury; hazard = s/(1-R); PD(1y) = 1 - exp(-hazard); cumulative = 1 - exp(-hazard*T)",
+   "recovery_40": {
+    "spread": 0.073185,
+    "hazard": 0.121975,
+    "pd_1y": 0.114829,
+    "pd_cum_to_maturity": 0.406248,
+    "recovery": 0.4
+   },
+   "recovery_60": {
+    "spread": 0.073185,
+    "hazard": 0.182962,
+    "pd_1y": 0.1672,
+    "pd_cum_to_maturity": 0.542482,
+    "recovery": 0.6
+   },
+   "alt_10q_fair_value_30jun2026": {
+    "recovery_40": {
+     "spread": 0.081415,
+     "hazard": 0.135692,
+     "pd_1y": 0.126889,
+     "pd_cum_to_maturity": 0.440057,
+     "recovery": 0.4
+    },
+    "recovery_60": {
+     "spread": 0.081415,
+     "hazard": 0.203539,
+     "pd_1y": 0.184161,
+     "pd_cum_to_maturity": 0.580998,
+     "recovery": 0.6
+    },
+    "ytm_pct": 12.322441,
+    "treasury_pct": 4.180897,
+    "note": "10-Q Level 2 fair value 658.0 on face 698.4 (implied price 94.2), Treasury 4.18% on 30 Jun 2026."
+   },
+   "published_cross_check": {
+    "pd_1y_R40_in_market_inputs": 0.114829,
+    "pd_1y_R30": 0.09927,
+    "pd_1y_R50": 0.136162
+   },
+   "caveat": "Risk neutral hazard including liquidity and risk premia; overstates the real world PD. A single thinly traded print."
+  },
+  "equity_value_over_total_debt": {
+   "carrying_debt": {
+    "value": 0.220686,
+    "formula": "market cap / total debt (carrying 733.5)",
+    "inputs": {
+     "market_cap_musd": {
+      "value": 161.873422,
+      "source": "market_inputs.json | equity.market_cap_usd | 2026-10-09"
+     },
+     "debt_F_musd": {
+      "value": 733.5,
+      "source": "market_inputs.json | merton_naive_main.F | 30 Jun 2026"
+     }
+    },
+    "note": ""
+   },
+   "face_debt": {
+    "value": 0.21728,
+    "formula": "market cap / total debt face 745.0"
+   },
+   "equity_over_debt_plus_equity": 0.180789
+  },
+  "one_year_change_in_market_cap": {
+   "value": -126.144604,
+   "formula": "market cap now - (close on 2025-10-09 x 72,915,955 shares)",
+   "inputs": {
+    "market_cap_musd": {
+     "value": 161.873422,
+     "source": "market_inputs.json | equity.market_cap_usd | 2026-10-09"
+    },
+    "base_close_1y": {
+     "value": 3.95,
+     "source": "market_inputs.json | equity.base_close_1y | 2025-10-09"
+    },
+    "shares": {
+     "value": 72915955,
+     "source": "market_inputs.json | equity.shares | 30 Jun 2026"
+    }
+   },
+   "note": "Constant share count (72,915,955) applied to both dates, so the percentage equals the price return. Shares in Oct 2025 were fewer (about 71.3m in Jan 2026 per 10-K cover), so the true market cap change is slightly different.",
+   "base_market_cap_musd": 288.018026,
+   "pct_change": -0.437975
+  }
+ },
+ "rating_map": {
+  "ratings": {
+   "sp": "B (stable)",
+   "moodys": "B2 (stable)",
+   "value_text": "S&P B (stable); Moody’s B2 (stable)",
+   "source_grade": "primary",
+   "source": "FY2025 10-K risk factor (ledger item 'Credit ratings')",
+   "quote": "In 2024, we were downgraded from B+ to B by Standard & Poor’s 500, and in 2025 we were downgraded from B1 to B2 by Moody’s. Both rating agencies currently rate Unisys with a stable outlook.",
+   "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm",
+   "caveat": "Status at 25 Feb 2026. The Q2 2026 10-Q has no rating sentence; no 2026 rating action found; issue rating on the 2031 notes not found (null)."
+  },
+  "default_rate_table_B_sp_pct": {
+   "values": {
+    "1y": 2.93,
+    "3y": 10.46,
+    "5y": 15.6,
+    "10y": 22.02,
+    "15y": 25.11
+   },
+   "grade": "secondary",
+   "source": "ledgertouch.com article dated 21 Aug 2026 (full table, labelled \"S&P Global Ratings, table 24\"); investmentgrade.com/bond-ratings (1y, 5y, 10y only), both citing S&P 2024 Annual Global Corporate Default And Rating Transition Study, 27 Mar 2025. SECONDARY. Primary spglobal.com PDF and maalot.co.il copy returned 403.",
+   "ccc_c_pct": {
+    "1y": 26.12,
+    "3y": 41.32,
+    "5y": 46.53,
+    "10y": 50.43,
+    "15y": 52.3
+   },
+   "bb_pct": {
+    "1y": 0.56,
+    "3y": 3.12,
+    "5y": 5.75
+   }
+  },
+  "issue_rating_2031_notes": {
+   "value": null,
+   "grade": null,
+   "note": "Null: no issue level rating or recovery rating on the 10.625% 2031 notes found from either agency (market_inputs.json ratings.issue_rating_2031_notes is null)."
+  },
+  "default_rate_table_B2_moodys": {
+   "value": null,
+   "grade": null,
+   "note": "not retrieved: moodys.com search 404, ratings.moodys.com 403/JS shell; scribd copies return a 3 KB stub. Only a 2004 edition B2 row (5.42, 13.62, 20.67, 27.74, 31.77 for years 1 to 5) seen in a search snippet; too old to use. Null: no current Moody's table retrieved; a 2004 snippet exists but is too old to use."
+  },
+  "compare_to_market_signals": {
+   "bond_implied_pd_1y_R40_pct": 11.482911,
+   "sp_B_1y_pct": 2.93,
+   "ratio_bond_to_B_1y": 3.919082,
+   "bond_pd_1y_position_between_B_and_CCC_C": 0.368819,
+   "bond_cumulative_to_maturity_4.27y_R40_pct": 40.62477,
+   "sp_B_5y_pct": 15.6,
+   "sp_CCC_C_5y_pct": 46.53,
+   "naive_dd_pd_pct": {
+    "mu_1y_return": 83.417793,
+    "mu_1y_treasury": 24.152806
+   },
+   "note": "Historical agency default rates are physical probabilities; the bond figure is risk neutral. The comparison shows the market prices Unisys between B and CCC/C, not that default is 11.5% likely."
+  }
+ },
+ "conflicts_resolved": [
+  {
+   "n": 1,
+   "topic": "Total debt",
+   "supported_figure": "733.5 carrying at 30 Jun 2026 (741.7 at 31 Dec 2025); face 745.0",
+   "value": 733.5,
+   "detail": {
+    "carrying_30_jun_2026": 733.5,
+    "face_30_jun_2026": 745.0,
+    "carrying_31_dec_2025": 741.7,
+    "slide_1198_2_is_debt_plus_pension": 1198.2,
+    "slide_reconciliation": "face 749.7 (31 Mar 2026) + pension deficit 448.5 = 1198.2",
+    "aggregator_729": "is the 31 Dec 2025 long term debt line (729.0), not total debt"
+   },
+   "quote_refs": [
+    {
+     "ledger": "q2_2026_10q_ledger.json",
+     "item": "Total debt, carrying amount (current plus long-term), MD&A statement",
+     "period": "2026-06-30",
+     "value": 733.5,
+     "quote": "At June 30, 2026, total debt was $733.5 million compared to $741.7 million at December 31, 2025.",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+    },
+    {
+     "ledger": "q2_2026_10q_ledger.json",
+     "item": "Total debt (carrying amount)",
+     "period": "2025-12-31",
+     "value": 741.7,
+     "quote": "Finance leases | 37.3 | 41.2 | Other debt | 9.3 | 13.3 | Total | 733.5 | 741.7 | Less – current maturities | 11.6 | 12.7 | Total long-term debt | $ | 721.9 | $ | 729.0",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+    },
+    {
+     "ledger": "q2_2026_10q_ledger.json",
+     "item": "Total debt including pension, company slide figure (reconciled: face 749.7 + 448.5 deficit = 1,198.2) (derived)",
+     "period": "2026-03-31",
+     "value": 1198.2,
+     "quote": "Derived: debt at face 749.7 (Q1 10-Q Note 13: 698.4 + 39.1 + 12.2) + December 2025 global pension funding deficit 448.5 = 1,198.2",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "topic": "Net leverage",
+   "supported_figure": "About 1.5x excluding pension and about 3.1x including pension at 30 Jun 2026; company stated 2.9x at 31 Mar 2026",
+   "value": 3.139039,
+   "detail": {
+    "30_jun_2026_net_excl_pension_face": 1.519321,
+    "30_jun_2026_net_excl_pension_carrying": 1.47779,
+    "30_jun_2026_net_incl_pension_face": 3.139039,
+    "30_jun_2026_net_incl_pension_carrying": 3.097508,
+    "31_mar_2026_net_incl_pension_recomputed": 2.872191,
+    "31_mar_2026_net_excl_pension_recomputed": 1.297402,
+    "31_mar_2026_company_stated": 2.9,
+    "31_dec_2025_net_incl_pension_face": 2.830344,
+    "31_dec_2025_net_excl_pension_face": 1.221664,
+    "dates": "2.8x is 31 Dec 2025, 2.9x is 31 Mar 2026, 3.1x is 30 Jun 2026 if the deficit did not move. The company states no 30 Jun 2026 ratio and no '1.3x excluding pension' (1.30x is the 31 Mar 2026 figure)."
+   },
+   "quote_refs": [
+    {
+     "ledger": "q2_2026_10q_ledger.json",
+     "item": "Net leverage including pension as stated by company at 31 Mar 2026 (Investor Day deck)",
+     "period": "2026-03-31",
+     "value": 2.9,
+     "quote": "Reducing net leverage (with pension) by at least one turn FINANCE OVERVIEW 2.9x March 31, 2026 < 2.0x year-end 2029",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465926069244/tm2616122d1_ex99-1.htm"
+    },
+    {
+     "ledger": "q2_2026_10q_ledger.json",
+     "item": "LTM adjusted EBITDA at 2026-06-30 (derived: FY2025 278.8 minus H1 2025 101.6 plus H1 2026 99.7)",
+     "period": "2026-06-30",
+     "value": 276.9,
+     "quote": "Derived: 278.8 - 101.6 + 99.7 = 276.9",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "topic": "2026 pension contributions",
+   "supported_figure": "97 for the defined benefit plans (Q2 10-Q); 100 with postretirement; 102 in the Investor Day deck; 87 is superseded",
+   "value": 97.0,
+   "detail": {
+    "db_q2_10q": 97.0,
+    "us": 47.0,
+    "international": 50.0,
+    "postretirement": 3.0,
+    "db_plus_postretirement": 100.0,
+    "investor_day": 102.0,
+    "superseded_10k": 87.0,
+    "paid_h1_2026_db": 57.4,
+    "expected_h2_2026_db": 40.0,
+    "gap_between_100_and_102": "not explained in any filing read"
+   },
+   "quote_refs": [
+    {
+     "ledger": "q2_2026_10q_ledger.json",
+     "item": "Expected total 2026 global DB contributions (Q2 10-Q)",
+     "period": "FY2026",
+     "value": 97.0,
+     "quote": "resulting in total expected cash contributions for 2026 of approximately $97 million to the company’s global defined benefit pension plans.",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+    },
+    {
+     "ledger": "q2_2026_10q_ledger.json",
+     "item": "2026 pension and postretirement contributions guidance (Investor Day deck)",
+     "period": "FY2026",
+     "value": 102.0,
+     "quote": "Pension and postretirement contributions of ~$102M",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465926069244/tm2616122d1_ex99-1.htm"
+    },
+    {
+     "ledger": "q2_2026_10q_ledger.json",
+     "item": "Expected total 2026 global DB contributions (FY2025 10-K, superseded)",
+     "period": "FY2026",
+     "value": 87.0,
+     "quote": "the company estimates future total cash contributions to its global defined benefit pension plans of approximately $87 million in 2026, including approximately $47 million to the company’s U.S. defined benefit pension plans and approximately $40 million primarily to the company’s international defined benefit pension plans.",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "topic": "Mid 2026 pension deficit",
+   "supported_figure": "Not stated in any filing. Last stated: 448.5 funding deficit at 31 Dec 2025. Balance sheet net position at 30 Jun 2026 is 446.9 (different measure)",
+   "value": null,
+   "note": "Null: the Q2 2026 filings say only that the estimated global deficit is improving; no 30 Jun 2026 funding deficit exists to quote. The 30 million improvement in secondary sources is not in the filings (the nearest filed number is the 32.6 fall in the long term liability line).",
+   "detail": {
+    "last_stated_31_dec_2025": 448.5,
+    "bs_net_position_30_jun_2026": 446.9,
+    "bs_net_position_31_dec_2025": -496.4,
+    "bs_liability_change_h1_2026": -32.6
+   },
+   "quote_refs": [
+    {
+     "ledger": "q2_2026_10q_ledger.json",
+     "item": "Defined benefit pension funding deficit, 31 Dec 2025 (company release)",
+     "period": "2025-12-31",
+     "value": 448.5,
+     "quote": "Defined benefit pension plans funding deficit status of $448.5 million compared to funding deficit of $750.2 million in 2024, improved by $301.7 million",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000003/q42025earningsrelease.htm"
+    },
+    {
+     "ledger": "q2_2026_10q_ledger.json",
+     "item": "Net balance sheet pension position, long-term liability less prepaid asset (derived; GAAP balance sheet basis, not the company funding deficit)",
+     "period": "2026-06-30",
+     "value": -446.9,
+     "quote": "Derived: prepaid pension and postretirement assets 38.2 minus long-term pension and postretirement liabilities 485.1 = (446.9); current portion in other accrued liabilities not shown separately",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "topic": "Q2 2026 free cash flow",
+   "supported_figure": "Negative 49.0 (cash used for operations -26.3, software -10.7, properties -12.0); H1 2026 is -74.5",
+   "value": -49.0,
+   "detail": {
+    "parts_sum": -49.0,
+    "q1_2026": -25.5,
+    "h1_2026": -74.5,
+    "h1_less_q1": -49.0,
+    "aggregator_38_3": "not supported by any filing"
+   },
+   "quote_refs": [
+    {
+     "ledger": "q2_2026_10q_ledger.json",
+     "item": "Free cash flow, Q2 2026 stated in release highlights",
+     "period": "Q2 2026",
+     "value": -49.0,
+     "quote": "Free cash flow(9) | ($49.0) | ($336.5) | ($74.5) | ($323.3)",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+    },
+    {
+     "ledger": "q2_2026_10q_ledger.json",
+     "item": "Free cash flow (company definition: cash from operations less capital expenditures)",
+     "period": "H1 2026 (6 months)",
+     "value": -74.5,
+     "quote": "Free cash flow | (49.0) | (336.5) | (74.5) | (323.3)",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "topic": "FY2026 revenue guidance",
+   "supported_figure": "Raised once, on 2 Jun 2026 (Investor Day), from (6.5)% to (4.5)% to (5.0)% to (3.5)% constant currency; reaffirmed 29 Jul 2026; never lowered",
+   "value": "(5.0)% to (3.5)% constant currency",
+   "detail": {
+    "cc_range_dollars_on_fy2025_revenue": [
+     1852.595,
+     1881.8465
+    ],
+    "jun_reported_range_(2.0)_to_(0.5)_dollars": [
+     1911.098,
+     1940.3495
+    ],
+    "jul_reported_range_(2.6)_to_(1.1)_dollars": [
+     1899.3974,
+     1928.6489
+    ],
+    "benzinga_basis_mix": "1,853 to 1,882 is the constant currency range; 1,911 to 1,940 is the June reported currency range. Both Investor Day numbers on different bases.",
+    "margin_guidance": "9.0% to 11.0% non GAAP operating margin, unchanged"
+   },
+   "quote_refs": [
+    {
+     "ledger": "q2_2026_10q_ledger.json",
+     "item": "FY2026 revenue growth guidance RAISED at Investor Day: new constant currency range",
+     "period": "2026-06-02",
+     "value": "(5.0)% to (3.5)%",
+     "quote": "Improving revenue growth Reaffirming profitability (5.0%) to (3.5%) Constant Currency Revenue Growth Non-GAAP Operating Profit Margin 9.0% to 11.0%",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465926069244/tm2616122d1_ex99-1.htm"
+    },
+    {
+     "ledger": "q2_2026_10q_ledger.json",
+     "item": "FY2026 revenue guidance, Q2 release: reaffirmed previously raised range",
+     "period": "2026-07-29",
+     "value": "(5.0)% to (3.5)%",
+     "quote": "The company reaffirms previously raised full-year 2026 revenue growth guidance and maintains profitability guidance: | Guidance | Revenue growth in constant currency* (5.0)% to (3.5)%",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+    }
+   ]
+  }
+ ],
+ "spot_checks": [
+  {
+   "name": "Altman Z'' (no constant) FY2025 hand sum vs script",
+   "independent_value": -2.987828,
+   "reference_value": -2.987828,
+   "reference_source": "script output",
+   "tolerance": 0.0,
+   "how": "Literals typed independently of the ledger lookup (1846.2, 1004.0, 655.9, -2478.9, -268.3, 78.5).",
+   "passed": true
+  },
+  {
+   "name": "Altman Z'' FY2025 versus earlier note value -2.988",
+   "independent_value": -2.987828,
+   "reference_value": -2.988,
+   "reference_source": "accounting_ratio_models.md",
+   "tolerance": 0.0015,
+   "how": "Earlier snippet round, same inputs.",
+   "passed": true
+  },
+  {
+   "name": "LTM Adjusted EBITDA to 30 Jun 2026",
+   "independent_value": 276.9,
+   "reference_value": 276.9,
+   "reference_source": "q2 ledger derived item",
+   "tolerance": 0.0,
+   "how": "278.8 - 101.6 + 99.7",
+   "passed": true
+  },
+  {
+   "name": "Net leverage incl pension 31 Mar 2026 versus company stated 2.9x",
+   "independent_value": 2.9,
+   "reference_value": 2.9,
+   "reference_source": "q2 ledger, Investor Day deck",
+   "tolerance": 0.0,
+   "how": "(749.7 + 448.5 - 380.2) / 284.8 = 2.8722 rounded to one decimal",
+   "passed": true
+  },
+  {
+   "name": "Naive DD (mu = 1y return) recomputed",
+   "independent_value": -0.970808,
+   "reference_value": -0.970808,
+   "reference_source": "market_inputs.json merton_naive_main.DD",
+   "tolerance": 0.0,
+   "how": "Independent literals and erfc form of N(-DD).",
+   "passed": true
+  },
+  {
+   "name": "Naive PD (mu = 1y return) recomputed",
+   "independent_value": 0.834178,
+   "reference_value": 0.834178,
+   "reference_source": "market_inputs.json merton_naive_main.PD",
+   "tolerance": 0.0,
+   "how": "N(-DD) via erfc.",
+   "passed": true
+  },
+  {
+   "name": "LTM FCF: cash from operations less capex versus company FCF roll",
+   "independent_value": 31.2,
+   "reference_value": 31.2,
+   "reference_source": "company FCF FY2025 - H1 2025 + H1 2026",
+   "tolerance": 0.0,
+   "how": "112.2 - 81.0 = 31.2 versus -217.6 + 323.3 - 74.5",
+   "passed": true
+  },
+  {
+   "name": "Q2 2026 FCF from release components",
+   "independent_value": -49.0,
+   "reference_value": -49.0,
+   "reference_source": "release FCF line",
+   "tolerance": 0.0,
+   "how": "-26.3 - 10.7 - 12.0",
+   "passed": true
+  },
+  {
+   "name": "Total liabilities 30 Jun 2026 = assets - deficit",
+   "independent_value": 1993.5,
+   "reference_value": 1993.5,
+   "reference_source": "q2 ledger derived item",
+   "tolerance": 0.0,
+   "how": "1,641.6 + 351.9",
+   "passed": true
+  },
+  {
+   "name": "Bond spread arithmetic: PD 1y at 40% recovery",
+   "independent_value": 0.114829,
+   "reference_value": 0.114829,
+   "reference_source": "market_inputs.json bond.main.pd_1y",
+   "tolerance": 0.0,
+   "how": "1 - exp(-s/(1-R))",
+   "passed": true
+  }
+ ],
+ "null_audit": {
+  "count": 9,
+  "items": [
+   {
+    "path": "inputs.Q2_2026.table[31]",
+    "reason": "Depreciation and amortization for H1 2025 and H1 2026 are not in the 10-Q ledger (no cash flow D&A lines), so LTM D&A and LTM funds from operations cannot be built."
+   },
+   {
+    "path": "inputs.Q2_2026.table[32]",
+    "reason": "Prior LTM net income (12 months to 30 Jun 2025) needs H1 2024 net income, which is in neither ledger."
+   },
+   {
+    "path": "accounting_scores.FY2025.ohlson",
+    "reason": "Value is null: SIZE (no GNP price level index in the inputs; no GDP deflator in the market note). Partial sum shown covers every other term. FFO defined as net income plus D&A = -244.6 (FFOTL term 0.212). Adding back the 227.7 non cash pension settlement loss would give FFO -16.9. CHIN uses FY2024 and FY2025 attributable net loss. INTWO = 1 (losses in FY2024 and FY2025). To reach O <= 0 the SIZE term -0.407*ln(TA/index) would have to be <= -4.72, i.e. TA/index >= 109336 (unit convention of TA, thousands versus millions, is itself undefined without the index)."
+   },
+   {
+    "path": "accounting_scores.FY2025.taffler",
+    "reason": "Null: the earlier note found no verified coefficients (sources conflict or were never published), and the no credit interval needs cash operating costs not collected."
+   },
+   {
+    "path": "accounting_scores.Q2_2026_LTM.ohlson",
+    "reason": "Value is null: SIZE (no GNP price level index in the inputs; no GDP deflator in the market note); FFOTL (funds from operations needs LTM depreciation and amortization, not in the 10-Q ledger); CHIN (prior LTM net income needs H1 2024 net income, in neither ledger). Partial sum shown covers every other term. INTWO = 1 (net loss in FY2024, FY2025 and the LTM). Partial sum above excludes SIZE, FFOTL and CHIN; the CHIN term can only lie between -0.521 and +0.521 (arithmetic bound), SIZE and FFOTL are unbounded here."
+   },
+   {
+    "path": "accounting_scores.Q2_2026_LTM.taffler",
+    "reason": "Null: the earlier note found no verified coefficients (sources conflict or were never published), and the no credit interval needs cash operating costs not collected."
+   },
+   {
+    "path": "rating_map.issue_rating_2031_notes",
+    "reason": "Null: no issue level rating or recovery rating on the 10.625% 2031 notes found from either agency (market_inputs.json ratings.issue_rating_2031_notes is null)."
+   },
+   {
+    "path": "rating_map.default_rate_table_B2_moodys",
+    "reason": "not retrieved: moodys.com search 404, ratings.moodys.com 403/JS shell; scribd copies return a 3 KB stub. Only a 2004 edition B2 row (5.42, 13.62, 20.67, 27.74, 31.77 for years 1 to 5) seen in a search snippet; too old to use. Null: no current Moody's table retrieved; a 2004 snippet exists but is too old to use."
+   },
+   {
+    "path": "conflicts_resolved[3]",
+    "reason": "Null: the Q2 2026 filings say only that the estimated global deficit is improving; no 30 Jun 2026 funding deficit exists to quote. The 30 million improvement in secondary sources is not in the filings (the nearest filed number is the 32.6 fall in the long term liability line)."
+   }
+  ]
+ },
+ "ledger_items_matched": [
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Cash and cash equivalents",
+   "period": "FY2024 (31 Dec 2024)",
+   "value": 376.5,
+   "unit": "USD millions",
+   "used_for": "FY2024.cash"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Total current assets",
+   "period": "FY2024 (31 Dec 2024)",
+   "value": 979.3,
+   "unit": "USD millions",
+   "used_for": "FY2024.tca"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Total assets",
+   "period": "FY2024 (31 Dec 2024)",
+   "value": 1872.3,
+   "unit": "USD millions",
+   "used_for": "FY2024.ta"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Total current liabilities",
+   "period": "FY2024 (31 Dec 2024)",
+   "value": 628.0,
+   "unit": "USD millions",
+   "used_for": "FY2024.tcl"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Long-term debt",
+   "period": "FY2024 (31 Dec 2024)",
+   "value": 488.2,
+   "unit": "USD millions",
+   "used_for": "FY2024.ltd"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Current maturities of long-term debt (current debt)",
+   "period": "FY2024 (31 Dec 2024)",
+   "value": 5.0,
+   "unit": "USD millions",
+   "used_for": "FY2024.cur_debt"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Long-term pension and postretirement liabilities",
+   "period": "FY2024 (31 Dec 2024)",
+   "value": 816.4,
+   "unit": "USD millions",
+   "used_for": "FY2024.pension_bs"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Accumulated deficit",
+   "period": "FY2024 (31 Dec 2024)",
+   "value": -2139.1,
+   "unit": "USD millions",
+   "used_for": "FY2024.re"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Total deficit",
+   "period": "FY2024 (31 Dec 2024)",
+   "value": -269.3,
+   "unit": "USD millions",
+   "used_for": "FY2024.deficit_total"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Total Unisys Corporation stockholders' deficit",
+   "period": "FY2024 (31 Dec 2024)",
+   "value": -283.4,
+   "unit": "USD millions",
+   "used_for": "FY2024.deficit_unisys"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Total debt (long-term debt note total incl. finance leases)",
+   "period": "FY2024 (31 Dec 2024)",
+   "value": 493.2,
+   "unit": "USD millions",
+   "used_for": "FY2024.total_debt"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Revenue",
+   "period": "FY2024",
+   "value": 2008.4,
+   "unit": "USD millions",
+   "used_for": "FY2024.revenue"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Operating income (operating profit)",
+   "period": "FY2024",
+   "value": 97.4,
+   "unit": "USD millions",
+   "used_for": "FY2024.ebit"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Interest expense",
+   "period": "FY2024",
+   "value": 31.9,
+   "unit": "USD millions",
+   "used_for": "FY2024.interest"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Loss before income taxes (pretax)",
+   "period": "FY2024",
+   "value": -75.3,
+   "unit": "USD millions",
+   "used_for": "FY2024.ebt"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Net loss attributable to Unisys Corporation",
+   "period": "FY2024",
+   "value": -193.4,
+   "unit": "USD millions",
+   "used_for": "FY2024.ni"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Consolidated net loss (incl. noncontrolling interests)",
+   "period": "FY2024",
+   "value": -193.2,
+   "unit": "USD millions",
+   "used_for": "FY2024.ni_consol"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Net cash (used for) provided by operating activities",
+   "period": "FY2024",
+   "value": 135.1,
+   "unit": "USD millions",
+   "used_for": "FY2024.ocf"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Total capex (marketable software + properties and other assets)",
+   "period": "FY2024",
+   "value": -79.8,
+   "unit": "USD millions",
+   "used_for": "FY2024.capex"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Pension and postretirement contributions (cash flow line)",
+   "period": "FY2024",
+   "value": -27.1,
+   "unit": "USD millions",
+   "used_for": "FY2024.pension_contrib"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Total depreciation and amortization (sum of four cash flow lines)",
+   "period": "FY2024",
+   "value": 106.4,
+   "unit": "USD millions",
+   "used_for": "FY2024.da"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Adjusted EBITDA, earnings release",
+   "period": "FY2024",
+   "value": 292.1,
+   "unit": "USD millions",
+   "used_for": "FY2024.adj_ebitda"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Funded status, total defined benefit plans",
+   "period": "FY2024 (31 Dec 2024)",
+   "value": -750.2,
+   "unit": "USD millions",
+   "used_for": "FY2024.pension_deficit"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Cash and cash equivalents",
+   "period": "FY2025 (31 Dec 2025)",
+   "value": 413.9,
+   "unit": "USD millions",
+   "used_for": "FY2025.cash"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Total current assets",
+   "period": "FY2025 (31 Dec 2025)",
+   "value": 1004.0,
+   "unit": "USD millions",
+   "used_for": "FY2025.tca"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Total assets",
+   "period": "FY2025 (31 Dec 2025)",
+   "value": 1846.2,
+   "unit": "USD millions",
+   "used_for": "FY2025.ta"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Total current liabilities",
+   "period": "FY2025 (31 Dec 2025)",
+   "value": 655.9,
+   "unit": "USD millions",
+   "used_for": "FY2025.tcl"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Long-term debt",
+   "period": "FY2025 (31 Dec 2025)",
+   "value": 729.0,
+   "unit": "USD millions",
+   "used_for": "FY2025.ltd"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Current maturities of long-term debt (current debt)",
+   "period": "FY2025 (31 Dec 2025)",
+   "value": 12.7,
+   "unit": "USD millions",
+   "used_for": "FY2025.cur_debt"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Long-term pension and postretirement liabilities",
+   "period": "FY2025 (31 Dec 2025)",
+   "value": 517.7,
+   "unit": "USD millions",
+   "used_for": "FY2025.pension_bs"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Accumulated deficit",
+   "period": "FY2025 (31 Dec 2025)",
+   "value": -2478.9,
+   "unit": "USD millions",
+   "used_for": "FY2025.re"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Total deficit",
+   "period": "FY2025 (31 Dec 2025)",
+   "value": -268.3,
+   "unit": "USD millions",
+   "used_for": "FY2025.deficit_total"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Total Unisys Corporation stockholders' deficit",
+   "period": "FY2025 (31 Dec 2025)",
+   "value": -282.6,
+   "unit": "USD millions",
+   "used_for": "FY2025.deficit_unisys"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Total debt (long-term debt note total incl. finance leases)",
+   "period": "FY2025 (31 Dec 2025)",
+   "value": 741.7,
+   "unit": "USD millions",
+   "used_for": "FY2025.total_debt"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Revenue",
+   "period": "FY2025",
+   "value": 1950.1,
+   "unit": "USD millions",
+   "used_for": "FY2025.revenue"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Operating income (operating profit)",
+   "period": "FY2025",
+   "value": 78.5,
+   "unit": "USD millions",
+   "used_for": "FY2025.ebit"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Interest expense",
+   "period": "FY2025",
+   "value": 53.4,
+   "unit": "USD millions",
+   "used_for": "FY2025.interest"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Loss before income taxes (pretax)",
+   "period": "FY2025",
+   "value": -272.2,
+   "unit": "USD millions",
+   "used_for": "FY2025.ebt"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Net loss attributable to Unisys Corporation",
+   "period": "FY2025",
+   "value": -339.8,
+   "unit": "USD millions",
+   "used_for": "FY2025.ni"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Consolidated net loss (incl. noncontrolling interests)",
+   "period": "FY2025",
+   "value": -340.0,
+   "unit": "USD millions",
+   "used_for": "FY2025.ni_consol"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Net cash (used for) provided by operating activities",
+   "period": "FY2025",
+   "value": -140.0,
+   "unit": "USD millions",
+   "used_for": "FY2025.ocf"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Total capex (marketable software + properties and other assets)",
+   "period": "FY2025",
+   "value": -77.6,
+   "unit": "USD millions",
+   "used_for": "FY2025.capex"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Pension and postretirement contributions (cash flow line)",
+   "period": "FY2025",
+   "value": -345.3,
+   "unit": "USD millions",
+   "used_for": "FY2025.pension_contrib"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Total depreciation and amortization (sum of four cash flow lines)",
+   "period": "FY2025",
+   "value": 95.2,
+   "unit": "USD millions",
+   "used_for": "FY2025.da"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Adjusted EBITDA, earnings release",
+   "period": "FY2025",
+   "value": 278.8,
+   "unit": "USD millions",
+   "used_for": "FY2025.adj_ebitda"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Funded status, total defined benefit plans",
+   "period": "FY2025 (31 Dec 2025)",
+   "value": -448.5,
+   "unit": "USD millions",
+   "used_for": "FY2025.pension_deficit"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Free cash flow (company definition: cash from operations less capex), earnings release",
+   "period": "FY2025",
+   "value": -217.6,
+   "unit": "USD millions",
+   "used_for": "FY2025.fcf_company"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Free cash flow (company definition), earnings release",
+   "period": "FY2024",
+   "value": 55.3,
+   "unit": "USD millions",
+   "used_for": "FY2024.fcf_company"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Pre-pension and postretirement free cash flow, earnings release",
+   "period": "FY2025",
+   "value": 127.7,
+   "unit": "USD millions",
+   "used_for": "FY2025.fcf_prepension_company"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Pre-pension and postretirement free cash flow, earnings release",
+   "period": "FY2024",
+   "value": 82.4,
+   "unit": "USD millions",
+   "used_for": "FY2024.fcf_prepension_company"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "ABL availability, net of letters of credit",
+   "period": "FY2025 (31 Dec 2025)",
+   "value": 92.2,
+   "unit": "USD millions",
+   "used_for": "FY2025.abl_avail"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Total debt at face value (derived)",
+   "period": "2025-12-31",
+   "value": 754.5,
+   "unit": "USD millions",
+   "used_for": "FY2025.total_debt_face"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Defined benefit pension funding deficit, 31 Dec 2025 (company release)",
+   "period": "2025-12-31",
+   "value": 448.5,
+   "unit": "USD millions",
+   "used_for": "FY2025.pension_deficit_company"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Prepaid pension and postretirement assets",
+   "period": "FY2025 (31 Dec 2025)",
+   "value": 21.3,
+   "unit": "USD millions",
+   "used_for": "FY2025.prepaid_pension"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Total current assets (as originally reported in FY2024 10-K)",
+   "period": "FY2024 (31 Dec 2024)",
+   "value": 982.4,
+   "unit": "USD millions",
+   "used_for": "FY2024.tca_orig"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Cash and cash equivalents",
+   "period": "2026-06-30",
+   "value": 324.3,
+   "unit": "USD millions",
+   "used_for": "Q2_2026.cash"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Total current assets",
+   "period": "2026-06-30",
+   "value": 846.1,
+   "unit": "USD millions",
+   "used_for": "Q2_2026.tca"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Total assets",
+   "period": "2026-06-30",
+   "value": 1641.6,
+   "unit": "USD millions",
+   "used_for": "Q2_2026.ta"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Total current liabilities",
+   "period": "2026-06-30",
+   "value": 600.3,
+   "unit": "USD millions",
+   "used_for": "Q2_2026.tcl"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Long-term debt",
+   "period": "2026-06-30",
+   "value": 721.9,
+   "unit": "USD millions",
+   "used_for": "Q2_2026.ltd"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Current maturities of long-term debt (current debt)",
+   "period": "2026-06-30",
+   "value": 11.6,
+   "unit": "USD millions",
+   "used_for": "Q2_2026.cur_debt"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Long-term pension and postretirement liabilities",
+   "period": "2026-06-30",
+   "value": 485.1,
+   "unit": "USD millions",
+   "used_for": "Q2_2026.pension_bs"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Prepaid pension and postretirement assets",
+   "period": "2026-06-30",
+   "value": 38.2,
+   "unit": "USD millions",
+   "used_for": "Q2_2026.prepaid_pension"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Accumulated deficit",
+   "period": "2026-06-30",
+   "value": -2610.0,
+   "unit": "USD millions",
+   "used_for": "Q2_2026.re"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Total deficit",
+   "period": "2026-06-30",
+   "value": -351.9,
+   "unit": "USD millions",
+   "used_for": "Q2_2026.deficit_total"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Total Unisys Corporation stockholders' deficit",
+   "period": "2026-06-30",
+   "value": -367.4,
+   "unit": "USD millions",
+   "used_for": "Q2_2026.deficit_unisys"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Total debt (carrying amount: notes + finance leases + other debt)",
+   "period": "2026-06-30",
+   "value": 733.5,
+   "unit": "USD millions",
+   "used_for": "Q2_2026.total_debt"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Total debt at face value (notes face + finance leases + other debt) (derived)",
+   "period": "2026-06-30",
+   "value": 745.0,
+   "unit": "USD millions",
+   "used_for": "Q2_2026.total_debt_face"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "10.625% senior secured notes due 2031, face value outstanding",
+   "period": "2026-06-30",
+   "value": 698.4,
+   "unit": "USD millions",
+   "used_for": "Q2_2026.notes_face"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "2031 notes fair value (Level 2)",
+   "period": "2026-06-30",
+   "value": 658.0,
+   "unit": "USD millions",
+   "used_for": "Q2_2026.notes_fv"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "ABL availability, net of letters of credit",
+   "period": "2026-06-30",
+   "value": 99.7,
+   "unit": "USD millions",
+   "used_for": "Q2_2026.abl_avail"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Liquidity, cash plus ABL availability (derived)",
+   "period": "2026-06-30",
+   "value": 424.0,
+   "unit": "USD millions",
+   "used_for": "Q2_2026.liquidity_ledger"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Defined benefit pension funding deficit, 31 Dec 2025 (company release)",
+   "period": "2025-12-31",
+   "value": 448.5,
+   "unit": "USD millions",
+   "used_for": "Q2_2026.pension_deficit_stale"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Revenue",
+   "period": "H1 2025 (6 months to 2025-06-30)",
+   "value": 915.4,
+   "unit": "USD millions",
+   "used_for": "Q2_2026.revenue_h1_25"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Revenue",
+   "period": "H1 2026 (6 months to 2026-06-30)",
+   "value": 911.1,
+   "unit": "USD millions",
+   "used_for": "Q2_2026.revenue_h1_26"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Operating (loss) income",
+   "period": "H1 2025 (6 months to 2025-06-30)",
+   "value": 35.4,
+   "unit": "USD millions",
+   "used_for": "Q2_2026.ebit_h1_25"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Operating (loss) income",
+   "period": "H1 2026 (6 months to 2026-06-30)",
+   "value": -16.7,
+   "unit": "USD millions",
+   "used_for": "Q2_2026.ebit_h1_26"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Interest expense",
+   "period": "H1 2025 (6 months to 2025-06-30)",
+   "value": 16.4,
+   "unit": "USD millions",
+   "used_for": "Q2_2026.interest_h1_25"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Interest expense",
+   "period": "H1 2026 (6 months to 2026-06-30)",
+   "value": 36.8,
+   "unit": "USD millions",
+   "used_for": "Q2_2026.interest_h1_26"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Loss before income taxes (pretax)",
+   "period": "H1 2025 (6 months to 2025-06-30)",
+   "value": -20.0,
+   "unit": "USD millions",
+   "used_for": "Q2_2026.ebt_h1_25"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Loss before income taxes (pretax)",
+   "period": "H1 2026 (6 months to 2026-06-30)",
+   "value": -102.9,
+   "unit": "USD millions",
+   "used_for": "Q2_2026.ebt_h1_26"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Net loss attributable to Unisys Corporation",
+   "period": "H1 2025 (6 months to 2025-06-30)",
+   "value": -49.6,
+   "unit": "USD millions",
+   "used_for": "Q2_2026.ni_h1_25"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Net loss attributable to Unisys Corporation",
+   "period": "H1 2026 (6 months to 2026-06-30)",
+   "value": -131.1,
+   "unit": "USD millions",
+   "used_for": "Q2_2026.ni_h1_26"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Consolidated net loss",
+   "period": "H1 2025 (6 months to 2025-06-30)",
+   "value": -50.6,
+   "unit": "USD millions",
+   "used_for": "Q2_2026.ni_consol_h1_25"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Consolidated net loss",
+   "period": "H1 2026 (6 months to 2026-06-30)",
+   "value": -132.4,
+   "unit": "USD millions",
+   "used_for": "Q2_2026.ni_consol_h1_26"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Net cash used for operating activities (cash from operations)",
+   "period": "H1 2025",
+   "value": -282.9,
+   "unit": "USD millions",
+   "used_for": "Q2_2026.ocf_h1_25"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Net cash used for operating activities (cash from operations)",
+   "period": "H1 2026",
+   "value": -30.7,
+   "unit": "USD millions",
+   "used_for": "Q2_2026.ocf_h1_26"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Pension and postretirement contributions (operating cash flow line)",
+   "period": "H1 2025",
+   "value": -287.6,
+   "unit": "USD millions",
+   "used_for": "Q2_2026.pension_contrib_h1_25"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Pension and postretirement contributions (operating cash flow line)",
+   "period": "H1 2026",
+   "value": -58.1,
+   "unit": "USD millions",
+   "used_for": "Q2_2026.pension_contrib_h1_26"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Adjusted EBITDA (company definition), H1 2025",
+   "period": "H1 2025",
+   "value": 101.6,
+   "unit": "USD millions",
+   "used_for": "Q2_2026.adj_ebitda_h1_25"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Adjusted EBITDA (company definition)",
+   "period": "H1 2026",
+   "value": 99.7,
+   "unit": "USD millions",
+   "used_for": "Q2_2026.adj_ebitda_h1_26"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Investment in marketable software (capex line 1)",
+   "period": "H1 2025",
+   "value": -23.6,
+   "unit": "USD millions",
+   "used_for": "Q2_2026.capex_sw_h1_25"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Capital additions of properties and other assets (capex line 2)",
+   "period": "H1 2025",
+   "value": -16.8,
+   "unit": "USD millions",
+   "used_for": "Q2_2026.capex_pp_h1_25"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Investment in marketable software (capex line 1)",
+   "period": "H1 2026",
+   "value": -21.1,
+   "unit": "USD millions",
+   "used_for": "Q2_2026.capex_sw_h1_26"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Capital additions of properties and other assets (capex line 2)",
+   "period": "H1 2026",
+   "value": -22.7,
+   "unit": "USD millions",
+   "used_for": "Q2_2026.capex_pp_h1_26"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Free cash flow (company definition: cash from operations less capital expenditures)",
+   "period": "H1 2026 (6 months)",
+   "value": -74.5,
+   "unit": "USD millions",
+   "used_for": "Q2_2026.fcf_h1_26"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Free cash flow (company definition: cash from operations less capital expenditures)",
+   "period": "H1 2025 (6 months)",
+   "value": -323.3,
+   "unit": "USD millions",
+   "used_for": "Q2_2026.fcf_h1_25"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Free cash flow (company definition: cash from operations less capital expenditures)",
+   "period": "Q2 2026 (3 months)",
+   "value": -49.0,
+   "unit": "USD millions",
+   "used_for": "Q2_2026.fcf_q2_26"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Pre-pension and postretirement free cash flow",
+   "period": "H1 2026 (6 months)",
+   "value": -16.4,
+   "unit": "USD millions",
+   "used_for": "Q2_2026.fcf_prepension_h1_26"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Cash and cash equivalents",
+   "period": "FY2025 (31 Dec 2025)",
+   "value": 413.9,
+   "unit": "USD millions",
+   "used_for": "cross ledger check"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Cash and cash equivalents",
+   "period": "2025-12-31",
+   "value": 413.9,
+   "unit": "USD millions",
+   "used_for": "cross ledger check"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Total current assets",
+   "period": "FY2025 (31 Dec 2025)",
+   "value": 1004.0,
+   "unit": "USD millions",
+   "used_for": "cross ledger check"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Total current assets",
+   "period": "2025-12-31",
+   "value": 1004.0,
+   "unit": "USD millions",
+   "used_for": "cross ledger check"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Total assets",
+   "period": "FY2025 (31 Dec 2025)",
+   "value": 1846.2,
+   "unit": "USD millions",
+   "used_for": "cross ledger check"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Total assets",
+   "period": "2025-12-31",
+   "value": 1846.2,
+   "unit": "USD millions",
+   "used_for": "cross ledger check"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Total current liabilities",
+   "period": "FY2025 (31 Dec 2025)",
+   "value": 655.9,
+   "unit": "USD millions",
+   "used_for": "cross ledger check"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Total current liabilities",
+   "period": "2025-12-31",
+   "value": 655.9,
+   "unit": "USD millions",
+   "used_for": "cross ledger check"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Long-term debt",
+   "period": "FY2025 (31 Dec 2025)",
+   "value": 729.0,
+   "unit": "USD millions",
+   "used_for": "cross ledger check"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Long-term debt",
+   "period": "2025-12-31",
+   "value": 729.0,
+   "unit": "USD millions",
+   "used_for": "cross ledger check"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Current maturities of long-term debt (current debt)",
+   "period": "FY2025 (31 Dec 2025)",
+   "value": 12.7,
+   "unit": "USD millions",
+   "used_for": "cross ledger check"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Current maturities of long-term debt (current debt)",
+   "period": "2025-12-31",
+   "value": 12.7,
+   "unit": "USD millions",
+   "used_for": "cross ledger check"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Long-term pension and postretirement liabilities",
+   "period": "FY2025 (31 Dec 2025)",
+   "value": 517.7,
+   "unit": "USD millions",
+   "used_for": "cross ledger check"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Long-term pension and postretirement liabilities",
+   "period": "2025-12-31",
+   "value": 517.7,
+   "unit": "USD millions",
+   "used_for": "cross ledger check"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Accumulated deficit",
+   "period": "FY2025 (31 Dec 2025)",
+   "value": -2478.9,
+   "unit": "USD millions",
+   "used_for": "cross ledger check"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Accumulated deficit",
+   "period": "2025-12-31",
+   "value": -2478.9,
+   "unit": "USD millions",
+   "used_for": "cross ledger check"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Accumulated other comprehensive loss",
+   "period": "FY2025 (31 Dec 2025)",
+   "value": -2427.9,
+   "unit": "USD millions",
+   "used_for": "cross ledger check"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Accumulated other comprehensive loss",
+   "period": "2025-12-31",
+   "value": -2427.9,
+   "unit": "USD millions",
+   "used_for": "cross ledger check"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Total Unisys Corporation stockholders' deficit",
+   "period": "FY2025 (31 Dec 2025)",
+   "value": -282.6,
+   "unit": "USD millions",
+   "used_for": "cross ledger check"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Total Unisys Corporation stockholders' deficit",
+   "period": "2025-12-31",
+   "value": -282.6,
+   "unit": "USD millions",
+   "used_for": "cross ledger check"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Total deficit",
+   "period": "FY2025 (31 Dec 2025)",
+   "value": -268.3,
+   "unit": "USD millions",
+   "used_for": "cross ledger check"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Total deficit",
+   "period": "2025-12-31",
+   "value": -268.3,
+   "unit": "USD millions",
+   "used_for": "cross ledger check"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Prepaid pension and postretirement assets",
+   "period": "FY2025 (31 Dec 2025)",
+   "value": 21.3,
+   "unit": "USD millions",
+   "used_for": "cross ledger check"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Prepaid pension and postretirement assets",
+   "period": "2025-12-31",
+   "value": 21.3,
+   "unit": "USD millions",
+   "used_for": "cross ledger check"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Goodwill",
+   "period": "FY2025 (31 Dec 2025)",
+   "value": 193.8,
+   "unit": "USD millions",
+   "used_for": "cross ledger check"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Goodwill",
+   "period": "2025-12-31",
+   "value": 193.8,
+   "unit": "USD millions",
+   "used_for": "cross ledger check"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Total liabilities (the balance sheet prints no total)",
+   "period": "FY2025 (31 Dec 2025)",
+   "value": 2114.5,
+   "unit": "USD millions",
+   "used_for": "cross ledger check"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Total liabilities (derived)",
+   "period": "2025-12-31",
+   "value": 2114.5,
+   "unit": "USD millions",
+   "used_for": "cross ledger check"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Total debt (long-term debt note total incl. finance leases)",
+   "period": "FY2025 (31 Dec 2025)",
+   "value": 741.7,
+   "unit": "USD millions",
+   "used_for": "cross ledger check"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Total debt (carrying amount)",
+   "period": "2025-12-31",
+   "value": 741.7,
+   "unit": "USD millions",
+   "used_for": "cross ledger check"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Adjusted EBITDA, earnings release",
+   "period": "FY2025",
+   "value": 278.8,
+   "unit": "USD millions",
+   "used_for": "cross ledger check"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Adjusted EBITDA (company definition)",
+   "period": "FY2025",
+   "value": 278.8,
+   "unit": "USD millions",
+   "used_for": "cross ledger check"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Estimated cash contributions to global DB plans: 2027",
+   "period": "FY2027 estimate",
+   "value": 105.0,
+   "unit": "USD millions",
+   "used_for": "cross ledger check"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Expected 2027 global DB contributions (Q2 10-Q)",
+   "period": "FY2027",
+   "value": 104.0,
+   "unit": "USD millions",
+   "used_for": "cross ledger check"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Estimated cash contributions to global DB plans: 2026",
+   "period": "FY2026 estimate",
+   "value": 87.0,
+   "unit": "USD millions",
+   "used_for": "cross ledger check"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Expected total 2026 global DB contributions (Q2 10-Q)",
+   "period": "FY2026",
+   "value": 97.0,
+   "unit": "USD millions",
+   "used_for": "cross ledger check"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "FY2026 free cash flow guidance (Investor Day deck)",
+   "period": "2026-06-02",
+   "value": -25.0,
+   "unit": "USD millions (approximate)",
+   "used_for": "GUIDE.fcf_2026"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "FY2026 capital expenditures guidance (Investor Day deck)",
+   "period": "2026-06-02",
+   "value": 85.0,
+   "unit": "USD millions (approximate)",
+   "used_for": "GUIDE.capex_2026"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "FY2026 cash taxes guidance (Investor Day deck)",
+   "period": "2026-06-02",
+   "value": 70.0,
+   "unit": "USD millions (approximate)",
+   "used_for": "GUIDE.taxes_2026"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "FY2026 net interest payments guidance (Investor Day deck)",
+   "period": "2026-06-02",
+   "value": 70.0,
+   "unit": "USD millions (approximate)",
+   "used_for": "GUIDE.net_interest_2026"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "FY2026 other payments (primarily restructuring) guidance (Investor Day deck)",
+   "period": "2026-06-02",
+   "value": 30.0,
+   "unit": "USD millions (approximate)",
+   "used_for": "GUIDE.other_2026"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "2026 pension and postretirement contributions guidance (Investor Day deck)",
+   "period": "FY2026",
+   "value": 102.0,
+   "unit": "USD millions",
+   "used_for": "GUIDE.pension_2026"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Estimated cash contributions to global DB plans: 2027",
+   "period": "FY2027 estimate",
+   "value": 105.0,
+   "unit": "USD millions",
+   "used_for": "GUIDE.pension_2027"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Estimated cash contributions to global DB plans: 2028 to 2030 in aggregate",
+   "period": "FY2028-FY2030 estimate",
+   "value": 241.0,
+   "unit": "USD millions",
+   "used_for": "GUIDE.pension_2028_30_agg"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "10.625% senior secured notes due 2031, face value outstanding",
+   "period": "2026-06-30",
+   "value": 698.4,
+   "unit": "USD millions",
+   "used_for": "GUIDE.notes_face"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "2031 notes coupon",
+   "period": "2025-06-27",
+   "value": 10.625,
+   "unit": "percent per year",
+   "used_for": "GUIDE.coupon_pct"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Revenue, FY2025 (base for guidance dollar translation)",
+   "period": "FY2025",
+   "value": 1950.1,
+   "unit": "USD millions",
+   "used_for": "GUIDE.revenue_2025"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "FY2026 implied H2 free cash flow if the full-year guide of ~(25) is met (derived)",
+   "period": "H2 2026",
+   "value": 49.5,
+   "unit": "USD millions",
+   "used_for": "GUIDE.h2_fcf_ledger"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "FY2026 revenue guidance, Q2 release: reaffirmed previously raised range",
+   "period": "2026-07-29",
+   "value": null,
+   "unit": "(5.0)% to (3.5)%",
+   "used_for": "runway guidance range"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "FY2026 non-GAAP operating profit margin guidance (Q2 release, maintained)",
+   "period": "2026-07-29",
+   "value": null,
+   "unit": "9.0% to 11.0%",
+   "used_for": "runway guidance range"
+  },
+  {
+   "ledger": "fy2025_10k_ledger.json",
+   "item": "Credit ratings",
+   "period": "FY2025 (31 Dec 2025)",
+   "value": "S&P B (stable); Moody’s B2 (stable)",
+   "unit": "text",
+   "used_for": "rating"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Cash and cash equivalents",
+   "period": "2026-03-31",
+   "value": 380.2,
+   "unit": "USD millions",
+   "used_for": "conflict 2 reproduction"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Total debt at face value (derived)",
+   "period": "2026-03-31",
+   "value": 749.7,
+   "unit": "USD millions",
+   "used_for": "conflict 2 reproduction"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Adjusted EBITDA (company definition)",
+   "period": "Q1 2025",
+   "value": 40.2,
+   "unit": "USD millions",
+   "used_for": "conflict 2 reproduction"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Adjusted EBITDA (company definition)",
+   "period": "Q1 2026",
+   "value": 46.2,
+   "unit": "USD millions",
+   "used_for": "conflict 2 reproduction"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Net leverage including pension as stated by company at 31 Mar 2026 (Investor Day deck)",
+   "period": "2026-03-31",
+   "value": 2.9,
+   "unit": "x",
+   "used_for": "conflict 2"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Total debt including pension, company slide figure (reconciled: face 749.7 + 448.5 deficit = 1,198.2) (derived)",
+   "period": "2026-03-31",
+   "value": 1198.2,
+   "unit": "USD millions",
+   "used_for": "conflict 1"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Cash used for operations (release FCF table)",
+   "period": "Q2 2026 (3 months)",
+   "value": -26.3,
+   "unit": "USD millions",
+   "used_for": "conflict 5"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Additions to marketable software (release FCF table)",
+   "period": "Q2 2026 (3 months)",
+   "value": -10.7,
+   "unit": "USD millions",
+   "used_for": "conflict 5"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Additions to properties and other assets (release FCF table)",
+   "period": "Q2 2026 (3 months)",
+   "value": -12.0,
+   "unit": "USD millions",
+   "used_for": "conflict 5"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Total debt, carrying amount (current plus long-term), MD&A statement",
+   "period": "2026-06-30",
+   "value": 733.5,
+   "unit": "USD millions",
+   "used_for": "conflict quote"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Total debt (carrying amount)",
+   "period": "2025-12-31",
+   "value": 741.7,
+   "unit": "USD millions",
+   "used_for": "conflict quote"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Total debt including pension, company slide figure (reconciled: face 749.7 + 448.5 deficit = 1,198.2) (derived)",
+   "period": "2026-03-31",
+   "value": 1198.2,
+   "unit": "USD millions",
+   "used_for": "conflict quote"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Net leverage including pension as stated by company at 31 Mar 2026 (Investor Day deck)",
+   "period": "2026-03-31",
+   "value": 2.9,
+   "unit": "x",
+   "used_for": "conflict quote"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "LTM adjusted EBITDA at 2026-06-30 (derived: FY2025 278.8 minus H1 2025 101.6 plus H1 2026 99.7)",
+   "period": "2026-06-30",
+   "value": 276.9,
+   "unit": "USD millions",
+   "used_for": "conflict quote"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Expected total 2026 global DB contributions (Q2 10-Q)",
+   "period": "FY2026",
+   "value": 97.0,
+   "unit": "USD millions",
+   "used_for": "conflict 3"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Expected total 2026 global DB contributions (Q2 10-Q)",
+   "period": "FY2026",
+   "value": 97.0,
+   "unit": "USD millions",
+   "used_for": "conflict quote"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "2026 pension and postretirement contributions guidance (Investor Day deck)",
+   "period": "FY2026",
+   "value": 102.0,
+   "unit": "USD millions",
+   "used_for": "conflict quote"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Expected total 2026 global DB contributions (FY2025 10-K, superseded)",
+   "period": "FY2026",
+   "value": 87.0,
+   "unit": "USD millions",
+   "used_for": "conflict quote"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Net balance sheet pension position (derived)",
+   "period": "2025-12-31",
+   "value": -496.4,
+   "unit": "USD millions",
+   "used_for": "conflict 4"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Reported long-term pension and postretirement liability change in H1 2026 (derived)",
+   "period": "H1 2026",
+   "value": -32.6,
+   "unit": "USD millions",
+   "used_for": "conflict 4"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Defined benefit pension funding deficit, 31 Dec 2025 (company release)",
+   "period": "2025-12-31",
+   "value": 448.5,
+   "unit": "USD millions",
+   "used_for": "conflict quote"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Net balance sheet pension position, long-term liability less prepaid asset (derived; GAAP balance sheet basis, not the company funding deficit)",
+   "period": "2026-06-30",
+   "value": -446.9,
+   "unit": "USD millions",
+   "used_for": "conflict quote"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Free cash flow, Q1 2026",
+   "period": "Q1 2026",
+   "value": -25.5,
+   "unit": "USD millions",
+   "used_for": "conflict 5"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Free cash flow, Q1 2026",
+   "period": "Q1 2026",
+   "value": -25.5,
+   "unit": "USD millions",
+   "used_for": "conflict 5"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Free cash flow, Q2 2026 stated in release highlights",
+   "period": "Q2 2026",
+   "value": -49.0,
+   "unit": "USD millions",
+   "used_for": "conflict quote"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Free cash flow (company definition: cash from operations less capital expenditures)",
+   "period": "H1 2026 (6 months)",
+   "value": -74.5,
+   "unit": "USD millions",
+   "used_for": "conflict quote"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "FY2026 revenue growth guidance RAISED at Investor Day: new constant currency range",
+   "period": "2026-06-02",
+   "value": null,
+   "unit": "(5.0)% to (3.5)%",
+   "used_for": "conflict quote"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "FY2026 revenue guidance, Q2 release: reaffirmed previously raised range",
+   "period": "2026-07-29",
+   "value": null,
+   "unit": "(5.0)% to (3.5)%",
+   "used_for": "conflict quote"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "LTM adjusted EBITDA at 2026-06-30 (derived: FY2025 278.8 minus H1 2025 101.6 plus H1 2026 99.7)",
+   "period": "2026-06-30",
+   "value": 276.9,
+   "unit": "USD millions",
+   "used_for": "spot check"
+  },
+  {
+   "ledger": "q2_2026_10q_ledger.json",
+   "item": "Total liabilities (derived: total assets minus total deficit; equals sum of all liability lines)",
+   "period": "2026-06-30",
+   "value": 1993.5,
+   "unit": "USD millions",
+   "used_for": "spot check"
+  }
+ ]
+}
