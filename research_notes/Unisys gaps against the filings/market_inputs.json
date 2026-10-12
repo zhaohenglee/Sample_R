@@ -1,0 +1,222 @@
+{
+ "as_of": "2026-10-12",
+ "equity": {
+  "last_close": 2.2200000286102295,
+  "last_close_date": "2026-10-09",
+  "n_obs": 501,
+  "first_date": "2024-10-10",
+  "vol_window_start": "2025-10-09",
+  "n_returns_used": 252,
+  "daily_sd": 0.04046435368838515,
+  "vol_252_annualised": 0.6423517009345578,
+  "base_date_1y": "2025-10-09",
+  "base_close_1y": 3.950000047683716,
+  "return_1y": -0.43797468308587995,
+  "shares": 72915955,
+  "market_cap_usd": 161873422.1861422,
+  "high_252d": [
+   "2026-06-01",
+   4.78000020980835
+  ],
+  "low_252d": [
+   "2026-04-10",
+   2.0
+  ],
+  "worst_5_daily_log_returns": [
+   [
+    "2024-12-06",
+    -0.23668779039370394
+   ],
+   [
+    "2025-11-06",
+    -0.22537149552024674
+   ],
+   [
+    "2025-02-20",
+    -0.15443128246722193
+   ],
+   [
+    "2025-02-19",
+    -0.11890473968564245
+   ],
+   [
+    "2025-04-03",
+    -0.09904517629534194
+   ]
+  ]
+ },
+ "risk_free": {
+  "latest_date": "2026-10-09",
+  "y1": 4.47,
+  "y3": 4.89,
+  "y5": 5.02,
+  "source": "US Treasury daily par yield curve (TextView, Oct 2026)",
+  "fred_last_date": "2026-10-08",
+  "fred_dgs1": 4.44,
+  "fred_dgs5": 4.99,
+  "fred_crosscheck_on_treasury_date": {
+   "dgs1": null,
+   "dgs5": null
+  },
+  "2026-10-07": {
+   "1 Yr": 4.42,
+   "2 Yr": 4.77,
+   "3 Yr": 4.87,
+   "5 Yr": 5.03,
+   "7 Yr": 5.15
+  },
+  "2026-10-07_fred": {
+   "dgs1": 4.42,
+   "dgs3": 4.87,
+   "dgs5": 5.03
+  },
+  "2026-06-30": {
+   "1 Yr": 3.98,
+   "2 Yr": 4.14,
+   "3 Yr": 4.15,
+   "5 Yr": 4.19,
+   "7 Yr": 4.3
+  },
+  "2026-06-30_fred": {
+   "dgs1": 3.98,
+   "dgs3": 4.15,
+   "dgs5": 4.19
+  }
+ },
+ "merton_naive_main": {
+  "E": 161873422.1861422,
+  "F": 733500000.0,
+  "V": 895373422.1861422,
+  "sigma_E": 0.6423517009345578,
+  "sigma_D": 0.21058792523363945,
+  "sigma_V": 0.28864594908928576,
+  "mu": -0.43797468308587995,
+  "T": 1.0,
+  "DD": -0.970807526538918,
+  "PD": 0.8341779330560504
+ },
+ "merton_naive_mu_equals_1y_treasury": {
+  "E": 161873422.1861422,
+  "F": 733500000.0,
+  "V": 895373422.1861422,
+  "sigma_E": 0.6423517009345578,
+  "sigma_D": 0.21058792523363945,
+  "sigma_V": 0.28864594908928576,
+  "mu": 0.0447,
+  "T": 1.0,
+  "DD": 0.7013956850730214,
+  "PD": 0.24152805702918007
+ },
+ "bond": {
+  "cusip_144A": "909214BX5 (indenture form of note)",
+  "tradingview_finra_symbol": "FINRA:UIS6102484",
+  "trace_cusip_shown": "U90921AG9",
+  "isin_shown": "USU90921AG93",
+  "price": 94.5,
+  "ytm_reported": 12.290376271467363,
+  "quote_date": "2026-10-07",
+  "face_volume_bar": 200000,
+  "years_to_maturity": 4.27378507871321,
+  "main": {
+   "ytm": 12.290376271467363,
+   "treasury": 4.971902806297057,
+   "spread": 0.07318473465170305,
+   "R": 0.4,
+   "hazard": 0.12197455775283843,
+   "pd_1y": 0.11482911104732263,
+   "T_to_maturity": 4.27378507871321,
+   "pd_cum_to_maturity": 0.4062476970016372,
+   "treasury_method": "linear interpolation 3Y-5Y par yields on quote date"
+  },
+  "alt_5y": {
+   "ytm": 12.290376271467363,
+   "treasury": 5.03,
+   "spread": 0.07260376271467363,
+   "R": 0.4,
+   "hazard": 0.12100627119112271,
+   "pd_1y": 0.1139715968780034,
+   "T_to_maturity": 4.27378507871321,
+   "pd_cum_to_maturity": 0.4037855112751242
+  },
+  "alt_R30": {
+   "ytm": 12.290376271467363,
+   "treasury": 4.971902806297057,
+   "spread": 0.07318473465170305,
+   "R": 0.3,
+   "hazard": 0.10454962093100437,
+   "pd_1y": 0.09926989876824732,
+   "T_to_maturity": 4.27378507871321,
+   "pd_cum_to_maturity": 0.360342632917242
+  },
+  "alt_R50": {
+   "ytm": 12.290376271467363,
+   "treasury": 4.971902806297057,
+   "spread": 0.07318473465170305,
+   "R": 0.5,
+   "hazard": 0.1463694693034061,
+   "pd_1y": 0.13616151758521677,
+   "T_to_maturity": 4.27378507871321,
+   "pd_cum_to_maturity": 0.46503376909824234
+  },
+  "ytm_recomputed_from_price": 12.307426844270154,
+  "q2_10q_fair_value": {
+   "fair_value_musd": 658.0,
+   "face_musd": 698.4,
+   "implied_price": 94.21534936998854,
+   "ytm_recomputed": 12.322440925393806,
+   "treasury": 4.180896646132786,
+   "spread": 0.08141544279261019,
+   "R": 0.4,
+   "hazard": 0.1356924046543503,
+   "pd_1y": 0.1268888438838507,
+   "pd_cum_to_maturity": 0.46027699484098883
+  }
+ },
+ "sources": {
+  "equity": "Yahoo Finance chart API v8, UIS, range=2y interval=1d, fetched 12 Oct 2026; raw: downloads_market/yahoo_uis_2y.json",
+  "shares": "72,915,955 outstanding at 30 Jun 2026, 10-Q cover page (accession 0000746838-26-000027, filed 30 Jul 2026); downloads_market/10q_verify/uis-20260630.htm",
+  "total_debt": "USD 733.5 million at 30 Jun 2026, 10-Q Note 13 Debt table (Total; carrying amount, includes 686.9 notes net of 11.5 issuance costs, 37.3 finance leases, 9.3 other); 10-Q MD&A also states total debt was $733.5 million",
+  "notes_fair_value_10q": "Note 10: 10.625% notes carrying 686.9, fair value 658.0 at 30 Jun 2026 (717.5 at 31 Dec 2025), Level 2; face 698.4 per Note 13",
+  "treasury": "home.treasury.gov daily par yield curve TextView Oct 2026 and Jun 2026; FRED DGS1, DGS3, DGS5 csv cross-check",
+  "bond": "TradingView scanner.tradingview.com/bond/scan and page tradingview.com/symbols/FINRA-UIS6102484 (FINRA feed, ICE Data); fetched 12 Oct 2026"
+ },
+ "ratings": {
+  "status_primary": "FY2025 10-K (filed Feb 2026, accession 0000746838-26-000006), risk factor: \"In 2024, we were downgraded from B+ to B by Standard & Poor's 500, and in 2025 we were downgraded from B1 to B2 by Moody's. Both rating agencies currently rate Unisys with a stable outlook.\" (S&P name as printed in the filing.)",
+  "q2_2026_10q": "No rating or outlook sentence found in the 30 Jun 2026 10-Q text.",
+  "moodys_action_snippet": "Mar 2025 (date inferred from a search tool statement of about 571 days before 12 Oct 2026): CFR and senior secured rating to B2 from B1, outlook stable from negative, Investing.com report of Moody's release. Snippet only.",
+  "moodys_site": "moodys.com search URL returned 404; ratings.moodys.com pages return a JavaScript shell (34,642 bytes) with no rating data; ratings.moodys.com/api/rmc-documents returned 403.",
+  "sp": "spglobal.com not fetched (403 per FETCH_RULES). WebSearch snippets found no S&P press release for 2024, 2025 or 2026.",
+  "issue_rating_2031_notes": null,
+  "action_dates_2024_to_2026": "only the two above; no 2026 action found"
+ },
+ "default_tables": {
+  "sp_2024_study_table24_1981_2024_global_corporates_secondary": {
+   "B": {
+    "1y": 2.93,
+    "3y": 10.46,
+    "5y": 15.6,
+    "10y": 22.02,
+    "15y": 25.11
+   },
+   "CCC/C": {
+    "1y": 26.12,
+    "3y": 41.32,
+    "5y": 46.53,
+    "10y": 50.43,
+    "15y": 52.3
+   },
+   "BB": {
+    "1y": 0.56,
+    "3y": 3.12,
+    "5y": 5.75
+   },
+   "speculative_grade": {
+    "1y": 3.54,
+    "3y": 9.55,
+    "5y": 13.64
+   },
+   "source": "ledgertouch.com article dated 21 Aug 2026 (full table, labelled \"S&P Global Ratings, table 24\"); investmentgrade.com/bond-ratings (1y, 5y, 10y only), both citing S&P 2024 Annual Global Corporate Default And Rating Transition Study, 27 Mar 2025. SECONDARY. Primary spglobal.com PDF and maalot.co.il copy returned 403."
+  },
+  "moodys_annual_default_study": "not retrieved: moodys.com search 404, ratings.moodys.com 403/JS shell; scribd copies return a 3 KB stub. Only a 2004 edition B2 row (5.42, 13.62, 20.67, 27.74, 31.77 for years 1 to 5) seen in a search snippet; too old to use."
+ }
+}
