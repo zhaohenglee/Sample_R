@@ -1,0 +1,3782 @@
+[
+ {
+  "item": "Cash and cash equivalents",
+  "period": "2026-06-30",
+  "value": 324.3,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Consolidated Balance Sheets (columns: 2026-06-30 | 2025-12-31)",
+  "quote": "Cash and cash equivalents | $ | 324.3 | $ | 413.9",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Cash and cash equivalents",
+  "period": "2025-12-31",
+  "value": 413.9,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Consolidated Balance Sheets (columns: 2026-06-30 | 2025-12-31)",
+  "quote": "Cash and cash equivalents | $ | 324.3 | $ | 413.9",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Accounts receivable, net",
+  "period": "2026-06-30",
+  "value": 359.7,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Consolidated Balance Sheets (columns: 2026-06-30 | 2025-12-31)",
+  "quote": "Accounts receivable, net | 359.7 | 437.7",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Accounts receivable, net",
+  "period": "2025-12-31",
+  "value": 437.7,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Consolidated Balance Sheets (columns: 2026-06-30 | 2025-12-31)",
+  "quote": "Accounts receivable, net | 359.7 | 437.7",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Total current assets",
+  "period": "2026-06-30",
+  "value": 846.1,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Consolidated Balance Sheets (columns: 2026-06-30 | 2025-12-31)",
+  "quote": "Total current assets | 846.1 | 1,004.0",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Total current assets",
+  "period": "2025-12-31",
+  "value": 1004.0,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Consolidated Balance Sheets (columns: 2026-06-30 | 2025-12-31)",
+  "quote": "Total current assets | 846.1 | 1,004.0",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Prepaid pension and postretirement assets",
+  "period": "2026-06-30",
+  "value": 38.2,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Consolidated Balance Sheets (columns: 2026-06-30 | 2025-12-31)",
+  "quote": "Prepaid pension and postretirement assets | 38.2 | 21.3",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Prepaid pension and postretirement assets",
+  "period": "2025-12-31",
+  "value": 21.3,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Consolidated Balance Sheets (columns: 2026-06-30 | 2025-12-31)",
+  "quote": "Prepaid pension and postretirement assets | 38.2 | 21.3",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Goodwill",
+  "period": "2026-06-30",
+  "value": 146.6,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Consolidated Balance Sheets (columns: 2026-06-30 | 2025-12-31)",
+  "quote": "Goodwill | 146.6 | 193.8",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Goodwill",
+  "period": "2025-12-31",
+  "value": 193.8,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Consolidated Balance Sheets (columns: 2026-06-30 | 2025-12-31)",
+  "quote": "Goodwill | 146.6 | 193.8",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Restricted cash",
+  "period": "2026-06-30",
+  "value": 8.2,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Consolidated Balance Sheets (columns: 2026-06-30 | 2025-12-31)",
+  "quote": "Restricted cash | 8.2 | 7.8",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Restricted cash",
+  "period": "2025-12-31",
+  "value": 7.8,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Consolidated Balance Sheets (columns: 2026-06-30 | 2025-12-31)",
+  "quote": "Restricted cash | 8.2 | 7.8",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Total assets",
+  "period": "2026-06-30",
+  "value": 1641.6,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Consolidated Balance Sheets (columns: 2026-06-30 | 2025-12-31)",
+  "quote": "Total assets | $ | 1,641.6 | $ | 1,846.2",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Total assets",
+  "period": "2025-12-31",
+  "value": 1846.2,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Consolidated Balance Sheets (columns: 2026-06-30 | 2025-12-31)",
+  "quote": "Total assets | $ | 1,641.6 | $ | 1,846.2",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Current maturities of long-term debt (current debt)",
+  "period": "2026-06-30",
+  "value": 11.6,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Consolidated Balance Sheets (columns: 2026-06-30 | 2025-12-31)",
+  "quote": "Current maturities of long-term debt | $ | 11.6 | $ | 12.7",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Current maturities of long-term debt (current debt)",
+  "period": "2025-12-31",
+  "value": 12.7,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Consolidated Balance Sheets (columns: 2026-06-30 | 2025-12-31)",
+  "quote": "Current maturities of long-term debt | $ | 11.6 | $ | 12.7",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Deferred revenue (current)",
+  "period": "2026-06-30",
+  "value": 200.7,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Consolidated Balance Sheets (columns: 2026-06-30 | 2025-12-31)",
+  "quote": "Deferred revenue | 200.7 | 228.5",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Deferred revenue (current)",
+  "period": "2025-12-31",
+  "value": 228.5,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Consolidated Balance Sheets (columns: 2026-06-30 | 2025-12-31)",
+  "quote": "Deferred revenue | 200.7 | 228.5",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Total current liabilities",
+  "period": "2026-06-30",
+  "value": 600.3,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Consolidated Balance Sheets (columns: 2026-06-30 | 2025-12-31)",
+  "quote": "Total current liabilities | 600.3 | 655.9",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Total current liabilities",
+  "period": "2025-12-31",
+  "value": 655.9,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Consolidated Balance Sheets (columns: 2026-06-30 | 2025-12-31)",
+  "quote": "Total current liabilities | 600.3 | 655.9",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Long-term debt",
+  "period": "2026-06-30",
+  "value": 721.9,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Consolidated Balance Sheets (columns: 2026-06-30 | 2025-12-31)",
+  "quote": "Long-term debt | 721.9 | 729.0",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Long-term debt",
+  "period": "2025-12-31",
+  "value": 729.0,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Consolidated Balance Sheets (columns: 2026-06-30 | 2025-12-31)",
+  "quote": "Long-term debt | 721.9 | 729.0",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Long-term pension and postretirement liabilities",
+  "period": "2026-06-30",
+  "value": 485.1,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Consolidated Balance Sheets (columns: 2026-06-30 | 2025-12-31)",
+  "quote": "Long-term pension and postretirement liabilities | 485.1 | 517.7",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Long-term pension and postretirement liabilities",
+  "period": "2025-12-31",
+  "value": 517.7,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Consolidated Balance Sheets (columns: 2026-06-30 | 2025-12-31)",
+  "quote": "Long-term pension and postretirement liabilities | 485.1 | 517.7",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Long-term deferred revenue",
+  "period": "2026-06-30",
+  "value": 83.0,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Consolidated Balance Sheets (columns: 2026-06-30 | 2025-12-31)",
+  "quote": "Long-term deferred revenue | 83.0 | 100.7",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Long-term deferred revenue",
+  "period": "2025-12-31",
+  "value": 100.7,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Consolidated Balance Sheets (columns: 2026-06-30 | 2025-12-31)",
+  "quote": "Long-term deferred revenue | 83.0 | 100.7",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Accumulated deficit",
+  "period": "2026-06-30",
+  "value": -2610.0,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Consolidated Balance Sheets (columns: 2026-06-30 | 2025-12-31)",
+  "quote": "Accumulated deficit | (2,610.0) | (2,478.9)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Accumulated deficit",
+  "period": "2025-12-31",
+  "value": -2478.9,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Consolidated Balance Sheets (columns: 2026-06-30 | 2025-12-31)",
+  "quote": "Accumulated deficit | (2,610.0) | (2,478.9)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Accumulated other comprehensive loss",
+  "period": "2026-06-30",
+  "value": -2387.0,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Consolidated Balance Sheets (columns: 2026-06-30 | 2025-12-31)",
+  "quote": "Accumulated other comprehensive loss | (2,387.0) | (2,427.9)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Accumulated other comprehensive loss",
+  "period": "2025-12-31",
+  "value": -2427.9,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Consolidated Balance Sheets (columns: 2026-06-30 | 2025-12-31)",
+  "quote": "Accumulated other comprehensive loss | (2,387.0) | (2,427.9)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Total Unisys Corporation stockholders' deficit",
+  "period": "2026-06-30",
+  "value": -367.4,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Consolidated Balance Sheets (columns: 2026-06-30 | 2025-12-31)",
+  "quote": "Total Unisys Corporation stockholders' deficit | (367.4) | (282.6)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Total Unisys Corporation stockholders' deficit",
+  "period": "2025-12-31",
+  "value": -282.6,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Consolidated Balance Sheets (columns: 2026-06-30 | 2025-12-31)",
+  "quote": "Total Unisys Corporation stockholders' deficit | (367.4) | (282.6)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Noncontrolling interests",
+  "period": "2026-06-30",
+  "value": 15.5,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Consolidated Balance Sheets (columns: 2026-06-30 | 2025-12-31)",
+  "quote": "Noncontrolling interests | 15.5 | 14.3",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Noncontrolling interests",
+  "period": "2025-12-31",
+  "value": 14.3,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Consolidated Balance Sheets (columns: 2026-06-30 | 2025-12-31)",
+  "quote": "Noncontrolling interests | 15.5 | 14.3",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Total deficit",
+  "period": "2026-06-30",
+  "value": -351.9,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Consolidated Balance Sheets (columns: 2026-06-30 | 2025-12-31)",
+  "quote": "Total deficit | (351.9) | (268.3)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Total deficit",
+  "period": "2025-12-31",
+  "value": -268.3,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Consolidated Balance Sheets (columns: 2026-06-30 | 2025-12-31)",
+  "quote": "Total deficit | (351.9) | (268.3)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Cash and cash equivalents",
+  "period": "2026-03-31",
+  "value": 380.2,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Consolidated Balance Sheets (columns: 2026-03-31)",
+  "quote": "Cash and cash equivalents | $ | 380.2",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "Accounts receivable, net",
+  "period": "2026-03-31",
+  "value": 366.8,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Consolidated Balance Sheets (columns: 2026-03-31)",
+  "quote": "Accounts receivable, net | 366.8",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "Total current assets",
+  "period": "2026-03-31",
+  "value": 895.9,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Consolidated Balance Sheets (columns: 2026-03-31)",
+  "quote": "Total current assets | 895.9",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "Prepaid pension and postretirement assets",
+  "period": "2026-03-31",
+  "value": 21.5,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Consolidated Balance Sheets (columns: 2026-03-31)",
+  "quote": "Prepaid pension and postretirement assets | 21.5",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "Goodwill",
+  "period": "2026-03-31",
+  "value": 193.7,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Consolidated Balance Sheets (columns: 2026-03-31)",
+  "quote": "Goodwill | 193.7",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "Restricted cash",
+  "period": "2026-03-31",
+  "value": 8.1,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Consolidated Balance Sheets (columns: 2026-03-31)",
+  "quote": "Restricted cash | 8.1",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "Total assets",
+  "period": "2026-03-31",
+  "value": 1732.4,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Consolidated Balance Sheets (columns: 2026-03-31)",
+  "quote": "Total assets | $ | 1,732.4",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "Current maturities of long-term debt (current debt)",
+  "period": "2026-03-31",
+  "value": 13.5,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Consolidated Balance Sheets (columns: 2026-03-31)",
+  "quote": "Current maturities of long-term debt | $ | 13.5",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "Deferred revenue (current)",
+  "period": "2026-03-31",
+  "value": 229.4,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Consolidated Balance Sheets (columns: 2026-03-31)",
+  "quote": "Deferred revenue | 229.4",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "Total current liabilities",
+  "period": "2026-03-31",
+  "value": 602.4,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Consolidated Balance Sheets (columns: 2026-03-31)",
+  "quote": "Total current liabilities | 602.4",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "Long-term debt",
+  "period": "2026-03-31",
+  "value": 724.0,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Consolidated Balance Sheets (columns: 2026-03-31)",
+  "quote": "Long-term debt | 724.0",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "Long-term pension and postretirement liabilities",
+  "period": "2026-03-31",
+  "value": 493.3,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Consolidated Balance Sheets (columns: 2026-03-31)",
+  "quote": "Long-term pension and postretirement liabilities | 493.3",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "Long-term deferred revenue",
+  "period": "2026-03-31",
+  "value": 92.0,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Consolidated Balance Sheets (columns: 2026-03-31)",
+  "quote": "Long-term deferred revenue | 92.0",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "Accumulated deficit",
+  "period": "2026-03-31",
+  "value": -2514.7,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Consolidated Balance Sheets (columns: 2026-03-31)",
+  "quote": "Accumulated deficit | (2,514.7)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "Accumulated other comprehensive loss",
+  "period": "2026-03-31",
+  "value": -2411.7,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Consolidated Balance Sheets (columns: 2026-03-31)",
+  "quote": "Accumulated other comprehensive loss | (2,411.7)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "Total Unisys Corporation stockholders' deficit",
+  "period": "2026-03-31",
+  "value": -300.0,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Consolidated Balance Sheets (columns: 2026-03-31)",
+  "quote": "Total Unisys Corporation stockholders' deficit | (300.0)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "Noncontrolling interests",
+  "period": "2026-03-31",
+  "value": 15.5,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Consolidated Balance Sheets (columns: 2026-03-31)",
+  "quote": "Noncontrolling interests | 15.5",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "Total deficit",
+  "period": "2026-03-31",
+  "value": -284.5,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Consolidated Balance Sheets (columns: 2026-03-31)",
+  "quote": "Total deficit | (284.5)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "Total liabilities (derived: total assets minus total deficit; equals sum of all liability lines)",
+  "period": "2026-06-30",
+  "value": 1993.5,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Derived from Consolidated Balance Sheets; the statement has no total liabilities line",
+  "quote": "Derived: Total assets 1,641.6 minus Total deficit (351.9) = 1,993.5; cross-check 600.3 + 721.9 + 485.1 + 83.0 + 25.3 + 77.9 = 1,993.5",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Total liabilities (derived)",
+  "period": "2026-03-31",
+  "value": 2016.9,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Derived from Consolidated Balance Sheets; no total liabilities line",
+  "quote": "Derived: Total assets 1,732.4 minus Total deficit (284.5) = 2,016.9; cross-check 602.4 + 724.0 + 493.3 + 92.0 + 27.8 + 77.4 = 2,016.9",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "Total liabilities (derived)",
+  "period": "2025-12-31",
+  "value": 2114.5,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Derived from Consolidated Balance Sheets; no total liabilities line",
+  "quote": "Derived: Total assets 1,846.2 minus Total deficit (268.3) = 2,114.5; cross-check 655.9 + 729.0 + 517.7 + 100.7 + 30.6 + 80.6 = 2,114.5",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Total deferred revenue, current plus long-term (derived)",
+  "period": "2026-06-30",
+  "value": 283.7,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Derived from Consolidated Balance Sheets",
+  "quote": "Derived: Deferred revenue 200.7 + Long-term deferred revenue 83.0 = 283.7",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Total deferred revenue, current plus long-term (derived)",
+  "period": "2026-03-31",
+  "value": 321.4,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Derived from Consolidated Balance Sheets",
+  "quote": "Derived: Deferred revenue 229.4 + Long-term deferred revenue 92.0 = 321.4",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "Total debt, carrying amount (current plus long-term), MD&A statement",
+  "period": "2026-06-30",
+  "value": 733.5,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Note 13 Debt; also MD&A Financial condition",
+  "quote": "At June 30, 2026, total debt was $733.5 million compared to $741.7 million at December 31, 2025.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Revenue",
+  "period": "Q2 2026 (3 months to 2026-06-30)",
+  "value": 473.5,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Revenue | $ | 473.5 | $ | 483.3 | $ | 911.1 | $ | 915.4",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Revenue",
+  "period": "Q2 2025 (3 months to 2025-06-30)",
+  "value": 483.3,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Revenue | $ | 473.5 | $ | 483.3 | $ | 911.1 | $ | 915.4",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Revenue",
+  "period": "H1 2026 (6 months to 2026-06-30)",
+  "value": 911.1,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Revenue | $ | 473.5 | $ | 483.3 | $ | 911.1 | $ | 915.4",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Revenue",
+  "period": "H1 2025 (6 months to 2025-06-30)",
+  "value": 915.4,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Revenue | $ | 473.5 | $ | 483.3 | $ | 911.1 | $ | 915.4",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Cost of revenue",
+  "period": "Q2 2026 (3 months to 2026-06-30)",
+  "value": 356.2,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Cost of revenue | 356.2 | 353.3 | 681.3 | 677.9",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Cost of revenue",
+  "period": "Q2 2025 (3 months to 2025-06-30)",
+  "value": 353.3,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Cost of revenue | 356.2 | 353.3 | 681.3 | 677.9",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Cost of revenue",
+  "period": "H1 2026 (6 months to 2026-06-30)",
+  "value": 681.3,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Cost of revenue | 356.2 | 353.3 | 681.3 | 677.9",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Cost of revenue",
+  "period": "H1 2025 (6 months to 2025-06-30)",
+  "value": 677.9,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Cost of revenue | 356.2 | 353.3 | 681.3 | 677.9",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Goodwill and intangible asset impairment (income statement line)",
+  "period": "Q2 2026 (3 months to 2026-06-30)",
+  "value": 48.7,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Goodwill and intangible asset impairment | 48.7 | — | 48.7 | —",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Goodwill and intangible asset impairment (income statement line)",
+  "period": "Q2 2025 (3 months to 2025-06-30)",
+  "value": 0.0,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Goodwill and intangible asset impairment | 48.7 | — | 48.7 | —",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Goodwill and intangible asset impairment (income statement line)",
+  "period": "H1 2026 (6 months to 2026-06-30)",
+  "value": 48.7,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Goodwill and intangible asset impairment | 48.7 | — | 48.7 | —",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Goodwill and intangible asset impairment (income statement line)",
+  "period": "H1 2025 (6 months to 2025-06-30)",
+  "value": 0.0,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Goodwill and intangible asset impairment | 48.7 | — | 48.7 | —",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Operating (loss) income",
+  "period": "Q2 2026 (3 months to 2026-06-30)",
+  "value": -32.9,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Operating (loss) income | (32.9) | 30.3 | (16.7) | 35.4",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Operating (loss) income",
+  "period": "Q2 2025 (3 months to 2025-06-30)",
+  "value": 30.3,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Operating (loss) income | (32.9) | 30.3 | (16.7) | 35.4",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Operating (loss) income",
+  "period": "H1 2026 (6 months to 2026-06-30)",
+  "value": -16.7,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Operating (loss) income | (32.9) | 30.3 | (16.7) | 35.4",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Operating (loss) income",
+  "period": "H1 2025 (6 months to 2025-06-30)",
+  "value": 35.4,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Operating (loss) income | (32.9) | 30.3 | (16.7) | 35.4",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Interest expense",
+  "period": "Q2 2026 (3 months to 2026-06-30)",
+  "value": 18.3,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Interest expense | 18.3 | 8.2 | 36.8 | 16.4",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Interest expense",
+  "period": "Q2 2025 (3 months to 2025-06-30)",
+  "value": 8.2,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Interest expense | 18.3 | 8.2 | 36.8 | 16.4",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Interest expense",
+  "period": "H1 2026 (6 months to 2026-06-30)",
+  "value": 36.8,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Interest expense | 18.3 | 8.2 | 36.8 | 16.4",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Interest expense",
+  "period": "H1 2025 (6 months to 2025-06-30)",
+  "value": 16.4,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Interest expense | 18.3 | 8.2 | 36.8 | 16.4",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Other (expense), net",
+  "period": "Q2 2026 (3 months to 2026-06-30)",
+  "value": -28.6,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Other (expense), net | (28.6) | (22.1) | (49.4) | (39.0)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Other (expense), net",
+  "period": "Q2 2025 (3 months to 2025-06-30)",
+  "value": -22.1,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Other (expense), net | (28.6) | (22.1) | (49.4) | (39.0)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Other (expense), net",
+  "period": "H1 2026 (6 months to 2026-06-30)",
+  "value": -49.4,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Other (expense), net | (28.6) | (22.1) | (49.4) | (39.0)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Other (expense), net",
+  "period": "H1 2025 (6 months to 2025-06-30)",
+  "value": -39.0,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Other (expense), net | (28.6) | (22.1) | (49.4) | (39.0)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Loss before income taxes (pretax)",
+  "period": "Q2 2026 (3 months to 2026-06-30)",
+  "value": -79.8,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Loss before income taxes | (79.8) | — | (102.9) | (20.0)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Loss before income taxes (pretax)",
+  "period": "Q2 2025 (3 months to 2025-06-30)",
+  "value": 0.0,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Loss before income taxes | (79.8) | — | (102.9) | (20.0)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Loss before income taxes (pretax)",
+  "period": "H1 2026 (6 months to 2026-06-30)",
+  "value": -102.9,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Loss before income taxes | (79.8) | — | (102.9) | (20.0)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Loss before income taxes (pretax)",
+  "period": "H1 2025 (6 months to 2025-06-30)",
+  "value": -20.0,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Loss before income taxes | (79.8) | — | (102.9) | (20.0)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Provision for income taxes",
+  "period": "Q2 2026 (3 months to 2026-06-30)",
+  "value": 15.8,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Provision for income taxes | 15.8 | 20.0 | 29.5 | 30.6",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Provision for income taxes",
+  "period": "Q2 2025 (3 months to 2025-06-30)",
+  "value": 20.0,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Provision for income taxes | 15.8 | 20.0 | 29.5 | 30.6",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Provision for income taxes",
+  "period": "H1 2026 (6 months to 2026-06-30)",
+  "value": 29.5,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Provision for income taxes | 15.8 | 20.0 | 29.5 | 30.6",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Provision for income taxes",
+  "period": "H1 2025 (6 months to 2025-06-30)",
+  "value": 30.6,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Provision for income taxes | 15.8 | 20.0 | 29.5 | 30.6",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Consolidated net loss",
+  "period": "Q2 2026 (3 months to 2026-06-30)",
+  "value": -95.6,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Consolidated net loss | (95.6) | (20.0) | (132.4) | (50.6)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Consolidated net loss",
+  "period": "Q2 2025 (3 months to 2025-06-30)",
+  "value": -20.0,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Consolidated net loss | (95.6) | (20.0) | (132.4) | (50.6)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Consolidated net loss",
+  "period": "H1 2026 (6 months to 2026-06-30)",
+  "value": -132.4,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Consolidated net loss | (95.6) | (20.0) | (132.4) | (50.6)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Consolidated net loss",
+  "period": "H1 2025 (6 months to 2025-06-30)",
+  "value": -50.6,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Consolidated net loss | (95.6) | (20.0) | (132.4) | (50.6)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Net loss attributable to Unisys Corporation",
+  "period": "Q2 2026 (3 months to 2026-06-30)",
+  "value": -95.3,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Net loss attributable to Unisys Corporation | $ | (95.3) | $ | (20.1) | $ | (131.1) | $ | (49.6)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Net loss attributable to Unisys Corporation",
+  "period": "Q2 2025 (3 months to 2025-06-30)",
+  "value": -20.1,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Net loss attributable to Unisys Corporation | $ | (95.3) | $ | (20.1) | $ | (131.1) | $ | (49.6)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Net loss attributable to Unisys Corporation",
+  "period": "H1 2026 (6 months to 2026-06-30)",
+  "value": -131.1,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Net loss attributable to Unisys Corporation | $ | (95.3) | $ | (20.1) | $ | (131.1) | $ | (49.6)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Net loss attributable to Unisys Corporation",
+  "period": "H1 2025 (6 months to 2025-06-30)",
+  "value": -49.6,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Net loss attributable to Unisys Corporation | $ | (95.3) | $ | (20.1) | $ | (131.1) | $ | (49.6)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Basic loss per share attributable to Unisys Corporation",
+  "period": "Q2 2026 (3 months to 2026-06-30)",
+  "value": -1.31,
+  "unit": "USD per share",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Basic | $ | (1.31) | $ | (0.28) | $ | (1.81) | $ | (0.70)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Basic loss per share attributable to Unisys Corporation",
+  "period": "Q2 2025 (3 months to 2025-06-30)",
+  "value": -0.28,
+  "unit": "USD per share",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Basic | $ | (1.31) | $ | (0.28) | $ | (1.81) | $ | (0.70)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Basic loss per share attributable to Unisys Corporation",
+  "period": "H1 2026 (6 months to 2026-06-30)",
+  "value": -1.81,
+  "unit": "USD per share",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Basic | $ | (1.31) | $ | (0.28) | $ | (1.81) | $ | (0.70)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Basic loss per share attributable to Unisys Corporation",
+  "period": "H1 2025 (6 months to 2025-06-30)",
+  "value": -0.7,
+  "unit": "USD per share",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Basic | $ | (1.31) | $ | (0.28) | $ | (1.81) | $ | (0.70)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Diluted loss per share attributable to Unisys Corporation",
+  "period": "Q2 2026 (3 months to 2026-06-30)",
+  "value": -1.31,
+  "unit": "USD per share",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Diluted | $ | (1.31) | $ | (0.28) | $ | (1.81) | $ | (0.70)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Diluted loss per share attributable to Unisys Corporation",
+  "period": "Q2 2025 (3 months to 2025-06-30)",
+  "value": -0.28,
+  "unit": "USD per share",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Diluted | $ | (1.31) | $ | (0.28) | $ | (1.81) | $ | (0.70)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Diluted loss per share attributable to Unisys Corporation",
+  "period": "H1 2026 (6 months to 2026-06-30)",
+  "value": -1.81,
+  "unit": "USD per share",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Diluted | $ | (1.31) | $ | (0.28) | $ | (1.81) | $ | (0.70)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Diluted loss per share attributable to Unisys Corporation",
+  "period": "H1 2025 (6 months to 2025-06-30)",
+  "value": -0.7,
+  "unit": "USD per share",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Diluted | $ | (1.31) | $ | (0.28) | $ | (1.81) | $ | (0.70)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Revenue",
+  "period": "Q1 2026 (3 months to 2026-03-31)",
+  "value": 437.6,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Revenue | $ | 437.6 | $ | 432.1",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "Revenue",
+  "period": "Q1 2025 (3 months to 2025-03-31)",
+  "value": 432.1,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Revenue | $ | 437.6 | $ | 432.1",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "Operating income",
+  "period": "Q1 2026 (3 months to 2026-03-31)",
+  "value": 16.2,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Operating income | 16.2 | 5.1",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "Operating income",
+  "period": "Q1 2025 (3 months to 2025-03-31)",
+  "value": 5.1,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Operating income | 16.2 | 5.1",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "Interest expense",
+  "period": "Q1 2026 (3 months to 2026-03-31)",
+  "value": 18.5,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Interest expense | 18.5 | 8.2",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "Interest expense",
+  "period": "Q1 2025 (3 months to 2025-03-31)",
+  "value": 8.2,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Interest expense | 18.5 | 8.2",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "Other (expense), net",
+  "period": "Q1 2026 (3 months to 2026-03-31)",
+  "value": -20.8,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Other (expense), net | (20.8) | (16.9)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "Other (expense), net",
+  "period": "Q1 2025 (3 months to 2025-03-31)",
+  "value": -16.9,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Other (expense), net | (20.8) | (16.9)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "Loss before income taxes (pretax)",
+  "period": "Q1 2026 (3 months to 2026-03-31)",
+  "value": -23.1,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Loss before income taxes | (23.1) | (20.0)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "Loss before income taxes (pretax)",
+  "period": "Q1 2025 (3 months to 2025-03-31)",
+  "value": -20.0,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Loss before income taxes | (23.1) | (20.0)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "Net loss attributable to Unisys Corporation",
+  "period": "Q1 2026 (3 months to 2026-03-31)",
+  "value": -35.8,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Net loss attributable to Unisys Corporation | $ | (35.8) | $ | (29.5)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "Net loss attributable to Unisys Corporation",
+  "period": "Q1 2025 (3 months to 2025-03-31)",
+  "value": -29.5,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Net loss attributable to Unisys Corporation | $ | (35.8) | $ | (29.5)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "Diluted loss per share attributable to Unisys Corporation",
+  "period": "Q1 2026 (3 months to 2026-03-31)",
+  "value": -0.5,
+  "unit": "USD per share",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Diluted | $ | (0.50) | $ | (0.42)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "Diluted loss per share attributable to Unisys Corporation",
+  "period": "Q1 2025 (3 months to 2025-03-31)",
+  "value": -0.42,
+  "unit": "USD per share",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Item 1, Consolidated Statements of Income (Loss)",
+  "quote": "Diluted | $ | (0.50) | $ | (0.42)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "Goodwill impairment, DWS reporting unit (goodwill only)",
+  "period": "Q2 2026 and H1 2026",
+  "value": 47.2,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Note 12 Goodwill and Intangible Assets",
+  "quote": "the company recognized an impairment loss of $47.2 million on goodwill associated with the DWS reporting unit.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Intangible asset impairment (customer relationship)",
+  "period": "Q2 2026 and H1 2026",
+  "value": 1.5,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Note 12 Goodwill and Intangible Assets",
+  "quote": "the company recorded an impairment charge of $1.5 million related to a customer relationship intangible asset.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Goodwill balance after impairment (DWS fully written off)",
+  "period": "2026-06-30",
+  "value": 146.6,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Note 12 Goodwill by reporting unit",
+  "quote": "Balance at June 30, 2026 | $ | 146.6 | $ | — | $ | 54.5 | $ | 92.1",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Accumulated goodwill impairment losses, DWS",
+  "period": "2026-06-30",
+  "value": 141.3,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Note 12 Goodwill and Intangible Assets",
+  "quote": "Goodwill is presented net of accumulated impairment losses of $141.3 million and $94.1 million as of June 30, 2026 and December 31, 2025, respectively, attributable to the DWS reporting unit.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Pension settlement charge, H1 2026",
+  "period": "H1 2026",
+  "value": null,
+  "unit": "not reported (none)",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Note 4 and Note 6 (no settlement line; none disclosed)",
+  "quote": "Pension and postretirement expense | $ | (30.0) | $ | (21.6) | $ | (60.1) | $ | (43.1)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Pension settlement loss, FY2025 (pre-tax per 10-K; the Feb 2026 release calls the same $227.7 million \"net of tax\")",
+  "period": "FY2025",
+  "value": 227.7,
+  "unit": "USD millions",
+  "source_document": "Form 10-K for year ended 2025-12-31 (filed 2026-02-25)",
+  "source_section": "Item 7 MD&A, Pension and Postretirement Benefits",
+  "quote": "This action resulted in a pre-tax settlement loss of $227.7 million for the year ended December 31, 2025.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm"
+ },
+ {
+  "item": "Pension settlement loss, FY2025 (release wording: net of tax)",
+  "period": "FY2025",
+  "value": 227.7,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-02-24, Exhibit 99.1 news release \"Unisys Announces 4Q and Full-Year 2025 Results\"",
+  "source_section": "Full Year 2025 text",
+  "quote": "net loss attributable to Unisys Corporation included a non-cash pension settlement loss of $227.7 million net of tax",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000003/q42025earningsrelease.htm"
+ },
+ {
+  "item": "Net periodic pension expense (total)",
+  "period": "Q2 2026",
+  "value": 29.8,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Note 4 Pension and Postretirement Benefits",
+  "quote": "Net periodic pension expense | $ | 29.8 | $ | 22.6 | $ | 7.2 | $ | 21.9 | $ | 19.0 | $ | 2.9",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Net periodic pension expense (total)",
+  "period": "H1 2026",
+  "value": 59.8,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Note 4 Pension and Postretirement Benefits",
+  "quote": "Net periodic pension expense | $ | 59.8 | $ | 45.3 | $ | 14.5 | $ | 43.7 | $ | 38.0 | $ | 5.7",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Interest expense, net of interest income (EBITDA reconciliation basis)",
+  "period": "Q2 2026",
+  "value": 13.9,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "EBITDA reconciliation",
+  "quote": "Interest expense, net of interest income of $4.4, $5.6, $9.3 and $11.3, respectively (1) | 13.9 | 2.6 | 27.5 | 5.0",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "Interest expense, net of interest income (EBITDA reconciliation basis)",
+  "period": "H1 2026",
+  "value": 27.5,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "EBITDA reconciliation",
+  "quote": "Interest expense, net of interest income of $4.4, $5.6, $9.3 and $11.3, respectively (1) | 13.9 | 2.6 | 27.5 | 5.0",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "Interest expense on 2031 notes (contractual coupon)",
+  "period": "Q2 2026",
+  "value": 18.6,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Note 13 Debt, interest expense table",
+  "quote": "Contractual interest coupon | $ | 18.6 | $ | 0.8 | $ | 37.2 | $ | 0.8",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Interest expense on 2031 notes (contractual coupon)",
+  "period": "H1 2026",
+  "value": 37.2,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Note 13 Debt, interest expense table",
+  "quote": "Contractual interest coupon | $ | 18.6 | $ | 0.8 | $ | 37.2 | $ | 0.8",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Cash paid for interest",
+  "period": "H1 2026",
+  "value": 43.5,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Note 16 Supplemental Cash Flow Information",
+  "quote": "Interest | $ | 43.5 | $ | 22.5",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Adjusted EBITDA (company definition)",
+  "period": "Q2 2026",
+  "value": 53.5,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "Financial Highlights table",
+  "quote": "Adjusted EBITDA(7) | $53.5 | $61.4 | $99.7 | $101.6",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "Adjusted EBITDA (company definition)",
+  "period": "H1 2026",
+  "value": 99.7,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "Financial Highlights table",
+  "quote": "Adjusted EBITDA(7) | $53.5 | $61.4 | $99.7 | $101.6",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "Adjusted EBITDA (company definition)",
+  "period": "FY2025",
+  "value": 278.8,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-02-24, Exhibit 99.1 news release \"Unisys Announces 4Q and Full-Year 2025 Results\"",
+  "source_section": "Financial Highlights table",
+  "quote": "Adjusted EBITDA(7) | $129.0 | $91.4 | $278.8 | $292.1",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000003/q42025earningsrelease.htm"
+ },
+ {
+  "item": "Adjusted EBITDA (company definition)",
+  "period": "Q1 2026",
+  "value": 46.2,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-05-05, Exhibit 99.1 news release \"Unisys Announces 1Q26 Results\"",
+  "source_section": "Financial Highlights table",
+  "quote": "Adjusted EBITDA(7) | $46.2 | $40.2 | Adjusted EBITDA as a percentage of revenue | 10.6 | % | 9.3 | %",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000015/q12026earningsrelease.htm"
+ },
+ {
+  "item": "Adjusted EBITDA (company definition)",
+  "period": "Q1 2025",
+  "value": 40.2,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-05-05, Exhibit 99.1 news release \"Unisys Announces 1Q26 Results\"",
+  "source_section": "Financial Highlights table",
+  "quote": "Adjusted EBITDA(7) | $46.2 | $40.2 | Adjusted EBITDA as a percentage of revenue | 10.6 | % | 9.3 | %",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000015/q12026earningsrelease.htm"
+ },
+ {
+  "item": "Adjusted EBITDA (company definition), H1 2025",
+  "period": "H1 2025",
+  "value": 101.6,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "Financial Highlights table",
+  "quote": "Adjusted EBITDA(7) | $53.5 | $61.4 | $99.7 | $101.6",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "Non-GAAP operating profit",
+  "period": "Q2 2026",
+  "value": 25.3,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "Financial Highlights table",
+  "quote": "Non-GAAP operating profit(6) | $25.3 | $36.8 | $45.1 | $48.7",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "Non-GAAP operating profit",
+  "period": "H1 2026",
+  "value": 45.1,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "Financial Highlights table",
+  "quote": "Non-GAAP operating profit(6) | $25.3 | $36.8 | $45.1 | $48.7",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "Revenue, FY2025 (base for guidance dollar translation)",
+  "period": "FY2025",
+  "value": 1950.1,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-02-24, Exhibit 99.1 news release \"Unisys Announces 4Q and Full-Year 2025 Results\"",
+  "source_section": "Financial Highlights table",
+  "quote": "Revenue | $574.5 | $545.4 | $1,950.1 | $2,008.4",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000003/q42025earningsrelease.htm"
+ },
+ {
+  "item": "Net cash used for operating activities (cash from operations)",
+  "period": "H1 2026",
+  "value": -30.7,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Cash Flows, six months ended June 30",
+  "quote": "Net cash used for operating activities | (30.7) | (282.9)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Net cash used for operating activities (cash from operations)",
+  "period": "H1 2025",
+  "value": -282.9,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Cash Flows, six months ended June 30",
+  "quote": "Net cash used for operating activities | (30.7) | (282.9)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Pension and postretirement contributions (operating cash flow line)",
+  "period": "H1 2026",
+  "value": -58.1,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Cash Flows, six months ended June 30",
+  "quote": "Pension and postretirement contributions | (58.1) | (287.6)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Pension and postretirement contributions (operating cash flow line)",
+  "period": "H1 2025",
+  "value": -287.6,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Cash Flows, six months ended June 30",
+  "quote": "Pension and postretirement contributions | (58.1) | (287.6)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Investment in marketable software (capex line 1)",
+  "period": "H1 2026",
+  "value": -21.1,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Cash Flows, six months ended June 30",
+  "quote": "Investment in marketable software | (21.1) | (23.6)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Investment in marketable software (capex line 1)",
+  "period": "H1 2025",
+  "value": -23.6,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Cash Flows, six months ended June 30",
+  "quote": "Investment in marketable software | (21.1) | (23.6)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Capital additions of properties and other assets (capex line 2)",
+  "period": "H1 2026",
+  "value": -22.7,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Cash Flows, six months ended June 30",
+  "quote": "Capital additions of properties and other assets | (22.7) | (16.8)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Capital additions of properties and other assets (capex line 2)",
+  "period": "H1 2025",
+  "value": -16.8,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Cash Flows, six months ended June 30",
+  "quote": "Capital additions of properties and other assets | (22.7) | (16.8)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Payments of long-term debt",
+  "period": "H1 2026",
+  "value": -9.5,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Cash Flows, six months ended June 30",
+  "quote": "Payments of long-term debt | (9.5) | (488.6)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Payments of long-term debt",
+  "period": "H1 2025",
+  "value": -488.6,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Cash Flows, six months ended June 30",
+  "quote": "Payments of long-term debt | (9.5) | (488.6)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Net cash (used for) provided by financing activities",
+  "period": "H1 2026",
+  "value": -14.6,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Cash Flows, six months ended June 30",
+  "quote": "Net cash (used for) provided by financing activities | (14.6) | 190.3",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Net cash (used for) provided by financing activities",
+  "period": "H1 2025",
+  "value": 190.3,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Cash Flows, six months ended June 30",
+  "quote": "Net cash (used for) provided by financing activities | (14.6) | 190.3",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "(Gains) loss on debt extinguishment (non-cash adjustment)",
+  "period": "H1 2026",
+  "value": -0.2,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Cash Flows, six months ended June 30",
+  "quote": "(Gains) loss on debt extinguishment | (0.2) | 6.8",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "(Gains) loss on debt extinguishment (non-cash adjustment)",
+  "period": "H1 2025",
+  "value": 6.8,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Cash Flows, six months ended June 30",
+  "quote": "(Gains) loss on debt extinguishment | (0.2) | 6.8",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Cash, cash equivalents and restricted cash, end of period",
+  "period": "H1 2026",
+  "value": 332.5,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 1, Consolidated Statements of Cash Flows",
+  "quote": "Cash, cash equivalents and restricted cash, end of period | $ | 332.5 | $ | 309.0",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Net cash (used for) provided by operating activities (cash from operations)",
+  "period": "Q1 2026",
+  "value": -4.4,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Item 1, Consolidated Statements of Cash Flows, three months ended March 31",
+  "quote": "Net cash (used for) provided by operating activities | (4.4) | 33.3",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "Pension and postretirement contributions (operating cash flow line)",
+  "period": "Q1 2026",
+  "value": -28.4,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Item 1, Consolidated Statements of Cash Flows, three months ended March 31",
+  "quote": "Pension and postretirement contributions | (28.4) | (9.4)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "Investment in marketable software (capex line 1)",
+  "period": "Q1 2026",
+  "value": -10.4,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Item 1, Consolidated Statements of Cash Flows, three months ended March 31",
+  "quote": "Investment in marketable software | (10.4) | (11.2)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "Capital additions of properties and other assets (capex line 2)",
+  "period": "Q1 2026",
+  "value": -10.7,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Item 1, Consolidated Statements of Cash Flows, three months ended March 31",
+  "quote": "Capital additions of properties and other assets | (10.7) | (8.9)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "Payments of long-term debt",
+  "period": "Q1 2026",
+  "value": -4.8,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Item 1, Consolidated Statements of Cash Flows, three months ended March 31",
+  "quote": "Payments of long-term debt | (4.8) | (1.3)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "Cash used for operations (release FCF table)",
+  "period": "Q2 2026 (3 months)",
+  "value": -26.3,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "Reconciliations of GAAP to Non-GAAP, FREE CASH FLOW table",
+  "quote": "Cash used for operations | $ | (26.3) | $ | (316.2) | $ | (30.7) | $ | (282.9)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "Cash used for operations (release FCF table)",
+  "period": "Q2 2025 (3 months)",
+  "value": -316.2,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "Reconciliations of GAAP to Non-GAAP, FREE CASH FLOW table",
+  "quote": "Cash used for operations | $ | (26.3) | $ | (316.2) | $ | (30.7) | $ | (282.9)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "Cash used for operations (release FCF table)",
+  "period": "H1 2026 (6 months)",
+  "value": -30.7,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "Reconciliations of GAAP to Non-GAAP, FREE CASH FLOW table",
+  "quote": "Cash used for operations | $ | (26.3) | $ | (316.2) | $ | (30.7) | $ | (282.9)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "Cash used for operations (release FCF table)",
+  "period": "H1 2025 (6 months)",
+  "value": -282.9,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "Reconciliations of GAAP to Non-GAAP, FREE CASH FLOW table",
+  "quote": "Cash used for operations | $ | (26.3) | $ | (316.2) | $ | (30.7) | $ | (282.9)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "Additions to marketable software (release FCF table)",
+  "period": "Q2 2026 (3 months)",
+  "value": -10.7,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "Reconciliations of GAAP to Non-GAAP, FREE CASH FLOW table",
+  "quote": "Additions to marketable software | (10.7) | (12.4) | (21.1) | (23.6)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "Additions to marketable software (release FCF table)",
+  "period": "Q2 2025 (3 months)",
+  "value": -12.4,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "Reconciliations of GAAP to Non-GAAP, FREE CASH FLOW table",
+  "quote": "Additions to marketable software | (10.7) | (12.4) | (21.1) | (23.6)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "Additions to marketable software (release FCF table)",
+  "period": "H1 2026 (6 months)",
+  "value": -21.1,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "Reconciliations of GAAP to Non-GAAP, FREE CASH FLOW table",
+  "quote": "Additions to marketable software | (10.7) | (12.4) | (21.1) | (23.6)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "Additions to marketable software (release FCF table)",
+  "period": "H1 2025 (6 months)",
+  "value": -23.6,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "Reconciliations of GAAP to Non-GAAP, FREE CASH FLOW table",
+  "quote": "Additions to marketable software | (10.7) | (12.4) | (21.1) | (23.6)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "Additions to properties and other assets (release FCF table)",
+  "period": "Q2 2026 (3 months)",
+  "value": -12.0,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "Reconciliations of GAAP to Non-GAAP, FREE CASH FLOW table",
+  "quote": "Additions to properties and other assets | (12.0) | (7.9) | (22.7) | (16.8)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "Additions to properties and other assets (release FCF table)",
+  "period": "Q2 2025 (3 months)",
+  "value": -7.9,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "Reconciliations of GAAP to Non-GAAP, FREE CASH FLOW table",
+  "quote": "Additions to properties and other assets | (12.0) | (7.9) | (22.7) | (16.8)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "Additions to properties and other assets (release FCF table)",
+  "period": "H1 2026 (6 months)",
+  "value": -22.7,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "Reconciliations of GAAP to Non-GAAP, FREE CASH FLOW table",
+  "quote": "Additions to properties and other assets | (12.0) | (7.9) | (22.7) | (16.8)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "Additions to properties and other assets (release FCF table)",
+  "period": "H1 2025 (6 months)",
+  "value": -16.8,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "Reconciliations of GAAP to Non-GAAP, FREE CASH FLOW table",
+  "quote": "Additions to properties and other assets | (12.0) | (7.9) | (22.7) | (16.8)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "Free cash flow (company definition: cash from operations less capital expenditures)",
+  "period": "Q2 2026 (3 months)",
+  "value": -49.0,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "Reconciliations of GAAP to Non-GAAP, FREE CASH FLOW table",
+  "quote": "Free cash flow | (49.0) | (336.5) | (74.5) | (323.3)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "Free cash flow (company definition: cash from operations less capital expenditures)",
+  "period": "Q2 2025 (3 months)",
+  "value": -336.5,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "Reconciliations of GAAP to Non-GAAP, FREE CASH FLOW table",
+  "quote": "Free cash flow | (49.0) | (336.5) | (74.5) | (323.3)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "Free cash flow (company definition: cash from operations less capital expenditures)",
+  "period": "H1 2026 (6 months)",
+  "value": -74.5,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "Reconciliations of GAAP to Non-GAAP, FREE CASH FLOW table",
+  "quote": "Free cash flow | (49.0) | (336.5) | (74.5) | (323.3)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "Free cash flow (company definition: cash from operations less capital expenditures)",
+  "period": "H1 2025 (6 months)",
+  "value": -323.3,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "Reconciliations of GAAP to Non-GAAP, FREE CASH FLOW table",
+  "quote": "Free cash flow | (49.0) | (336.5) | (74.5) | (323.3)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "Pension and postretirement funding (release FCF table)",
+  "period": "Q2 2026 (3 months)",
+  "value": 29.7,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "Reconciliations of GAAP to Non-GAAP, FREE CASH FLOW table",
+  "quote": "Pension and postretirement funding | 29.7 | 278.2 | 58.1 | 287.6",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "Pension and postretirement funding (release FCF table)",
+  "period": "Q2 2025 (3 months)",
+  "value": 278.2,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "Reconciliations of GAAP to Non-GAAP, FREE CASH FLOW table",
+  "quote": "Pension and postretirement funding | 29.7 | 278.2 | 58.1 | 287.6",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "Pension and postretirement funding (release FCF table)",
+  "period": "H1 2026 (6 months)",
+  "value": 58.1,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "Reconciliations of GAAP to Non-GAAP, FREE CASH FLOW table",
+  "quote": "Pension and postretirement funding | 29.7 | 278.2 | 58.1 | 287.6",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "Pension and postretirement funding (release FCF table)",
+  "period": "H1 2025 (6 months)",
+  "value": 287.6,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "Reconciliations of GAAP to Non-GAAP, FREE CASH FLOW table",
+  "quote": "Pension and postretirement funding | 29.7 | 278.2 | 58.1 | 287.6",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "Pre-pension and postretirement free cash flow",
+  "period": "Q2 2026 (3 months)",
+  "value": -19.3,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "Reconciliations of GAAP to Non-GAAP, FREE CASH FLOW table",
+  "quote": "Pre-pension and postretirement free cash flow | (19.3) | (58.3) | (16.4) | (35.7)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "Pre-pension and postretirement free cash flow",
+  "period": "Q2 2025 (3 months)",
+  "value": -58.3,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "Reconciliations of GAAP to Non-GAAP, FREE CASH FLOW table",
+  "quote": "Pre-pension and postretirement free cash flow | (19.3) | (58.3) | (16.4) | (35.7)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "Pre-pension and postretirement free cash flow",
+  "period": "H1 2026 (6 months)",
+  "value": -16.4,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "Reconciliations of GAAP to Non-GAAP, FREE CASH FLOW table",
+  "quote": "Pre-pension and postretirement free cash flow | (19.3) | (58.3) | (16.4) | (35.7)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "Pre-pension and postretirement free cash flow",
+  "period": "H1 2025 (6 months)",
+  "value": -35.7,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "Reconciliations of GAAP to Non-GAAP, FREE CASH FLOW table",
+  "quote": "Pre-pension and postretirement free cash flow | (19.3) | (58.3) | (16.4) | (35.7)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "Adjusted free cash flow",
+  "period": "Q2 2026 (3 months)",
+  "value": -9.4,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "Reconciliations of GAAP to Non-GAAP, FREE CASH FLOW table",
+  "quote": "Adjusted free cash flow | $ | (9.4) | $ | (49.4) | $ | 4.5 | $ | (21.1)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "Adjusted free cash flow",
+  "period": "Q2 2025 (3 months)",
+  "value": -49.4,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "Reconciliations of GAAP to Non-GAAP, FREE CASH FLOW table",
+  "quote": "Adjusted free cash flow | $ | (9.4) | $ | (49.4) | $ | 4.5 | $ | (21.1)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "Adjusted free cash flow",
+  "period": "H1 2026 (6 months)",
+  "value": 4.5,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "Reconciliations of GAAP to Non-GAAP, FREE CASH FLOW table",
+  "quote": "Adjusted free cash flow | $ | (9.4) | $ | (49.4) | $ | 4.5 | $ | (21.1)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "Adjusted free cash flow",
+  "period": "H1 2025 (6 months)",
+  "value": -21.1,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "Reconciliations of GAAP to Non-GAAP, FREE CASH FLOW table",
+  "quote": "Adjusted free cash flow | $ | (9.4) | $ | (49.4) | $ | 4.5 | $ | (21.1)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "Free cash flow definition (company, verbatim)",
+  "period": "FY2026 releases",
+  "value": null,
+  "unit": "text",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "Footnote (9) to the 2Q26 release",
+  "quote": "(9) Free cash flow – Represents cash flow from operations less capital expenditures.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "Pre-pension and postretirement free cash flow definition (company, verbatim)",
+  "period": "FY2026 releases",
+  "value": null,
+  "unit": "text",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "Footnote (10)",
+  "quote": "(10) Pre-pension and postretirement free cash flow – Represents free cash flow before pension and postretirement contributions.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "Adjusted free cash flow definition (company, verbatim, truncated in source text at \"cost reduction and other payments\")",
+  "period": "FY2026 releases",
+  "value": null,
+  "unit": "text",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "Footnote (11)",
+  "quote": "(11) Adjusted free cash flow – Represents free cash flow less cash used for pension and postretirement funding;",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "Free cash flow, Q2 2026 stated in release highlights",
+  "period": "Q2 2026",
+  "value": -49.0,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "Balance Sheet and Cash Flows table",
+  "quote": "Free cash flow(9) | ($49.0) | ($336.5) | ($74.5) | ($323.3)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "Free cash flow, Q2 2026 (derived check: H1 less Q1)",
+  "period": "Q2 2026",
+  "value": -49.0,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "Derived from Q1 release (25.5) and Q2 release H1 (74.5)",
+  "quote": "Derived: H1 2026 free cash flow (74.5) minus Q1 2026 free cash flow (25.5) = (49.0); Q2 cash used for operations (26.3) minus 10.7 minus 12.0 = (49.0)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "Free cash flow, Q1 2026",
+  "period": "Q1 2026",
+  "value": -25.5,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-05-05, Exhibit 99.1 news release \"Unisys Announces 1Q26 Results\"",
+  "source_section": "Reconciliations of GAAP to Non-GAAP, FREE CASH FLOW table",
+  "quote": "Free cash flow | (25.5) | 13.2",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000015/q12026earningsrelease.htm"
+ },
+ {
+  "item": "Cash and cash equivalents (release)",
+  "period": "2026-06-30",
+  "value": 324.3,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "Balance Sheet and Cash Flows table",
+  "quote": "Cash and cash equivalents | $ | 324.3 | $ | 413.9",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "10.625% senior secured notes due 2031, face value outstanding",
+  "period": "2026-06-30",
+  "value": 698.4,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Note 13 Debt",
+  "quote": "(Face value of $698.4 million and $700.0 million less unamortized issuance costs of $11.5 million and $12.8 million at June 30, 2026 and December 31, 2025, respectively)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "10.625% senior secured notes due 2031, face value outstanding",
+  "period": "2026-03-31",
+  "value": 698.4,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Note 13 Debt",
+  "quote": "(Face value of $698.4 million and $700.0 million less unamortized issuance costs of $12.2 million and $12.8 million at March 31, 2026 and December 31, 2025, respectively)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "10.625% senior secured notes due 2031, original principal issued",
+  "period": "2025-06-27",
+  "value": 700.0,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2025-06-27 (Items 1.01, 2.03, 7.01, 9.01) closing of 2031 notes",
+  "source_section": "Item 1.01",
+  "quote": "completed its previously announced offer and sale of $700.0 million aggregate principal amount of 10.625% senior secured notes due 2031",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465925063658/tm2517689d2_8k.htm"
+ },
+ {
+  "item": "Unamortized issuance costs on 2031 notes",
+  "period": "2026-06-30",
+  "value": 11.5,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Note 13 Debt",
+  "quote": "less unamortized issuance costs of $11.5 million",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "2031 notes carrying value",
+  "period": "2026-06-30",
+  "value": 686.9,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Note 10 fair value table / Note 13",
+  "quote": "10.625% senior secured notes due January 15, 2031 | $ | 686.9 | $ | 658.0 | $ | 687.2 | $ | 717.5",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "2031 notes fair value (Level 2)",
+  "period": "2026-06-30",
+  "value": 658.0,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Note 10 Financial Instruments and Fair Value Measurements",
+  "quote": "10.625% senior secured notes due January 15, 2031 | $ | 686.9 | $ | 658.0 | $ | 687.2 | $ | 717.5",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "2031 notes carrying value",
+  "period": "2025-12-31",
+  "value": 687.2,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Note 10",
+  "quote": "10.625% senior secured notes due January 15, 2031 | $ | 686.9 | $ | 658.0 | $ | 687.2 | $ | 717.5",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "2031 notes fair value (Level 2)",
+  "period": "2025-12-31",
+  "value": 717.5,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Note 10",
+  "quote": "10.625% senior secured notes due January 15, 2031 | $ | 686.9 | $ | 658.0 | $ | 687.2 | $ | 717.5",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "2031 notes carrying value",
+  "period": "2026-03-31",
+  "value": 686.2,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Note 10",
+  "quote": "10.625% senior secured notes due January 15, 2031 | $ | 686.2 | $ | 601.1 | $ | 687.2 | $ | 717.5",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "2031 notes fair value (Level 2)",
+  "period": "2026-03-31",
+  "value": 601.1,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Note 10",
+  "quote": "10.625% senior secured notes due January 15, 2031 | $ | 686.2 | $ | 601.1 | $ | 687.2 | $ | 717.5",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "Finance leases (debt)",
+  "period": "2026-06-30",
+  "value": 37.3,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Note 13 Debt",
+  "quote": "Finance leases | 37.3 | 41.2 | Other debt | 9.3 | 13.3 | Total | 733.5 | 741.7 | Less – current maturities | 11.6 | 12.7 | Total long-term debt | $ | 721.9 | $ | 729.0",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Other debt",
+  "period": "2026-06-30",
+  "value": 9.3,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Note 13 Debt",
+  "quote": "Finance leases | 37.3 | 41.2 | Other debt | 9.3 | 13.3 | Total | 733.5 | 741.7 | Less – current maturities | 11.6 | 12.7 | Total long-term debt | $ | 721.9 | $ | 729.0",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Total debt (carrying amount: notes + finance leases + other debt)",
+  "period": "2026-06-30",
+  "value": 733.5,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Note 13 Debt",
+  "quote": "Finance leases | 37.3 | 41.2 | Other debt | 9.3 | 13.3 | Total | 733.5 | 741.7 | Less – current maturities | 11.6 | 12.7 | Total long-term debt | $ | 721.9 | $ | 729.0",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Total debt (carrying amount)",
+  "period": "2025-12-31",
+  "value": 741.7,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Note 13 Debt",
+  "quote": "Finance leases | 37.3 | 41.2 | Other debt | 9.3 | 13.3 | Total | 733.5 | 741.7 | Less – current maturities | 11.6 | 12.7 | Total long-term debt | $ | 721.9 | $ | 729.0",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Total debt (carrying amount)",
+  "period": "2026-03-31",
+  "value": 737.5,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Note 13 Debt",
+  "quote": "At March 31, 2026, total debt was $737.5 million compared to $741.7 million at December 31, 2025.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "Total debt at face value (notes face + finance leases + other debt) (derived)",
+  "period": "2026-06-30",
+  "value": 745.0,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Derived from Note 13 Debt",
+  "quote": "Derived: notes face 698.4 + finance leases 37.3 + other debt 9.3 = 745.0 (carrying 733.5 is after 11.5 of unamortized issuance costs on the notes)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Total debt at face value (derived)",
+  "period": "2026-03-31",
+  "value": 749.7,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Derived from Note 13 Debt",
+  "quote": "Derived: notes face 698.4 + finance leases 39.1 + other debt 12.2 = 749.7",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "Repurchase of 2031 notes in the period: principal bought",
+  "period": "Q1 2026 (identical wording in H1 2026 10-Q, so none in Q2)",
+  "value": 1.6,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Note 13 Debt",
+  "quote": "During the three months ended March 31, 2026, the company repurchased $1.6 million of the 2031 Notes from the open market for $1.4 million.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "Repurchase of 2031 notes in the period: cash paid",
+  "period": "Q1 2026 (identical wording in H1 2026 10-Q, so none in Q2)",
+  "value": 1.4,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Note 13 Debt",
+  "quote": "During the three months ended March 31, 2026, the company repurchased $1.6 million of the 2031 Notes from the open market for $1.4 million.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "Repurchase of 2031 notes: same amounts restated for the six months",
+  "period": "H1 2026",
+  "value": 1.6,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Note 13 Debt",
+  "quote": "During the six months ended June 30, 2026, the company repurchased $1.6 million of the 2031 Notes from the open market for $1.4 million.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Repurchase price as percent of principal (derived; no day or price per bond stated in either 10-Q)",
+  "period": "Q1 2026",
+  "value": 87.5,
+  "unit": "percent of principal",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Derived from Note 13 Debt",
+  "quote": "Derived: 1.4 / 1.6 = 87.5% of face; the 10-Qs state no purchase date",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Gain on debt extinguishment, 2031 notes repurchase",
+  "period": "H1 2026",
+  "value": 0.2,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Note 13 Debt",
+  "quote": "The company recorded a gain on debt extinguishment of $0.2 million, reported in other (expense), net.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "ABL facility size (revolving loans and letters of credit)",
+  "period": "2026-06-30",
+  "value": 125.0,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Note 13 Debt, Asset Based Lending (ABL) Credit Facility",
+  "quote": "provides for revolving loans and letters of credit up to an aggregate amount of $125.0 million (with a limit on letters of credit of $40.0 million), with an uncommitted accordion feature allowing for the aggregate amount available to be increased up to $155.0 million upon the satisfaction of certain specified conditions.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "ABL letter of credit sublimit",
+  "period": "2026-06-30",
+  "value": 40.0,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Note 13 Debt",
+  "quote": "with a limit on letters of credit of $40.0 million",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "ABL uncommitted accordion ceiling",
+  "period": "2026-06-30",
+  "value": 155.0,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Note 13 Debt",
+  "quote": "increased up to $155.0 million upon the satisfaction of certain specified conditions",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "ABL borrowings outstanding",
+  "period": "2026-06-30",
+  "value": 0.0,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Note 13 Debt",
+  "quote": "At June 30, 2026, the company had no borrowings and $6.1 million of letters of credit outstanding.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "ABL letters of credit outstanding",
+  "period": "2026-06-30",
+  "value": 6.1,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Note 13 Debt",
+  "quote": "At June 30, 2026, the company had no borrowings and $6.1 million of letters of credit outstanding.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "ABL availability, net of letters of credit",
+  "period": "2026-06-30",
+  "value": 99.7,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Note 13 Debt",
+  "quote": "Availability under the Amended and Restated ABL Credit Facility was $99.7 million, net of letters of credit issued.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "ABL letters of credit outstanding",
+  "period": "2026-03-31",
+  "value": 13.5,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Note 13 Debt",
+  "quote": "At March 31, 2026, the company had no borrowings and $13.5 million of letters of credit outstanding.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "ABL availability, net of letters of credit",
+  "period": "2026-03-31",
+  "value": 79.1,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Note 13 Debt",
+  "quote": "Availability under the Amended and Restated ABL Credit Facility was $79.1 million, net of letters of credit issued.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "ABL maturity (as stated in 10-Q)",
+  "period": "2026-06-30",
+  "value": null,
+  "unit": "June 2030",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Note 13 Debt",
+  "quote": "which matures in June 2030.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Covenant status (10-Q)",
+  "period": "2026-06-30",
+  "value": null,
+  "unit": "text",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Note 13 Debt and MD&A Financial condition",
+  "quote": "At June 30, 2026, the company has met all covenants and conditions under its various lending and funding agreements. For at least the next 12 months, the company expects to continue to meet these covenants and conditions.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Covenant status (10-Q)",
+  "period": "2026-03-31",
+  "value": null,
+  "unit": "text",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Note 13 Debt",
+  "quote": "At March 31, 2026, the company has met all covenants and conditions under its various lending and funding agreements. For at least the next 12 months, the company expects to continue to meet these covenants and conditions.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "Cash held by foreign subsidiaries",
+  "period": "2026-06-30",
+  "value": 197.6,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "MD&A Financial condition",
+  "quote": "As of June 30, 2026, $197.6 million of cash and cash equivalents were held by the company’s foreign subsidiaries and branches operating outside of the U.S.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Cash held by foreign subsidiaries",
+  "period": "2026-03-31",
+  "value": 266.7,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "MD&A Financial condition",
+  "quote": "As of March 31, 2026, $266.7 million of cash and cash equivalents were held by the company’s foreign subsidiaries and branches operating outside of the U.S.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "Liquidity, cash plus ABL availability (derived)",
+  "period": "2026-06-30",
+  "value": 424.0,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Derived from Note 13 and balance sheet",
+  "quote": "Derived: cash and cash equivalents 324.3 + ABL availability 99.7 = 424.0 (ABL \"Liquidity\" definition also adds unrestricted cash only; restricted cash excluded)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Global DB plan cash contributions paid, H1 2026",
+  "period": "H1 2026",
+  "value": 57.4,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Note 4 Pension and Postretirement Benefits",
+  "quote": "During the six months ended June 30, 2026, the company made cash contributions of $57.4 million to its global defined benefit pension plans.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Expected remaining 2026 global DB contributions",
+  "period": "H2 2026 (as of Q2 10-Q)",
+  "value": 40.0,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Note 4",
+  "quote": "For the remainder of 2026, the company expects to make cash contributions of approximately $40 million, resulting in total expected cash contributions for 2026 of approximately $97 million to the company’s global defined benefit pension plans.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Expected total 2026 global DB contributions (Q2 10-Q)",
+  "period": "FY2026",
+  "value": 97.0,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Note 4",
+  "quote": "resulting in total expected cash contributions for 2026 of approximately $97 million to the company’s global defined benefit pension plans.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Expected 2026 contributions to U.S. qualified DB plans (Q2 10-Q)",
+  "period": "FY2026",
+  "value": 47.0,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Note 4",
+  "quote": "These contributions are expected to include approximately $47 million to the company’s U.S. qualified defined benefit pension plans and approximately $50 million, primarily to the company’s international defined benefit pension plans.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Expected 2026 contributions to international DB plans (Q2 10-Q)",
+  "period": "FY2026",
+  "value": 50.0,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Note 4",
+  "quote": "These contributions are expected to include approximately $47 million to the company’s U.S. qualified defined benefit pension plans and approximately $50 million, primarily to the company’s international defined benefit pension plans.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Expected 2027 global DB contributions (Q2 10-Q)",
+  "period": "FY2027",
+  "value": 104.0,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "MD&A, Pension and Postretirement Benefits",
+  "quote": "the company estimates future total cash contributions of approximately $104 million in 2027 to its global defined benefit pension plans.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Expected 2026 postretirement (non-pension) plan contributions",
+  "period": "FY2026",
+  "value": 3.0,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Note 4",
+  "quote": "The company expects to make cash contributions of $3 million to its postretirement benefit plan in 2026.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Postretirement plan contributions paid, H1 2026",
+  "period": "H1 2026",
+  "value": 0.7,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Note 4",
+  "quote": "For the six months ended June 30, 2026 and 2025, the company made cash contributions of $0.7 million and $0.4 million, respectively.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Pension and postretirement funding (release FCF table basis: DB $57.4M plus postretirement $0.7M)",
+  "period": "Q2 2026",
+  "value": 29.7,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "FREE CASH FLOW reconciliation",
+  "quote": "Pension and postretirement funding | 29.7 | 278.2 | 58.1 | 287.6",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "Pension and postretirement funding (release FCF table basis)",
+  "period": "H1 2026",
+  "value": 58.1,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "FREE CASH FLOW reconciliation",
+  "quote": "Pension and postretirement funding | 29.7 | 278.2 | 58.1 | 287.6",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "Global DB plan cash contributions paid, Q1 2026",
+  "period": "Q1 2026",
+  "value": 28.2,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Note 4",
+  "quote": "During the three months ended March 31, 2026, the company made cash contributions of $28.2 million, primarily to its international defined benefit pension plans.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "Expected remaining 2026 global DB contributions (as of Q1 10-Q)",
+  "period": "Q2 to Q4 2026",
+  "value": 69.0,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Note 4",
+  "quote": "For the remainder of 2026, the company expects to make cash contributions of approximately $69 million primarily to its U.S. defined benefit pension plans.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "Expected total 2026 global DB contributions (Q1 10-Q)",
+  "period": "FY2026",
+  "value": 97.0,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Note 4",
+  "quote": "This will result in total expected cash contributions for 2026 of approximately $97 million to the company’s global defined benefit pension plans, including approximately $47 million to the company’s U.S. qualified defined benefit pension plans and approximately $50 million primarily to the company’s international defined benefit pension plans.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "Expected 2027 global DB contributions (Q1 10-Q)",
+  "period": "FY2027",
+  "value": 105.0,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "MD&A, Pension and Postretirement Benefits",
+  "quote": "Additionally, the company estimates future total cash contributions to its global defined benefit pension plans of approximately $105 million in 2027.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "Expected total 2026 global DB contributions (FY2025 10-K, superseded)",
+  "period": "FY2026",
+  "value": 87.0,
+  "unit": "USD millions",
+  "source_document": "Form 10-K for year ended 2025-12-31 (filed 2026-02-25)",
+  "source_section": "Item 7 MD&A, Pension and Postretirement Benefits",
+  "quote": "the company estimates future total cash contributions to its global defined benefit pension plans of approximately $87 million in 2026, including approximately $47 million to the company’s U.S. defined benefit pension plans and approximately $40 million primarily to the company’s international defined benefit pension plans.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm"
+ },
+ {
+  "item": "Expected 2026 U.S. DB contributions (FY2025 10-K)",
+  "period": "FY2026",
+  "value": 47.0,
+  "unit": "USD millions",
+  "source_document": "Form 10-K for year ended 2025-12-31 (filed 2026-02-25)",
+  "source_section": "Item 7 MD&A",
+  "quote": "including approximately $47 million to the company’s U.S. defined benefit pension plans and approximately $40 million primarily to the company’s international defined benefit pension plans.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm"
+ },
+ {
+  "item": "Expected 2026 international DB contributions (FY2025 10-K)",
+  "period": "FY2026",
+  "value": 40.0,
+  "unit": "USD millions",
+  "source_document": "Form 10-K for year ended 2025-12-31 (filed 2026-02-25)",
+  "source_section": "Item 7 MD&A",
+  "quote": "including approximately $47 million to the company’s U.S. defined benefit pension plans and approximately $40 million primarily to the company’s international defined benefit pension plans.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm"
+ },
+ {
+  "item": "Expected 2027 global DB contributions (FY2025 10-K)",
+  "period": "FY2027",
+  "value": 105.0,
+  "unit": "USD millions",
+  "source_document": "Form 10-K for year ended 2025-12-31 (filed 2026-02-25)",
+  "source_section": "Item 7 MD&A",
+  "quote": "approximately $105 million in 2027 and approximately $241 million in the aggregate from 2028 through 2030.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm"
+ },
+ {
+  "item": "Expected aggregate global DB contributions 2028 through 2030 (FY2025 10-K; not restated in the 10-Qs)",
+  "period": "2028 to 2030",
+  "value": 241.0,
+  "unit": "USD millions",
+  "source_document": "Form 10-K for year ended 2025-12-31 (filed 2026-02-25)",
+  "source_section": "Item 7 MD&A",
+  "quote": "approximately $105 million in 2027 and approximately $241 million in the aggregate from 2028 through 2030.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm"
+ },
+ {
+  "item": "2026 pension and postretirement contributions guidance (Investor Day deck)",
+  "period": "FY2026",
+  "value": 102.0,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-06-02 (Item 7.01), Exhibit 99.1 Investor Day presentation dated 2026-06-02 (furnished, not filed)",
+  "source_section": "Finance overview, Full-year 2026 guidance",
+  "quote": "Pension and postretirement contributions of ~$102M",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465926069244/tm2616122d1_ex99-1.htm"
+ },
+ {
+  "item": "Pension deficit reduction expected from contributions, 2025 to year-end 2029 (Investor Day deck)",
+  "period": "2025 to 2029",
+  "value": 240.0,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-06-02 (Item 7.01), Exhibit 99.1 Investor Day presentation dated 2026-06-02 (furnished, not filed)",
+  "source_section": "Finance overview, leverage slide",
+  "quote": "Pension contributions expected to translate to ~$240M of deficit reduction from 2025 to year-end 2029",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465926069244/tm2616122d1_ex99-1.htm"
+ },
+ {
+  "item": "Total global DB contributions paid in 2025",
+  "period": "FY2025",
+  "value": 343.7,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Note 4",
+  "quote": "In 2025, the company made cash contributions of $343.7 million to its global defined benefit pension plans.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Defined benefit pension funding deficit, 31 Dec 2025 (company release)",
+  "period": "2025-12-31",
+  "value": 448.5,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-02-24, Exhibit 99.1 news release \"Unisys Announces 4Q and Full-Year 2025 Results\"",
+  "source_section": "Highlights",
+  "quote": "Defined benefit pension plans funding deficit status of $448.5 million compared to funding deficit of $750.2 million in 2024, improved by $301.7 million",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000003/q42025earningsrelease.htm"
+ },
+ {
+  "item": "Funded status, U.S. plans (10-K balance sheet basis)",
+  "period": "2025-12-31",
+  "value": -281.2,
+  "unit": "USD millions",
+  "source_document": "Form 10-K for year ended 2025-12-31 (filed 2026-02-25)",
+  "source_section": "Note: retirement plans funded status table",
+  "quote": "Funded status at end of year | $ | (281.2) | $ | (557.4) | $ | (167.3) | $ | (192.8)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm"
+ },
+ {
+  "item": "Funded status, international plans (10-K balance sheet basis)",
+  "period": "2025-12-31",
+  "value": -167.3,
+  "unit": "USD millions",
+  "source_document": "Form 10-K for year ended 2025-12-31 (filed 2026-02-25)",
+  "source_section": "Note: retirement plans funded status table",
+  "quote": "Funded status at end of year | $ | (281.2) | $ | (557.4) | $ | (167.3) | $ | (192.8)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm"
+ },
+ {
+  "item": "Funded status, total of U.S. and international (derived; equals the 448.5 funding deficit)",
+  "period": "2025-12-31",
+  "value": -448.5,
+  "unit": "USD millions",
+  "source_document": "Form 10-K for year ended 2025-12-31 (filed 2026-02-25)",
+  "source_section": "Derived from funded status table",
+  "quote": "Derived: (281.2) + (167.3) = (448.5)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm"
+ },
+ {
+  "item": "Global pension deficit at 30 Jun 2026",
+  "period": "2026-06-30",
+  "value": null,
+  "unit": "gap",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "CFO statement in release (no figure given)",
+  "quote": "estimated global deficit is improving, advancing us toward our goal of fully removing our U.S. pensions.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "Net balance sheet pension position, long-term liability less prepaid asset (derived; GAAP balance sheet basis, not the company funding deficit)",
+  "period": "2026-06-30",
+  "value": -446.9,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Derived from Consolidated Balance Sheets",
+  "quote": "Derived: prepaid pension and postretirement assets 38.2 minus long-term pension and postretirement liabilities 485.1 = (446.9); current portion in other accrued liabilities not shown separately",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Net balance sheet pension position (derived)",
+  "period": "2025-12-31",
+  "value": -496.4,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Derived from Consolidated Balance Sheets",
+  "quote": "Derived: 21.3 minus 517.7 = (496.4)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Net balance sheet pension position (derived)",
+  "period": "2026-03-31",
+  "value": -471.8,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Derived from Consolidated Balance Sheets",
+  "quote": "Derived: 21.5 minus 493.3 = (471.8)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "Forward contribution table restated in 10-Q?",
+  "period": "2026-06-30",
+  "value": null,
+  "unit": "gap",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Note 4 and MD&A",
+  "quote": "Based on current funding requirements and assumptions, the company estimates future total cash contributions of approximately $104 million in 2027 to its global defined benefit pension plans.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "FY2026 revenue growth guidance, constant currency (initial)",
+  "period": "2026-02-24",
+  "value": null,
+  "unit": "(6.5)% to (4.5)%",
+  "source_document": "8-K filed 2026-02-24, Exhibit 99.1 news release \"Unisys Announces 4Q and Full-Year 2025 Results\"",
+  "source_section": "2026 Financial Guidance",
+  "quote": "Revenue growth in constant currency (6.5)% to (4.5)%",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000003/q42025earningsrelease.htm"
+ },
+ {
+  "item": "FY2026 revenue growth guidance translated to reported (initial, FX as of 2026-02-01)",
+  "period": "2026-02-24",
+  "value": null,
+  "unit": "(3.8)% to (1.8)%",
+  "source_document": "8-K filed 2026-02-24, Exhibit 99.1 news release \"Unisys Announces 4Q and Full-Year 2025 Results\"",
+  "source_section": "2026 Financial Guidance",
+  "quote": "Constant currency revenue guidance translates to reported revenue growth of (3.8)% to (1.8)% based on recent exchange rates as February 1, 2026, and assumes L&S revenue of approximately $415 million and Ex- L&S constant currency revenue growth of (7.0)% to (4.5)%.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000003/q42025earningsrelease.htm"
+ },
+ {
+  "item": "FY2026 non-GAAP operating profit margin guidance (initial)",
+  "period": "2026-02-24",
+  "value": null,
+  "unit": "9.0% to 11.0%",
+  "source_document": "8-K filed 2026-02-24, Exhibit 99.1 news release \"Unisys Announces 4Q and Full-Year 2025 Results\"",
+  "source_section": "2026 Financial Guidance",
+  "quote": "Non-GAAP operating profit margin 9.0% to 11.0%",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000003/q42025earningsrelease.htm"
+ },
+ {
+  "item": "FY2026 revenue guidance, Q1 release: reaffirmed constant currency range",
+  "period": "2026-05-05",
+  "value": null,
+  "unit": "text",
+  "source_document": "8-K filed 2026-05-05, Exhibit 99.1 news release \"Unisys Announces 1Q26 Results\"",
+  "source_section": "Headline bullets",
+  "quote": "Unisys reaffirms 2026 full-year guidance ranges for both constant currency revenue growth and non-GAAP operating profit margin",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000015/q12026earningsrelease.htm"
+ },
+ {
+  "item": "FY2026 revenue growth guidance translated to reported (Q1 release, FX as of 2026-04-30)",
+  "period": "2026-05-05",
+  "value": null,
+  "unit": "(3.5)% to (1.5)%",
+  "source_document": "8-K filed 2026-05-05, Exhibit 99.1 news release \"Unisys Announces 1Q26 Results\"",
+  "source_section": "2026 Financial Guidance",
+  "quote": "Constant currency revenue guidance translates to reported revenue growth of (3.5)% to (1.5)%, based on exchange rates as of April 30, 2026",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000015/q12026earningsrelease.htm"
+ },
+ {
+  "item": "FY2026 revenue growth guidance RAISED at Investor Day: new constant currency range",
+  "period": "2026-06-02",
+  "value": null,
+  "unit": "(5.0)% to (3.5)%",
+  "source_document": "8-K filed 2026-06-02 (Item 7.01), Exhibit 99.1 Investor Day presentation dated 2026-06-02 (furnished, not filed)",
+  "source_section": "Finance overview, Revising financial guidance",
+  "quote": "Improving revenue growth Reaffirming profitability (5.0%) to (3.5%) Constant Currency Revenue Growth Non-GAAP Operating Profit Margin 9.0% to 11.0%",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465926069244/tm2616122d1_ex99-1.htm"
+ },
+ {
+  "item": "FY2026 revenue growth guidance at Investor Day: prior range shown",
+  "period": "2026-06-02",
+  "value": null,
+  "unit": "From (6.5)% to (4.5)%",
+  "source_document": "8-K filed 2026-06-02 (Item 7.01), Exhibit 99.1 Investor Day presentation dated 2026-06-02 (furnished, not filed)",
+  "source_section": "Finance overview, Revising financial guidance",
+  "quote": "From (6.5%) to (4.5%)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465926069244/tm2616122d1_ex99-1.htm"
+ },
+ {
+  "item": "FY2026 revenue growth guidance translated to reported (Investor Day, FX as of 2026-04-30)",
+  "period": "2026-06-02",
+  "value": null,
+  "unit": "(2.0)% to (0.5)%",
+  "source_document": "8-K filed 2026-06-02 (Item 7.01), Exhibit 99.1 Investor Day presentation dated 2026-06-02 (furnished, not filed)",
+  "source_section": "Finance overview",
+  "quote": "Revenue growth guidance translates to reported revenue growth of (2.0%) to (0.5%) based on exchange rates as of April 30, 2026",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465926069244/tm2616122d1_ex99-1.htm"
+ },
+ {
+  "item": "FY2026 free cash flow guidance (Investor Day deck)",
+  "period": "2026-06-02",
+  "value": -25.0,
+  "unit": "USD millions (approximate)",
+  "source_document": "8-K filed 2026-06-02 (Item 7.01), Exhibit 99.1 Investor Day presentation dated 2026-06-02 (furnished, not filed)",
+  "source_section": "Finance overview, Full-year 2026",
+  "quote": "Free Cash Flow of ~($25M)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465926069244/tm2616122d1_ex99-1.htm"
+ },
+ {
+  "item": "FY2026 capital expenditures guidance (Investor Day deck)",
+  "period": "2026-06-02",
+  "value": 85.0,
+  "unit": "USD millions (approximate)",
+  "source_document": "8-K filed 2026-06-02 (Item 7.01), Exhibit 99.1 Investor Day presentation dated 2026-06-02 (furnished, not filed)",
+  "source_section": "Finance overview, Full-year 2026",
+  "quote": "Capital Expenditures of ~$85M",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465926069244/tm2616122d1_ex99-1.htm"
+ },
+ {
+  "item": "FY2026 cash taxes guidance (Investor Day deck)",
+  "period": "2026-06-02",
+  "value": 70.0,
+  "unit": "USD millions (approximate)",
+  "source_document": "8-K filed 2026-06-02 (Item 7.01), Exhibit 99.1 Investor Day presentation dated 2026-06-02 (furnished, not filed)",
+  "source_section": "Finance overview, Full-year 2026",
+  "quote": "Cash taxes of ~$70M",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465926069244/tm2616122d1_ex99-1.htm"
+ },
+ {
+  "item": "FY2026 net interest payments guidance (Investor Day deck)",
+  "period": "2026-06-02",
+  "value": 70.0,
+  "unit": "USD millions (approximate)",
+  "source_document": "8-K filed 2026-06-02 (Item 7.01), Exhibit 99.1 Investor Day presentation dated 2026-06-02 (furnished, not filed)",
+  "source_section": "Finance overview, Full-year 2026",
+  "quote": "Net interest payments of ~$70M",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465926069244/tm2616122d1_ex99-1.htm"
+ },
+ {
+  "item": "FY2026 other payments (primarily restructuring) guidance (Investor Day deck)",
+  "period": "2026-06-02",
+  "value": 30.0,
+  "unit": "USD millions (approximate)",
+  "source_document": "8-K filed 2026-06-02 (Item 7.01), Exhibit 99.1 Investor Day presentation dated 2026-06-02 (furnished, not filed)",
+  "source_section": "Finance overview, Full-year 2026",
+  "quote": "Other payments, primarily restructuring, of ~$30M",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465926069244/tm2616122d1_ex99-1.htm"
+ },
+ {
+  "item": "FY2026 ClearPath revenue assumption: raised from $415M",
+  "period": "2026-06-02",
+  "value": 425.0,
+  "unit": "USD millions (approximate)",
+  "source_document": "8-K filed 2026-06-02 (Item 7.01), Exhibit 99.1 Investor Day presentation dated 2026-06-02 (furnished, not filed)",
+  "source_section": "Finance overview",
+  "quote": "Assumes reported ClearPath revenue of approximately $425 million (from $415M)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465926069244/tm2616122d1_ex99-1.htm"
+ },
+ {
+  "item": "FY2026 TS&S constant currency revenue growth assumption: changed from (7.0)% to (4.5)%",
+  "period": "2026-06-02",
+  "value": null,
+  "unit": "(6.0)% to (4.0)%",
+  "source_document": "8-K filed 2026-06-02 (Item 7.01), Exhibit 99.1 Investor Day presentation dated 2026-06-02 (furnished, not filed)",
+  "source_section": "Finance overview",
+  "quote": "Assumes Technology Solutions & Services constant currency revenue growth of (6.0%) to (4.0%) (from (7.0%) to (4.5%))",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465926069244/tm2616122d1_ex99-1.htm"
+ },
+ {
+  "item": "FY2026 revenue guidance, Q2 release: reaffirmed previously raised range",
+  "period": "2026-07-29",
+  "value": null,
+  "unit": "(5.0)% to (3.5)%",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "2026 Financial Guidance",
+  "quote": "The company reaffirms previously raised full-year 2026 revenue growth guidance and maintains profitability guidance: | Guidance | Revenue growth in constant currency* (5.0)% to (3.5)%",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "FY2026 non-GAAP operating profit margin guidance (Q2 release, maintained)",
+  "period": "2026-07-29",
+  "value": null,
+  "unit": "9.0% to 11.0%",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "2026 Financial Guidance",
+  "quote": "Non-GAAP operating profit margin 9.0% to 11.0%",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "FY2026 revenue guidance translated to reported (Q2 release, FX as of end of 2Q26)",
+  "period": "2026-07-29",
+  "value": null,
+  "unit": "(2.6)% to (1.1)%",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "2026 Financial Guidance",
+  "quote": "Constant currency revenue guidance translates to reported revenue growth of (2.6)% to (1.1)%, based on exchange rates as of the end of 2Q26.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "FY2026 ClearPath revenue assumption (Q2 release)",
+  "period": "2026-07-29",
+  "value": 425.0,
+  "unit": "USD millions (approximate)",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "2026 Financial Guidance",
+  "quote": "The guidance assumes ClearPath revenue of approximately $425 million and TS&S constant currency revenue growth of (6.0)% to (4.0)%.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "Statement that the raise occurred at Investor Day (Q2 release footnote)",
+  "period": "2026-07-29",
+  "value": null,
+  "unit": "text",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "2026 Financial Guidance footnote",
+  "quote": "Revenue growth in constant currency guidance was raised during the company's Investor Day, as disclosed in the company's presentation, dated June 2, 2026, and furnished with the Securities Exchange Commission on Form 8-K.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "FY2026 revenue implied by guidance, Feb 24 constant currency (-6.5% to -4.5%): low end (derived on FY2025 revenue 1,950.1)",
+  "period": "FY2026",
+  "value": 1823.3,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-02-24, Exhibit 99.1 news release \"Unisys Announces 4Q and Full-Year 2025 Results\"",
+  "source_section": "Derived from guidance percentages and FY2025 revenue",
+  "quote": "Derived: 1,950.1 x (1 + low-end percentage) = 1823.3",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000003/q42025earningsrelease.htm"
+ },
+ {
+  "item": "FY2026 revenue implied by guidance, Feb 24 constant currency (-6.5% to -4.5%): high end (derived on FY2025 revenue 1,950.1)",
+  "period": "FY2026",
+  "value": 1862.3,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-02-24, Exhibit 99.1 news release \"Unisys Announces 4Q and Full-Year 2025 Results\"",
+  "source_section": "Derived from guidance percentages and FY2025 revenue",
+  "quote": "Derived: 1,950.1 x (1 + high-end percentage) = 1862.3",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000003/q42025earningsrelease.htm"
+ },
+ {
+  "item": "FY2026 revenue implied by guidance, Feb 24 reported (-3.8% to -1.8%): low end (derived on FY2025 revenue 1,950.1)",
+  "period": "FY2026",
+  "value": 1876.0,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-02-24, Exhibit 99.1 news release \"Unisys Announces 4Q and Full-Year 2025 Results\"",
+  "source_section": "Derived from guidance percentages and FY2025 revenue",
+  "quote": "Derived: 1,950.1 x (1 + low-end percentage) = 1876.0",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000003/q42025earningsrelease.htm"
+ },
+ {
+  "item": "FY2026 revenue implied by guidance, Feb 24 reported (-3.8% to -1.8%): high end (derived on FY2025 revenue 1,950.1)",
+  "period": "FY2026",
+  "value": 1915.0,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-02-24, Exhibit 99.1 news release \"Unisys Announces 4Q and Full-Year 2025 Results\"",
+  "source_section": "Derived from guidance percentages and FY2025 revenue",
+  "quote": "Derived: 1,950.1 x (1 + high-end percentage) = 1915.0",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000003/q42025earningsrelease.htm"
+ },
+ {
+  "item": "FY2026 revenue implied by guidance, May 5 reported (-3.5% to -1.5%): low end (derived on FY2025 revenue 1,950.1)",
+  "period": "FY2026",
+  "value": 1881.8,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-02-24, Exhibit 99.1 news release \"Unisys Announces 4Q and Full-Year 2025 Results\"",
+  "source_section": "Derived from guidance percentages and FY2025 revenue",
+  "quote": "Derived: 1,950.1 x (1 + low-end percentage) = 1881.8",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000003/q42025earningsrelease.htm"
+ },
+ {
+  "item": "FY2026 revenue implied by guidance, May 5 reported (-3.5% to -1.5%): high end (derived on FY2025 revenue 1,950.1)",
+  "period": "FY2026",
+  "value": 1920.8,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-02-24, Exhibit 99.1 news release \"Unisys Announces 4Q and Full-Year 2025 Results\"",
+  "source_section": "Derived from guidance percentages and FY2025 revenue",
+  "quote": "Derived: 1,950.1 x (1 + high-end percentage) = 1920.8",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000003/q42025earningsrelease.htm"
+ },
+ {
+  "item": "FY2026 revenue implied by guidance, Jun 2 constant currency (-5.0% to -3.5%): low end (derived on FY2025 revenue 1,950.1)",
+  "period": "FY2026",
+  "value": 1852.6,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-02-24, Exhibit 99.1 news release \"Unisys Announces 4Q and Full-Year 2025 Results\"",
+  "source_section": "Derived from guidance percentages and FY2025 revenue",
+  "quote": "Derived: 1,950.1 x (1 + low-end percentage) = 1852.6",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000003/q42025earningsrelease.htm"
+ },
+ {
+  "item": "FY2026 revenue implied by guidance, Jun 2 constant currency (-5.0% to -3.5%): high end (derived on FY2025 revenue 1,950.1)",
+  "period": "FY2026",
+  "value": 1881.8,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-02-24, Exhibit 99.1 news release \"Unisys Announces 4Q and Full-Year 2025 Results\"",
+  "source_section": "Derived from guidance percentages and FY2025 revenue",
+  "quote": "Derived: 1,950.1 x (1 + high-end percentage) = 1881.8",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000003/q42025earningsrelease.htm"
+ },
+ {
+  "item": "FY2026 revenue implied by guidance, Jun 2 reported (-2.0% to -0.5%): low end (derived on FY2025 revenue 1,950.1)",
+  "period": "FY2026",
+  "value": 1911.1,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-02-24, Exhibit 99.1 news release \"Unisys Announces 4Q and Full-Year 2025 Results\"",
+  "source_section": "Derived from guidance percentages and FY2025 revenue",
+  "quote": "Derived: 1,950.1 x (1 + low-end percentage) = 1911.1",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000003/q42025earningsrelease.htm"
+ },
+ {
+  "item": "FY2026 revenue implied by guidance, Jun 2 reported (-2.0% to -0.5%): high end (derived on FY2025 revenue 1,950.1)",
+  "period": "FY2026",
+  "value": 1940.3,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-02-24, Exhibit 99.1 news release \"Unisys Announces 4Q and Full-Year 2025 Results\"",
+  "source_section": "Derived from guidance percentages and FY2025 revenue",
+  "quote": "Derived: 1,950.1 x (1 + high-end percentage) = 1940.3",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000003/q42025earningsrelease.htm"
+ },
+ {
+  "item": "FY2026 revenue implied by guidance, Jul 29 reported (-2.6% to -1.1%): low end (derived on FY2025 revenue 1,950.1)",
+  "period": "FY2026",
+  "value": 1899.4,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-02-24, Exhibit 99.1 news release \"Unisys Announces 4Q and Full-Year 2025 Results\"",
+  "source_section": "Derived from guidance percentages and FY2025 revenue",
+  "quote": "Derived: 1,950.1 x (1 + low-end percentage) = 1899.4",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000003/q42025earningsrelease.htm"
+ },
+ {
+  "item": "FY2026 revenue implied by guidance, Jul 29 reported (-2.6% to -1.1%): high end (derived on FY2025 revenue 1,950.1)",
+  "period": "FY2026",
+  "value": 1928.6,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-02-24, Exhibit 99.1 news release \"Unisys Announces 4Q and Full-Year 2025 Results\"",
+  "source_section": "Derived from guidance percentages and FY2025 revenue",
+  "quote": "Derived: 1,950.1 x (1 + high-end percentage) = 1928.6",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000003/q42025earningsrelease.htm"
+ },
+ {
+  "item": "FY2026 implied H2 free cash flow if the full-year guide of ~(25) is met (derived)",
+  "period": "H2 2026",
+  "value": 49.5,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "Derived",
+  "quote": "Derived: guidance ~(25.0) minus H1 actual (74.5) = +49.5",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "Liquidity statement (10-Q)",
+  "period": "2026-06-30",
+  "value": null,
+  "unit": "text",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "MD&A, Financial condition",
+  "quote": "The company believes that it will have adequate sources of liquidity to meet its expected cash requirements for at least the next twelve months.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Liquidity risk statement on pension funding (10-Q)",
+  "period": "2026-06-30",
+  "value": null,
+  "unit": "text",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "MD&A, Pension and Postretirement Benefits",
+  "quote": "If the company is not able to generate sufficient cash flows from operations, it may need to obtain additional funding in order to make these contributions.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Going concern / substantial doubt language",
+  "period": "2026-06-30",
+  "value": null,
+  "unit": "none appears",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Full text search of the 10-Q for \"substantial doubt\" and \"going concern\": zero hits",
+  "quote": "The company’s principal sources of liquidity are cash on hand, cash from operations and its revolving credit facility, discussed below.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Disclosure controls",
+  "period": "2026-06-30",
+  "value": null,
+  "unit": "text",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Item 4",
+  "quote": "the CEO and the CFO concluded that, as of June 30, 2026, the company’s disclosure controls and procedures were effective",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Deferred tax valuation allowance",
+  "period": "H1 2026",
+  "value": null,
+  "unit": "text",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Note 7 Income Taxes",
+  "quote": "U.S. operating losses with no tax benefit as the deferred tax assets are subject to a full valuation allowance",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Brazil unreserved tax matters",
+  "period": "2026-06-30",
+  "value": 100.0,
+  "unit": "USD millions (approximate)",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Note 14 Litigation and Contingencies",
+  "quote": "the amount related to unreserved tax-related matters, inclusive of any related interest, is estimated to be approximately $100 million.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "2031 notes coupon",
+  "period": "2025-06-27",
+  "value": 10.625,
+  "unit": "percent per year",
+  "source_document": "8-K filed 2025-06-27 (Items 1.01, 2.03, 7.01, 9.01) closing of 2031 notes",
+  "source_section": "Item 1.01 Indenture",
+  "quote": "The Notes will pay interest semiannually on January 15 and July 15, commencing on January 15, 2026, at an annual rate of 10.625%, and will mature on January 15, 2031, unless earlier repurchased or redeemed.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465925063658/tm2517689d2_8k.htm"
+ },
+ {
+  "item": "2031 notes guarantors",
+  "period": "2025-06-27",
+  "value": null,
+  "unit": "text",
+  "source_document": "8-K filed 2025-06-27 (Items 1.01, 2.03, 7.01, 9.01) closing of 2031 notes",
+  "source_section": "Item 1.01",
+  "quote": "The Notes are fully and unconditionally guaranteed on a senior secured basis by Unisys Holding Corporation, Unisys AP Investment Company I and Unisys NPL, Inc., each a Delaware corporation that is directly or indirectly wholly owned by Unisys (the “Subsidiary Guarantors”).",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465925063658/tm2517689d2_8k.htm"
+ },
+ {
+  "item": "2031 notes ranking and structural subordination",
+  "period": "2025-06-27",
+  "value": null,
+  "unit": "text",
+  "source_document": "8-K filed 2025-06-27 (Items 1.01, 2.03, 7.01, 9.01) closing of 2031 notes",
+  "source_section": "Item 1.01",
+  "quote": "The Notes and the guarantees are structurally subordinated to all existing and future liabilities (including preferred stock, trade payables and pension liabilities) of the subsidiaries of Unisys that are not Subsidiary Guarantors.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465925063658/tm2517689d2_8k.htm"
+ },
+ {
+  "item": "2031 notes security package",
+  "period": "2025-06-27",
+  "value": null,
+  "unit": "text",
+  "source_document": "8-K filed 2025-06-27 (Items 1.01, 2.03, 7.01, 9.01) closing of 2031 notes",
+  "source_section": "Item 1.01",
+  "quote": "The Notes and the guarantees are secured by liens on substantially all assets of Unisys and the Subsidiary Guarantors, other than certain excluded assets (the “Collateral”). The liens securing the Notes on certain ABL collateral are subordinated to the liens on ABL collateral in favor of the ABL secured parties, subject to certain limitations and permitted liens.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465925063658/tm2517689d2_8k.htm"
+ },
+ {
+  "item": "2031 notes equity pledge (closing press release, Exhibit 99.1)",
+  "period": "2025-06-27",
+  "value": 100.0,
+  "unit": "percent of capital stock of each first tier domestic and foreign subsidiary pledged",
+  "source_document": "Exhibit 99.1 to 8-K filed 2025-06-27: news release announcing closing of $700 million notes offering",
+  "source_section": "Exhibit 99.1 closing press release",
+  "quote": "including a pledge of 100% of the capital stock of each first tier domestic and foreign subsidiary of Unisys and the subsidiary guarantors",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465925063658/tm2517689d2_ex99-1.htm"
+ },
+ {
+  "item": "2031 notes call: make-whole before 15 Jan 2028",
+  "period": "2025-06-27",
+  "value": 100.0,
+  "unit": "percent of principal plus Applicable Premium (make-whole)",
+  "source_document": "Exhibit 4.1 to 8-K filed 2025-06-27: Indenture dated 2025-06-27 for 10.625% Senior Secured Notes due 2031",
+  "source_section": "Section 3.7(a) Optional Redemption",
+  "quote": "The Notes may be redeemed, in whole or in part, at any time or from time to time prior to January 15, 2028 at the option of the Company, at a redemption price equal to 100.0% of the principal amount of the Notes redeemed plus the Applicable Premium",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465925063658/tm2517689d2_ex4-1.htm"
+ },
+ {
+  "item": "2031 notes call price from 15 Jan 2028",
+  "period": "2028-01-15",
+  "value": 105.313,
+  "unit": "percent of principal",
+  "source_document": "Exhibit 4.1 to 8-K filed 2025-06-27: Indenture dated 2025-06-27 for 10.625% Senior Secured Notes due 2031",
+  "source_section": "Section 3.7(b) redemption schedule",
+  "quote": "2028 | 105.313 | % | 2029 | 102.656 | % 2030 and thereafter | 100.000 | %",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465925063658/tm2517689d2_ex4-1.htm"
+ },
+ {
+  "item": "2031 notes call price from 15 Jan 2029",
+  "period": "2029-01-15",
+  "value": 102.656,
+  "unit": "percent of principal",
+  "source_document": "Exhibit 4.1 to 8-K filed 2025-06-27: Indenture dated 2025-06-27 for 10.625% Senior Secured Notes due 2031",
+  "source_section": "Section 3.7(b) redemption schedule",
+  "quote": "2028 | 105.313 | % | 2029 | 102.656 | % 2030 and thereafter | 100.000 | %",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465925063658/tm2517689d2_ex4-1.htm"
+ },
+ {
+  "item": "2031 notes call price from 15 Jan 2030 (par)",
+  "period": "2030-01-15",
+  "value": 100.0,
+  "unit": "percent of principal",
+  "source_document": "Exhibit 4.1 to 8-K filed 2025-06-27: Indenture dated 2025-06-27 for 10.625% Senior Secured Notes due 2031",
+  "source_section": "Section 3.7(b) redemption schedule",
+  "quote": "2028 | 105.313 | % | 2029 | 102.656 | % 2030 and thereafter | 100.000 | %",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465925063658/tm2517689d2_ex4-1.htm"
+ },
+ {
+  "item": "2031 notes equity clawback before 15 Jan 2028",
+  "period": "2028-01-15",
+  "value": 110.625,
+  "unit": "percent of principal (up to 40% of original principal)",
+  "source_document": "Exhibit 4.1 to 8-K filed 2025-06-27: Indenture dated 2025-06-27 for 10.625% Senior Secured Notes due 2031",
+  "source_section": "Section 3.7(c)",
+  "quote": "at a redemption price of 110.625% of the principal amount thereof, plus accrued and unpaid interest",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465925063658/tm2517689d2_ex4-1.htm"
+ },
+ {
+  "item": "2031 notes annual 10% redemption at 103 before 15 Jan 2028",
+  "period": "2028-01-15",
+  "value": 103.0,
+  "unit": "percent of principal (up to 10% per calendar year)",
+  "source_document": "Exhibit 4.1 to 8-K filed 2025-06-27: Indenture dated 2025-06-27 for 10.625% Senior Secured Notes due 2031",
+  "source_section": "Section 3.7 final paragraph",
+  "quote": "Prior to January 15, 2028, the Company may, on any one or more occasions, redeem during each calendar year commencing with the calendar year in which the Issue Date occurs up to 10% of the aggregate principal amount of the Notes, including any Additional Notes, at its option, at a redemption price equal to 103% of the aggregate principal amount of the Notes redeemed",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465925063658/tm2517689d2_ex4-1.htm"
+ },
+ {
+  "item": "2031 notes change of control put",
+  "period": "2025-06-27",
+  "value": 101.0,
+  "unit": "percent of principal plus accrued interest",
+  "source_document": "Exhibit 4.1 to 8-K filed 2025-06-27: Indenture dated 2025-06-27 for 10.625% Senior Secured Notes due 2031",
+  "source_section": "Section 4.13(a) Offer to Purchase upon Change of Control",
+  "quote": "the Company will be required to make an Offer to Purchase (a “Change of Control Offer”), with a copy to the Trustee, all outstanding Notes at a purchase price equal to 101% of their principal amount plus accrued and unpaid interest",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465925063658/tm2517689d2_ex4-1.htm"
+ },
+ {
+  "item": "Change of Control triggers (definition)",
+  "period": "2025-06-27",
+  "value": 50.0,
+  "unit": "percent voting power (trigger 1 of 3)",
+  "source_document": "Exhibit 4.1 to 8-K filed 2025-06-27: Indenture dated 2025-06-27 for 10.625% Senior Secured Notes due 2031",
+  "source_section": "Section 1.1 definition of Change of Control",
+  "quote": "becomes the beneficial owner (within the meaning of Rule 13d-3 under the Exchange Act, or any successor provision thereto) of at least 50% of the aggregate voting power of all classes of Voting Stock of the Company",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465925063658/tm2517689d2_ex4-1.htm"
+ },
+ {
+  "item": "Debt incurrence ratio test",
+  "period": "2025-06-27",
+  "value": 2.0,
+  "unit": "x Consolidated Coverage Ratio minimum",
+  "source_document": "Exhibit 4.1 to 8-K filed 2025-06-27: Indenture dated 2025-06-27 for 10.625% Senior Secured Notes due 2031",
+  "source_section": "Section 4.9(a) Limitation on Debt",
+  "quote": "the Company and any Subsidiary Guarantor may Incur Debt if after giving pro forma effect to the Incurrence of such Debt and the receipt and application of the proceeds thereof the Consolidated Coverage Ratio of the Company would be not less than 2.00 to 1.00.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465925063658/tm2517689d2_ex4-1.htm"
+ },
+ {
+  "item": "Permitted credit facility debt basket",
+  "period": "2025-06-27",
+  "value": 175.0,
+  "unit": "USD millions or Borrowing Base if greater",
+  "source_document": "Exhibit 4.1 to 8-K filed 2025-06-27: Indenture dated 2025-06-27 for 10.625% Senior Secured Notes due 2031",
+  "source_section": "Section 4.9(b)(1)",
+  "quote": "in an aggregate principal amount Incurred under this Section 4.9(b)(1) at any one time outstanding not to exceed the greater of (i) $175.0 million and (ii) the Borrowing Base",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465925063658/tm2517689d2_ex4-1.htm"
+ },
+ {
+  "item": "Pari passu debt basket: total net leverage test",
+  "period": "2025-06-27",
+  "value": 1.7,
+  "unit": "x Total Net Leverage Ratio maximum",
+  "source_document": "Exhibit 4.1 to 8-K filed 2025-06-27: Indenture dated 2025-06-27 for 10.625% Senior Secured Notes due 2031",
+  "source_section": "Section 4.9(b)(2)",
+  "quote": "the Company has a Total Net Leverage Ratio of less than or equal to 1.70 to 1.00",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465925063658/tm2517689d2_ex4-1.htm"
+ },
+ {
+  "item": "Pari passu debt basket: fixed-dollar or asset-percentage amount",
+  "period": "2025-06-27",
+  "value": 150.0,
+  "unit": "USD millions or 8.0% of Consolidated Total Assets if greater",
+  "source_document": "Exhibit 4.1 to 8-K filed 2025-06-27: Indenture dated 2025-06-27 for 10.625% Senior Secured Notes due 2031",
+  "source_section": "Section 4.9(b)(2)",
+  "quote": "an amount equal to the greater of (i) $150.0 million and (ii) 8.0% of Consolidated Total Assets determined at the time of Incurrence",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465925063658/tm2517689d2_ex4-1.htm"
+ },
+ {
+  "item": "Restricted payments general basket",
+  "period": "2025-06-27",
+  "value": 50.0,
+  "unit": "USD millions plus 50% cumulative Consolidated Net Income since 2025-04-01",
+  "source_document": "Exhibit 4.1 to 8-K filed 2025-06-27: Indenture dated 2025-06-27 for 10.625% Senior Secured Notes due 2031",
+  "source_section": "Section 4.7(a)(iii)",
+  "quote": "50% of cumulative Consolidated Net Income (or, in the case Consolidated Net Income shall be negative, less 100% of such deficit) of the Company accrued on a cumulative basis since April 1, 2025",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465925063658/tm2517689d2_ex4-1.htm"
+ },
+ {
+  "item": "Restricted payments conditions",
+  "period": "2025-06-27",
+  "value": null,
+  "unit": "text",
+  "source_document": "Exhibit 4.1 to 8-K filed 2025-06-27: Indenture dated 2025-06-27 for 10.625% Senior Secured Notes due 2031",
+  "source_section": "Section 4.7(a)",
+  "quote": "no Event of Default, or an event that with the passing of time or the giving of notice, or both, would constitute an Event of Default, has occurred and is continuing or would result from such Restricted Payment;",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465925063658/tm2517689d2_ex4-1.htm"
+ },
+ {
+  "item": "Pension obligations may not rank pari passu or senior as to Collateral",
+  "period": "2025-06-27",
+  "value": null,
+  "unit": "text",
+  "source_document": "Exhibit 4.1 to 8-K filed 2025-06-27: Indenture dated 2025-06-27 for 10.625% Senior Secured Notes due 2031",
+  "source_section": "Section 4.12 Limitation on Liens",
+  "quote": "in no event shall the Company permit any Pension Obligations to rank pari passu or senior in priority as to the Collateral with the Notes and the Subsidiary Guarantees.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465925063658/tm2517689d2_ex4-1.htm"
+ },
+ {
+  "item": "Covenant suspension on investment grade",
+  "period": "2025-06-27",
+  "value": null,
+  "unit": "text",
+  "source_document": "Exhibit 4.1 to 8-K filed 2025-06-27: Indenture dated 2025-06-27 for 10.625% Senior Secured Notes due 2031",
+  "source_section": "Section 4.17",
+  "quote": "If on any date following the Issue Date, the Notes have an Investment Grade Rating from two Rating Agencies and no Default or Event of Default has occurred and is then continuing",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465925063658/tm2517689d2_ex4-1.htm"
+ },
+ {
+  "item": "Covenant list per 8-K summary (includes prepayments in respect of pension obligations)",
+  "period": "2025-06-27",
+  "value": null,
+  "unit": "text",
+  "source_document": "8-K filed 2025-06-27 (Items 1.01, 2.03, 7.01, 9.01) closing of 2031 notes",
+  "source_section": "Item 1.01 Indenture",
+  "quote": "(iv) make certain prepayments in respect of pension obligations;",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465925063658/tm2517689d2_8k.htm"
+ },
+ {
+  "item": "Asset sale proceeds offer at par",
+  "period": "2025-06-27",
+  "value": null,
+  "unit": "text",
+  "source_document": "8-K filed 2025-06-27 (Items 1.01, 2.03, 7.01, 9.01) closing of 2031 notes",
+  "source_section": "Item 1.01",
+  "quote": "if Unisys sells assets under certain circumstances it must apply the proceeds towards an offer to repurchase Notes at a price equal to par plus accrued and unpaid interest, if any.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465925063658/tm2517689d2_8k.htm"
+ },
+ {
+  "item": "Use of proceeds per closing release",
+  "period": "2025-06-27",
+  "value": null,
+  "unit": "text",
+  "source_document": "Exhibit 99.1 to 8-K filed 2025-06-27: news release announcing closing of $700 million notes offering",
+  "source_section": "Exhibit 99.1 closing press release",
+  "quote": "to fund a portion of its long-term pension deficit and postretirement liabilities and for general corporate purposes.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465925063658/tm2517689d2_ex99-1.htm"
+ },
+ {
+  "item": "ABL amendment: size",
+  "period": "2025-06-27",
+  "value": 125.0,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2025-06-27 (Items 1.01, 2.03, 7.01, 9.01) closing of 2031 notes",
+  "source_section": "Item 1.01 Amendment to Amended and Restated ABL Credit Facility",
+  "quote": "The secured revolving credit facility continues to provide for loans and letters of credit up to an aggregate amount of $125.0 million (with an initial limit on letters of credit of $40.0 million), with an uncommitted accordion feature allowing for the aggregate amount available to be increased to $155.0 million.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465925063658/tm2517689d2_8k.htm"
+ },
+ {
+  "item": "ABL amendment: maturity extended",
+  "period": "2025-06-27",
+  "value": null,
+  "unit": "from October 2027 to June 2030",
+  "source_document": "8-K filed 2025-06-27 (Items 1.01, 2.03, 7.01, 9.01) closing of 2031 notes",
+  "source_section": "Item 1.01",
+  "quote": "extended the maturity date of the secured revolving credit facility from October 2027 to June 2030",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465925063658/tm2517689d2_8k.htm"
+ },
+ {
+  "item": "ABL Maturity Date definition (as amended)",
+  "period": "2025-06-27",
+  "value": null,
+  "unit": "June 27, 2030",
+  "source_document": "Exhibit 10.3 to 8-K filed 2025-06-27: Amendment No. 3 to Amended and Restated Credit Agreement (conformed copy; struck-through text removed)",
+  "source_section": "Section 1.01 definition of Maturity Date",
+  "quote": "“Maturity Date” means the earliest of (x) June 27, 2030, (y) any Springing Maturity Date, or (z) any other date on which the Commitments are reduced to zero or otherwise terminated pursuant to the terms hereof.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465925063658/tm2517689d2_ex10-3.htm"
+ },
+ {
+  "item": "ABL Springing Maturity Date definition (as amended, verbatim; struck \"2027\" removed, inserted \"Senior Secured\" retained)",
+  "period": "2025-06-27",
+  "value": 100.0,
+  "unit": "USD millions net U.S. pension contributions threshold",
+  "source_document": "Exhibit 10.3 to 8-K filed 2025-06-27: Amendment No. 3 to Amended and Restated Credit Agreement (conformed copy; struck-through text removed)",
+  "source_section": "Section 1.01 definition of Springing Maturity Date",
+  "quote": "“Springing Maturity Date” means the date that is ninety-one (91) days prior to either (a) the maturity date of the Senior Secured Notes or (b) any date upon which net U.S. pension contributions (after giving effect to prepayments held on account with the PBGC) in an amount in excess of $100,000,000 are required to be paid to the PBGC unless, on any such date (x) Liquidity exceeds the aggregate outstanding principal balance of the Senior Secured Notes or the aggregate amount of such required net pension contributions, as applicable, and (y) the Payment Conditions are satisfied.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465925063658/tm2517689d2_ex10-3.htm"
+ },
+ {
+  "item": "ABL Senior Secured Notes definition (amended agreement)",
+  "period": "2025-06-27",
+  "value": 700.0,
+  "unit": "USD millions maximum principal",
+  "source_document": "Exhibit 10.3 to 8-K filed 2025-06-27: Amendment No. 3 to Amended and Restated Credit Agreement (conformed copy; struck-through text removed)",
+  "source_section": "Section 1.01",
+  "quote": "“Senior Secured Notes” means the 10.625% senior secured notes due January 15, 2031 issued by the Borrower in an aggregate principal amount of up to $700,000,000 pursuant to the Senior Secured Notes Indenture.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465925063658/tm2517689d2_ex10-3.htm"
+ },
+ {
+  "item": "ABL Payment Conditions: minimum Liquidity",
+  "period": "2025-06-27",
+  "value": 130.0,
+  "unit": "USD millions",
+  "source_document": "Exhibit 10.3 to 8-K filed 2025-06-27: Amendment No. 3 to Amended and Restated Credit Agreement (conformed copy; struck-through text removed)",
+  "source_section": "Section 1.01 definition of Payment Conditions",
+  "quote": "(ii) Liquidity is not less than $130,000,000;",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465925063658/tm2517689d2_ex10-3.htm"
+ },
+ {
+  "item": "ABL Payment Conditions: no default and pro forma fixed charge covenant compliance",
+  "period": "2025-06-27",
+  "value": null,
+  "unit": "text",
+  "source_document": "Exhibit 10.3 to 8-K filed 2025-06-27: Amendment No. 3 to Amended and Restated Credit Agreement (conformed copy; struck-through text removed)",
+  "source_section": "Section 1.01 definition of Payment Conditions",
+  "quote": "(i) no Default or Event of Default has occurred and is continuing or would result from such event (as applicable);",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465925063658/tm2517689d2_ex10-3.htm"
+ },
+ {
+  "item": "ABL Liquidity definition",
+  "period": "2025-06-27",
+  "value": null,
+  "unit": "text",
+  "source_document": "Exhibit 10.3 to 8-K filed 2025-06-27: Amendment No. 3 to Amended and Restated Credit Agreement (conformed copy; struck-through text removed)",
+  "source_section": "Section 1.01",
+  "quote": "“Liquidity” means, on any date, the sum of (x) Availability on such date, plus (y) Unrestricted Cash on Hand as of such date.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465925063658/tm2517689d2_ex10-3.htm"
+ },
+ {
+  "item": "ABL Fixed Charge Coverage Ratio covenant level from 30 Jun 2026",
+  "period": "2026-06-30",
+  "value": 1.0,
+  "unit": "x minimum (only tested while a Fixed Charge Trigger Event is continuing)",
+  "source_document": "Exhibit 10.3 to 8-K filed 2025-06-27: Amendment No. 3 to Amended and Restated Credit Agreement (conformed copy; struck-through text removed)",
+  "source_section": "Section 6.18",
+  "quote": "June 30, 2026 and each Fiscal Quarter ending thereafter | 1.00 to 1.00",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465925063658/tm2517689d2_ex10-3.htm"
+ },
+ {
+  "item": "ABL Fixed Charge Trigger Event threshold",
+  "period": "2025-06-27",
+  "value": 12.5,
+  "unit": "USD millions or 10.0% of Aggregate Revolving Commitment if greater (Availability below this)",
+  "source_document": "Exhibit 10.3 to 8-K filed 2025-06-27: Amendment No. 3 to Amended and Restated Credit Agreement (conformed copy; struck-through text removed)",
+  "source_section": "Section 1.01 definition of Fixed Charge Trigger Event",
+  "quote": "“Fixed Charge Trigger Event” means that Availability is less than the greater of (i) $12,500,000 and (ii) 10.0% of the Aggregate Revolving Commitment at such time.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465925063658/tm2517689d2_ex10-3.htm"
+ },
+ {
+  "item": "2027 notes tendered by early deadline",
+  "period": "2025-06-25",
+  "value": 480.054,
+  "unit": "USD millions (98.98% of 485.0)",
+  "source_document": "8-K filed 2025-06-27 (Items 1.01, 1.02, 2.04, 3.03, 7.01, 9.01) 2027 notes supplemental indenture and discharge",
+  "source_section": "Item 1.01",
+  "quote": "As of 5:00 p.m., New York City time, on June 25, 2025, $480,054,000 aggregate principal amount of the Notes, representing approximately 98.98% of the outstanding principal amount of the Notes, had been validly tendered and not validly withdrawn",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465925063705/tm2517689d3_8k.htm"
+ },
+ {
+  "item": "2027 notes tender consideration after early deadline",
+  "period": "2025-07-11",
+  "value": 976.25,
+  "unit": "USD per 1,000 principal",
+  "source_document": "8-K filed 2025-06-27 (Items 1.01, 1.02, 2.04, 3.03, 7.01, 9.01) 2027 notes supplemental indenture and discharge",
+  "source_section": "Item 7.01",
+  "quote": "Holders who tender during this time will receive $976.25 per $1,000 principal amount of Notes, plus accrued but unpaid interest",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465925063705/tm2517689d3_8k.htm"
+ },
+ {
+  "item": "2027 notes discharge: redemption price deposited",
+  "period": "2025-06-27",
+  "value": 5.117,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2025-06-27 (Items 1.01, 1.02, 2.04, 3.03, 7.01, 9.01) 2027 notes supplemental indenture and discharge",
+  "source_section": "Item 1.02",
+  "quote": "the Company irrevocably deposited $5,117,000 in United States government securities with the Trustee",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465925063705/tm2517689d3_8k.htm"
+ },
+ {
+  "item": "2027 notes total paid",
+  "period": "2025",
+  "value": 493.5,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Note 13 Debt, Senior Secured Notes due 2027",
+  "quote": "The company paid an aggregate amount of $493.5 million, which was made up of the following: $485.0 million of principal amount, $3.0 million of early tender premium and $5.5 million of accrued but unpaid interest",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Total debt including pension, post-transaction, 31 Mar 2025 pro forma (company deck)",
+  "period": "2025-03-31",
+  "value": 1213.0,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2025-07-24, Exhibit 99.1 \"July 2025 Capital Structure and Pension Strategy\" presentation (furnished, not filed)",
+  "source_section": "Impact of the Transaction on Leverage and Liquidity",
+  "quote": "Total Debt, including pension 335 393 Cash 878 855 Net Debt",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465925070218/tm2521530d1_ex99-1.htm"
+ },
+ {
+  "item": "Net leverage pre-transaction vs post-transaction (company deck, 31 Mar 2025)",
+  "period": "2025-03-31",
+  "value": 3.29,
+  "unit": "x net leverage post-transaction (3.20x pre)",
+  "source_document": "8-K filed 2025-07-24, Exhibit 99.1 \"July 2025 Capital Structure and Pension Strategy\" presentation (furnished, not filed)",
+  "source_section": "Impact of the Transaction on Leverage and Liquidity",
+  "quote": "4.54x 4.67x Gross Leverage 3.29x 3.20x Net Leverage As of March 31, 2025",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465925070218/tm2521530d1_ex99-1.htm"
+ },
+ {
+  "item": "Annual US QDB contribution forecast, Jul 2025 vintage: 2026",
+  "period": "2026",
+  "value": 51.0,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2025-07-24, Exhibit 99.1 \"July 2025 Capital Structure and Pension Strategy\" presentation (furnished, not filed)",
+  "source_section": "Accretion to Five-Year Cash Flow",
+  "quote": "$265 $54 $26 $75 $51 $59 U.S. QDB Contribution Forecast: July 2025",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465925070218/tm2521530d1_ex99-1.htm"
+ },
+ {
+  "item": "LTM adjusted EBITDA at 2026-06-30 (derived: FY2025 278.8 minus H1 2025 101.6 plus H1 2026 99.7)",
+  "period": "2026-06-30",
+  "value": 276.9,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "Derived from company-defined Adjusted EBITDA",
+  "quote": "Derived: 278.8 - 101.6 + 99.7 = 276.9",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "LTM adjusted EBITDA at 2026-03-31 (derived: 278.8 minus 40.2 plus 46.2)",
+  "period": "2026-03-31",
+  "value": 284.8,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-05-05, Exhibit 99.1 news release \"Unisys Announces 1Q26 Results\"",
+  "source_section": "Derived from company-defined Adjusted EBITDA",
+  "quote": "Derived: 278.8 - 40.2 + 46.2 = 284.8",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000015/q12026earningsrelease.htm"
+ },
+ {
+  "item": "Net leverage excluding pension, funded debt at face less cash over LTM adjusted EBITDA (derived)",
+  "period": "2026-06-30",
+  "value": 1.52,
+  "unit": "x",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Derived",
+  "quote": "Derived: (745.0 - 324.3) / 276.9 = 1.52x; on carrying value 733.5 the result is 1.48x",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Net leverage including pension at 31 Dec 2025 deficit 448.5 (derived)",
+  "period": "2026-06-30",
+  "value": 3.14,
+  "unit": "x",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Derived",
+  "quote": "Derived: (745.0 + 448.5 - 324.3) / 276.9 = 3.14x; carrying value basis 3.10x; the 30 Jun 2026 deficit is not disclosed in the filings, so the Dec 2025 deficit is used",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Net leverage including pension at 31 Dec 2025 deficit (derived), 31 Mar 2026",
+  "period": "2026-03-31",
+  "value": 2.87,
+  "unit": "x",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Derived",
+  "quote": "Derived: (749.7 + 448.5 - 380.2) / 284.8 = 2.87x, which reproduces the 2.9x on the Investor Day slide",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "Net leverage excluding pension (derived), 31 Mar 2026",
+  "period": "2026-03-31",
+  "value": 1.3,
+  "unit": "x",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Derived",
+  "quote": "Derived: (749.7 - 380.2) / 284.8 = 1.30x",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "Net leverage including pension as stated by company at 31 Mar 2026 (Investor Day deck)",
+  "period": "2026-03-31",
+  "value": 2.9,
+  "unit": "x",
+  "source_document": "8-K filed 2026-06-02 (Item 7.01), Exhibit 99.1 Investor Day presentation dated 2026-06-02 (furnished, not filed)",
+  "source_section": "Finance overview, deleveraging slide",
+  "quote": "Reducing net leverage (with pension) by at least one turn FINANCE OVERVIEW 2.9x March 31, 2026 < 2.0x year-end 2029",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465926069244/tm2616122d1_ex99-1.htm"
+ },
+ {
+  "item": "Total debt including pension, company slide figure (reconciled: face 749.7 + 448.5 deficit = 1,198.2) (derived)",
+  "period": "2026-03-31",
+  "value": 1198.2,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Derived reconciliation of a figure seen only in an unfiled earnings slide",
+  "quote": "Derived: debt at face 749.7 (Q1 10-Q Note 13: 698.4 + 39.1 + 12.2) + December 2025 global pension funding deficit 448.5 = 1,198.2",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "ClearPath revenue",
+  "period": "Q2 2026",
+  "value": 69.7,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "Financial Highlights",
+  "quote": "ClearPath(12) revenue | $69.7 | $87.6 | $135.2 | $158.7",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "New Business TCV",
+  "period": "Q2 2026",
+  "value": 192.0,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "Other Metrics",
+  "quote": "Total Contract Value (TCV) | New Business | $ | 192 | $ | 122 | 57 | %",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "Backlog",
+  "period": "2026-06-30",
+  "value": 2820.0,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "Other Metrics",
+  "quote": "Backlog(2) was $2.82 billion for the second quarter of 2026 compared to $2.92 billion for the second quarter of 2025.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "Gross profit margin",
+  "period": "Q2 2026",
+  "value": 24.8,
+  "unit": "percent",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "Financial Highlights",
+  "quote": "Gross profit percent | 24.8 | % | 26.9 | % | 25.2 | % | 25.9",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "Non-GAAP operating profit margin",
+  "period": "Q2 2026",
+  "value": 5.3,
+  "unit": "percent",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "Financial Highlights",
+  "quote": "Non-GAAP operating profit percent | 5.3 | % | 7.6 | % | 5.0 | % | 5.3",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "Weighted average shares",
+  "period": "Q2 2026",
+  "value": 72.914,
+  "unit": "millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Note 8 Loss Per Share",
+  "quote": "Weighted average shares | 72,914 | 71,261 | 72,358 | 70,683",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Latest 8-K on EDGAR (company index through 2026-09-30): the 2026-07-29 results 8-K; no September 2026 8-K",
+  "period": "2026-09-30",
+  "value": null,
+  "unit": "gap",
+  "source_document": "SEC EDGAR full index 2026 QTR3 and QTR4 company.idx, Unisys rows and headers (retrieved 2026-10-12)",
+  "source_section": "QTR3 full index, UNISYS CORP rows",
+  "quote": "UNISYS CORP 8-K 746838 2026-07-29 edgar/data/746838/0000746838-26-000025.txt",
+  "url": "https://www.sec.gov/Archives/edgar/full-index/2026/QTR3/company.idx"
+ },
+ {
+  "item": "EDGAR index coverage through 2026-09-30 (covers 16 Sep 2026)",
+  "period": "2026-09-30",
+  "value": null,
+  "unit": "gap",
+  "source_document": "SEC EDGAR full index 2026 QTR3 and QTR4 company.idx, Unisys rows and headers (retrieved 2026-10-12)",
+  "source_section": "QTR3 full index header",
+  "quote": "Last Data Received: September 30, 2026",
+  "url": "https://www.sec.gov/Archives/edgar/full-index/2026/QTR3/company.idx"
+ },
+ {
+  "item": "EDGAR index coverage through 2026-10-10: zero UNISYS CORP rows in QTR4",
+  "period": "2026-10-10",
+  "value": null,
+  "unit": "gap",
+  "source_document": "SEC EDGAR full index 2026 QTR3 and QTR4 company.idx, Unisys rows and headers (retrieved 2026-10-12)",
+  "source_section": "QTR4 full index header and row count",
+  "quote": "QTR4 rows with company name starting UNISYS: 0",
+  "url": "https://www.sec.gov/Archives/edgar/full-index/2026/QTR3/company.idx"
+ },
+ {
+  "item": "16 Sep 2026 pension transfer (New York Life): amount, counterparty, expected settlement charge, remaining US obligations",
+  "period": "2026-09-16",
+  "value": null,
+  "unit": "gap",
+  "source_document": "SEC EDGAR 8-K filing list for CIK 0000746838 (count=40), retrieved 2026-10-12",
+  "source_section": "No 8-K or exhibit exists in the EDGAR 8-K list after 2026-07-29; Q3 2026 10-Q not yet filed",
+  "quote": "8-K | Documents Interactive Data | Current report, items 2.02 and 9.01 Acc-no: 0000746838-26-000025 (34 Act) Size: 798 KB | 2026-07-29",
+  "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000746838&type=8-K&dateb=&owner=include&count=40"
+ },
+ {
+  "item": "2026 pre pension free cash flow expected (Investor Day report card; vs 2023 target $150 to $175M)",
+  "period": "2026",
+  "value": 72.0,
+  "unit": "USD millions (approximate)",
+  "source_document": "8-K filed 2026-06-02 (Item 7.01), Exhibit 99.1 Investor Day presentation dated 2026-06-02 (furnished, not filed)",
+  "source_section": "Finance overview, 2023 Investor Day report card",
+  "quote": "Pre-Pension Free Cash Flow 2026 $150-$175M ~$72M",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465926069244/tm2616122d1_ex99-1.htm"
+ },
+ {
+  "item": "Planned 2026 U.S. annuity purchase (pre-announcement in filed Investor Day deck)",
+  "period": "2026-06-02",
+  "value": null,
+  "unit": "text",
+  "source_document": "8-K filed 2026-06-02 (Item 7.01), Exhibit 99.1 Investor Day presentation dated 2026-06-02 (furnished, not filed)",
+  "source_section": "Finance overview, Expected next steps",
+  "quote": "Execute 2026 U.S. annuity purchase transaction to further reduce liability and cost of removal",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465926069244/tm2616122d1_ex99-1.htm"
+ },
+ {
+  "item": "Settlement loss warning for future annuity purchases",
+  "period": "2026-03-31",
+  "value": null,
+  "unit": "text",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "MD&A Pension and Postretirement Benefits",
+  "quote": "any future group annuity contract purchase could result in material non-cash settlement losses, if executed.",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "Goal to fully remove U.S. qualified DB plans in 3-4 years (Investor Day deck)",
+  "period": "2026-06-02",
+  "value": null,
+  "unit": "text",
+  "source_document": "8-K filed 2026-06-02 (Item 7.01), Exhibit 99.1 Investor Day presentation dated 2026-06-02 (furnished, not filed)",
+  "source_section": "Finance overview",
+  "quote": "Puts us in a position to fully remove the U.S. qualified defined benefit pension plans in 3-4 years",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465926069244/tm2616122d1_ex99-1.htm"
+ },
+ {
+  "item": "Total capital expenditures (marketable software plus properties and other assets) (derived)",
+  "period": "Q2 2026",
+  "value": 22.7,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "Derived from FREE CASH FLOW reconciliation",
+  "quote": "Derived: additions to marketable software 10.7 + additions to properties and other assets 12.0 = 22.7",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "Total capital expenditures (derived)",
+  "period": "H1 2026",
+  "value": 43.8,
+  "unit": "USD millions",
+  "source_document": "8-K filed 2026-07-29, Exhibit 99.1 news release \"Unisys Announces 2Q26 Results\"",
+  "source_section": "Derived from FREE CASH FLOW reconciliation",
+  "quote": "Derived: 21.1 + 22.7 = 43.8; against the ~85 full year guide this leaves ~41.2 for H2",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm"
+ },
+ {
+  "item": "Total capital expenditures (derived)",
+  "period": "Q1 2026",
+  "value": 21.1,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-03-31 (filed 2026-05-06)",
+  "source_section": "Derived from Consolidated Statements of Cash Flows",
+  "quote": "Derived: investment in marketable software 10.4 + capital additions of properties and other assets 10.7 = 21.1",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm"
+ },
+ {
+  "item": "Total debt at face value (derived)",
+  "period": "2025-12-31",
+  "value": 754.5,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Derived from Note 13 Debt",
+  "quote": "Derived: notes face 700.0 + finance leases 41.2 + other debt 13.3 = 754.5",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Net leverage including pension (derived), 31 Dec 2025",
+  "period": "2025-12-31",
+  "value": 2.83,
+  "unit": "x",
+  "source_document": "8-K filed 2026-02-24, Exhibit 99.1 news release \"Unisys Announces 4Q and Full-Year 2025 Results\"",
+  "source_section": "Derived",
+  "quote": "Derived: (754.5 + 448.5 - 413.9) / FY2025 adjusted EBITDA 278.8 = 2.83x",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000003/q42025earningsrelease.htm"
+ },
+ {
+  "item": "Net leverage excluding pension (derived), 31 Dec 2025",
+  "period": "2025-12-31",
+  "value": 1.22,
+  "unit": "x",
+  "source_document": "8-K filed 2026-02-24, Exhibit 99.1 news release \"Unisys Announces 4Q and Full-Year 2025 Results\"",
+  "source_section": "Derived",
+  "quote": "Derived: (754.5 - 413.9) / 278.8 = 1.22x",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000003/q42025earningsrelease.htm"
+ },
+ {
+  "item": "Net leverage including pension (derived) at 30 Jun 2026 on carrying value of debt",
+  "period": "2026-06-30",
+  "value": 3.1,
+  "unit": "x",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Derived",
+  "quote": "Derived: (733.5 + 448.5 - 324.3) / 276.9 = 3.10x",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Reported long-term pension and postretirement liability change in H1 2026 (derived)",
+  "period": "H1 2026",
+  "value": -32.6,
+  "unit": "USD millions",
+  "source_document": "Form 10-Q for quarter ended 2026-06-30 (filed 2026-07-30)",
+  "source_section": "Derived from Consolidated Balance Sheets",
+  "quote": "Derived: 485.1 minus 517.7 = (32.6)",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm"
+ },
+ {
+  "item": "Indenture vs July 2025 deck: pari passu debt leverage test (indenture 1.70x; deck slide says 2.00x)",
+  "period": "2025-06-27",
+  "value": 2.0,
+  "unit": "x per July 2025 deck (indenture text says 1.70x)",
+  "source_document": "8-K filed 2025-07-24, Exhibit 99.1 \"July 2025 Capital Structure and Pension Strategy\" presentation (furnished, not filed)",
+  "source_section": "Summary of Debt Transaction slide",
+  "quote": "Total Net Leverage Ratio would not exceed 2.00 to 1.00 plus (b) up to the greater of ( i ) $150.0 million and (ii) 8.0% of Consolidated Total Asset",
+  "url": "https://www.sec.gov/Archives/edgar/data/746838/000110465925070218/tm2521530d1_ex99-1.htm"
+ }
+]
