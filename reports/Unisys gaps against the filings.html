@@ -1,0 +1,418 @@
+<title>Bonds price Unisys worse than its rating</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&family=Source+Sans+3:wght@400;600&family=Source+Code+Pro:wght@400;500&display=swap">
+<style>
+:root {
+  --paper:#F2F4F6; --surface:#FFFFFF; --ink:#18232E; --ink2:#41505E; --muted:#6F7C89; --line:#D6DCE2;
+  --accent:#1F5F8B; --accent-ink:#164A6E; --accent-bg:#E4EEF5;
+  --neg-bg:#F6DEDB; --neg-fg:#8A2A22; --low-bg:#EEF0F2; --low-fg:#41505E; --mid-bg:#E1EEE6; --mid-fg:#245A3C; --high-bg:#BFDCCB; --high-fg:#173F29;
+  --verdict-bg:#F5E8D8; --verdict-fg:#7A3E0C; --verdict-line:#C98A4B;
+  --cite-bg:#EAEEF2; --cite-fg:#5B6975;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --paper:#12181E; --surface:#1A2229; --ink:#E6EBEF; --ink2:#B4BEC8; --muted:#8593A0; --line:#2C3740;
+  --accent:#6FB0DC; --accent-ink:#9CC9EA; --accent-bg:#1E3140;
+  --neg-bg:#4A2320; --neg-fg:#F0A79F; --low-bg:#232C34; --low-fg:#B4BEC8; --mid-bg:#1F3A2B; --mid-fg:#A9DBBB; --high-bg:#25563A; --high-fg:#D2F0DC;
+  --verdict-bg:#3A2A18; --verdict-fg:#F1C892; --verdict-line:#9A6A34;
+  --cite-bg:#232C34; --cite-fg:#8FA0AE;
+} }
+:root[data-theme="dark"] {
+  --paper:#12181E; --surface:#1A2229; --ink:#E6EBEF; --ink2:#B4BEC8; --muted:#8593A0; --line:#2C3740;
+  --accent:#6FB0DC; --accent-ink:#9CC9EA; --accent-bg:#1E3140;
+  --neg-bg:#4A2320; --neg-fg:#F0A79F; --low-bg:#232C34; --low-fg:#B4BEC8; --mid-bg:#1F3A2B; --mid-fg:#A9DBBB; --high-bg:#25563A; --high-fg:#D2F0DC;
+  --verdict-bg:#3A2A18; --verdict-fg:#F1C892; --verdict-line:#9A6A34;
+  --cite-bg:#232C34; --cite-fg:#8FA0AE;
+}
+* { box-sizing:border-box; }
+body { margin:0; background:var(--paper); color:var(--ink); font-family:"Source Sans 3","Helvetica Neue",Arial,sans-serif; font-size:16px; line-height:1.55; padding-block:40px 80px; padding-inline:20px; }
+.page { max-width:800px; margin:0 auto; display:grid; gap:36px; }
+h1,h2,h3 { font-family:"Source Serif 4",Georgia,serif; margin:0; text-wrap:balance; letter-spacing:-0.005em; }
+h1 { font-size:34px; font-weight:600; line-height:1.15; }
+h2 { font-size:22px; font-weight:600; padding-top:8px; }
+h3 { font-size:17px; font-weight:600; margin-top:6px; }
+p { margin:0; max-width:70ch; }
+a { color:var(--accent); word-break:break-all; }
+.eyebrow { font-size:11.5px; letter-spacing:.09em; text-transform:uppercase; color:var(--muted); font-weight:600; }
+header { display:grid; gap:14px; padding-bottom:24px; border-bottom:1px solid var(--line); }
+.meta { display:flex; flex-wrap:wrap; gap:6px 24px; font-size:13.5px; color:var(--ink2); }
+.meta b { color:var(--ink); font-weight:600; }
+.num, td.num, .tile .val { font-family:"Source Code Pro",Menlo,Consolas,monospace; font-variant-numeric:tabular-nums; }
+.banner { background:var(--verdict-bg); color:var(--verdict-fg); border-left:4px solid var(--verdict-line); padding:18px 20px; display:grid; gap:14px; }
+.banner .big { font-family:"Source Serif 4",Georgia,serif; font-size:30px; font-weight:600; line-height:1.1; }
+.banner .sub { font-size:14px; }
+.tiles { display:grid; grid-template-columns:repeat(4,1fr); gap:10px; }
+.tile { background:var(--surface); border:1px solid var(--line); padding:12px 14px; display:grid; gap:4px; align-content:start; }
+.tile .lab { font-size:11.5px; letter-spacing:.06em; text-transform:uppercase; color:var(--muted); font-weight:600; }
+.tile .val { font-size:22px; font-weight:500; color:var(--ink); }
+.tile .note { font-size:12.5px; color:var(--ink2); }
+nav.toc { display:flex; flex-wrap:wrap; gap:6px 14px; font-size:13.5px; padding:12px 0; border-top:1px solid var(--line); border-bottom:1px solid var(--line); }
+nav.toc a { text-decoration:none; color:var(--accent-ink); }
+nav.toc a:hover, nav.toc a:focus-visible { text-decoration:underline; }
+section { display:grid; gap:14px; }
+.verdict-line { font-family:"Source Serif 4",Georgia,serif; font-size:19px; font-weight:600; color:var(--verdict-fg); }
+.label { font-size:12px; letter-spacing:.07em; text-transform:uppercase; color:var(--muted); font-weight:600; margin-top:6px; }
+ol,ul { margin:0; padding-left:22px; display:grid; gap:10px; max-width:70ch; }
+.scroll { overflow-x:auto; border:1px solid var(--line); background:var(--surface); }
+table { border-collapse:collapse; width:100%; font-size:13.5px; }
+th,td { text-align:left; vertical-align:top; padding:9px 11px; border-bottom:1px solid var(--line); }
+th { font-size:11.5px; letter-spacing:.06em; text-transform:uppercase; color:var(--muted); font-weight:600; white-space:nowrap; }
+tbody tr:last-child td { border-bottom:0; }
+td.num { text-align:right; white-space:nowrap; }
+table.grid td { text-align:right; }
+table.grid td.neg { background:var(--neg-bg); color:var(--neg-fg); }
+table.grid td.low { background:var(--low-bg); color:var(--low-fg); }
+table.grid td.mid { background:var(--mid-bg); color:var(--mid-fg); }
+table.grid td.high { background:var(--high-bg); color:var(--high-fg); font-weight:500; }
+.cite { display:none; margin-left:4px; font-family:"Source Code Pro",monospace; font-size:10.5px; background:var(--cite-bg); color:var(--cite-fg); padding:0 4px; border-radius:2px; white-space:nowrap; vertical-align:baseline; }
+body.show-cites .cite { display:inline; }
+.toggle { display:flex; align-items:center; gap:8px; font-size:13.5px; color:var(--ink2); }
+.toggle input { width:16px; height:16px; }
+.toggle input:focus-visible { outline:2px solid var(--accent); outline-offset:2px; }
+footer { color:var(--muted); font-size:12.5px; border-top:1px solid var(--line); padding-top:16px; display:grid; gap:6px; }
+@media (max-width:720px) { .tiles { grid-template-columns:1fr 1fr; } h1 { font-size:28px; } }
+@media (max-width:420px) { .tiles { grid-template-columns:1fr; } }
+@media (prefers-reduced-motion: no-preference) { html { scroll-behavior:smooth; } }
+
+sup a { text-decoration: none; }
+.footnote { font-size: 0.92em; color: var(--muted); border-top: 1px solid var(--line); margin-top: 2rem; padding-top: 1rem; }
+.footnote ol { padding-left: 1.4em; }
+</style>
+<div class="page">
+<header>
+  <div class="eyebrow">Deep research follow up against the SEC filings, coordinated on Fable 5.1, 2026-10-12</div>
+  <h1>Bonds price Unisys worse than its rating</h1>
+</header>
+<nav class="toc" aria-label="Sections"><a href="#s1">Seven framework families, with market signals now ranked second</a><a href="#s2">What changed against the filings</a><a href="#s3">Cash runway clears 2026; guidance arithmetic leaves a 325 to 456 gap at 2031</a><a href="#s4">Bond and equity markets now price Unisys between B and CCC</a><a href="#s5">Accounting scores still flash distress, for historical reasons</a><a href="#s6">Precedents point to the 2029 to 2031 refinancing</a><a href="#s7">Conclusion</a></nav>
+<section id="s0"><p><em>Research report, 12 October 2026. This version replaces the snippet grade figures of the 11 October report with figures read from the FY2025 10-K, the Q1 and Q2 2026 10-Qs, the 2026 earnings releases and the filed Investor Day deck, plus a dated FINRA bond print, a 252 day equity volatility and the Treasury curve. All model outputs are cited from the script results in <a href="../research_notes/Unisys%20gaps%20against%20the%20filings/unisys_metrics.md">unisys_metrics.md</a> and <a href="../research_notes/Unisys%20gaps%20against%20the%20filings/unisys_metrics.json">unisys_metrics.json</a>, not recomputed here. USD millions unless stated.</em></p>
+<p>Unisys should still be judged first on a pension adjusted liquidity and cash flow framework, but the filing grade rerun moves market signals above the agency rating map, because the market now has dated numbers and they disagree with the rating. The filings confirm the near term picture: no going concern language anywhere, an unqualified audit, <strong>liquidity of 424.0</strong> at 30 June 2026 (cash 324.3 plus 99.7 of undrawn ABL availability), and no funded maturity before the <strong>698.4 of 10.625% notes due 15 January 2031</strong>. They also confirm the medium term problem, and sharpen it: holding the company's own 2026 guidance flat, free cash flow after pension turns negative every year from 2027 and leaves <strong>242.9 of cash against the 698.4 maturity, a shortfall of 455.5</strong>. That is arithmetic on stated guidance, not a forecast. The rating view (S&amp;P B, Moody's B2, stable, last confirmed in February 2026) maps to <strong>2.93% one year and 15.6% five year default</strong> on a secondary copy of S&amp;P's table. The market reads worse. The notes traded at <strong>94.5 to yield 12.29% on 7 October 2026</strong>, a spread of 7.32 points that implies a risk neutral <strong>11.5% one year default probability at 40% recovery</strong>, 3.9 times the B rate and 37% of the way from B to CCC. The equity, at $2.22 and a market value of 161.9 against 733.5 of debt, gives a naive distance to default probability of <strong>24.2% or 83.4%</strong> depending only on the drift assumption. The verdict therefore shifts: one year default risk stays low on cash grounds, the rating's 3% is a floor rather than a central estimate, and the market prices the 2031 refinancing closer to CCC than to B. Three gaps remain open: no filing states a mid 2026 pension deficit, neither the 2031 notes' issue rating nor Moody's own default table was retrieved, and the S&amp;P table is a secondary copy.</p>
+</section>
+<section id="s1"><h2 id="seven-framework-families-with-market-signals-now-ranked-second">Seven framework families, with market signals now ranked second</h2>
+<p>The ranking still turns on one question: does the framework see what can push Unisys into default? For this company that is cash leaving through pension contributions, a coupon of about 74 a year and capex, set against a shrinking legacy IT business, with one funded maturity in January 2031. Book equity is negative because of an accumulated deficit of <strong>2,478.9 at 31 December 2025 and 2,610.0 at 30 June 2026</strong> (<a href="https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm">10-K</a>; <a href="https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm">Q2 10-Q</a>), so any model that leans on retained earnings reads distress regardless of liquidity.</p>
+<div class="scroll"><table>
+<thead>
+<tr>
+<th>Rank</th>
+<th>Framework</th>
+<th>Fit for Unisys</th>
+<th>Applied on filing grade inputs?</th>
+<th>What it says now</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1 (unchanged)</td>
+<td>Pension adjusted liquidity and cash flow runway (agency style leverage, ASC 205-40 one year test)</td>
+<td>Best. Sees maturities, pension cash calls, coupon, ABL terms</td>
+<td>Yes, from the 10-K, 10-Qs and filed guidance</td>
+<td>Low 12 month risk; 324.6 to 455.5 shortfall at the 2031 maturity, as arithmetic on guidance held flat, not a forecast</td>
+</tr>
+<tr>
+<td>2 (up from 3)</td>
+<td>Market based: bond spread PD, naive distance to default, with the CHS hazard model as the design reference</td>
+<td>Strong. Prices the one secured claim daily</td>
+<td>Yes. One dated bond print, 252 day volatility, Treasury curve</td>
+<td>Bond: 11.5% (40% recovery) or 16.7% (60%) one year, risk neutral. Naive DD: 24.2% or 83.4% by drift</td>
+</tr>
+<tr>
+<td>3 (down from 2)</td>
+<td>Agency rating mapped to historical default tables</td>
+<td>Strong in design, but stale and category level</td>
+<td>Partly. Ratings dated February 2026; S&amp;P table secondary; Moody's table missing</td>
+<td>B / B2 stable: 2.93% one year, 15.6% five year</td>
+</tr>
+<tr>
+<td>4 (unchanged)</td>
+<td>Precedent analysis (filers versus non filers)</td>
+<td>Useful cross check on triggers</td>
+<td>Partly</td>
+<td>Unisys resembles non filers on liquidity, filers on cash generation</td>
+</tr>
+<tr>
+<td>5 (unchanged)</td>
+<td>Ohlson O and Zmijewski</td>
+<td>Weak. Liabilities above assets saturate the leverage term</td>
+<td>Zmijewski yes; Ohlson still incomplete</td>
+<td>Zmijewski 97.1% to 99.99% failure; Ohlson partial sum 4.7 to 5.0</td>
+</tr>
+<tr>
+<td>6 (unchanged)</td>
+<td>Altman Z''</td>
+<td>Weak. Retained earnings term swamps everything</td>
+<td>Yes</td>
+<td>Distress in every period and variant</td>
+</tr>
+<tr>
+<td>7 (unchanged)</td>
+<td>Original Z, Z', Springate, Grover, Beneish, Piotroski</td>
+<td>Poor. Out of sample, blind to leverage, or not default models</td>
+<td>Some</td>
+<td>Grover reads healthy only until pension charges enter EBIT</td>
+</tr>
+</tbody>
+</table></div>
+<p>Two changes need defending. Market signals move up because the earlier ranking held them back only for missing inputs, and the inputs now exist. The design case was always strong: Campbell, Hilscher and Szilagyi found a model combining accounting and market measures forecasts failure better than leading alternatives (<a href="https://econbiz.de/Record/in-search-of-distress-risk-campbell-john/10003823141">EconBiz</a>), and Bharath and Shumway found a naive distance to default performs as well as the full Merton model (<a href="https://ideas.repec.org/a/oup/rfinst/v21y2008i3p1339-1369.html">IDEAS/RePEc</a>). The rating map moves down because its only primary evidence is one sentence in a 10-K filed on 25 February 2026, the Q2 10-Q contains no rating sentence, and no 2026 action was found (<a href="https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm">10-K</a>; <a href="https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm">Q2 10-Q</a>). Since then Unisys has written off all remaining DWS goodwill and its stock has fallen from $3.66 at 30 June to $2.22. A rating that predates those events is weaker evidence than a bond print from last week. Within the market family the bond leg carries the weight, because it prices the secured claim directly; the equity leg swings from 24.2% to 83.4% on one assumption and serves as a bound, not a point estimate. Cash runway stays first because both market numbers are risk neutral or drift dependent, while the filings answer the one year question directly.</p>
+<p>The rest of the ordering rests on the same sourced points as before. Moody's standard adjustment treats the underfunded pension as debt (<a href="https://www.ipe.com/moodys-clarifies-ratings-for-unfunded-pensions/940.article">IPE</a>), which is why the agency framework still beats the accounting scores. The Altman family shows only about <strong>0.75 accuracy</strong> internationally (<a href="https://international.vlex.com/vid/financial-distress-prediction-in-855618057">vLex abstract</a>), is blind to unfunded pensions (<a href="https://pro.stockalarm.io/blog/altman-z-score-guide">StockAlarm guide</a>), and was fitted on manufacturers and industrials (<a href="https://metricgate.com/docs/altman-z-score/">MetricGate</a>). Beneish and Piotroski screen for manipulation and value, not default (<a href="https://bpb-us-w2.wpmucdn.com/u.osu.edu/dist/3/40936/files/2016/12/M-Score-pa6gdy.pdf">Ohio State handout</a>; <a href="https://alphaarchitect.com/?p=18498">Alpha Architect</a>). No source tested any of these models on firms combining negative book equity with a large pension deficit, so the ranking is reasoned from model design.</p>
+</section>
+<section id="s2"><h2 id="what-changed-against-the-filings">What changed against the filings</h2>
+<p>All six conflicts listed in the earlier report now resolve to a filed figure or to a confirmed absence of one. The table gives the figure the filings support; every row is drawn from the conflict block in <a href="../research_notes/Unisys%20gaps%20against%20the%20filings/unisys_metrics.json">unisys_metrics.json</a>.</p>
+<div class="scroll"><table>
+<thead>
+<tr>
+<th>Conflict</th>
+<th>Figure the filings support</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1. Total debt</td>
+<td><strong>733.5 carrying at 30 June 2026</strong> (notes 686.9, finance leases 37.3, other 9.3); 745.0 at face; 741.7 at 31 December 2025. The aggregator's 729 was the long term debt line</td>
+<td><a href="https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm">Q2 10-Q</a></td>
+</tr>
+<tr>
+<td>2. Net leverage</td>
+<td>Company stated <strong>2.9x including pension at 31 March 2026</strong>. On filed inputs, 30 June 2026 is <strong>3.10x including pension and 1.48x excluding</strong> on carrying debt (3.14x and 1.52x at face), using the December deficit because no June deficit exists. The 2.8x maps to 31 December 2025; 1.3x excluding pension is the 31 March figure</td>
+<td><a href="https://www.sec.gov/Archives/edgar/data/746838/000110465926069244/tm2616122d1_ex99-1.htm">Investor Day deck</a>; <a href="../research_notes/Unisys%20gaps%20against%20the%20filings/unisys_metrics.md">unisys_metrics.md</a></td>
+</tr>
+<tr>
+<td>3. 2026 pension contributions</td>
+<td><strong>97 to the defined benefit plans</strong> (US 47, international 50) per both 2026 10-Qs; 100 with the 3 postretirement contribution; 102 in the Investor Day deck. The 10-K's 87 is superseded, and 92 was the FY2024 10-K's estimate for 2025</td>
+<td><a href="https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm">Q2 10-Q</a>; <a href="https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm">Q1 10-Q</a></td>
+</tr>
+<tr>
+<td>4. Mid 2026 pension deficit</td>
+<td><strong>No filed figure.</strong> The Q2 release says only that the "estimated global deficit is improving". Last stated deficit is <strong>448.5 at 31 December 2025</strong>. The 30 June balance sheet net pension position of 446.9 is a different measure; the secondary "about 30 improvement" is not in any filing</td>
+<td><a href="https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm">Q2 release</a>; <a href="https://www.sec.gov/Archives/edgar/data/746838/000074683826000003/q42025earningsrelease.htm">Q4 2025 release</a></td>
+</tr>
+<tr>
+<td>5. Q2 2026 free cash flow</td>
+<td><strong>−49.0</strong> (operations −26.3, software −10.7, properties −12.0); H1 2026 −74.5. The −38.3 aggregator figure has no filed basis</td>
+<td><a href="https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm">Q2 release</a></td>
+</tr>
+<tr>
+<td>6. FY2026 revenue guidance</td>
+<td><strong>Raised once, never lowered</strong>: constant currency moved from (6.5)% to (4.5)% to <strong>(5.0)% to (3.5)%</strong> at the 2 June Investor Day and was reaffirmed on 29 July. Benzinga's "lowered" range mixes the constant currency dollar range with the June reported currency range</td>
+<td><a href="https://www.sec.gov/Archives/edgar/data/746838/000110465926069244/tm2616122d1_ex99-1.htm">Investor Day deck</a>; <a href="https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm">Q2 release</a></td>
+</tr>
+</tbody>
+</table></div>
+<p>The filings also contradict or correct several claims the earlier report presented as settled.</p>
+<div class="scroll"><table>
+<thead>
+<tr>
+<th>Earlier claim</th>
+<th>What the filings show</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>"$2.6 billion accumulated deficit" used as the year end figure</td>
+<td>2,478.9 at 31 December 2025; 2,610.0 is the 30 June 2026 figure</td>
+<td><a href="https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm">10-K</a>; <a href="https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm">Q2 10-Q</a></td>
+</tr>
+<tr>
+<td>1,198.2 "total debt" on the 1Q26 slide was a jumbled extraction, only close to debt plus pension</td>
+<td>It is exactly face debt of 749.7 at 31 March 2026 plus the 448.5 deficit, the same "Total Debt, including pension" construct the July 2025 deck uses</td>
+<td><a href="https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm">Q1 10-Q</a>; <a href="https://www.sec.gov/Archives/edgar/data/746838/000110465925070218/tm2521530d1_ex99-1.htm">July 2025 deck</a></td>
+</tr>
+<tr>
+<td>About 105 of pension contributions in 2027</td>
+<td>105 in the 10-K and Q1 10-Q, <strong>104 in the Q2 10-Q</strong>, the latest filing. The 241 for 2028 to 2030 appears only in the 10-K, as an aggregate with no yearly split</td>
+<td><a href="https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm">Q2 10-Q</a>; <a href="https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm">10-K</a></td>
+</tr>
+<tr>
+<td>A roughly 200 New York Life annuity closed on 16 September 2026, bringing US liability removals to about 520</td>
+<td><strong>No 8-K or other Unisys filing exists after 4 September 2026</strong> in the EDGAR full index. The only filed removal is about 316 in September 2025, against a stated goal of about 600 by end 2026. The September 2026 deal and its expected 150 charge remain secondary</td>
+<td><a href="https://www.sec.gov/Archives/edgar/full-index/2026/QTR3/company.idx">EDGAR Q3 index</a>; <a href="https://www.sec.gov/Archives/edgar/full-index/2026/QTR4/company.idx">EDGAR Q4 index</a>; <a href="https://www.placera.se/pressmeddelanden/unisys-unisys-transfers-approximately-200-million-of-its-u-s-defined-benefit-pension-obligations-to-new-york-life-through-the-purchase-of-a-group-annuity-contract-20260916">Placera</a></td>
+</tr>
+<tr>
+<td>The notes "stayed near par"</td>
+<td>Fair value fell from 717.5 at 31 December 2025 to <strong>601.1 at 31 March 2026</strong> and 658.0 at 30 June; TradingView shows an all time low of 83.4 on 31 March 2026 and 94.5 on 7 October</td>
+<td><a href="https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm">Q1 10-Q</a>; <a href="https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm">Q2 10-Q</a>; <a href="https://www.tradingview.com/symbols/FINRA-UIS6102484/">TradingView FINRA</a></td>
+</tr>
+<tr>
+<td>The ABL springs if required US contributions exceed 100, unless liquidity exceeds 130 and a coverage test is met</td>
+<td>The trigger is net US contributions above 100 <strong>payable to the PBGC</strong>, and it is avoided only if Liquidity also exceeds the payment itself. The prong tied to the notes' maturity cannot bind before the ABL's own June 2030 maturity</td>
+<td><a href="https://www.sec.gov/Archives/edgar/data/746838/000110465925063658/tm2517689d2_ex10-3.htm">ABL amendment</a></td>
+</tr>
+<tr>
+<td>No going concern paragraph or auditor opinion was read</td>
+<td>Grant Thornton issued an unqualified opinion; text searches of the 10-K, both 10-Qs and the releases return <strong>zero</strong> hits for "going concern" or "substantial doubt"</td>
+<td><a href="https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm">10-K</a></td>
+</tr>
+<tr>
+<td>The $1.6 note repurchase at 87.5 cents had an unknown date</td>
+<td>It fell entirely in Q1 2026; no exact date is stated</td>
+<td><a href="https://www.sec.gov/Archives/edgar/data/746838/000074683826000018/uis-20260331.htm">Q1 10-Q</a></td>
+</tr>
+</tbody>
+</table></div>
+<p>Some things remain thin. No filing states a 30 June 2026 pension deficit, so every leverage figure including pension at that date uses the December number. Neither agency's issue rating on the 2031 notes was retrieved, nor any recovery rating (<a href="../research_notes/Unisys%20gaps%20against%20the%20filings/market_inputs.json">market_inputs.json</a>). Moody's own default table was not retrievable, and the only B2 row seen comes from a 2004 edition, too old to use. The S&amp;P table is a secondary copy of the 2024 study, not the primary PDF. The Zmijewski set B coefficients were recalled rather than sourced, Ohlson still lacks its size term, and the bond yield rests on one thin print. The Q3 2026 10-Q, due in early November, should settle the September annuity and the June deficit question.</p>
+</section>
+<section id="s3"><h2 id="cash-runway-clears-2026-guidance-arithmetic-leaves-a-325-to-456-gap-at-2031">Cash runway clears 2026; guidance arithmetic leaves a 325 to 456 gap at 2031</h2>
+<p>On the top ranked framework Unisys is liquid for now. The debt is one instrument: <strong>698.4 face of 10.625% senior secured notes due 15 January 2031</strong>, carrying 686.9, plus 37.3 of finance leases and 9.3 of other debt (<a href="https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm">Q2 10-Q</a>). Scheduled maturities before 2031 are 5.4 or less a year (<a href="https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm">10-K</a>). The 125 ABL runs to 27 June 2030, was undrawn at 30 June with <strong>99.7 of availability</strong>, and its only financial covenant, a 1.00x fixed charge test, applies only if availability falls below 12.5 (<a href="https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm">Q2 10-Q</a>; <a href="https://www.sec.gov/Archives/edgar/data/746838/000110465925063658/tm2517689d2_ex10-3.htm">ABL amendment</a>). Management says it has met all covenants and expects adequate liquidity "for at least the next twelve months", and no filing carries going concern language (<a href="https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm">Q2 10-Q</a>). That clears the ASC 205-40 bar, which asks only whether failure within a year is probable (<a href="https://www.gaapdynamics.com/reminders-about-going-concern-requirements-asc-205-40/">GAAP Dynamics</a>). One caution: 197.6 of the 324.3 cash sits abroad, about a third of it not readily transferable.</p>
+<p>The pension is shrinking as a claim but not yet as a cash call. The global deficit fell from <strong>750.2 to 448.5</strong> in 2025 (US 281.2, international 167.3), mostly because Unisys paid in 343.7, including a 250 discretionary contribution funded about 200 from the notes (<a href="https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm">10-K</a>). Contributions run at 97 in 2026, <strong>104 in 2027</strong> and 241 across 2028 to 2030 (<a href="https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm">Q2 10-Q</a>; <a href="https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm">10-K</a>). The springing ABL trigger is not close: the US share of 2026 is 47, and the 2027 global 104 includes international plans. The 10-K's own risk factor names the downside plainly: if operations cannot fund contributions, Unisys "may be forced to ... seek additional equity capital, waiver or bankruptcy protection".</p>
+<p>Cash generation is the weak point. Company defined free cash flow, which already deducts pension, was <strong>−217.6 in FY2025, −74.5 in H1 2026 and +31.2 over the twelve months to June</strong>; before pension it was 127.7, −16.4 and 147.0 (<a href="../research_notes/Unisys%20gaps%20against%20the%20filings/unisys_metrics.md">unisys_metrics.md</a>). Interest expense more than doubled to 36.8 in H1 2026 from 16.4 a year earlier. Adjusted EBITDA covers interest <strong>3.75 times</strong> on a trailing basis, down from 9.16 in FY2024; operating cash flow covers it 1.52 times, or 3.09 before pension. Pension adjusted leverage at 30 June is 4.27x gross and 3.10x net, against the company's target of below 2.0x by end 2029 (<a href="https://www.sec.gov/Archives/edgar/data/746838/000110465926069244/tm2616122d1_ex99-1.htm">Investor Day deck</a>). Operations also fell short of the guide in the first half: H1 non GAAP operating margin was <strong>5.0% against a 9% to 11% full year guide</strong>, and Q2 brought an operating loss of 32.9 after a 48.7 impairment that cleared the remaining DWS goodwill (<a href="https://www.sec.gov/Archives/edgar/data/746838/000074683826000025/q22026earningsrelease.htm">Q2 release</a>; <a href="https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm">Q2 10-Q</a>).</p>
+<p>The runway table below is arithmetic on stated guidance held flat, not a forecast. It starts from 30 June cash, takes the 2026 free cash flow guide of about −25 (so +49.5 in the second half), then holds revenue falling 4.25% a year, a 10% non GAAP margin, capex 85, cash taxes 70, other payments 30, the 74.2 coupon and the filed pension schedule (<a href="https://www.sec.gov/Archives/edgar/data/746838/000110465926069244/tm2616122d1_ex99-1.htm">Investor Day deck</a>; <a href="../research_notes/Unisys%20gaps%20against%20the%20filings/unisys_metrics.md">unisys_metrics.md</a>).</p>
+<div class="scroll"><table>
+<thead>
+<tr>
+<th>Year (arithmetic on stated guidance, not a forecast)</th>
+<th>Revenue</th>
+<th>FCF after pension</th>
+<th>Cash at year end</th>
+<th>Shortfall against 698.4</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>30 June 2026 start</td>
+<td></td>
+<td></td>
+<td class="num">324.3</td>
+<td></td>
+</tr>
+<tr>
+<td class="num">2026</td>
+<td class="num">1,867.2</td>
+<td class="num">49.5</td>
+<td class="num">373.8</td>
+<td class="num">324.6</td>
+</tr>
+<tr>
+<td class="num">2027</td>
+<td class="num">1,787.9</td>
+<td>−40.1</td>
+<td class="num">333.7</td>
+<td class="num">364.7</td>
+</tr>
+<tr>
+<td class="num">2028</td>
+<td class="num">1,711.9</td>
+<td>−23.1</td>
+<td class="num">310.6</td>
+<td class="num">387.8</td>
+</tr>
+<tr>
+<td class="num">2029</td>
+<td class="num">1,639.1</td>
+<td>−30.3</td>
+<td class="num">280.2</td>
+<td class="num">418.2</td>
+</tr>
+<tr>
+<td class="num">2030</td>
+<td class="num">1,569.5</td>
+<td>−37.3</td>
+<td class="num">242.9</td>
+<td class="num">455.5</td>
+</tr>
+<tr>
+<td>15 January 2031 maturity</td>
+<td></td>
+<td></td>
+<td class="num">242.9</td>
+<td class="num">455.5</td>
+</tr>
+</tbody>
+</table></div>
+<p>The break even cases, also arithmetic on stated guidance and not forecasts, bracket the result. If free cash flow after pension were zero from 1 July 2026, the shortfall would be 374.1, or 411.2 with the final coupon; if the second half guide is met and cash then flatlines, it would be 324.6. Scaling the whole cost base with revenue gives 514.6. Repaying principal from cash would need average free cash flow of <strong>81.2 a year</strong> across 2027 to 2030, against negative figures in every year of the flat guidance case. The arithmetic excludes small debt amortisation, FX, working capital, any ABL draw and postretirement contributions after 2026, and its 10% margin is twice what the first half delivered, so it flatters rather than stresses. The conclusion holds either way: the 2031 notes must be refinanced, not repaid.</p>
+</section>
+<section id="s4"><h2 id="bond-and-equity-markets-now-price-unisys-between-b-and-ccc">Bond and equity markets now price Unisys between B and CCC</h2>
+<p>The market evidence the earlier report lacked now exists, and it splits by claim. The 2031 notes printed at <strong>94.5, yield 12.29%, on 7 October 2026</strong> through the FINRA feed, on a 200,000 face bar (<a href="https://www.tradingview.com/symbols/FINRA-UIS6102484/">TradingView FINRA</a>). Against a 4.97% interpolated Treasury (<a href="https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&amp;field_tdr_date_value_month=202610">US Treasury</a>) that is a 7.32 point spread. The 10-Q's Level 2 fair value at 30 June implied a 94.2 price and an <strong>8.14 point spread</strong> (<a href="https://www.sec.gov/Archives/edgar/data/746838/000074683826000027/uis-20260630.htm">Q2 10-Q</a>), so credit spreads tightened slightly over the quarter while Treasury yields rose about 80 basis points at five years (<a href="https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&amp;field_tdr_date_value_month=202606">US Treasury, June</a>). Over the same months the stock fell from $3.66 to <strong>$2.22 on 9 October</strong>, a market value of 161.9 and <strong>−43.8% over one year</strong> (<a href="https://query1.finance.yahoo.com/v8/finance/chart/UIS?range=2y&amp;interval=1d">Yahoo Finance chart API</a>). Equity is worth 0.22 times total debt. The lien structure explains the gap: the notes hold first liens on substantially all non ABL assets and the indenture bars pension obligations from ranking equal to them on collateral (<a href="https://www.sec.gov/Archives/edgar/data/746838/000110465925063658/tm2517689d2_ex4-1.htm">Indenture</a>), so the equity absorbs the pension and refinancing risk first.</p>
+<div class="scroll"><table>
+<thead>
+<tr>
+<th>Market measure (computed, see <a href="../research_notes/Unisys%20gaps%20against%20the%20filings/unisys_metrics.md">unisys_metrics.md</a>)</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Naive DD, drift equal to the one year stock return (−43.80%)</td>
+<td>DD −0.971, PD <strong>83.4%</strong></td>
+</tr>
+<tr>
+<td>Naive DD, drift equal to the one year Treasury (4.47%)</td>
+<td>DD 0.701, PD <strong>24.2%</strong></td>
+</tr>
+<tr>
+<td>Bond implied one year PD, 40% recovery</td>
+<td><strong>11.5%</strong> (hazard 12.20%; 40.6% cumulative to maturity)</td>
+</tr>
+<tr>
+<td>Bond implied one year PD, 60% recovery</td>
+<td><strong>16.7%</strong> (hazard 18.30%; 54.2% cumulative to maturity)</td>
+</tr>
+<tr>
+<td>Bond implied one year PD from the 30 June fair value, 40% recovery</td>
+<td class="num">12.7%</td>
+</tr>
+</tbody>
+</table></div>
+<p>The two distance to default rows use the same equity value, debt, 64.24% volatility and Bharath and Shumway formula; they differ only in drift, and they are deliberately not averaged (<a href="../research_notes/Unisys%20gaps%20against%20the%20filings/market_inputs.json">market_inputs.json</a>). The 83.4% row follows the original specification, which uses the prior year's stock return, but a 44% fall then drives the result. The 24.2% row is the more neutral reading. Both are high, and neither is a forecast. The bond numbers rise with recovery because the same spread, set against a smaller loss per default, implies more defaults. All bond figures are risk neutral and include liquidity and risk premia, so they overstate real world default probability, and they rest on a single thin print.</p>
+<p>The rating map supplies the physical anchor. S&amp;P rates Unisys B and Moody's B2, both stable, as stated in the February 2026 10-K (<a href="https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm">10-K</a>); Moody's 2025 cut cited flat revenue and debt to EBITDA near 4.5x, per a news report rather than the release (<a href="https://www.investing.com/news/stock-market-news/unisys-credit-rating-downgraded-by-moodys-outlook-now-stable-93CH-3938020">Investing.com</a>). S&amp;P's 1981 to 2024 averages give the B category <strong>2.93% at one year, 10.46% at three, 15.6% at five and 22.02% at ten</strong>, and CCC/C <strong>26.12%, 41.32%, 46.53% and 50.43%</strong>, from secondary copies of table 24 (<a href="https://ledgertouch.com/blog/planning-and-costs/default-rates-by-credit-rating">Ledgertouch</a>; <a href="https://investmentgrade.com/bond-ratings/">investmentgrade.com</a>). The bond's one year 11.5% is 3.9 times the B rate and sits 37% of the way to CCC; its cumulative 40.6% to January 2031 sits much closer to CCC's 46.5% five year rate than to B's 15.6% (<a href="../research_notes/Unisys%20gaps%20against%20the%20filings/unisys_metrics.json">unisys_metrics.json</a>). Part of that gap is risk premium, not default risk, but not all of it. S&amp;P reserves CCC for issuers facing at least a one in two chance of default (<a href="https://www.maalot.co.il/publications/mt20131212112800d.pdf">Maalot copy of S&amp;P criteria</a>), and the market is pricing Unisys in that direction while the agencies stand two notches above it.</p>
+</section>
+<section id="s5"><h2 id="accounting-scores-still-flash-distress-for-historical-reasons">Accounting scores still flash distress, for historical reasons</h2>
+<p>The filing grade inputs reproduce the snippet round almost exactly: every score input the snippet round had also found matched the filings to the decimal. Every model built on retained earnings or leverage puts Unisys in distress (<a href="../research_notes/Unisys%20gaps%20against%20the%20filings/unisys_metrics.md">unisys_metrics.md</a>).</p>
+<div class="scroll"><table>
+<thead>
+<tr>
+<th>Score</th>
+<th>FY2025</th>
+<th>Q2 2026 (LTM)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Altman Z'' (no constant / with 3.25)</td>
+<td>−2.988 / 0.262, distress</td>
+<td>−4.278 / −1.028, distress</td>
+</tr>
+<tr>
+<td>Altman Z 1968 / Z' 1983</td>
+<td>−0.411 / 0.131, distress</td>
+<td>−0.759 / −0.081, distress</td>
+</tr>
+<tr>
+<td>Zmijewski set A, probability</td>
+<td class="num">99.87%</td>
+<td class="num">99.99%</td>
+</tr>
+<tr>
+<td>Zmijewski set B, probability</td>
+<td class="num">97.11%</td>
+<td class="num">99.45%</td>
+</tr>
+<tr>
+<td>Ohlson O</td>
+<td>null (partial sum 4.722)</td>
+<td>null (partial sum 5.015)</td>
+</tr>
+<tr>
+<td>Springate (cutoff 0.862)</td>
+<td>0.473, failing</td>
+<td>0.287, failing</td>
+</tr>
+<tr>
+<td>Grover</td>
+<td>0.516, healthy</td>
+<td>0.363, healthy</td>
+</tr>
+</tbody>
+</table></div>
+<p>Z'' uses the standard cutoffs of 1.1 and 2.6 (<a href="https://en.wikipedia.org/wiki/Altman_Z-score">Wikipedia</a>); Zmijewski set A comes from a published source (<a href="https://th.tradingview.com/support/solutions/43000597850/">TradingView</a>), while set B was recalled rather than sourced and deserves less weight. Ohlson stays incomplete because its size term needs a GNP price level index that was not collected (<a href="https://en.wikipedia.org/wiki/Ohlson_O-score">Wikipedia</a>); the remaining terms already sum to 4.7, so the size term alone would have to subtract 4.72 to pull the score to zero. No Taffler score was computed because no verified coefficients exist.</p>
+<p>The sensitivity runs show why these readings deserve little weight. In Z'' the retained earnings term alone contributes <strong>−4.377 at FY2025 and −5.183 at June 2026</strong>; set the accumulated deficit to zero and Z'' with its constant would be <strong>4.639 and 4.155</strong>, comfortably safe. Moving the pension liability into equity barely moves Altman (Z'' with constant rises from 0.262 to 0.559) but cuts the Zmijewski set B probability from 97.1% to 64.9% at FY2025, so the probit leverage term is reacting to the pension as much as to debt. Grover, the lone healthy reading, flips to −0.032 once EBIT is rebuilt as pretax result plus interest, which brings the pension settlement loss and other below the line charges in. The scores measure decades of losses and charges, including the <strong>227.7 pre tax settlement loss</strong> on the September 2025 annuity (<a href="https://www.sec.gov/Archives/edgar/data/746838/000074683826000006/uis-20251231.htm">10-K</a>), not the ability to pay a coupon. The useful residue is narrow: positive working capital of 245.8 at June and a thin operating margin, both of which the stronger frameworks already see.</p>
+</section>
+<section id="s6"><h2 id="precedents-point-to-the-2029-to-2031-refinancing">Precedents point to the 2029 to 2031 refinancing</h2>
+<p>The precedent companies show what usually triggers a filing: debt service and refinancing against falling earnings, with pensions as a secondary claim. Diebold Nixdorf was cut to the triple C category about 13 months before its June 2023 prepackaged Chapter 11, and its FY2022 10-K warned of insufficient liquidity because its ABL borrowing base was constrained (<a href="https://www.creditflux.com/CLOs/2022-05-23/Problem-in-checkout-area-as-CLO-favourite-Diebold-Nixdorf-slips-to-triple-C?d=1">Creditflux</a>; <a href="https://www.sec.gov/Archives/edgar/data/28823/000002882323000078/dbd-20221231.htm">Diebold 10-K</a>). Avaya filed twice and the PBGC took its salaried plan (<a href="https://www.channelweb.co.uk/news/3015219/avaya-close-exiting-chapter">ChannelWeb</a>); Sears's pension became an unsecured claim of about $800 million (<a href="https://ai-cio.com/news/pbgc-sears-reach-chapter-11-bankruptcy-settlement">AI-CIO</a>). Non filers pushed maturities out and kept cash flow positive: Pitney Bowes generated $358 million of free cash flow in 2025 (<a href="https://www.businesswire.com/news/home/20260217119288/en/Pitney-Bowes-Discloses-Financial-Results-for-Fourth-Quarter-and-Full-Year-2025-and-Issues-CEO-Letter">Business Wire</a>), while Xerox, with 2028 maturities and leverage near 6x, was cut to Caa2 in March 2026 (<a href="https://www.action-intell.com/2026/03/16/moodys-downgrades-xerox-debt-further-into-junk-territory/">Action Intell</a>). Unisys itself escaped an expected filing around 1990 by cutting debt from $4 billion to $1.1 billion by 1993 (<a href="https://washingtontechnology.com/1994/10/unisys-troubling-transformation/325534">Washington Technology</a>).</p>
+<p>Today Unisys shows none of Diebold's warning signs: no CCC rating, no liquidity warning, an undrawn ABL with ample availability. It lacks Pitney Bowes's main defence, free cash flow after all claims, and its bond trades well below what its rating implies. The indenture frames the refinancing. The notes become callable at 105.313 in January 2028, falling to par in January 2030, and new pari passu debt beyond a fixed basket requires total net leverage of 1.70x or less (<a href="https://www.sec.gov/Archives/edgar/data/746838/000110465925063658/tm2517689d2_ex4-1.htm">Indenture</a>). The ABL matures in June 2030, about seven months before the notes, so both facilities need replacing within the same window. A clean refinancing therefore needs either the company's sub 2.0x pension inclusive leverage target by 2029 or a lender willing to accept something close to today's 12% yield.</p>
+</section>
+<section id="s7"><h2 id="conclusion">Conclusion</h2>
+<p>The filings did not overturn the earlier verdict so much as remove its comfort. The snippet round leaned on a near par bond and a stable B rating to put risk near 3% a year; the filed fair values and the FINRA price history show the notes already fell to the low to mid 80s in March, and the dated October print prices a cumulative risk to maturity that looks more like CCC than B. The best reading is now a range with a clear shape: low one year risk, because liquidity and the maturity wall are both confirmed, and a five year risk that runs well above the 15.6% B average, because the runway arithmetic shows no path to repaying the 2031 notes from cash and the market knows it. The rating is the lagging indicator here; S&amp;P reports that 91.7% of 2024 defaulters rated at the start of the year had been cut to CCC+ or lower before they defaulted (<a href="https://www.spglobal.com/ratings/en/research/articles/250327-default-transition-and-recovery-2024-annual-global-corporate-default-and-rating-transition-study-13452126">S&amp;P</a>), so a stable B two notches above that line is the start of the warning sequence, not its absence.</p>
+<p>The next three months will test this. The Q3 10-Q in early November should confirm or deny the September annuity, report the settlement charge and possibly a funded status that fills the mid 2026 deficit gap. The test that matters most is whether second half free cash flow reaches +49.5, the arithmetic remainder of the full year guide, after a first half margin of 5%. A miss there, a downgrade toward CCC or Caa, or the bond falling back toward its March lows would mark the shift from refinancing risk to default risk. A hit, with the bond holding in the mid 90s, would leave the 2028 call date as the first real window to refinance on survivable terms.</p></section>
+<footer>
+  <div>Research report produced by a coordinated deep research run: four parallel research tracks on web sources, synthesised by a report writer, with every claim footnoted to its source. Figures reached this environment through web search results only; filing pages were not fetchable. This is analysis, not investment advice.</div>
+</footer>
+</div>
