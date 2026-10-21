@@ -1,0 +1,1410 @@
+<title>Every top Chinese compounder crashed along the way</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&family=Source+Sans+3:wght@400;600&family=Source+Code+Pro:wght@400;500&display=swap">
+<style>
+:root {
+  --paper:#F2F4F6; --surface:#FFFFFF; --ink:#18232E; --ink2:#41505E; --muted:#6F7C89; --line:#D6DCE2;
+  --accent:#1F5F8B; --accent-ink:#164A6E; --accent-bg:#E4EEF5;
+  --neg-bg:#F6DEDB; --neg-fg:#8A2A22; --low-bg:#EEF0F2; --low-fg:#41505E; --mid-bg:#E1EEE6; --mid-fg:#245A3C; --high-bg:#BFDCCB; --high-fg:#173F29;
+  --verdict-bg:#F5E8D8; --verdict-fg:#7A3E0C; --verdict-line:#C98A4B;
+  --cite-bg:#EAEEF2; --cite-fg:#5B6975;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --paper:#12181E; --surface:#1A2229; --ink:#E6EBEF; --ink2:#B4BEC8; --muted:#8593A0; --line:#2C3740;
+  --accent:#6FB0DC; --accent-ink:#9CC9EA; --accent-bg:#1E3140;
+  --neg-bg:#4A2320; --neg-fg:#F0A79F; --low-bg:#232C34; --low-fg:#B4BEC8; --mid-bg:#1F3A2B; --mid-fg:#A9DBBB; --high-bg:#25563A; --high-fg:#D2F0DC;
+  --verdict-bg:#3A2A18; --verdict-fg:#F1C892; --verdict-line:#9A6A34;
+  --cite-bg:#232C34; --cite-fg:#8FA0AE;
+} }
+:root[data-theme="dark"] {
+  --paper:#12181E; --surface:#1A2229; --ink:#E6EBEF; --ink2:#B4BEC8; --muted:#8593A0; --line:#2C3740;
+  --accent:#6FB0DC; --accent-ink:#9CC9EA; --accent-bg:#1E3140;
+  --neg-bg:#4A2320; --neg-fg:#F0A79F; --low-bg:#232C34; --low-fg:#B4BEC8; --mid-bg:#1F3A2B; --mid-fg:#A9DBBB; --high-bg:#25563A; --high-fg:#D2F0DC;
+  --verdict-bg:#3A2A18; --verdict-fg:#F1C892; --verdict-line:#9A6A34;
+  --cite-bg:#232C34; --cite-fg:#8FA0AE;
+}
+* { box-sizing:border-box; }
+body { margin:0; background:var(--paper); color:var(--ink); font-family:"Source Sans 3","Helvetica Neue",Arial,sans-serif; font-size:16px; line-height:1.55; padding-block:40px 80px; padding-inline:20px; }
+.page { max-width:800px; margin:0 auto; display:grid; gap:36px; }
+h1,h2,h3 { font-family:"Source Serif 4",Georgia,serif; margin:0; text-wrap:balance; letter-spacing:-0.005em; }
+h1 { font-size:34px; font-weight:600; line-height:1.15; }
+h2 { font-size:22px; font-weight:600; padding-top:8px; }
+h3 { font-size:17px; font-weight:600; margin-top:6px; }
+p { margin:0; max-width:70ch; }
+a { color:var(--accent); word-break:break-all; }
+.eyebrow { font-size:11.5px; letter-spacing:.09em; text-transform:uppercase; color:var(--muted); font-weight:600; }
+header { display:grid; gap:14px; padding-bottom:24px; border-bottom:1px solid var(--line); }
+.meta { display:flex; flex-wrap:wrap; gap:6px 24px; font-size:13.5px; color:var(--ink2); }
+.meta b { color:var(--ink); font-weight:600; }
+.num, td.num, .tile .val { font-family:"Source Code Pro",Menlo,Consolas,monospace; font-variant-numeric:tabular-nums; }
+.banner { background:var(--verdict-bg); color:var(--verdict-fg); border-left:4px solid var(--verdict-line); padding:18px 20px; display:grid; gap:14px; }
+.banner .big { font-family:"Source Serif 4",Georgia,serif; font-size:30px; font-weight:600; line-height:1.1; }
+.banner .sub { font-size:14px; }
+.tiles { display:grid; grid-template-columns:repeat(4,1fr); gap:10px; }
+.tile { background:var(--surface); border:1px solid var(--line); padding:12px 14px; display:grid; gap:4px; align-content:start; }
+.tile .lab { font-size:11.5px; letter-spacing:.06em; text-transform:uppercase; color:var(--muted); font-weight:600; }
+.tile .val { font-size:22px; font-weight:500; color:var(--ink); }
+.tile .note { font-size:12.5px; color:var(--ink2); }
+nav.toc { display:flex; flex-wrap:wrap; gap:6px 14px; font-size:13.5px; padding:12px 0; border-top:1px solid var(--line); border-bottom:1px solid var(--line); }
+nav.toc a { text-decoration:none; color:var(--accent-ink); }
+nav.toc a:hover, nav.toc a:focus-visible { text-decoration:underline; }
+section { display:grid; gap:14px; }
+.verdict-line { font-family:"Source Serif 4",Georgia,serif; font-size:19px; font-weight:600; color:var(--verdict-fg); }
+.label { font-size:12px; letter-spacing:.07em; text-transform:uppercase; color:var(--muted); font-weight:600; margin-top:6px; }
+ol,ul { margin:0; padding-left:22px; display:grid; gap:10px; max-width:70ch; }
+.scroll { overflow-x:auto; border:1px solid var(--line); background:var(--surface); }
+table { border-collapse:collapse; width:100%; font-size:13.5px; }
+th,td { text-align:left; vertical-align:top; padding:9px 11px; border-bottom:1px solid var(--line); }
+th { font-size:11.5px; letter-spacing:.06em; text-transform:uppercase; color:var(--muted); font-weight:600; white-space:nowrap; }
+tbody tr:last-child td { border-bottom:0; }
+td.num { text-align:right; white-space:nowrap; }
+table.grid td { text-align:right; }
+table.grid td.neg { background:var(--neg-bg); color:var(--neg-fg); }
+table.grid td.low { background:var(--low-bg); color:var(--low-fg); }
+table.grid td.mid { background:var(--mid-bg); color:var(--mid-fg); }
+table.grid td.high { background:var(--high-bg); color:var(--high-fg); font-weight:500; }
+.cite { display:none; margin-left:4px; font-family:"Source Code Pro",monospace; font-size:10.5px; background:var(--cite-bg); color:var(--cite-fg); padding:0 4px; border-radius:2px; white-space:nowrap; vertical-align:baseline; }
+body.show-cites .cite { display:inline; }
+.toggle { display:flex; align-items:center; gap:8px; font-size:13.5px; color:var(--ink2); }
+.toggle input { width:16px; height:16px; }
+.toggle input:focus-visible { outline:2px solid var(--accent); outline-offset:2px; }
+footer { color:var(--muted); font-size:12.5px; border-top:1px solid var(--line); padding-top:16px; display:grid; gap:6px; }
+@media (max-width:720px) { .tiles { grid-template-columns:1fr 1fr; } h1 { font-size:28px; } }
+@media (max-width:420px) { .tiles { grid-template-columns:1fr; } }
+@media (prefers-reduced-motion: no-preference) { html { scroll-behavior:smooth; } }
+
+sup a { text-decoration: none; }
+.footnote { font-size: 0.92em; color: var(--muted); border-top: 1px solid var(--line); margin-top: 2rem; padding-top: 1rem; }
+.footnote ol { padding-left: 1.4em; }
+td { vertical-align: top; }
+</style>
+<div class="page">
+<header>
+  <div class="eyebrow">Deep research report, coordinated on Opus 5.5, 2026-10-21</div>
+  <h1>Every top Chinese compounder crashed along the way</h1>
+</header>
+<nav class="toc" aria-label="Sections"><a href="#s1">A survivor screen sets the bar at 13.9% a year</a><a href="#s2">The top 100: brands and platforms on top, shells and cycles underneath</a><a href="#s3">No Chinese stock compounded at 12% without falling by half</a><a href="#s4">Earnings rose up to 205 times while valuation multiples fell</a><a href="#s5">Durable ROE needed pricing power, a captive buyer or light assets</a><a href="#s6">Conclusion</a></nav>
+<section id="s0"><p><strong>The 100 best Chinese stocks over 20 years compounded at 13.9% to 27.6% a year, and every one of them fell at least 57% at some point.</strong> Ranked by total return (dividends reinvested) from 20 October 2006 to 20 October 2026, across 1,254 surviving mainland companies listed in Shanghai, Shenzhen, Hong Kong and New York, the list is led by Tencent (27.6% a year, 131x), Shanghai Fudan Microelectronics (25.8%), Grand Pharmaceutical (24.7%), Gree Electric (24.0%), Zangge Mining (22.5%) and Kweichow Moutai (21.8%), against 7.5% a year for the CSI 300 total return index and 5.4% for MSCI China in US dollars. The direct answer to the second question is no: both screens found <strong>zero Chinese stocks that compounded at 12% or more a year with a maximum drawdown shallower than 50%</strong>, and none came close to a smooth line. The closest candidates (NetEase, NARI Technology, Moutai, Gree, Tencent, Jiangsu Hengrui, Yili and, with a large caveat, China Yangtze Power) did not avoid the selloffs; they recovered faster because their earnings kept growing while the market cut their valuation multiples, and earnings growth explains a median of about 95% of their returns. Only 18 of the 100 show a sustainable return on equity (ROE), 44 sustained it partly and 38 did not; about a quarter owe much of their return to shells, reverse mergers or asset injections rather than to a durable business. Every figure rests on a survivor only universe, on price data with known vendor disagreements and on ROE from the Sina and Eastmoney aggregators rather than annual reports, so treat ranks near any cutoff as soft. This is analysis, not investment advice.</p>
+</section>
+<section id="s1"><h2 id="a-survivor-screen-sets-the-bar-at-139-a-year">A survivor screen sets the bar at 13.9% a year</h2>
+<p>The ranking merges two price screens run on daily data to 20 October 2026. The A share screen started from the 1,201 companies on the current Shanghai and Shenzhen lists that were listed by 20 October 2006 and kept 1,085 that traded on at least 90% of window days (<a href="https://query.sse.com.cn/sseQuery/commonQuery.do?sqlId=COMMON_SSE_CP_GPJCTPZ_GPLB_GP_L&amp;STOCK_TYPE=1&amp;isPagination=false">SSE list</a>; <a href="https://www.szse.cn/api/report/ShowReport?SHOWTYPE=xlsx&amp;CATALOGID=1110&amp;TABKEY=tab1">SZSE list</a>). The Hong Kong and US screen fetched all 2,771 HKEX codes and the US listed Chinese names, kept 751 continuous Hong Kong histories and classified 178 of them plus 12 US listings as mainland businesses (<a href="https://www.hkex.com.hk/eng/services/trading/securities/securitieslists/ListOfSecurities.xlsx">HKEX list</a>; <a href="https://www.uscc.gov/research/chinese-companies-listed-major-us-stock-exchanges">USCC list</a>). Total return is the Yahoo adjusted close (<a href="https://query1.finance.yahoo.com/v8/finance/chart/600519.SS?period1=1160006400&amp;interval=1d&amp;events=div,split">Yahoo chart API</a>), cross checked against an independent reconstruction from Tencent raw prices and Sina adjustment factors (<a href="https://finance.sina.com.cn/realstock/company/sh600516/qfq.js">Sina factors</a>) and against stockanalysis.com (<a href="https://stockanalysis.com/api/charts/s/sha-600519/MAX/c">stockanalysis chart API</a>). Where a company had both an A and an H share, the listing with the higher CAGR was kept; only Yankuang Energy is affected (H share 15.1% kept over A share 14.3%). <strong>The cutoff is a near tie: rank 100 (Guangdong Fenghua, 13.941%) beats rank 101 (China Resources Jiangzhong, 13.938%).</strong></p>
+<p>The bar these stocks cleared was low because the market itself compounded poorly. <strong>The CSI 300 total return index returned 4.25x (7.5% a year) and MSCI China net in US dollars 2.85x (5.4%), against 8.36x (11.2%) for the S&amp;P 500 total return</strong>; the Hang Seng price index managed 1.4% a year (<a href="https://www.csindex.com.cn/csindex-home/perf/index-perf?indexCode=H00300&amp;startDate=20061020&amp;endDate=20261021">csindex CSI 300 TR</a>; <a href="https://app2.msci.com/products/service/index/indexmaster/getLevelDataForGraph?currency_symbol=USD&amp;index_variant=NETR&amp;start_date=20061001&amp;end_date=20261021&amp;data_frequency=DAILY&amp;baseValue=false&amp;index_codes=302400">MSCI China net</a>; <a href="https://query1.finance.yahoo.com/v8/finance/chart/%5EHSI?period1=1159660800&amp;period2=1792000000&amp;interval=1d">Yahoo ^HSI</a>). An investor sat through four large falls: about 72% for A shares in 2007 to 2008, 47% in 2015 to 2016, 32% in 2018 and 46% for the CSI 300 in 2021 to 2024, when MSCI China fell 64% to October 2022. The "China discount" is visible in valuations: at 30 September 2026 MSCI China traded on 10.2 times forward earnings against 17.9 for MSCI World, 43% cheaper (<a href="https://www.msci.com/documents/10199/255599/msci-china-index-usd-net.pdf">MSCI China factsheet</a>; <a href="https://www.msci.com/documents/10199/178e6643-6ae6-47b9-82be-e1fc565ededb">MSCI World factsheet</a>). Citi traces part of the gap to dilution: since 2002 China's nominal GDP rose 12 times but market capitalisation rose 27 times while the indices rose only 3 times (<a href="https://www.citigroup.com/rcs/citigpa/storage/public/Asia-Pacific-Strategy-China-Will-It-Work-This-Time.pdf">Citi, Feb 2024</a>).</p>
+<p>Three caveats run through every number below. First, <strong>the universe is survivors only</strong>: companies delisted since 2006 are absent (145 Shanghai records alone carry a delisting date, and the state owned US ADRs are gone), which flatters every CAGR. Second, Yahoo mishandles some Chinese bonus issues, rights issues and 2006 to 2008 share reform resumptions; three A share errors were corrected (Henan Lingrui rose from A share rank 98 to 34, which is 43 in the combined list; Sany Heavy and Shanghai Baosight also moved up), three Hong Kong bonus issues were fixed, and vendors still disagree by more than 10% on names such as Chifeng Jilong Gold, Sichuan Road &amp; Bridge, NARI and Yankuang. Third, several stocks traded thinly or were suspended for long stretches, which flattens their drawdowns. The tables flag each of these.</p>
+</section>
+<section id="s2"><h2 id="the-top-100-brands-and-platforms-on-top-shells-and-cycles-underneath">The top 100: brands and platforms on top, shells and cycles underneath</h2>
+<p>The list holds 76 A shares, 23 Hong Kong listings and one US listing (NetEase). <strong>Its median stock compounded at 16.7% a year and suffered a 77.6% maximum drawdown; 59 of the 100 hit their deepest trough in 2008, 36 fell more than 80%, and only NetEase (57.3%) and NARI (57.6%) stayed shallower than 60%.</strong> No stock had fewer than five negative calendar years out of 19. The winners cluster in consumer brands (baijiu, appliances, dairy, jewellery), Chinese medicine and pharma, internet platforms, grid equipment, autos and parts, and a long tail of commodity, chemical and materials cyclicals. ROE verdicts follow the profile notes: "yes" means ROE at or above 15% in about 8 or more of the 10 years 2016 to 2025 without a structural break; "partly" means a majority of one decade, a documented cycle or one off, or 4 to 7 of 10 years; "no" means a commodity or one off boom, thin margins, or a shell or theme driven return. The three researchers applied the rule with judgment, so borderline calls (Xinyi Glass partly, Wanhua yes, both at 8 of 10) are not perfectly uniform. ROE is weighted average ROE from Sina, with Eastmoney as fallback, for A shares, and net profit over average equity from Eastmoney for Hong Kong names (<a href="https://money.finance.sina.com.cn/corp/go.php/vFD_FinancialGuideLine/stockid/600519/ctrl/2025/displaytype/4.phtml">Sina financial guideline</a>; <a href="https://datacenter.eastmoney.com/securities/api/data/v1/get?reportName=RPT_F10_FINANCE_MAINFINADATA&amp;columns=ALL&amp;filter=%28SECUCODE=%22600519.SH%22%29%28REPORT_TYPE=%22%E5%B9%B4%E6%8A%A5%22%29">Eastmoney annual indicators</a>; <a href="https://datacenter.eastmoney.com/securities/api/data/v1/get?reportName=RPT_HKF10_FN_MAININDICATOR&amp;columns=ALL&amp;filter=%28SECURITY_CODE=%2200700%22%29%28DATE_TYPE_CODE=%22001%22%29">Eastmoney HK indicators</a>).</p>
+<p>Columns: CAGR is the 20 year total return CAGR in listing currency; TR x is the total return multiple; Max DD is the largest peak to trough fall on daily data, shown as the size of the fall. Flags: <strong>C</strong> a price data correction was applied; <strong>S</strong> shell, reverse merger, asset injection or turnaround of a near insolvent listed company, so early ROE belongs to a different business; <strong>I</strong> illiquid or long suspensions (A shares traded on under 95% of days; Hong Kong 20% or more zero volume days; Brilliance China a 372 day suspension); <strong>P</strong> penny stock or low quality print the screen says to treat with caution; <strong>V</strong> data vendors disagree on the total return multiple by more than 5%; <strong>L</strong> first trade up to 14 market days after the window start.</p>
+<p><strong>Ranks 1 to 25</strong></p>
+<div class="scroll"><table>
+<thead>
+<tr>
+<th>#</th>
+<th>Company</th>
+<th>Listing</th>
+<th>CAGR %</th>
+<th>TR x</th>
+<th>Max DD %</th>
+<th>Core business</th>
+<th>ROE verdict and reason</th>
+<th>Flags</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="num">1</td>
+<td>Tencent</td>
+<td>0700.HK</td>
+<td class="num">27.6</td>
+<td class="num">130.9</td>
+<td class="num">72.8</td>
+<td>Games, WeChat social network, advertising, fintech and cloud</td>
+<td>Yes: 15%+ all 20 years (low 15.1, 2023); platform scale, 30% net margin, modest debt</td>
+<td></td>
+</tr>
+<tr>
+<td class="num">2</td>
+<td>Shanghai Fudan Microelectronics</td>
+<td>1385.HK</td>
+<td class="num">25.8</td>
+<td class="num">99.2</td>
+<td class="num">78.8</td>
+<td>Chip designer: security and ID chips, memory, meter MCUs, FPGAs</td>
+<td>Partly: 16 to 29% in 2009 to 2016, loss in 2019, 3.9% in 2025; return mostly rerating</td>
+<td></td>
+</tr>
+<tr>
+<td class="num">3</td>
+<td>Grand Pharmaceutical</td>
+<td>0512.HK</td>
+<td class="num">24.7</td>
+<td class="num">82.7</td>
+<td class="num">76.9</td>
+<td>Prescription drugs, nuclear medicine oncology and APIs in China</td>
+<td>Partly: early ROE meaningless on near zero equity; 15 to 23% in 2014 to 2022, 7.4% in 2025 after procurement cuts</td>
+<td>S</td>
+</tr>
+<tr>
+<td class="num">4</td>
+<td>Gree Electric</td>
+<td>000651.SZ</td>
+<td class="num">24.0</td>
+<td class="num">73.8</td>
+<td class="num">65.0</td>
+<td>Household air conditioners and appliances</td>
+<td>Yes: 15%+ all 20 years (low 18.9); brand, dealer network, high payout</td>
+<td></td>
+</tr>
+<tr>
+<td class="num">5</td>
+<td>Zangge Mining</td>
+<td>000408.SZ</td>
+<td class="num">22.5</td>
+<td class="num">57.5</td>
+<td class="num">89.8</td>
+<td>Potash fertiliser and lithium carbonate; stake in Julong Copper</td>
+<td>Partly: pre 2016 ROE is a ceramics shell; since then 2.9 to 50% with commodity prices</td>
+<td>S I</td>
+</tr>
+<tr>
+<td class="num">6</td>
+<td>Shengyi Technology</td>
+<td>600183.SS</td>
+<td class="num">21.9</td>
+<td class="num">52.2</td>
+<td class="num">77.9</td>
+<td>Copper clad laminates and printed circuit boards</td>
+<td>Partly: 15%+ in 7 of 10 years since 2016, but a cyclical input (8.6% in 2023)</td>
+<td></td>
+</tr>
+<tr>
+<td class="num">7</td>
+<td>Kweichow Moutai</td>
+<td>600519.SS</td>
+<td class="num">21.8</td>
+<td class="num">51.5</td>
+<td class="num">62.5</td>
+<td>Moutai baijiu, the premium Chinese liquor</td>
+<td>Yes: 15%+ all 20 years (low 24.4); 91% gross margin, pricing power, almost no debt</td>
+<td></td>
+</tr>
+<tr>
+<td class="num">8</td>
+<td>Zhejiang Sanhua</td>
+<td>002050.SZ</td>
+<td class="num">21.6</td>
+<td class="num">49.7</td>
+<td class="num">74.7</td>
+<td>Refrigeration controls and EV thermal management parts</td>
+<td>Yes since 2015: 15%+ every year; cost leader designed into customers' products</td>
+<td></td>
+</tr>
+<tr>
+<td class="num">9</td>
+<td>Zhejiang NHU</td>
+<td>002001.SZ</td>
+<td class="num">21.5</td>
+<td class="num">49.3</td>
+<td class="num">68.9</td>
+<td>Vitamins, flavours and fragrances, polymer materials</td>
+<td>Partly: 8 of 10 years at 15%+ since 2016, but vitamin prices behave like commodities</td>
+<td></td>
+</tr>
+<tr>
+<td class="num">10</td>
+<td>BYD</td>
+<td>1211.HK</td>
+<td class="num">21.5</td>
+<td class="num">48.9</td>
+<td class="num">87.0</td>
+<td>Electric and hybrid cars, batteries, phone components</td>
+<td>Partly: below 15% in 2010 to 2021; 4 to 5% net margin, 70%+ debt; volume drove return</td>
+<td>V</td>
+</tr>
+<tr>
+<td class="num">11</td>
+<td>NetEase</td>
+<td>NTES</td>
+<td class="num">21.4</td>
+<td class="num">48.2</td>
+<td class="num">57.3</td>
+<td>Online games plus music and other internet services</td>
+<td>Yes: 15%+ in 19 of 20 years; game IP, asset light, 30% net margin</td>
+<td></td>
+</tr>
+<tr>
+<td class="num">12</td>
+<td>AVIC Shenyang Aircraft</td>
+<td>600760.SS</td>
+<td class="num">21.2</td>
+<td class="num">46.4</td>
+<td class="num">73.5</td>
+<td>Military fighter aircraft for the state</td>
+<td>Partly: 2006 to 2015 ROE is a pickup truck shell; 10 to 21% since the 2017 injection, thin margins</td>
+<td>S</td>
+</tr>
+<tr>
+<td class="num">13</td>
+<td>IEIT Systems</td>
+<td>000977.SZ</td>
+<td class="num">21.0</td>
+<td class="num">45.5</td>
+<td class="num">70.1</td>
+<td>Servers, storage and switches for internet and enterprise buyers</td>
+<td>No: under 15% every year since 2016; 1.5% net margin; profit grew from a tiny base</td>
+<td></td>
+</tr>
+<tr>
+<td class="num">14</td>
+<td>China Jushi</td>
+<td>600176.SS</td>
+<td class="num">21.0</td>
+<td class="num">45.3</td>
+<td class="num">70.1</td>
+<td>Glass fibre for composites makers</td>
+<td>Partly: 15%+ only near price peaks (30% in 2021), 10.6% in 2025; cost leader in a cycle</td>
+<td>V</td>
+</tr>
+<tr>
+<td class="num">15</td>
+<td>Sanan Optoelectronics</td>
+<td>600703.SS</td>
+<td class="num">20.9</td>
+<td class="num">44.8</td>
+<td class="num">78.5</td>
+<td>LED and compound semiconductor wafers and chips</td>
+<td>No: one year at 15%+ since 2016, loss in 2025; 2008 reverse listing into an ST shell</td>
+<td>S I</td>
+</tr>
+<tr>
+<td class="num">16</td>
+<td>Sino Biopharmaceutical</td>
+<td>1177.HK</td>
+<td class="num">20.8</td>
+<td class="num">43.8</td>
+<td class="num">77.2</td>
+<td>Branded oncology, liver and respiratory drugs</td>
+<td>Partly: 21 to 25% in 2012 to 2018; 2018 and 2021 inflated by one offs; 7.5 to 11% since 2022</td>
+<td></td>
+</tr>
+<tr>
+<td class="num">17</td>
+<td>Jiangsu Hengrui</td>
+<td>600276.SS</td>
+<td class="num">20.8</td>
+<td class="num">43.6</td>
+<td class="num">71.0</td>
+<td>Oncology and anaesthesia drugs, contrast agents</td>
+<td>Partly: 15%+ every year 2006 to 2020, then 11 to 15% after procurement price cuts</td>
+<td></td>
+</tr>
+<tr>
+<td class="num">18</td>
+<td>China Northern Rare Earth</td>
+<td>600111.SS</td>
+<td class="num">20.5</td>
+<td class="num">41.4</td>
+<td class="num">81.4</td>
+<td>Rare earth oxides and metals</td>
+<td>No: 15%+ only in price spikes (2010 to 2011, 2021 to 2022); 1.1% in 2016</td>
+<td></td>
+</tr>
+<tr>
+<td class="num">19</td>
+<td>Changchun High-Tech</td>
+<td>000661.SZ</td>
+<td class="num">20.3</td>
+<td class="num">40.2</td>
+<td class="num">87.0</td>
+<td>Recombinant growth hormone (GenSci), TCM, property</td>
+<td>Partly: 20 to 31% in 2018 to 2023, 0.7% in 2025 after reimbursement price cuts</td>
+<td></td>
+</tr>
+<tr>
+<td class="num">20</td>
+<td>Anhui Gujing</td>
+<td>000596.SZ</td>
+<td class="num">20.2</td>
+<td class="num">39.9</td>
+<td class="num">80.7</td>
+<td>Gujing Gong baijiu</td>
+<td>Yes (after ST years): 15%+ in 9 of 10 years since 2016; brand, 79% gross margin</td>
+<td></td>
+</tr>
+<tr>
+<td class="num">21</td>
+<td>Hengtong Optic-Electric</td>
+<td>600487.SS</td>
+<td class="num">20.0</td>
+<td class="num">38.1</td>
+<td class="num">79.4</td>
+<td>Power and optical cables, copper conductors, marine cables</td>
+<td>No: 15%+ only in the 2016 to 2018 fibre shortage; 4 to 5% net margin</td>
+<td></td>
+</tr>
+<tr>
+<td class="num">22</td>
+<td>Hundsun Technologies</td>
+<td>600570.SS</td>
+<td class="num">19.8</td>
+<td class="num">37.1</td>
+<td class="num">79.9</td>
+<td>Trading and core systems software for brokers, funds and banks</td>
+<td>Partly: mostly 15%+, but 0.8% in 2016 (regulatory case) and 2019 to 2021 inflated by fair value gains</td>
+<td></td>
+</tr>
+<tr>
+<td class="num">23</td>
+<td>Jilin Huinan Changlong</td>
+<td>8049.HK</td>
+<td class="num">19.8</td>
+<td class="num">36.8</td>
+<td class="num">81.0</td>
+<td>Renal failure capsules and other TCM and biochemical drugs</td>
+<td>Partly: 15%+ in 2011 to 2018, about 10 to 12% since; 84% gross margin</td>
+<td>I</td>
+</tr>
+<tr>
+<td class="num">24</td>
+<td>Pien Tze Huang</td>
+<td>600436.SS</td>
+<td class="num">19.3</td>
+<td class="num">34.2</td>
+<td class="num">77.1</td>
+<td>Pien Tze Huang liver medicine (protected formula)</td>
+<td>Yes: 15%+ in 18 of 20 years; formula and brand; 14.8% in 2025 on bezoar costs</td>
+<td></td>
+</tr>
+<tr>
+<td class="num">25</td>
+<td>Weichai Power</td>
+<td>2338.HK</td>
+<td class="num">19.2</td>
+<td class="num">33.8</td>
+<td class="num">80.2</td>
+<td>Heavy truck engines, transmissions, axles; owns KION</td>
+<td>Partly: 26 to 45% in 2006 to 2011, 4.3% in 2015; truck cycle and leverage</td>
+<td></td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Ranks 26 to 50</strong></p>
+<div class="scroll"><table>
+<thead>
+<tr>
+<th>#</th>
+<th>Company</th>
+<th>Listing</th>
+<th>CAGR %</th>
+<th>TR x</th>
+<th>Max DD %</th>
+<th>Core business</th>
+<th>ROE verdict and reason</th>
+<th>Flags</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="num">26</td>
+<td>Chengdu Xuguang Electronics</td>
+<td>600353.SS</td>
+<td class="num">19.2</td>
+<td class="num">33.4</td>
+<td class="num">78.3</td>
+<td>Vacuum interrupters, aerospace parts, embedded computers</td>
+<td>No: never reached 15%; 4 to 9% net margin; small cap rerating</td>
+<td>L</td>
+</tr>
+<tr>
+<td class="num">27</td>
+<td>Jiangsu Zhongtian Technology</td>
+<td>600522.SS</td>
+<td class="num">19.1</td>
+<td class="num">32.9</td>
+<td class="num">67.6</td>
+<td>Grid cables, optical fibre, marine cables, new energy</td>
+<td>No: under 15% every year since 2016; 5.5% net margin; growth from a small base</td>
+<td></td>
+</tr>
+<tr>
+<td class="num">28</td>
+<td>Chifeng Jilong Gold</td>
+<td>600988.SS</td>
+<td class="num">19.0</td>
+<td class="num">32.3</td>
+<td class="num">79.1</td>
+<td>Gold mining</td>
+<td>No: early ROE sits on a negative equity ST shell; now follows the gold price</td>
+<td>S I V</td>
+</tr>
+<tr>
+<td class="num">29</td>
+<td>Sieyuan Electric</td>
+<td>002028.SZ</td>
+<td class="num">19.0</td>
+<td class="num">32.2</td>
+<td class="num">66.8</td>
+<td>Switchgear, transformers, grid automation</td>
+<td>Partly: 5.6 to 13% in 2011 to 2019, 16 to 23% since 2020 on the grid cycle</td>
+<td></td>
+</tr>
+<tr>
+<td class="num">30</td>
+<td>Glarun Technology</td>
+<td>600562.SS</td>
+<td class="num">18.6</td>
+<td class="num">30.4</td>
+<td class="num">73.5</td>
+<td>Radar for air traffic control and defence</td>
+<td>No: ceramics shell until CETC injected radar assets in 2020; ROE about 10%</td>
+<td>S</td>
+</tr>
+<tr>
+<td class="num">31</td>
+<td>Huagong Tech</td>
+<td>000988.SZ</td>
+<td class="num">18.6</td>
+<td class="num">30.3</td>
+<td class="num">72.3</td>
+<td>Optoelectronic devices, sensors, laser equipment</td>
+<td>No: never reached 15%; steady climb to 14% in 2025</td>
+<td></td>
+</tr>
+<tr>
+<td class="num">32</td>
+<td>CSPC Pharmaceutical</td>
+<td>1093.HK</td>
+<td class="num">18.5</td>
+<td class="num">29.9</td>
+<td class="num">77.0</td>
+<td>Finished drugs plus vitamin C and antibiotic APIs</td>
+<td>Partly: 22 to 25% in 2017 to 2022, 11.9% in 2025 after procurement cuts</td>
+<td></td>
+</tr>
+<tr>
+<td class="num">33</td>
+<td>Hengli Petrochemical</td>
+<td>600346.SS</td>
+<td class="num">18.3</td>
+<td class="num">28.6</td>
+<td class="num">73.6</td>
+<td>Refining, PTA and polyester</td>
+<td>No: 2016 reverse takeover of a loss making shell; 3.5% net margin, 74% debt</td>
+<td>S I</td>
+</tr>
+<tr>
+<td class="num">34</td>
+<td>Sichuan Chuantou Energy</td>
+<td>600674.SS</td>
+<td class="num">18.1</td>
+<td class="num">27.6</td>
+<td class="num">73.4</td>
+<td>Holding in Yalong River hydropower plus a small power business</td>
+<td>No (stable but low): 10 to 13% since 2019; utility returns, not high returns</td>
+<td></td>
+</tr>
+<tr>
+<td class="num">35</td>
+<td>Yutong Bus</td>
+<td>600066.SS</td>
+<td class="num">18.0</td>
+<td class="num">27.5</td>
+<td class="num">76.1</td>
+<td>Large and medium buses, about half exported</td>
+<td>Partly: 18 to 41% to 2017, 3.1% in 2020, 38% in 2025; cyclical</td>
+<td>V</td>
+</tr>
+<tr>
+<td class="num">36</td>
+<td>Fuyao Glass</td>
+<td>600660.SS</td>
+<td class="num">17.9</td>
+<td class="num">26.9</td>
+<td class="num">80.4</td>
+<td>Automotive glass for global carmakers</td>
+<td>Yes: 12 to 36% in every year but 2008; scale, cost leadership, low leverage</td>
+<td>V</td>
+</tr>
+<tr>
+<td class="num">37</td>
+<td>Jiangsu Etern</td>
+<td>600105.SS</td>
+<td class="num">17.9</td>
+<td class="num">26.9</td>
+<td class="num">80.5</td>
+<td>Wire harnesses, power contracting, optical and superconductor cables</td>
+<td>No: 3.2% average since 2016, loss in 2020; theme rerating</td>
+<td></td>
+</tr>
+<tr>
+<td class="num">38</td>
+<td>Hengyi Petrochemical</td>
+<td>000703.SZ</td>
+<td class="num">17.4</td>
+<td class="num">24.7</td>
+<td class="num">85.7</td>
+<td>PTA, polyester and Brunei refining</td>
+<td>No: under 15% every year since 2016, about 4% gross margin; 2011 injection into an ST shell</td>
+<td>S V</td>
+</tr>
+<tr>
+<td class="num">39</td>
+<td>Shanjin International Gold</td>
+<td>000975.SZ</td>
+<td class="num">17.4</td>
+<td class="num">24.6</td>
+<td class="num">83.3</td>
+<td>Gold and lead zinc silver mining plus metals trading</td>
+<td>No: ROE 10% or less to 2019, 22% in 2025 on gold prices; 2012 restructuring</td>
+<td>S I</td>
+</tr>
+<tr>
+<td class="num">40</td>
+<td>Zhejiang Juhua</td>
+<td>600160.SS</td>
+<td class="num">17.3</td>
+<td class="num">24.4</td>
+<td class="num">81.2</td>
+<td>Refrigerants and fluorochemicals</td>
+<td>No: chemical cycle, 0.8% in 2020, 19.6% in 2025 on HFC quota prices</td>
+<td></td>
+</tr>
+<tr>
+<td class="num">41</td>
+<td>Huaxin Building Materials</td>
+<td>600801.SS</td>
+<td class="num">17.3</td>
+<td class="num">24.2</td>
+<td class="num">77.6</td>
+<td>Cement, concrete and aggregates in China and abroad</td>
+<td>Partly: 25 to 36% in the 2018 to 2020 cement boom, 8 to 10% since</td>
+<td></td>
+</tr>
+<tr>
+<td class="num">42</td>
+<td>Shanxi Fenjiu</td>
+<td>600809.SS</td>
+<td class="num">17.2</td>
+<td class="num">24.1</td>
+<td class="num">81.2</td>
+<td>Fenjiu baijiu</td>
+<td>Yes: 15%+ in 17 of 20 years (19 to 45% since 2017); brand pricing power</td>
+<td></td>
+</tr>
+<tr>
+<td class="num">43</td>
+<td>Henan Lingrui</td>
+<td>600285.SS</td>
+<td class="num">17.2</td>
+<td class="num">23.9</td>
+<td class="num">77.6</td>
+<td>TCM plasters and patches sold through pharmacies</td>
+<td>Partly: 6.8% average in 2006 to 2015, 21 to 25% since 2023</td>
+<td>C</td>
+</tr>
+<tr>
+<td class="num">44</td>
+<td>Huadong Medicine</td>
+<td>000963.SZ</td>
+<td class="num">17.1</td>
+<td class="num">23.5</td>
+<td class="num">64.5</td>
+<td>Drug distribution, own branded drugs, aesthetics</td>
+<td>Partly: 18 to 43% to 2020, 14 to 16% after procurement price cuts</td>
+<td>L</td>
+</tr>
+<tr>
+<td class="num">45</td>
+<td>Inner Mongolia Xingye</td>
+<td>000426.SZ</td>
+<td class="num">17.0</td>
+<td class="num">23.0</td>
+<td class="num">75.7</td>
+<td>Silver, tin and zinc mining</td>
+<td>No: price taker, 7.4% average since 2016; former heating company shell</td>
+<td>S I</td>
+</tr>
+<tr>
+<td class="num">46</td>
+<td>Art Group Holdings</td>
+<td>0565.HK</td>
+<td class="num">16.9</td>
+<td class="num">22.8</td>
+<td class="num">88.1</td>
+<td>Zhengzhou mall rental and air cargo charter</td>
+<td>No: ROE meaningless on near zero equity; penny stock spike in 2024 to 2026</td>
+<td>S I P</td>
+</tr>
+<tr>
+<td class="num">47</td>
+<td>NARI Technology</td>
+<td>600406.SS</td>
+<td class="num">16.9</td>
+<td class="num">22.4</td>
+<td class="num">57.6</td>
+<td>Grid automation and dispatch systems for State Grid</td>
+<td>Yes: 13 to 34% every year; captive State Grid customer rather than pricing power</td>
+<td>V L</td>
+</tr>
+<tr>
+<td class="num">48</td>
+<td>Shenzhou International</td>
+<td>2313.HK</td>
+<td class="num">16.8</td>
+<td class="num">22.3</td>
+<td class="num">80.6</td>
+<td>Knitwear maker for Nike, Adidas, Uniqlo</td>
+<td>Yes: 12 to 37% every year; vertical integration and sticky customers</td>
+<td></td>
+</tr>
+<tr>
+<td class="num">49</td>
+<td>Haier Smart Home</td>
+<td>600690.SS</td>
+<td class="num">16.8</td>
+<td class="num">22.2</td>
+<td class="num">73.5</td>
+<td>Refrigerators, washers, air conditioners worldwide</td>
+<td>Yes: 15%+ every year since 2009; brand and scale</td>
+<td></td>
+</tr>
+<tr>
+<td class="num">50</td>
+<td>Unigroup Guoxin</td>
+<td>002049.SZ</td>
+<td class="num">16.8</td>
+<td class="num">22.2</td>
+<td class="num">73.6</td>
+<td>Military special ICs and smart security chips</td>
+<td>No: 7 to 13% outside a 2020 to 2023 boom; lumpy demand</td>
+<td>I</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Ranks 51 to 75</strong></p>
+<div class="scroll"><table>
+<thead>
+<tr>
+<th>#</th>
+<th>Company</th>
+<th>Listing</th>
+<th>CAGR %</th>
+<th>TR x</th>
+<th>Max DD %</th>
+<th>Core business</th>
+<th>ROE verdict and reason</th>
+<th>Flags</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="num">51</td>
+<td>Zijin Mining</td>
+<td>2899.HK</td>
+<td class="num">16.7</td>
+<td class="num">21.9</td>
+<td class="num">89.7</td>
+<td>Gold, copper, zinc and lithium mining</td>
+<td>Partly: 6 to 12% in 2013 to 2020, 21 to 32% since; follows metal prices</td>
+<td>C</td>
+</tr>
+<tr>
+<td class="num">52</td>
+<td>Moon Environment Technology</td>
+<td>000811.SZ</td>
+<td class="num">16.6</td>
+<td class="num">21.7</td>
+<td class="num">75.6</td>
+<td>Industrial refrigeration, compressors, heat pumps</td>
+<td>No: under 15% every year since 2016, 10.5% average</td>
+<td></td>
+</tr>
+<tr>
+<td class="num">53</td>
+<td>Anhui Zhongding</td>
+<td>000887.SZ</td>
+<td class="num">16.6</td>
+<td class="num">21.4</td>
+<td class="num">80.5</td>
+<td>Auto seals, thermal management, air suspension</td>
+<td>Partly: 19 to 34% in 2007 to 2015, 5.5 to 14% after leveraged acquisitions</td>
+<td>S I V</td>
+</tr>
+<tr>
+<td class="num">54</td>
+<td>Essex Bio-Technology</td>
+<td>1061.HK</td>
+<td class="num">16.5</td>
+<td class="num">21.3</td>
+<td class="num">77.1</td>
+<td>Growth factor biologics for surgery and eye care</td>
+<td>Yes: about 20% average in both decades, low leverage; one product family</td>
+<td></td>
+</tr>
+<tr>
+<td class="num">55</td>
+<td>Geely Automobile</td>
+<td>0175.HK</td>
+<td class="num">16.5</td>
+<td class="num">21.2</td>
+<td class="num">83.9</td>
+<td>Mass market cars: Geely, Lynk &amp; Co, Zeekr</td>
+<td>Partly: 36% peak in 2017, 6.8% in 2023; model and price war cycles</td>
+<td></td>
+</tr>
+<tr>
+<td class="num">56</td>
+<td>Tianjin Darentang</td>
+<td>600329.SS</td>
+<td class="num">16.2</td>
+<td class="num">20.1</td>
+<td class="num">63.4</td>
+<td>Century old TCM brands</td>
+<td>No: 10 to 13% to 2022; the 2024 jump is a one off disposal gain</td>
+<td></td>
+</tr>
+<tr>
+<td class="num">57</td>
+<td>Jiangsu Yangnong</td>
+<td>600486.SS</td>
+<td class="num">16.1</td>
+<td class="num">19.8</td>
+<td class="num">66.6</td>
+<td>Pyrethroid insecticides (Sinochem)</td>
+<td>Partly: 17%+ in 2018 to 2023, 11.7% in 2025 as prices fell</td>
+<td></td>
+</tr>
+<tr>
+<td class="num">58</td>
+<td>Apeloa Pharmaceutical</td>
+<td>000739.SZ</td>
+<td class="num">16.1</td>
+<td class="num">19.7</td>
+<td class="num">79.5</td>
+<td>APIs, CDMO and finished drugs</td>
+<td>Partly: above 15% only in 2019 to 2024; APIs behave like commodities</td>
+<td></td>
+</tr>
+<tr>
+<td class="num">59</td>
+<td>Topchoice Medical</td>
+<td>600763.SS</td>
+<td class="num">16.0</td>
+<td class="num">19.4</td>
+<td class="num">88.9</td>
+<td>Dental hospital chain in Zhejiang</td>
+<td>Partly: 18 to 30% in 2010 to 2021, down to 12.2% by 2025</td>
+<td>S L</td>
+</tr>
+<tr>
+<td class="num">60</td>
+<td>Hongfa Technology</td>
+<td>600885.SS</td>
+<td class="num">16.0</td>
+<td class="num">19.3</td>
+<td class="num">71.7</td>
+<td>Relays for appliances, cars, industry and grid</td>
+<td>Yes: 15%+ every year since 2016; scale and OEM qualification (pre 2012 is a shell)</td>
+<td>S</td>
+</tr>
+<tr>
+<td class="num">61</td>
+<td>Sany Heavy Industry</td>
+<td>600031.SS</td>
+<td class="num">15.9</td>
+<td class="num">19.3</td>
+<td class="num">74.0</td>
+<td>Excavators, concrete machinery, cranes</td>
+<td>Partly: 23 to 56% to 2012, 0.6% in 2015, 7 to 11% since 2022</td>
+<td>C</td>
+</tr>
+<tr>
+<td class="num">62</td>
+<td>Shanghai Vital Deeptech</td>
+<td>600641.SS</td>
+<td class="num">15.9</td>
+<td class="num">19.2</td>
+<td class="num">81.8</td>
+<td>Bismuth materials and ion implanters; former property developer</td>
+<td>No: 9.3% average, negative in 2025; theme rerating after a change of control</td>
+<td>S</td>
+</tr>
+<tr>
+<td class="num">63</td>
+<td>COSCO Shipping Holdings</td>
+<td>1919.HK</td>
+<td class="num">15.6</td>
+<td class="num">18.1</td>
+<td class="num">94.9</td>
+<td>Container shipping (COSCO, OOCL) and terminals</td>
+<td>No: freight cycle, minus 42% in 2016, 101% in 2021</td>
+<td>C</td>
+</tr>
+<tr>
+<td class="num">64</td>
+<td>CCID Consulting</td>
+<td>2176.HK</td>
+<td class="num">15.5</td>
+<td class="num">18.0</td>
+<td class="num">83.2</td>
+<td>Government and industrial park consulting (MIIT affiliate)</td>
+<td>Partly: 26% average since 2016, flattered by shrinking equity and high payout</td>
+<td>C I P</td>
+</tr>
+<tr>
+<td class="num">65</td>
+<td>Shandong Gold Mining</td>
+<td>600547.SS</td>
+<td class="num">15.5</td>
+<td class="num">17.9</td>
+<td class="num">76.8</td>
+<td>China's largest gold producer</td>
+<td>No: 1 of 10 years at 15%+ since 2016; 2013 group asset injection</td>
+<td>S</td>
+</tr>
+<tr>
+<td class="num">66</td>
+<td>Zhejiang Weixing</td>
+<td>002003.SZ</td>
+<td class="num">15.5</td>
+<td class="num">17.8</td>
+<td class="num">71.2</td>
+<td>Zippers and buttons for apparel brands</td>
+<td>Partly: 10 to 24%, never below 10; steady niche, not exceptional</td>
+<td></td>
+</tr>
+<tr>
+<td class="num">67</td>
+<td>Beijing Enterprises Water</td>
+<td>0371.HK</td>
+<td class="num">15.4</td>
+<td class="num">17.4</td>
+<td class="num">82.1</td>
+<td>Municipal water and sewage concessions</td>
+<td>Partly: 18 to 20% in the 2016 to 2019 build boom, 5% in 2025; debt funded</td>
+<td>S P</td>
+</tr>
+<tr>
+<td class="num">68</td>
+<td>Zhejiang Dong Ri</td>
+<td>600113.SS</td>
+<td class="num">15.4</td>
+<td class="num">17.4</td>
+<td class="num">74.8</td>
+<td>Agricultural wholesale markets and goods trading</td>
+<td>No: mostly under 11% since 2019; 2021 spike is a one off gain</td>
+<td>I</td>
+</tr>
+<tr>
+<td class="num">69</td>
+<td>Guangdong HEC Technology</td>
+<td>600673.SS</td>
+<td class="num">15.3</td>
+<td class="num">17.3</td>
+<td class="num">85.0</td>
+<td>Aluminium foil, fluorochemicals, electronic parts</td>
+<td>No: 15%+ only in the 2017 to 2019 flu drug boom; loss in 2023</td>
+<td>S I</td>
+</tr>
+<tr>
+<td class="num">70</td>
+<td>Brilliance China</td>
+<td>1114.HK</td>
+<td class="num">15.2</td>
+<td class="num">17.0</td>
+<td class="num">89.7</td>
+<td>Share of the BMW Brilliance joint venture</td>
+<td>Partly: 17 to 36% from the JV in 2010 to 2019; about 8% after BMW took control in 2022</td>
+<td>I P V</td>
+</tr>
+<tr>
+<td class="num">71</td>
+<td>PICC Property and Casualty</td>
+<td>2328.HK</td>
+<td class="num">15.2</td>
+<td class="num">17.0</td>
+<td class="num">89.4</td>
+<td>China's largest non life insurer</td>
+<td>Partly: 20 to 26% in 2010 to 2015, 11 to 16% since; scale and licence</td>
+<td></td>
+</tr>
+<tr>
+<td class="num">72</td>
+<td>Chongqing Fuling Electric</td>
+<td>600452.SS</td>
+<td class="num">15.2</td>
+<td class="num">16.9</td>
+<td class="num">72.3</td>
+<td>Local power supply and grid energy saving services</td>
+<td>Partly: 20 to 27% after a 2016 asset injection with high leverage; 7.2% in 2025</td>
+<td>S</td>
+</tr>
+<tr>
+<td class="num">73</td>
+<td>Yankuang Energy</td>
+<td>1171.HK</td>
+<td class="num">15.1</td>
+<td class="num">16.7</td>
+<td class="num">90.2</td>
+<td>Coal mining in China and Australia</td>
+<td>No: 0.4% in 2015, 33.8% in 2022; coal price cycle</td>
+<td>V</td>
+</tr>
+<tr>
+<td class="num">74</td>
+<td>Xinyi Glass</td>
+<td>0868.HK</td>
+<td class="num">15.1</td>
+<td class="num">16.7</td>
+<td class="num">84.0</td>
+<td>Float, auto and architectural glass</td>
+<td>Partly: 8 of 10 years at 15%+, but fell from 37% (2021) to 7.7% on glass prices</td>
+<td></td>
+</tr>
+<tr>
+<td class="num">75</td>
+<td>Keda Industrial</td>
+<td>600499.SS</td>
+<td class="num">15.1</td>
+<td class="num">16.7</td>
+<td class="num">74.5</td>
+<td>Ceramic machinery, African building materials, lithium stake</td>
+<td>No: 46.7% peak in 2022 from lithium stake income; loss in 2018</td>
+<td>I</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Ranks 76 to 100</strong></p>
+<div class="scroll"><table>
+<thead>
+<tr>
+<th>#</th>
+<th>Company</th>
+<th>Listing</th>
+<th>CAGR %</th>
+<th>TR x</th>
+<th>Max DD %</th>
+<th>Core business</th>
+<th>ROE verdict and reason</th>
+<th>Flags</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="num">76</td>
+<td>Zhejiang Longsheng</td>
+<td>600352.SS</td>
+<td class="num">15.1</td>
+<td class="num">16.6</td>
+<td class="num">75.0</td>
+<td>Dyes and intermediates</td>
+<td>Partly: 12 to 26% to 2019, 5 to 6% since 2023 as margins fell</td>
+<td></td>
+</tr>
+<tr>
+<td class="num">77</td>
+<td>Great Wall Motor</td>
+<td>2333.HK</td>
+<td class="num">15.1</td>
+<td class="num">16.6</td>
+<td class="num">90.5</td>
+<td>Haval SUVs, pickups, new energy vehicles</td>
+<td>Partly: 22 to 33% in the 2010 to 2016 SUV boom, 8 to 13% since</td>
+<td>V</td>
+</tr>
+<tr>
+<td class="num">78</td>
+<td>Han's Laser</td>
+<td>002008.SZ</td>
+<td class="num">15.0</td>
+<td class="num">16.4</td>
+<td class="num">76.3</td>
+<td>Laser and PCB processing equipment</td>
+<td>No: capex cycle, 5.6 to 7.5% in weak years; 2024 one off gain</td>
+<td></td>
+</tr>
+<tr>
+<td class="num">79</td>
+<td>Supor</td>
+<td>002032.SZ</td>
+<td class="num">15.0</td>
+<td class="num">16.4</td>
+<td class="num">66.8</td>
+<td>Cookware and small kitchen appliances (SEB owned)</td>
+<td>Yes: 15%+ every year since 2016, up to 37%; brand and near full payout</td>
+<td></td>
+</tr>
+<tr>
+<td class="num">80</td>
+<td>Grinm Advanced Materials</td>
+<td>600206.SS</td>
+<td class="num">14.9</td>
+<td class="num">16.1</td>
+<td class="num">77.1</td>
+<td>Sputtering targets, rare earth materials, PGM trading</td>
+<td>No: never above 9.6%; a tiny profit base rerated</td>
+<td></td>
+</tr>
+<tr>
+<td class="num">81</td>
+<td>Hualu-Hengsheng Chemical</td>
+<td>600426.SS</td>
+<td class="num">14.9</td>
+<td class="num">16.1</td>
+<td class="num">79.2</td>
+<td>Coal based chemicals, fertiliser, acetic acid</td>
+<td>Partly: cost leader, but 28 to 39% only at price peaks; 10% in 2025</td>
+<td></td>
+</tr>
+<tr>
+<td class="num">82</td>
+<td>HUAYU Automotive</td>
+<td>600741.SS</td>
+<td class="num">14.9</td>
+<td class="num">16.0</td>
+<td class="num">79.8</td>
+<td>SAIC's parts arm: interiors and exteriors</td>
+<td>Partly: 17 to 21% in 2010 to 2018, 11 to 14% since; built on a 2008 SAIC injection</td>
+<td>S</td>
+</tr>
+<tr>
+<td class="num">83</td>
+<td>Shanghai Baosight</td>
+<td>600845.SS</td>
+<td class="num">14.8</td>
+<td class="num">15.9</td>
+<td class="num">74.0</td>
+<td>Industrial software and data centres for the Baosteel group</td>
+<td>Partly: 18 to 25% in good years, 6.6% in 2017; group dependent</td>
+<td>C</td>
+</tr>
+<tr>
+<td class="num">84</td>
+<td>Dehua TB</td>
+<td>002043.SZ</td>
+<td class="num">14.7</td>
+<td class="num">15.6</td>
+<td class="num">69.4</td>
+<td>Decoration boards and brand licensing</td>
+<td>Partly: 17 to 38% since 2016 but 3 to 9% before; 2025 helped by fair value gains</td>
+<td></td>
+</tr>
+<tr>
+<td class="num">85</td>
+<td>Zhejiang Shibao</td>
+<td>1057.HK</td>
+<td class="num">14.7</td>
+<td class="num">15.4</td>
+<td class="num">88.6</td>
+<td>Automotive steering gears</td>
+<td>No: under 15% every year since 2012 (2.4% average since 2016)</td>
+<td></td>
+</tr>
+<tr>
+<td class="num">86</td>
+<td>Inner Mongolia Yili</td>
+<td>600887.SS</td>
+<td class="num">14.6</td>
+<td class="num">15.3</td>
+<td class="num">78.6</td>
+<td>Liquid milk, milk powder, ice cream</td>
+<td>Yes: 15%+ every year since 2009 after the 2008 melamine loss; national brand</td>
+<td></td>
+</tr>
+<tr>
+<td class="num">87</td>
+<td>Wanhua Chemical</td>
+<td>600309.SS</td>
+<td class="num">14.6</td>
+<td class="num">15.1</td>
+<td class="num">81.3</td>
+<td>MDI and TDI polyurethanes, petrochemicals</td>
+<td>Yes: 14.7 to 50.7% through 2023 on an MDI oligopoly; 12.4% in 2025 as prices fell</td>
+<td></td>
+</tr>
+<tr>
+<td class="num">88</td>
+<td>Triumph Science &amp; Technology</td>
+<td>600552.SS</td>
+<td class="num">14.5</td>
+<td class="num">15.0</td>
+<td class="num">83.1</td>
+<td>Display glass, ITO and ultra thin glass</td>
+<td>No: under 10% every year since 2014</td>
+<td>I</td>
+</tr>
+<tr>
+<td class="num">89</td>
+<td>Hisense Home Appliances</td>
+<td>000921.SZ</td>
+<td class="num">14.4</td>
+<td class="num">14.8</td>
+<td class="num">76.5</td>
+<td>Air conditioning, refrigerators, washers (former Kelon)</td>
+<td>Partly: 10 to 35% since 2014 on 70% leverage; negative equity before 2010</td>
+<td>S</td>
+</tr>
+<tr>
+<td class="num">90</td>
+<td>NBTM New Materials</td>
+<td>600114.SS</td>
+<td class="num">14.4</td>
+<td class="num">14.7</td>
+<td class="num">70.1</td>
+<td>Powder metallurgy and metal injection moulded parts</td>
+<td>No: 15%+ only in 2025; theme rerating</td>
+<td></td>
+</tr>
+<tr>
+<td class="num">91</td>
+<td>Haohua Chemical</td>
+<td>600378.SS</td>
+<td class="num">14.2</td>
+<td class="num">14.1</td>
+<td class="num">83.5</td>
+<td>Fluorine materials and specialty chemicals</td>
+<td>No: about 10% average; 2018 group asset injection</td>
+<td>S L</td>
+</tr>
+<tr>
+<td class="num">92</td>
+<td>AVIC Aviation High-Tech</td>
+<td>600862.SS</td>
+<td class="num">14.1</td>
+<td class="num">14.0</td>
+<td class="num">88.6</td>
+<td>Carbon fibre prepreg and aviation composites</td>
+<td>Partly: 13 to 18% since 2021; restructured from near zero equity</td>
+<td>S I</td>
+</tr>
+<tr>
+<td class="num">93</td>
+<td>Sichuan Road &amp; Bridge</td>
+<td>600039.SS</td>
+<td class="num">14.1</td>
+<td class="num">13.9</td>
+<td class="num">69.7</td>
+<td>Road, bridge and tunnel construction</td>
+<td>Partly: 15 to 27% in 2020 to 2024 on 80%+ leverage</td>
+<td>V</td>
+</tr>
+<tr>
+<td class="num">94</td>
+<td>CGN Mining</td>
+<td>1164.HK</td>
+<td class="num">14.1</td>
+<td class="num">13.9</td>
+<td class="num">85.8</td>
+<td>Uranium trading and stakes in uranium assets</td>
+<td>No: swings with uranium prices; penny era return</td>
+<td>P</td>
+</tr>
+<tr>
+<td class="num">95</td>
+<td>Hisense Visual</td>
+<td>600060.SS</td>
+<td class="num">14.0</td>
+<td class="num">13.8</td>
+<td class="num">77.9</td>
+<td>Televisions and displays</td>
+<td>No: under 15% every year since 2014</td>
+<td></td>
+</tr>
+<tr>
+<td class="num">96</td>
+<td>Zijin Longking</td>
+<td>600388.SS</td>
+<td class="num">14.0</td>
+<td class="num">13.8</td>
+<td class="num">72.3</td>
+<td>Dust removal and flue gas equipment, energy storage</td>
+<td>Partly: 15 to 17% in 2013 to 2019 on 70% leverage, 7 to 13% since</td>
+<td></td>
+</tr>
+<tr>
+<td class="num">97</td>
+<td>TBEA</td>
+<td>600089.SS</td>
+<td class="num">14.0</td>
+<td class="num">13.7</td>
+<td class="num">71.4</td>
+<td>Transformers, cables, coal, polysilicon (Xinte)</td>
+<td>No: peaks only from polysilicon and coal spikes; 6 to 10% otherwise</td>
+<td></td>
+</tr>
+<tr>
+<td class="num">98</td>
+<td>Lao Feng Xiang</td>
+<td>600612.SS</td>
+<td class="num">14.0</td>
+<td class="num">13.6</td>
+<td class="num">77.9</td>
+<td>Gold jewellery brand sold through franchisees</td>
+<td>Yes: 15%+ in 9 of 10 years; brand and turnover; 13.6% in 2025</td>
+<td></td>
+</tr>
+<tr>
+<td class="num">99</td>
+<td>Ningbo Joyson</td>
+<td>600699.SS</td>
+<td class="num">13.9</td>
+<td class="num">13.6</td>
+<td class="num">77.3</td>
+<td>Airbags, steering wheels, auto electronics</td>
+<td>No: 2011 backdoor listing into a bankrupt shell; 3 to 10% since 2016</td>
+<td>S I</td>
+</tr>
+<tr>
+<td class="num">100</td>
+<td>Guangdong Fenghua</td>
+<td>000636.SZ</td>
+<td class="num">13.9</td>
+<td class="num">13.6</td>
+<td class="num">84.3</td>
+<td>MLCCs, chip resistors and other passive components</td>
+<td>No: 15%+ only in 2018; 6.5% average since 2016</td>
+<td>L</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Tally: 18 yes, 44 partly, 38 no.</strong> The 18 with sustained ROE are Tencent, Gree, Moutai, Sanhua, NetEase, Gujing, Pien Tze Huang, Fuyao, Fenjiu, NARI, Shenzhou, Haier, Essex, Hongfa, Supor, Yili, Wanhua and Lao Feng Xiang. Twenty four rows carry the S flag, and for those the 20 year CAGR mixes a depressed shell starting price with an injected business, so it is not evidence of a high return franchise.</p>
+</section>
+<section id="s3"><h2 id="no-chinese-stock-compounded-at-12-without-falling-by-half">No Chinese stock compounded at 12% without falling by half</h2>
+<p><strong>The A share screen found 132 stocks at 12% or more a year and the Hong Kong and US screen 33; in neither did a single stock have a maximum drawdown shallower than 50%, none was shallower than 30%, and none combined four or fewer negative years with a straight line price path (R squared of 0.85 or more).</strong> The shallowest whole window drawdowns among the 12% compounders were Grandblue Environment (54.7%), China Yangtze Power (55.6%), Yunnan Baiyao (56.1%), NetEase (57.3%) and NARI (57.6%); an independent drawdown check on Sina adjusted prices moved no figure by 5 points or more (<a href="https://query1.finance.yahoo.com/v8/finance/chart/600519.SS?period1=1160006400&amp;interval=1d&amp;events=div,split">Yahoo chart API</a>; <a href="https://finance.sina.com.cn/realstock/company/sh600516/qfq.js">Sina factors</a>). For scale, the CSI 300 total return index fell 72.0% and had nine negative years (<a href="https://www.csindex.com.cn/csindex-home/perf/index-perf?indexCode=H00300&amp;startDate=20061020&amp;endDate=20261021">csindex CSI 300 TR</a>).</p>
+<p>Holding up in one selloff was common; holding up in all four was not. In the 2021 to 2024 discount phase PICC Property and Casualty fell only 22%, Sichuan Chuantou 28%, Zhejiang Weixing 31% and the gold miners 32% to 34%, but PICC had fallen 89% in 2008. In 2007 to 2008 Hengrui fell 39%, NetEase 42% and Tencent 47%, yet Hengrui fell 71% and Tencent 73% in 2021 to 2024. Across an 18 stock shortlist of the closest candidates, the share that fell less than their benchmark dropped from <strong>13 of 17 in 2007 to 2008 to 5 of 17 in 2015 to 2016, 3 of 18 in 2018 and 2 of 18 in 2021 to 2024</strong>: the best businesses had a valuation cushion in the 2008 bubble, then lost it as their own multiples became the thing the market sold (<a href="https://query1.finance.yahoo.com/v8/finance/chart/600519.SS?period1=1160006400&amp;interval=1d&amp;events=div,split">Yahoo chart API</a>; <a href="https://www.csindex.com.cn/csindex-home/perf/index-perf?indexCode=H00300&amp;startDate=20061020&amp;endDate=20261021">csindex CSI 300 TR</a>).</p>
+<p>The closest candidates, with their record:</p>
+<div class="scroll"><table>
+<thead>
+<tr>
+<th>Company</th>
+<th>CAGR %</th>
+<th>Max DD %</th>
+<th>R squared</th>
+<th>Negative years (of 19)</th>
+<th>Windows shallower than benchmark</th>
+<th>Avg ROE 2006 to 2025 %</th>
+<th>P/E start to end</th>
+<th>Share of return from EPS growth</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>NetEase</td>
+<td class="num">21.4</td>
+<td class="num">57.3</td>
+<td class="num">0.95</td>
+<td class="num">5</td>
+<td>3 of 4</td>
+<td class="num">27.2</td>
+<td>13.9 to 15.8</td>
+<td class="num">86%</td>
+</tr>
+<tr>
+<td>NARI Technology</td>
+<td class="num">16.9</td>
+<td class="num">57.6</td>
+<td class="num">0.84</td>
+<td class="num">6</td>
+<td>2 of 4</td>
+<td class="num">19.3</td>
+<td>43.0 to 22.1</td>
+<td class="num">113%</td>
+</tr>
+<tr>
+<td>Kweichow Moutai</td>
+<td class="num">21.8</td>
+<td class="num">62.5</td>
+<td class="num">0.90</td>
+<td class="num">6</td>
+<td>2 of 4</td>
+<td class="num">33.6</td>
+<td>30.3 to 20.3</td>
+<td class="num">101%</td>
+</tr>
+<tr>
+<td>Gree Electric</td>
+<td class="num">24.0</td>
+<td class="num">65.0</td>
+<td class="num">0.89</td>
+<td class="num">8</td>
+<td>1 of 4</td>
+<td class="num">29.2</td>
+<td>9.6 to 7.4</td>
+<td>86% (dividends 20%)</td>
+</tr>
+<tr>
+<td>Jiangsu Hengrui</td>
+<td class="num">20.8</td>
+<td class="num">71.0</td>
+<td class="num">0.89</td>
+<td class="num">5</td>
+<td>2 of 4</td>
+<td class="num">20.8</td>
+<td>34.8 to 39.9</td>
+<td class="num">95%</td>
+</tr>
+<tr>
+<td>Tencent</td>
+<td class="num">27.6</td>
+<td class="num">72.8</td>
+<td class="num">0.88</td>
+<td class="num">6</td>
+<td>2 of 4</td>
+<td class="num">32.0</td>
+<td>28.7 to 14.1</td>
+<td class="num">109%</td>
+</tr>
+<tr>
+<td>Inner Mongolia Yili</td>
+<td class="num">14.6</td>
+<td class="num">78.6</td>
+<td class="num">0.86</td>
+<td class="num">5</td>
+<td>1 of 4</td>
+<td class="num">18.2</td>
+<td>31.9 to 15.3</td>
+<td>111% (dividends 15%)</td>
+</tr>
+<tr>
+<td>Grandblue Environment (outside top 100)</td>
+<td class="num">13.5</td>
+<td class="num">54.7</td>
+<td class="num">0.89</td>
+<td class="num">7</td>
+<td>1 of 4</td>
+<td class="num">13.6</td>
+<td>18.8 to 12.7</td>
+<td class="num">104%</td>
+</tr>
+<tr>
+<td>China Yangtze Power (outside top 100)</td>
+<td class="num">13.6</td>
+<td>55.6, understated</td>
+<td class="num">0.87</td>
+<td class="num">8</td>
+<td>2 of 2 observable</td>
+<td class="num">14.2</td>
+<td>15.3 to 21.1</td>
+<td>61% (dividends 26%)</td>
+</tr>
+</tbody>
+</table></div>
+<p>Sources: price metrics from the screens (<a href="https://query1.finance.yahoo.com/v8/finance/chart/600519.SS?period1=1160006400&amp;interval=1d&amp;events=div,split">Yahoo chart API</a>); ROE and EPS from Sina, Eastmoney and SEC filings (<a href="https://datacenter.eastmoney.com/securities/api/data/v1/get?reportName=RPT_F10_FINANCE_MAINFINADATA&amp;columns=ALL&amp;filter=%28SECUCODE=%22600519.SH%22%29%28REPORT_TYPE=%22%E5%B9%B4%E6%8A%A5%22%29">Eastmoney annual indicators</a>; <a href="https://data.sec.gov/api/xbrl/companyfacts/CIK0001110646.json">SEC XBRL, NetEase</a>). EPS shares above 100% mean the P/E fell; the columns of the full decomposition sum to about 100%.</p>
+<p>Three things distinguished this group. <strong>They had durable ROE</strong> (Moutai never below 24.4%, Gree never below 18.9%, Tencent never below 15.1%, NetEase below 15% once, NARI never below 13.2%) with low debt or a captive customer. <strong>Their profits kept rising through the selloffs</strong>, so each fall was a multiple fall: Moutai's profit rose 34%, 1%, 30% and 60% across the four windows while its implied P/E fell 72%, 31%, 49% and 67%. <strong>And they recovered quickly</strong>: Gree regained its prior peak 12, 14, 3 and 29 months after each trough, against 79 months for the CSI 300 total return index after 2008, 53 months after 2015, and no recovery yet of its 2021 peak. Part of that speed is built in, because a list of survivors with 12% CAGR excludes the stocks that never came back. The record also decays: Hengrui was the one clear defensive name through 2016 (39% and 25% falls against the index's 72% and 46%), but its ROE dropped to 11% to 15% after 2020 under drug procurement price cuts and it fell 71% from its 2020 peak without recovering. Grandblue's shallow 2008 fall (46%) was not repeated in 2015 (55%), so it is not a stable defensive profile.</p>
+<p><strong>China Yangtze Power needs a specific warning.</strong> Its 55.6% maximum drawdown looks like the second shallowest in China, and in the two windows when it traded normally it was genuinely defensive (16% against the index's 30% in 2018, and 18% against 42% in 2021 to 2024). But it was suspended for restructuring from 8 May 2008 until it reopened on 18 May 2009, and from 12 June 2015 until 16 November 2015, through the worst of both crashes (<a href="http://static.cninfo.com.cn/finalpage/2008-05-09/39553218.PDF">cninfo, May 2008</a>; <a href="http://static.cninfo.com.cn/finalpage/2015-06-13/1201145841.PDF">cninfo, June 2015</a>; <a href="http://static.cninfo.com.cn/finalpage/2015-11-14/1201772181.PDF">cninfo, November 2015</a>). It reopened 2% higher in 2009 while the CSI 300 had fallen 27% over the same dates and traded utility peers had fallen between 29% and 70% from that starting date at their lows. Before the 2008 freeze it had fallen 34%, in line with the index. Its true drawdown in 2008 and 2015 is unobserved, so its apparent resilience in those years came from illiquidity, not from the business.</p>
+</section>
+<section id="s4"><h2 id="earnings-rose-up-to-205-times-while-valuation-multiples-fell">Earnings rose up to 205 times while valuation multiples fell</h2>
+<p>For the 16 shortlisted companies with positive 2006 earnings, <strong>per share earnings growth explains a median of about 95% of the log total return, the change in P/E a small negative (median ratio 0.93, eight fell and eight rose) and dividends about 7% to 8%</strong> (<a href="https://datacenter.eastmoney.com/securities/api/data/v1/get?reportName=RPT_F10_FINANCE_MAINFINADATA&amp;columns=ALL&amp;filter=%28SECUCODE=%22600519.SH%22%29%28REPORT_TYPE=%22%E5%B9%B4%E6%8A%A5%22%29">Eastmoney annual indicators</a>; <a href="https://datacenter.eastmoney.com/securities/api/data/v1/get?reportName=RPT_F10_EH_EQUITY&amp;columns=ALL&amp;filter=%28SECUCODE=%22600276.SH%22%29">Eastmoney share capital history</a>). Tencent, Zhejiang NHU, IEIT Systems, NARI, Yili, Gree, Moutai and Grandblue all derated by 20% to 80% while earnings per share rose 14 to 205 times: Tencent's P/E fell from 28.7 to 14.1 as EPS rose 205 times in local currency, Moutai's from 30.3 to 20.3 as EPS rose 53 times. A rising multiple did visible work only for Fudan Microelectronics (P/E 8.5 to 72, on a depressed 2025 profit, about 46% of its return), China Jushi, Sanhua, Sieyuan and Yangtze Power. Inside the selloffs the pattern is starker: across 66 company windows with positive profits, <strong>profit rose in 55 and the implied P/E fell in 65</strong>.</p>
+<p>This is the most useful finding for the "China discount" question. The winners did not escape the derating; they outgrew it. The flip side is dilution, which Citi and others blame for the market's weak per share record: Yangtze Power's profit rose 9.5 times but EPS only 4.8 times, NARI's 72 times against 33 times, Sanhua's 88 times against 22 times, because shares were issued for acquisitions (<a href="https://datacenter.eastmoney.com/securities/api/data/v1/get?reportName=RPT_F10_EH_EQUITY&amp;columns=ALL&amp;filter=%28SECUCODE=%22600276.SH%22%29">Eastmoney share capital history</a>). The size of the market wide derating over exactly this window cannot be pinned down, because no index P/E for October 2006 was found; the CSI 300 traded on about 13 times trailing earnings in October 2026 (<a href="https://danjuanfunds.com/djapi/index_eva/pe_history/SH000300?day=all">Danjuan CSI 300 P/E</a>), and the Shanghai Composite was near 70 times at the 2007 peak (<a href="https://siblisresearch.com/data/China-shanghai-pe-cape-ratio/">Siblis Research</a>).</p>
+</section>
+<section id="s5"><h2 id="durable-roe-needed-pricing-power-a-captive-buyer-or-light-assets">Durable ROE needed pricing power, a captive buyer or light assets</h2>
+<p>Sustained high ROE is rare in China: only 0.6% of A shares kept ROE above 15% in every year from 2010 to 2023, and one count found just 12 companies listed before 2013 with ten straight years above 15% to 2023 (<a href="https://finance.sina.com.cn/roll/2024-07-31/doc-incfysvm9263286.shtml">Sina, Guosen quant team</a>; <a href="https://www.stcn.com/article/detail/1166747.html">STCN data team</a>). The 18 "yes" names share one of four traits: <strong>brand pricing power</strong> with low capital needs (Moutai, Fenjiu, Gujing, Pien Tze Huang, Yili, Supor, Lao Feng Xiang, Gree, Haier), <strong>a platform or IP franchise</strong> (Tencent, NetEase), <strong>scale embedded in customers' products</strong> (Sanhua, Fuyao, Shenzhou, Hongfa, Essex, Wanhua's MDI oligopoly), or <strong>a captive buyer</strong> (NARI and State Grid). Payout matters too: Moutai paid 79% of 2025 profit and Supor almost all of it, which keeps the equity base small and the ROE high. Even here the moat is not permanent: Wanhua (12.4%) and Lao Feng Xiang (13.6%) dropped below 15% in 2025, and Pien Tze Huang slipped to 14.8% on raw material costs.</p>
+<p>The 82 names without fully sustained ROE failed for five repeatable reasons. <strong>Policy price cuts</strong> ended the pharma runs: Hengrui won national procurement tenders at average generic price cuts of 74.5% (<a href="https://www.lanjinger.com/d/208210">Lanjinger</a>), and Changchun High-Tech's ROE fell from 22.6% in 2023 to 0.7% in 2025 after reimbursement listing of its long acting growth hormone; CSPC, Sino Biopharm, Huadong and Grand Pharma show the same break. <strong>Commodity and freight cycles</strong> drove rare earths, gold, coal, lithium, polysilicon and shipping, where COSCO Shipping's ROE swung from minus 42% in 2016 to 101% in 2021 (<a href="https://datacenter.eastmoney.com/securities/api/data/v1/get?reportName=RPT_HKF10_FN_MAININDICATOR&amp;columns=ALL&amp;filter=%28SECURITY_CODE=%2201919%22%29%28DATE_TYPE_CODE=%22001%22%29">Eastmoney HK indicators, COSCO</a>). <strong>Thin margin scale businesses</strong> such as IEIT Systems (1.5% net margin) and the cable makers grew profits from tiny bases at low ROE. <strong>Leverage</strong> carried Sichuan Road &amp; Bridge (80% plus debt to assets) and Hisense Home Appliances. And <strong>shells and injections</strong> account for 24 names, from Zangge (a ceramics shell that bought a potash mine) to AVIC Shenyang (a pickup truck maker that received the fighter aircraft business) and Ningbo Joyson (a bankrupt shell).</p>
+<p>The ROE evidence is thinner than the tables imply. Every figure comes from Sina or Eastmoney aggregator pages, not annual report PDFs; Sina shows no FY2016 value for any company, so that year uses Eastmoney; Eastmoney carries restated figures that can differ sharply from first published ones (Wanhua's 2017 ROE is 50.7% first published and 85.9% restated after a group asset absorption); and Hong Kong ROE uses a different definition from A share weighted ROE. <strong>Several early ROE figures belong to predecessor shell companies</strong> (Zangge, AVIC Shenyang, Hengli, Chifeng, Glarun, Hongfa, Joyson) or sit on near zero or negative equity (Grand Pharma's 308% in 2007, Hisense Home Appliances' 293% in 2010), and should not be read as the record of the business owned today. Breaks can also come from accounting: Wuliangye, which ranks just outside this list at 13.4% a year, restated its 2025 quarters and reported a 6.89% ROE after revenue fell 54.6%, partly because of a new revenue recognition basis (<a href="http://static.cninfo.com.cn/finalpage/2026-04-30/1225273091.PDF">Wuliangye 2025 annual report, cninfo</a>).</p>
+</section>
+<section id="s6"><h2 id="conclusion">Conclusion</h2>
+<p>Over these 20 years the price of a 14% to 28% annual return in Chinese equities was at least one fall of 57% or more, with no exceptions in either market. The usual intuition that quality protects capital in a selloff held in 2008 and then broke down: by 2018 and 2021 to 2024 the market was selling the multiples of exactly the companies that had earned them. <strong>Durable ROE predicted how fast a stock came back, not how far it fell.</strong> For anyone using this list, that changes the question from "which Chinese stocks are safe" to "which earnings streams will keep compounding through the next derating", because a rising multiple did almost none of the work for the best names.</p>
+<p>The list is also less of a quality roster than its ranks suggest. Only 18 names combine a top 100 return with sustained ROE; the rest owe their place to commodity spikes, policy protected boom years that have since ended, or the arithmetic of buying a near worthless shell before an asset injection. The forward risks visible in the 2025 data, namely drug procurement cuts, a baijiu demand adjustment, property linked appliance weakness and lower metal prices, all hit the same sources of ROE that carried the winners. Read as a survivor list with soft ranks near the cutoff, it is evidence about what kinds of Chinese businesses compound, not a shortlist of what to buy.</p></section>
+<footer>
+  <div>Research report produced by a coordinated deep research run: parallel research tracks on price data and web sources, synthesised by a report writer. Returns were computed from daily price histories; ROE and business facts come from cited aggregators and filings. This is analysis, not investment advice.</div>
+</footer>
+</div>
